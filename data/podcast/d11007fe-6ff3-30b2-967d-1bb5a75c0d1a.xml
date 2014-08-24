@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:31:23 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Last-Modified" value="Tue, 21 Apr 2009 00:02:16 GMT"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Length" value="4941"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="application/xml"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Homeopathy for Pregnancy and Childbirth</title>
+                <description>In this Homeopathy radio show you will discover safe, gentle and effective homeopathic remedies that can relieve and avert common complaints experienced during pregnancy, benefiting both mother and baby before, during and after childbirth.&lt;br /&gt;
+&lt;br /&gt;
+Homeopaths will share their insights on how to use common homeopathic remedies for different phases of pregnancy: morning sickness to more complex issues that can arise during pregnancy. You’ll find out how an experienced homeopath and a well-chosen remedy can restore health and harmony easily and inexpensively.</description>
+                <link>http://www.innerhealth.us/downloads/Radio/09/Homeopathy-Pregnancy-Childbirth.mp3</link>
+                <copyright>Inner Health, Inc. 2009</copyright>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <language> en-us</language>
+                <lastBuildDate>Mon, 20 Apr 2009 20:02:15 -0400</lastBuildDate>
+                <pubDate>Mon, 20 Apr 2009 20:01:15 -0400</pubDate>
+                <generator>FeedForAll v2.0 (2.0.2.9) unlicensed version http://www.feedforall.com</generator>
+                <itunes:subtitle>Homeopathy for Pregnancy and Childbirth</itunes:subtitle>
+                <itunes:summary>In this Homeopathy radio show you will discover safe, gentle and effective homeopathic remedies that can relieve and avert common complaints experienced during pregnancy, benefiting both mother and baby before, during and after childbirth. Homeopaths will share their insights on how to use common homeopathic remedies for different phases of pregnancy: morning sickness to more complex issues that can arise during pregnancy. You’ll find out how an experienced homeopath and a well-chosen remedy can restore health and harmony easily and inexpensively.</itunes:summary>
+                <itunes:author>www.HomeopathyRadio.com</itunes:author>
+                <itunes:owner>
+                    <itunes:name>Melissa Burch</itunes:name>
+                    <itunes:email>melissa@innerhealth.us</itunes:email>
+                </itunes:owner>
+                <itunes:category text="Health"/>
+                <itunes:category text="Education"/>
+                <itunes:category text="Kids &amp; Family"/>
+                <itunes:keywords>homeopathy, pregnancy, childbirth, homeopath, homeopaths, homeopathic remedies, homeopathy pregnancy, homeopathy childbirth</itunes:keywords>
+                <itunes:image href="http://www.innerhealth.us/downloads/Radio/homeopathyradio.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <item>
+                    <title>Homeopathy for Pregnancy and Childbirth Radio Show</title>
+                    <description>In this Homeopathy radio show you will discover safe, gentle and effective homeopathic remedies that can relieve and avert common complaints experienced during pregnancy, benefiting both mother and baby before, during and after childbirth. Homeopaths will share their insights on how to use common homeopathic remedies for different phases of pregnancy: morning sickness to more complex issues that can arise during pregnancy. You’ll find out how an experienced homeopath and a well-chosen remedy can restore health and harmony easily and inexpensively.</description>
+                    <link>http://www.innerhealth.us/downloads/Radio/09/Homeopathy-Pregnancy-Childbirth.mp3</link>
+                    <enclosure url="http://www.innerhealth.us/downloads/Radio/09/Homeopathy-Pregnancy-Childbirth.mp3" length="4500700" type="audio/mpeg"/>
+                    <guid isPermaLink="false">4C644D1B-2918-4681-A54C-FEF49F2B8BE5</guid>
+                    <pubDate>Mon, 20 Apr 2009 20:01:15 -0400</pubDate>
+                    <itunes:subtitle>Homeopathy for Pregnancy and Childbirth</itunes:subtitle>
+                    <itunes:summary>In this Homeopathy radio show you will discover safe, gentle and effective homeopathic remedies that can relieve and avert common complaints experienced during pregnancy, benefiting both mother and baby before, during and after childbirth. Homeopaths will share their insights on how to use common homeopathic remedies for different phases of pregnancy: morning sickness to more complex issues that can arise during pregnancy. You’ll find out how an experienced homeopath and a well-chosen remedy can restore health and harmony easily and inexpensively.</itunes:summary>
+                    <itunes:duration>00:49:57</itunes:duration>
+                    <itunes:author>www.HomeopathyRadio.com</itunes:author>
+                    <itunes:keywords>homeopathy, pregnancy, childbirth, homeopath, homeopaths, homeopathic remedies, homeopathy pregnancy, homeopathy childbirth</itunes:keywords>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="x-amz-id-2" value="7r/3K+W9H59cSl1sMmfqkZ7BI/jUlO++r9h/f/eNZ8HNtl9sA0Ab7ACrgaGSCmTOaDgp1LwFDx0="/>
+        <httpclient:header name="x-amz-request-id" value="8C38CAD12C0163A9"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:27:21 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 31 Oct 2012 19:19:56 GMT"/>
+        <httpclient:header name="ETag" value="&#34;4940765ee32c4e64794e30aa91ab01ab&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Type" value="text/plain"/>
+        <httpclient:header name="Content-Length" value="20876"/>
+        <httpclient:header name="Server" value="AmazonS3"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/plain" type="xml">
+        <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:microblog="http://microblog.reallysimple.org/" version="2.0">
+            <channel>
+                <title>The Big Book Show</title>
+                <link>http://adam.curry.com/bigBookShow.html</link>
+                <description>Books from the App Show Network</description>
+                <language>en-us</language>
+                <pubDate>Wed, 31 Oct 2012 19:19:58 GMT</pubDate>
+                <lastBuildDate>Wed, 31 Oct 2012 19:19:58 GMT</lastBuildDate>
+                <generator>Radio2 v0.85</generator>
+                <docs>http://cyber.law.harvard.edu/rss/rss.html</docs>
+                <microblog:avatar>http://static.scripting.com/images/rssMug.gif</microblog:avatar>
+                <cloud domain="rpc.rsscloud.org" port="5337" path="/rsscloud/pleaseNotify" registerProcedure="" protocol="http-post"/>
+                <microblog:archive>
+                    <microblog:url>http://adam.curry.com/</microblog:url>
+                    <microblog:filename>bigBookShow.xml</microblog:filename>
+                    <microblog:startDay>2011-03-13</microblog:startDay>
+                    <microblog:endDay>2012-10-31</microblog:endDay>
+                </microblog:archive>
+                <item>
+                    <title>Ron Adner - "The Wide Lens"</title>
+                    <description>When it comes to analysing busiess success and failure, Ron Adner literally wrote the book
+
+In The Wide Lens, innovation expert Ron Adner draws on over a decade of research and field testing to take you on far ranging journeys from Kenya to California, from transport to telecommunications, to reveal the hidden structure of success in a world of interdependence.
+
+Want to know what Nokia did so wrong? What Apple does so right? Just watch my chat with Ron...</description>
+                    <link>http://egu.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/10/31/ronAdnerbas.mp4" length="54673564" type="video/mp4"/>
+                    <pubDate>Wed, 31 Oct 2012 19:19:57 GMT</pubDate>
+                    <guid>http://egu.butt.org/</guid>
+                    <microblog:linkFull>http://l.curry.com/1JP</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/10/31/ronadnercover.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/10/31/ronadnercover.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Lisa Lillien, the "Hungry Girl"</title>
+                    <description>She's not a nutritionist, she's just hungry! Lisa Lillien is a number-one New York Times bestselling author and the creator of the Hungry Girl brand. She is the founder of hungry-girl.com, the worldwide phenomenon daily email service that entertains and informs hungry people everywhere!
+If you want to eat healthy AND affordable, any of her books are just the ticket. With yet another new book released this week Lisa and I talked about some of her previous works and her creation of nothing less than an empire.</description>
+                    <link>http://dgt.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/10/15/lisaLillienbas.mp4" length="23061384" type="video/mp4"/>
+                    <pubDate>Mon, 15 Oct 2012 17:51:37 GMT</pubDate>
+                    <guid>http://dgt.butt.org/</guid>
+                    <microblog:linkFull>http://l.curry.com/1xx</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/10/15/lisalilliencoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/10/15/lisalilliencoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Daniel Suarez - "Kill Decision"</title>
+                    <description>The first 2 book ever reviewed on the BBS were from Dan, so speaking with him about his latest 'soft science fiction' thriller was a special treat
+
+There's so much to him as a person that makes his writing so excellent, that any fan of his work is pretty much obliged to watch this interview we did via skype.</description>
+                    <link>http://aw1.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/09/07/danielSuarezbas.mp4" length="55037586" type="video/mp4"/>
+                    <pubDate>Fri, 07 Sep 2012 21:33:18 GMT</pubDate>
+                    <guid>http://aw1.butt.org/</guid>
+                    <microblog:linkFull>http://l.curry.com/X4</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/09/07/suzrezcoverbigger.png" type="image/png">
+                        <media:thumbnail url="http://adam.curry.com/2012/09/07/suzrezcoverbigger.png"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Delia Ephron - The Lion is In</title>
+                    <description>I feel blessed to have such a superstar on the show for this episode. Delia has written several best selling books and extremely successful movies. We have a great chat about her latest novel, The Lion is In, for which the entire story came to her in a dream. This is one funny and feisty lady, I thoroughly enjoyed meeting her and I'm sure you will enjoy this interview as well. I interviewed Delia 2 weeks before the passing of her beloved sister Nora.</description>
+                    <link>http://8du.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/07/24/deliaephronbas.mp4" length="33902193" type="video/mp4"/>
+                    <pubDate>Tue, 24 Jul 2012 16:00:22 GMT</pubDate>
+                    <guid>http://8du.butt.org/</guid>
+                    <microblog:linkFull>http://6xv.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/07/24/deliaephroncover.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/07/24/deliaephroncover.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Jennifer DuBois - "A Partial History of Lost Causes"</title>
+                    <description>Jennifer's debut novel is an interesting mix of factual history and fiction.
+
+With strong parallels to Gary Kasparov's life, it makes for a great insight into pre-glasnost Russia, world politics and a woman's search for her father's "lost cause"</description>
+                    <link>http://62x.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/06/18/jenniferDuboisbas.mp4" length="22190287" type="video/mp4"/>
+                    <pubDate>Mon, 18 Jun 2012 20:11:02 GMT</pubDate>
+                    <guid>http://62x.butt.org/</guid>
+                    <microblog:linkFull>http://62q.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/06/18/jenniferduboiscoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/06/18/jenniferduboiscoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Cristina Alger - "The Darlings"</title>
+                    <description>Cristina Alger has written a great financial/legal thriller based on the real events of the 2008 financial crisis
+
+She's a lawyer turned author who has really captured a piece of history from the "other's" perpective. The elites of New York Society and high finance.</description>
+                    <link>http://5ha.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/06/08/christinaAlgerbas.mp4" length="21843499" type="video/mp4"/>
+                    <pubDate>Fri, 08 Jun 2012 22:11:55 GMT</pubDate>
+                    <guid>http://5ha.butt.org/</guid>
+                    <microblog:linkFull>http://5h9.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/06/08/christinaalgercoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/06/08/christinaalgercoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Stephanie McAfee - Diary of a Mad Fat Girl</title>
+                    <description>Stephanie is a true American sucess story. She took her self published book from a 99 cent e-Book to a New York Times Best Seller and a full blown publishing deal with Penguin Books
+
+Her Story is one I equate to "Sex and the City" with Real women. Stephanie is a delightful southern girl and we spoke via skype from her current home in Florida.</description>
+                    <link>http://5au.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/06/05/stephanieMcafeebas1.mp4" length="13925287" type="video/mp4"/>
+                    <pubDate>Tue, 05 Jun 2012 19:21:25 GMT</pubDate>
+                    <guid>http://5au.butt.org/</guid>
+                    <microblog:linkFull>http://5ap.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/06/05/stephaniemcafeecoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/06/05/stephaniemcafeecoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Joshua Knelman - Hot Art</title>
+                    <description>Joshua spent almost 8 years documenting the players and the workings of internatonal art theft.
+
+Delve into this often romanticized world of elites, rogues and beautiful art in our conversation about his book "Hot Art - Chasing Thieves and Detectives Through the Secret World of Stolen Art"</description>
+                    <link>http://4ky.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/05/23/joshuaKnelmanbas.mp4" length="42735658" type="video/mp4"/>
+                    <pubDate>Wed, 23 May 2012 21:21:49 GMT</pubDate>
+                    <guid>http://4ky.butt.org/</guid>
+                    <microblog:linkFull>http://4kx.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/05/23/joshuaknelmancoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/05/23/joshuaknelmancoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Marty Gitlin - The Great American Cereal Book</title>
+                    <description>Marty Gitlin has quite a history as an author, primarily of sports super stars. His latest book is a departure from sports, but not from History.
+
+You will be amazed by the emotions this book elicits when paging through hundreds of pages of photographs and trivia about the rich history of breakfast cereal culture. Marty joins us via skype from his home in Ohio</description>
+                    <link>http://49m.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/05/18/martyGitlinbas.mp4" length="21257359" type="video/mp4"/>
+                    <pubDate>Fri, 18 May 2012 17:18:44 GMT</pubDate>
+                    <guid>http://49m.butt.org/</guid>
+                    <microblog:linkFull>http://49l.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/05/18/martygitlincoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/05/18/martygitlincoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Adam Wilson - Flatscreen</title>
+                    <description>Reading Adam Wilson's debut novel is a bit like hearing the Sex Pistols for the first time. It's very in your face, but has all the depth and excitement of 'Never mind the bollocks'
+Adam Joins us via skype from his home in Brooklyn NY to discuss and even read a few passages from his book.</description>
+                    <link>http://3ua.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/05/11/adamWilsonbas.mp4" length="25503297" type="video/mp4"/>
+                    <pubDate>Fri, 11 May 2012 20:47:15 GMT</pubDate>
+                    <guid>http://3ua.butt.org/</guid>
+                    <microblog:linkFull>http://3u6.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/05/11/adamwilsoncoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/05/11/adamwilsoncoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Bill Landay - Defending Jacob</title>
+                    <description>Bill Landay is a former assistant district attorney who has written a very thrilling novel. 
+
+Set as a court case drama, but focusing on the human side of a family who's son is accused of murder. Bill and I talk in detail about the book and his former profession as an assistant DA. You'll be delghted by his story!</description>
+                    <link>http://1lc.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/04/09/billLandaybas.mp4" length="30330849" type="video/mp4"/>
+                    <pubDate>Mon, 09 Apr 2012 21:37:25 GMT</pubDate>
+                    <guid>http://1lc.butt.org/</guid>
+                    <microblog:linkFull>http://1kv.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/04/09/billlandaycoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/04/09/billlandaycoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Eli Gottlieb - "The Face Thief"</title>
+                    <description>Eli Gottlieb and I connected on a number of levels when he came on the show to discuss his book 'The Face Thief'
+
+Not only did he write a thrilling novel, but his east-coast vibe and sensibility made for a great chat about his book, kids, the internet and the state of the publishing industry.</description>
+                    <link>http://0sk.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/03/28/eliGottliebbas.mp4" length="27796180" type="video/mp4"/>
+                    <pubDate>Wed, 28 Mar 2012 19:49:05 GMT</pubDate>
+                    <guid>http://0sk.butt.org/</guid>
+                    <microblog:linkFull>http://0sj.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/03/28/eligottliebsm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/03/28/eligottliebsm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Daisy Whitney - The Mockingbirds</title>
+                    <description>Daisy Whitney is no stranger to new media, as she blogs, consults and produces video for the new media advertising industry.
+Her latest venture is as a novelist and she's rockin' it with "The Mockingbirds". A great story withy deep tpoics. Do not mistake this for a Young Adult prep-school book. I really liked it.</description>
+                    <link>http://01u.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/03/19/daisyWhitneybas.mp4" length="21858698" type="video/mp4"/>
+                    <pubDate>Mon, 19 Mar 2012 20:49:58 GMT</pubDate>
+                    <guid>http://01u.butt.org/?id=68</guid>
+                    <microblog:linkFull>http://www.amazon.com/dp/0316090573/ref=as_li_qf_sp_asin_til?adid=1RAW9TDYV777D4PKQWW9&amp;camp=0&amp;creative=0&amp;creativeASIN=0316090573&amp;linkCode=as1&amp;tag=adamcurrysweb-20</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/03/19/daisywhitneysm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/03/19/daisywhitneysm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Ken Jennings - Maphead</title>
+                    <description>Ken Jennings is perhaps best known as the all-time Jeopardy champion, with the most wins ever.
+Ken is also a Maphead, he's crazy about maps and has been since his youth. We talk about his life as a writer, game show wizzard, potential senatorial candidate and of course, about maps!</description>
+                    <link>http://t5.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/03/16/kenJenningsbas.mp4" length="45990564" type="video/mp4"/>
+                    <pubDate>Fri, 16 Mar 2012 19:08:28 GMT</pubDate>
+                    <guid>http://t5.butt.org/</guid>
+                    <microblog:linkFull>http://t3.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/03/16/kenjenningscoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/03/16/kenjenningscoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Justin Russel - The Sleeper (Movie)</title>
+                    <description>Justin is an independent film maker from Ohio. His first big online release is an homage to the slasher flicks of the early 80's
+He dropped by the studio to talk about "The Sleeper"</description>
+                    <link>http://bu.butt.org/</link>
+                    <enclosure url="http://adam.curry.com/2012/03/09/justinRussellbas.mp4" length="27597689" type="video/mp4"/>
+                    <pubDate>Fri, 09 Mar 2012 23:21:07 GMT</pubDate>
+                    <guid>http://bu.butt.org/</guid>
+                    <microblog:linkFull>http://bl.butt.org/</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/03/09/theSleeperAdsm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/03/09/theSleeperAdsm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Rob Tannenbaum - "I Want My MTV"</title>
+                    <description>This interview is one I've been waiting for, as co-author Rob Tannenbaum interviewed me for the book.
+
+The interview turned out to be a great primer for those who want to read this oral history of the music television revolution, filled with quotes and stories that are in the book as well as some that aren't.</description>
+                    <link>http://hot.curry.com/zC0tz3</link>
+                    <enclosure url="http://adam.curry.com/2012/02/14/robTannenbaumbas.mp4" length="48142544" type="video/mp4"/>
+                    <pubDate>Tue, 14 Feb 2012 21:34:48 GMT</pubDate>
+                    <guid>http://hot.curry.com/zC0tz3</guid>
+                    <microblog:linkFull>http://curryscloud.com/iwantmymtv</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/02/14/mtvcoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/02/14/mtvcoversm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Joshua Cody - "[sic] a memoir"</title>
+                    <description>I was very impressed by Joshua's 'stream of conciousness' collection about his fight against cancer. Reading it had a similar effect on my as the first time I heard the Rolling Stones
+
+Joshua skypes in from New York City. You'll like this guy.</description>
+                    <link>http://hot.curry.com/zik4YF</link>
+                    <enclosure url="http://adam.curry.com/2012/02/03/joshuaCodymeviobas.mp4" length="33368086" type="video/mp4"/>
+                    <pubDate>Fri, 03 Feb 2012 22:52:38 GMT</pubDate>
+                    <guid>http://hot.curry.com/zik4YF</guid>
+                    <microblog:linkFull>http://hot.curry.com/zik4YF</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/02/03/joshuacodysm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/02/03/joshuacodysm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Sarah Levine - "Treasure Island!!!"</title>
+                    <description>Sarah Levine is a first time novelist from Chicago who blew my socks off with her combination of the classic "Treasure Island" and her unnamed 25 year old protagonist who attempts to live life according to the 'values' of the characters in that classic
+
+You'll instantly fall in love with Sarah, who joins us from her home in Chicago</description>
+                    <link>http://hot.curry.com/wYSR3K</link>
+                    <enclosure url="http://adam.curry.com/2012/02/03/sarahLevinemeviobas.mp4" length="26999279" type="video/mp4"/>
+                    <pubDate>Fri, 03 Feb 2012 19:23:39 GMT</pubDate>
+                    <guid>http://hot.curry.com/wYSR3K?id=63</guid>
+                    <microblog:linkFull>http://www.amazon.com/gp/product/1609450612?camp=1789&amp;creativeASIN=1609450612&amp;ie=UTF8&amp;linkCode=xm2&amp;tag=adamcurrysweb-20</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/02/03/sarahlevinesm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/02/03/sarahlevinesm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Joanna Philbin - "The Daughters Join The Party"</title>
+                    <description>Joanna Philbin may be a 'daughter of' herself, but she really has made quite a name for herself as an author. Her fourth novel in the 'Daughters' series proves just that.
+
+Joanna joins the show from her home in Los Angeles where we tallk about her writing, her insights to celebrity and of course her father legendary television personality Regis Philbin.</description>
+                    <link>http://hot.curry.com/AyERk3</link>
+                    <enclosure url="http://adam.curry.com/2012/02/02/joannaPhilbinbasmevio.mp4" length="24769476" type="video/mp4"/>
+                    <pubDate>Fri, 03 Feb 2012 06:20:28 GMT</pubDate>
+                    <guid>http://hot.curry.com/AyERk3</guid>
+                    <microblog:linkFull>http://hot.curry.com/AyERk3</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/02/02/joannaphilbinsm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/02/02/joannaphilbinsm.jpg"/>
+                    </media:content>
+                </item>
+                <item>
+                    <title>Darren Tieste - "The Beauty Book".</title>
+                    <description>Darren Tieste has been at the top of the photography field for 18 years. He's had the biggest names in fashion and show business in front of his camera
+
+In 2010 he started a project to benefit brain cancer research. The result is The Beauty Book. Darren skypes in from his home in Los Angeles to tell us all about it.</description>
+                    <link>http://hot.curry.com/ymeY4P</link>
+                    <enclosure url="http://adam.curry.com/2012/01/11/darrenTiestesm.mp4" length="16483971" type="video/mp4"/>
+                    <pubDate>Wed, 11 Jan 2012 23:12:52 GMT</pubDate>
+                    <guid>http://hot.curry.com/ymeY4P?id=61</guid>
+                    <microblog:linkFull>http://www.amazon.com/dp/0984011501/ref=as_li_qf_sp_asin_til?adid=169Q04N4H7YK8Y0FFA47&amp;camp=0&amp;creative=0&amp;creativeASIN=0984011501&amp;linkCode=as1&amp;tag=adamcurrysweb-20</microblog:linkFull>
+                    <media:content url="http://adam.curry.com/2012/01/11/darrentiestecoversm.jpg" type="image/jpeg">
+                        <media:thumbnail url="http://adam.curry.com/2012/01/11/darrentiestecoversm.jpg"/>
+                    </media:content>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

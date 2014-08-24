@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.ascc.net/xml/schematron">
+    <ns uri="http://podlove.org/simple-chapters" prefix="psc"/>
+    <ns uri="http://purl.org/syndication/history/1.0" prefix="fh"/>
+    <ns uri="http://rssnamespace.org/feedburner/ext/1.0" prefix="feedburner"/>
+    <ns uri="http://www.itunes.com/dtds/podcast-1.0.dtd" prefix="itunes"/>
+    <ns uri="http://www.w3.org/2005/Atom" prefix="atom"/>
+    <ns uri="http://purl.org/rss/1.0/modules/content/" prefix="content"/>
+    <pattern name="Structural Feed Validation">
+        <rule context="rss">
+            <assert test="@version">An RSS version identifier should be supplied</assert>
+            <assert test="@version = '2.0'">This Schematron validator is for RSS 2.0 only</assert>
+            <assert test="count(channel) = 1">An RSS element must contain a single channel element</assert>
+        </rule>
+        <!-- RSS CHANNEL -->
+        <rule context="channel">
+            <assert test="title">#c-title</assert>
+            <assert test="link">#c-link</assert>
+            <assert test="description">#c-description</assert>
+            <assert test="language">#c-language</assert>
+            <assert test="string-length(language) &gt;= 2 and string-length(language) &lt;= 5">#c-language-invalid</assert>
+            <assert test="atom:link">#c-atom-link</assert>
+            <assert test="atom:link[@rel = 'self']">#c-atom-link-self</assert>
+            <assert test="copyright">#c-copyright</assert>
+            
+
+            <!-- RSS - CHANNEL - ITUNES -->
+            <assert test="itunes:summary">#c-itunes-summary</assert>
+            <assert test="itunes:subtitle">#c-itunes-subtitle</assert>
+            <assert test="itunes:category">#c-itunes-category</assert>
+            <assert test="itunes:owner">#c-itunes-owner</assert>
+            <assert test="itunes:image">#c-itunes-image</assert>
+            <assert test="itunes:keywords">#c-itunes-keywords</assert>
+            <assert test="itunes:block">#c-itunes-block</assert>
+            <assert test="itunes:explicit">#c-itunes-explicit</assert>
+        </rule>
+        <!-- CONTENT ENCODED -->
+        <rule context="content:encoded">
+            <assert test="string-length(.) &gt; 0">#content-encoded</assert>
+        </rule>
+        <rule context="itunes:name">
+            <assert test="parent::itunes:owner and string-length(.) &gt; 0">#c-itunes-name</assert>
+        </rule>
+        <rule context="itunes:email">
+            <assert test="parent::itunes:owner and string-length(.) &gt; 0">#c-itunes-email</assert>
+        </rule>        
+
+        <!-- RSS ITEM -->
+        <rule context="item">
+            <assert test="parent::channel">An item element can only occur within a channel element</assert>
+            <assert test="title">#i-title</assert>
+            <assert test="link">#i-link</assert>
+            <!-- GUID -->
+            <assert test="guid">#i-guid</assert>
+            <assert test="string-length(guid) &gt; 1">#i-guid-empty</assert>
+            
+            <!-- ENCLOSURE -->
+            <assert test="enclosure">#i-enclosure</assert>
+            <assert test="enclosure/@url">#i-enclosure-url</assert>
+            <assert test="enclosure/@length">#i-enclosure-length</assert>
+            <assert test="enclosure/@type">#i-enclosure-type</assert>
+            
+            <!-- ITUNES -->
+            <assert test="itunes:duration">#i-itunes-duration</assert>
+            <assert test="string-length(itunes:duration) = 8">#i-itunes-duration-length</assert>
+            <assert test="                     (number(substring(itunes:duration,1,2)) or substring(itunes:duration,1,2) eq '00') and                      (number(substring(itunes:duration,4,2)) or substring(itunes:duration,4,2) eq '00') and                      (number(substring(itunes:duration,7,2)) or substring(itunes:duration,7,2) eq '00')">#i-itunes-duration-first</assert>
+            <assert test="itunes:subtitle">#i-itunes-subtitle</assert>
+            <assert test="string-length(itunes:subtitle) &gt;= 1" role="debug">#i-itunes-subtitle-length</assert>
+            <assert test="itunes:summary">#i-itunes-summary</assert>
+            <assert test="string-length(itunes:summary) &gt;= 1" role="debug">#i-itunes-summary-length</assert>
+            <assert test="itunes:author">#i-itunes-author</assert>
+            <assert test="string-length(itunes:author) &gt; 1">#i-itunes-author-length</assert>
+        </rule>
+    </pattern>
+    <diagnostics>
+        <diagnostic id="d-copryright">Diagnostic for copyright</diagnostic>
+    </diagnostics>
+</schema>

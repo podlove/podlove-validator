@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rdf:RDF SYSTEM "http://dublincore.org/2000/12/01-dcmes-xml-dtd.dtd">
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    >
+    
+    <owl:Ontology 
+        rdf:about="http://sw.deri.org/2005/07/CiteSeer/">
+        <dc:title>RDF Podcast Description Specification</dc:title>
+        <dc:description>This is the RDF Schema for the Podcast feed vocabulary.</dc:description>
+    </owl:Ontology>
+    
+    <!-- Classes -->
+    
+    <rdfs:Class rdf:about="http://sw.deri.org/2005/07/podcast#Category"
+        rdfs:label="Category">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    </rdfs:Class>
+    
+    <rdfs:Class rdf:about="http://sw.deri.org/2005/07/podcast#File"
+        rdfs:label="File">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    </rdfs:Class>
+    
+    <rdfs:Class rdf:about="http://sw.deri.org/2005/07/podcast#Podcast"
+        rdfs:label="Podcast">
+        <rdfs:subClassOf rdf:resource="http://purl.org/rss/1.0/item"/>
+    </rdfs:Class>
+    
+    <!-- Properties -->
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#bitrate"
+        rdfs:comment="Property defining bitrate of file."
+        rdfs:label="bitrate">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#bitrate"
+        rdfs:comment="Property defining bitrate of file."
+        rdfs:label="bitrate">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#credit"
+        rdfs:comment="Property relating a person to an item or channel."
+        rdfs:label="credit">
+        <rdfs:domain rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#domain"
+        rdfs:comment="URL of taxonomy of category."
+        rdfs:label="domain">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#Category"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#duration"
+        rdfs:comment="Property defining duration in seconds of file."
+        rdfs:label="duration">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#explicit"
+        rdfs:comment="Property defining rating of an item or channel."
+        rdfs:label="exlicit">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#Resource"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#expression"
+        rdfs:comment="Property saying whether file is sample, full or stream."
+        rdfs:label="expression">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#fileSize"
+        rdfs:comment="Property identifying filesize of file in bytes."
+        rdfs:label="fileSize">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#framerate"
+        rdfs:comment="Property identifying framerate of file."
+        rdfs:label="framerate">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#hasMedia"
+        rdfs:comment="Property identifying media file content of item."
+        rdfs:label="hasMedia">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#Resource"/>
+        <rdfs:range rdf:resource="http://sw.deri.org/2005/07/podcast#Resource"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#isDefault"
+        rdfs:comment="Property denoting whether file is default file of item."
+        rdfs:label="isDefault">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#length"
+        rdfs:comment="Property providing length in pixels of visual content."
+        rdfs:label="length">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#role"
+        rdfs:comment="Property denoting role of person in credit."
+        rdfs:label="role">
+        <rdfs:domain rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#type"
+        rdfs:comment="Property denoting MIME type of file."
+        rdfs:label="type">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+    <rdf:Property rdf:about="http://sw.deri.org/2005/07/podcast#width"
+        rdfs:comment="Property denoting width of visual content."
+        rdfs:label="width">
+        <rdfs:domain rdf:resource="http://sw.deri.org/2005/07/podcast#File"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2000/01/rdf-schema#Literal"/>
+    </rdf:Property>
+    
+</rdf:RDF>
+
+

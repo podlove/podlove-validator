@@ -1,0 +1,2848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.2.2"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:31:32 GMT"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml; charset=utf-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="X-Frame-Options" value="SAMEORIGIN"/>
+        <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
+        <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
+        <httpclient:header name="ETag" value="&#34;de80019a61ec6d5642938fb66a58c175&#34;"/>
+        <httpclient:header name="Cache-Control" value="max-age=0, private, must-revalidate"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=czB5VjAzVFBXMnRpSC9TYklnaG91SHRjdnhFK2RIK0Y1OElBTkp6S29DeXZ3VGtDdTNSL2ZjUjVTR1gyY1ZManNxN0hCQjlkTEtpU3VWYmc0RU1id3VXeDRXRGhlRjJRRlNscmsrZXR6MnVJVTBOd0EzNjFMWlVSQjl3RXVhdkd2L1BWR0ZYM0I5NTlVM0l2T2VOK1BncFFWUzVXSm84VWljNjk2bkU4cnZjPS0tS1FJbFM3WGFPQmF3UHRLK3VjeXhMUT09--6985b23afc394c7c3edfd6996f814e5fcfd19d5a; path=/; HttpOnly"/>
+        <httpclient:header name="X-Request-Id" value="139df150-ee48-420b-9364-3f66193639ea"/>
+        <httpclient:header name="X-Runtime" value="0.215872"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Permanent Tourist on alonetone.com</title>
+                <link>http://alonetone.com/stackedaktor</link>
+                <description>A one-man band made by a man who loves music- enough said.
+
+Thanks for listening.
+
+http://www.facebook.com/pages/Permanent-Tourist/174416056040163?fref=ts</description>
+                <language>en-us</language>
+                <lastBuildDate>Sun, 16 Feb 2014 06:56:17 GMT</lastBuildDate>
+                <image>
+                    <url>http://stash.alonetone.com/pics/20409/oatomic001p1_album.jpg</url>
+                    <title>Latest music from Permanent Tourist</title>
+                    <width>200</width>
+                    <height>200</height>
+                </image>
+                <itunes:author>Permanent Tourist</itunes:author>
+                <itunes:subtitle>Permanent Tourist on alonetone.com</itunes:subtitle>
+                <itunes:summary>A one-man band made by a man who loves music- enough said.
+
+Thanks for listening.
+
+http://www.facebook.com/pages/Permanent-Tourist/174416056040163?fref=ts</itunes:summary>
+                <itunes:keywords>independant free alonetone musician artist latest upcoming do-it-yourself DIY Permanent Tourist stackedaktor</itunes:keywords>
+                <itunes:image href="http://stash.alonetone.com/pics/20409/oatomic001p1_album.jpg"/>
+                <itunes:owner>
+                    <itunes:name>alonetone</itunes:name>
+                    <itunes:email>support@alonetone.com</itunes:email>
+                </itunes:owner>
+                <itunes:category text="Music"/>
+                <item>
+                    <title>Done Is Done</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/done-is-done-1</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/done-is-done-1.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 16 Feb 2014 06:56:17 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/done-is-done-1.mp3?referer=itunes" type="audio/mpeg" size="1964408"/>
+                    <itunes:summary>LYRICS:
+
+Live to my potential
+End my life in debt
+Meet no expectations
+except what I regret
+
+I lost
+what a cost
+There's no way I would have won
+I know
+let it go
+There's no point what's done is done</itunes:summary>
+                    <itunes:duration>2:02</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Done Is Done Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Since It's All Over*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/since-its-all-over-1</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/since-its-all-over-1.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 16 Jan 2014 10:48:39 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/since-its-all-over-1.mp3?referer=itunes" type="audio/mpeg" size="8025652"/>
+                    <itunes:summary>A much different version of an old demo. Sometimes things really do change.
+
+LYRICS:
+Been lost
+for quite some time
+who knew what to do
+
+Living with
+the runaround
+Never had a clue
+
+Suddenly
+it all changed
+Shook me to my core
+
+I'll become a better man
+than I was before
+
+Pain inside my chest
+holding me bereft
+Dead ain't the place that I'm supposed to be
+
+Heart about to break
+Maybe my lung aches
+Since it's all over I guess I can be me
+
+I'm found
+Yes it's a crime
+I never knew you
+
+Spent my prime
+in lost &amp; founds
+ignorant of truth
+
+When fate snapped it's fingers
+Shorted my head out
+
+And once that switch was flipped
+then there was 
+never any doubt
+
+Now that that is done
+I guess that I have won
+
+I never was a son
+I never was a son
+
+Now that that is done
+Regret that I have won
+
+I never was a son
+I never was a son
+
+
+
+</itunes:summary>
+                    <itunes:duration>8:21</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Since It's All Over* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Opinion  (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/opinion-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/opinion-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 04 Oct 2013 00:45:55 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/opinion-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="5759478"/>
+                    <itunes:summary>Another cover of a rare throwaway song of Kurt's. I was shooting for the mellower Nirvana sonic palette.
+
+LYRICS:
+
+Well congratulations you have won
+It's a year subscription of bad puns
+And the make-shift story of concern
+is to set it off before it burns
+
+my opinions
+Mmm hmm
+
+Well there seems to be a problem here
+when the scale of emotions seems too clear
+Now they rise and fall like Wall Street stock
+and they have an affect on our peace talks
+</itunes:summary>
+                    <itunes:duration>2:24</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Opinion  (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Rose Kennedy Has A Black Dress</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/rose-kennedy-has-a-black-dress</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/rose-kennedy-has-a-black-dress.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 13 Sep 2013 00:38:53 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/rose-kennedy-has-a-black-dress.mp3?referer=itunes" type="audio/mpeg" size="10052963"/>
+                    <itunes:summary>A friend of mine died recently. 
+In memory of P.S.
+
+LYRICS:
+
+Your presence is mandatory
+to show that you care
+It's never a question what you
+are going to wear
+You can't arrive naked There are
+still standards in hell
+You've worn it a dozen times and
+you'll wear it well
+
+Lay him down
+Rest in peace
+Guess your day is done
+
+Now you sleep
+Sweet relief
+in what dreams may come
+
+Since you are asking I have
+something to confess
+Don't know about you but I am
+one hell of a mess
+Not sure about answers but I
+swear that it is true
+An ounce of prevention is worth
+a lifetime of blues
+
+Rose Kennedy has a black dress
+
+
+
+Thanks to A. Dvorak</itunes:summary>
+                    <itunes:duration>4:11</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Rose Kennedy Has A Black Dress Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Sleepwalker (instrumental)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/sleepwalker-instrumental</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/sleepwalker-instrumental.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 15 Jul 2013 01:44:37 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/sleepwalker-instrumental.mp3?referer=itunes" type="audio/mpeg" size="11215935"/>
+                    <itunes:summary>Guess I'm keeping this one an instrumental. :)</itunes:summary>
+                    <itunes:duration>4:40</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Sleepwalker (instrumental) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Stratosphere</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/stratosphere</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/stratosphere.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 02 May 2013 20:32:27 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/stratosphere.mp3?referer=itunes" type="audio/mpeg" size="8881633"/>
+                    <itunes:summary>A guy I know told me I never write happy songs. I tried my best.
+
+LYRICS:
+
+It's just you and me here now 
+up here on a cloud 
+What do we care? When we're 
+drifting on castles made of air 
+You have nothing left to fear 
+up here in the stratosphere 
+I promise I will catch you 
+if you fall
+
+I'll sweep you up off your feet 
+and never come down 
+We'll be as high as can be 
+and never feel the ground 
+again
+
+Up here the sky is always blue 
+We're above the rules 
+Whatever you say 
+Never have another rainy day 
+Since we have no use for wings 
+we can talk of other things 
+I know I can be 
+your one and all
+
+Help me touch the sky 
+Help me make amends 
+Help me feel alive 
+Help me make it end</itunes:summary>
+                    <itunes:duration>3:42</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Stratosphere Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Bambi Slaughter AKA Creation (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/bambi-slaughter-aka-creation-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/bambi-slaughter-aka-creation-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 24 Mar 2013 11:05:42 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/bambi-slaughter-aka-creation-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="2720496"/>
+                    <itunes:summary>Apparently there are 2 songs known as "Bambi Slaughter" by Nirvana. This is NOT a cover of the Fecal Matter demo, rather the solo acoustic Kurt did in the summer of 1987. It is also known as "Creation".
+
+Lyrics:
+
+Heed a lover too
+A desire is what's for you
+Is it Him A plot above
+Face to face unending love
+
+Hey
+
+Feel the spirits roam
+They decide who's not informed
+In His eyes, were raging high
+Hunts himself and fears his bride
+
+(From the best that I could tell, these are the correct lyrics.)</itunes:summary>
+                    <itunes:duration>2:50</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Bambi Slaughter AKA Creation (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Flashes Before My Eyes</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/flashes-before-my-eyes-1</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/flashes-before-my-eyes-1.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 09 Mar 2013 13:20:46 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/flashes-before-my-eyes-1.mp3?referer=itunes" type="audio/mpeg" size="4257332"/>
+                    <itunes:summary>This is a complete redo/redo of a an old two-part song of mine. It just had to be done.
+
+LYRICS:
+
+Not the ending everyone expected
+Who cares if you go out with a bang
+well either way
+you seize the day
+or try to while you can
+
+Shall we proceed as if it makes a difference
+Surely we can hope to understand
+We will find out
+what it's about
+&amp; if there was a plan
+
+My whole life flashes before my eyes
+
+Since it's all over
+I guess I can be me
+
+So I move on far into the distance
+     (all of this will be forgotten)
+Little wisdom learned in this life span
+     (Sober when the day begins)
+You will find out
+what it's about
+and if there was a plan
+
+It's all over
+
+Since it's all over
+I guess I can be me
+     (I deserve to breathe)
+
+So I breathe my 
+last
+my final breath
+
+
+
+</itunes:summary>
+                    <itunes:duration>4:26</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Flashes Before My Eyes Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Damn You Damn Everyone (Foo Fighters cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/damn-you-damn-everyone-foo-fighters-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/damn-you-damn-everyone-foo-fighters-cover.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 23 Feb 2013 01:30:11 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/damn-you-damn-everyone-foo-fighters-cover.mp3?referer=itunes" type="audio/mpeg" size="6571363"/>
+                    <itunes:summary>I love the Foos almost as much as Nirvana, I owe more to that band than probably anyone. 
+
+Also, I like to COVER the rare stuff, so if you're not familiar with the song, it's because it was only performed live once at Lupo's in Providence, RI in 1998.</itunes:summary>
+                    <itunes:duration>2:44</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Damn You Damn Everyone (Foo Fighters cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Or All The Seas With Oysters*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/or-all-the-seas-with-oysters</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/or-all-the-seas-with-oysters.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Jan 2013 11:18:09 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/or-all-the-seas-with-oysters.mp3?referer=itunes" type="audio/mpeg" size="23221812"/>
+                    <itunes:summary>This is the closest I'd get to psychedelic rock, I don't even know what to call this kind of song, to be honest.
+
+Technically this is a redo of an old demo song of mine, but of course things grew in the retelling. 
+
+The rock section of the song kicks in at about 3 and a half minutes.
+
+As always, thanks for listening.
+
+LYRICS:
+
+(Ask yourself this, having come this far: what are you going to do with the rest of your life?)
+
+Do I dare to eat a peach 
+or all the seas with oysters
+Let the tapeworms bore their holes 
+or wallow in the moisture
+
+Some things are exactly what they seem
+We all live perchance to dream
+
+Alphabets come with the tides
+the words they spell out hurt
+Sound advice
+Soothing lies
+Poems scrawled in dirt
+
+Trifles whispered in the sand
+erode and disappear
+You can't believe your eyes
+I can't believe my ears
+
+Do I dare
+grow out my hair not by choice
+We're impaired
+It's the sound of my voice
+
+Do I dare evolve again
+Leave behind the world of men
+Spit in the faces of whatever gods there are
+
+(You want to know the future? All you have to do is hold on.)
+
+Rain is rising heaven bound
+Doorways still remain unfound
+Prophecies that turn out to be bull
+shit
+
+Broken clock right twice a day
+Pendulum that swing one way
+Hourglass is always half full
+
+(You're running out of time.)
+
+
+</itunes:summary>
+                    <itunes:duration>9:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Or All The Seas With Oysters* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Ivy League (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/ivy-league-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/ivy-league-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 17 Dec 2012 09:20:37 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/ivy-league-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="13161535"/>
+                    <itunes:summary>This rare song was played twice live by the band in 1993, and a short instrumental demo version was also recorded at their last recording session at Robert Lang studios in February 1994.
+
+Most of the lyrics for this cover are from the performance on 11-12-93, with the rest from the 12-29-93 show.
+
+This song is also known as "Me and My I.V." "End Jam" "Jam W/ Kurt" and "Jam after dinner".
+
+LYRICS:
+
+Didn't have to find it
+Stuck it on a cross
+Didn't have to guide it
+Didn't have to floss
+Didn't have to sign it
+Never have a grave
+Don't have to decline it
+Rather
+take her
+home
+
+Don't know how to describe it
+Sickening is the thought
+Never have to deny it
+running on applause
+Never have to find it
+running on the road
+Get them to prescribe it
+Keep it
+take it
+home
+
+Never have to sign it
+Never have to roam
+Never have to find it
+Always know where to go
+Never have to hide it
+I never had a son
+Now that I have found it
+keep it
+take it 
+home
+</itunes:summary>
+                    <itunes:duration>5:29</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Ivy League (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Stationary Bike*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/stationary-bike-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/stationary-bike-2.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 17 Nov 2012 07:13:20 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/stationary-bike-2.mp3?referer=itunes" type="audio/mpeg" size="20261616"/>
+                    <itunes:summary>Man, so much for simple songs without five part harmonies. Technically this is a redo, but it is very different than the very old demo I posted on here a few years ago.
+
+Also, the lyrics contain the answer to this riddle: which of these- the big moron or the little moron- fell into the river when they were standing upon the edge?
+
+New Lyrics:
+
+It's time for revolution
+Moment's here to strike
+I'm whipping winds of change up
+on my stationary bike
+
+I will sing this song
+I will sing this song aloud
+If I'm allowed
+
+With my inner voice
+I will do my mother proud
+Express my doubt
+
+Undergo an evolution
+You can think what you like
+Surely I am getting somewhere
+on my stationary bike
+
+No more pity tears
+All we have to fear is fear
+
+Go on an on and on
+A little bit more on/moron
+
+
+
+</itunes:summary>
+                    <itunes:duration>8:27</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Stationary Bike* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Clean Up Before She Comes (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/clean-up-before-she-comes-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/clean-up-before-she-comes-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 21 Oct 2012 09:31:38 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/clean-up-before-she-comes-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="9962057"/>
+                    <itunes:summary>As requested, a "new" Nirvana cover for y'all. As an aside, 7 part harmonies suck! I don't know how Freddie Mercury put up with it.</itunes:summary>
+                    <itunes:duration>4:09</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Clean Up Before She Comes (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Help Me I'm Hungry AKA Vendetagainst (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/help-me-im-hungry-aka-vendetagainst-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/help-me-im-hungry-aka-vendetagainst-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 01 Oct 2012 06:07:28 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/help-me-im-hungry-aka-vendetagainst-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="7701943"/>
+                    <itunes:summary>Another cover of a rare Nirvana song for y'all.</itunes:summary>
+                    <itunes:duration>3:13</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Help Me I'm Hungry AKA Vendetagainst (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Seed AKA Misery Loves Company (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/seed-aka-misery-loves-company-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/seed-aka-misery-loves-company-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 14 Sep 2012 04:51:24 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/seed-aka-misery-loves-company-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="9321535"/>
+                    <itunes:summary>Another cover of a rare Nirvana song. A bit of extrapolation was required.</itunes:summary>
+                    <itunes:duration>3:53</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Seed AKA Misery Loves Company (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Your Loss</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/your-loss</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/your-loss.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 14 Aug 2012 07:32:23 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/your-loss.mp3?referer=itunes" type="audio/mpeg" size="10372702"/>
+                    <itunes:summary>This song's about why sometimes you have to live your life, even if other people don't like it. Yeah, and I like Shakespeare too.
+
+LYRICS:
+I don't know why you won't speak to me
+I could use a little sympathy
+I don't know why there must be a fuss
+I'm the same man that I always was
+
+It might cost me
+all I fought for
+all I've got
+
+And if I'm not
+quite what you thought
+well, it's your loss
+
+I've been living someone else's life
+I never learned to take it all in stride
+
+Out out brief candle
+Life is but a walking shadow
+Just a poor player
+Struts and frets and is heard no more
+
+Tale told by an idiot
+Sound and fury and nothing more
+Get an hour upon the stage
+Quoth the raven nevermore
+
+</itunes:summary>
+                    <itunes:duration>4:19</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Your Loss Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Adjustment</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/adjustment</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/adjustment.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 11 May 2012 04:26:24 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/adjustment.mp3?referer=itunes" type="audio/mpeg" size="32639478"/>
+                    <itunes:summary>So I moved to North Carolina to be closer to family and it's been a good experience. However it was tough to leave some people behind. This song is about that.
+
+BTW, there is a riff about 8 minutes in written by  my buddy Chris Schugg 
+
+LYRICS:
+
+I am strumming my spinal chord
+Reflex my own reward
+Hey there I bet you I'm having fun
+
+I will play but I might get bored
+unless we're keeping score
+Hey there I bet that you thought you won
+
+This has been a bit of an adjustment
+Something I will muddle through
+Found myself a different way to state it
+Now I am a wiser fool
+
+Feel it running up through my spine
+yet nothing comes to mind
+Hey there I thought you heard everything
+
+I said yes still I might decline
+unless you get behind
+Hey there I thought I had time to win
+
+You know what?
+I wish I would
+I wish I would
+
+You know you
+did what you could
+did what you could
+
+Get it together
+
+Let's take this from the top
+I know just what to do
+I've found some words to say so
+listen up for clues
+
+I've got some words to say
+
+Correct
+my posture
+
+I 
+am an impostor
+
+I am standing ever taller
+than I ever have before
+I'm not at your beck and call or
+else you'll be the one ignored
+
+Everything's becoming smaller
+everything's on tape delay
+Don't know if I can hear you
+Suppose it's better this way
+
+
+</itunes:summary>
+                    <itunes:duration>13:36</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Adjustment Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Horrified  (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/horrified-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/horrified-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 12 Mar 2012 08:43:13 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/horrified-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="9601567"/>
+                    <itunes:summary>Something new for ya. Had to piece this one together . . . wasn't much to go on since Nirvana was just messing around on this song, but that's part of the fun, extrapolating stuff. 
+
+For the record, I used the chords for the chorus that Nirvana used the only time this was played live (which occurred about a week after the Dutch studio session).</itunes:summary>
+                    <itunes:duration>4:00</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Horrified  (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>String Quartet from the song "Compulsion"</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/string-quartet-from-the-song-compulsion</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/string-quartet-from-the-song-compulsion.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 20 Jan 2012 03:06:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/string-quartet-from-the-song-compulsion.mp3?referer=itunes" type="audio/mpeg" size="6750118"/>
+                    <itunes:summary>This one is quite different from the parts heard in the song "Compulsion". I was pretty happy with the results.
+
+*updated audio 12/23/12</itunes:summary>
+                    <itunes:duration>2:49</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>String Quartet from the song "Compulsion" Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>String Quartet from 'And So We Roll'</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/string-quartet-from-and-so-we-roll</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/string-quartet-from-and-so-we-roll.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 20 Jan 2012 02:51:40 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/string-quartet-from-and-so-we-roll.mp3?referer=itunes" type="audio/mpeg" size="1912163"/>
+                    <itunes:summary>The first of my two little quartets I've written that have found their ways into songs of mine. This one is from the last minute of "And So We Roll."</itunes:summary>
+                    <itunes:duration>0:48</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>String Quartet from 'And So We Roll' Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The Recession Blues</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-recession-blues</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-recession-blues.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 08 Jan 2012 21:41:07 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-recession-blues.mp3?referer=itunes" type="audio/mpeg" size="7781355"/>
+                    <itunes:summary>Yeah, guess I have an inner Gershwin who likes to listen to Beethoven. Go figure.
+
+
+</itunes:summary>
+                    <itunes:duration>3:15</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The Recession Blues Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Hey Brother</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/hey-brother</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/hey-brother.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 27 Oct 2011 01:59:12 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/hey-brother.mp3?referer=itunes" type="audio/mpeg" size="12761339"/>
+                    <itunes:summary>I wanted to do a country song for my brother Mike, but I really don't know much about country music. This is the result.
+
+Hope you like it, Mike.
+
+LYRICS:
+
+Ain't got no woman
+Ain't got no car
+All I got is bills
+and a half assed will
+and my guitar
+
+I'm not complaining
+It's not all bad you see
+The day is young
+the sun is strong
+and I feel free
+
+Hey brother
+Life could be worse
+Is it an obstacle?
+Is it a curse?
+It's just another thing I'll have to overcome
+Hey brother
+I'll be fine
+
+Ain't got no children
+Ain't got no home
+All I got is blame
+Someone else's name
+and some time alone
+
+But I'm not bitching
+Made myself a plan
+No matter what
+No ifs, ands, or buts
+I'll be a wiser man
+
+</itunes:summary>
+                    <itunes:duration>5:19</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Hey Brother Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The Things We Left Behind</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-things-we-left-behind</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-things-we-left-behind.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 21 Sep 2011 00:37:27 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-things-we-left-behind.mp3?referer=itunes" type="audio/mpeg" size="6488816"/>
+                    <itunes:summary>I've been thinking about lost time and if you can make up for it...
+
+LYRICS:
+Hey there
+How do you do?
+Allow me to introduce myself
+Before
+I think I knew you
+Wondered if you were doing well
+
+The things we left behind
+were never led astray
+And what we hope to find
+was never cast away
+
+Wait up 
+Don't go
+We'll talk
+some more
+
+Pick up right where we left off
+Pretend like nothing ever happened
+We could reminisce
+Wax rhapsodic about the end
+
+Oh no
+What do we do?
+
+Wait 
+</itunes:summary>
+                    <itunes:duration>2:42</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The Things We Left Behind Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>All Because Of You (Nirvana cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/all-because-of-you-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/all-because-of-you-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 03 Aug 2011 09:02:52 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/all-because-of-you-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="6505535"/>
+                    <itunes:summary>I like to cover the rare stuff.
+
+Nirvana's version here: http://www.youtube.com/watch?v=53Fbo1FuIKU
+
+Lyrics were hard to decipher. Gave it my best go.</itunes:summary>
+                    <itunes:duration>2:43</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>All Because Of You (Nirvana cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>20th Century Ghost</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/20th-century-ghost</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/20th-century-ghost.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 25 Jul 2011 09:42:33 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/20th-century-ghost.mp3?referer=itunes" type="audio/mpeg" size="8141845"/>
+                    <itunes:summary>Some people are better staying in the past.
+
+(Also- an awesome short story/collection by Joe Hill- check it out.)
+
+LYRICS:
+
+She calls herself a mother
+Leaves her kids behind
+Might be eyes on the back of her head
+But the two in front are blind
+
+Specters from my past
+Haunt my every waking moment
+Let this be the last
+I will ever think of you
+
+She calls out for redemption
+Begs for another try
+A fallen woman may rise again
+But never quite so high
+
+20th Century Ghost</itunes:summary>
+                    <itunes:duration>3:24</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>20th Century Ghost Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Cleopatra Brimstone</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/cleopatra-brimstone</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/cleopatra-brimstone.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 08 Jul 2011 10:42:13 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/cleopatra-brimstone.mp3?referer=itunes" type="audio/mpeg" size="23042090"/>
+                    <itunes:summary>Based on the pretty screwed up short story by Elizabeth Hand.
+
+* upped the audio 5-18-12
+
+DISCLAIMER: the riff heard in the verses and outro is originally by my buddy Chris Schugg.
+
+LYRICS:
+
+First time I met her 
+I looked her straight in the eyes
+I tried to break that stare 
+but I was mesmerized
+
+Her wish was my command
+I did what I was told 
+I guess I let her own me
+I must be getting old
+
+You can make me change
+should we place a bet
+Fluttering around 
+Catch me with a net
+Enfold me in your wings
+Keep me as your pet
+Alter who I am
+
+So if she does this then I
+might be in her debt
+She said she's willing so
+I guess that I'm all set
+
+Try to get away
+
+Cleopatra Brimstone is her name
+Indulge her when she plays her little games
+If you let her win its all the same
+She rewrote the rules
+</itunes:summary>
+                    <itunes:duration>9:36</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Cleopatra Brimstone Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Caution To The Wind</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/caution-to-the-wind</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/caution-to-the-wind.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 15 Jun 2011 03:16:19 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/caution-to-the-wind.mp3?referer=itunes" type="audio/mpeg" size="23680522"/>
+                    <itunes:summary>This very monumental thing happened in my life, and I had to write a song about it. This one is for Mike, Desmond, Claudia and the rest of my siblings I've yet to meet. 
+
+* updated audio 1-10-12
+
+LYRICS:
+
+The craziest thing just happened
+out of the blue
+I've been found
+I've been found
+
+I don't feel I deserve this
+It's too good to be true
+I'm the luckiest man left
+in town
+
+First time I've felt alive
+where I'm not wallowing in sin
+Maybe I'll turn out fine
+by throwing caution to the wind
+
+Should I invest emotion
+now that I've met you?
+I don't know how
+I know
+
+For once my
+heart is leading the charge to find some truth
+I won't go
+with the flow
+
+I swear I'm over it
+I am I am
+
+Time to take a risk
+Time to fake a stand
+Time to make a memory
+that was 
+never planned
+
+First time I felt alive
+I'm throwing 
+caution to the wind
+
+</itunes:summary>
+                    <itunes:duration>9:52</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Caution To The Wind Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Marijuana</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/marijuana</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/marijuana.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 28 May 2011 08:01:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/marijuana.mp3?referer=itunes" type="audio/mpeg" size="7537894"/>
+                    <itunes:summary>Still smokin . . .</itunes:summary>
+                    <itunes:duration>3:08</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Marijuana Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Mother May I*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/mother-may-i</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/mother-may-i.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 12 May 2011 00:27:26 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/mother-may-i.mp3?referer=itunes" type="audio/mpeg" size="15217894"/>
+                    <itunes:summary>Still have not called.
+
+LYRICS:
+
+Mother
+May I take a few steps forward
+Mother
+May I leave this place
+behind
+
+Mother
+I don't want to go to heaven
+Mother
+Maybe I don't want to die
+
+Unfortunate son of a bitch
+who gets to barter for his bride
+Wide awake at the switch
+and completely empty inside
+Unfortunate son of a bitch
+who doesn't get to decide
+Wide awake at the switch
+when she opens herself wide
+
+Mother
+may I stop trusting in fictions
+Mother
+may I cut through all the lies
+
+Mother I may
+go my own way
+no more of this ruse
+Nail the scoundrels
+to their crosses
+can't take your abuse
+As for father
+I will call him
+when I work this out
+If you never 
+hear the phone ring
+know that it's your fault
+
+I set out across the heartland
+and watched the nation scrolling by
+toward a future yet unknown
+Pardon me if I live my life
+
+Say my prayers
+I betray her
+with every single step
+Keep on walking
+keep on talking
+Time will do the rest
+
+Unfortunate son of a bitch
+Fortunate son of a bitch
+yeah
+</itunes:summary>
+                    <itunes:duration>6:20</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Mother May I* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Straightjacket</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/straightjacket</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/straightjacket.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 28 Apr 2011 10:58:41 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/straightjacket.mp3?referer=itunes" type="audio/mpeg" size="12081110"/>
+                    <itunes:summary>This song was a challenge to write . . .
+
+LYRICS:
+
+Order for your protection
+under threat of a gun
+You might be confined here
+till the damage is done
+
+Lock him up and toss the key
+It's for your own good
+Straightjacket
+Done
+
+Tie me up hold you down now
+It's all part of the plan
+Got a scrip for anger
+and a shot for the pain
+
+10 9 8 7 6 5 4 3 2 1
+
+Pain
+Done
+
+
+</itunes:summary>
+                    <itunes:duration>5:02</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Straightjacket Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Compulsion*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/compulsion-3</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/compulsion-3.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 19 Apr 2011 01:06:57 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/compulsion-3.mp3?referer=itunes" type="audio/mpeg" size="18073600"/>
+                    <itunes:summary>I can't really help myself.
+
+*updated audio 5-17-12</itunes:summary>
+                    <itunes:duration>7:32</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Compulsion* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Broke</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/broke</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/broke.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 02 Apr 2011 08:01:20 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/broke.mp3?referer=itunes" type="audio/mpeg" size="9889959"/>
+                    <itunes:summary>I have no money. That sucks.
+
+Disclaimer: One of my buddies, Chris Schugg, wrote the riff heard during the verses back in 2005 and gave me his blessings to use it. (He's pretty much set his guitar down for good, if you can believe that.) 
+
+LYRICS:
+
+My pockets are empty
+I've got nothing to eat
+Sell my soul for a dollar
+Burn my shit for the heat
+
+I'm broke and
+I'm broken
+
+I stand on the corner
+Brother, you got a dime?
+Maybe you can save me
+from a life of hard time
+
+No money here
+No money</itunes:summary>
+                    <itunes:duration>4:07</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Broke Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>And So We Roll</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/and-so-we-roll</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/and-so-we-roll.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 24 Mar 2011 10:49:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/and-so-we-roll.mp3?referer=itunes" type="audio/mpeg" size="14662008"/>
+                    <itunes:summary>Everyone has had one of those special nights . . . 
+
+(The strings are not a sample.)
+
+UPDATED AUDIO 1-20-12
+
+LYRICS:
+
+Sneak out and slip into the night
+Shotgun we're going for a ride
+Forget your curfew
+Everything will be all right
+And so we roll
+
+She heard of someplace
+Who knows where
+Where we can go be alone
+
+I'll take my time now
+Who knows when
+she'll ask me to take her home
+
+It was the last time we felt right
+Smoked weed listened to Nevermind
+Your head upon my shoulder
+in the pale moonlight
+And so we roll
+
+</itunes:summary>
+                    <itunes:duration>6:07</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>And So We Roll Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Disease</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/disease</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/disease.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 10 Mar 2011 05:51:13 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/disease.mp3?referer=itunes" type="audio/mpeg" size="2525309"/>
+                    <itunes:summary>First song of 2011 . . . 
+
+LYRICS:
+
+She has a disease
+Never learned to please anyone
+else other than herself
+Fuck the world and give em hell
+
+She's down on her knees
+Swaying in the breeze and when she 
+leans that way I go along
+Bending even though its wrong
+
+Regret
+Defect
+I bet you're unclean
+
+Inject
+Infect
+I get your disease</itunes:summary>
+                    <itunes:duration>2:38</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Disease Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Black Ice*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/black-ice</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/black-ice.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 14 Jan 2011 12:28:15 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/black-ice.mp3?referer=itunes" type="audio/mpeg" size="4501838"/>
+                    <itunes:summary>Some people need to fall down every now and then.
+
+LYRICS:
+
+Won't you ever go away
+cause I feel the same way too
+Did you have your kicks and eat them too
+
+Did you ever cross the line
+I confess is undefined
+Did you have your taste of rotten fruit
+
+I guess that I am not the better man
+Be my guest and go redeem your pride
+Its obvious we're standing on black ice
+
+Is it hard to find the door
+when you're sprawled upon the floor
+Did you know the only way is up
+
+Must be tough to be so wrong
+that you feel that you belong
+I'm here to tell you about the brutal truth
+
+You steer clear
+Black ice here
+Let's be clear
+Black ice here</itunes:summary>
+                    <itunes:duration>4:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Black Ice* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The Moment Arrives*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-moment-arrives</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-moment-arrives.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 07 Jan 2011 13:03:13 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-moment-arrives.mp3?referer=itunes" type="audio/mpeg" size="3192790"/>
+                    <itunes:summary>From now on, asterisk = final version . . .
+
+Anyways, the moment was long overdue for a redo. ;)</itunes:summary>
+                    <itunes:duration>3:20</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The Moment Arrives* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>We Don't Use That Word</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/we-dont-use-that-word</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/we-dont-use-that-word.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 27 Dec 2010 09:22:49 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/we-dont-use-that-word.mp3?referer=itunes" type="audio/mpeg" size="8089600"/>
+                    <itunes:summary>I'm getting sick of the same old chords.
+
+LYRICS:
+I'm retarded
+I'm a stooge
+I can keep myself amused
+
+Have a hand in
+my abuse
+Set a spark and light the fuse
+
+I'm retarded
+I am rude
+I am average
+I'm obtuse
+
+We don't use that word anymore
+We don't use that word
+
+*** UPDATED AUDIO 1-19-12</itunes:summary>
+                    <itunes:duration>3:22</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>We Don't Use That Word Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The Rubber And The Glue*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 16 Dec 2010 08:36:40 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue.mp3?referer=itunes" type="audio/mpeg" size="8161698"/>
+                    <itunes:summary>Aah . . . finally . . . a version of this I'm satisfied with. 
+
+Funny thing, I thought I was taking a break from music.
+
+LYRICS:
+
+I've been without
+Withheld within
+I've choked my pride held down around my well-worn shoes
+
+Adhere it now
+undoctored skin
+We are all held together by the rubber and the glue
+
+Let's bounce off each other
+Let's call this a truce
+Stick to one another
+til we lose
+
+Insult my family
+Insult my name
+It doesn't matter
+in this game</itunes:summary>
+                    <itunes:duration>3:24</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The Rubber And The Glue* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Poor Man's Blues</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/poor-mans-blues</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/poor-mans-blues.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 17 Nov 2010 10:41:50 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/poor-mans-blues.mp3?referer=itunes" type="audio/mpeg" size="2021878"/>
+                    <itunes:summary>Something different.</itunes:summary>
+                    <itunes:duration>0:51</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Poor Man's Blues Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Something Stolen, Nothing Blue</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 15 Nov 2010 11:25:53 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue.mp3?referer=itunes" type="audio/mpeg" size="28009535"/>
+                    <itunes:summary>An irrational fear of marriage.</itunes:summary>
+                    <itunes:duration>11:40</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Something Stolen, Nothing Blue Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The End Is Coming Closer*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer-2.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 11 Nov 2010 08:36:24 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer-2.mp3?referer=itunes" type="audio/mpeg" size="9128229"/>
+                    <itunes:summary> . . . or least 3 and a half years closer than them first time I recorded this.
+
+*updated audio 8-11-12</itunes:summary>
+                    <itunes:duration>3:48</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The End Is Coming Closer* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Roadkill*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/roadkill-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/roadkill-2.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 09 Nov 2010 21:52:21 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/roadkill-2.mp3?referer=itunes" type="audio/mpeg" size="6817959"/>
+                    <itunes:summary>Another version of this. Door-to-door-to-door . . .
+
+*updated audio 1-16-12</itunes:summary>
+                    <itunes:duration>2:50</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Roadkill* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Overtime  (Final Version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/overtime-final-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/overtime-final-version.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 02 Nov 2010 10:06:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/overtime-final-version.mp3?referer=itunes" type="audio/mpeg" size="10921273"/>
+                    <itunes:summary>All work and no play . . .</itunes:summary>
+                    <itunes:duration>4:33</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Overtime  (Final Version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Second Thought*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/second-thought-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/second-thought-2.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 01 Nov 2010 01:41:43 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/second-thought-2.mp3?referer=itunes" type="audio/mpeg" size="11511641"/>
+                    <itunes:summary>I guess you could say I had second thoughts . . .
+
+(And then second thoughts about the song . . .)*
+
+*UPDATED 2-20-12
+
+LYRICS:
+
+Never inside you again
+unless you promise to pretend
+What happens next all depends
+on if 
+you change your ways
+
+I decide when this ends
+Who's my lover
+Who's my friend
+And if we're on the mend
+then
+I might change
+
+Second thought says hold on
+Sure I can do better than this
+However in the meantime
+I might settle for less
+
+Never inside you again
+unless you change your ways
+Never inside you again
+You never change your ways
+
+She's a liar 
+She's uncouth
+She plays fast and I withdrew
+Nosferatu
+Drink my youth and
+make me change</itunes:summary>
+                    <itunes:duration>4:48</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Second Thought* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Uncle Sam Stands Up</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/uncle-sam-stands-up</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/uncle-sam-stands-up.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 25 Oct 2010 09:51:57 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/uncle-sam-stands-up.mp3?referer=itunes" type="audio/mpeg" size="10129241"/>
+                    <itunes:summary>Just finished reading The Lucifer Principle . . .
+
+LYRICS:
+
+Every once in a while
+Uncle Sam stands up
+Line up single file
+Marching hup 2 3 4
+
+His unsure intentions
+make them disagree
+but he knows how to compromise
+Make them bend their knees
+
+March our sons off to fight
+Take what's left from the right
+
+
+He might lie
+to justify
+What plan might he use
+Does he know it can be shown
+even truth can be proved
+
+Set in place
+monumental disgrace
+Put em all on a leash
+Shake their hands and take their land
+Always come in peace
+
+March our sons off to fight
+Take what's left from the right
+Gonna throw ourselves a war
+Gonna win ourselves a way
+
+Ask not what you can do for your country
+Ask what what your country can do for you
+</itunes:summary>
+                    <itunes:duration>4:13</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Uncle Sam Stands Up Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>I Want It</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/i-want-it</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/i-want-it.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 17 Oct 2010 07:45:43 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/i-want-it.mp3?referer=itunes" type="audio/mpeg" size="11541943"/>
+                    <itunes:summary>One day I'm going to write a symphony. It gets heavy after the first 30 seconds.</itunes:summary>
+                    <itunes:duration>4:49</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>I Want It Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Something Stolen, Nothing Blue  (excerpt)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue-excerpt</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue-excerpt.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 15 Oct 2010 06:50:17 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/something-stolen-nothing-blue-excerpt.mp3?referer=itunes" type="audio/mpeg" size="10684082"/>
+                    <itunes:summary>This is part of a much larger song that I'm dreading having to finish. </itunes:summary>
+                    <itunes:duration>4:27</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Something Stolen, Nothing Blue  (excerpt) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Nashville Flooding</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/nashville-flooding</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/nashville-flooding.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 14 Oct 2010 09:21:05 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/nashville-flooding.mp3?referer=itunes" type="audio/mpeg" size="20134139"/>
+                    <itunes:summary>The instruments were easy, the vocals were hard.
+
+Anyways, I think a levee mighta busted . . .
+
+LYRICS:
+
+Nashville flooding again
+it seems all the country stars are dead
+Nashville flooding, my friend
+The level's rising over our heads
+
+Whichever way it flows
+That's the way I go
+
+And when it's flowing
+yeah, it's really flowing
+I said I'm going
+Yeah, I'm really going again
+
+Nashville's flooding, my friend
+All the floaters are well fed
+Nashville's silent and then
+Water plays its song instead
+
+Feel the rapids spin and toss me
+Pin me to the floor
+This must be what it's like to drown
+ten feet from the shore
+
+I'm going under
+
+* Updated audio 5-17-12
+
+
+
+</itunes:summary>
+                    <itunes:duration>8:23</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Nashville Flooding Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Klepto (final version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/klepto-final-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/klepto-final-version.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 03 Oct 2010 09:12:17 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/klepto-final-version.mp3?referer=itunes" type="audio/mpeg" size="8017502"/>
+                    <itunes:summary>Theft steals from the thief.</itunes:summary>
+                    <itunes:duration>3:20</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Klepto (final version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Retrograde</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/retrograde</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/retrograde.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 30 Sep 2010 22:28:16 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/retrograde.mp3?referer=itunes" type="audio/mpeg" size="15457176"/>
+                    <itunes:summary>When is a breakup not a breakup?</itunes:summary>
+                    <itunes:duration>6:26</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Retrograde Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>What Have You Done*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/what-have-you-done</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/what-have-you-done.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 27 Sep 2010 08:20:13 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/what-have-you-done.mp3?referer=itunes" type="audio/mpeg" size="5775151"/>
+                    <itunes:summary>First song I ever wrote, third time I've tried this. 
+
+*updated audio 9-21-03</itunes:summary>
+                    <itunes:duration>2:24</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>What Have You Done* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Pussin Out</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/pussin-out</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/pussin-out.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 24 Sep 2010 04:46:12 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/pussin-out.mp3?referer=itunes" type="audio/mpeg" size="12398759"/>
+                    <itunes:summary>I like to jam with my buddy Chris, but he gets tired after just a few songs. One day, on his way out the door I started playing this (the original chorus was: Chris is pussin out, he is going home . . .)
+
+*updated audio 1-12-11 </itunes:summary>
+                    <itunes:duration>5:10</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Pussin Out Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Entropy (final version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/entropy-final-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/entropy-final-version.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 23 Sep 2010 05:29:12 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/entropy-final-version.mp3?referer=itunes" type="audio/mpeg" size="9814727"/>
+                    <itunes:summary>This song is pretty much how I feel on most days . . .
+
+UPDATED AUDIO: 1-21-12
+
+LYRICS:
+
+Make waves to
+amplify the sound
+Send in the tide
+
+Breath aches
+as the breaker breaks
+I need a bride
+
+Anointed knight
+bringing the fight
+to entropy
+
+One thing I can reaffirm
+tethered to ground
+See how we all seek the best 
+way to fall down
+
+Across the sky we carve a path
+to draw the sun</itunes:summary>
+                    <itunes:duration>4:05</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Entropy (final version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Nobody Knows That I'm New Wave (Nirvana Cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/nobody-knows-that-im-new-wave-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/nobody-knows-that-im-new-wave-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 20 Sep 2010 09:11:59 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/nobody-knows-that-im-new-wave-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="8833567"/>
+                    <itunes:summary>updated- fixed some audio
+
+This one is a really rare song they jammed on once live. I sort of listened to this: 
+
+http://www.youtube.com/watch?v=aMFhjYdInBU&amp;feature=related 
+
+and then I filled in the blanks so to speak. (per the guitar solo, how could I not make it that way with a song title like that?)</itunes:summary>
+                    <itunes:duration>3:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Nobody Knows That I'm New Wave (Nirvana Cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Cigarettes (redo)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/cigarettes-redo</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/cigarettes-redo.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 16 Sep 2010 08:12:54 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/cigarettes-redo.mp3?referer=itunes" type="audio/mpeg" size="6505535"/>
+                    <itunes:summary>I still can't quit the fucking things.</itunes:summary>
+                    <itunes:duration>2:43</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Cigarettes (redo) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Overtime V 2.0 (no vocals yet)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/overtime-v-20-no-vocals-yet</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/overtime-v-20-no-vocals-yet.mp3?referer=itunes</guid>
+                    <pubDate>Sun, 12 Sep 2010 07:28:18 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/overtime-v-20-no-vocals-yet.mp3?referer=itunes" type="audio/mpeg" size="10969339"/>
+                    <itunes:summary>I'm not going to spoil any more surprises until I'm done- but one more to hold you over in the time being . . .
+
+You can hear the original with lyrics below.</itunes:summary>
+                    <itunes:duration>4:34</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Overtime V 2.0 (no vocals yet) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>I Want It (no vocals yet)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/i-want-it-no-vocals-yet</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/i-want-it-no-vocals-yet.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 11 Sep 2010 05:43:41 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/i-want-it-no-vocals-yet.mp3?referer=itunes" type="audio/mpeg" size="9701878"/>
+                    <itunes:summary>This gets pretty heavy after the intro. I trimmed out a verse/chorus for now . . .</itunes:summary>
+                    <itunes:duration>4:03</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>I Want It (no vocals yet) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Nashville Flooding - instrumental version</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/nashville-flooding-instrumental-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/nashville-flooding-instrumental-version.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 11 Sep 2010 05:23:48 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/nashville-flooding-instrumental-version.mp3?referer=itunes" type="audio/mpeg" size="17909551"/>
+                    <itunes:summary>I've just finished the music on 17 songs and I still have to go through and do the vocals, a daunting undertaking. Before I add vocals, to whet the appetite . . .
+
+This one will eventually have lyrics about dead country stars and such.</itunes:summary>
+                    <itunes:duration>7:28</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Nashville Flooding - instrumental version Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Mantra</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/mantra</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/mantra.mp3?referer=itunes</guid>
+                    <pubDate>Sat, 31 Jul 2010 01:27:38 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/mantra.mp3?referer=itunes" type="audio/mpeg" size="4763525"/>
+                    <itunes:summary>I've got a whole new batch of tunes I've been working on, as well as some desperately needed redos.
+
+This one is wordless. Ohm . . .</itunes:summary>
+                    <itunes:duration>4:57</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Mantra Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>1- Flashes Before My Eyes, Pt.1</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/1-flashes-before-my-eyes-pt1</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/1-flashes-before-my-eyes-pt1.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 22:07:14 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/1-flashes-before-my-eyes-pt1.mp3?referer=itunes" type="audio/mpeg" size="2417744"/>
+                    <itunes:summary>This song is the intro part of my epic: the sixteen numbered tracks are all part of one song and flow into one another without any pause. </itunes:summary>
+                    <itunes:duration>1:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>1- Flashes Before My Eyes, Pt.1 Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>2 - The Moment Arrives</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/2-the-moment-arrives</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/2-the-moment-arrives.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 22:06:54 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/2-the-moment-arrives.mp3?referer=itunes" type="audio/mpeg" size="4918592"/>
+                    <itunes:summary>He takes his first steps upon the stage.</itunes:summary>
+                    <itunes:duration>3:25</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>2 - The Moment Arrives Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>3 - Mother May I</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/3-mother-may-i</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/3-mother-may-i.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:58:30 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/3-mother-may-i.mp3?referer=itunes" type="audio/mpeg" size="8257035"/>
+                    <itunes:summary>My mother is not a nice lady. I haven't spoken to her since the day I turned 18.</itunes:summary>
+                    <itunes:duration>5:44</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>3 - Mother May I Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>4 - I Think I'm Sick</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/4-i-think-im-sick</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/4-i-think-im-sick.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:57:53 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/4-i-think-im-sick.mp3?referer=itunes" type="audio/mpeg" size="7587469"/>
+                    <itunes:summary>I used to think I might be schizo.</itunes:summary>
+                    <itunes:duration>5:16</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>4 - I Think I'm Sick Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>5- Metamorphosis</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/5-metamorphosis</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/5-metamorphosis.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:57:30 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/5-metamorphosis.mp3?referer=itunes" type="audio/mpeg" size="9719058"/>
+                    <itunes:summary>Told my crazy family sayonara.</itunes:summary>
+                    <itunes:duration>6:45</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>5- Metamorphosis Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>6 - Compulsion</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/6-compulsion</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/6-compulsion.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:57:01 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/6-compulsion.mp3?referer=itunes" type="audio/mpeg" size="10426869"/>
+                    <itunes:summary>We all wank or we're liars.</itunes:summary>
+                    <itunes:duration>7:14</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>6 - Compulsion Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>7 - Cookie Jar</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/7-cookie-jar</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/7-cookie-jar.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:56:32 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/7-cookie-jar.mp3?referer=itunes" type="audio/mpeg" size="9954784"/>
+                    <itunes:summary>I hated my friend's ex-girlfriend. Screw you, Keitha Lynn Barney.</itunes:summary>
+                    <itunes:duration>6:55</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>7 - Cookie Jar Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>8 - The Rubber and the Glue</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/8-the-rubber-and-the-glue</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/8-the-rubber-and-the-glue.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:55:53 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/8-the-rubber-and-the-glue.mp3?referer=itunes" type="audio/mpeg" size="4684749"/>
+                    <itunes:summary>Sticks and stones . . .</itunes:summary>
+                    <itunes:duration>3:15</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>8 - The Rubber and the Glue Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>9 - Black Ice</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/9-black-ice</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/9-black-ice.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:46:33 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/9-black-ice.mp3?referer=itunes" type="audio/mpeg" size="4032719"/>
+                    <itunes:summary>Break ups stink, especially when the other person gets petty.</itunes:summary>
+                    <itunes:duration>2:48</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>9 - Black Ice Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>10 - Out of the Eater</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/10-out-of-the-eater</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/10-out-of-the-eater.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:45:56 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/10-out-of-the-eater.mp3?referer=itunes" type="audio/mpeg" size="8612515"/>
+                    <itunes:summary>OUT OF THE EATER CAME FORTH MEAT.
+OUT OF THE ETHER CAME FORTH ME.</itunes:summary>
+                    <itunes:duration>5:59</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>10 - Out of the Eater Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>11 - Divide and Conquer</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/11-divide-and-conquer</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/11-divide-and-conquer.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:45:28 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/11-divide-and-conquer.mp3?referer=itunes" type="audio/mpeg" size="5639573"/>
+                    <itunes:summary>I have a tendency to distance myself from other people.</itunes:summary>
+                    <itunes:duration>3:55</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>11 - Divide and Conquer Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>12 - Or All The Seas With Oysters</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/12-or-all-the-seas-with-oysters</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/12-or-all-the-seas-with-oysters.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:45:02 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/12-or-all-the-seas-with-oysters.mp3?referer=itunes" type="audio/mpeg" size="6648327"/>
+                    <itunes:summary>The title comes from a story by Avram Davidson. </itunes:summary>
+                    <itunes:duration>4:37</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>12 - Or All The Seas With Oysters Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>13 - Shortcut</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/13-shortcut</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/13-shortcut.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:44:39 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/13-shortcut.mp3?referer=itunes" type="audio/mpeg" size="4115475"/>
+                    <itunes:summary>Who needs a map?</itunes:summary>
+                    <itunes:duration>2:51</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>13 - Shortcut Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>14 - Metal on Metal</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/14-metal-on-metal</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/14-metal-on-metal.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:44:17 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/14-metal-on-metal.mp3?referer=itunes" type="audio/mpeg" size="17454230"/>
+                    <itunes:summary>This is like 5 songs in one. (The drums at the beginning aren't the greatest, but give it a chance.)</itunes:summary>
+                    <itunes:duration>12:07</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>14 - Metal on Metal Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>15 - Since It's All Over</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/15-since-its-all-over</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/15-since-its-all-over.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:43:29 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/15-since-its-all-over.mp3?referer=itunes" type="audio/mpeg" size="3911104"/>
+                    <itunes:summary>The violins are all me (as in all the other songs I've posted).</itunes:summary>
+                    <itunes:duration>2:43</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>15 - Since It's All Over Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>16 - Flashes Before My Eyes, Pt. 2</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/16-flashes-before-my-eyes-pt-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/16-flashes-before-my-eyes-pt-2.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 23 Dec 2009 21:37:55 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/16-flashes-before-my-eyes-pt-2.mp3?referer=itunes" type="audio/mpeg" size="3989481"/>
+                    <itunes:summary> . . . and so it ends as it began . . .</itunes:summary>
+                    <itunes:duration>2:46</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>16 - Flashes Before My Eyes, Pt. 2 Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Overtime (demo version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/overtime-demo-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/overtime-demo-version.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 22 Dec 2009 21:02:20 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/overtime-demo-version.mp3?referer=itunes" type="audio/mpeg" size="12081110"/>
+                    <itunes:summary>Sometimes I work too much.</itunes:summary>
+                    <itunes:duration>5:02</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Overtime (demo version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Yuppie (first version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/yuppie-first-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/yuppie-first-version.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 22 Dec 2009 21:01:23 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/yuppie-first-version.mp3?referer=itunes" type="audio/mpeg" size="9783380"/>
+                    <itunes:summary>I did another version of this song, but I still think this version is pretty cool.</itunes:summary>
+                    <itunes:duration>4:05</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Yuppie (first version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Seasons (demo version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/seasons-demo-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/seasons-demo-version.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 22 Dec 2009 20:59:40 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/seasons-demo-version.mp3?referer=itunes" type="audio/mpeg" size="4470322"/>
+                    <itunes:summary>Another old demo. Later (on the advice of a friend) I added a solo and a reprise to the second version.</itunes:summary>
+                    <itunes:duration>3:06</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Seasons (demo version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Hell Can't Wait (demo version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/hell-cant-wait-demo-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/hell-cant-wait-demo-version.mp3?referer=itunes</guid>
+                    <pubDate>Tue, 22 Dec 2009 20:58:37 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/hell-cant-wait-demo-version.mp3?referer=itunes" type="audio/mpeg" size="4951810"/>
+                    <itunes:summary>My first attempt at this song. (Obviously I was still learning how to mix music.)</itunes:summary>
+                    <itunes:duration>3:26</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Hell Can't Wait (demo version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Stationary Bike</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/stationary-bike</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/stationary-bike.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Dec 2009 20:42:31 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/stationary-bike.mp3?referer=itunes" type="audio/mpeg" size="9739743"/>
+                    <itunes:summary>Ever feel like you're running in place?
+
+LYRICS:
+
+It's time for reformation
+Moment's here to strike
+I'm whipping winds of change up
+on my stationary bike
+
+I will sing this song
+I will sing this song aloud
+if I'm allowed
+
+With my inner voice
+I will do my mother proud
+Express my doubt
+
+Sensing pressure heading downward
+Something's rising in the east
+The storm is right on the horizon
+while shelter's out of reach
+
+Go on and on and on
+a little bit moron
+
+No more pity tears
+All I have to fear is fear</itunes:summary>
+                    <itunes:duration>6:46</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Stationary Bike Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Severance Package (version 2)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/severance-package-version-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/severance-package-version-2.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Dec 2009 20:41:46 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/severance-package-version-2.mp3?referer=itunes" type="audio/mpeg" size="5205721"/>
+                    <itunes:summary>Another version of this song. I think I like this one more.</itunes:summary>
+                    <itunes:duration>3:37</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Severance Package (version 2) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The Rubber And The Glue (acoustic)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue-acoustic</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue-acoustic.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Dec 2009 20:40:58 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-rubber-and-the-glue-acoustic.mp3?referer=itunes" type="audio/mpeg" size="3289796"/>
+                    <itunes:summary>Early version of this song.</itunes:summary>
+                    <itunes:duration>2:17</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The Rubber And The Glue (acoustic) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Klepto</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/klepto</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/klepto.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Dec 2009 20:40:16 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/klepto.mp3?referer=itunes" type="audio/mpeg" size="8241110"/>
+                    <itunes:summary>I used to have a problem.
+
+Updated audio 12-18-11</itunes:summary>
+                    <itunes:duration>3:26</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Klepto Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Cigarettes</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/cigarettes</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/cigarettes.mp3?referer=itunes</guid>
+                    <pubDate>Mon, 21 Dec 2009 20:39:38 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/cigarettes.mp3?referer=itunes" type="audio/mpeg" size="4173779"/>
+                    <itunes:summary>I can't quit.</itunes:summary>
+                    <itunes:duration>2:54</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Cigarettes Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Insurrection</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/insurrection</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/insurrection.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 21:06:42 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/insurrection.mp3?referer=itunes" type="audio/mpeg" size="4170041"/>
+                    <itunes:summary>For the record, the verses are in 7/8 time.
+
+LYRICS:
+
+This is the last time that I try this
+This is the final first attempt
+and if I fail in my endeavor
+Nobody can claim that I am heaven sent
+
+Still not as bad as the civil war inside my head
+Once side looks me in the eye
+One side left for dead
+
+Not as if anyone would notice
+Not in the phone books or the press
+Might as well go scream to the nothing
+wait as the echo ricochets into my chest
+
+Sense that insurrection
+She's in on the plot
+Part of her is underground
+waiting to be shot</itunes:summary>
+                    <itunes:duration>2:54</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Insurrection Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Assuming You*</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/assuming-you</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/assuming-you.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 21:05:33 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/assuming-you.mp3?referer=itunes" type="audio/mpeg" size="3121110"/>
+                    <itunes:summary>This is the second version I've done of this. Finally tidied up the audio on this one and suddenly it's more like a song.
+
+* updated 9-16-12</itunes:summary>
+                    <itunes:duration>1:18</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Assuming You* Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Forgone</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/forgone</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/forgone.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:44:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/forgone.mp3?referer=itunes" type="audio/mpeg" size="4242134"/>
+                    <itunes:summary>Kind of Foo Fightery. One of the first songs I wrote.</itunes:summary>
+                    <itunes:duration>2:57</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Forgone Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Headbang</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/headbang</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/headbang.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:43:25 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/headbang.mp3?referer=itunes" type="audio/mpeg" size="7504725"/>
+                    <itunes:summary>Why do I bang my head? </itunes:summary>
+                    <itunes:duration>5:13</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Headbang Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Judge Jury and Executioner</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/judge-jury-and-executioner</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/judge-jury-and-executioner.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:41:53 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/judge-jury-and-executioner.mp3?referer=itunes" type="audio/mpeg" size="7247698"/>
+                    <itunes:summary>I'm not a fan of judgmental people.</itunes:summary>
+                    <itunes:duration>5:02</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Judge Jury and Executioner Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>What Have You Done (demo version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/what-have-you-done-demo-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/what-have-you-done-demo-version.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:40:07 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/what-have-you-done-demo-version.mp3?referer=itunes" type="audio/mpeg" size="5646629"/>
+                    <itunes:summary>The first song I ever wrote. </itunes:summary>
+                    <itunes:duration>2:21</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>What Have You Done (demo version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Seasons</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/seasons</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/seasons.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:27:59 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/seasons.mp3?referer=itunes" type="audio/mpeg" size="6833006"/>
+                    <itunes:summary>I spent a lot of time alone driving around the Dakotas in the winter. I remember standing, looking out at a perfectly level horizon: all white below, all blue above.</itunes:summary>
+                    <itunes:duration>4:45</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Seasons Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Paranoia</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/paranoia-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/paranoia-2.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:17:39 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/paranoia-2.mp3?referer=itunes" type="audio/mpeg" size="5183171"/>
+                    <itunes:summary>Perfect paranoia is perfect awareness.
+
+LYRICS:
+
+Notice the world getting worse not better
+White men in sheets decide the weather
+and whether or not to eat the weak
+Inherit the mighty from the meekest
+
+Federal agents tracking the phone lines
+Trenchcoat mafia infiltrates my mind
+Satellites recording in open space
+"Thank you very much" said the human race
+
+Take my pills and see the future right
+nothing's fair 'cause nothing is
+Paranoia illuminates the night
+Show me where it is
+
+Aliens probe me Test me Scold me
+Another fellow shoots from the grassy knoll
+the bombs are blowing Let's take it all down
+then blame it on people whose skin is brown
+
+Do it for oil or maybe for sand
+or a one-way ticket to the Promised Land
+If only I could figure out where I am at
+Allow me to adjust my tinfoil hat
+
+And when I tell you I'm not afraid
+I am afraid
+and that's okay
+
+So when I tell you I'm not afraid
+I am afraid
+and that's okay
+
+Paranoid
+
+Paranoia
+</itunes:summary>
+                    <itunes:duration>3:36</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Paranoia Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Severance Package</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/severance-package</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/severance-package.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:16:12 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/severance-package.mp3?referer=itunes" type="audio/mpeg" size="3167571"/>
+                    <itunes:summary>I had a bad break up.
+
+LYRICS:
+
+In the dust of our mistrust
+I could swear it's gone
+I can cry myself to sleep
+if I want
+
+In the wake of this heartbreak
+I could think you'd care
+You only want what you want
+That's not fair
+
+No more who're better
+Who placed a bet?
+Nothing left to say here
+or to regret
+</itunes:summary>
+                    <itunes:duration>2:12</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Severance Package Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Politics</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/politics</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/politics.mp3?referer=itunes</guid>
+                    <pubDate>Fri, 18 Dec 2009 20:15:15 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/politics.mp3?referer=itunes" type="audio/mpeg" size="3723657"/>
+                    <itunes:summary>I was going to do vocals for this one, but I haven't come up with a good melody yet.</itunes:summary>
+                    <itunes:duration>2:35</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Politics Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Second Thought</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/second-thought</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/second-thought.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 21:21:59 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/second-thought.mp3?referer=itunes" type="audio/mpeg" size="4515486"/>
+                    <itunes:summary>Second thoughts. We all have them.</itunes:summary>
+                    <itunes:duration>3:08</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Second Thought Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Candy in My Van</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/candy-in-my-van</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/candy-in-my-van.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 21:20:32 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/candy-in-my-van.mp3?referer=itunes" type="audio/mpeg" size="4674102"/>
+                    <itunes:summary>When I was a kid, I was walking home from school with my foster brothers. Some guy in a black Camaro pulled up on the side of the road and said . . .</itunes:summary>
+                    <itunes:duration>3:15</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Candy in My Van Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Roadkill</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/roadkill</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/roadkill.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 21:04:20 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/roadkill.mp3?referer=itunes" type="audio/mpeg" size="4517987"/>
+                    <itunes:summary>I used to be a door-to-door salesman traveling the midwest.</itunes:summary>
+                    <itunes:duration>3:08</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Roadkill Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Entropy</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/entropy</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/entropy.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 21:03:04 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/entropy.mp3?referer=itunes" type="audio/mpeg" size="5248997"/>
+                    <itunes:summary>I could have redone this song, but I kind of liked the grungy feel of this recording.</itunes:summary>
+                    <itunes:duration>3:39</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Entropy Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Five Rode Forth</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/five-rode-forth</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/five-rode-forth.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:57:43 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/five-rode-forth.mp3?referer=itunes" type="audio/mpeg" size="4435864"/>
+                    <itunes:summary>5/4 time, prophecy and jazz a la Disenfortunado. </itunes:summary>
+                    <itunes:duration>3:05</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Five Rode Forth Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Shrinking Man</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/shrinking-man</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/shrinking-man.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:27:44 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/shrinking-man.mp3?referer=itunes" type="audio/mpeg" size="4419564"/>
+                    <itunes:summary>This one's either about dieting or religion.</itunes:summary>
+                    <itunes:duration>3:04</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Shrinking Man Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Misanthropist</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/misanthropist</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/misanthropist.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:27:01 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/misanthropist.mp3?referer=itunes" type="audio/mpeg" size="4115498"/>
+                    <itunes:summary>Sometimes I hate everyone.
+
+LYRICS:
+
+Do I remember? I forget
+Self-delusional sensitive mess
+Cannot exist without a complaint
+Cannot resist without a restraint
+
+Is it amnesia or ambivalence
+Cowardice or self-defense
+I know enough to place the blame
+let another become defamed
+
+Not gonna be missed
+Misanthropist
+Deep in thought and mood
+
+One day you'll have a cause of death
+Maybe your heart's under arrest
+Maybe the pain will set us free
+Scatter our atoms into debris
+
+Making a promise with a ring
+to settle it down and live in sin
+experience a sure decline
+least I'll have something to make mine
+
+He thrusts his fists against the post
+He sees the ghost
+
+</itunes:summary>
+                    <itunes:duration>2:51</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Misanthropist Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Unitarian</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/unitarian</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/unitarian.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:25:46 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/unitarian.mp3?referer=itunes" type="audio/mpeg" size="5264673"/>
+                    <itunes:summary>My roommate was a rasta. I'd hear reggae playing in the background almost daily and after a while the subject matter and the grooves really grew on me. This one's for Alejandro.
+
+LYRICS:
+
+I hope the sun is shining
+wherever you may be
+I hope the world smiles upon you
+and doesn't show her teeth
+
+I hope your having a nice day
+I mean that in the most sincere way
+
+I can see it so clearly
+Flowers in your hair
+All the birds are singing
+and dancing in the air</itunes:summary>
+                    <itunes:duration>3:39</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Unitarian Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Hell Can't Wait (acoustic)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/hell-cant-wait-acoustic</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/hell-cant-wait-acoustic.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:19:37 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/hell-cant-wait-acoustic.mp3?referer=itunes" type="audio/mpeg" size="1587200"/>
+                    <itunes:summary>I was sitting with a friend of mine. I said, "I can make a song in three minutes" and I had these chords so this was the result.
+
+Later on, I rerecorded it as a song, and yet again as the version posted now.</itunes:summary>
+                    <itunes:duration>0:40</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Hell Can't Wait (acoustic) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Hell Can't Wait</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/hell-cant-wait</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/hell-cant-wait.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 20:17:38 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/hell-cant-wait.mp3?referer=itunes" type="audio/mpeg" size="5197596"/>
+                    <itunes:summary>Smother me in linen dressings.
+
+LYRICS:
+
+Stitch me a new religion
+Suture me with indecision
+Grafting faith in place of reason
+Hell can't wait
+
+Smother me in linen dressings
+Pronounce me cured with Jesus's blessing
+Heal this soul for resurrecting
+Hell can't wait
+
+Disassembled
+then reattached
+and integrated with me
+
+Stitch me a new confession
+Suture me with with indiscretion
+Grafting logic in place of passion
+Hell can't wait
+
+Smother me in linen bedsheets
+Cured inside 'cause Jesus likes me
+Heal this soul until the final heartbeat
+Hell can't wait
+
+</itunes:summary>
+                    <itunes:duration>3:36</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Hell Can't Wait Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Oblivious</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/oblivious-2</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/oblivious-2.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 19:39:41 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/oblivious-2.mp3?referer=itunes" type="audio/mpeg" size="8655784"/>
+                    <itunes:summary>The words came first, the music followed. It's about weed.
+
+</itunes:summary>
+                    <itunes:duration>6:01</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Oblivious Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>VCVCBSC</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/vcvcbsc</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/vcvcbsc.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 19:37:28 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/vcvcbsc.mp3?referer=itunes" type="audio/mpeg" size="8220060"/>
+                    <itunes:summary>I was writing one song after another after another. This song is about that. 
+
+LYRICS:
+
+Everybody wants to find out my secrets
+I can reaffirm its true
+They say evidently it is elementary
+Sharing can be good for you
+
+Pay no attention to the man behind the curtain
+He's ignorant of this
+Watch instead as the feedback overpowers
+Like an unwanted kiss
+
+Turns out I am good at something
+Who would have figured that
+Practice makes a moron perfect
+Pat me on the back
+Screw today I'll play away
+Turns out I am good at something
+Who would have figured that
+
+My secret is that I do not have a secret
+Everything just comes to me
+Write out some notes and you put em in some order
+It really is that easy
+
+No abracadabra Expecto Petronum
+Magic formula I've not
+Neurons are firing this whole disorder
+and gave me everything I've got
+
+Verse then chorus then verse then chorus then bridge then solo then chorus</itunes:summary>
+                    <itunes:duration>5:42</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>VCVCBSC Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Grey Matter</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/grey-matter</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/grey-matter.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:38:44 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/grey-matter.mp3?referer=itunes" type="audio/mpeg" size="3491065"/>
+                    <itunes:summary>Life is unfair; one day I was really mad about that.</itunes:summary>
+                    <itunes:duration>2:25</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Grey Matter Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Unbearable Likeness to Being</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/unbearable-likeness-to-being</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/unbearable-likeness-to-being.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:30:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/unbearable-likeness-to-being.mp3?referer=itunes" type="audio/mpeg" size="6138645"/>
+                    <itunes:summary>This one was fun. Backwards tracks, violins and sitars . . .</itunes:summary>
+                    <itunes:duration>4:16</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Unbearable Likeness to Being Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Afterlife</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/afterlife</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/afterlife.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:28:35 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/afterlife.mp3?referer=itunes" type="audio/mpeg" size="6448961"/>
+                    <itunes:summary>LYRICS:
+
+We are all ghosts
+who walk the earth
+Everyone you see and
+everyone you don't see
+Don't know we're dead
+through self-deception
+People pretend
+it turns out well
+
+Don't know what'll happen after this
+but I can
+hazard an educated guess
+We decay
+then we transform into dirt
+Then we haunt it
+til the ground begins to hurt
+
+Someone would say
+there's method to madness
+but how do they know 
+to tell the difference
+What should I care
+what others are thinking
+They are just ghosts
+and I am living
+
+You're never alone
+</itunes:summary>
+                    <itunes:duration>4:29</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Afterlife Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>The End is Coming Closer</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:20:33 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/the-end-is-coming-closer.mp3?referer=itunes" type="audio/mpeg" size="4409544"/>
+                    <itunes:summary>I like 20th century classical music. Grand Canyon Suite, can you dig it?</itunes:summary>
+                    <itunes:duration>3:04</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>The End is Coming Closer Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Last One</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/last-one</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/last-one.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:18:55 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/last-one.mp3?referer=itunes" type="audio/mpeg" size="3704221"/>
+                    <itunes:summary>I was unemployed for 5 months. This was the last one I recorded before I became just another working man.
+
+LYRICS:
+
+Last one left to
+finish then I'm through
+Sorry if I'm
+under the gun
+
+Three more seconds
+antidepressant
+Afterwards we'll
+have some fun
+
+Now it's complete
+Spread out at my feet
+You could scarcely trust your eyes
+
+Can you taste it
+time I've wasted
+when I could have had a life
+
+This might be my day off
+this might be my day
+
+Come out and play
+It's still today
+come out and play
+
+
+</itunes:summary>
+                    <itunes:duration>2:34</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Last One Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Marijuana (demo version)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/marijuana-demo-version</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/marijuana-demo-version.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:17:45 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/marijuana-demo-version.mp3?referer=itunes" type="audio/mpeg" size="4361254"/>
+                    <itunes:summary>I used to smoke sometimes, so what.
+
+Lyrics (as requested):
+
+Got a bag of weed
+Know how to be numb
+Light it up and pass it
+We all can be dumb
+
+It's fun to smoke marijuana
+I'm one to toke when I wanna
+
+I know I'm not poor
+enough to see this through
+How can we be bored
+when there's so much to do
+
+if you're alone
+go get stoned
+you'll feel at home
+everywhere</itunes:summary>
+                    <itunes:duration>3:02</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Marijuana (demo version) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>#44</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/44</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/44.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:10:22 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/44.mp3?referer=itunes" type="audio/mpeg" size="4328647"/>
+                    <itunes:summary>I'm afraid of death. Hope I don't die when I'm 44.
+
+LYRICS:
+
+The man in black professed to me
+the secret of this life
+The conundrum of human pain
+The reason for this strife
+
+It doesn't make much sense
+I knew that much was true
+But what he told me
+tripped me out into the blue
+
+#NUMBER 44
+
+Two score and two and two
+Pandora learned to fear
+L C I V is out for
+all which we hold dear
+
+It'll be the death of you</itunes:summary>
+                    <itunes:duration>3:00</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>#44 Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Yuppie</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/yuppie</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/yuppie.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:09:05 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/yuppie.mp3?referer=itunes" type="audio/mpeg" size="6171850"/>
+                    <itunes:summary>I know the world needs the upwardly mobile, but that doesn't mean I have to like it.
+
+LYRICS:
+
+Success is regressive
+Step forward is two steps back
+A world unimpressive
+judging me for what I lack
+
+Defying convention
+all rules are relative
+So it bears a mention
+To conform is to exist
+
+I'm not what you think
+I'm not what you think
+I'm not what you think
+
+Call it passive-aggressive
+They make the world flat
+constructing our heavens
+Who can keep up with that
+
+So we make inventions
+it's easier to live
+Dare I make a mention
+To perform is to exist
+
+Paul is dead
+John is dead
+Cher is dead
+Kurt is dead
+Paul is dead
+Dave is dead
+Hope is dead
+God is dead
+
+God
+God
+
+
+</itunes:summary>
+                    <itunes:duration>4:17</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Yuppie Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Who Knows</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/who-knows</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/who-knows.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:07:43 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/who-knows.mp3?referer=itunes" type="audio/mpeg" size="3867853"/>
+                    <itunes:summary>I've always liked playground taunts and rhymes.
+
+LYRICS:
+
+Sit in the garden
+eating nothing but worms
+Tastes pretty good
+to me
+
+There's so much bounty
+coming out of the soil
+I could be feeding
+for weeks
+
+Who knows where that's been 
+Who knows who might have touched it
+or what they did
+
+Na na na na na na
+Tag you're it now
+Catch me if you can
+
+Pocket full of posies
+Gosh, you're nosy
+Recess might be banned
+
+Who knows where that's been
+Who knows who might have touched it
+or what they did
+
+You should know better by now
+So go wash your hands off 
+before you get sick
+
+I'm a naughty boy</itunes:summary>
+                    <itunes:duration>2:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Who Knows Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Knuckleheads</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/knuckleheads</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/knuckleheads.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:02:02 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/knuckleheads.mp3?referer=itunes" type="audio/mpeg" size="5783154"/>
+                    <itunes:summary>I was depressed at my caliber of friends when I had a drug problem. This was the result.
+
+LYRICS:
+
+Most my friends are embryonic
+Most my friends are hooked on phonics
+Most my friends stick to the comics page
+
+Most my friends are disillusioned
+Most my friends run on confusion
+Most my friends tend their delusional rage
+
+Knuckleheads
+one and all
+Knuckleheads
+
+Most my friends find fun in bottles
+Most my friends push it full throttle
+Most my friends have moms who coddle them still
+
+Most my friends claim some disorder
+Most my friends are expert forgers
+Most my friends can cross the border at will
+
+I'm still young
+Gimme time</itunes:summary>
+                    <itunes:duration>4:01</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Knuckleheads Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>You Know How This One Goes</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/you-know-how-this-one-goes</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/you-know-how-this-one-goes.mp3?referer=itunes</guid>
+                    <pubDate>Thu, 17 Dec 2009 00:00:49 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/you-know-how-this-one-goes.mp3?referer=itunes" type="audio/mpeg" size="6886581"/>
+                    <itunes:summary>I had to do a love song so . . . .
+
+LYRICS:
+
+So we were two
+less than one now that we're through
+
+It came to pass
+nothing good could ever last
+
+It's in the past
+Why won't it die
+
+The words are flowing now
+a narrative suggested
+This story's very old
+the man who's heart's been tested
+You know how this one goes
+surprised by the ending
+surprised by the end
+
+Half of
+what I was
+when you left you kept the best
+
+Entitled
+to your share
+thank you for the rest
+
+Once upon a time
+we began to rhyme
+Making sound into something compelling
+
+Tales of woe I've told
+Since I'm feeling bold
+one more tale perchance to grow in telling
+
+Spin a yarn of truth
+Devil get's his due
+Go to hell and advocate by yelling</itunes:summary>
+                    <itunes:duration>4:47</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>You Know How This One Goes Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Ballad of the Flexible Bullet</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/ballad-of-the-flexible-bullet</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/ballad-of-the-flexible-bullet.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 16 Dec 2009 23:52:34 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/ballad-of-the-flexible-bullet.mp3?referer=itunes" type="audio/mpeg" size="7095354"/>
+                    <itunes:summary>I wanted to write a song with piano, it pretty much wrote itself. (The chromatic structure of the guitar solo had been in my head untabbed for years.)
+
+LYRICS:
+
+Flexible bullet fired at me
+Following some unknown trajectory
+Piercing the walls
+I've put up all around here
+
+They were my brothers, my partners in crime
+Evident unintelligent design
+Then they evolved
+and they left me
+all alone here
+
+Ballistic
+I am mystic
+as the bullet goes
+it makes a hole I can escape
+
+A soldier
+I feel older
+then you'd ever know
+Wiser men than me
+have pulled the trigger
+
+Flexible bullet
+is never gunshy
+Aiming is pointless
+I'm the bulls-eye
+
+Only I can't portray
+the famous role of 
+orphaned prey
+
+Ballistic
+I am bullshit 
+or so the story goes
+
+Like lightning straight from heaven
+a strobe light in the dark
+Eureka I have found it
+It's no day at the park
+
+Flexible bullet
+
+
+</itunes:summary>
+                    <itunes:duration>4:56</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Ballad of the Flexible Bullet Permanent Tourist alonetone</itunes:keywords>
+                </item>
+                <item>
+                    <title>Do Re Mi (Nirvana cover)</title>
+                    <link>http://alonetone.com/stackedaktor/tracks/do-re-mi-nirvana-cover</link>
+                    <guid>http://alonetone.com/stackedaktor/tracks/do-re-mi-nirvana-cover.mp3?referer=itunes</guid>
+                    <pubDate>Wed, 16 Dec 2009 23:51:26 GMT</pubDate>
+                    <enclosure url="http://alonetone.com/stackedaktor/tracks/do-re-mi-nirvana-cover.mp3?referer=itunes" type="audio/mpeg" size="6755541"/>
+                    <itunes:summary>After I finished working on my demos, I decided to cover this song, just because.
+
+One of Kurt's best.</itunes:summary>
+                    <itunes:duration>4:41</itunes:duration>
+                    <itunes:author>Permanent Tourist</itunes:author>
+                    <itunes:keywords>Do Re Mi (Nirvana cover) Permanent Tourist alonetone</itunes:keywords>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

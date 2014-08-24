@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.1.19"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:47:51 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="53026"/>
+        <httpclient:header name="Last-Modified" value="Thu, 05 Jun 2014 06:04:34 GMT"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 15:47:51 GMT"/>
+        <httpclient:header name="Cache-Control" value="max-age=21600"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Geek Reflections</title>
+                <link>http://geekreflections.podomatic.com</link>
+                <description>Riflessioni geek e non solo su notizie tecnologiche, da iOS ad Android, passando per le console e l'informatica in generale. Un podcast facilmente accessibile, per tutti e di tutti!!!</description>
+                <language>it-it</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Thu, 05 Jun 2014 05:57:57 GMT</pubDate>
+                <itunes:keywords>apple,microsoft,social,informatica,network,android,Technology,Rome</itunes:keywords>
+                <itunes:subtitle>Riflessioni Geek e non solo...</itunes:subtitle>
+                <itunes:owner>
+                    <itunes:name>R. Grassi - M. Pizza - A. Armida</itunes:name>
+                    <itunes:email>grpodcast@gmail.com</itunes:email>
+                </itunes:owner>
+                <itunes:explicit>clean</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/2a/d7/0d/87908/0x0-0x0+0+0_8254092.jpg"/>
+                <itunes:author>R. Grassi - M. Pizza - A. Armida</itunes:author>
+                <itunes:summary>Riflessioni geek e non solo su notizie tecnologiche, da iOS ad Android, passando per le console e l'informatica in generale. Un podcast facilmente accessibile, per tutti e di tutti!!!</itunes:summary>
+                <itunes:category text="Technology"/>
+                <atom:link rel="self" type="application/rss+xml" href="http://geekreflections.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>37. The Horizon Geek</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&amp;nbsp;- &lt;a href="https://twitter.com/nemesis_75"&gt;Paolo Sammartino&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;"Kids react to old computers"&lt;/li&gt;&lt;li&gt;WWDC Keynote Apple novit&amp;agrave; e punti di vista&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Link:&amp;nbsp;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=PF7EpEnglgk"&gt;Reazione dei bambini vecchi PC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=d0mg9DxvfZE"&gt;Reazione dei bambini ad internet anni 90&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.tecnicaarcana.com/2009/ta-033-latex-e-tex/"&gt;Tecnica Arcana puntata 33&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2014-06-04T15_19_21-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2014-06-04T15_19_21-07_00</comments>
+                    <pubDate>Wed, 04 Jun 2014 22:19:21 GMT</pubDate>
+                    <dcterms:modified>2014-06-05</dcterms:modified>
+                    <dcterms:created>2014-06-05</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,audio/mpeg,geek,informatica,microsoft,network,reflections,riflessioni,social,solo,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2014-06-04T15_19_21-07_00.mp3" type="audio/mpeg" length="140419457"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto Armida&amp;nbsp;- Paolo SammartinoIn questa puntata:"Kids react to old computers"WWDC Keynote Apple novit&amp;agrave; e punti di vistaLink:&amp;nbsp;Reazione dei bambini vecchi PCReazione dei bambini ad internet anni 90Tecnica Arcana puntata 33</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto Armida&amp;nbsp;- Paolo S...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>36. Perdono Pacchetti...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Siamo schiavi della tecnologia?&lt;/li&gt;&lt;li&gt;Apple nel mirino dell'antitrust&lt;/li&gt;&lt;li&gt;Google addio al progetto Nexus?&lt;/li&gt;&lt;li&gt;#opengeek: La Cina vieta l'utso di Windows 8 sui computer governativi&lt;/li&gt;&lt;li&gt;&lt;span style="white-space: pre;"&gt; &lt;/span&gt;L'INPS compra licenze Red Hat per &amp;euro; 355.520&lt;/li&gt;&lt;li&gt;New Star Soccer non un gioco ma una droga&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2014-05-23T16_00_12-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2014-05-23T16_00_12-07_00</comments>
+                    <pubDate>Fri, 23 May 2014 23:00:12 GMT</pubDate>
+                    <dcterms:modified>2014-05-25</dcterms:modified>
+                    <dcterms:created>2014-05-25</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,audio/mpeg,geek,informatica,microsoft,network,reflections,riflessioni,social,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2014-05-23T16_00_12-07_00.mp3" type="audio/mpeg" length="140668404"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Siamo schiavi della tecnologia?Apple nel mirino dell'antitrustGoogle addio al progetto Nexus?#opengeek: La Cina vieta l'utso di Windows 8 sui computer governativi L'INPS compra licenze Red Hat per &amp;euro; 355.520New Star Soccer non un gioco ma una droga</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa pun...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>35. E' SUCCESSO...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Italiani, un popolo arretrato tecnologicamente?&lt;/li&gt;&lt;li&gt;Se porti le mutande sotto la gonna, la foto upskirt &amp;egrave; legale&lt;/li&gt;&lt;li&gt;#opengeek: Housing gratuito per Raspberry Pi&lt;/li&gt;&lt;li&gt;#opengeek: Finito il supporto per Windows XP occasione il SW libero&lt;/li&gt;&lt;li&gt;#opengeek: Volumio&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2014-03-13T13_35_46-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2014-03-13T13_35_46-07_00</comments>
+                    <pubDate>Thu, 13 Mar 2014 20:35:46 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2014-03-13</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,informatica,microsoft,network,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2014-03-13T13_35_46-07_00.mp3" type="audio/mpeg" length="106608011"/>
+                    <itunes:duration>4442</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Italiani, un popolo arretrato tecnologicamente?Se porti le mutande sotto la gonna, la foto upskirt &amp;egrave; legale#opengeek: Housing gratuito per Raspberry Pi#opengeek: Finito il supporto per Windows XP occasione il SW libero#opengeek: Volumio</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa pun...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>34. Tra una birra ed un Root</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Steam Machine al CES 2014&lt;/li&gt;&lt;li&gt;WebTax&lt;/li&gt;&lt;li&gt;LG G2&lt;/li&gt;&lt;li&gt;Perch&amp;egrave; i Nexus non avranno mai troppo successo&lt;/li&gt;&lt;li&gt;#opengeek: BackupPC&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;#opengeek:&amp;nbsp;&lt;a href="http://backuppc.sourceforge.net/" target="_blank"&gt;BackupPC&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2014-01-18T06_33_12-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2014-01-18T06_33_12-08_00</comments>
+                    <pubDate>Sat, 18 Jan 2014 14:33:12 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2014-01-18</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,social,network,microsoft,informatica</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2014-01-18T06_33_12-08_00.mp3" type="audio/mpeg" length="95183756"/>
+                    <itunes:duration>5949</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Steam Machine al CES 2014WebTaxLG G2Perch&amp;egrave; i Nexus non avranno mai troppo successo#opengeek: BackupPCLinks:#opengeek:&amp;nbsp;BackupPC</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa pun...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>33. Dica 33...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Di WiFi non si vive...ma si muore: generazioni a rischio&lt;/li&gt;&lt;li&gt;Microsoft Store completamente vuoti durante le festivit&amp;agrave;&lt;/li&gt;&lt;li&gt;Tim apre la caccia alla volpem a chi serve Firefox OS?&lt;/li&gt;&lt;li&gt;#opengeek&lt;/li&gt;&lt;li&gt;Android 4.4.2 via OTA gi&amp;agrave; disponibile per i Nexus 5&lt;/li&gt;&lt;li&gt;Nexus 5 interessanti modifiche hardware per i nuovi prodotti&lt;/li&gt;&lt;li&gt;Galaxy S4&lt;/li&gt;&lt;li&gt;Gli sviluppatori iOS guadagnano pi&amp;ugrave; degli sviluppatori Android&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://tuttoxandroid.blogspot.it/2013/12/report-di-wi-fi-non-si-vive-ma-si-muore.html" target="_blank"&gt;Di wifi non si vive&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-12-12T14_45_23-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-12-12T14_45_23-08_00</comments>
+                    <pubDate>Thu, 12 Dec 2013 22:45:23 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,microsoft,network,informatica,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-12-12T14_45_23-08_00.mp3" type="audio/mpeg" length="91212519"/>
+                    <itunes:duration>5700</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Di WiFi non si vive...ma si muore: generazioni a rischioMicrosoft Store completamente vuoti durante le festivit&amp;agrave;Tim apre la caccia alla volpem a chi serve Firefox OS?#opengeekAndroid 4.4.2 via OTA gi&amp;agrave; disponibile per i Nexus 5Nexus 5 interessanti modifiche hardware per i nuovi prodottiGalaxy S4Gli sviluppatori iOS guadagnano pi&amp;ugrave; degli sviluppatori AndroidLinks:Di wifi non si vive</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa pun...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>32. Il Boss è tornato!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Elop vuole rivoluzionare Microsoft: addio XBox e Bing&lt;/li&gt;&lt;li&gt;iPhone 5C, che flop! Ridotta la produzione dell'hardware, errore o strategia?&lt;/li&gt;&lt;li&gt;Apple compra "Kinect"&lt;/li&gt;&lt;li&gt;Recensione Galaxy Tab 3 10.1&lt;/li&gt;&lt;li&gt;PlayStation 4: un milione di console vendute in 24 ore&lt;/li&gt;&lt;li&gt;PlayStation 4 non funzionanti: un sabotaggio di Foxconn?&lt;/li&gt;&lt;li&gt;PlayStation 4 difettose: bisogner&amp;agrave; aspettare Febbraio 2014 per la sostituzione&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-11-21T13_21_22-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-11-21T13_21_22-08_00</comments>
+                    <pubDate>Thu, 21 Nov 2013 21:21:22 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,audio/mpeg,geek,informatica,microsoft,network,riflessioni,reflections,social,solo,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-11-21T13_21_22-08_00.mp3" type="audio/mpeg" length="67364391"/>
+                    <itunes:duration>4210</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>6</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Elop vuole rivoluzionare Microsoft: addio XBox e BingiPhone 5C, che flop! Ridotta la produzione dell'hardware, errore o strategia?Apple compra "Kinect"Recensione Galaxy Tab 3 10.1PlayStation 4: un milione di console vendute in 24 orePlayStation 4 non funzionanti: un sabotaggio di Foxconn?PlayStation 4 difettose: bisogner&amp;agrave; aspettare Febbraio 2014 per la sostituzione</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Alberto ArmidaIn questa puntata:Elop vuole rivo...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>31. Quando il gatto non c'è i topi ballano!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&amp;nbsp;- &lt;a href="https://twitter.com/elgrazz"&gt;Graziano Panzera&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Windows Phone vs iOS: &amp;egrave; vero sorpasso?&lt;/li&gt;&lt;li&gt;Wozniak: Vorrei vedere Apple e Google lavorare insieme&lt;/li&gt;&lt;li&gt;uProxy, il proxy anonimo di Google che bypassa ogni filtro di rete&lt;/li&gt;&lt;li&gt;Nexus 5 e Kitkat&lt;/li&gt;&lt;li&gt;Supporto nel tempo dei dispositivi: Google appena 18 mesi, Apple pi&amp;ugrave; del doppio!&lt;/li&gt;&lt;li&gt;Google diminuir&amp;agrave; la frammentazione di Android: scopriamo insieme come&lt;/li&gt;&lt;li&gt;Phonebloks &amp;ndash; Da motorola il primo smartphone &amp;ldquo;modulare&amp;rdquo;&lt;/li&gt;&lt;li&gt;Motorola annuncia Ara, un progetto per creare smartphone personalizzabili&lt;/li&gt;&lt;li&gt;Sito Bribe.io per finanziare il buf fixing sui progetti opensource&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Link:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://it.wikipedia.org/wiki/Alice_e_Bob"&gt;Alice e Bob&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-11-06T15_38_36-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-11-06T15_38_36-08_00</comments>
+                    <pubDate>Wed, 06 Nov 2013 23:38:36 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,audio/mpeg,informatica,geek,microsoft,network,reflections,riflessioni,solo,social,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-11-06T15_38_36-08_00.mp3" type="audio/mpeg" length="96063142"/>
+                    <itunes:duration>6004</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>7</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto Armida&amp;nbsp;- Graziano PanzeraIn questa puntata:Windows Phone vs iOS: &amp;egrave; vero sorpasso?Wozniak: Vorrei vedere Apple e Google lavorare insiemeuProxy, il proxy anonimo di Google che bypassa ogni filtro di reteNexus 5 e KitkatSupporto nel tempo dei dispositivi: Google appena 18 mesi, Apple pi&amp;ugrave; del doppio!Google diminuir&amp;agrave; la frammentazione di Android: scopriamo insieme comePhonebloks &amp;ndash; Da motorola il primo smartphone &amp;ldquo;modulare&amp;rdquo;Motorola annuncia Ara, un progetto per creare smartphone personalizzabiliSito Bribe.io per finanziare il buf fixing sui progetti opensourceLink:Alice e Bob</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Marco Pizza&amp;nbsp;-&amp;nbsp;Alberto Armida&amp;nbsp;- Graziano PanzeraIn questa puntata...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>30. Ad ognuno il suo OS (Tanti auguri GR!!!)</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt;&amp;nbsp;-&amp;nbsp;&lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&amp;nbsp;- &lt;a href="https://twitter.com/albertoarmida" target="_blank"&gt;Alberto Armida&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Keynote Apple&lt;/li&gt;&lt;li&gt;OSX Mavericks&lt;/li&gt;&lt;li&gt;Microsoft Windows 8.1&lt;/li&gt;&lt;li&gt;#opengeek Ubuntu Touch - Ubuntu 13.10&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-10-24T14_20_26-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-10-24T14_20_26-07_00</comments>
+                    <pubDate>Thu, 24 Oct 2013 21:20:26 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,informatica,microsoft,network,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-10-24T14_20_26-07_00.mp3" type="audio/mpeg" length="105834915"/>
+                    <itunes:duration>6614</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>8</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;- Alberto ArmidaIn questa puntata:Keynote AppleOSX MavericksMicrosoft Windows 8.1#opengeek Ubuntu Touch - Ubuntu 13.10</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi&amp;nbsp;-&amp;nbsp;Marco Pizza&amp;nbsp;- Alberto ArmidaIn questa puntata:...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>29. La parola di Antoine!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://twitter.com/Ricca_Grassi" target="_blank"&gt;Riccardo Grassi&lt;/a&gt; - &lt;a href="https://twitter.com/casapizza" target="_blank"&gt;Marco Pizza&lt;/a&gt;&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Arduino Yun sfida Raspberry Pi e ha Linux nell'anima&lt;/li&gt;&lt;li&gt;Sincero su Facebook per 24 ore perde la met&amp;agrave; degli amici&lt;/li&gt;&lt;li&gt;Android &amp;egrave; quasi impenetrabile ai malware, parola di Google&lt;/li&gt;&lt;li&gt;Samsung installer&amp;agrave; un antivirus nei prossimi dispositivi Android&lt;/li&gt;&lt;li&gt;Windows 8, la diffusione rallenta e viene superato da Seven&lt;/li&gt;&lt;li&gt;#opengeek : Linux Day 2013&lt;/li&gt;&lt;li&gt;Huawei SD Card: la scheda che funge da hotspot WiFi per il computer&lt;/li&gt;&lt;li&gt;Cena amici/podcast Lucca Comics 2013&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;LINK:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.linuxday.it" target="_blank"&gt;Linux Day 2013&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.linuxdaypisa.it/?page=schedule" target="_blank"&gt;Linux Day 2013 Pisa&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://attivissimo.blogspot.it/2013/10/pensare-prima-di-postare-needadebitcard.html?m=1" target="_blank"&gt;Pensare prima di postare&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.tgcom24.mediaset.it/tgtech/2013/notizia/tikker-l-orologio-che-ti-dice-quando-morirai_2002181.shtml" target="_blank"&gt;Tikker l'orologio che dice quando morirai&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-10-10T14_08_14-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-10-10T14_08_14-07_00</comments>
+                    <pubDate>Thu, 10 Oct 2013 21:08:14 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,network,microsoft,informatica,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-10-10T14_08_14-07_00.mp3" type="audio/mpeg" length="88670585"/>
+                    <itunes:duration>5542</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>9</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco PizzaIn questa puntata:Arduino Yun sfida Raspberry Pi e ha Linux nell'animaSincero su Facebook per 24 ore perde la met&amp;agrave; degli amiciAndroid &amp;egrave; quasi impenetrabile ai malware, parola di GoogleSamsung installer&amp;agrave; un antivirus nei prossimi dispositivi AndroidWindows 8, la diffusione rallenta e viene superato da Seven#opengeek : Linux Day 2013Huawei SD Card: la scheda che funge da hotspot WiFi per il computerCena amici/podcast Lucca Comics 2013LINK:Linux Day 2013Linux Day 2013 PisaPensare prima di postareTikker l'orologio che dice quando morirai</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco PizzaIn questa puntata:Arduino Yun sfida Raspberry ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>28. Ho visto ROM che voi umani non potete nemmeno immaginare!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Impressioni sulle vendite di iPhone 5C e iPhone 5S&lt;/li&gt;&lt;li&gt;Cyanogenmod, vuole diventare un SO "vero", lo sviluppatore di Focal abbandona&lt;/li&gt;&lt;li&gt;#opengeek: Fedora e Elementary OS&lt;/li&gt;&lt;li&gt;Prossime uscite: 17 Ottobre Ubuntu Touch - Novembre Yota Phone&lt;/li&gt;&lt;li&gt;Xbox One e FIFA 14, per Sony il bundle &amp;egrave; segno di prenotazioni deludenti&lt;/li&gt;&lt;li&gt;Microsoft Xbox One non in verticale&lt;/li&gt;&lt;li&gt;Ouya, Steam Box e vecchie console&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;LINK:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://elementaryos.org/"&gt;Elementary OS&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://satya164.github.io/fedorautils/"&gt;Fedora Utils&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://it.wikipedia.org/wiki/Pandora_(console)"&gt;Console Pandora&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.yotaphone.com/"&gt;Yota Phone&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-09-26T13_10_58-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-09-26T13_10_58-07_00</comments>
+                    <pubDate>Thu, 26 Sep 2013 20:10:58 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,informatica,microsoft,network</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-09-26T13_10_58-07_00.mp3" type="audio/mpeg" length="93972815"/>
+                    <itunes:duration>5873</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>10</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Impressioni sulle vendite di iPhone 5C e iPhone 5SCyanogenmod, vuole diventare un SO "vero", lo sviluppatore di Focal abbandona#opengeek: Fedora e Elementary OSProssime uscite: 17 Ottobre Ubuntu Touch - Novembre Yota PhoneXbox One e FIFA 14, per Sony il bundle &amp;egrave; segno di prenotazioni deludentiMicrosoft Xbox One non in verticaleOuya, Steam Box e vecchie consoleLINK:Elementary OSFedora UtilsConsole PandoraYota Phone</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Impressioni...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>27. L'iPhone per Naomo!!! Ciao Ciccio!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Microsoft acquisisce la divisione Devices &amp;amp; Services di Nokia&lt;/li&gt;&lt;li&gt;Newkia, la nuova Nokia che punta su Android&lt;/li&gt;&lt;li&gt;iPhone 5S e iPhone 5C&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-09-12T04_14_37-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-09-12T04_14_37-07_00</comments>
+                    <pubDate>Thu, 12 Sep 2013 11:14:37 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,android,apple,informatica,microsoft,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-09-12T04_14_37-07_00.mp3" type="audio/mpeg" length="66034750"/>
+                    <itunes:duration>4126</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>11</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Alberto ArmidaIn questa puntata:Microsoft acquisisce la divisione Devices &amp;amp; Services di NokiaNewkia, la nuova Nokia che punta su AndroidiPhone 5S e iPhone 5C</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Alberto ArmidaIn questa puntata:Microsoft acquisisce la d...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>26. Barcolliamo ma non molliamo!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;WiFi libero una realt&amp;agrave; anche in Italia!!!&lt;/li&gt;&lt;li&gt;Facebook: le pubblicit&amp;agrave; arrivano tra le nNotifiche, ma solo su smartphone&lt;/li&gt;&lt;li&gt;Apple ha bisogno di un iphone economico ecco perch&amp;egrave;!&lt;/li&gt;&lt;li&gt;Apple testa display pi&amp;ugrave; grandi per iPhone ed iPad?&lt;/li&gt;&lt;li&gt;Microsoft Apple etc smartwatch il gadget/dispositivo del futuro?&lt;/li&gt;&lt;li&gt;Android &amp;ldquo;K release&amp;rdquo; in arrivo ad autunno: compatibilit&amp;agrave; estesa per diminuire la frammentazione&lt;/li&gt;&lt;li&gt;Apple scova e licenzia i propri dipendenti che usano o mostrano iOS 7 beta ai clienti&lt;/li&gt;&lt;li&gt;Esplosioni di Smartphone e Fairphone&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-07-25T14_15_48-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-07-25T14_15_48-07_00</comments>
+                    <pubDate>Thu, 25 Jul 2013 21:15:48 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,geek,informatica,microsoft,network,reflections,riflessioni,social,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-07-25T14_15_48-07_00.mp3" type="audio/mpeg" length="71904233"/>
+                    <itunes:duration>4494</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>12</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Alberto ArmidaIn questa puntata:WiFi libero una realt&amp;agrave; anche in Italia!!!Facebook: le pubblicit&amp;agrave; arrivano tra le nNotifiche, ma solo su smartphoneApple ha bisogno di un iphone economico ecco perch&amp;egrave;!Apple testa display pi&amp;ugrave; grandi per iPhone ed iPad?Microsoft Apple etc smartwatch il gadget/dispositivo del futuro?Android &amp;ldquo;K release&amp;rdquo; in arrivo ad autunno: compatibilit&amp;agrave; estesa per diminuire la frammentazioneApple scova e licenzia i propri dipendenti che usano o mostrano iOS 7 beta ai clientiEsplosioni di Smartphone e Fairphone</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Alberto ArmidaIn questa puntata:WiFi libero una realt&amp;agr...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>25. L'uomo sedile dallo studio lavatrice</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Alessio Biancalana&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;WWDC 2013 la nuova strada di Apple&lt;/li&gt;&lt;li&gt;LG conferma: i primi smartphone con display flessibile in arrivo nel 2014&lt;/li&gt;&lt;li&gt;#opengeek: Il punto di vista del DottorBl@ster su Canonical&lt;/li&gt;&lt;li&gt;Xbox farlocca tanto cara al Dottor&lt;/li&gt;&lt;li&gt;Non avete internet? Comprate la Xbox 360&lt;/li&gt;&lt;li&gt;Android soliti problemi con gli aggiornamenti&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-06-21T13_58_06-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-06-21T13_58_06-07_00</comments>
+                    <pubDate>Fri, 21 Jun 2013 20:58:06 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>android,apple,audio,audio/mpeg,geek,informatica,microsoft,network,reflections,riflessioni,social,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-06-21T13_58_06-07_00.mp3" type="audio/mpeg" length="96252445"/>
+                    <itunes:duration>6016</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>13</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Alessio BiancalanaIn questa puntata:WWDC 2013 la nuova strada di AppleLG conferma: i primi smartphone con display flessibile in arrivo nel 2014#opengeek: Il punto di vista del DottorBl@ster su CanonicalXbox farlocca tanto cara al DottorNon avete internet? Comprate la Xbox 360Android soliti problemi con gli aggiornamenti</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Alessio BiancalanaIn questa pu...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>24. WiFi? Favorisca il distintivo...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Tim Cook D11: Apple diventer&amp;agrave; pi&amp;ugrave; open, perch&amp;egrave; Apple produce un'iPhone l'anno&lt;/li&gt;&lt;li&gt;Tim Cook apre alle applicazioni Android su App Store&lt;/li&gt;&lt;li&gt;Apple, niente pi&amp;ugrave; sostituzioni per iPhone danneggiati&lt;/li&gt;&lt;li&gt;#opengeek: Proxmox VE e virtualizzazione su Linux&lt;/li&gt;&lt;li&gt;Dipendeza da cellulari, lo guardiamo in media 150 volte al giorno&lt;/li&gt;&lt;li&gt;FairPhone: primo smartphone Android etico ed equo solidale&lt;/li&gt;&lt;li&gt;30 mila euro di multa se creo una rete Wifi domestica?&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-06-08T13_07_58-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-06-08T13_07_58-07_00</comments>
+                    <pubDate>Sat, 08 Jun 2013 20:07:58 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>apple,android,informatica,geek,audio/mpeg,microsoft,network,technology,social,riflessioni,reflections</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-06-08T13_07_58-07_00.mp3" type="audio/mpeg" length="86503547"/>
+                    <itunes:duration>5406</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>14</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Tim Cook D11: Apple diventer&amp;agrave; pi&amp;ugrave; open, perch&amp;egrave; Apple produce un'iPhone l'annoTim Cook apre alle applicazioni Android su App StoreApple, niente pi&amp;ugrave; sostituzioni per iPhone danneggiati#opengeek: Proxmox VE e virtualizzazione su LinuxDipendeza da cellulari, lo guardiamo in media 150 volte al giornoFairPhone: primo smartphone Android etico ed equo solidale30 mila euro di multa se creo una rete Wifi domestica?</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Tim Cook D1...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>23. Franco Blackberry: mi è semblato di vedere un tablet!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Microsoft presenta la nuova Xbox: analisi delle caratteristiche e sviluppi futuri&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Game Dev Tycoon, il videogioco che beffa i pirati&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Microsoft vuole iTunes ottimizzato per Windows 8, Apple risponde di no&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;BlackBerry i tablet si estinguerranno entro 5 anni&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Youtube apre i canali a pagamento 0,99 centesimi al mese&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Facebook chiunque pu&amp;ograve; essere denunciato&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: x-small;"&gt;Linux sulla stazione spaziale internazionale: addio Windows&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-05-23T14_29_53-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-05-23T14_29_53-07_00</comments>
+                    <pubDate>Thu, 23 May 2013 21:29:53 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,technology,android,apple,informatica,microsoft,network,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-05-23T14_29_53-07_00.mp3" type="audio/mpeg" length="81819505"/>
+                    <itunes:duration>5113</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>15</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Microsoft presenta la nuova Xbox: analisi delle caratteristiche e sviluppi futuriGame Dev Tycoon, il videogioco che beffa i piratiMicrosoft vuole iTunes ottimizzato per Windows 8, Apple risponde di noBlackBerry i tablet si estinguerranno entro 5 anniYoutube apre i canali a pagamento 0,99 centesimi al meseFacebook chiunque pu&amp;ograve; essere denunciatoLinux sulla stazione spaziale internazionale: addio Windows</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto ArmidaIn questa puntata:Microsoft p...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>22. Un amico su Facebook...meglio di niente!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;In studio:&lt;/strong&gt;&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Omar Serafini&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;I&amp;rsquo;m still here: back online after a year without the internet&lt;/li&gt;&lt;li&gt;Ispirazioni Geek un mondo senza internet&lt;/li&gt;&lt;li&gt;Windows 8.1 reintrodurr&amp;agrave; tasto start e boot al desktop?&lt;/li&gt;&lt;li&gt;Windows 8.1 Preview disponibile a giugno, &amp;egrave; ufficiale&lt;/li&gt;&lt;li&gt;Omar's Test: Samsung Evolution Kit per SmartTV&lt;/li&gt;&lt;li&gt;Samsung niente pi&amp;ugrave; plastica sui Galaxy&lt;/li&gt;&lt;li&gt;#opengeek&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-05-09T14_58_52-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-05-09T14_58_52-07_00</comments>
+                    <pubDate>Thu, 09 May 2013 21:58:52 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,technology,android,apple,informatica,microsoft,network</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-05-09T14_58_52-07_00.mp3" type="audio/mpeg" length="89666244"/>
+                    <itunes:duration>5604</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>16</itunes:order>
+                    <itunes:summary>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Omar SerafiniIn questa puntata:I&amp;rsquo;m still here: back online after a year without the internetIspirazioni Geek un mondo senza internetWindows 8.1 reintrodurr&amp;agrave; tasto start e boot al desktop?Windows 8.1 Preview disponibile a giugno, &amp;egrave; ufficialeOmar's Test: Samsung Evolution Kit per SmartTVSamsung niente pi&amp;ugrave; plastica sui Galaxy#opengeek</itunes:summary>
+                    <itunes:subtitle>In studio:&amp;nbsp;Riccardo Grassi - Marco Pizza - Alberto Armida - Omar SerafiniIn questa puntata...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>21. Tecnologia, guerre, hacker e...pallone!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratori:&lt;/strong&gt;&amp;nbsp;Marco Pizza - Franco Solerio&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Google Person Finder la tecnologia pu&amp;ograve; essere d'aiuto o no?&lt;/li&gt;&lt;li&gt;Delitto di Udine, ci sembrava di essere in GTA&lt;/li&gt;&lt;li&gt;Anonymous attacca Israele e minaccia la Corea del Nord, le nuove frontiere della guerra?&lt;/li&gt;&lt;li&gt;Il podcast le sue origini ed il suo futuro&lt;/li&gt;&lt;li&gt;Da uno studio condotto l'esperienza Mac &amp;egrave; la migliore in assoluto&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-04-17T15_07_40-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-04-17T15_07_40-07_00</comments>
+                    <pubDate>Wed, 17 Apr 2013 22:07:40 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,apple,informatica,microsoft,network,social</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-04-17T15_07_40-07_00.mp3" type="audio/mpeg" length="81004463"/>
+                    <itunes:duration>5062</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>17</itunes:order>
+                    <itunes:summary>Collaboratori:&amp;nbsp;Marco Pizza - Franco SolerioIn questa puntata:Google Person Finder la tecnologia pu&amp;ograve; essere d'aiuto o no?Delitto di Udine, ci sembrava di essere in GTAAnonymous attacca Israele e minaccia la Corea del Nord, le nuove frontiere della guerra?Il podcast le sue origini ed il suo futuroDa uno studio condotto l'esperienza Mac &amp;egrave; la migliore in assoluto</itunes:summary>
+                    <itunes:subtitle>Collaboratori:&amp;nbsp;Marco Pizza - Franco SolerioIn questa puntata:Google Person Finder la t...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>20. Android perchè non aggiorni mai tutti i device?</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratore:&lt;/strong&gt;&amp;nbsp;Marco Pizza&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Un vicino aggiorna il S.O. Android del Sony Xperia U e il WiFi non v&amp;agrave; pi&amp;ugrave;&lt;/li&gt;&lt;li&gt;Android non distribuisce mai gli aggiornamenti a tutti i device&lt;/li&gt;&lt;li&gt;Google Glass aprono il bluetooht ad Apple&lt;/li&gt;&lt;li&gt;Google Glass non acora usciti e gi&amp;agrave; bannati&lt;/li&gt;&lt;li&gt;Gli utenti snobbano i siti mobile e preferiscono le app&lt;/li&gt;&lt;li&gt;Microsoft rimetta il tasto START se vuole riprendere mercato&lt;/li&gt;&lt;li&gt;Samsung ritira tutti i tablet con Windows RT&lt;/li&gt;&lt;li&gt;Lenovo scarica Windows 8&lt;/li&gt;&lt;li&gt;#OPENGEEK: manuali e letture&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-03-21T13_38_53-07_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-03-21T13_38_53-07_00</comments>
+                    <pubDate>Thu, 21 Mar 2013 20:38:53 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,apple,informatica,microsoft,network</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-03-21T13_38_53-07_00.mp3" type="audio/mpeg" length="65856769"/>
+                    <itunes:duration>4115</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>18</itunes:order>
+                    <itunes:summary>Collaboratore:&amp;nbsp;Marco PizzaIn questa puntata:Un vicino aggiorna il S.O. Android del Sony Xperia U e il WiFi non v&amp;agrave; pi&amp;ugrave;Android non distribuisce mai gli aggiornamenti a tutti i deviceGoogle Glass aprono il bluetooht ad AppleGoogle Glass non acora usciti e gi&amp;agrave; bannatiGli utenti snobbano i siti mobile e preferiscono le appMicrosoft rimetta il tasto START se vuole riprendere mercatoSamsung ritira tutti i tablet con Windows RTLenovo scarica Windows 8#OPENGEEK: manuali e letture</itunes:summary>
+                    <itunes:subtitle>Collaboratore:&amp;nbsp;Marco PizzaIn questa puntata:Un vicino aggiorna il S.O. Android del Son...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>19. Twitter sai dove devi metterteli i token!!!</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratore:&lt;/strong&gt;&amp;nbsp;Marco Pizza&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Ancora Wozniak: Apple devi aprire iTunes ad Android e Windows Phone&lt;/li&gt;&lt;li&gt;Tim Cook: la chiave del successo &amp;egrave; l'esperienza utente&lt;/li&gt;&lt;li&gt;Goole preoccupata della supremazia Samsung&lt;/li&gt;&lt;li&gt;Germania: WiFi libero per tutti&lt;/li&gt;&lt;li&gt;#OPENGEEK: pfSense&lt;/li&gt;&lt;li&gt;TweetDeck chiude lo sviluppo sul mobile&lt;/li&gt;&lt;li&gt;HTC i widget non sono importanti&lt;/li&gt;&lt;/ol&gt;&lt;p style="text-align: center;"&gt;&lt;strong&gt;CODICI REDEEM iCarConnect&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;3F39EAHHXY4A&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;EYEWL4MMA7JW&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;KNJP34WLLPHN&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;X6ATT6474ELE&lt;/li&gt;&lt;li&gt;AT7EN7HN9HT7&lt;strong style="text-align: center;"&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-03-07T14_16_22-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-03-07T14_16_22-08_00</comments>
+                    <pubDate>Thu, 07 Mar 2013 22:16:22 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,anrdoid,informatica,microsoft,network</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-03-07T14_16_22-08_00.mp3" type="audio/mpeg" length="80295169"/>
+                    <itunes:duration>5018</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>19</itunes:order>
+                    <itunes:summary>Collaboratore:&amp;nbsp;Marco PizzaIn questa puntata:Ancora Wozniak: Apple devi aprire iTunes ad Android e Windows PhoneTim Cook: la chiave del successo &amp;egrave; l'esperienza utenteGoole preoccupata della supremazia SamsungGermania: WiFi libero per tutti#OPENGEEK: pfSenseTweetDeck chiude lo sviluppo sul mobileHTC i widget non sono importantiCODICI REDEEM iCarConnect3F39EAHHXY4AEYEWL4MMA7JWKNJP34WLLPHNX6ATT6474ELEAT7EN7HN9HT7&amp;nbsp;</itunes:summary>
+                    <itunes:subtitle>Collaboratore:&amp;nbsp;Marco PizzaIn questa puntata:Ancora Wozniak: Apple devi aprire iTunes a...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>18. Root o non Root questo è il dilemma...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratore:&lt;/strong&gt;&amp;nbsp;Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Root 10 motivi per farlo e 10 per non farlo&lt;/li&gt;&lt;li&gt;WiFi libero negli esercizi pubblici&lt;/li&gt;&lt;li&gt;Secondo Wozniak Apple ha fatto un passo indietro negli smartphone&lt;/li&gt;&lt;li&gt;Whatsapp a pagamento anche su Android&lt;/li&gt;&lt;li&gt;Il 21 febbraio sar&amp;agrave; online la prima immagine di Ubuntu Phone per Nexus 4&lt;/li&gt;&lt;li&gt;XBox 720 e PS4 dicono addio ai giochi delle console precedenti&lt;/li&gt;&lt;li&gt;Google Play distribuisce dati privati agli sviluppatori&lt;/li&gt;&lt;li&gt;Entro Natale 2013 negli USA aprirano i Google Store&lt;/li&gt;&lt;/ol&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-02-21T12_58_30-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-02-21T12_58_30-08_00</comments>
+                    <pubDate>Thu, 21 Feb 2013 20:58:30 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>anrdoid,apple,audio,audio/mpeg,geek,informatica,microsoft,network,reflections,social,solo,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-02-21T12_58_30-08_00.mp3" type="audio/mpeg" length="65793634"/>
+                    <itunes:duration>4112</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>20</itunes:order>
+                    <itunes:summary>Collaboratore:&amp;nbsp;Alberto ArmidaIn questa puntata:Root 10 motivi per farlo e 10 per non farloWiFi libero negli esercizi pubbliciSecondo Wozniak Apple ha fatto un passo indietro negli smartphoneWhatsapp a pagamento anche su AndroidIl 21 febbraio sar&amp;agrave; online la prima immagine di Ubuntu Phone per Nexus 4XBox 720 e PS4 dicono addio ai giochi delle console precedentiGoogle Play distribuisce dati privati agli sviluppatoriEntro Natale 2013 negli USA aprirano i Google Store</itunes:summary>
+                    <itunes:subtitle>Collaboratore:&amp;nbsp;Alberto ArmidaIn questa puntata:Root 10 motivi per farlo e 10 per non f...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>17. Alla ricerca della donna invisibile...</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratore:&lt;/strong&gt;&amp;nbsp;Alberto Armida, Omar Serafini, Marco Pizza&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Aplpe brevetta la SIM card virtuale, il futuro delle SIM?&lt;/li&gt;&lt;li&gt;Tim Cook, Apple non far&amp;agrave; un iPhone con display pi&amp;ugrave; grande di 4"&lt;/li&gt;&lt;li&gt;Twitter sotto attacco, a rischio dati sensibili sui social network?&lt;/li&gt;&lt;li&gt;Apple promuove un iPad da 128Gb ha senso?&lt;/li&gt;&lt;li&gt;Google Sync groooosso problema o da poco?&lt;/li&gt;&lt;/ol&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Le Chicche di Omar: &lt;/strong&gt;recensione Samsung All in One &amp;nbsp;- Office 13/365&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Open Geek:&lt;/strong&gt;&amp;nbsp;recensione Raspberry con alcune novit&amp;agrave; e consigli&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-02-07T13_39_11-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-02-07T13_39_11-08_00</comments>
+                    <pubDate>Thu, 07 Feb 2013 21:39:11 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>geek,reflections,riflessioni,technology,anrdoid,apple,informatica,microsoft,network</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-02-07T13_39_11-08_00.mp3" type="audio/mpeg" length="101257889"/>
+                    <itunes:duration>6328</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>21</itunes:order>
+                    <itunes:summary>Collaboratore:&amp;nbsp;Alberto Armida, Omar Serafini, Marco PizzaIn questa puntata:Aplpe brevetta la SIM card virtuale, il futuro delle SIM?Tim Cook, Apple non far&amp;agrave; un iPhone con display pi&amp;ugrave; grande di 4"Twitter sotto attacco, a rischio dati sensibili sui social network?Apple promuove un iPad da 128Gb ha senso?Google Sync groooosso problema o da poco? Le Chicche di Omar: recensione Samsung All in One &amp;nbsp;- Office 13/365Open Geek:&amp;nbsp;recensione Raspberry con alcune novit&amp;agrave; e consigli</itunes:summary>
+                    <itunes:subtitle>Collaboratore:&amp;nbsp;Alberto Armida, Omar Serafini, Marco PizzaIn questa puntata:Aplpe breve...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>16. Concorrenza, fallimenti, abbandoni e criminalità</title>
+                    <description>&lt;p&gt;&lt;strong&gt;Collaboratore:&lt;/strong&gt;&amp;nbsp;Alberto Armida&lt;/p&gt;&lt;p&gt;In questa puntata:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Anche Microsoft con l'Xbox combatter&amp;agrave; l'usato?&lt;/li&gt;&lt;li&gt;Secondo Forbes Microsoft tra 3 anni vender&amp;agrave; la divisione Xbox a Sony&lt;/li&gt;&lt;li&gt;Larry Page dopo le belle parole scatta all'attacco&lt;/li&gt;&lt;li&gt;Aumenta la concorrenza per iTunes, in campo anche Amazon&lt;/li&gt;&lt;li&gt;Le app a pagamento sono "sorpassate"&lt;/li&gt;&lt;li&gt;Di nuovo una storica ditta in bancarotta&lt;/li&gt;&lt;li&gt;App contro la criminalit&amp;agrave; sbarca a Torino&lt;/li&gt;&lt;li&gt;Facebook per non vedenti&lt;/li&gt;&lt;li&gt;Nokia abbandona definitivamente Symbian&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=437Ld_rKM2s"&gt;Atari Space Invaders&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+                    <guid isPermaLink="true">http://geekreflections.podomatic.com/entry/2013-01-31T14_25_48-08_00</guid>
+                    <comments>http://geekreflections.podomatic.com/entry/2013-01-31T14_25_48-08_00</comments>
+                    <pubDate>Thu, 31 Jan 2013 22:25:48 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://geekreflections.podomatic.com</link>
+                    <dc:creator>R. Grassi - M. Pizza - A. Armida</dc:creator>
+                    <itunes:keywords>anrdoid,apple,geek,informatica,microsoft,network,reflections,social,technology</itunes:keywords>
+                    <enclosure url="http://geekreflections.podomatic.com/enclosure/2013-01-31T14_25_48-08_00.mp3" type="audio/mpeg" length="63545037"/>
+                    <itunes:duration>3971</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>22</itunes:order>
+                    <itunes:summary>Collaboratore:&amp;nbsp;Alberto ArmidaIn questa puntata:Anche Microsoft con l'Xbox combatter&amp;agrave; l'usato?Secondo Forbes Microsoft tra 3 anni vender&amp;agrave; la divisione Xbox a SonyLarry Page dopo le belle parole scatta all'attaccoAumenta la concorrenza per iTunes, in campo anche AmazonLe app a pagamento sono "sorpassate"Di nuovo una storica ditta in bancarottaApp contro la criminalit&amp;agrave; sbarca a TorinoFacebook per non vedentiNokia abbandona definitivamente SymbianLinks:Atari Space Invaders</itunes:summary>
+                    <itunes:subtitle>Collaboratore:&amp;nbsp;Alberto ArmidaIn questa puntata:Anche Microsoft con l'Xbox combatter&amp;ag...</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

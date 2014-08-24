@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="403">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:20:52 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Content-Length" value="418"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="text/html; charset=iso-8859-1"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/html; charset=iso-8859-1" type="xhtml">
+        <html>
+            <head>
+                <title>403 Forbidden</title>
+            </head>
+            <body>
+                <h1>Forbidden</h1>
+                <p>You don't have permission to access /firecast-podcast.xml
+on this server.</p>
+                <p>Additionally, a 500 Internal Server Error
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+                <hr/>
+                <address>Apache Server at thefirecast.com Port 80</address>
+            </body>
+        </html>
+    </httpclient:body>
+</httpclient:response>

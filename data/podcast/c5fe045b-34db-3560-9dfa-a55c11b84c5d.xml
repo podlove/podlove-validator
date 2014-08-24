@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine2.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Tue, 19 Aug 2014 23:06:45 GMT"/>
+        <httpclient:header name="Content-Length" value="76899"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:19:55 GMT"/>
+        <httpclient:header name="X-Varnish" value="2976658394 2971761433"/>
+        <httpclient:header name="Age" value="48139"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://500startups.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+                <title>500 Startups Podcast</title>
+                <pubDate>Tue, 19 Aug 2014 22:55:09 +0000</pubDate>
+                <lastBuildDate>Tue, 19 Aug 2014 23:06:45 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://500startups.libsyn.com</link>
+                <language>en</language>
+                <copyright/>
+                <docs>http://500startups.libsyn.com</docs>
+                <managingEditor>mark@500.co (mark@500.co)</managingEditor>
+                <description>Weekly interviews and talks with startup founders, influencers and entrepreneurs. </description>
+                <image>
+                    <url>http://assets.libsyn.com/content/6386180.jpg</url>
+                    <title>500 Startups Podcast</title>
+                    <link>http://500startups.libsyn.com</link>
+                </image>
+                <itunes:author>500 Startups</itunes:author>
+                <itunes:keywords>500,entrepreneurs,silicon,startups,tech,valley</itunes:keywords>
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News"/>
+                </itunes:category>
+                <itunes:category text="Business">
+                    <itunes:category text="Investing"/>
+                </itunes:category>
+                <itunes:category text="Technology"/>
+                <itunes:image href="http://assets.libsyn.com/content/6386180.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Mark Saldaña</itunes:name>
+                    <itunes:email>mark@500.co</itunes:email>
+                </itunes:owner>
+                <itunes:summary>Join us for weekly interviews with 500 Startups founders, investors, and mentors.</itunes:summary>
+                <itunes:subtitle/>
+                <item>
+                    <title>Episode 46 –&#160;Josh Rosenwald, Founder and CEO of Unrollme</title>
+                    <pubDate>Tue, 19 Aug 2014 22:55:09 +0000</pubDate>
+                    <guid isPermaLink="false">5fdc407069a817c61acda457e4a73bdb</guid>
+                    <link>http://500startups.libsyn.com/episode-46-josh-rosenwald-founder-and-ceo-of-unrollme</link>
+                    <itunes:image href="http://assets.libsyn.com/item/3020552"/>
+                    <description>&lt;p&gt;We sat down with the founder of Unroll.me to talk about growth hacks, startup marketing, the future of email, and more. Enjoy the show? Don't forget to subscribe and rate us on iTunes, Stitcher, and SoundCloud.&lt;/p&gt;</description>
+                    <enclosure length="16384491" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_46_Josh_Rosenwald_Founder_and_CEO_of_Unrollme.mp3"/>
+                    <itunes:duration>16:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>We sat down with the founder of Unroll.me to talk about growth hacks, startup marketing, the future of email, and more. Enjoy the show? Don't forget to subscribe and rate us on iTunes, Stitcher, and SoundCloud.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 45 – Ryan Fujiu, Product Lead On Lyft's Growth Team</title>
+                    <pubDate>Mon, 04 Aug 2014 23:13:48 +0000</pubDate>
+                    <guid isPermaLink="false">a8f2fb2bfc55851197354349dd9e3ad4</guid>
+                    <link>http://500startups.libsyn.com/episode-45-ryan-fujiu-product-lead-on-lyfts-growth-team</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2994446"/>
+                    <description>&lt;p&gt;We spoke with Ryan Fujiu of Lyft about mobile, leveraging communities for growth, offline marketing, customer research, user on-boarding optimization, and more! T&lt;/p&gt;
+&lt;p&gt;here are a lot of meaty tips in this interview, so be sure to take notes. Catch Ryan and other awesome speakers at our growth conference later this week. RSVP now: www.wmd.co&lt;/p&gt;</description>
+                    <enclosure length="32652735" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_45_Ryan_Fujiu_Product_lead_on_Lyfts_Growth_Team.mp3"/>
+                    <itunes:duration>33:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>We spoke with Ryan Fujiu of Lyft about mobile, leveraging communities for growth, offline marketing, customer research, user on-boarding optimization, and more! T
+here are a lot of meaty tips in this interview, so be sure to take notes. Catch Ryan...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 44 –&#160;Greg Marsh, Founder and CEO of KeyMe</title>
+                    <pubDate>Mon, 28 Jul 2014 19:14:04 +0000</pubDate>
+                    <guid isPermaLink="false">b0222f66dfc0aff4159ea93e4571d602</guid>
+                    <link>http://500startups.libsyn.com/episode-44-greg-marsh-founder-and-ceo-of-keyme</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2975332"/>
+                    <description>&lt;p&gt;This week, I chat with Greg Marsh, founder and CEO of NYC-based startup KeyMe. They're using lots of awesome technologies (like ROBOTICS) to make expensive lock-outs a thing of the past. Listen in for tips on building&amp;nbsp;customer trust, partnerships,&amp;nbsp;and more!&lt;/p&gt;
+&lt;p&gt;Love the show? Subscribe and rate us on iTunes, Stitcher, and SoundCloud.&lt;/p&gt;</description>
+                    <enclosure length="19581961" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_44_Greg_Marsh_Founder_and_CEO_of_KeyMe.mp3"/>
+                    <itunes:duration>19:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week, I chat with Greg Marsh, founder and CEO of NYC-based startup KeyMe. They're using lots of awesome technologies (like ROBOTICS) to make expensive lock-outs a thing of the past. Listen in for tips on building&amp;nbsp;customer trust,...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 43 – Heather Marie, CEO and Founder Of 72Lux</title>
+                    <pubDate>Mon, 21 Jul 2014 17:05:33 +0000</pubDate>
+                    <guid isPermaLink="false">85891c4dee30da0cfe15bccc65756408</guid>
+                    <link>http://500startups.libsyn.com/episode-43-heather-marie-ceo-and-founder-of-72lux</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2958275"/>
+                    <description>&lt;p&gt;I sat down with Heather Marie, CEO and founder of 72Lux (and 500 Startups alum) to talk about mobile, ecommerce, building her startup, and more.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Follow us on Twitter (twitter.com/500startups) and subscribe on iTunes (bit.ly/500subscribe) to get more episodes as they come out.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="14924859" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_43_Heather_Marie_CEO_and_Founder_of_72Lux.mp3"/>
+                    <itunes:duration>15:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>I sat down with Heather Marie, CEO and founder of 72Lux (and 500 Startups alum) to talk about mobile, ecommerce, building her startup, and more.&amp;nbsp;
+Follow us on Twitter (twitter.com/500startups) and subscribe on iTunes (bit.ly/500subscribe) to get...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 42 – Poornima Vijayashanker, Founder Of Bizeebee And Femgineer</title>
+                    <pubDate>Mon, 02 Jun 2014 20:49:36 +0000</pubDate>
+                    <guid isPermaLink="false">5859d94cf50db90fb57e27cf1f8b64e6</guid>
+                    <link>http://500startups.libsyn.com/episode-42-poornima-vijayashanker-founder-of-bizeebee-and-femgineer</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7242283"/>
+                    <description>&lt;p&gt;This week I speak with one of 500's resident EIR's, Poornima Vijayashanker (twitter.com/poornima). Listen to hear about how she helped build Mint.com before going on to found Bizeebee and Femgineer.&lt;/p&gt;</description>
+                    <enclosure length="26389032" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_42_Poornima_Vijayashanker_Founder_of_Bizeebee_and_Femgineer.mp3"/>
+                    <itunes:duration>26:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I speak with one of 500's resident EIR's, Poornima Vijayashanker (twitter.com/poornima). Listen to hear about how she helped build Mint.com before going on to found Bizeebee and Femgineer.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 41 –&#160;Navid Zolfaghari, 500 Startups Mentor and Founder of Pinpoint Mobile</title>
+                    <pubDate>Fri, 23 May 2014 00:27:46 +0000</pubDate>
+                    <guid isPermaLink="false">cfa13971e75bae0b7d8ebe1302bea184</guid>
+                    <link>http://500startups.libsyn.com/episode-41-navid-zolfaghari-500-startups-mentor-and-founder-of-pinpoint-mobile</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2851396"/>
+                    <description>&lt;p&gt;This week I speak with 500 Startups mentor&amp;nbsp;Navid Zolfaghari, former employee at&amp;nbsp;Wildfire and current founder of Pinpoint Mobile.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Love the show? Leave us a review and subscribe to us on iTunes, Soundcloud, or Stitcher! Suggest guests or leave feedback on twitter @500Startups.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="16679120" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_41_Navid_Zolfaghari_500_Startups_Mentor_and_Founder_of_Pinpoint_Mobile.mp3"/>
+                    <itunes:duration>17:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I speak with 500 Startups mentor&amp;nbsp;Navid Zolfaghari, former employee at&amp;nbsp;Wildfire and current founder of Pinpoint Mobile.&amp;nbsp;
+Love the show? Leave us a review and subscribe to us on iTunes, Soundcloud, or Stitcher! Suggest guests...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 40 –&#160;Scott Kupor, Managing Partner, Andreessen Horowitz</title>
+                    <pubDate>Mon, 12 May 2014 19:20:03 +0000</pubDate>
+                    <guid isPermaLink="false">f664d16a675440dd454e50121b289ada</guid>
+                    <link>http://500startups.libsyn.com/episode-40-scott-kupor-managing-partner-andreessen-horowitz</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7171381"/>
+                    <description>&lt;p&gt;This week, I speak with Scott Kupor of&amp;nbsp;Andreessen Horowitz about emerging markets + industries, seed vs. growth investing, the tech bubble debate, and more! Want to hear more from him and other influential investors? Register for next month's PreMoney conference now:&amp;nbsp;http://premoney.co/&lt;/p&gt;</description>
+                    <enclosure length="17845364" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_40_Scott_Kupor_Managing_Partner_Andreessen_Horowitz.mp3"/>
+                    <itunes:duration>18:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week, I speak with Scott Kupor of&amp;nbsp;Andreessen Horowitz about emerging markets + industries, seed vs. growth investing, the tech bubble debate, and more! Want to hear more from him and other influential investors? Register for next month's...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 39 –&#160;Robyn Exton, Founder and CEO of Dattch</title>
+                    <pubDate>Thu, 01 May 2014 19:21:28 +0000</pubDate>
+                    <guid isPermaLink="false">41f66c20f4f65a52d94d29db632250be</guid>
+                    <link>http://500startups.libsyn.com/episode-39-robyn-exton-founder-and-ceo-of-dattch</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7134847"/>
+                    <description>&lt;p&gt;This week I speak with Robyn Exton, founder and CEO of lesbian dating app Dattch. We cover the london startup scene, designing&amp;nbsp;apps for women, fundraising as a female founder, and more.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="24359589" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_39__Robyn_Exton_Founder_and_CEO_of_Dattch.mp3"/>
+                    <itunes:duration>24:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I speak with Robyn Exton, founder and CEO of lesbian dating app Dattch. We cover the london startup scene, designing&amp;nbsp;apps for women, fundraising as a female founder, and more.&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 38 –&#160;TK Kader, CEO and Founder of Toutapp</title>
+                    <pubDate>Mon, 21 Apr 2014 20:04:48 +0000</pubDate>
+                    <guid isPermaLink="false">8d2daa97f31f8e4a7e2e873cb544597d</guid>
+                    <link>http://500startups.libsyn.com/episode-38-tk-kader-ceo-and-founder-of-toutapp</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7098249"/>
+                    <description>&lt;p&gt;I sat down with TK Kader, CEO and Founder of Toutapp, to talk about startup sales, buildling a team, being a solo founder, and more! Check out his company at toutapp.com and follow him on Twitter @tawheed.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Love the show? Give us a rating and subscribe on iTunes, Stitcher, or with our rss feed at&amp;nbsp;http://500startups.libsyn.com/rss&lt;/p&gt;</description>
+                    <enclosure length="33992182" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_38_TK_Kader_CEO_and_Founder_of_ToutApp.mp3"/>
+                    <itunes:duration>35:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>I sat down with TK Kader, CEO and Founder of Toutapp, to talk about startup sales, buildling a team, being a solo founder, and more! Check out his company at toutapp.com and follow him on Twitter @tawheed.&amp;nbsp;
+Love the show? Give us a rating and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 37 – Greg Raiten, General Counsel, 500 Startups</title>
+                    <pubDate>Tue, 15 Apr 2014 00:43:14 +0000</pubDate>
+                    <guid isPermaLink="false">0e63c9367a225884792562d7232bd74c</guid>
+                    <link>http://500startups.libsyn.com/episode-37-greg-raiten-general-counsel-500-startups</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7076648"/>
+                    <description>&lt;p&gt;This week I sit down 500's legal expert to talk startups, common founder pitfalls, fundraising publicly, and more! Follow him on Twitter @gregraiten.&lt;/p&gt;
+&lt;p&gt;Please remember to share and rate the show!&lt;/p&gt;</description>
+                    <enclosure length="24044359" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_37_Greg_Raiten_General_Counsel_500_Startups.mp3"/>
+                    <itunes:duration>24:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I sit down 500's legal expert to talk startups, common founder pitfalls, fundraising publicly, and more! Follow him on Twitter @gregraiten.
+Please remember to share and rate the show!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 36 –&#160;Danielle Morrill and Andy Sparks, Co-founders of Mattermark</title>
+                    <pubDate>Tue, 08 Apr 2014 15:39:46 +0000</pubDate>
+                    <guid isPermaLink="false">ee332e7112ee8b7f18ecc90cc5de6a78</guid>
+                    <link>http://500startups.libsyn.com/episode-36-danielle-morrill-and-andy-sparks-co-founders-of-mattermark</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7055461"/>
+                    <description>&lt;p&gt;This week I sit down with 2 of the co-founders of Mattermark (mattermark.com) to talk about&amp;nbsp;tech&amp;nbsp;trends, dealing with startup failure,&amp;nbsp;being married to a co-founder, and more!&amp;nbsp;Follow them on twitter @SparksZilla and @DanielleMorrill.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Remeber to subscribe to get our&amp;nbsp;startup interviews each week! Also please leave us a rating and written review to help others discover the show.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="46392239" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_36_Danielle_Morrill_and_Andy_Sparks_Co-founders_of_Mattermark.mp3"/>
+                    <itunes:duration>48:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I sit down with 2 of the co-founders of Mattermark (mattermark.com) to talk about&amp;nbsp;tech&amp;nbsp;trends, dealing with startup failure,&amp;nbsp;being married to a co-founder, and more!&amp;nbsp;Follow them on twitter @SparksZilla and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 35 –&#160;Ligaya Tichy, Community Expert (Airbnb &amp; Yelp Alum)</title>
+                    <pubDate>Tue, 18 Mar 2014 03:32:56 +0000</pubDate>
+                    <guid isPermaLink="false">b6985a7871f28e033ca2bc0ee777ae6d</guid>
+                    <link>http://traffic.libsyn.com/500startups/Episode_35_Ligaya_Tichy_Community_Expert_Airbnb__Yelp_Alum.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6974838"/>
+                    <description>&lt;p&gt;This week I interview Ligaya Tichy, community expert and all-around awesome person who helped Yelp and Airbnb grow their communities. We discuss community vs. marketing, finding a great community manager, and buildling trust with users. &amp;nbsp;Follow her on Twitter @ligayaya and at online at www.ligayatichy.com.&lt;/p&gt;</description>
+                    <enclosure length="35706678" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_35_Ligaya_Tichy_Community_Expert_Airbnb__Yelp_Alum.mp3"/>
+                    <itunes:duration>37:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I interview Ligaya Tichy, community expert and all-around awesome person who helped Yelp and Airbnb grow their communities. We discuss community vs. marketing, finding a great community manager, and buildling trust with users. &amp;nbsp;Follow...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 34 – Rod Ebrahimi, CEO and Co-founder of ReadyForZero</title>
+                    <pubDate>Fri, 07 Mar 2014 21:05:23 +0000</pubDate>
+                    <guid isPermaLink="false">a2fe2fd61f18cec07a47bbb8eb45f3ea</guid>
+                    <link>http://traffic.libsyn.com/500startups/Episode_34_Rod_Ebrahimi_CEO_and_Co-founder_of_ReadyForZero.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6928203"/>
+                    <description>&lt;p&gt;This week I speak with Rod Ebrahimi, CEO and Co-founder of finance startup ReadyForZero (www.readyforzero.com). Listen in to hear about pivoting, acquiring users, and getting press.&lt;/p&gt;</description>
+                    <enclosure length="24346960" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_34_Rod_Ebrahimi_CEO_and_Co-founder_of_ReadyForZero.mp3"/>
+                    <itunes:duration>25:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I speak with Rod Ebrahimi, CEO and Co-founder of finance startup ReadyForZero (www.readyforzero.com). Listen in to hear about pivoting, acquiring users, and getting press.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 33 –&#160;Mark Thomas, CEO and co-founder of Reesio</title>
+                    <pubDate>Fri, 28 Feb 2014 22:30:36 +0000</pubDate>
+                    <guid isPermaLink="false">1344537b5f3977fb335366a3faff116c</guid>
+                    <link>http://traffic.libsyn.com/500startups/Episode_33_Mark_Thomas_Co-founder_and_CEO_of_Reesio.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6899610"/>
+                    <description>&lt;p&gt;This week I speak with Mark Thomas, founder of real estate startup Reesio (Batch 6).&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="21217052" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_33_Mark_Thomas_Co-founder_and_CEO_of_Reesio.mp3"/>
+                    <itunes:duration>21:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>This week I speak with Mark Thomas, founder of real estate startup Reesio (Batch 6).&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 32 –&#160;Nicholas Holland, CEO of Populr</title>
+                    <pubDate>Fri, 07 Feb 2014 19:55:00 +0000</pubDate>
+                    <guid isPermaLink="false">5b1c4779b0f06ebb532a5b6811f32ae4</guid>
+                    <link>http://500startups.libsyn.com/episode-32-nicholas-holland-ceo-of-populr</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6799113"/>
+                    <description>&lt;p&gt;We're saying goodbye to Batch 7! I sat down for a farewell interview with Nicholas Holland, CEO of Populr.me. Hear him talk about building his business, joining 500, and what's next for his startup.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="24298255" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_32_Nicholas_Holland_CEO_of_Populr.mp3"/>
+                    <itunes:duration>25:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,investing,valley,angels,venture,capital,silicon,founders,populr,vc,startups,populrme</itunes:keywords>
+                    <itunes:subtitle>We're saying goodbye to Batch 7! I sat down for a farewell interview with Nicholas Holland, CEO of Populr.me. Hear him talk about building his business, joining 500, and what's next for his startup.&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 31 –&#160;Vanessa Dawson, founder of Girls Raising</title>
+                    <pubDate>Wed, 05 Feb 2014 17:18:45 +0000</pubDate>
+                    <guid isPermaLink="false">0ca876f8b67166b757038e2a26c9b039</guid>
+                    <link>http://500startups.libsyn.com/episode-31-vanessa-dawson-founder-of-girls-raising</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6785454"/>
+                    <description>&lt;p&gt;This week, I spoke with with Vanessa Dawson, founder of Girls Raising (girlsraising.com). It's an organization that helps female founders raise money from investors.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="23137667" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_31_Vanessa_Dawson_Founder_of_Girls_Raising.mp3"/>
+                    <itunes:duration>23:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>female,girls,women,investment,angels,founders,raising,vc,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I spoke with with Vanessa Dawson, founder of Girls Raising (girlsraising.com). It's an organization that helps female founders raise money from investors.&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 30 –&#160;Oliver Camargo (founder of WePlann) and Gadi Bashvitz (founder of OLSET)</title>
+                    <pubDate>Tue, 14 Jan 2014 19:22:00 +0000</pubDate>
+                    <guid isPermaLink="false">913db3338553859697dcebe48f056dad</guid>
+                    <link>http://500startups.libsyn.com/episode-30-oliver-camargo-founder-of-we-plann-and-gadi-bashvitz-founder-of-olset</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6672439"/>
+                    <description>&lt;p&gt;We're back! I'm ushering in 2014 with an interview focused on travel tech. This week, I speak with two founders in Batch 7 about starting their companies, the challenges of travel startups, and what they've learned so far. Check them out online at WePlann.com and Olset.com.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="37472212" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_30_Oliver_Camargo_founder_of_Weplann_and_Gadi_Bashvitz_founder_of_OLSET.mp3"/>
+                    <itunes:duration>37:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>travel,tech,valley,silicon,500,startups,weplann,olset</itunes:keywords>
+                    <itunes:subtitle>We're back! I'm ushering in 2014 with an interview focused on travel tech. This week, I speak with two founders in Batch 7 about starting their companies, the challenges of travel startups, and what they've learned so far. Check them out online at...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 29 – Madeline Veenstra (Founder Of Popbasic) and Emily DeSanctis (Founder Of Cityblis)</title>
+                    <pubDate>Fri, 20 Dec 2013 23:48:30 +0000</pubDate>
+                    <guid isPermaLink="false">52d3b976b8a21ba5ec33542056788f3c</guid>
+                    <link>http://500startups.libsyn.com/episode-29-madeline-veenstra-founder-of-popbasic-and-emily-de-sanctis-founder-of-cityblis</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6566937"/>
+                    <description>&lt;p&gt;In this special fashion-themed episode of the podcast, we sit down with 2 founders from our current batch of startups. Listen in to hear them talk about the challenges and opportunities of working in fashion tech.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="22861433" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_29_Madeline_Veenstra_co-founder_of_Popbasic_and_Emily_DeSanctis_co-founder_of_Cityblis.mp3"/>
+                    <itunes:duration>23:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fashion,7,valley,batch,silicon,500,startups,popbasic,cityblis</itunes:keywords>
+                    <itunes:subtitle>In this special fashion-themed episode of the podcast, we sit down with 2 founders from our current batch of startups. Listen in to hear them talk about the challenges and opportunities of working in fashion tech.&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 28 – Atish Davda (Founder Of EquityZen) And Nav Athwal (Founder Of RealtyShares)</title>
+                    <pubDate>Thu, 12 Dec 2013 21:29:18 +0000</pubDate>
+                    <guid isPermaLink="false">4e2ef5adef29c7448de084dd92abfeda</guid>
+                    <link>http://500startups.libsyn.com/episode-28-atish-davda-founder-of-equity-zen-and-nav-athwal-founder-of-realty-shares</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6532719"/>
+                    <description>&lt;p&gt;This week, we spoke with two founders in our current batch (batch 7) to discuss crowdfunding, equity, real estate and some of the other interesting finance trends in the startup space.&lt;/p&gt;</description>
+                    <enclosure length="34125169" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_28_Atish_Davda_Founder_of_EquityZen_and_Nav_Athwal_Founder_of_RealtyShares.mp3"/>
+                    <itunes:duration>35:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>real,tech,finance,estate,equity,500,realty,startups,realtyshares,equityzen</itunes:keywords>
+                    <itunes:subtitle>This week, we spoke with two founders in our current batch (batch 7) to discuss crowdfunding, equity, real estate and some of the other interesting finance trends in the startup space.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 27 –&#160;Jason Costa, Developer Relations at Pinterest</title>
+                    <pubDate>Fri, 06 Dec 2013 23:20:37 +0000</pubDate>
+                    <guid isPermaLink="false">1d9cfd0a582625845668df7d235f4ab6</guid>
+                    <link>http://500startups.libsyn.com/episode-27-jason-costa-developer-relations-at-pinterest</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6506547"/>
+                    <description>&lt;p&gt;This week I sat down with Jason Costa for a quick interview about what he does at Pinterest. Follow him on Twitter @JasonCosta&lt;/p&gt;</description>
+                    <enclosure length="16728537" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_27_Jason_Costa_Developer_Relations_at_Pinterest.mp3"/>
+                    <itunes:duration>17:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>jason,costa,api,developers,pinterest</itunes:keywords>
+                    <itunes:subtitle>This week I sat down with Jason Costa for a quick interview about what he does at Pinterest. Follow him on Twitter @JasonCosta</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 26 –&#160;Julie Ann Horvath, Designer at GitHub</title>
+                    <pubDate>Fri, 22 Nov 2013 15:38:09 +0000</pubDate>
+                    <guid isPermaLink="false">c28a8adcbeeeadf55f0e64419ca6bc12</guid>
+                    <link>http://500startups.libsyn.com/episode-26-julie-ann-horvath-designer-at-git-hub</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6443934"/>
+                    <description>&lt;p&gt;This week, I speak with Julie Ann Horvath, designer at GitHub and founder of Passion Projects (passion-projects.github.com/). Follow her on Twitter @nrrrdcore.&lt;/p&gt;</description>
+                    <enclosure length="33552774" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_26__Julie_Ann_Horvath_Designer_at_GitHub.mp3"/>
+                    <itunes:duration>34:53</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>design,tech,women,valley,silicon,startups,github</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Julie Ann Horvath, designer at GitHub and founder of Passion Projects (passion-projects.github.com/). Follow her on Twitter @nrrrdcore.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 25 –&#160;Christina Bognet, CEO and Co-founder of PlateJoy</title>
+                    <pubDate>Fri, 15 Nov 2013 23:40:24 +0000</pubDate>
+                    <guid isPermaLink="false">9a157028e68c7764538ec3dec104e467</guid>
+                    <link>http://500startups.libsyn.com/episode-25-christina-bognet-ceo-and-co-founder-of-plate-joy</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6416411"/>
+                    <description>&lt;p&gt;In this week's episode, I speak with Christina Bognet, CEO and co-founder of food delivery startup PlateJoy. Check them out online at platejoy.com.&lt;/p&gt;</description>
+                    <enclosure length="43370342" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_25_Christina_Bognet_CEO_and_co-founder_of_PlateJoy.mp3"/>
+                    <itunes:duration>45:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>food,tech,500,startups,500strong,platejoy</itunes:keywords>
+                    <itunes:subtitle>In this week's episode, I speak with Christina Bognet, CEO and co-founder of food delivery startup PlateJoy. Check them out online at platejoy.com.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 24 –&#160;Francesca Cavallo, Co-founder and Creative Director of Timbuktu.mp3</title>
+                    <pubDate>Fri, 08 Nov 2013 21:37:31 +0000</pubDate>
+                    <guid isPermaLink="false">d3b3b1f601dcaddadd7817eafced5f19</guid>
+                    <link>http://500startups.libsyn.com/episode-24-francesca-cavallo-co-founder-and-creative-director-of-timbuktu-mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6386188"/>
+                    <description>&lt;p&gt;This week, I speak with Italian founder Francesca Cavallo about startup culture, the challenges of media startups, and what it's like to be a woman in tech.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Check out the LGBT entrepreneurship panel she was on here: https://new.livestream.com/500SAcc/500LGBT&lt;/p&gt;
+&lt;p&gt;Please remember to comment, rate us on iTunes/Stitcher, and follow us on SoundCloud!&lt;/p&gt;</description>
+                    <enclosure length="51493408" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_24_Francesca_Cavallo_Co-founder_and_Creative_Director_of_Timbuktu.mp3"/>
+                    <itunes:duration>53:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,women,italy,valley,entrepreneurs,silicon,founders,500,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Italian founder Francesca Cavallo about startup culture, the challenges of media startups, and what it's like to be a woman in tech.&amp;nbsp;
+Check out the LGBT entrepreneurship panel she was on here:...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Special Batch 007 Edition –&#160;License to Fail</title>
+                    <pubDate>Wed, 30 Oct 2013 22:08:15 +0000</pubDate>
+                    <guid isPermaLink="false">c9da5cd790edb1e1d6820116c682fe4a</guid>
+                    <link>http://500startups.libsyn.com/special-batch-007-edition-license-to-fail</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6346204"/>
+                    <description>&lt;p style="margin: 0px 0px 10px; color: #333333; font-family: Interstate, 'Lucida Grande', Arial, sans-serif; font-size: 16px; line-height: 22px;"&gt;In this special edition of the Startup Founders Podcast, you'll hear 3-minute lightning interviews with the founders of our latest batch of companies. Here's a list of startups from this episode (in order of appearance):&lt;/p&gt;
+&lt;p style="margin: 0px 0px 10px; color: #333333; font-family: Interstate, 'Lucida Grande', Arial, sans-serif; font-size: 16px; line-height: 22px;"&gt;WePlann&lt;br /&gt;uBiome&lt;br /&gt;Carreira Beauty&lt;br /&gt;Sliverpush&lt;br /&gt;Sidelines&lt;br /&gt;Shopseen&lt;br /&gt;Sales Beach&amp;nbsp;&lt;br /&gt;Anyadir Education&lt;br /&gt;AdEspresso&amp;nbsp;&lt;br /&gt;RealtyShares&amp;nbsp;&lt;br /&gt;Buzzstarter&lt;br /&gt;Bounty Hunter&lt;br /&gt;Populr&lt;br /&gt;Popbasic&lt;br /&gt;Partender&lt;br /&gt;MailLift&lt;br /&gt;LaunchTrack&lt;br /&gt;Grata&amp;nbsp;&lt;br /&gt;Goods&amp;nbsp;&lt;br /&gt;EquityZen&lt;br /&gt;Cityblis&amp;nbsp;&lt;br /&gt;BTCJam&lt;br /&gt;OLSET&lt;/p&gt;
+&lt;p style="margin: 0px 0px 10px; color: #333333; font-family: Interstate, 'Lucida Grande', Arial, sans-serif; font-size: 16px; line-height: 22px;"&gt;Learn more at 500.co/blog&lt;/p&gt;</description>
+                    <enclosure length="70673172" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Special_Batch_007_Edition_License_to_Fail.mp3"/>
+                    <itunes:duration>01:13:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>500,startups</itunes:keywords>
+                    <itunes:subtitle>In this special edition of the Startup Founders Podcast, you'll hear 3-minute lightning interviews with the founders of our latest batch of companies. Here's a list of startups from this episode (in order of appearance):
+WePlannuBiomeCarreira...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 23 –&#160;Joshua Taylor, Product Designer at Evernote</title>
+                    <pubDate>Fri, 18 Oct 2013 21:03:02 +0000</pubDate>
+                    <guid isPermaLink="false">5dc1f61bb4369001daaa185078f1b007</guid>
+                    <link>http://500startups.libsyn.com/episode-23-joshua-taylor-product-designer-at-evernote</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6289921"/>
+                    <description>&lt;p&gt;&lt;/p&gt;
+&lt;p class="p1"&gt;In anticipation of our upcoming design conference (Warm Gun), I sit down with Joshua Taylor, Product Designer at Evernote. Listen in to get his awesome tips for designers, then register at warmgun.com to hear more from him on November 22nd!&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="34412138" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_23_Joshua_Taylor_Product_Designer_at_Evernote.mp3"/>
+                    <itunes:duration>35:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>design,evernote,dave,photoshop,ui,500,ux,mcclure,startups,warmgun</itunes:keywords>
+                    <itunes:subtitle>In anticipation of our upcoming design conference (Warm Gun), I sit down with Joshua Taylor, Product Designer at Evernote. Listen in to get his awesome tips for designers, then register at warmgun.com to hear more from him on November 22nd!&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 22 –&#160;Ryan Damico, CEO and Co-founder of Crocodoc</title>
+                    <pubDate>Fri, 11 Oct 2013 19:45:12 +0000</pubDate>
+                    <guid isPermaLink="false">4b46eac3991a83fbddde59bb4ae48833</guid>
+                    <link>http://500startups.libsyn.com/episode-22-ryan-damico-ceo-and-co-founder-of-crocodoc</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6259440"/>
+                    <description>&lt;p&gt;This week, I sit down with Ryan Damico, CEO and co-founder of Crocodoc. His company was acquired earlier this year, and he's now the Director of Platform at Box. Please remember to rate us on iTunes and share the show online!&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="44122394" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_22_Ryan_Damico_CEO_and_Co-founder_of_Crocodoc.mp3"/>
+                    <itunes:duration>45:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>box,aaron,tech,files,ryan,valley,silicon,acquisitions,html5,startups,damico,levie,crocodoc</itunes:keywords>
+                    <itunes:subtitle>This week, I sit down with Ryan Damico, CEO and co-founder of Crocodoc. His company was acquired earlier this year, and he's now the Director of Platform at Box. Please remember to rate us on iTunes and share the show online!&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>500 Mexico City Edition –&#160;Itzel Lerma &amp; Paulina Arreola, 500 Startups</title>
+                    <pubDate>Wed, 09 Oct 2013 19:19:00 +0000</pubDate>
+                    <guid isPermaLink="false">db291fc04d33818bf823e437e252bbea</guid>
+                    <link>http://500startups.libsyn.com/500-mexico-city-edition-itzel-lerma-paulina-arreola-500-startups</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6250776"/>
+                    <description>&lt;p&gt;In my latest Mexico City interview, I sit down with Itzel Lerma and Paulina Arreola, members of 500's Mexico team! They talk about some of the challenges and opportunities for entrepreneurs in Mexico and Latin America. Please remember so rate the show on iTunes and Stitcher, and to send questions/feedback to @markjsaldana on Twitter!&lt;/p&gt;</description>
+                    <enclosure length="27660680" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500_Mexico_City_Edition_Itzel_Lerma__Paulina_Arreola_500_Startups.mp3"/>
+                    <itunes:duration>28:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,investing,mexico,america,latin,spanish,city,valley,entrepreneurs,silicon,500,startups,latam</itunes:keywords>
+                    <itunes:subtitle>In my latest Mexico City interview, I sit down with Itzel Lerma and Paulina Arreola, members of 500's Mexico team! They talk about some of the challenges and opportunities for entrepreneurs in Mexico and Latin America. Please remember so rate the show...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>500 Mexico Special Edition –&#160;Lulo Lopez, CEO and Co-founder of Bandtastic</title>
+                    <pubDate>Fri, 27 Sep 2013 20:16:00 +0000</pubDate>
+                    <guid isPermaLink="false">03716ab9d1910c49fdc2e8228a93826d</guid>
+                    <link>http://500startups.libsyn.com/500-mexico-special-edition-lulo-lopez-ceo-and-co-founder-of-bandtastic</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6199854"/>
+                    <description>&lt;div class="postBody" style="font-size: 11px; color: #333333;"&gt;
+&lt;p&gt;This week, I'm bringing you two interviews from Mexico City! Listen in to hear founders talk about running a startup in one of the most exciting cities in the world. Please remember to check out our blog at 500.co/blog for startup tips, tricks, and how-to guides.&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+                    <enclosure length="38655847" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500_Mexico_Edition_Lulo_Lopez_CEO_and_Co-founder_of_Bandtastic.mp3"/>
+                    <itunes:duration>40:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>design,tech,mexico,city,valley,silicon,500,startups,latam</itunes:keywords>
+                    <itunes:subtitle>This week, I'm bringing you two interviews from Mexico City! Listen in to hear founders talk about running a startup in one of the most exciting cities in the world. Please remember to check out our blog at 500.co/blog for startup tips, tricks, and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>500 Mexico Special Edition –&#160;May Alba, CEO and Co-founder of rubberit</title>
+                    <pubDate>Fri, 27 Sep 2013 20:12:00 +0000</pubDate>
+                    <guid isPermaLink="false">20da80fb840848915910e1d314dd57d8</guid>
+                    <link>http://500startups.libsyn.com/500-mexico-special-edition-may-alba-ceo-and-co-founder-of-rubberit</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6199805"/>
+                    <description>&lt;p&gt;This week, I'm bringing you two interviews from Mexico City! Listen in to hear founders talk about running a startup in one of the most exciting cities in the world. Please remember to check out our blog at 500.co/blog for startup tips, tricks, and how-to guides.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="27419674" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500_Mexico_Edition_May_Alba_CEO_and_Co-founder_of_rubberit.mp3"/>
+                    <itunes:duration>28:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>design,tech,mexico,city,valley,silicon,500,startups,latam</itunes:keywords>
+                    <itunes:subtitle>This week, I'm bringing you two interviews from Mexico City! Listen in to hear founders talk about running a startup in one of the most exciting cities in the world. Please remember to check out our blog at 500.co/blog for startup tips, tricks, and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 21 – David Spinks, CEO and Co-founder of Feast</title>
+                    <pubDate>Fri, 20 Sep 2013 14:53:47 +0000</pubDate>
+                    <guid isPermaLink="false">7733b675bff164bb945535a199def32a</guid>
+                    <link>http://500startups.libsyn.com/episode-21-david-spinks-ceo-and-co-founder-of-feast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6166979"/>
+                    <description>&lt;p&gt;This week, I sit down with a founder from our most recent batch of startups (@davidspinks) to talk about food, community, and more! He has a great blog at&amp;nbsp;http://whatspinksthinks.com/, so definitely check it out. I'll be back next week with interviews from Mexico City.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="27556332" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_21_David_Spinks_CEO_and_Co-founder_of_Feast.mp3"/>
+                    <itunes:duration>28:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>food,tech,david,community,feast,founders,spinks,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I sit down with a founder from our most recent batch of startups (@davidspinks) to talk about food, community, and more! He has a great blog at&amp;nbsp;http://whatspinksthinks.com/, so definitely check it out. I'll be back next week with...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 20 –&#160;Rakesh Tondon and Brett Northart, Co-founders of LE TOTE</title>
+                    <pubDate>Fri, 06 Sep 2013 19:36:03 +0000</pubDate>
+                    <guid isPermaLink="false">2cf362faa48720ca695ead9b40930c84</guid>
+                    <link>http://500startups.libsyn.com/episode-20-rakesh-tondon-and-brett-northart-co-founders-of-le-tote</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6102206"/>
+                    <description>&lt;p&gt;In this week's episode, I speak with the co-founders of LE TOTE, a company they describe as "Netflix for women's fashion." In addition to being part of 500 Startups, they recently graduated from YC's accelerator program. Please remember to rate and subscribe to our show on iTunes!&lt;/p&gt;</description>
+                    <enclosure length="20012735" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_20_Rakesh_Tondon_and_Brett_Northart_Co-founders_of_LE_TOTE.mp3.mp3"/>
+                    <itunes:duration>20:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In this week's episode, I speak with the co-founders of LE TOTE, a company they describe as "Netflix for women's fashion." In addition to being part of 500 Startups, they recently graduated from YC's accelerator program. Please remember to rate and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 19 –&#160;Sean Percival, Distribution and Growth Hacker, 500 Startups</title>
+                    <pubDate>Fri, 30 Aug 2013 03:13:22 +0000</pubDate>
+                    <guid isPermaLink="false">75c17083201a3a6a55226672576b8fc3</guid>
+                    <link>http://500startups.libsyn.com/episode-19-sean-percival-distribution-and-growth-hacker-500-startups</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6069028"/>
+                    <description>&lt;p&gt;I have another member of the 500 Startups team on the show this week! Sean Percival (@percival) has a storied background &amp;ndash; he was VP of marketing at Myspace, founded his own company (Wittlebee), and worked on growth hacking before the term even existed. Get more tips from him and our distribution team @500Distribution on Twitter. Please remember to rate and review the show on iTunes! :)&lt;/p&gt;</description>
+                    <enclosure length="41242107" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_19_Sean_Percival_Distribution_and_Growth_Hacker_500_Startups.mp3"/>
+                    <itunes:duration>42:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>myspace,marketing,fundraising,sean,growth,hacker,distribution,startups,percival</itunes:keywords>
+                    <itunes:subtitle>I have another member of the 500 Startups team on the show this week! Sean Percival (@percival) has a storied background &amp;ndash; he was VP of marketing at Myspace, founded his own company (Wittlebee), and worked on growth hacking before the term even...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 18 –&#160;Daniel Ha, CEO and Co-founder of Disqus</title>
+                    <pubDate>Fri, 23 Aug 2013 17:51:57 +0000</pubDate>
+                    <guid isPermaLink="false">040fc1e5d98022ef0f9192f0476ab327</guid>
+                    <link>http://500startups.libsyn.com/episode-18-daniel-ha-ceo-and-co-founder-of-disqus</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6038445"/>
+                    <description>&lt;p&gt;I'm happy to have my first non-500 Startups guest on the show this week! Daniel Ha (@danielha) is the CEO and co-founder of Disqus, a Y Combinator company. Please remember to share the show w/ friends and rate us on iTunes!&lt;/p&gt;</description>
+                    <enclosure length="28528819" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_18_Daniel_Ha_CEO_and_Co-founder_of_Disqus.mp3"/>
+                    <itunes:duration>29:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>y,startup,communities,disqus,yc,combinator,commenting</itunes:keywords>
+                    <itunes:subtitle>I'm happy to have my first non-500 Startups guest on the show this week! Daniel Ha (@danielha) is the CEO and co-founder of Disqus, a Y Combinator company. Please remember to share the show w/ friends and rate us on iTunes!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 17 –&#160;Kevin Davis, Co-founder of Geekatoo</title>
+                    <pubDate>Fri, 16 Aug 2013 01:33:13 +0000</pubDate>
+                    <guid isPermaLink="false">955a41ff29af2ca8b26dca3fd4d82226</guid>
+                    <link>http://500startups.libsyn.com/episode-17-kevin-davis-co-founder-of-geekatoo</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6001205"/>
+                    <description>&lt;p&gt;This week, batch 6 co-founder Kevin Davis gives his take on taking on Geek Squad, applying to 500, Dave McClure, and going through demo days. Want to be in our next batch? APPLY TODAY:&amp;nbsp;http://bit.ly/Be500STRONG&lt;/p&gt;</description>
+                    <enclosure length="28409274" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_17__Kevin_Davis_Co-founder_of_Geekatoo.mp3"/>
+                    <itunes:duration>29:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,geek,valley,support,squad,silicon,startups,geekatoo</itunes:keywords>
+                    <itunes:subtitle>This week, batch 6 co-founder Kevin Davis gives his take on taking on Geek Squad, applying to 500, Dave McClure, and going through demo days. Want to be in our next batch? APPLY TODAY:&amp;nbsp;http://bit.ly/Be500STRONG</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 16 –&#160;Chris Nolet, co-founder of App.io</title>
+                    <pubDate>Fri, 09 Aug 2013 17:39:00 +0000</pubDate>
+                    <guid isPermaLink="false">abf94249958937d97c54b6dba38121e6</guid>
+                    <link>http://500startups.libsyn.com/episode-16-chris-nolet-co-founder-of-app-io</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5964133"/>
+                    <description>&lt;p&gt;We're back from NYC! Join me this week as I speak with Chris Nolet, co-founder of App.io. He was a member of our spring 2013 accelerator program, so we talk about what he's been up to since pitching his startup at demo day. Please rememeber to rate and subscribe to the show in iTunes!&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="31894630" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_16_-_Chris_Nolet_co-founder_of_Appio.mp3"/>
+                    <itunes:duration>33:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>iphone,chris,apps,500,ios,startups,nolet,appio,kickfolio</itunes:keywords>
+                    <itunes:subtitle>We're back from NYC! Join me this week as I speak with Chris Nolet, co-founder of App.io. He was a member of our spring 2013 accelerator program, so we talk about what he's been up to since pitching his startup at demo day. Please rememeber to rate...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#500NYC Edition –&#160;Shai Goldman, Venture Partner, 500 Startups</title>
+                    <pubDate>Fri, 02 Aug 2013 17:04:04 +0000</pubDate>
+                    <guid isPermaLink="false">1f85af3e6e6ed5011a393fa8e601d6ee</guid>
+                    <link>http://500startups.libsyn.com/-500nyc-edition-shai-goldman-venture-partner-500-startups</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5928603"/>
+                    <description>&lt;p&gt;It's our last #500NYC interview of the week! In this episode &amp;nbsp;I speak with Shai Goldman about how he got into venture capital, NYC vs. Silicon Valley, and more. Follow him on Twitter @Shaig to keep up with everything 500-related in NYC.&lt;/p&gt;</description>
+                    <enclosure length="21471586" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500NYC_Edition_Shai_Goldman_500_Venture_Partner_NYC.mp3"/>
+                    <itunes:duration>22:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>new,york,tech,nyc,manhattan,goldman,partners,venture,capital,investors,500,shai,startups</itunes:keywords>
+                    <itunes:subtitle>It's our last #500NYC interview of the week! In this episode &amp;nbsp;I speak with Shai Goldman about how he got into venture capital, NYC vs. Silicon Valley, and more. Follow him on Twitter @Shaig to keep up with everything 500-related in NYC.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#500NYC Edition –&#160;Bernie Yoo, Co-Founder of Bombfell</title>
+                    <pubDate>Thu, 01 Aug 2013 18:33:16 +0000</pubDate>
+                    <guid isPermaLink="false">18fb5c1e254ff1bdd875483bc94acefd</guid>
+                    <link>http://500startups.libsyn.com/-500nyc-edition-bernie-yoo-co-founder-of-bombfell</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5924919"/>
+                    <description>&lt;p&gt;Today I speak with Bernie Yoo (@thebernieyoo), co-founder of men's fashion startup Bombfell. His startup was part of 500 Startups Batch 4 back in spring 2012. Stay tuned for an interview tomorrow with our NYC Venture Partner, Shai Goldman (@Shaig).&lt;/p&gt;</description>
+                    <enclosure length="36638481" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500NYC_Edition_Bernie_Yoo_Co-Founder_of_Bombfell.mp3"/>
+                    <itunes:duration>38:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>new,york,nyc,fashion,city,mens,startups,bombfell</itunes:keywords>
+                    <itunes:subtitle>Today I speak with Bernie Yoo (@thebernieyoo), co-founder of men's fashion startup Bombfell. His startup was part of 500 Startups Batch 4 back in spring 2012. Stay tuned for an interview tomorrow with our NYC Venture Partner, Shai Goldman (@Shaig).</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#500NYC Edition – Zoli Honig, COO and co-founder of Chalkable</title>
+                    <pubDate>Wed, 31 Jul 2013 14:46:00 +0000</pubDate>
+                    <guid isPermaLink="false">a75a81d4081019cfe9aac0f859d6319b</guid>
+                    <link>http://500startups.libsyn.com/-500nyc-edition-zoli-honig-coo-and-co-founder-of-chalkable</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5920563"/>
+                    <description>&lt;p style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;"&gt;It's our third day in the concrete jungle! Today, I sit down with Zoli Honigh&amp;nbsp;(@zolihonig), COO and co-founder of education startup Chalkable. Don't forget to apply for our next batch of startups at&amp;nbsp;http://bit.ly/Be500STRONG!&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;</description>
+                    <enclosure length="22118179" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500NYC_Edition_Zoli_Honig_COO_and_co-founder_of_Chalkable.mp3"/>
+                    <itunes:duration>23:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,nyc,education,startups</itunes:keywords>
+                    <itunes:subtitle>It's our third day in the concrete jungle! Today, I sit down with Zoli Honigh&amp;nbsp;(@zolihonig), COO and co-founder of education startup Chalkable. Don't forget to apply for our next batch of startups at&amp;nbsp;http://bit.ly/Be500STRONG!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#500NYC Edition –&#160;Brian Wang, CEO and co-founder of Fitocracy</title>
+                    <pubDate>Tue, 30 Jul 2013 15:20:56 +0000</pubDate>
+                    <guid isPermaLink="false">63342839d55b7a185eb428b7ab288f7a</guid>
+                    <link>http://500startups.libsyn.com/-500nyc-edition-brian-wang-ceo-and-co-founder-of-fitocracy</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5917075"/>
+                    <description>&lt;p&gt;I sat down with Brian Wang (@brianmwang), CEO and co-founder of Fitocracy to talk about startup trends, the differences between NYC and Silicon Valley, his experience in 500's accelerator program, and more. Follow all our #500NYC advenutres this week @500Startups on Twitter and Instagram.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="25875632" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500NYC_Edition_Brian_Wang_CEO_and_co-founder_of_Fitocracy.mp3"/>
+                    <itunes:duration>26:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>new,york,fitness,tech,health,apps,valley,silicon,startups,gamification,fitocracy</itunes:keywords>
+                    <itunes:subtitle>I sat down with Brian Wang (@brianmwang), CEO and co-founder of Fitocracy to talk about startup trends, the differences between NYC and Silicon Valley, his experience in 500's accelerator program, and more. Follow all our #500NYC advenutres this week...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#500NYC Edition –&#160;Steven Van Wel, CEO and co-founder of Karma</title>
+                    <pubDate>Mon, 29 Jul 2013 14:04:13 +0000</pubDate>
+                    <guid isPermaLink="false">dfcbada484fcd69a327139668507f732</guid>
+                    <link>http://500startups.libsyn.com/-500nyc-edition-steven-van-wel-ceo-and-co-founder-of-karma</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5913350"/>
+                    <description>&lt;p&gt;With demo day San Francisco and Mountain View out of the way, there was only one place for 500 to go next &amp;ndash; New York City! This week, we're featuring our awesome #500Strong NYC founders with a new episode of the Startup Founders Podcast every day. To kick things off, I speak with Steven Van Wel (@stevenvanwel), CEO and co-founder of Karma.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="27498567" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500NYC_Edition_Steven_Van_Wel_CEO_and_co-founder_of_Karma.mp3"/>
+                    <itunes:duration>28:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>new,york,tech,nyc,valley,karma,silicon,500,startups</itunes:keywords>
+                    <itunes:subtitle>With demo day San Francisco and Mountain View out of the way, there was only one place for 500 to go next &amp;ndash; New York City! This week, we're featuring our awesome #500Strong NYC founders with a new episode of the Startup Founders Podcast every...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 15 –&#160;Jas Banwait, CEO and co-founder of Seat14a</title>
+                    <pubDate>Fri, 26 Jul 2013 19:55:44 +0000</pubDate>
+                    <guid isPermaLink="false">971cd900121148634c74a366cf6ad46f</guid>
+                    <link>http://500startups.libsyn.com/episode-15-jas-banwait-ceo-and-co-founder-of-seat14a</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5906308"/>
+                    <description>&lt;p&gt;This week, I speak with Jas Banwait (@JasBanwait), the co-founder of one of our Batch 6 accelerator companies. This was recorded the day before our first demo day in Mountain view. Please rate and subscribe to the show on iTunes &amp;ndash; and don't forget to send questions or comments to me @markjsaldana on Twitter. I'll be back with another episode from NYC on Monday!&lt;/p&gt;</description>
+                    <enclosure length="30806799" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_15_Jas_Banwait_CEO_and_co-founder_Seat14a.mp3"/>
+                    <itunes:duration>32:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,fashion,valley,startup,silicon,500,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Jas Banwait (@JasBanwait), the co-founder of one of our Batch 6 accelerator companies. This was recorded the day before our first demo day in Mountain view. Please rate and subscribe to the show on iTunes &amp;ndash; and don't...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Bonus Episode –&#160;Dave McClure Interviews Marc Andreessen</title>
+                    <pubDate>Mon, 22 Jul 2013 17:27:19 +0000</pubDate>
+                    <guid isPermaLink="false">e336c9570da84ab83749de79c2252d5f</guid>
+                    <link>http://500startups.libsyn.com/bonus-episode-dave-mc-clure-interviews-marc-andreessen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5892086"/>
+                    <description>&lt;p&gt;Recorded live at our PreMoney conference &amp;ndash; check out videos from PreMoney at YouTube.com/500startups&lt;/p&gt;</description>
+                    <enclosure length="40663733" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Bonus_Episode_Dave_McClure_Interviews_Marc_Andreessen.mp3"/>
+                    <itunes:duration>41:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,investing,dave,marc,valley,venture,capital,silicon,mcclure,andreessen</itunes:keywords>
+                    <itunes:subtitle>Recorded live at our PreMoney conference &amp;ndash; check out videos from PreMoney at YouTube.com/500startups</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 14 -&#160;Rui Ma, 500 Startups Venture Partner, China</title>
+                    <pubDate>Fri, 19 Jul 2013 19:12:49 +0000</pubDate>
+                    <guid isPermaLink="false">ac6fd63f33837ead223dde3f27245d2e</guid>
+                    <link>http://500startups.libsyn.com/episode-14-rui-ma-500-startups-venture-partner-china</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5884240"/>
+                    <description>&lt;p&gt;This week, I sit down to speak with another member of the 500 team! Rui (pronounced "ray") is based in Beijing, but has spent the last few weeks in the Bay Area. Listen to this episode for info on everything VC and tech going on in China. Please remember to send questions to me @markjsaldana on Twitter and leave us a review on iTunes.&lt;/p&gt;</description>
+                    <enclosure length="29266725" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_14_Rui_Ma_500_Startups_Venture_Partner_China.mp3"/>
+                    <itunes:duration>30:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,china,asia,venture,capital,bejing,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I sit down to speak with another member of the 500 team! Rui (pronounced "ray") is based in Beijing, but has spent the last few weeks in the Bay Area. Listen to this episode for info on everything VC and tech going on in China. Please...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 13 –&#160;Erik Eliason, CEO and co-founder of Storefront</title>
+                    <pubDate>Fri, 12 Jul 2013 18:02:43 +0000</pubDate>
+                    <guid isPermaLink="false">26694c52de5ac4d4f931bb8cc282c768</guid>
+                    <link>http://500startups.libsyn.com/episode-13-erik-eliason-ceo-and-co-founder-of-storefront</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5861745"/>
+                    <description>&lt;p&gt;This week, I speak with Erik Eliason, CEO and co-founder of storefront. In addition to having an awesome company, he's by far the tallest founder I've ever met :). Check out our Unsexy conference at unsexy.co, and apply to be named the "unsexist startup" at unsexy.co/unsexiest for a chance to get up to 25k in funding. Thanks for listening!&lt;/p&gt;</description>
+                    <enclosure length="32634486" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_13_Erik_Eliason_CEO_and_co-founder_of_Storefront.mp3"/>
+                    <itunes:duration>33:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,valley,silicon,founders,500,retail,startups,storefront</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Erik Eliason, CEO and co-founder of storefront. In addition to having an awesome company, he's by far the tallest founder I've ever met :). Check out our Unsexy conference at unsexy.co, and apply to be named the "unsexist...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 12 –&#160;Pankaj Jain, Venture Partner, 500 Startups</title>
+                    <pubDate>Fri, 05 Jul 2013 22:16:48 +0000</pubDate>
+                    <guid isPermaLink="false">85bf673e62d0a64a01cf892b4094c5fe</guid>
+                    <link>http://500startups.libsyn.com/episode-12-pankaj-jain-venture-partner-500-startups</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5841515"/>
+                    <description>&lt;p&gt;This week, I speak with our Indian venture partner, Pankaj Jain. Please remember to rate the show on itunes and send questions, comments and feedback to me on Twitter @markjsaldana!&lt;/p&gt;</description>
+                    <enclosure length="46603974" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_12__Pankaj_Jain_500_Startups_Venture_Partner.mp3"/>
+                    <itunes:duration>48:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,india,valley,silicon,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with our Indian venture partner, Pankaj Jain. Please remember to rate the show on itunes and send questions, comments and feedback to me on Twitter @markjsaldana!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 11 –&#160;Mike Baukes and Alan Sharp-Paul, co-founders of ScriptRock</title>
+                    <pubDate>Fri, 21 Jun 2013 18:54:00 +0000</pubDate>
+                    <guid isPermaLink="false">56c45cb9bb3e12c4f317a871c7f79802</guid>
+                    <link>http://500startups.libsyn.com/episode-11-mike-baukes-and-alan-sharp-paul-co-founders-of-script-rock</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5796301"/>
+                    <description>&lt;p&gt;This week, I interview the co-founders of ScriptRock, a startup focused on Enterprise IT. Please follow 500 Startups on Twitter @500Startups and @500Distribution, and feel free to send me feedback about the show @markjsaldana. Talk to you next week!&lt;/p&gt;</description>
+                    <enclosure length="31010451" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_11_Mike_Baukes_and_Alan_Sharp-Paul_co-founders_of_ScriptRock.mp3"/>
+                    <itunes:duration>32:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>it,tech,enterprise,valley,silicon,500,startups,scriptrock</itunes:keywords>
+                    <itunes:subtitle>This week, I interview the co-founders of ScriptRock, a startup focused on Enterprise IT. Please follow 500 Startups on Twitter @500Startups and @500Distribution, and feel free to send me feedback about the show @markjsaldana. Talk to you next week!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 10 – Elyse Petersen, CEO and founder of Tealet</title>
+                    <pubDate>Fri, 14 Jun 2013 05:49:00 +0000</pubDate>
+                    <guid isPermaLink="false">7297b49950b44345da30f45184082a09</guid>
+                    <link>http://500startups.libsyn.com/episode-10-elyse-petersen-ceo-and-founder-of-tealet</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5771157"/>
+                    <description>&lt;p&gt;This week, I speak with Elyse Petersen (@PeaceElyse), a founder who's disrupting one of the oldest products in the world &amp;ndash; tea. She has an amazing background and some great stories about hustling to get her product in front of the right people. &amp;nbsp;Please remember to share this episode and leave us a review on iTunes!&lt;/p&gt;</description>
+                    <enclosure length="44115611" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Episode_10_Elyse_Petersen_CEO_and_founder_of_Tealet.mp3"/>
+                    <itunes:duration>45:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>kevin,tech,rose,valley,tea,hawaii,silicon,500,startups,tealet</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Elyse Petersen (@PeaceElyse), a founder who's disrupting one of the oldest products in the world &amp;ndash; tea. She has an amazing background and some great stories about hustling to get her product in front of the right people....</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 9&#160;–&#160;Carlos González de Villaumbrosia and Álvaro Sanmartín, Floqq co-founders</title>
+                    <pubDate>Fri, 07 Jun 2013 07:12:00 +0000</pubDate>
+                    <guid isPermaLink="false">fe83d13c9909d0f48588cd3f4d5382c7</guid>
+                    <link>http://500startups.libsyn.com/episode-9-carlos-gonza-lez-de-villaumbrosia-and-a-lvaro-sanmarti-n-floqq-co-founders</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5750872"/>
+                    <description>&lt;p&gt;This week, I sit down with the co-founders of Floqq (@AlvaroSanmartin and @Villaumbrosia) to talk about moving to the US, building the perfect startup team, and more. Remember to rate the show on iTunes, send your questions to me on Twitter @markjsaldana, and tell your friends about the show!&lt;/p&gt;</description>
+                    <enclosure length="34315947" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Ep._9_Carlos_Gonzlez_de_Villaumbrosia_and_lvaro_Sanmartn_Floqq_co-founders.mp3"/>
+                    <itunes:duration>35:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,international,spanish,spain,valley,madrid,silicon,500,startups,floqq</itunes:keywords>
+                    <itunes:subtitle>This week, I sit down with the co-founders of Floqq (@AlvaroSanmartin and @Villaumbrosia) to talk about moving to the US, building the perfect startup team, and more. Remember to rate the show on iTunes, send your questions to me on Twitter...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 8 –&#160;Aihui Ong, CEO and founder of Love With Food</title>
+                    <pubDate>Fri, 31 May 2013 19:40:00 +0000</pubDate>
+                    <guid isPermaLink="false">46860a11d398a519f148bb78aaa08f17</guid>
+                    <link>http://500startups.libsyn.com/startup-founders-podcast-episode-8</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5731648"/>
+                    <description>&lt;p&gt;In this episode, I interview Aihui Ong, CEO and founder of Love With Food. She's led a pretty interesting life: she grew up in singapore (where she sold car polish in high school), was an engineer for many years, and has even backpacked around the world. Remember to review the show on iTunes, share the show with your friends, and send us feedback/questions @markjsaldana on Twitter.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="41143297" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Startup_Founders_Podcast_Episode_8.mp3"/>
+                    <itunes:duration>42:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>love,food,tech,with,valley,startup,singapore,silicon,500,startups</itunes:keywords>
+                    <itunes:subtitle>In this episode, I interview Aihui Ong, CEO and founder of Love With Food. She's led a pretty interesting life: she grew up in singapore (where she sold car polish in high school), was an engineer for many years, and has even backpacked around the...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 7 –&#160;Vitaly Golomb, CEO and founder of Keen Systems</title>
+                    <pubDate>Fri, 24 May 2013 00:43:00 +0000</pubDate>
+                    <guid isPermaLink="false">f98f94fbaf108c33c97725051d79db6c</guid>
+                    <link>http://500startups.libsyn.com/startup-founders-podcast-episode-7</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5709758"/>
+                    <description>&lt;p&gt;In this episode, I speak with Vitaly Golomb (CEO and founder of Keen Systems) about the print industry, balancing family time with startup time, hiring the right people, and more. Have questions, suggestions or feedback for the show? Send them to @markjsaldana on Twitter. Don't forget to review us on iTunes and share the show online!&lt;/p&gt;</description>
+                    <enclosure length="32896127" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Startup_Founders_Podcast_Episode_7.mp3"/>
+                    <itunes:duration>34:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,systems,valley,print,keen,silicon,500,startups,vitaly,golomb</itunes:keywords>
+                    <itunes:subtitle>In this episode, I speak with Vitaly Golomb (CEO and founder of Keen Systems) about the print industry, balancing family time with startup time, hiring the right people, and more. Have questions, suggestions or feedback for the show? Send them to...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 6 –&#160;Luca Prasso, CEO and co-founder of Curious Hat</title>
+                    <pubDate>Fri, 17 May 2013 07:32:00 +0000</pubDate>
+                    <guid isPermaLink="false">35f0ac367cb51cd9a48919c7aa4b7f1c</guid>
+                    <link>http://500startups.libsyn.com/startup-founders-podcast-episode-6</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5690142"/>
+                    <description>&lt;p&gt;This this episode, I interview Luca Prasso, CEO and co-founder of Curious Hat (curioushat.com). Check out his presentation and others from MamaBear (500 Startups' family tech conference) at livestream.com/500startups. Send suggestions, feedback and questions on Twitter @markjsaldana, and leave us a review on iTunes and Stitcher Radio!&lt;/p&gt;</description>
+                    <enclosure length="22407595" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Startup_Founders_Podcast_Episode_6.mp3"/>
+                    <itunes:duration>23:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,hat,valley,silicon,curious,500,startups</itunes:keywords>
+                    <itunes:subtitle>This this episode, I interview Luca Prasso, CEO and co-founder of Curious Hat (curioushat.com). Check out his presentation and others from MamaBear (500 Startups' family tech conference) at livestream.com/500startups. Send suggestions, feedback and...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 5 –&#160;Kyle Wild, CEO and founder of Keen IO</title>
+                    <pubDate>Fri, 10 May 2013 07:54:00 +0000</pubDate>
+                    <guid isPermaLink="false">7286d4a39c6049784cf741ed5a1e5387</guid>
+                    <link>http://500startups.libsyn.com/startup-founders-podcast-episode-5</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5669860"/>
+                    <description>&lt;p&gt;This week, I sit down with Kyle Wild (@dorkitude), CEO and founder at Keen IO. Please subscribe to the show and leave us a review on iTunes and Stitcher, and don't forget to send questions or comments to me on Twitter @markjsaldana.&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="27704238" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Startup_Founders_Podcast_Episode_5.mp3"/>
+                    <itunes:duration>28:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,analytics,startups,keenio,500startups</itunes:keywords>
+                    <itunes:subtitle>This week, I sit down with Kyle Wild (@dorkitude), CEO and founder at Keen IO. Please subscribe to the show and leave us a review on iTunes and Stitcher, and don't forget to send questions or comments to me on Twitter @markjsaldana.&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 4 –&#160;Sarah Ware, CEO and co-founder of Markerly</title>
+                    <pubDate>Fri, 03 May 2013 20:14:00 +0000</pubDate>
+                    <guid isPermaLink="false">9dc23f29d7ee5c6fc31b353f1a563161</guid>
+                    <link>http://500startups.libsyn.com/startup-founders-podcast-episode-4</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5651134"/>
+                    <description>&lt;p&gt;This week, I speak with Sarah Ware (@WareSarah), CEO and co-founder of Markerly. Subscribe and rate us on iTunes and Stitcher, and send questions or feedback to @markjsaldana on Twitter. Talk to you next week!&lt;/p&gt;</description>
+                    <enclosure length="20750329" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/Startup_Founders_Podcast_Episode_4.mp3"/>
+                    <itunes:duration>21:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,venture,capital,founders,startups</itunes:keywords>
+                    <itunes:subtitle>This week, I speak with Sarah Ware (@WareSarah), CEO and co-founder of Markerly. Subscribe and rate us on iTunes and Stitcher, and send questions or feedback to @markjsaldana on Twitter. Talk to you next week!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 3 –&#160;Kieran Farr, CEO and co-founder of Vidcaster</title>
+                    <pubDate>Tue, 30 Apr 2013 23:51:00 +0000</pubDate>
+                    <guid isPermaLink="false">01d54328b9c0736cea560e0ac2cd6a13</guid>
+                    <link>http://500startups.libsyn.com/500-startups-podcast-episode-3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5640976"/>
+                    <description>&lt;p&gt;In our third episode, I sit down with Kieran Farr, co-founder and CEO of Vidcaster. Follow me @markjsaldana on Twitter and send me an @ reply for questions or show feedback. Subscribe to us in iTunes and Sticher &amp;ndash; and don't forget to leave us a review!&lt;/p&gt;</description>
+                    <enclosure length="27505695" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500_Startups_Podcast__Episode_3.mp3"/>
+                    <itunes:duration>28:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>tech,valley,silicon,startups</itunes:keywords>
+                    <itunes:subtitle>In our third episode, I sit down with Kieran Farr, co-founder and CEO of Vidcaster. Follow me @markjsaldana on Twitter and send me an @ reply for questions or show feedback. Subscribe to us in iTunes and Sticher &amp;ndash; and don't forget to leave us a...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 2 –&#160;Tracy Lawrence, CEO and co-founder of Chewse</title>
+                    <pubDate>Wed, 17 Apr 2013 00:45:00 +0000</pubDate>
+                    <guid isPermaLink="false">90c68ed5a5593d07f29574571cd3c7a0</guid>
+                    <link>http://500startups.libsyn.com/500-startups-podcast-episode-2</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5598902"/>
+                    <description>&lt;p&gt;In this episode, I interview Tracy Lawrence, co-founder and CEO of Chewse. Send questions and feedback about the show to @markjsaldana or @500Startups on Twitter. Don't forget to subscribe to us and leave a review, too!&lt;/p&gt;</description>
+                    <enclosure length="12493000" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500_Startups_Podcast_Episode_2.mp3"/>
+                    <itunes:duration>26:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In this episode, I interview Tracy Lawrence, co-founder and CEO of Chewse. Send questions and feedback about the show to @markjsaldana or @500Startups on Twitter. Don't forget to subscribe to us and leave a review, too!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 1 –&#160;Camilo Acosta, CEO and co-founder of PayByGroup</title>
+                    <pubDate>Wed, 03 Apr 2013 09:53:00 +0000</pubDate>
+                    <guid isPermaLink="false">53fd6b513ce80b4ee785c0950cb4849e</guid>
+                    <link>http://500startups.libsyn.com/500-startups-podcast-episode-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5555202"/>
+                    <description>&lt;p&gt;In the inaugural episode of the 500 Startups podcast, I interview Camilo Acosta, CEO and co-founder of PayByGroup.&lt;/p&gt;</description>
+                    <enclosure length="9999364" type="audio/mpeg" url="http://traffic.libsyn.com/500startups/500Startups_Podcast_Episode_1.mp3"/>
+                    <itunes:duration>22:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In the inaugural episode of the 500 Startups podcast, I interview Camilo Acosta, CEO and co-founder of PayByGroup.</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

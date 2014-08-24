@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="25245"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:49:28 GMT"/>
+        <httpclient:header name="X-Varnish" value="771848802"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Arman Alizad</title>
+                <link>http://areena.yle.fi/api/search.rss?id=arman-alizad&amp;ladattavat=1&amp;media=audio</link>
+                <pubDate>Wed, 20 Aug 2014 12:49:28 +0300</pubDate>
+                <description/>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary/>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/areena/series/38767891_84_Arman_ohjelmakuva_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/areena/series/38767891_84_Arman_ohjelmakuva_65.jpg</url>
+                    <title>Arman Alizad</title>
+                    <link>http://areena.yle.fi/api/search.rss?id=arman-alizad&amp;ladattavat=1&amp;media=audio</link>
+                </image>
+                <item>
+                    <title>Arman Alizad: Soturin tie</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2272455</link>
+                    <guid isPermaLink="false">f6b934cfdbc44733980123ec2bdd453d</guid>
+                    <description>Armanin vieraana Maanpuolustuskorkeakoulun hallintojohtaja Aulis Minkkinen</description>
+                    <pubDate>Wed, 28 May 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/17/179eccfe9d2543b6b86abedc804b1910.mp3?filename=arman_alizad_20140528_1410.mp3" type="audio/mp3" length="446972"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f6/f6b934cfdbc44733980123ec2bdd453d/f6b934cfdbc44733980123ec2bdd453d_1401277370915.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-05-28T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3412"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Jumalan Soturi</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2261506</link>
+                    <guid isPermaLink="false">683df0174f994077bcca77af3b308d3a</guid>
+                    <description>Armanin vieraana Marko Hasanen, Jumalan Soturi.</description>
+                    <pubDate>Wed, 21 May 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/77/77354569864c496e98c7d4cfd9599881.mp3?filename=arman_alizad_20140521_1410.mp3" type="audio/mp3" length="446972"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/68/683df0174f994077bcca77af3b308d3a/683df0174f994077bcca77af3b308d3a_1400729969883.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-05-21T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3412"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Kuolema</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2260566</link>
+                    <guid isPermaLink="false">d516d00f0c664c23bda2ee14c11045e8</guid>
+                    <description>Kun kuolema tulee varhain ja sen tietää etukäteen. Armanin vieraana Terhokodin ylilääkäri Juha Hänninen ja parantumatonta syöpää sairastava Jessica Hallberg.</description>
+                    <pubDate>Wed, 14 May 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/59/59769f71b3a841ccb9eab823a61f660f.mp3?filename=arman_alizad_20140514_1410.mp3" type="audio/mp3" length="446972"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/d5/d516d00f0c664c23bda2ee14c11045e8/d516d00f0c664c23bda2ee14c11045e8_1400066890998.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-05-14T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3412"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Biohakkerointi</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2256578</link>
+                    <guid isPermaLink="false">8ac6b61751c7450da68220d28bc064c5</guid>
+                    <description>Arman vapauttaa sisäisen potenttiaalinsa biohakkeroinnin avulla. Vieraana ravintoasiantuntija Jaakko Halmetoja, jonka intohimona on poikkeuksellisen kirkasta terveyttä ylläpitävän ravitsemuksen ja elämäntavan sopeuttaminen ympäristömme muuttuviin olosuhteisiin.</description>
+                    <pubDate>Wed, 7 May 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/02/0289938594744a76895884924901b322.mp3?filename=arman_alizad_20140507_1410.mp3" type="audio/mp3" length="447234"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8a/8ac6b61751c7450da68220d28bc064c5/8ac6b61751c7450da68220d28bc064c5_1399485163674.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-05-07T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3414"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Keho</title>
+                    <media:credit role="production department">Yle Puhe</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2238415</link>
+                    <guid isPermaLink="false">7bebf90c16ed4fa4b50b593fbf1370a4</guid>
+                    <description>Oma keho; temppeli vai välttämätön paha. Onko ihmisellä oikeus muokata kehoaan miten haluaa? Armanin kanssa studiossa lävistyksiin, tatuointeihin ja vartalomodifikaatioon erikoistunut Lassi Sidoro, fitnessartisti Sofia Ruusila sekä kehonrakentaja Marko Savolainen.</description>
+                    <pubDate>Wed, 30 Apr 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/db/dbccd37deb724e48a4c245137d3978b6.mp3?filename=arman_alizad_20140430_1410.mp3" type="audio/mp3" length="446972"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7b/7bebf90c16ed4fa4b50b593fbf1370a4/7bebf90c16ed4fa4b50b593fbf1370a4_1398857107208.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-04-30T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3412"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Naisen asema ja koulutus</title>
+                    <media:credit role="production department">Yle Puhe</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2236311</link>
+                    <guid isPermaLink="false">e09280267cbe4d95a311ec9e2505a794</guid>
+                    <description>Studiossa väkivaltaisen pakkoavioliiton kokenut Saba Ayub Riipinen sekä Annukka von Kaufmann Plan Suomesta ja aiheena naisen asema sekä koulutuksen merkitys.</description>
+                    <pubDate>Wed, 23 Apr 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/d4/d4496de494924d76aca9c33842ef989d.mp3?filename=arman_alizad_20140423_1410.mp3" type="audio/mp3" length="447365"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e09280267cbe4d95a311ec9e2505a794/e09280267cbe4d95a311ec9e2505a794_1398252871491.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-04-23T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3415"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Satanismi</title>
+                    <media:credit role="production department">Yle Puhe</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2227456</link>
+                    <guid isPermaLink="false">e0062c465b4f498c86b09c0348dfcf8c</guid>
+                    <description>Ne ovat itsekeskeisiä ja nautinnohaluisia kirkonpolttajia. He haluavat koston, eivätkä käännä toista poskea. He vihaavat tyhmyyttä ja teeskentelyä. Yleinen kuva satanisteista on karu mutta millaisia Saatanan käsitettä omassa uskossaan vertauskuvallisesti käyttävät ihmiset ovat? Paljas ja armoton totuus Armanin ohjelmassa, jossa vieraana satanisti Johannes Nefastos.</description>
+                    <pubDate>Wed, 16 Apr 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/eb/eb7d9d7f68e74b5a865b78d4c6e09164.mp3?filename=arman_alizad_20140416_1410.mp3" type="audio/mp3" length="447103"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e0/e0062c465b4f498c86b09c0348dfcf8c/e0062c465b4f498c86b09c0348dfcf8c_1397649722723.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-04-16T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3413"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Koulukiusaaminen</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2215848</link>
+                    <guid isPermaLink="false">b06dfb69169749b9b757e9d67965b2f0</guid>
+                    <description>Arman Alizadin mielestä koulukiusaamisesta puhutaan tänä päivänä liian vähän. Koulukiusaaminen on levinnyt koulujen pihoilta ja käytäviltä verkkoon. Studiossa kiusaaja, kiusattu ja kiusatun äiti.</description>
+                    <pubDate>Wed, 9 Apr 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/25/25c96730a3da417ebebe642469f3281c.mp3?filename=arman_alizad_20140409_1410.mp3" type="audio/mp3" length="446448"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b0/b06dfb69169749b9b757e9d67965b2f0/b06dfb69169749b9b757e9d67965b2f0_1404140564952.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-04-09T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3408"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Riippuvuus</title>
+                    <media:credit role="production department">Yle Puhe</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2206476</link>
+                    <guid isPermaLink="false">e41b40779fa14a70af55509f89e9fea4</guid>
+                    <description>Kun riippuvuus vie kaiken; työn, perheen, rahat ja itsekunnioituksen. Armanille tarinansa kertovat riippuvuushelvetistä pois päässyt Kimmo Rasila sekä Minnesota-hoidon päihdetyöntekijä Simo Seppelin.</description>
+                    <pubDate>Wed, 2 Apr 2014 14:10:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/67/671dfed9d6ca4fb8a0b66ee389d05709.mp3?filename=arman_alizad_20140402_1410.mp3" type="audio/mp3" length="446579"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e4/e41b40779fa14a70af55509f89e9fea4/e41b40779fa14a70af55509f89e9fea4_1404140600296.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-04-02T14:10:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3409"/>
+                </item>
+                <item>
+                    <title>Arman Alizad: Väkivalta</title>
+                    <media:credit role="production department">Yle Puhe</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2200915</link>
+                    <guid isPermaLink="false">8e1dc59858d54ee2b6be0c9b6975d756</guid>
+                    <description>Vieraina psykiatri Hannu Lauerma, ylikonstaapeli Seppo Skogberg sekä vankilassa istuva mies, joka ei kadu tekemiään tappoja.</description>
+                    <pubDate>Wed, 26 Mar 2014 14:10:00 +0200</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/c9/c9f74ee27f3d4d1f9e92cbd4f0d8bd9e.mp3?filename=arman_alizad_20140326_1410.mp3" type="audio/mp3" length="447103"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8e/8e1dc59858d54ee2b6be0c9b6975d756/8e1dc59858d54ee2b6be0c9b6975d756_1404140603343.jpg" width="940" height="529"/>
+                    <dcterms:subject>Arman Alizad</dcterms:subject>
+                    <dcterms:valid>start=2014-03-26T14:10:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3413"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

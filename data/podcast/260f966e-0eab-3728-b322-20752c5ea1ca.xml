@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:47:51 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.4.31"/>
+        <httpclient:header name="X-Pingback" value="http://arcologypodcast.com/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Wed, 13 Aug 2014 02:45:31 GMT"/>
+        <httpclient:header name="ETag" value="&#34;11ca67eada122f22ae7f2f32ad223b5e&#34;"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+            <channel>
+                <title>The Arcology Podcast » Podcasts</title>
+                <atom:link href="http://arcologypodcast.com/category/podcasts/feed/" rel="self" type="application/rss+xml"/>
+                <link>http://arcologypodcast.com/category/podcasts/</link>
+                <description>A Shadowrun Community Podcast</description>
+                <lastBuildDate>Wed, 13 Aug 2014 02:45:31 +0000</lastBuildDate>
+                <language>en-US</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.8" mode="advanced" -->
+                <itunes:summary>The Arcology Podcast: A Shadowrun Community Podcast. Every week Mr. Johnson and Vox provide you with the latest news about Shadowrun: the tabletop role playing game. Tune in to hear news and information that will help you learn more about the game and be a better player character, game master, and all-around Shadowrunner. Find The Arcology Podcast on Facebook and at www.arcologypodcast.com!</itunes:summary>
+                <itunes:author>Vox and Mr. Johnson</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                <itunes:owner>
+                    <itunes:name>Vox and Mr. Johnson</itunes:name>
+                    <itunes:email>contact@arcologypodcast.com</itunes:email>
+                </itunes:owner>
+                <managingEditor>contact@arcologypodcast.com (Vox and Mr. Johnson)</managingEditor>
+                <itunes:subtitle>A Shadowrun Community Podcast</itunes:subtitle>
+                <itunes:keywords>fantasy,gaming,rpg,cyberpunk,world,role,game,play,master,gm,sixth,shadowrun</itunes:keywords>
+                <image>
+                    <title>The Arcology Podcast</title>
+                    <url>http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg</url>
+                    <link>http://arcologypodcast.com/category/podcasts/</link>
+                </image>
+                <itunes:category text="Games &amp; Hobbies">
+                    <itunes:category text="Other Games"/>
+                </itunes:category>
+                <item>
+                    <title>Actual Play Episode 12 – You What?</title>
+                    <link>http://arcologypodcast.com/actual-play-episode-12-you-what/</link>
+                    <comments>http://arcologypodcast.com/actual-play-episode-12-you-what/#comments</comments>
+                    <pubDate>Wed, 13 Aug 2014 02:44:09 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Actual Play</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=308</guid>
+                    <description>In which the team conducts legwork, follows a lead, and then (wait&amp;#8230; you what?!).</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg"&gt;&lt;img class="aligncenter size-full wp-image-222" src="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg" alt="Actual Play Logo" width="200" height="200" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which the team conducts legwork, follows a lead, and then (wait&amp;#8230; you what?!).&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/actual-play-episode-12-you-what/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_012_-_You_What_.mp3" length="37896631" type="audio/mpeg"/>
+                    <itunes:keywords>Actual Play,Arcology Podcast,cyberpunk,fantasy,GM,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which the team conducts legwork, follows a lead, and then (wait... you what?!).</itunes:subtitle>
+                    <itunes:summary>In which the team conducts legwork, follows a lead, and then (wait... you what?!).</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>39:24</itunes:duration>
+                </item>
+                <item>
+                    <title>Episode 040 – Chummer 5</title>
+                    <link>http://arcologypodcast.com/episode-040-chummer-5/</link>
+                    <comments>http://arcologypodcast.com/episode-040-chummer-5/#comments</comments>
+                    <pubDate>Sat, 09 Aug 2014 21:52:36 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Arcology Podcast</category>
+                    <category>Catalyst Game Lab</category>
+                    <category>Chummer</category>
+                    <category>Cliffhanger Productions</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GenCon</category>
+                    <category>GM</category>
+                    <category>Missions</category>
+                    <category>Neo-Anarchist Podcast</category>
+                    <category>Opti</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=305</guid>
+                    <description>In which we talk with&#160;Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &#160;We also have a new Extraterritoriality segment and a special announcement!</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/08/Chummer.jpg"&gt;&lt;img class="aligncenter size-full wp-image-306" src="http://arcologypodcast.com/wp-content/uploads/2014/08/Chummer.jpg" alt="Chummer" width="182" height="247" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which we talk with&#160;Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &#160;We also have a new Extraterritoriality segment and a special announcement!&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/episode-040-chummer-5/feed/</wfw:commentRss>
+                    <slash:comments>5</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Episode_040_-_Chummer_5.mp3" length="63680938" type="audio/mpeg"/>
+                    <itunes:keywords>Arcology Podcast,Catalyst Game Lab,Chummer,Cliffhanger Productions,cyberpunk,fantasy,GenCon,GM,Missions,Neo-Anarchist Podcast,Opti,podcast</itunes:keywords>
+                    <itunes:subtitle>In which we talk with&#160;Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &#160;We also have a new Extraterritoriality segment and a special announcement!</itunes:subtitle>
+                    <itunes:summary>In which we talk with&#160;Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &#160;We also have a new Extraterritoriality segment and a special announcement!</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:06:18</itunes:duration>
+                </item>
+                <item>
+                    <title>Actual Play Episode 011 – Roast at the Rhino</title>
+                    <link>http://arcologypodcast.com/actual-play-episode-011-roast-at-the-rhino/</link>
+                    <comments>http://arcologypodcast.com/actual-play-episode-011-roast-at-the-rhino/#comments</comments>
+                    <pubDate>Wed, 06 Aug 2014 03:27:22 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Actual Play</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=302</guid>
+                    <description>In which the team meets up at the Big Rhino to hear King James&amp;#8217;s job offer.</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg"&gt;&lt;img class="aligncenter size-full wp-image-222" src="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg" alt="Actual Play Logo" width="200" height="200" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which the team meets up at the Big Rhino to hear King James&amp;#8217;s job offer.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/actual-play-episode-011-roast-at-the-rhino/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_011_-_Roast_at_the_Rhino.mp3" length="67273329" type="audio/mpeg"/>
+                    <itunes:keywords>Actual Play,Arcology Podcast,cyberpunk,fantasy,GM,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which the team meets up at the Big Rhino to hear King James's job offer.</itunes:subtitle>
+                    <itunes:summary>In which the team meets up at the Big Rhino to hear King James's job offer.</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:10:00</itunes:duration>
+                </item>
+                <item>
+                    <title>Episode 039 – Knowledge Skills</title>
+                    <link>http://arcologypodcast.com/episode-039-knowledge-skills/</link>
+                    <comments>http://arcologypodcast.com/episode-039-knowledge-skills/#comments</comments>
+                    <pubDate>Sat, 02 Aug 2014 21:56:38 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>Hero Lab</category>
+                    <category>Knowledge</category>
+                    <category>Neo-Anarchist Podcast</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <category>Shadowrun Online</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=294</guid>
+                    <description>In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story! Show Notes: Killer futuristic city artwork:&#160;http://sploid.gizmodo.com/i-wish-i-could-live-long-enough-to-see-these-future-cit-1613533315</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/08/knowledge.jpg"&gt;&lt;img class="aligncenter size-medium wp-image-295" src="http://arcologypodcast.com/wp-content/uploads/2014/08/knowledge-199x300.jpg" alt="knowledge" width="199" height="300" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story!&lt;/p&gt;
+&lt;p&gt;Show Notes:&lt;/p&gt;
+&lt;p&gt;Killer futuristic city artwork:&#160;&lt;a href="http://sploid.gizmodo.com/i-wish-i-could-live-long-enough-to-see-these-future-cit-1613533315"&gt;http://sploid.gizmodo.com/i-wish-i-could-live-long-enough-to-see-these-future-cit-1613533315&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/episode-039-knowledge-skills/feed/</wfw:commentRss>
+                    <slash:comments>8</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Episode_039_-_Knowledge_Skills.mp3" length="39641194" type="audio/mpeg"/>
+                    <itunes:keywords>Arcology Podcast,cyberpunk,fantasy,GM,Hero Lab,Knowledge,Neo-Anarchist Podcast,podcast,rpg,Shadowrun,Shadowrun Online</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story! - Show Notes: - Killer futuristic city artwork:&#160;http://sploid.gizmodo.com/i-wish-i-could-live-long-enough-to-see-these-futur...</itunes:subtitle>
+                    <itunes:summary>In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story!
+
+Show Notes:
+
+Killer futuristic city artwork:&#160;http://sploid.gizmodo.com/i-wish-i-could-live-long-enough-to-see-these-future-cit-1613533315</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>41:16</itunes:duration>
+                </item>
+                <item>
+                    <title>Actual Play Episode 010 – All Out of Horseshoes</title>
+                    <link>http://arcologypodcast.com/actual-play-episode-010-all-out-of-horseshoes/</link>
+                    <comments>http://arcologypodcast.com/actual-play-episode-010-all-out-of-horseshoes/#comments</comments>
+                    <pubDate>Wed, 30 Jul 2014 03:46:12 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Actual Play</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=291</guid>
+                    <description>In which the team continues their search for the dwarf with the briefcase full of Jazz.</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg"&gt;&lt;img class="aligncenter size-full wp-image-222" src="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg" alt="Actual Play Logo" width="200" height="200" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which the team continues their search for the dwarf with the briefcase full of Jazz.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/actual-play-episode-010-all-out-of-horseshoes/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_010_-_All_Out_of_Horseshoes.mp3" length="45170817" type="audio/mpeg"/>
+                    <itunes:keywords>Actual Play,Arcology Podcast,cyberpunk,fantasy,GM,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which the team continues their search for the dwarf with the briefcase full of Jazz.</itunes:subtitle>
+                    <itunes:summary>In which the team continues their search for the dwarf with the briefcase full of Jazz.</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>46:59</itunes:duration>
+                </item>
+                <item>
+                    <title>Episode 038 – Metaplanar Quests</title>
+                    <link>http://arcologypodcast.com/episode-038-metaplanar-quests/</link>
+                    <comments>http://arcologypodcast.com/episode-038-metaplanar-quests/#comments</comments>
+                    <pubDate>Sun, 27 Jul 2014 02:12:07 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>hermetic</category>
+                    <category>initiation</category>
+                    <category>metaplane</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <category>shaman</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=287</guid>
+                    <description>In which Vox and Mr. Johnson discuss the why, what, and how of metaplanar quests, plus a new listener story! Show Notes (Thanks as always to SpitDawg for the notetaking!) Intro 0:00:00 Episode 038 News 0:00:30 JustMass informs reddit is looking for Runners &amp;#38; Johnsons for large on-line game http://www.reddit.com/r/Shadowrun/comments/2avj07/official_community_game_survey/ 0:02:57 Counter&amp;#8217;s Guide to Japan [&amp;#8230;]</description>
+                    <content:encoded>&lt;div id="attachment_288" style="width: 310px" class="wp-caption aligncenter"&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/07/2945361498_b806d1219d_z.jpg"&gt;&lt;img class="size-medium wp-image-288" src="http://arcologypodcast.com/wp-content/uploads/2014/07/2945361498_b806d1219d_z-300x205.jpg" alt="freefall by Alice Popkorn" width="300" height="205" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;&lt;a href="https://www.flickr.com/photos/alicepopkorn/2945361498/in/photolist-5ugKmN-ghRCeK-ivPgjZ"&gt;free fall by Alice Popkorn&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;In which Vox and Mr. Johnson discuss the why, what, and how of metaplanar quests, plus a new listener story!&lt;/p&gt;
+&lt;p&gt;Show Notes (&lt;em&gt;Thanks as always to SpitDawg for the notetaking!&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;Intro&lt;/p&gt;
+&lt;p&gt;0:00:00 Episode 038&lt;/p&gt;
+&lt;p&gt;News&lt;/p&gt;
+&lt;p&gt;0:00:30 JustMass informs reddit is looking for Runners &amp;amp; Johnsons for large on-line game&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;http://www.reddit.com/r/Shadowrun/comments/2avj07/official_community_game_survey/&lt;/p&gt;
+&lt;p&gt;0:02:57 Counter&amp;#8217;s Guide to Japan in the Sixth World&lt;/p&gt;
+&lt;p&gt;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8212;&amp;#8211;&lt;br /&gt;
+A Guide to Japan in the Sixth World 第六世界の日本案内&lt;/p&gt;
+&lt;p&gt;Konnichi wa, omae.&lt;/p&gt;
+&lt;p&gt;So, you&amp;#8217;re planning a trip to the Imperial State of Japan, are you? Good luck, you&amp;#8217;ll need it. Japanese culture is a huge part of North America in the Sixth world, barring the cultural drekhole that is Aztlan. You probably understood my opening line, despite it being in a language you don&amp;#8217;t speak, but probably have the KnowSoft for.&lt;/p&gt;
+&lt;p&gt;If you don&amp;#8217;t have it, GET IT.&lt;/p&gt;
+&lt;p&gt;Your average Japanese speaks more English than they did 50 years ago, but Japanese is still the go-to language, and that&amp;#8217;s not going to change any time soon. Sure, they&amp;#8217;re a lot less xenophobic than they used to be, but with the Awakening and re-affirmation of their Eight Thousand Kami, their high opinion of themselves has gotten even higher. Oh, and with the increased beef consumption, your average Japanese isn&amp;#8217;t much shorter than your average UCAS SINner, so leave the short jokes out of your carry-on. Let&amp;#8217;s start with the bits of Japanese culture that you probably have heard, but don&amp;#8217;t know all that much about.&lt;/p&gt;
+&lt;p&gt;Language&lt;/p&gt;
+&lt;p&gt;Even in North America, Japanese language has infiltrated to a sufficient degree that most people don&amp;#8217;t even know it&amp;#8217;s not English. Here are some words you&amp;#8217;ve probably heard, and their origins. omae (御前) (Oh-MA-ay): Literally &amp;#8220;The honored one in front [of me]&amp;#8221; this second-person pronoun used to be a respectful term up until the early 1900s. Then it shifted to take on a sarcastic tone, and became the commonplace word we use today. That&amp;#8217;s the thing about Japanese sarcasm: It tends to be misplaced use of respectful language, rather than the tonal sarcasm we&amp;#8217;re used to in English. If your Japanese running mate tells you &amp;#8220;That was a great idea!&amp;#8221; after your botched breaching charges set off the alarm, he actually probably means it. But in the debriefing, if he says something along the lines of &amp;#8220;Our honored demolitions expert&amp;#8230;&amp;#8221;, you might have a problem. Omae is commonly used as a friendly if somewhat provocative term for &amp;#8220;you&amp;#8221; in both modern Japanese and English.&lt;br /&gt;
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー&lt;/p&gt;
+&lt;p&gt;0:03:48 Brian asks: What are the Benefits of Dual Fist Wielding, and can you attack the same target with Multi-attack?&lt;/p&gt;
+&lt;p&gt;A Word from our Sponsor&lt;/p&gt;
+&lt;p&gt;06:00 Hero-Lab &amp;amp; Realm-Works&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;www.wolflair.com&lt;/p&gt;
+&lt;p&gt;Main Topic&lt;/p&gt;
+&lt;p&gt;0:06:20 Metaplanar Quests&lt;/p&gt;
+&lt;p&gt;0:08:34 Purposes of Metaplanar Quests&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Initiation&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Hide an Astral Link (Track a Link)&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Retrieve a Disrupted Spirit&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Seek a Spirit&amp;#8217;s Formula or True Name&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Compel a Spirit Pact&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Permanently Destroy a Spirit&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Gain Magical Knowledge&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Learn a Spell or Item Formula&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Ritual of Atonement&lt;/p&gt;
+&lt;p&gt;0:15:05 Google Cat Yodeling&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;https://www.youtube.com/watch?v=aEjKk5Kt3rs&lt;/p&gt;
+&lt;p&gt;0:15:12 How do you get to the Metaplanes?&lt;/p&gt;
+&lt;p&gt;0:16:00 What is a Metaplanar Quest?&lt;/p&gt;
+&lt;p&gt;Dweller on the Threshold&lt;/p&gt;
+&lt;p&gt;The Trials (pg 130 &amp;#8211; SR4 Street Magic)&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Charisma&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Destiny&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Fear&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Knowledge&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Magic&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Place of Spirits&lt;/p&gt;
+&lt;p&gt;Ordeals &amp;#8211; Nine Paths (pg 141 &amp;#8211; SR5 Street Grimoire)&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Resilience&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Flow&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Balance&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Spirit&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Harmony&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Instinct&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Control&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Satori&lt;/p&gt;
+&lt;p&gt;Mastery of Time and Space&lt;/p&gt;
+&lt;p&gt;0:21:30 Hidden Grid Metaplanar Quest Episodes&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;http://www.hiddengrid.com/episode-047-initiation-session-1-brother-shango-goes-to-the-big-city/&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;http://www.hiddengrid.com/episode-049-initiation-session-2-the-dweller-the-joker-the-spider-and-the-king/&lt;/p&gt;
+&lt;p&gt;0:26:58 Consequences of Metaplanar Quests&lt;/p&gt;
+&lt;p&gt;0:32:32 Tips on Running Metaplanar Quests&lt;/p&gt;
+&lt;p&gt;0:35:55 Metaplanar Quest Movie Suggestions: MirrorMask&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;http://www.imdb.com/title/tt0366780/&lt;/p&gt;
+&lt;p&gt;Story Time&lt;/p&gt;
+&lt;p&gt;0:37:35 Spitdawg the Ganger &amp;#8211; In Soviet Russia&amp;#8230;&lt;/p&gt;
+&lt;p&gt;Closing&lt;/p&gt;
+&lt;p&gt;0:40:20 Send Feedback&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;http://arcologypodcast.com/contact/&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Email contact at the arcology podcast.&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Facebook: https://www.facebook.com/arcologypodcast&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Twitter: https://twitter.com/ArcologyPodcast&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Review on iTunes: https://itunes.apple.com/us/podcast/arcology-shadowrun-community/id717760548?mt=2&lt;/p&gt;
+&lt;p&gt;0:41:06 Music by Prism Shard&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;https://www.facebook.com/PrismShard&lt;/p&gt;
+&lt;p&gt;0:41:12 Disclaimer&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/episode-038-metaplanar-quests/feed/</wfw:commentRss>
+                    <slash:comments>7</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Episode_038_-_Metaplanar_Quests.mp3" length="40446603" type="audio/mpeg"/>
+                    <itunes:keywords>Arcology Podcast,cyberpunk,fantasy,GM,hermetic,initiation,metaplane,podcast,rpg,Shadowrun,shaman</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the why, what, and how of metaplanar quests, plus a new listener story! - Show Notes (Thanks as always to SpitDawg for the notetaking!) - Intro - 0:00:00 Episode 038 - News - </itunes:subtitle>
+                    <itunes:summary>In which Vox and Mr. Johnson discuss the why, what, and how of metaplanar quests, plus a new listener story!
+
+Show Notes (Thanks as always to SpitDawg for the notetaking!)
+
+Intro
+
+0:00:00 Episode 038
+
+News
+
+0:00:30 JustMass informs reddit is looking for Runners &amp; Johnsons for large on-line game
+http://www.reddit.com/r/Shadowrun/comments/2avj07/official_community_game_survey/
+0:02:57 Counter's Guide to Japan in the Sixth World
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+A Guide to Japan in the Sixth World 第六世界の日本案内
+
+Konnichi wa, omae.
+
+So, you're planning a trip to the Imperial State of Japan, are you? Good luck, you'll need it. Japanese culture is a huge part of North America in the Sixth world, barring the cultural drekhole that is Aztlan. You probably understood my opening line, despite it being in a language you don't speak, but probably have the KnowSoft for.
+
+If you don't have it, GET IT.
+
+Your average Japanese speaks more English than they did 50 years ago, but Japanese is still the go-to language, and that's not going to change any time soon. Sure, they're a lot less xenophobic than they used to be, but with the Awakening and re-affirmation of their Eight Thousand Kami, their high opinion of themselves has gotten even higher. Oh, and with the increased beef consumption, your average Japanese isn't much shorter than your average UCAS SINner, so leave the short jokes out of your carry-on. Let's start with the bits of Japanese culture that you probably have heard, but don't know all that much about.
+
+Language
+
+Even in North America, Japanese language has infiltrated to a sufficient degree that most people don't even know it's not English. Here are some words you've probably heard, and their origins. omae (御前) (Oh-MA-ay): Literally "The honored one in front [of me]" this second-person pronoun used to be a respectful term up until the early 1900s. Then it shifted to take on a sarcastic tone, and became the commonplace word we use today. That's the thing about Japanese sarcasm: It tends to be misplaced use of respectful language, rather than the tonal sarcasm we're used to in English. If your Japanese running mate tells you "That was a great idea!" after your botched breaching charges set off the alarm, he actually probably means it. But in the debriefing, if he says something along the lines of "Our honored demolitions expert...", you might have a problem. Omae is commonly used as a friendly if somewhat provocative term for "you" in both modern Japanese and English.
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+0:03:48 Brian asks: What are the Benefits of Dual Fist Wielding, and can you attack the same target with Multi-attack?
+
+A Word from our Sponsor
+
+06:00 Hero-Lab &amp; Realm-Works
+www.wolflair.com
+Main Topic
+
+0:06:20 Metaplanar Quests
+
+0:08:34 Purposes of Metaplanar Quests
+Initiation
+Hide an Astral Link (Track a Link)
+Retrieve a Disrupted Spirit
+Seek a Spirit's Formula or True Name
+Compel a Spirit Pact
+Permanently Destroy a Spirit
+Gain Magical Knowledge
+Learn a Spell or Item Formula
+Ritual of Atonement
+0:15:05 Google Cat Yodeling
+https://www.youtube.com/watch?v=aEjKk5Kt3rs
+0:15:12 How do you get to the Metaplanes?
+
+0:16:00 What is a Metaplanar Quest?
+
+Dweller on the Threshold
+
+The Trials (pg 130 - SR4 Street Magic)
+Place of Charisma
+Place of Destiny
+Place of Fear
+Place of Knowledge
+Place of Magic
+Place of Spirits
+Ordeals - Nine Paths (pg 141 - SR5 Street Grimoire)
+Resilience
+Flow
+Balance
+Spirit
+Harmony
+Instinct
+Control
+Satori
+Mastery of Time and Space
+
+0:21:30 Hidden Grid Metaplanar Quest Episodes
+http://www.hiddengrid.com/episode-047-initiation-session-1-brother-shango-goes-to-the-big-city/
+http://www.hiddengrid.com/episode-049-initiation-session-2-the-dweller-the-joker-the-spider-and-the-king/
+0:26:58 Consequences of Metaplanar Quests
+
+</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>42:06</itunes:duration>
+                </item>
+                <item>
+                    <title>Actual Play Episode 009 – Uncle Maverick</title>
+                    <link>http://arcologypodcast.com/actual-play-episode-009-uncle-maverick/</link>
+                    <comments>http://arcologypodcast.com/actual-play-episode-009-uncle-maverick/#comments</comments>
+                    <pubDate>Wed, 23 Jul 2014 03:51:50 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Actual Play</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=282</guid>
+                    <description>In which we get a glimpse into Kenji&amp;#8217;s and Maverick&amp;#8217;s family lives before business calls them back into the Barrens.</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg"&gt;&lt;img class="aligncenter size-full wp-image-222" src="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg" alt="Actual Play Logo" width="200" height="200" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which we get a glimpse into Kenji&amp;#8217;s and Maverick&amp;#8217;s family lives before business calls them back into the Barrens.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/actual-play-episode-009-uncle-maverick/feed/</wfw:commentRss>
+                    <slash:comments>4</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_009_-_Uncle_Maverick.mp3" length="58837650" type="audio/mpeg"/>
+                    <itunes:keywords>Actual Play,Arcology Podcast,cyberpunk,fantasy,GM,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which we get a glimpse into Kenji's and Maverick's family lives before business calls them back into the Barrens.</itunes:subtitle>
+                    <itunes:summary>In which we get a glimpse into Kenji's and Maverick's family lives before business calls them back into the Barrens.</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:01:13</itunes:duration>
+                </item>
+                <item>
+                    <title>Episode 037 – Character Optimization</title>
+                    <link>http://arcologypodcast.com/episode-037-character-optimization/</link>
+                    <comments>http://arcologypodcast.com/episode-037-character-optimization/#comments</comments>
+                    <pubDate>Sun, 20 Jul 2014 02:36:23 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>Harebrained Schemes</category>
+                    <category>Hiddengrid</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=274</guid>
+                    <description>In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &#160;Also included: a new listener story! Show notes: (Thanks again to SpitDawg for this breakdown!) Intro 0:00:00 Episode 037 News 0:00:30 Shadowrun Blog: The Next Steps for Shadowrun Missions http://www.shadowruntabletop.com/2014/07/the-next-steps-for-shadowrun-missions/ 0:00:45 3 New Hidden Grid Episodes http://www.hiddengrid.com/ 0:00:55 [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/07/photo-1-e1405823471384.jpg"&gt;&lt;img class="aligncenter size-medium wp-image-275" src="http://arcologypodcast.com/wp-content/uploads/2014/07/photo-1-300x300.jpg" alt="photo (1)" width="300" height="300" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &#160;Also included: a new listener story!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Show notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Thanks again to SpitDawg for this breakdown!)&lt;/em&gt;&lt;/p&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Intro&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:00:00 Episode 037&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;News&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:00:30 Shadowrun Blog: The Next Steps for Shadowrun Missions&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://www.shadowruntabletop.com/2014/07/the-next-steps-for-shadowrun-missions/" target="_blank" rel="noreferrer"&gt;http://www.shadowruntabletop.com/2014/07/the-next-steps-for-shadowrun-missions/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:00:45 3 New Hidden Grid Episodes&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://www.hiddengrid.com/" target="_blank" rel="noreferrer"&gt;http://www.hiddengrid.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:00:55 Shadowrun Returns by Hairbrained Schemes was awarded the Golden Geek Best Indie Game of 2013&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://www.videogamegeek.com/thread/1130529/golden-geek-awards-winners-2013" target="_blank" rel="noreferrer"&gt;http://www.videogamegeek.com/thread/1130529/golden-geek-awards-winners-2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="https://www.facebook.com/HarebrainedSchemes" target="_blank" rel="noreferrer"&gt;https://www.facebook.com/HarebrainedSchemes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:01:17 Gamer-Goggles: Words with Randall Bills from Catalyst Game Labs&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://gamer-goggles.com/blog/words-with-randall-bills-from-catalyst-game-labs-part-1-3-8439/" target="_blank" rel="noreferrer"&gt;http://gamer-goggles.com/blog/words-with-randall-bills-from-catalyst-game-labs-part-1-3-8439/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:01:32 Gamer-Goggles: Crossfire Review&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;A Word from our Sponsor&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;02:00 Hero-Lab &amp;amp; Realm-Works&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://www.wolflair.com/" target="_blank" rel="noreferrer"&gt;www.wolflair.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Main Topic&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:02:21 Character Optimization with Maverick&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:34:19 Question from John: What is a good rigger build?&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Rigger Character Creation Podcast Episode 009: Riggers – Shadowrunner Dossier #4&lt;/li&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://arcologypodcast.com/episode-009-riggers-shadowrunner-dossier-4/" target="_blank" rel="noreferrer"&gt;http://arcologypodcast.com/episode-009-riggers-shadowrunner-dossier-4/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:46:42 Character Progression&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:43:05 Wheaton&amp;#8217;s Law &amp;#8211; Don&amp;#8217;t Be a Dick&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="https://www.youtube.com/watch?v=t3ICRoe-QIw" target="_blank" rel="noreferrer"&gt;https://www.youtube.com/watch?v=t3ICRoe-QIw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Story Time&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;0:58:47 Rossland the Elf &amp;#8211; Ghouls have heart&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Closing&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;1:01:54 Send Feedback&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://arcologypodcast.com/contact/" target="_blank" rel="noreferrer"&gt;http://arcologypodcast.com/contact/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email contact at the arcology podcast.&lt;/li&gt;
+&lt;li&gt;Facebook:&#160;&lt;a style="color: #0186ba;" href="https://www.facebook.com/arcologypodcast" target="_blank" rel="noreferrer"&gt;https://www.facebook.com/arcologypodcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter:&#160;&lt;a style="color: #0186ba;" href="https://twitter.com/ArcologyPodcast" target="_blank" rel="noreferrer"&gt;https://twitter.com/ArcologyPodcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Review on iTunes:&#160;&lt;a style="color: #0186ba;" href="https://itunes.apple.com/us/podcast/arcology-shadowrun-community/id717760548?mt=2" target="_blank" rel="noreferrer"&gt;https://itunes.apple.com/us/podcast/arcology-shadowrun-community/id717760548?mt=2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;1:02:25 Music by Prism Shard&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="https://www.facebook.com/PrismShard" target="_blank" rel="noreferrer"&gt;https://www.facebook.com/PrismShard&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;1:02:30 Disclaimer&lt;/div&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/episode-037-character-optimization/feed/</wfw:commentRss>
+                    <slash:comments>18</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Episode_037_-_Character_Optimization.mp3" length="60832573" type="audio/mpeg"/>
+                    <itunes:keywords>Arcology Podcast,cyberpunk,fantasy,GM,Harebrained Schemes,Hiddengrid,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &#160;Also included: a new listener story! - Show notes: - (Thanks again to SpitDawg for this breakdown!) Intro - 0:00:00 Episode 037 - News - </itunes:subtitle>
+                    <itunes:summary>In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &#160;Also included: a new listener story!
+
+Show notes:
+
+(Thanks again to SpitDawg for this breakdown!)
+Intro
+
+0:00:00 Episode 037
+
+News
+
+0:00:30 Shadowrun Blog: The Next Steps for Shadowrun Missions
+
+
+	http://www.shadowruntabletop.com/2014/07/the-next-steps-for-shadowrun-missions/
+
+
+0:00:45 3 New Hidden Grid Episodes
+
+
+	http://www.hiddengrid.com/
+
+
+0:00:55 Shadowrun Returns by Hairbrained Schemes was awarded the Golden Geek Best Indie Game of 2013
+
+
+	http://www.videogamegeek.com/thread/1130529/golden-geek-awards-winners-2013
+	https://www.facebook.com/HarebrainedSchemes
+
+
+0:01:17 Gamer-Goggles: Words with Randall Bills from Catalyst Game Labs
+
+
+	http://gamer-goggles.com/blog/words-with-randall-bills-from-catalyst-game-labs-part-1-3-8439/
+
+
+0:01:32 Gamer-Goggles: Crossfire Review
+
+A Word from our Sponsor
+
+02:00 Hero-Lab &amp; Realm-Works
+
+
+	www.wolflair.com
+
+
+Main Topic
+
+0:02:21 Character Optimization with Maverick
+0:34:19 Question from John: What is a good rigger build?
+
+
+	Rigger Character Creation Podcast Episode 009: Riggers – Shadowrunner Dossier #4
+	http://arcologypodcast.com/episode-009-riggers-shadowrunner-dossier-4/
+
+
+0:46:42 Character Progression
+0:43:05 Wheaton's Law - Don't Be a Dick
+
+
+	https://www.youtube.com/watch?v=t3ICRoe-QIw
+
+
+Story Time
+
+0:58:47 Rossland the Elf - Ghouls have heart
+
+Closing
+
+1:01:54 Send Feedback
+
+
+	http://arcologypodcast.com/contact/
+	Email contact at the arcology podcast.
+	Facebook:&#160;https://www.facebook.com/arcologypodcast
+	Twitter:&#160;https://twitter.com/ArcologyPodcast
+	Review on iTunes:&#160;https://itunes.apple.com/us/podcast/arcology-shadowrun-community/id717760548?mt=2
+
+
+1:02:25 Music by Prism Shard
+
+
+	https://www.facebook.com/PrismShard
+
+
+1:02:30 Disclaimer</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:03:20</itunes:duration>
+                </item>
+                <item>
+                    <title>Actual Play Episode 008 – Showdown at the Pawn Shop</title>
+                    <link>http://arcologypodcast.com/actual-play-episode-008-showdown-at-the-pawn-shop/</link>
+                    <comments>http://arcologypodcast.com/actual-play-episode-008-showdown-at-the-pawn-shop/#comments</comments>
+                    <pubDate>Wed, 16 Jul 2014 03:00:06 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Actual Play</category>
+                    <category>Arcology Podcast</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=267</guid>
+                    <description>In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg"&gt;&lt;img class="aligncenter size-full wp-image-222" src="http://arcologypodcast.com/wp-content/uploads/2014/05/Actual-Play-Logo.jpg" alt="Actual Play Logo" width="200" height="200" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/actual-play-episode-008-showdown-at-the-pawn-shop/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_008_-_Showdown_at_the_Pawn_Shop.mp3" length="75506303" type="audio/mpeg"/>
+                    <itunes:keywords>Actual Play,Arcology Podcast,cyberpunk,fantasy,GM,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.</itunes:subtitle>
+                    <itunes:summary>In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:18:35</itunes:duration>
+                </item>
+                <item>
+                    <title>Episode 036 – Crossfire</title>
+                    <link>http://arcologypodcast.com/episode-036-crossfire/</link>
+                    <comments>http://arcologypodcast.com/episode-036-crossfire/#comments</comments>
+                    <pubDate>Sun, 13 Jul 2014 02:39:23 +0000</pubDate>
+                    <dc:creator>Vox</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Arcology Podcast</category>
+                    <category>Crossfire</category>
+                    <category>cyberpunk</category>
+                    <category>fantasy</category>
+                    <category>GM</category>
+                    <category>Insect Spirit</category>
+                    <category>podcast</category>
+                    <category>rpg</category>
+                    <category>Shadowrun</category>
+                    <guid isPermaLink="false">http://arcologypodcast.com/?p=262</guid>
+                    <description>In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&#160;with a can of Raid nearby. Show Notes: Listener SpitDawg created this lovely breakdown of episode 36 by timestamp (Thanks!): 00:00 Intro News 00:32 2 New Critical Glitch [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;a href="http://arcologypodcast.com/wp-content/uploads/2014/07/CrossfireDemoBox_Cover_400wide.jpg"&gt;&lt;img class="aligncenter size-medium wp-image-263" src="http://arcologypodcast.com/wp-content/uploads/2014/07/CrossfireDemoBox_Cover_400wide-300x288.jpg" alt="CrossfireDemoBox_Cover_400wide" width="300" height="288" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&#160;with a can of Raid nearby.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Show Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Listener SpitDawg created this lovely breakdown of episode 36 by timestamp (Thanks!):&lt;/em&gt;&lt;/p&gt;
+&lt;div class="gmail_default"&gt;00:00 Intro&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;News&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;00:32&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;2 New Critical Glitch episodes (&lt;a style="color: #0186ba;" href="http://criticalglitch.com/" target="_blank" rel="noreferrer"&gt;http://criticalglitch.com/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Strays (&lt;a style="color: #0186ba;" href="https://www.kickstarter.com/projects/1382542560/strays-a-friendly-fuzzy-fate-accelerated-rpg" target="_blank" rel="noreferrer"&gt;https://www.kickstarter.com/projects/1382542560/strays-a-friendly-fuzzy-fate-accelerated-rpg&lt;/a&gt;) Ends: &#160;Fri, Aug 1&lt;/li&gt;
+&lt;li&gt;Sail Away, Sweet Sister (&lt;a style="color: #0186ba;" href="http://rpg.drivethrustuff.com/product/128889/Shadowrun-Sail-Away-Sweet-Sister-Enhanced-Fiction" target="_blank" rel="noreferrer"&gt;http://rpg.drivethrustuff.com/product/128889/Shadowrun-Sail-Away-Sweet-Sister-Enhanced-Fiction&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;01:18&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;2 New Gamers Tavern epsiodes(non-Shadowrun) (&lt;a style="color: #0186ba;" href="http://gamerstavern.org/" target="_blank" rel="noreferrer"&gt;http://gamerstavern.org/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;1 new Gamers Tavern episode (Shadowrun Actual Play)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;01:34&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Shadowrun on-line &amp;#8211; July 8th Update (&lt;a style="color: #0186ba;" href="http://www.shadowrun.com/shadowrun-online/" target="_blank" rel="noreferrer"&gt;http://www.shadowrun.com/shadowrun-online/&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;01:50&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Arcology Podcast T-Shirts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;A Word from our Sponser&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;02:17&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Hero-Lab &amp;amp; Realm-Works (&lt;a style="color: #0186ba;" href="http://www.wolflair.com/" target="_blank" rel="noreferrer"&gt;www.wolflair.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Main Topic&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;02:40&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Crossfire Review&lt;/li&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://www.shadowruntabletop.com/category/crossfire/" target="_blank" rel="noreferrer"&gt;http://www.shadowruntabletop.com/category/crossfire/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;b&gt;Critter Corner&lt;/b&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;20:20&lt;/div&gt;
+&lt;div class="gmail_default"&gt;
+&lt;ul&gt;
+&lt;li&gt;Critter Corner &amp;#8211; Bugs&lt;/li&gt;
+&lt;li&gt;&lt;a style="color: #0186ba;" href="http://rpg.drivethrustuff.com/product/131832/Shadowrun-Street-Grimoire" target="_blank" rel="noreferrer"&gt;http://rpg.drivethrustuff.com/product/131832/Shadowrun-Street-Grimoire&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="gmail_default"&gt;&lt;/div&gt;
+&lt;div class="gmail_default"&gt;46:20&#160;&lt;b&gt;Closing&lt;/b&gt;&lt;/div&gt;
+</content:encoded>
+                    <wfw:commentRss>http://arcologypodcast.com/episode-036-crossfire/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/arcologypodcast/Episode_036_-_Crossfire.mp3" length="5242880" type="audio/mpeg"/>
+                    <itunes:keywords>Arcology Podcast,Crossfire,cyberpunk,fantasy,GM,Insect Spirit,podcast,rpg,Shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&#160;with a can of Raid nearby. - Show Notes: - </itunes:subtitle>
+                    <itunes:summary>In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&#160;with a can of Raid nearby.
+
+Show Notes:
+
+Listener SpitDawg created this lovely breakdown of episode 36 by timestamp (Thanks!):
+00:00 Intro
+
+News
+
+00:32
+
+
+	2 New Critical Glitch episodes (http://criticalglitch.com/)
+	Strays (https://www.kickstarter.com/projects/1382542560/strays-a-friendly-fuzzy-fate-accelerated-rpg) Ends: &#160;Fri, Aug 1
+	Sail Away, Sweet Sister (http://rpg.drivethrustuff.com/product/128889/Shadowrun-Sail-Away-Sweet-Sister-Enhanced-Fiction)
+
+
+01:18
+
+
+	2 New Gamers Tavern epsiodes(non-Shadowrun) (http://gamerstavern.org/)
+	1 new Gamers Tavern episode (Shadowrun Actual Play)
+
+
+01:34
+
+
+	Shadowrun on-line - July 8th Update (http://www.shadowrun.com/shadowrun-online/)
+
+
+01:50
+
+
+	Arcology Podcast T-Shirts
+
+
+
+A Word from our Sponser
+
+02:17
+
+
+	Hero-Lab &amp; Realm-Works (www.wolflair.com)
+
+
+
+Main Topic
+
+02:40
+
+
+	Crossfire Review
+	http://www.shadowruntabletop.com/category/crossfire/
+
+
+Critter Corner
+
+20:20
+
+
+	Critter Corner - Bugs
+	http://rpg.drivethrustuff.com/product/131832/Shadowrun-Street-Grimoire
+
+
+
+46:20&#160;Closing</itunes:summary>
+                    <itunes:author>Vox and Mr. Johnson</itunes:author>
+                    <itunes:image href="http://arcologypodcast.com/wp-content/uploads/powerpress/Arcology_Podcast_Logo_Color_1400_sq.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

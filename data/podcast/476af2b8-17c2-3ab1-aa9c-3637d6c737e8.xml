@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.6.1"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:23:04 GMT"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml; charset=utf-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="X-Logged-In" value="False"/>
+        <httpclient:header name="P3P" value="CP=&#34;NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM&#34;"/>
+        <httpclient:header name="Expires" value="Mon, 1 Jan 2001 00:00:00 GMT"/>
+        <httpclient:header name="Cache-Control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+        <httpclient:header name="Pragma" value="no-cache"/>
+        <httpclient:header name="Set-Cookie" value="4aac2a16b3ea74d800957ae391af4c7d=f2214c8e964e7687daea8586e0c74f62; path=/; HttpOnly"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 12:23:04 GMT"/>
+        <httpclient:header name="Vary" value="Accept-Encoding,User-Agent"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>World War Nexus- A WildStar Podcast</title>
+                <link>http://42gaming.com/</link>
+                <language>en-GB</language>
+                <copyright>42Gaming.com</copyright>
+                <itunes:subtitle>WildStar MMO Podcast</itunes:subtitle>
+                <itunes:author>42 Gaming</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:keywords>wildstar, pvp</itunes:keywords>
+                <itunes:summary>Rondo, Odiumm and Ignitia have fun talking WildStar in this WildStar driven podcast as we count down to release and beyond. </itunes:summary>
+                <description>Rondo, Odiumm and Ignitia have fun talking WildStar in this WildStar driven podcast as we count down to release and beyond. </description>
+                <itunes:owner>
+                    <itunes:name>42 Gaming</itunes:name>
+                    <itunes:email>show@42gaming.com</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                <itunes:category text="Games &amp; Hobbies"/>
+                <itunes:category text="Games &amp; Hobbies">
+                    <itunes:category text="Video Games"/>
+                </itunes:category>
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News"/>
+                </itunes:category>
+                <item>
+                    <title>Exile Radio EP 1: Carbine Community Love, Thoughts on Beta, and Dominion Jabs</title>
+                    <itunes:author>42 Gaming Network</itunes:author>
+                    <itunes:subtitle>42 Gaming Network</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio001.mp3" length="124675369" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio001.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 26 May 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>51:54</itunes:duration>
+                    <itunes:keywords/>
+                </item>
+                <item>
+                    <title>Exile Radio Ep 2: Early Start, and Our Experiences So Far</title>
+                    <itunes:author>42gaming</itunes:author>
+                    <itunes:subtitle>Exile Radio</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio002.mp3" length="118647639" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio002.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 02 Jun 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>49:25</itunes:duration>
+                    <itunes:keywords/>
+                </item>
+                <item>
+                    <title>Exile Radio Episode 3: First look at Dungeons, World PvP, and our Favorite Quests so Far</title>
+                    <itunes:author>42gaming</itunes:author>
+                    <itunes:subtitle>First look at Dungeons, World PvP, and our Favorite Quests so Far</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio003.mp3" length="108749303" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio003.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 09 Jun 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>45:18</itunes:duration>
+                    <itunes:keywords/>
+                </item>
+                <item>
+                    <title>Exile Radio Ep 4:C.R.E.D.D., Addons Good or Bad, and Region Locks</title>
+                    <itunes:author>42gaming</itunes:author>
+                    <itunes:subtitle>C.R.E.D.D., Addons Good or Bad, and Region Locks</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio004.mp3" length="21341044" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio004.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 16 Jun 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>44:25</itunes:duration>
+                    <itunes:keywords>Exile Radio on Wildstar , Credd</itunes:keywords>
+                </item>
+                <item>
+                    <title>Exile Radio Episode 5: Phase 1 Ban on Hackers/Bots, 25 Auction House Slots, and New Content to be Released</title>
+                    <itunes:author>Exile Radio</itunes:author>
+                    <itunes:subtitle>Ban on Hackers/Bots, 25 Auction House Slots, and New Content to be Released</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio005.mp3" length="20601284" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio005.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 23 Jun 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>42:53</itunes:duration>
+                    <itunes:keywords>Exile Radio on Wildstar , Credd</itunes:keywords>
+                </item>
+                <item>
+                    <title>Exile Radio Ep 6: Addons Showing Enemy, AMP Reset Cost, and Change in Loot Drops</title>
+                    <itunes:author>42 Gaming Network</itunes:author>
+                    <itunes:subtitle>Addons Showing Enemy, AMP Reset Cost, and Change in Loot Drops</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio006.mp3" length="20566200" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio006.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 30 Jun 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>42:49</itunes:duration>
+                    <itunes:keywords>Exile Radio on Wildstar , Credd</itunes:keywords>
+                </item>
+                <item>
+                    <title>Exile Radio Episode 7: Farming Circles, Barbershops, Ranked PvP Issues</title>
+                    <itunes:author>42 Gaming Network</itunes:author>
+                    <itunes:subtitle>Farming Circles, Barbershops, Ranked PvP Issues</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/exileradio007.mp3" length="49088431" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/exileradio007.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sun, 06 Jul 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>51:07</itunes:duration>
+                    <itunes:keywords>Exile Radio on Wildstar , Wild PVP. MMO pvp</itunes:keywords>
+                </item>
+                <item>
+                    <title>World War Nexus Episode 8: Are Dungeons too hard, Wine, and Why we Play Wildstar</title>
+                    <itunes:author>42 Gaming Network</itunes:author>
+                    <itunes:subtitle>World War Nexus</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/wwn_008.mp3" length="51869968" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/wwn_008.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sun, 13 Jul 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>54:01</itunes:duration>
+                    <itunes:keywords>Exile Radio on Wildstar , Wild PVP. MMO pvp</itunes:keywords>
+                </item>
+                <item>
+                    <title>World War Nexus Ep 9: Ticket Times, Community News, and Drusera Good or Evil?</title>
+                    <itunes:author>World War Nexus</itunes:author>
+                    <itunes:subtitle>Ticket Times, Community News, and Drusera Good or Evil?</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/wwn_009.mp3" length="52321441" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/wwn_009.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 21 Jul 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>54:29</itunes:duration>
+                    <itunes:keywords>Nexus, Wildstar , Wild PVP. MMO pvp</itunes:keywords>
+                </item>
+                <item>
+                    <title>World War Nexus Ep 10: Sabotage Content Update, Community News, and Granock Lore</title>
+                    <itunes:author>42 Gaming Network</itunes:author>
+                    <itunes:subtitle>World War Nexus</itunes:subtitle>
+                    <itunes:summary>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</itunes:summary>
+                    <description>&lt;a href="http://42gaming.com/prime"&gt;Instant streaming of 1000s movies and TV shows &amp; FREE Two-Day Shipping on millions of items&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.offergb.com/SH5x"&gt;257 Off WildStar&lt;/a&gt;
+</description>
+                    <itunes:image href="http://42gaming.com/images/wildstar/exileradio.jpg"/>
+                    <enclosure url="http://42gaming.com/downloads/wildstar/wwn_010.mp3" length="40425319" type="audio/mpeg"/>
+                    <guid>http://42gaming.com/downloads/wildstar/wwn_010.mp3</guid>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sun, 27 Jul 2014 07:00:00 -0500</pubDate>
+                    <itunes:duration>42:06</itunes:duration>
+                    <itunes:keywords>Nexus, Wildstar , Wild PVP. MMO pvp</itunes:keywords>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

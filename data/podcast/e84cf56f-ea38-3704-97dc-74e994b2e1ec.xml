@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:32:57 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Vary" value="Host"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.5"/>
+        <httpclient:header name="Content-Length" value="4971"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml"><?xml-stylesheet href="/styles/rss/rss20.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="/styles/rss/rss20.css" type="text/css" media="screen"?>
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Der Nicht-Podcast</title>
+                <itunes:subtitle>Nichts ist uns wichtiger</itunes:subtitle>
+                <itunes:summary>Hochtrabend philosophisch, wirr, psychopathisch - Gedanken zweier Kranken für andere Kranke.</itunes:summary>
+                <link>http://www.manfredriegler.at</link>
+                <description>Hochtrabend philosophisch, wirr, psychopathisch - Gedanken zweier Kranken für andere Kranke.</description>
+                <lastBuildDate>Wed, 20 Aug 2014 11:32:57 +0200</lastBuildDate>
+                <language>de-at</language>
+                <copyright>Manfred Riegler</copyright>
+                <generator>PodHost.de - Keeping your podcasts up and running</generator>
+                <webMaster>Manfred Riegler</webMaster>
+                <managingEditor>Manfred Riegler</managingEditor>
+                <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" title="Der Nicht-Podcast" href="http://anderwelt.podspot.de/rss"/>
+                <itunes:owner>
+                    <itunes:name>Manfred Riegler</itunes:name>
+                    <itunes:email>manfred@manfredriegler.at</itunes:email>
+                </itunes:owner>
+                <itunes:author>Manfred Riegler</itunes:author>
+                <itunes:category text="Arts">
+                    <itunes:category text="Literature"/>
+                </itunes:category>
+                <itunes:category text="Comedy"/>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Philosophy"/>
+                </itunes:category>
+                <itunes:keywords>philosophisch, comedy, krank, wirr, gedanken</itunes:keywords>
+                <itunes:image href="http://img5.fotos-hochladen.net/uploads/imgupload69ba9cjnhsf7r4m8.jpg"/>
+                <image>
+                    <url>http://img5.fotos-hochladen.net/uploads/imgupload69ba9cjnhsf7r4m8.jpg</url>
+                    <title>Der Nicht-Podcast</title>
+                    <link>http://www.manfredriegler.at</link>
+                </image>
+                <itunes:explicit>no</itunes:explicit>
+                <ttl>20</ttl>
+                <item>
+                    <title>Der Nicht-Podcast Nr. 5</title>
+                    <description>Die beiden Kabarettisten Riegler &amp; Pendl geben sich heute sehr sportlich. Welcher körperlichen Betätigung sie nachgehen? Lassen sie sich überraschen.
+
+Reinhören - sich freuen!</description>
+                    <author>Manfred Riegler</author>
+                    <pubDate>Sat, 12 Apr 2014 12:47:16 +0200</pubDate>
+                    <guid isPermaLink="false">266696f7cd780eacb145951d60b10626</guid>
+                    <link>http://anderwelt.podspot.de/post/der-nicht-podcast-nr-5/</link>
+                    <enclosure url="http://anderwelt.podspot.de/files/Der%20Nicht-Podcast%20Nr.%205.mp3" length="5830448" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Der Nicht-Podcast Nr 4</title>
+                    <description>Wir haben etwas gebaut! Nein, natürlich etwas ganz Legales. Legal, aber damit nicht weniger fantastisch. Was das sein soll? Reinhören lohnt sich.</description>
+                    <author>Manfred Riegler</author>
+                    <pubDate>Tue, 01 Apr 2014 23:42:53 +0200</pubDate>
+                    <guid isPermaLink="false">d75ffd973fa6fa53f4968e394f74de94</guid>
+                    <link>http://anderwelt.podspot.de/post/der-nicht-podcast-nr-4/</link>
+                    <enclosure url="http://anderwelt.podspot.de/files/Der%20Nicht-Podcast%20Nr%204.mp3" length="3856844" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Der Nicht-Podcast Nr. 3</title>
+                    <description>Mandi und Jürgen auf den Spuren einer sehr berühmten Kinderserie aus Österreich. Achtung: Nicht unbedingt jugendfrei...</description>
+                    <author>Manfred Riegler</author>
+                    <pubDate>Wed, 26 Mar 2014 23:40:23 +0100</pubDate>
+                    <guid isPermaLink="false">db839d9aa1ad106a8ffa2df0a4a7b1a2</guid>
+                    <link>http://anderwelt.podspot.de/post/der-nicht-podcast-3/</link>
+                    <enclosure url="http://anderwelt.podspot.de/files/Der%20Nicht-Podcast%203.mp3" length="4546477" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Der Nicht-Podcast Nr. 2</title>
+                    <description>Jürgen und Mandi melden sich von einem sehr ungewöhnlichen Ort, aber dafür in altbekannter Manier.</description>
+                    <author>Manfred Riegler</author>
+                    <pubDate>Fri, 21 Mar 2014 13:06:53 +0100</pubDate>
+                    <guid isPermaLink="false">284c2d47411f136752c09ea84a079c31</guid>
+                    <link>http://anderwelt.podspot.de/post/der-nicht-podcast-nr-2/</link>
+                    <enclosure url="http://anderwelt.podspot.de/files/Der%20Nicht-Podcast%20Nr.%202.mp3" length="3405030" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Der Nicht-Podcast Nr. 1</title>
+                    <description>In der ersten Ausgabe des Nicht-Podcasts stellen sich die beiden Protagonisten vor - oder auch nicht - und berichten aus Nichts von Nirgendwo.</description>
+                    <author>Manfred Riegler</author>
+                    <pubDate>Wed, 19 Feb 2014 01:26:49 +0100</pubDate>
+                    <guid isPermaLink="false">095164f88ff369edb709ee2e113731bb</guid>
+                    <link>http://anderwelt.podspot.de/post/nicht-podcast-nr-1/</link>
+                    <enclosure url="http://anderwelt.podspot.de/files/Nicht-Podcast%20Nr.%201.mp3" length="5563597" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

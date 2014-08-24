@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:08 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:08 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=240um455wtdlcpdq3lsiyhez; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:07 GMT"/>
+        <httpclient:header name="Content-Length" value="124389"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/19144</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/19144" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:08 GMT</lastBuildDate>
+                <image>
+                    <title>Radiosportens hockeypodd</title>
+                    <link>http://sverigesradio.se/sida/avsnitt/?programid=4468</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4468/2735807_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Radiosportens hockeypodd tar upp de största snackisarna kring elitserien, hockeyallsvenskan, Tre Kronor och NHL. Magnus Wahlman, L-G Jansson med flera gästar programledare Martin Sundelius.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Sports &amp; Recreation"/>
+                <itunes:owner>
+                    <itunes:name>Radiosportens hockeypodd</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Radiosportens hockeypodd</title>
+                <link>http://sverigesradio.se/sida/avsnitt/?programid=4468</link>
+                <description>Radiosportens hockeypodd tar upp de största snackisarna kring elitserien, hockeyallsvenskan, Tre Kronor och NHL. Magnus Wahlman, L-G Jansson med flera gästar programledare Martin Sundelius.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Hockeypodden har sommarlov - vi är tillbaka 10 september</title>
+                    <description>Radiosportens Hockeypodd har sommarlov, men vi är tillbaka igen onsdag 10 september. Trevlig sommar! /Martin Sundelius</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4968025.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140530_1600_38ac67d.mp3</guid>
+                    <pubDate>Fri, 30 May 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Radiosportens Hockeypodd har sommarlov, men vi är tillbaka igen onsdag 10 september. Trevlig sommar! /Martin Sundelius</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHockeypodden,har,sommarlov,-,vi,är,tillbaka,10,september</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4968025.mp3" length="678212" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Christoffer Herberts superanalys av Ryssland</title>
+                    <description>Den tredje och sista VM-podden, denna gång en kortvariant. Sju underbara minuters kunskap om det ryska laget, som Tre Kronor ska möta i semifinalen, signerat Hufvudstadsbladet/Yles Christoffer Herberts. Reporter Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4960859.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140523_0600_2dddbb3.mp3</guid>
+                    <pubDate>Fri, 23 May 2014 11:22:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Den tredje och sista VM-podden, denna gång en kortvariant. Sju underbara minuters kunskap om det ryska laget, som Tre Kronor ska möta i semifinalen, signerat Hufvudstadsbladet/Yles Christoffer Herberts. Reporter Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddChristoffer,Herberts,superanalys,av,Ryssland</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4960859.mp3" length="7044342" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden: Arvedson sågar Hardy Nilsson - 12 år efter Vitryssland-fiaskot</title>
+                    <description>I Radiosportens Hockey-VM-podd: 12 år efter OS-fiaskot mot vitryssland i Salt Lake City sågar Magnus Arvedson Tre Kronors coachning.  Vi påminner oss (fast vi inte vill) om hur det lät då, 20 februari 2002, och spår hur det går nu, i VM-kvartsfinalen 2014.  Expressens krönikör Mattias Ek gästar VM-podden och Tv4:s Leif Boork lyckas med det omöjliga.  Dessutom listas Tre Kronors bästa spelare så här långt. Finländske hockeyjournalisten Christoffer Herberts varnar för Vitryssland.  Redaktörer: Martin Hedberg och Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4958486.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140521_1600_37c3c6f.mp3</guid>
+                    <pubDate>Wed, 21 May 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I Radiosportens Hockey-VM-podd: 12 år efter OS-fiaskot mot vitryssland i Salt Lake City sågar Magnus Arvedson Tre Kronors coachning.  Vi påminner oss (fast vi inte vill) om hur det lät då, 20 februari 2002, och spår hur det går nu, i VM-kvartsfinalen 2014.  Expressens krönikör Mattias Ek gästar VM-podden och Tv4:s Leif Boork lyckas med det omöjliga.  Dessutom listas Tre Kronors bästa spelare så här långt. Finländske hockeyjournalisten Christoffer Herberts varnar för Vitryssland.  Redaktörer: Martin Hedberg och Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden:,Arvedson,sågar,Hardy,Nilsson,-,12,år,efter,Vitryssland-fiaskot</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4958486.mp3" length="28360095" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden: Sandlin smartare än Mårts, finsk kris &amp; hur är egentligen Minsk?</title>
+                    <description>Hur är värdstaden, Vitrysslands huvudstad Minsk? Vi frågar Aftonbladets mångårige hockeykrönikör Mats Wennerholm som gästar VM-podden. Wennerholm och Radiosportens Magnus Wahlman ger sin syn på Pär Mårts. Är han Sveriges mest intelligente förbundskapten någonsin?  Vi kollar läget med krisande Finland med hjälp av Hufvudstadsbladets Christoffer Herberts, som hyllar VM-stämningen i Vitryssland och ger en känga åt Sveriges och Finlands hockeyfans. Radiosportens hockeyreporter Lena Sundqvist listar Tre Kronors tre trevligaste spelare dessutom gratuleras Brynäs till ett lyckat nyförvärv.  Medverkande: Mats Wennerholm, Magnus Wahlman, Magnus Arvedson, Lena Sundqvist, och Christoffer Herberts.  Redaktörer: Martin Hedberg och Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4950489.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140514_1300_2d1a0eb.mp3</guid>
+                    <pubDate>Wed, 14 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Hur är värdstaden, Vitrysslands huvudstad Minsk? Vi frågar Aftonbladets mångårige hockeykrönikör Mats Wennerholm som gästar VM-podden. Wennerholm och Radiosportens Magnus Wahlman ger sin syn på Pär Mårts. Är han Sveriges mest intelligente förbundskapten någonsin?  Vi kollar läget med krisande Finland med hjälp av Hufvudstadsbladets Christoffer Herberts, som hyllar VM-stämningen i Vitryssland och ger en känga åt Sveriges och Finlands hockeyfans. Radiosportens hockeyreporter Lena Sundqvist listar Tre Kronors tre trevligaste spelare dessutom gratuleras Brynäs till ett lyckat nyförvärv.  Medverkande: Mats Wennerholm, Magnus Wahlman, Magnus Arvedson, Lena Sundqvist, och Christoffer Herberts.  Redaktörer: Martin Hedberg och Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden:,Sandlin,smartare,än,Mårts,,finsk,kris,&amp;,hur,är,egentligen,Minsk?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4950489.mp3" length="37259710" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden: De vinner hockey-VM 2014, hallå där Minsk &amp; VM-nostalgi</title>
+                    <description>I VM-podden 7 maj: Finland vinner Vm-guld, spår expert L-G Jansson. Regerande världsmästarna från Sverige når inte ens final. Vi ringer upp Radiosportens hockeyreporter Lena Sundqvist, som nyligen har landat i VM-värdstaden Minsk i Vitryssland. En diktatur. Märks det redan efter två timmar? Expert L-G Jansson gräver fram ett par svenska guldkorn ur VM-historien, kvartsfinalvändningen mot Finland 2003 i Helsingfors och Mats Sundins 2-1-mål mot Sovjet 1991 i Åbo.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4943115.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140507_1600_3711434.mp3</guid>
+                    <pubDate>Wed, 07 May 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I VM-podden 7 maj: Finland vinner Vm-guld, spår expert L-G Jansson. Regerande världsmästarna från Sverige når inte ens final. Vi ringer upp Radiosportens hockeyreporter Lena Sundqvist, som nyligen har landat i VM-värdstaden Minsk i Vitryssland. En diktatur. Märks det redan efter två timmar? Expert L-G Jansson gräver fram ett par svenska guldkorn ur VM-historien, kvartsfinalvändningen mot Finland 2003 i Helsingfors och Mats Sundins 2-1-mål mot Sovjet 1991 i Åbo.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden:,De,vinner,hockey-VM,2014,,hallå,där,Minsk,&amp;,VM-nostalgi</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4943115.mp3" length="32464396" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Brynäs avgående sportchef i Hockeypodden: Inför lönetak i SHL</title>
+                    <description>I säsongens sista ordinarie hockeypodd har vi bjudit in Brynäs avgående sportchef Michael Sundlöv i radiostudion.  Sundlöv vill införa ett lönetak i SHL, för att bromsa de orimligt höga spelarlönerna. Han hyllar de svenska mästarna från Skellefteå och tycker att det ska bli skönt att nu slippa leva sitt liv genom ishockeyn.  Dessutom: Hur många Skellefteå-spelaren bör Tre Kronors förbundskapten Pär Mårts ta med sig till VM i Minsk?  Medverkande: L-G Jansson och Magnus Wahlman.  Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4928658.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140423_1500_35b752e.mp3</guid>
+                    <pubDate>Wed, 23 Apr 2014 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I säsongens sista ordinarie hockeypodd har vi bjudit in Brynäs avgående sportchef Michael Sundlöv i radiostudion.  Sundlöv vill införa ett lönetak i SHL, för att bromsa de orimligt höga spelarlönerna. Han hyllar de svenska mästarna från Skellefteå och tycker att det ska bli skönt att nu slippa leva sitt liv genom ishockeyn.  Dessutom: Hur många Skellefteå-spelaren bör Tre Kronors förbundskapten Pär Mårts ta med sig till VM i Minsk?  Medverkande: L-G Jansson och Magnus Wahlman.  Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddBrynäs,avgående,sportchef,i,Hockeypodden:,Inför,lönetak,i,SHL</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4928658.mp3" length="41490629" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stanley Cup-special: Möt Lindholm och Landeskog, de vinner och han är tråkig</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: NHL-reporter Annika Greder Duncan tippar Stanley Cup och träffar Anaheims 20-årige succéback Hampus Lindholm samt Colorado Avalanches 21-årige forwardsstjärna Gabriel Landeskog. Sidney Crosby hyllas för sitt spel på isen, men stämplas som "exceptionellt tråkig" vid sidan av isen.  Vi träffar Skellefteå AIK:s oerhört framgångsrike klubbdirektör Pea Israelsson som viftar bort snacket om att klubben skulle kunna spela i KHL och Radiosportens Magnus Wahlman sågar FBK:s norrman Ole Kristian Tollefsen efter dennes tackling mot Pierre Edouard Bellemare - före periodstart i den första SM-finalmatchen.  Medverkande: L-G Jansson, Magnus Wahlman och Annika Greder Duncan.  Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4922898.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140416_1600_36e0daa.mp3</guid>
+                    <pubDate>Wed, 16 Apr 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: NHL-reporter Annika Greder Duncan tippar Stanley Cup och träffar Anaheims 20-årige succéback Hampus Lindholm samt Colorado Avalanches 21-årige forwardsstjärna Gabriel Landeskog. Sidney Crosby hyllas för sitt spel på isen, men stämplas som "exceptionellt tråkig" vid sidan av isen.  Vi träffar Skellefteå AIK:s oerhört framgångsrike klubbdirektör Pea Israelsson som viftar bort snacket om att klubben skulle kunna spela i KHL och Radiosportens Magnus Wahlman sågar FBK:s norrman Ole Kristian Tollefsen efter dennes tackling mot Pierre Edouard Bellemare - före periodstart i den första SM-finalmatchen.  Medverkande: L-G Jansson, Magnus Wahlman och Annika Greder Duncan.  Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddStanley,Cup-special:,Möt,Lindholm,och,Landeskog,,de,vinner,och,han,är,tråkig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4922898.mp3" length="44074114" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hur knäcks Skellefteå-koden?, kvalseriebokslut och mystisk farbror i Skellefteå</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Hur besegrar man Sveriges bästa hockeylag? Vi tar hjälp av LHC:s Pär Arlbrandt och kan i alla fall i teorin slå fast hur man bör spela. Speakern i Skellefteå får sig en tillrättavisning av Magnus Wahlman och så försöker vi reda ut vem den mystiske farbrorn är, som Magnus Wahlman och L-G Jansson hela tiden stöter på i Skellefteå.  Dessutom bokslut på kvalserien, med hjälp av Djurgårdens sportchef Challe Berglund. Och så noterar vi med facit i hand att Magnus Wahlman hade fel och att Leksandsforwarden Jens Bergenström hade rätt.  Medverkande: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4915061.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140409_1500_35c9058.mp3</guid>
+                    <pubDate>Wed, 09 Apr 2014 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Hur besegrar man Sveriges bästa hockeylag? Vi tar hjälp av LHC:s Pär Arlbrandt och kan i alla fall i teorin slå fast hur man bör spela. Speakern i Skellefteå får sig en tillrättavisning av Magnus Wahlman och så försöker vi reda ut vem den mystiske farbrorn är, som Magnus Wahlman och L-G Jansson hela tiden stöter på i Skellefteå.  Dessutom bokslut på kvalserien, med hjälp av Djurgårdens sportchef Challe Berglund. Och så noterar vi med facit i hand att Magnus Wahlman hade fel och att Leksandsforwarden Jens Bergenström hade rätt.  Medverkande: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHur,knäcks,Skellefteå-koden?,,kvalseriebokslut,och,mystisk,farbror,i,Skellefteå</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4915061.mp3" length="29628435" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kvalserien, Vita Hästen, Johansson hyllar Örebro &amp; Ottosson ställs mot väggen</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: Alla kvalserielag har fortsatt chans på spel i SHL med två omgångar kvar. Martin Hedberg reder ut hur tabelljumbon Västerås tar sig till den högsta serien. Örebro Hockey hyllas för en fint genomförd kvalserie, vi möter tränaren Kenta Johansson och ställer expert Kristofer Ottosson mot väggen för att han inte trodde på närkingarna inför kvalserien. Vita Hästen är på väg tillbaka i hockeyallsvenskan och L-G Jansson berättar om när han fick stryk av Sleipner med sitt Kenty. Vilken ishockeystad och arena gillar hockeyreporter Magnus Wahlman bäst? Och vilken arena är sämst att jobba i?  Medverkande: L-G Jansson och Magnus Wahlman.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4907354.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140402_1500_33c95c5.mp3</guid>
+                    <pubDate>Wed, 02 Apr 2014 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: Alla kvalserielag har fortsatt chans på spel i SHL med två omgångar kvar. Martin Hedberg reder ut hur tabelljumbon Västerås tar sig till den högsta serien. Örebro Hockey hyllas för en fint genomförd kvalserie, vi möter tränaren Kenta Johansson och ställer expert Kristofer Ottosson mot väggen för att han inte trodde på närkingarna inför kvalserien. Vita Hästen är på väg tillbaka i hockeyallsvenskan och L-G Jansson berättar om när han fick stryk av Sleipner med sitt Kenty. Vilken ishockeystad och arena gillar hockeyreporter Magnus Wahlman bäst? Och vilken arena är sämst att jobba i?  Medverkande: L-G Jansson och Magnus Wahlman.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddKvalserien,,Vita,Hästen,,Johansson,hyllar,Örebro,&amp;,Ottosson,ställs,mot,väggen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4907354.mp3" length="28554840" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hockeyns trovärdighetsproblem och möt Sveriges mest kvalfyllde spelare</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: Har ishockeyn ett trovärdighetsproblem när speltyper som Ole Kristian Tollefsen hyllas för sitt tuffa, på gränsen till fula spel? Radiosportens hockeyreferent Christian Olsson tycker det.  Är det kört för AIK och Djurgården, blir det allsvenskt spel för stockholmsklubbarna nästa säsong? Ja, det är kört. Åtminstone om man ska tro svarta siffror på vita ark.  Vi träffar Rögles kvalserieveteranen Jakob Johansson som inte ens själv vet hur många kvalserien han har spelat.  Och så följer vi upp fallet kring ungdomslaget i Gästrikland som bänkade några av sina spelare i tredje perioden i en DM-semifinal.  Redaktör Martin Sundelius. Medverkande: Lars-Gunnar Jansson och Magnus Wahlman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4899679.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140326_1500_35cabeb.mp3</guid>
+                    <pubDate>Wed, 26 Mar 2014 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: Har ishockeyn ett trovärdighetsproblem när speltyper som Ole Kristian Tollefsen hyllas för sitt tuffa, på gränsen till fula spel? Radiosportens hockeyreferent Christian Olsson tycker det.  Är det kört för AIK och Djurgården, blir det allsvenskt spel för stockholmsklubbarna nästa säsong? Ja, det är kört. Åtminstone om man ska tro svarta siffror på vita ark.  Vi träffar Rögles kvalserieveteranen Jakob Johansson som inte ens själv vet hur många kvalserien han har spelat.  Och så följer vi upp fallet kring ungdomslaget i Gästrikland som bänkade några av sina spelare i tredje perioden i en DM-semifinal.  Redaktör Martin Sundelius. Medverkande: Lars-Gunnar Jansson och Magnus Wahlman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHockeyns,trovärdighetsproblem,och,möt,Sveriges,mest,kvalfyllde,spelare</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4899679.mp3" length="42889166" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Farväl kvalserien, vi kommer sakna dig - Brynäs kan vända mot FBK</title>
+                    <description>I veckans avsnitt av Radiosportens hockeypodd: Vi tar farväl av kvalserien till SHL, som spelas för allra sista gången i år. Leksands Jens Bergenström, med åtta kvalserier i bagaget, kommer att sakna den spännande serien över tio omgångar. Bergenström avlöjar dessutom vilka två lag som han tror spelar i SHL till hösten.  Hur kommer det nya upp- och nedflyttningssystemet att bli? Det som ska ersätta kvalserien.  Expert Kristofer Ottosson och hockeyreferent Magnus Wahlman är överens: Brynäs kan vända underläge 0-2 i kvartsfinalserien mot Färjestad. Desto tuffare för Luleå och Skellefteå.  Medverkande: Kristofer Ottosson och Magnus Wahlman.  Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4892027.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140319_1600_3799b08.mp3</guid>
+                    <pubDate>Wed, 19 Mar 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens hockeypodd: Vi tar farväl av kvalserien till SHL, som spelas för allra sista gången i år. Leksands Jens Bergenström, med åtta kvalserier i bagaget, kommer att sakna den spännande serien över tio omgångar. Bergenström avlöjar dessutom vilka två lag som han tror spelar i SHL till hösten.  Hur kommer det nya upp- och nedflyttningssystemet att bli? Det som ska ersätta kvalserien.  Expert Kristofer Ottosson och hockeyreferent Magnus Wahlman är överens: Brynäs kan vända underläge 0-2 i kvartsfinalserien mot Färjestad. Desto tuffare för Luleå och Skellefteå.  Medverkande: Kristofer Ottosson och Magnus Wahlman.  Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddFarväl,kvalserien,,vi,kommer,sakna,dig,-,Brynäs,kan,vända,mot,FBK</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4892027.mp3" length="36026148" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Osportslig SM-final i Ö-vik, 12 eller 14 SHL-lag? och möt Marcus Krüger</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Möt Tre Kronors OS-succéspelare Marcus Krüger, doldisen som blev publikfavorit i Sotji och som nu är tillbaka i hockeyvardagen i NHL-laget Chicago Blackhawks.   Osportsligt med bara en SM-finalmatch på damsidan, där ena laget har hemmaplansfördel. Inför bäst av tre eller fem matcher, säger Linköpings och Damkronornas lagkapten Jenni Asserholt och får stöd av Radiosportens expert L-G Jansson.   Varför dröjer det klara beskedet kring antal SHL-lag nästa säsong? Varken Svenska ishockeyförbundet eller Hockeyligan vill uttala sig i frågan. Våra expert tror på 12 lag nästa säsong, liksom hockeyförbundets tävlingschef, Mikael Lundström.  Vad har tabellpositionen för betydelse i ett SM-slutspel? Och finns det något lag som kan utmana serieettan Skellefteå och serietvåan Frölunda i kampen om SM-guldet?  Medverkande: L-G Jansson och Kristofer Ottosson.  Programledare och redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4884551.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140312_1700_3d5cdc5.mp3</guid>
+                    <pubDate>Wed, 12 Mar 2014 15:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Möt Tre Kronors OS-succéspelare Marcus Krüger, doldisen som blev publikfavorit i Sotji och som nu är tillbaka i hockeyvardagen i NHL-laget Chicago Blackhawks.   Osportsligt med bara en SM-finalmatch på damsidan, där ena laget har hemmaplansfördel. Inför bäst av tre eller fem matcher, säger Linköpings och Damkronornas lagkapten Jenni Asserholt och får stöd av Radiosportens expert L-G Jansson.   Varför dröjer det klara beskedet kring antal SHL-lag nästa säsong? Varken Svenska ishockeyförbundet eller Hockeyligan vill uttala sig i frågan. Våra expert tror på 12 lag nästa säsong, liksom hockeyförbundets tävlingschef, Mikael Lundström.  Vad har tabellpositionen för betydelse i ett SM-slutspel? Och finns det något lag som kan utmana serieettan Skellefteå och serietvåan Frölunda i kampen om SM-guldet?  Medverkande: L-G Jansson och Kristofer Ottosson.  Programledare och redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddOsportslig,SM-final,i,Ö-vik,,12,eller,14,SHL-lag?,och,möt,Marcus,Krüger</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4884551.mp3" length="29536640" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"LHC blir svenska mästare - hetaste kvalserien någonsin"</title>
+                    <description>L-G Jansson och Magnus Wahlman diskuterar Djurgårdens framfart, kvalseriehetta, den väldigt viktiga streckstriden i SHL och bråket i Riksseriens slutspel. Redaktör Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4876528.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140305_1600_339df40.mp3</guid>
+                    <pubDate>Wed, 05 Mar 2014 15:02:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>L-G Jansson och Magnus Wahlman diskuterar Djurgårdens framfart, kvalseriehetta, den väldigt viktiga streckstriden i SHL och bråket i Riksseriens slutspel. Redaktör Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypodd"LHC,blir,svenska,mästare,-,hetaste,kvalserien,någonsin"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4876528.mp3" length="16766835" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmshockeyn döende, nej till 14 SHL-lag redan i höst &amp; Petr Nedved</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Är stockholmshockeyn död? Förre Djurgårdstränaren Tomas Montén, nu i LHC, påstår det och får medhåll i sina farhågor av  ishockeyförbundets landslagschef Tommy Boustedt som kallar politikerna i Stockholm för historielösa. Carina Oddsberg, kanslichef på Stockholms ishockeyförbund, delar oron men ser även en ljusare framtid för AIK och Djurgården. Och Radiosportens hockeyexpert L-G Jansson tror att Stockholmsklubbarna kommer att resa sig på nio.  Blir det verkligen 14 lag i SHL redan till hösten? Nej, tror L-G Jansson.  Dessutom, en exklusiv intervju med den 42-årige tjeckiske hockeyspelaren Petr Nedved. Samme Nedved som föll i OS-finalen mot Sverige 1994, då i Kanadas landslag.  Medverkande: Lars-Gunnar Jansson och Lasse Persson.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4840588.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140129_1600_38705a5.mp3</guid>
+                    <pubDate>Wed, 29 Jan 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Är stockholmshockeyn död? Förre Djurgårdstränaren Tomas Montén, nu i LHC, påstår det och får medhåll i sina farhågor av  ishockeyförbundets landslagschef Tommy Boustedt som kallar politikerna i Stockholm för historielösa. Carina Oddsberg, kanslichef på Stockholms ishockeyförbund, delar oron men ser även en ljusare framtid för AIK och Djurgården. Och Radiosportens hockeyexpert L-G Jansson tror att Stockholmsklubbarna kommer att resa sig på nio.  Blir det verkligen 14 lag i SHL redan till hösten? Nej, tror L-G Jansson.  Dessutom, en exklusiv intervju med den 42-årige tjeckiske hockeyspelaren Petr Nedved. Samme Nedved som föll i OS-finalen mot Sverige 1994, då i Kanadas landslag.  Medverkande: Lars-Gunnar Jansson och Lasse Persson.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddStockholmshockeyn,döende,,nej,till,14,SHL-lag,redan,i,höst,&amp;,Petr,Nedved</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4840588.mp3" length="34018998" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Viskningar om 14 lag i SHL, KHL-laget Lev Prag, Jaromir Jagr och allsvenskan</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Det viskas ju om en utökning av svenska hockeyligan från 12 till 14 lag, vi ringer upp Hockeyligans VD Jörgen Lindgren för att höra hur förhandlingarna fortgår.  Frilansjornalisten Calle Rüster, baserad i Prag, berättar hur bra Tjeckiens storstjärna, den snart 42-årige Jaromir Jagr är. Och hur går det för det tjeckiska KHL-laget Lev Prag? Laget som gör sin andra säsong i KHL och har fått jobba för att få fansen att börja heja på "Prags lejon".  Hockeyallsvenskan pratar vi alldeles för lite om i Hockeypodden - åtminstone enligt en del av er lyssnare. Vi hör er och pratar därför om svårigheten för de forna storlagen Malmö, Djurgården, Timrå och Rögle.  Medverkande: L-G Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4832773.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140122_1600_3915fc6.mp3</guid>
+                    <pubDate>Wed, 22 Jan 2014 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Det viskas ju om en utökning av svenska hockeyligan från 12 till 14 lag, vi ringer upp Hockeyligans VD Jörgen Lindgren för att höra hur förhandlingarna fortgår.  Frilansjornalisten Calle Rüster, baserad i Prag, berättar hur bra Tjeckiens storstjärna, den snart 42-årige Jaromir Jagr är. Och hur går det för det tjeckiska KHL-laget Lev Prag? Laget som gör sin andra säsong i KHL och har fått jobba för att få fansen att börja heja på "Prags lejon".  Hockeyallsvenskan pratar vi alldeles för lite om i Hockeypodden - åtminstone enligt en del av er lyssnare. Vi hör er och pratar därför om svårigheten för de forna storlagen Malmö, Djurgården, Timrå och Rögle.  Medverkande: L-G Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddViskningar,om,14,lag,i,SHL,,KHL-laget,Lev,Prag,,Jaromir,Jagr,och,allsvenskan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4832773.mp3" length="30442040" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Leif Boork och krishanteringen i Damkronorna, Barcelonaproffs och Växjös succé</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd ringer vi upp Leif Boork, som i egenskap av assisterande tränare för damkronorna får ägna sig åt krishantering i dessa dagar. Vi reder även ut om Boork är "Mr Tvärtemot" som Magnus Wahlman tidigare har påstått.  Växjö Lakers är hetast i SHL just nu, men laget är ingen seriös utmanare om SM-guldet enligt expert L-G Jansson.  Dessutom träffar vi Robin Jakobsson som har spelat ishockey för FC Barcelona - helt gratis.  Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4824786.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140115_1600_37671a4.mp3</guid>
+                    <pubDate>Wed, 15 Jan 2014 15:02:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd ringer vi upp Leif Boork, som i egenskap av assisterande tränare för damkronorna får ägna sig åt krishantering i dessa dagar. Vi reder även ut om Boork är "Mr Tvärtemot" som Magnus Wahlman tidigare har påstått.  Växjö Lakers är hetast i SHL just nu, men laget är ingen seriös utmanare om SM-guldet enligt expert L-G Jansson.  Dessutom träffar vi Robin Jakobsson som har spelat ishockey för FC Barcelona - helt gratis.  Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddLeif,Boork,och,krishanteringen,i,Damkronorna,,Barcelonaproffs,och,Växjös,succé</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4824786.mp3" length="32782423" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mårts vs Yzerman, Finland vs Sverige och ryska svin</title>
+                    <description>2014 års första ordinarie avsnitt av Radiosportens Hockeypodd: 1. Stort fokus mot OS i Sotji, där vi jämför Sveriges och Finlands OS-trupper med hjälp av den finske sportjournalisten Christoffer Herberts. 2. Vilken truppresentation var egentligen bäst? Sveriges Pär Mårts på ett konferenshotell i Stockholm, eller Kanadas general manager Steve Yzerman? 3. Vi benar ut hur de Tre Kronors OS-kedjor kommer att se ut. 4. Radiosportens Magnus Wahlman kommenterar sitt eget referat från JVM-semifinalen mot Ryssland, där han i direktsändning bland annat kallade de ryska spelarna för svin.  Medverkande: Magnus Wahlman, L-G Jansson och Christoffer Herberts. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4817100.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140108_1500_36664d2.mp3</guid>
+                    <pubDate>Wed, 08 Jan 2014 15:02:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>2014 års första ordinarie avsnitt av Radiosportens Hockeypodd: 1. Stort fokus mot OS i Sotji, där vi jämför Sveriges och Finlands OS-trupper med hjälp av den finske sportjournalisten Christoffer Herberts. 2. Vilken truppresentation var egentligen bäst? Sveriges Pär Mårts på ett konferenshotell i Stockholm, eller Kanadas general manager Steve Yzerman? 3. Vi benar ut hur de Tre Kronors OS-kedjor kommer att se ut. 4. Radiosportens Magnus Wahlman kommenterar sitt eget referat från JVM-semifinalen mot Ryssland, där han i direktsändning bland annat kallade de ryska spelarna för svin.  Medverkande: Magnus Wahlman, L-G Jansson och Christoffer Herberts. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddMårts,vs,Yzerman,,Finland,vs,Sverige,och,ryska,svin</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4817100.mp3" length="29354644" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hockeypodden JVM-special: Ryskt trashtalk och värmländsk ananasskiva</title>
+                    <description>Radiosportens Hockeypodd iklädd JVM-skrud bjuder på följande: 1. Publikfesten i Malmö - våra referenter beskriver stämningen. 2. Expert Magnus Arvedson tar ut sitt All Star Team (där tre svenskar platsar). 3. Sveriges semifinalmotståndare Ryssland sågas - för sitt trash talk. 4. Vi lär oss uttala ordet ananasskiva på värmländska, expert Arvedsons modersmål.  Medverkande: Radiosportens hockeyreferenter Magnus Wahlman och Magnus Arvedson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4812424.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20140102_2300_4fd8d97.mp3</guid>
+                    <pubDate>Thu, 02 Jan 2014 21:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Radiosportens Hockeypodd iklädd JVM-skrud bjuder på följande: 1. Publikfesten i Malmö - våra referenter beskriver stämningen. 2. Expert Magnus Arvedson tar ut sitt All Star Team (där tre svenskar platsar). 3. Sveriges semifinalmotståndare Ryssland sågas - för sitt trash talk. 4. Vi lär oss uttala ordet ananasskiva på värmländska, expert Arvedsons modersmål.  Medverkande: Radiosportens hockeyreferenter Magnus Wahlman och Magnus Arvedson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHockeypodden,JVM-special:,Ryskt,trashtalk,och,värmländsk,ananasskiva</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4812424.mp3" length="17953581" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Julhockeypodden: Bodins OS-trupp, hård klapputdelning &amp; möt Luleås kulturbärare</title>
+                    <description>I veckans specialavsnitt av Radiosportens Hockeypodd (den sista för året):  1. Hockeysveriges chefredaktör Uffe Bodin tar ut sin OS-trupp (Tre Kronor) och får oväntat lite mothugg från Radiosportens expert L-G Jansson, som nästan är överens med Bodin.  2. Turerna kring SHL:s kontroversiella framtidsplaner tas en vända till.  3. Turen har kommit till Luleå i vår serie om SHL:s kulturbärare. Vad är det egentligen som är så speciellt med Luleå Hockey? Janne Sandström, med 13 säsonger i klubben, ger sitt svar.  4. L-G Jansson och Magnus Wahlman delar ut tre julklappar vardera. Bland annat får Skellefteå AIK:s tränare Bert Robertsson en nallebjörn.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4800272.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131218_1600_3645394.mp3</guid>
+                    <pubDate>Wed, 18 Dec 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans specialavsnitt av Radiosportens Hockeypodd (den sista för året):  1. Hockeysveriges chefredaktör Uffe Bodin tar ut sin OS-trupp (Tre Kronor) och får oväntat lite mothugg från Radiosportens expert L-G Jansson, som nästan är överens med Bodin.  2. Turerna kring SHL:s kontroversiella framtidsplaner tas en vända till.  3. Turen har kommit till Luleå i vår serie om SHL:s kulturbärare. Vad är det egentligen som är så speciellt med Luleå Hockey? Janne Sandström, med 13 säsonger i klubben, ger sitt svar.  4. L-G Jansson och Magnus Wahlman delar ut tre julklappar vardera. Bland annat får Skellefteå AIK:s tränare Bert Robertsson en nallebjörn.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddJulhockeypodden:,Bodins,OS-trupp,,hård,klapputdelning,&amp;,möt,Luleås,kulturbärare</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4800272.mp3" length="42675931" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Robertsson om Skellefteås framtidsstrategi, Salo om succén och nervositeten</title>
+                    <description>Specialavsnitt av Radiosportens Hockeypodd, på plats i Leksand: Leksands sportchef Tommy Salo om hur han hanterar nervositeten vid matcherna, hur dyrt det blir att försöka behålla succébacken Patrik Hersley och hur viktig tränare Andreas Appelgren.   Sveriges bästa ishockeylag, Skellefteå AIK, synas. Assisterande tränaren Bert Robertsson förklarar hur föreningens stormaktstid ska bestå lång tid framöver.  Dessutom får vi besök av en Leksandssupporter som får Magnus Wahlman att rodna. Och skostorleken på Örebros två meter långa finländska nyförvärv Marko Anttila avslöjas.  Redaktörer: Magnus Wahlman, L-G Jansson och Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4794042.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131212_1900_454936f.mp3</guid>
+                    <pubDate>Thu, 12 Dec 2013 17:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Specialavsnitt av Radiosportens Hockeypodd, på plats i Leksand: Leksands sportchef Tommy Salo om hur han hanterar nervositeten vid matcherna, hur dyrt det blir att försöka behålla succébacken Patrik Hersley och hur viktig tränare Andreas Appelgren.   Sveriges bästa ishockeylag, Skellefteå AIK, synas. Assisterande tränaren Bert Robertsson förklarar hur föreningens stormaktstid ska bestå lång tid framöver.  Dessutom får vi besök av en Leksandssupporter som får Magnus Wahlman att rodna. Och skostorleken på Örebros två meter långa finländska nyförvärv Marko Anttila avslöjas.  Redaktörer: Magnus Wahlman, L-G Jansson och Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddRobertsson,om,Skellefteås,framtidsstrategi,,Salo,om,succén,och,nervositeten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4794042.mp3" length="23856777" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Veckans specialavsnitt uppskjutet till torsdag kväll</title>
+                    <description>Veckans avsnitt av Radiosportens Hockeypodd är uppskjuten till imorgon kväll, torsdag 12 december. Magnus Wahlman, L-G Jansson och Martin Sundelius kommer då att vara i Leksand. Leksands sportchef Tommy Salo gästar Hockeypodden, liksom Skellefteå AIK:s omskrivne assisterande tränare Bert Robertsson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4792289.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131211_1600_37a9924.mp3</guid>
+                    <pubDate>Wed, 11 Dec 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Veckans avsnitt av Radiosportens Hockeypodd är uppskjuten till imorgon kväll, torsdag 12 december. Magnus Wahlman, L-G Jansson och Martin Sundelius kommer då att vara i Leksand. Leksands sportchef Tommy Salo gästar Hockeypodden, liksom Skellefteå AIK:s omskrivne assisterande tränare Bert Robertsson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVeckans,specialavsnitt,uppskjutet,till,torsdag,kväll</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4792289.mp3" length="587845" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hör SHL:s nyanlända profiler Anttila och Nygren, Skellefteå-hyllning med mera!</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Damkronornas målvakt och silverhjälte från OS 2006, Kim Martin Hasson, kommenterar att OS-biljetten nu är klar.  SHL tappar inte bara profiler - den lockar även till sig stjärnspelare som Magnus Nygren (Färjestad) och Marko Anttila (Örebro). Vi hör båda. Nygren sågar AHL och den kanadensiska staden Hamilton som han nu är glad över att slippa. Och Magnus Wahlman undrar vilken skostorlek 201 centimeter långe Anttila har.  JVM-truppen tas ut på torsdag - och färväntningarna inför hemma-VM är stora.  Skellefteå AIK dominerar serien. Radiosportens experter Magnus Arvedson och L-G Jansson fortsätter att ösa beröm över västerbottningarna.  Medverkande: Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4784433.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131204_1500_35e6a3f.mp3</guid>
+                    <pubDate>Wed, 04 Dec 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Damkronornas målvakt och silverhjälte från OS 2006, Kim Martin Hasson, kommenterar att OS-biljetten nu är klar.  SHL tappar inte bara profiler - den lockar även till sig stjärnspelare som Magnus Nygren (Färjestad) och Marko Anttila (Örebro). Vi hör båda. Nygren sågar AHL och den kanadensiska staden Hamilton som han nu är glad över att slippa. Och Magnus Wahlman undrar vilken skostorlek 201 centimeter långe Anttila har.  JVM-truppen tas ut på torsdag - och färväntningarna inför hemma-VM är stora.  Skellefteå AIK dominerar serien. Radiosportens experter Magnus Arvedson och L-G Jansson fortsätter att ösa beröm över västerbottningarna.  Medverkande: Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHör,SHL:s,nyanlända,profiler,Anttila,och,Nygren,,Skellefteå-hyllning,med,mera!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4784433.mp3" length="25285609" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Domare Ulf Rönnmark om filmningar och myten om svarta november avlivas</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: SHL:s bäste domare, Ulf Rönnmark, gästar oss för att bland annat prata om bristen på yngre domare och problemet med att upptäcka filmningar därute på isen.  Djurgårdens, SSK:s och hela Stockholmsishockeyns problem diskuteras.  Myten om svarta november avlivas och hockeyexpert Leif Boork påstås vara motvalls.  Medverkande: L-G Jansson, Magnus Wahlman och Ulf Rönnmark. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4776684.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131127_1600_38e51be.mp3</guid>
+                    <pubDate>Wed, 27 Nov 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: SHL:s bäste domare, Ulf Rönnmark, gästar oss för att bland annat prata om bristen på yngre domare och problemet med att upptäcka filmningar därute på isen.  Djurgårdens, SSK:s och hela Stockholmsishockeyns problem diskuteras.  Myten om svarta november avlivas och hockeyexpert Leif Boork påstås vara motvalls.  Medverkande: L-G Jansson, Magnus Wahlman och Ulf Rönnmark. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddDomare,Ulf,Rönnmark,om,filmningar,och,myten,om,svarta,november,avlivas</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4776684.mp3" length="36607891" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bertgate, Steen om poängsuccén i NHL och expertens dom över de 12 SHL-lagen</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: Vi försöker få rätsida på hockeyskilsmässan som fortfarande rör upp känslor - Bert Robertsson vs. Anders Forsberg. Hockeyreporter Christer Jonasson om presskonferensen som urartade och ringer även upp NHL:s poängligaledare Alexander Steen. Expert L-G Jansson tar en titt i SHL-tabellen efter 22 omgångar och ger sin syn på de 12 lagen. Dessutom berör vi Brynäs målvaktsrockad - Rahm ut och Starkbaum in. Medverkande: Lars-Gunnar Jansson, Magnus Wahlman och Christer Jonasson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4768721.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131120_1600_36e6354.mp3</guid>
+                    <pubDate>Wed, 20 Nov 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: Vi försöker få rätsida på hockeyskilsmässan som fortfarande rör upp känslor - Bert Robertsson vs. Anders Forsberg. Hockeyreporter Christer Jonasson om presskonferensen som urartade och ringer även upp NHL:s poängligaledare Alexander Steen. Expert L-G Jansson tar en titt i SHL-tabellen efter 22 omgångar och ger sin syn på de 12 lagen. Dessutom berör vi Brynäs målvaktsrockad - Rahm ut och Starkbaum in. Medverkande: Lars-Gunnar Jansson, Magnus Wahlman och Christer Jonasson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddBertgate,,Steen,om,poängsuccén,i,NHL,och,expertens,dom,över,de,12,SHL-lagen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4768721.mp3" length="37152714" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vågen av transatlanter: Vad tycker nordamerikanerna om Sverige och SHL?</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: Möt Växjö Lakers före detta NHL-proffs Colby Armstrong, som redan har anammat det svenska modet och hyllar sin idol Peter Forsberg (som en gång skällde ut Armstrong). Dessutom hör vi Jason Krog, Chad Kolarik, Cory Murphy och Ben Walter om deras intryck av Sverige i allmänhet och SHL i synnerhet. Norrmannen och återfallsförbrytaren Ole Kristian Tollefsen diskuteras också, efter tacklingen mot Leksands Tobias Forsberg. Gäster: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4760818.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131113_1500_36ca7dd.mp3</guid>
+                    <pubDate>Wed, 13 Nov 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: Möt Växjö Lakers före detta NHL-proffs Colby Armstrong, som redan har anammat det svenska modet och hyllar sin idol Peter Forsberg (som en gång skällde ut Armstrong). Dessutom hör vi Jason Krog, Chad Kolarik, Cory Murphy och Ben Walter om deras intryck av Sverige i allmänhet och SHL i synnerhet. Norrmannen och återfallsförbrytaren Ole Kristian Tollefsen diskuteras också, efter tacklingen mot Leksands Tobias Forsberg. Gäster: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVågen,av,transatlanter:,Vad,tycker,nordamerikanerna,om,Sverige,och,SHL?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4760818.mp3" length="38481385" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mårts får svar på tal av NHL-scouten och SHL är rekordjämn men usel</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  Svenske NHL-scouten Håkan Andersson trycker till förbundskapten Pär Mårts, SHL/elitserien har aldrig varit så här jämn under 2000-talet. Radiosportens hockeyreporter Magnus Wahlman tror det beror på att spelarna och ligan helt enkelt är sämre. Dessutom reder vi ut varför många får en gäspning i halsen inför landslagsturneringen Karjala cup som avgörs i helgen. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4753109.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131106_1500_3577272.mp3</guid>
+                    <pubDate>Wed, 06 Nov 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  Svenske NHL-scouten Håkan Andersson trycker till förbundskapten Pär Mårts, SHL/elitserien har aldrig varit så här jämn under 2000-talet. Radiosportens hockeyreporter Magnus Wahlman tror det beror på att spelarna och ligan helt enkelt är sämre. Dessutom reder vi ut varför många får en gäspning i halsen inför landslagsturneringen Karjala cup som avgörs i helgen. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddMårts,får,svar,på,tal,av,NHL-scouten,och,SHL,är,rekordjämn,men,usel</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4753109.mp3" length="24469501" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skellefteås tränare Bert Robertsson efter straffsegern mot Växjö</title>
+                    <description>---BSK:Reporter: Peter Sundkvist.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4747134.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131031_2200_4c94fe4.mp3</guid>
+                    <pubDate>Thu, 31 Oct 2013 20:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>---BSK:Reporter: Peter Sundkvist.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddSkellefteås,tränare,Bert,Robertsson,efter,straffsegern,mot,Växjö</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4747134.mp3" length="1708302" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pär Mårts gästar oss med 100 dagar kvar till OS i Sotji - och så lät det 1994</title>
+                    <description>Tre Kronors förbundskapten Pär Mårts gästar Radiosportens Hockeypodd för att prata om förberedelserna inför OS-turnerningen i Sotji, som bara är 100 dagar bort. Vad tycker Mårts om Alexander Steens succé i St. Louis Blues? Och är verkligen Henrik Lundqvist given som förstemålvakt?  Dessutom blickar vi bakåt och minns OS-gulden från 1994 och 2006 samt Damkronornas OS-bragdsilver från 2006. Gäster: (förutom Pär Mårts) Radiosportens L-G Jansson och Magnus Wahlman. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4745382.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131030_1500_34c9af6.mp3</guid>
+                    <pubDate>Wed, 30 Oct 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Tre Kronors förbundskapten Pär Mårts gästar Radiosportens Hockeypodd för att prata om förberedelserna inför OS-turnerningen i Sotji, som bara är 100 dagar bort. Vad tycker Mårts om Alexander Steens succé i St. Louis Blues? Och är verkligen Henrik Lundqvist given som förstemålvakt?  Dessutom blickar vi bakåt och minns OS-gulden från 1994 och 2006 samt Damkronornas OS-bragdsilver från 2006. Gäster: (förutom Pär Mårts) Radiosportens L-G Jansson och Magnus Wahlman. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddPär,Mårts,gästar,oss,med,100,dagar,kvar,till,OS,i,Sotji,-,och,så,lät,det,1994</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4745382.mp3" length="38500103" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tre vinnare i Salmela-affären, hemmaplanskomplex &amp; Modos klubbkultur</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd: Expert Kristofer Ottosson ser bara vinnare efter Anssi Salmelas omdiskuterade övergång från Modo till HV 71. Brynäs, Färjestad och Leksand har ett gemensamt problem - hemmaplanskomplex. Dessutom är det Modos tur i vår serie om SHL-klubbarnas olika klubbkulturer. Gäster: Kristofer Ottosson och Lena Sundqvist. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4737787.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131023_1700_3b0c268.mp3</guid>
+                    <pubDate>Wed, 23 Oct 2013 15:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd: Expert Kristofer Ottosson ser bara vinnare efter Anssi Salmelas omdiskuterade övergång från Modo till HV 71. Brynäs, Färjestad och Leksand har ett gemensamt problem - hemmaplanskomplex. Dessutom är det Modos tur i vår serie om SHL-klubbarnas olika klubbkulturer. Gäster: Kristofer Ottosson och Lena Sundqvist. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddTre,vinnare,i,Salmela-affären,,hemmaplanskomplex,&amp;,Modos,klubbkultur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4737787.mp3" length="34598636" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Borde två personer dela på sportchefsrollen? Så uttalas SHL-spelarna</title>
+                    <description>I Radiosportens Hockeypodd denna vecka:  Borde man dela upp sportchefsjobbet på två personer? Med tanke på att Jörgen Jönsson gick in i väggen och tvingades sluta i Färjestad. Språkvårdaren och Radiosportens reporter Bengt Skött gästar podden och förklarar på ett pedagogiskt vis hur luriga spelarnamn ska uttalas. Dessutom hör vi expert Kristofer Ottosson om vikten av att känna till sina styrkor som ishockeyspelare. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4729726.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131016_1600_37186cf.mp3</guid>
+                    <pubDate>Wed, 16 Oct 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I Radiosportens Hockeypodd denna vecka:  Borde man dela upp sportchefsjobbet på två personer? Med tanke på att Jörgen Jönsson gick in i väggen och tvingades sluta i Färjestad. Språkvårdaren och Radiosportens reporter Bengt Skött gästar podden och förklarar på ett pedagogiskt vis hur luriga spelarnamn ska uttalas. Dessutom hör vi expert Kristofer Ottosson om vikten av att känna till sina styrkor som ishockeyspelare. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddBorde,två,personer,dela,på,sportchefsrollen?,Så,uttalas,SHL-spelarna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4729726.mp3" length="31779207" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Håkan Loob, Ulf Dahlén och housemusik - om SHL-spelarna själva får välja</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd:  10 omgångar spelade, så har det gått de 15 senaste säsongerna (Örebro kan andas ut, de slipper kvalserien). Expert Kristofer Ottosson tycker att krislaget HV 71 ska behålla tränaren Ulf Dahlén. Musikguiden i P3:s programledare Tina Mehrafzoon reder ut varför SHL-lagen nuförtiden peppar till housemusik före matcherna. Modos assisterande tränare Jan-Axel Alavaara skingrar frågetecknen kring dribblandet med laguppställningen. Och i Klubbkultur har turen kommit till Färjestad och Håkan Loob. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4721931.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131009_1500_35a5855.mp3</guid>
+                    <pubDate>Wed, 09 Oct 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd:  10 omgångar spelade, så har det gått de 15 senaste säsongerna (Örebro kan andas ut, de slipper kvalserien). Expert Kristofer Ottosson tycker att krislaget HV 71 ska behålla tränaren Ulf Dahlén. Musikguiden i P3:s programledare Tina Mehrafzoon reder ut varför SHL-lagen nuförtiden peppar till housemusik före matcherna. Modos assisterande tränare Jan-Axel Alavaara skingrar frågetecknen kring dribblandet med laguppställningen. Och i Klubbkultur har turen kommit till Färjestad och Håkan Loob. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHåkan,Loob,,Ulf,Dahlén,och,housemusik,-,om,SHL-spelarna,själva,får,välja</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4721931.mp3" length="35611727" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Publikkrisen i SHL, Skellefteås rekordsvit, allsvenskan och kulturen i Leksand</title>
+                    <description>I veckans Hockeypodd: Radiosportens nye hockeyexpert Kristofer Ottosson gästar podden och pratar tillsammans med reporter Magnus Wahlman om Skellefteås rekordsvit, den uppseglande publikkrisen i SHL, problemen med att ramla ned i hockeyallsvenskan samt varför han valde att förbli Djurgården trogen under sin spelarkarriär. Dessutom introducerar vi det nya segmentet Klubbkultur. Först ur är nykomlingen Leksands IF, där vi med hjälp av förre forwardsstjärnan Mikael Karlberg tar reda på vad som är så speciellt med dalaklubben. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4713917.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20131002_1500_344d445.mp3</guid>
+                    <pubDate>Wed, 02 Oct 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans Hockeypodd: Radiosportens nye hockeyexpert Kristofer Ottosson gästar podden och pratar tillsammans med reporter Magnus Wahlman om Skellefteås rekordsvit, den uppseglande publikkrisen i SHL, problemen med att ramla ned i hockeyallsvenskan samt varför han valde att förbli Djurgården trogen under sin spelarkarriär. Dessutom introducerar vi det nya segmentet Klubbkultur. Först ur är nykomlingen Leksands IF, där vi med hjälp av förre forwardsstjärnan Mikael Karlberg tar reda på vad som är så speciellt med dalaklubben. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddPublikkrisen,i,SHL,,Skellefteås,rekordsvit,,allsvenskan,och,kulturen,i,Leksand</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4713917.mp3" length="34654170" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Zalar om Karlskrona-succén, kyrkosång i Leksand och Lemieux bättre än Gretzky</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd ringer vi upp Radiosportens friidrottsexpert Miro Zalar för att snacka om Karlskronas succé, där Zalar är fystränare sedan tio år tillbaka. Dessutom hälsar vi på hos Jens Bergenström och Mikael Johansson i Leksand. L-G Jansson plockar ut sina fem favoritspelare i SHL efter fyra spelade omgångar och så dyker Mario Lemieux upp. Redaktör Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4706067.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130925_1500_343702f.mp3</guid>
+                    <pubDate>Wed, 25 Sep 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd ringer vi upp Radiosportens friidrottsexpert Miro Zalar för att snacka om Karlskronas succé, där Zalar är fystränare sedan tio år tillbaka. Dessutom hälsar vi på hos Jens Bergenström och Mikael Johansson i Leksand. L-G Jansson plockar ut sina fem favoritspelare i SHL efter fyra spelade omgångar och så dyker Mario Lemieux upp. Redaktör Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddZalar,om,Karlskrona-succén,,kyrkosång,i,Leksand,och,Lemieux,bättre,än,Gretzky</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4706067.mp3" length="36708964" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hyllningarna av SHL-tränaren och sågningen av nykomlingarna Örebro och Leksand</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd tar vi reda på vem som är svenska hockeyligans bästa tränare - om tränarna själva får välja. Och vem ser han i sin tur upp till? Nykomlingarna Örebro och Leksand sågas, igen. LHC-tränaren Roger Melin klagar över att spelarna har svårt att rätta sig efter de nya hårdare regeltolkningarna för spelförstörande moment som slashing och fasthållning. Och så ploppar Lasse Falks namn upp. Medverkande: Radiosportens Lars-Gunnar Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4698025.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130918_1500_351e0bc.mp3</guid>
+                    <pubDate>Wed, 18 Sep 2013 13:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd tar vi reda på vem som är svenska hockeyligans bästa tränare - om tränarna själva får välja. Och vem ser han i sin tur upp till? Nykomlingarna Örebro och Leksand sågas, igen. LHC-tränaren Roger Melin klagar över att spelarna har svårt att rätta sig efter de nya hårdare regeltolkningarna för spelförstörande moment som slashing och fasthållning. Och så ploppar Lasse Falks namn upp. Medverkande: Radiosportens Lars-Gunnar Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHyllningarna,av,SHL-tränaren,och,sågningen,av,nykomlingarna,Örebro,och,Leksand</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4698025.mp3" length="25108620" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hockeypodden special Leksand-Brynäs: "Det luktar kvalserie om Leksand"</title>
+                    <description>Radiosportens referenter Magnus Wahlman och L-G Jansson var rejält besvikna på SHL-nykomlingen Leksand efter premiärförlusten mot Brynäs. Brynäs vann med 3-1 och Wahlman tror att Leksand får väldigt svårt att undvika spel i kvalserien - om man ska döma utifrån hur spelet såg ut i premiären. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4693767.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130914_1900_41645ed.mp3</guid>
+                    <pubDate>Sat, 14 Sep 2013 17:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Radiosportens referenter Magnus Wahlman och L-G Jansson var rejält besvikna på SHL-nykomlingen Leksand efter premiärförlusten mot Brynäs. Brynäs vann med 3-1 och Wahlman tror att Leksand får väldigt svårt att undvika spel i kvalserien - om man ska döma utifrån hur spelet såg ut i premiären. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHockeypodden,special,Leksand-Brynäs:,"Det,luktar,kvalserie,om,Leksand"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4693767.mp3" length="11293944" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Radiosportens stora SHL-special</title>
+                    <description>INFÖR PREMIÄREN: Lars-Gunnar Jansson och Kristofer Ottosson snackar upp inför SHL-starten tillsammans med Magnus Wahlman. Missa inte experternas tips - vilket lag vinner, vilka går till slutspel och vilka spelar kvalserien i höst. Kvällens reportage/intervjuer: Henrik Karlsson. ”Årets värvning” enligt Magnus Wahlman Erik Granqvist. Färjestads världskända målvaktstränare Linus Ullmark. En av blott två ångarmanlänningar i Modo Örebro. Hur rustar nykomlingen? Daniel Rudslätt. Så ska han få fart på AIK Tommy Salo om nu och då Linköping utan superkedjan</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4690558.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130911_2200_4c3e1cc.mp3</guid>
+                    <pubDate>Wed, 11 Sep 2013 20:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>INFÖR PREMIÄREN: Lars-Gunnar Jansson och Kristofer Ottosson snackar upp inför SHL-starten tillsammans med Magnus Wahlman. Missa inte experternas tips - vilket lag vinner, vilka går till slutspel och vilka spelar kvalserien i höst. Kvällens reportage/intervjuer: Henrik Karlsson. ”Årets värvning” enligt Magnus Wahlman Erik Granqvist. Färjestads världskända målvaktstränare Linus Ullmark. En av blott två ångarmanlänningar i Modo Örebro. Hur rustar nykomlingen? Daniel Rudslätt. Så ska han få fart på AIK Tommy Salo om nu och då Linköping utan superkedjan</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddRadiosportens,stora,SHL-special</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4690558.mp3" length="81862564" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>SÄSONGSPREMIÄR: Radiosportens Hockeypodd</title>
+                    <description>Kommer SHL-domarna att orka upprätthålla den hårdare regeltolkningen för spelförstörande moment som exempelvis slashing och fasthållning? Vi frågar några SHL-tränare och diskuterar domarnas stora utmaning. Radiosportens nye expert Kristofer Ottosson tror att nykomlingarna Leksand och Örebro klarar sig kvar - och får stöd av statistiken. Brynäs tränare Tommy Jonsson pratar om sin ångest inför viktiga matcher och Modos tränare Anders Forsberg berättar att han stänger av Radiosporten för att må bättre i sin yrkesroll. Dessutom delar L-G Jansson och Magnus Wahlman ut ett gäng frågetecken respektive utropstecken till de 12 SHL-lagen.  Gäster: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4690369.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130911_1700_3a9c9ce.mp3</guid>
+                    <pubDate>Wed, 11 Sep 2013 15:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Kommer SHL-domarna att orka upprätthålla den hårdare regeltolkningen för spelförstörande moment som exempelvis slashing och fasthållning? Vi frågar några SHL-tränare och diskuterar domarnas stora utmaning. Radiosportens nye expert Kristofer Ottosson tror att nykomlingarna Leksand och Örebro klarar sig kvar - och får stöd av statistiken. Brynäs tränare Tommy Jonsson pratar om sin ångest inför viktiga matcher och Modos tränare Anders Forsberg berättar att han stänger av Radiosporten för att må bättre i sin yrkesroll. Dessutom delar L-G Jansson och Magnus Wahlman ut ett gäng frågetecken respektive utropstecken till de 12 SHL-lagen.  Gäster: L-G Jansson och Magnus Wahlman. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddSÄSONGSPREMIÄR:,Radiosportens,Hockeypodd</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4690369.mp3" length="63397865" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>SHL-special: Experterna om lag för lag</title>
+                    <description>Den 11 september kommer säsongens första "riktiga" hockeypodd. Men här kommer ett snack med L-G Jansson, Kristofer Ottosson och Magnus Wahlman om lag för lag inför nedsläpp.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4686988.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130909_1100_27839ae.mp3</guid>
+                    <pubDate>Mon, 09 Sep 2013 09:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Den 11 september kommer säsongens första "riktiga" hockeypodd. Men här kommer ett snack med L-G Jansson, Kristofer Ottosson och Magnus Wahlman om lag för lag inför nedsläpp.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddSHL-special:,Experterna,om,lag,för,lag</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4686988.mp3" length="27199442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 20 maj: "Mitt bästa VM-minne är Petterssons straffmål"</title>
+                    <description>I det sista avsnittet av VM-podden summerar Radiosportens kommentatorer Magnus Wahlman och Magnus Arvedson ishockey-VM 2013 på ett litet personligare sätt. De turas om att plocka fram fyra svenska spelare som ska hyllas lite extra förutom Daniel och Henrik Sedin samt målvakten Jhonas Enroth. Dessutom ger Aftonbladets krönikör Mats Wennerholm sin syn på det nionde svenska VM-guldet i ishockey. Det första på hemmais någonsin. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4562758.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130520_0500_b17683.mp3</guid>
+                    <pubDate>Mon, 20 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I det sista avsnittet av VM-podden summerar Radiosportens kommentatorer Magnus Wahlman och Magnus Arvedson ishockey-VM 2013 på ett litet personligare sätt. De turas om att plocka fram fyra svenska spelare som ska hyllas lite extra förutom Daniel och Henrik Sedin samt målvakten Jhonas Enroth. Dessutom ger Aftonbladets krönikör Mats Wennerholm sin syn på det nionde svenska VM-guldet i ishockey. Det första på hemmais någonsin. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,20,maj:,"Mitt,bästa,VM-minne,är,Petterssons,straffmål"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4562758.mp3" length="14579363" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 19 maj: Wahlman vänder kappan och schweizisk spionrapport</title>
+                    <description>Så var vi framme vid finaldagen. Med Tre Kronor som ena lag. I dagens podd snackar Magnus Wahlman och namnen Arvedson om lördagens svenske överkörning av Finland, om Sedinarnas överlägsenhet, Jhonas Enroth som nutidens Pecka Lindmark och om ett imponerande Schweiz. Wahlman hinner vända kappan fler gånger än vad man räkna till. Sent i går kväll träffade vm-podden också en schweizisk reporter, Reto Kirchhofer, som skriver för tidningen Berner Zeitung. Han lär er mer om dagens finalmotståndare. För er vetgiriga väntar en tuff lektion i schweiziskt VM-hockeylandslag. Programledare Martin Hedberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4562153.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130519_0400_b9adb9.mp3</guid>
+                    <pubDate>Sun, 19 May 2013 02:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Så var vi framme vid finaldagen. Med Tre Kronor som ena lag. I dagens podd snackar Magnus Wahlman och namnen Arvedson om lördagens svenske överkörning av Finland, om Sedinarnas överlägsenhet, Jhonas Enroth som nutidens Pecka Lindmark och om ett imponerande Schweiz. Wahlman hinner vända kappan fler gånger än vad man räkna till. Sent i går kväll träffade vm-podden också en schweizisk reporter, Reto Kirchhofer, som skriver för tidningen Berner Zeitung. Han lär er mer om dagens finalmotståndare. För er vetgiriga väntar en tuff lektion i schweiziskt VM-hockeylandslag. Programledare Martin Hedberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,19,maj:,Wahlman,vänder,kappan,och,schweizisk,spionrapport</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4562153.mp3" length="15038574" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 18 maj: Så funkar Finland &amp; Lasse Granqvist om VM och Finlandsmatcher</title>
+                    <description>Finländske tv-referenten Christoffer Herberts lär er allt om det finska laget och det finska folkets syn på Tre Kronor-matcher. Före detta Radiosporten-profilen Lasse Granqvist ger sin syn på Kanadamatchen, den svenska insatsen hittills, listar Tre Kronor-Finland-minnen och tippar dagens match. Reporter Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4561583.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130518_0400_4f74aa0.mp3</guid>
+                    <pubDate>Sat, 18 May 2013 02:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Finländske tv-referenten Christoffer Herberts lär er allt om det finska laget och det finska folkets syn på Tre Kronor-matcher. Före detta Radiosporten-profilen Lasse Granqvist ger sin syn på Kanadamatchen, den svenska insatsen hittills, listar Tre Kronor-Finland-minnen och tippar dagens match. Reporter Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,18,maj:,Så,funkar,Finland,&amp;,Lasse,Granqvist,om,VM,och,Finlandsmatcher</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4561583.mp3" length="19721275" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 17 maj: Bragden mot Kanada - så slutar semifinalerna</title>
+                    <description>Vi gottar oss åt Tre Kronors härliga seger efter straffar mot Kanada och tittar framåt mot lördagens matcher. Magnus Wahlman är eld och lågor efter Tre Kronors seger i går och delar ut några extra plus till några svenska lirare. En spelare som han tidigare sågat - tar han til nåder. Magnus Arvedson förklarar vad Sedinarna betyder för det svenska laget. L-G Jansson sätter in segern mot Kanada i perspektiv - hur stor är bedriften egentligen om man tittar genom VM-historien. Han berättar också om danska coachen Pelle Bäckmans sågning av det svenska laget...inför Kanadamatchen. Inför semifinalerna då. Ja Magnusarna och L-G verkar överens när det gäller Tre Kronor-Finland. Schweiz-USA har de olika uppfattning om. Vil ni veta deras tips - lyssna på VM-podden! Programledare Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4560215.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130517_0400_e2f7e1.mp3</guid>
+                    <pubDate>Fri, 17 May 2013 02:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Vi gottar oss åt Tre Kronors härliga seger efter straffar mot Kanada och tittar framåt mot lördagens matcher. Magnus Wahlman är eld och lågor efter Tre Kronors seger i går och delar ut några extra plus till några svenska lirare. En spelare som han tidigare sågat - tar han til nåder. Magnus Arvedson förklarar vad Sedinarna betyder för det svenska laget. L-G Jansson sätter in segern mot Kanada i perspektiv - hur stor är bedriften egentligen om man tittar genom VM-historien. Han berättar också om danska coachen Pelle Bäckmans sågning av det svenska laget...inför Kanadamatchen. Inför semifinalerna då. Ja Magnusarna och L-G verkar överens när det gäller Tre Kronor-Finland. Schweiz-USA har de olika uppfattning om. Vil ni veta deras tips - lyssna på VM-podden! Programledare Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,17,maj:,Bragden,mot,Kanada,-,så,slutar,semifinalerna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4560215.mp3" length="15627022" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 16 maj: "Sverige är ett av turneringens farligaste lag nu"</title>
+                    <description>VM-podden handlar uteslutande om Kanada, Sverige kvartsfinalmotståndare i afton. Vi kommer höra superstjärnan Claude Giroux, som leder Kanadas fruktade förstakedja tillsammans med Steven Stamkos och Andrew Ladd. Dessutom hör vi Vancouver-backen Dan Hamhuis, som känner tvillingarna Sedin väl sedan tiden i Canucks. Dagens expert, som petar L-G Jansson och Magnus Arvedson, hämtar jag också från Kanada, journalisten Donna Spencer. Och så hör vi Jordan Eberle, forwarden som har varit med och slagits ut i just VM-kvartsfinal de tre senare åren.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4558508.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130516_0500_3e70c7d.mp3</guid>
+                    <pubDate>Thu, 16 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>VM-podden handlar uteslutande om Kanada, Sverige kvartsfinalmotståndare i afton. Vi kommer höra superstjärnan Claude Giroux, som leder Kanadas fruktade förstakedja tillsammans med Steven Stamkos och Andrew Ladd. Dessutom hör vi Vancouver-backen Dan Hamhuis, som känner tvillingarna Sedin väl sedan tiden i Canucks. Dagens expert, som petar L-G Jansson och Magnus Arvedson, hämtar jag också från Kanada, journalisten Donna Spencer. Och så hör vi Jordan Eberle, forwarden som har varit med och slagits ut i just VM-kvartsfinal de tre senare åren.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,16,maj:,"Sverige,är,ett,av,turneringens,farligaste,lag,nu"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4558508.mp3" length="8577331" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 15 maj: "Om Sverige slår Kanada är det VM:s största skräll"</title>
+                    <description>I dagens VM-podd ger vi sista ordet till Henrik Sedin, men före dess tippar expert L-G Jansson hur det kommer att gå i de fyra kvartsfinalerna som spelas i morgon (torsdag 16 maj).  Gäster: Lena Sundqvist, Peter Sundkvist och L-G Jansson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4557178.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130515_0500_443bfe.mp3</guid>
+                    <pubDate>Wed, 15 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens VM-podd ger vi sista ordet till Henrik Sedin, men före dess tippar expert L-G Jansson hur det kommer att gå i de fyra kvartsfinalerna som spelas i morgon (torsdag 16 maj).  Gäster: Lena Sundqvist, Peter Sundkvist och L-G Jansson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,15,maj:,"Om,Sverige,slår,Kanada,är,det,VM:s,största,skräll"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4557178.mp3" length="9204876" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 14 maj: "Allt favoritgodis i samma hög"</title>
+                    <description>Tidningsprofilernas Tre Kronor-analys, hur bra är den nya svenska superkedjan, Kanadas svaga Slovenieninsats och så slutar dagens sista omgången-dramatik. L-G Jansson och Lena Sundqvist samtalar programledaren Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4555603.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130514_0700_19ea4ce.mp3</guid>
+                    <pubDate>Tue, 14 May 2013 05:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Tidningsprofilernas Tre Kronor-analys, hur bra är den nya svenska superkedjan, Kanadas svaga Slovenieninsats och så slutar dagens sista omgången-dramatik. L-G Jansson och Lena Sundqvist samtalar programledaren Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,14,maj:,"Allt,favoritgodis,i,samma,hög"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4555603.mp3" length="13058337" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 13 maj - Kvartsfinalmotståndarsnack och hemligheten bakom Schweiz framgång</title>
+                    <description>Efter söndagens resultat talar nu allt för att Tre Kronor får möta Kanada i VM-kvarten på torsdag. Norsk seger över Schweiz hade ändrat förutsättningarna, men schweizarna fortsatte att imponera. Frågan är vad som är grejen med den stora VM-sensationen Schweiz som trots allt hade varit en drömmotståndare i kvarten. Iskalla fakta finns som talar för det. Magnus Wahlman och L-G Jansson samtalar med vikarierande programledaren Martin Hedberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4554002.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130513_0500_7ca217.mp3</guid>
+                    <pubDate>Mon, 13 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Efter söndagens resultat talar nu allt för att Tre Kronor får möta Kanada i VM-kvarten på torsdag. Norsk seger över Schweiz hade ändrat förutsättningarna, men schweizarna fortsatte att imponera. Frågan är vad som är grejen med den stora VM-sensationen Schweiz som trots allt hade varit en drömmotståndare i kvarten. Iskalla fakta finns som talar för det. Magnus Wahlman och L-G Jansson samtalar med vikarierande programledaren Martin Hedberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,13,maj,-,Kvartsfinalmotståndarsnack,och,hemligheten,bakom,Schweiz,framgång</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4554002.mp3" length="10722829" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 12 maj: "Du kan inte träffa några snällare människor än bröderna Sedin"</title>
+                    <description>I dagens avsnitt berättar den tidigare lagkamraten till bröderna Daniel och Henrik Sedin, Magnus Arvedson (som numer är Radiosportens expertkommentator) om Sedin-tvillingarnas speciella band till varandra. "De har aldrig varit osams med varandra", och "du kan inte träffa några snällare och trevligare människor på jorden" är Arvedsons ord om Sedinarna. Dessutom ställer vi oss frågande till varför Gabriel Landeskog struntar i att publiken buar ut Tre Kronor, som skedde i går mot Slovenien. Och så svarar expert Arvedson på en ny lyssnarfråga. Gäster: Magnus Wahlman, Peter Sundkvist och Magnus Arvedson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4553391.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130512_0500_46165d5.mp3</guid>
+                    <pubDate>Sun, 12 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens avsnitt berättar den tidigare lagkamraten till bröderna Daniel och Henrik Sedin, Magnus Arvedson (som numer är Radiosportens expertkommentator) om Sedin-tvillingarnas speciella band till varandra. "De har aldrig varit osams med varandra", och "du kan inte träffa några snällare och trevligare människor på jorden" är Arvedsons ord om Sedinarna. Dessutom ställer vi oss frågande till varför Gabriel Landeskog struntar i att publiken buar ut Tre Kronor, som skedde i går mot Slovenien. Och så svarar expert Arvedson på en ny lyssnarfråga. Gäster: Magnus Wahlman, Peter Sundkvist och Magnus Arvedson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,12,maj:,"Du,kan,inte,träffa,några,snällare,människor,än,bröderna,Sedin"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4553391.mp3" length="9493595" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 11 maj: "Spela VM max vartannat år"</title>
+                    <description>I dagens VM-podd svarar expert L-G Jansson på lyssnarnas frågor, men blir svarslös när det gäller påståendet om att Loui Eriksson slickar på sin handske efter att han har gjort mål. Dessutom förespråkar vi färre gruppspelsmatcher och färre VM-turneringar i ishockey. Och så blir det snack inför Slovenien-matchen samt Jimmie Ericssons mystiska magskada. Gäster: Radiosportens Peter Sundkvist och L-G Jansson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4552903.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130511_0500_46b62a7.mp3</guid>
+                    <pubDate>Sat, 11 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens VM-podd svarar expert L-G Jansson på lyssnarnas frågor, men blir svarslös när det gäller påståendet om att Loui Eriksson slickar på sin handske efter att han har gjort mål. Dessutom förespråkar vi färre gruppspelsmatcher och färre VM-turneringar i ishockey. Och så blir det snack inför Slovenien-matchen samt Jimmie Ericssons mystiska magskada. Gäster: Radiosportens Peter Sundkvist och L-G Jansson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,11,maj:,"Spela,VM,max,vartannat,år"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4552903.mp3" length="10998212" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 10 maj: "Jag tycker att man ska se ganska ljust på fortsättningen"</title>
+                    <description>Vi vänder blad och läser läxan baserad på den hockeylektion som Kanada gav oss i går kväll. Expertkommentator Magnus Arvedson har fortsatt hopp om en svenska VM-medalj, trots att mycket tyder på att Tre Kronor möter just Kanada i kvartsfinal. Lyssna på VM-podden 10 maj så förstår även du varför man inte ska ge upp hoppet om Tre Kronor. Gäster: Magnus Arvedson, Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4551576.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130510_0500_1c522e.mp3</guid>
+                    <pubDate>Fri, 10 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Vi vänder blad och läser läxan baserad på den hockeylektion som Kanada gav oss i går kväll. Expertkommentator Magnus Arvedson har fortsatt hopp om en svenska VM-medalj, trots att mycket tyder på att Tre Kronor möter just Kanada i kvartsfinal. Lyssna på VM-podden 10 maj så förstår även du varför man inte ska ge upp hoppet om Tre Kronor. Gäster: Magnus Arvedson, Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,10,maj:,"Jag,tycker,att,man,ska,se,ganska,ljust,på,fortsättningen"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4551576.mp3" length="8829038" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 9 maj: "Jag har mest bittra minnen från tidigare Kanada-matcher"</title>
+                    <description>Tre Kronor får svårt att undvika Kanada i kvartsfinal och ska Andreas Jämtin eller kanske Gabriel Landeskog spela bredvid bröderna Sedin? Speciell gäst i dagens VM-podd är Aftonbladets hockeykrönikör och reporter, Mats Wennerholm, som har bevakat hela 27 VM-turneringar i ishockey. Wennerholm diskuterar, tillsammans med Radiosportens Magnus Wahlman och expert L-G Jansson, vilka spelare som får maka på sig och får mindre istid när bröderna Sedin landar på lördag. Martin Hedbergs iskalla fakta ger rysningar inför en eventuell kvartsfinal mot Kanada. Sverge har nämligen bara besgrat transatlanterna en av sex gånger i utslagningsmatcher i VM på 2000-talet. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4550977.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130509_0500_58fe49.mp3</guid>
+                    <pubDate>Thu, 09 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Tre Kronor får svårt att undvika Kanada i kvartsfinal och ska Andreas Jämtin eller kanske Gabriel Landeskog spela bredvid bröderna Sedin? Speciell gäst i dagens VM-podd är Aftonbladets hockeykrönikör och reporter, Mats Wennerholm, som har bevakat hela 27 VM-turneringar i ishockey. Wennerholm diskuterar, tillsammans med Radiosportens Magnus Wahlman och expert L-G Jansson, vilka spelare som får maka på sig och får mindre istid när bröderna Sedin landar på lördag. Martin Hedbergs iskalla fakta ger rysningar inför en eventuell kvartsfinal mot Kanada. Sverge har nämligen bara besgrat transatlanterna en av sex gånger i utslagningsmatcher i VM på 2000-talet. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,9,maj:,"Jag,har,mest,bittra,minnen,från,tidigare,Kanada-matcher"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4550977.mp3" length="15960784" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 8 maj: "Norska spelarna såg ut som om de hade varit ute hela natten"</title>
+                    <description>Expert L-G Jansson varnar för ett respektlöst Norge och reporter Lena Sundqvist är rädd för att Kanada ska köra över Tre Kronor i morgon kväll. Sista ordet i dagens VM-podd går dock till Norges Patrick Thoresen och Kanadas Ryan O`Reilly, Tre Kronors kommande VM-motståndare. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4549502.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130508_0500_30ac72.mp3</guid>
+                    <pubDate>Wed, 08 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Expert L-G Jansson varnar för ett respektlöst Norge och reporter Lena Sundqvist är rädd för att Kanada ska köra över Tre Kronor i morgon kväll. Sista ordet i dagens VM-podd går dock till Norges Patrick Thoresen och Kanadas Ryan O`Reilly, Tre Kronors kommande VM-motståndare. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,8,maj:,"Norska,spelarna,såg,ut,som,om,de,hade,varit,ute,hela,natten"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4549502.mp3" length="10111101" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 7 maj: "Vi kan ju inte skicka hem Gabriel Landeskog"</title>
+                    <description>I dagens VM-podd förklarar VM-referent Magnus Wahlman varför han var så hård i sina kommentarer om Gabriel Landeskog under Tre Kronors match mot Vitryssland. Vi hyllar Schweiz, som överraskande leder Sveriges grupp och får en förklaring till varför laget har besegrat Tre Kronor, Kanada och Tjeckien. Dessutom undrar vi när Kanada ska börja få spelet att stämma. Expert L-G Jansson tror att det sker i kväll mot Norge. Och visst har de kanadensiska stjärnspelarna siktats vid Stureplan, men L-G Jansson och Magnus Wahlman vill inte tro på rykten som gör gällande att spelarna är ute sent om nätterna. Gäster: Radiosportens Lena Sundqvist, Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4547955.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130507_0500_417af7.mp3</guid>
+                    <pubDate>Tue, 07 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens VM-podd förklarar VM-referent Magnus Wahlman varför han var så hård i sina kommentarer om Gabriel Landeskog under Tre Kronors match mot Vitryssland. Vi hyllar Schweiz, som överraskande leder Sveriges grupp och får en förklaring till varför laget har besegrat Tre Kronor, Kanada och Tjeckien. Dessutom undrar vi när Kanada ska börja få spelet att stämma. Expert L-G Jansson tror att det sker i kväll mot Norge. Och visst har de kanadensiska stjärnspelarna siktats vid Stureplan, men L-G Jansson och Magnus Wahlman vill inte tro på rykten som gör gällande att spelarna är ute sent om nätterna. Gäster: Radiosportens Lena Sundqvist, Magnus Wahlman och L-G Jansson. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,7,maj:,"Vi,kan,ju,inte,skicka,hem,Gabriel,Landeskog"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4547955.mp3" length="13107792" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 6 maj: "Vad betyder 'ficka'?"</title>
+                    <description>Tre Kronors VM-back Nicklas Danielsson gästar VM-podden och snackar om den pågående VM-turneringen tillsammans med Radiosporten. Var på hockeyisen hittar man egentligen den så kallade "fickan"? Och varför växlar Danielsson och backkollegan Staffan Kronwall platser vid blålinjen? Svaren ges i VM-podden. Övriga gäster i dagens VM-podd: Radiosportens Magnus Wahlman, L-G Jansson och Lena Sundqvist. Redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4546423.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130506_0500_45f10ab.mp3</guid>
+                    <pubDate>Mon, 06 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Tre Kronors VM-back Nicklas Danielsson gästar VM-podden och snackar om den pågående VM-turneringen tillsammans med Radiosporten. Var på hockeyisen hittar man egentligen den så kallade "fickan"? Och varför växlar Danielsson och backkollegan Staffan Kronwall platser vid blålinjen? Svaren ges i VM-podden. Övriga gäster i dagens VM-podd: Radiosportens Magnus Wahlman, L-G Jansson och Lena Sundqvist. Redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,6,maj:,"Vad,betyder,'ficka'?"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4546423.mp3" length="10762867" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 5 maj: "Henrik Tallinders klubblad höll på att klyva mig"</title>
+                    <description>I dagens avsnit: Jhonas Enroth eller Jacob Markström? VM-podden dissikerar målvaktskampen. Och så hör vi om Henrik Tallinder, matchens gigant mot Tjeckien, som höll på att skada Radiosportens reporter Roger Burman samband med utvisningen i slutet av matchen. Dessutom snackar vi om Peter Bondra, vad man gör på en vilodag och den goda stämningen på läktarna i Globen.  Gäster: Radiosportens Roger Burman, Magnus Wahlman och Magnus Arvedson. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4545931.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130505_0500_4482c1.mp3</guid>
+                    <pubDate>Sun, 05 May 2013 03:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens avsnit: Jhonas Enroth eller Jacob Markström? VM-podden dissikerar målvaktskampen. Och så hör vi om Henrik Tallinder, matchens gigant mot Tjeckien, som höll på att skada Radiosportens reporter Roger Burman samband med utvisningen i slutet av matchen. Dessutom snackar vi om Peter Bondra, vad man gör på en vilodag och den goda stämningen på läktarna i Globen.  Gäster: Radiosportens Roger Burman, Magnus Wahlman och Magnus Arvedson. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,5,maj:,"Henrik,Tallinders,klubblad,höll,på,att,klyva,mig"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4545931.mp3" length="13365677" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden 4 maj: "Voracek är långhårig som ett elände"</title>
+                    <description>I dagens VM-podd ältar vi premiärförlusten mot Schweiz, andas framtidshopp inför kvällens möte med Tjeckien (vars spel passar Sverige bättre, enligt kommentator Magnus Wahlman). Dessutom hyllas och hånas Tjeckiens och Philadelphia Flyers storstjärna Jakub Voracek. Expert L-G Jansson är inte överförtjust i tjeckens hockeyfrilla.  Gäster i VM-podden: Radiosportens VM-kommentatorer Magnus Wahlman, Magnus Arvedson och L-G Jansson. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4545440.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130504_0400_223886.mp3</guid>
+                    <pubDate>Sat, 04 May 2013 02:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I dagens VM-podd ältar vi premiärförlusten mot Schweiz, andas framtidshopp inför kvällens möte med Tjeckien (vars spel passar Sverige bättre, enligt kommentator Magnus Wahlman). Dessutom hyllas och hånas Tjeckiens och Philadelphia Flyers storstjärna Jakub Voracek. Expert L-G Jansson är inte överförtjust i tjeckens hockeyfrilla.  Gäster i VM-podden: Radiosportens VM-kommentatorer Magnus Wahlman, Magnus Arvedson och L-G Jansson. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden,4,maj:,"Voracek,är,långhårig,som,ett,elände"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4545440.mp3" length="8320028" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-podden: Hemmaplansförbannelsen, målvaktskampen och uttalet av Loui Eriksson</title>
+                    <description>I det allra första avsnittet av Radiosportens VM-podd (en nära släkting till Hockeypodden) pratar Radiosportens Magnus Wahlman och Lars-Gunnar Jansson om sina personliga förväntningar inför det 77:e världsmästerskapet i ishockey. Hur ska Tre Kronor bryta hemmaplansförbannelsen? Blir Jacob Markström eller Jhonas Enrot förstemålvakt? Hur ska man egentligen uttala Loui Erikssons förnamn? Och så hör vi VM-ambassadören och förre Tre Kronor-hjälten Peter Forsberg prata om fördelen med ett landslag som inte har så många stjärnspelare. Redaktör och programledare Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4543676.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130502_1800_3ceaf76.mp3</guid>
+                    <pubDate>Thu, 02 May 2013 16:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I det allra första avsnittet av Radiosportens VM-podd (en nära släkting till Hockeypodden) pratar Radiosportens Magnus Wahlman och Lars-Gunnar Jansson om sina personliga förväntningar inför det 77:e världsmästerskapet i ishockey. Hur ska Tre Kronor bryta hemmaplansförbannelsen? Blir Jacob Markström eller Jhonas Enrot förstemålvakt? Hur ska man egentligen uttala Loui Erikssons förnamn? Och så hör vi VM-ambassadören och förre Tre Kronor-hjälten Peter Forsberg prata om fördelen med ett landslag som inte har så många stjärnspelare. Redaktör och programledare Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddVM-podden:,Hemmaplansförbannelsen,,målvaktskampen,och,uttalet,av,Loui,Eriksson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4543676.mp3" length="27043180" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hockeypodden blir VM-podden med start 2 maj</title>
+                    <description>Onsdag 24 april blir det ingen Hockeypodd. Men nästa vecka, med start torsdag 2 maj är vi tillbaka - i en delvis ny skepnad - med VM-podden. Ishockey-VM inleds dagen därpå, fredag 3 maj. Radiosportens VM-podd kommer du kunna höra varje dag fram till å med VM-finalen, som avgörs söndag den 19 maj. /Mvh, Martin Sundelius, Radiosporten</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4533925.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130424_1600_36ad834.mp3</guid>
+                    <pubDate>Wed, 24 Apr 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Onsdag 24 april blir det ingen Hockeypodd. Men nästa vecka, med start torsdag 2 maj är vi tillbaka - i en delvis ny skepnad - med VM-podden. Ishockey-VM inleds dagen därpå, fredag 3 maj. Radiosportens VM-podd kommer du kunna höra varje dag fram till å med VM-finalen, som avgörs söndag den 19 maj. /Mvh, Martin Sundelius, Radiosporten</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddHockeypodden,blir,VM-podden,med,start,2,maj</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4533925.mp3" length="766364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Viktor Arvidsson, Ole Gunnar Solskjaer och Fredrik Belfrage</title>
+                    <description>I veckans Hockeypodd hyllar vi Skellefteå AIK, som är på god väg mot klubbens andra SM-guld. Varför är de så överlägsna? Hur lät det när västerbottningarna vann sitt hittils enda guld 1978? Vi tar hjälp av Fredrik Belfrage. Och så snackar vi om SM-slutspelets svar på fotbollens super sub, norrmannen Ole Gunnar Solksjaer. Gäster: Radiosportens L-G Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4524424.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130417_1600_35a3232.mp3</guid>
+                    <pubDate>Wed, 17 Apr 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans Hockeypodd hyllar vi Skellefteå AIK, som är på god väg mot klubbens andra SM-guld. Varför är de så överlägsna? Hur lät det när västerbottningarna vann sitt hittils enda guld 1978? Vi tar hjälp av Fredrik Belfrage. Och så snackar vi om SM-slutspelets svar på fotbollens super sub, norrmannen Ole Gunnar Solksjaer. Gäster: Radiosportens L-G Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddViktor,Arvidsson,,Ole,Gunnar,Solskjaer,och,Fredrik,Belfrage</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4524424.mp3" length="34530568" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stadskampen: Skellefteå vs Luleå &amp; är hockey en svårare sport än fotboll?</title>
+                    <description>Veckans Hockeypodd ägnas nästan uteslutande åt SM-finalserien mellan Skellefteå och Luleå. Varför dominerar Västerbotten och Norrbotten svensk ishockey? Vilken kommun är egentligen bäst att bo i? Och vilken finalstads musik håller L-G Jansson och Magnus Wahlman högst - The Wannadies eller Mattias Alkberg? Fotbollsexpert Richard Henriksson gästar Hockeypodden för att bemöta L-G Janssons påstående om att ishockey är den svåraste lagsporten. Dessutom listar Jansson fem punkter som kommer att avgöra finalserien.  Gäster: Magnus Wahlman, L-G Jansson och Richard Henriksson.  Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4514324.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130410_1600_38caa29.mp3</guid>
+                    <pubDate>Wed, 10 Apr 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Veckans Hockeypodd ägnas nästan uteslutande åt SM-finalserien mellan Skellefteå och Luleå. Varför dominerar Västerbotten och Norrbotten svensk ishockey? Vilken kommun är egentligen bäst att bo i? Och vilken finalstads musik håller L-G Jansson och Magnus Wahlman högst - The Wannadies eller Mattias Alkberg? Fotbollsexpert Richard Henriksson gästar Hockeypodden för att bemöta L-G Janssons påstående om att ishockey är den svåraste lagsporten. Dessutom listar Jansson fem punkter som kommer att avgöra finalserien.  Gäster: Magnus Wahlman, L-G Jansson och Richard Henriksson.  Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddStadskampen:,Skellefteå,vs,Luleå,&amp;,är,hockey,en,svårare,sport,än,fotboll?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4514324.mp3" length="38421776" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Minifiasko i hockey-VM, "trash talk" och tips till elitserienykomlingarna</title>
+                    <description>I veckans Hockeypodd listar expert L-G Jansson SM-slutspelets tre mest lysande stjärnor, vi får en dyster VM-rapport från Ottawa och så ifrågasätter vi ishockeyspelarnas hårda ord till varandra. Varför så grovt "trash talk"? Gäster: Radiosportens Magnus Wahlman och L-G Jansson. Programledare och redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4503460.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130403_1600_36936ab.mp3</guid>
+                    <pubDate>Wed, 03 Apr 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans Hockeypodd listar expert L-G Jansson SM-slutspelets tre mest lysande stjärnor, vi får en dyster VM-rapport från Ottawa och så ifrågasätter vi ishockeyspelarnas hårda ord till varandra. Varför så grovt "trash talk"? Gäster: Radiosportens Magnus Wahlman och L-G Jansson. Programledare och redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddMinifiasko,i,hockey-VM,,"trash,talk",och,tips,till,elitserienykomlingarna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4503460.mp3" length="34488186" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>SM-semifinaler, kvalserieskräck, slutspelsskägg &amp; "Bergenström är Russel Crowe"</title>
+                    <description>Det blir både humor och allvar i veckans Hockeypodd. Kvalserien skärskådas, SM-semifinalerna vänds ut och in och Emil Kåberg kommenterar sitt vildvuxna slutspelsskägg. Dessutom dyker Radiosportens Bengt Skött upp och påstår att Leksands Jens Bergenström är lik skådespelaren Russel Crowe. Gäster i studion: Radiosportens LG Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4494777.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130327_1700_38278a4.mp3</guid>
+                    <pubDate>Wed, 27 Mar 2013 15:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Det blir både humor och allvar i veckans Hockeypodd. Kvalserien skärskådas, SM-semifinalerna vänds ut och in och Emil Kåberg kommenterar sitt vildvuxna slutspelsskägg. Dessutom dyker Radiosportens Bengt Skött upp och påstår att Leksands Jens Bergenström är lik skådespelaren Russel Crowe. Gäster i studion: Radiosportens LG Jansson och Magnus Wahlman. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddSM-semifinaler,,kvalserieskräck,,slutspelsskägg,&amp;,"Bergenström,är,Russel,Crowe"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4494777.mp3" length="33005425" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Domarkritik, slutspelsgrisar och Brynäs ovissa framtid</title>
+                    <description>I Radiosportens Hockeypodd den här veckan blir det domarkritik - varför slutar vissa domare blåsa för utvisning i slutet av matcherna i slutspelet?  Hur ska de regerande svenska mästarna Brynäs ska gå vidare efter den misslyckade säsongen? Och vilka spelare har förmågan att sätta andra spelare ur balans? Vem är SM-slutspelets värste "gris"? Gäster: Radiosportens hockeyexpert L-G Jansson och referent Magnus Wahlman. Programledare och redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4483038.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130320_1600_355c5f4.mp3</guid>
+                    <pubDate>Wed, 20 Mar 2013 14:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I Radiosportens Hockeypodd den här veckan blir det domarkritik - varför slutar vissa domare blåsa för utvisning i slutet av matcherna i slutspelet?  Hur ska de regerande svenska mästarna Brynäs ska gå vidare efter den misslyckade säsongen? Och vilka spelare har förmågan att sätta andra spelare ur balans? Vem är SM-slutspelets värste "gris"? Gäster: Radiosportens hockeyexpert L-G Jansson och referent Magnus Wahlman. Programledare och redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddDomarkritik,,slutspelsgrisar,och,Brynäs,ovissa,framtid</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4483038.mp3" length="35728095" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Så slutar kvalserien, "åka mycket skridskor" - och andra hockeyklyschor</title>
+                    <description>I veckans avsnitt av Radiosportens Hockeypodd snackar  om det pågående SM-slutspelet. Men vi reder även ut om det var Radiosportens Mats Dahlberg som uppfann kvalserien. Gäster i studion är expertkommentator L-G Jansson, som bland annat ska tippa utgången av kvalserien, och hockeyreferent Lena Sundqvist. Vi diskuterar huruvida våldsamma tacklingar, likt den som Brynäs Robin Jacobsson satte in mot Pierre Edouard Bellemare, hör hemma i ett slutspel eller inte. Dessutom bjuds det på klassiska hockeyklyschor, som vi har tröttnat på. Ottawas Jacob Silfverberg, Modos Niklas Sundström och Färjestads tränare Leif Carlsson bidrar med några exempel. Och Vad betyder egentligen uttrycket "åka mycket skridskor"?   Programledare och redaktör: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4470953.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130313_1700_3a8b36b.mp3</guid>
+                    <pubDate>Wed, 13 Mar 2013 15:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I veckans avsnitt av Radiosportens Hockeypodd snackar  om det pågående SM-slutspelet. Men vi reder även ut om det var Radiosportens Mats Dahlberg som uppfann kvalserien. Gäster i studion är expertkommentator L-G Jansson, som bland annat ska tippa utgången av kvalserien, och hockeyreferent Lena Sundqvist. Vi diskuterar huruvida våldsamma tacklingar, likt den som Brynäs Robin Jacobsson satte in mot Pierre Edouard Bellemare, hör hemma i ett slutspel eller inte. Dessutom bjuds det på klassiska hockeyklyschor, som vi har tröttnat på. Ottawas Jacob Silfverberg, Modos Niklas Sundström och Färjestads tränare Leif Carlsson bidrar med några exempel. Och Vad betyder egentligen uttrycket "åka mycket skridskor"?   Programledare och redaktör: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddSå,slutar,kvalserien,,"åka,mycket,skridskor",-,och,andra,hockeyklyschor</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4470953.mp3" length="32840615" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>De vinner sina SM-kvartsfinaler - och så bör elitserien förändras</title>
+                    <description>I premiäravsnittet av Radiosportens Hockeypodd dissikerar vi slutspelsvalen, tippar SM-vinnaren och föreslår en förändring av elitserien. Dessutom plockar expertkommentator Lars-Gunnar Jansson ut en nyckelspelare i respektive slutspelslag, vi pratar slutspelsstatistik och vinnarkultur samt går på djupet kring fenomenet slutspelshockey - trots mothugg från LHC:s Carl Söderberg om att slutspelshockey är en myt. Gäster: Lena Sundqvist och L-G Jansson. Redaktör och programledare: Martin Sundelius.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4458950.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130306_1900_40db044.mp3</guid>
+                    <pubDate>Wed, 06 Mar 2013 17:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>I premiäravsnittet av Radiosportens Hockeypodd dissikerar vi slutspelsvalen, tippar SM-vinnaren och föreslår en förändring av elitserien. Dessutom plockar expertkommentator Lars-Gunnar Jansson ut en nyckelspelare i respektive slutspelslag, vi pratar slutspelsstatistik och vinnarkultur samt går på djupet kring fenomenet slutspelshockey - trots mothugg från LHC:s Carl Söderberg om att slutspelshockey är en myt. Gäster: Lena Sundqvist och L-G Jansson. Redaktör och programledare: Martin Sundelius.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddDe,vinner,sina,SM-kvartsfinaler,-,och,så,bör,elitserien,förändras</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4458950.mp3" length="52044058" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det här är Radiosportens Hockeypodd</title>
+                    <description>Vad är Radiosportens Hockeypodd. Programledaren och redaktören Martin Sundelius förklarar här vad de hockeyintresserade lyssnarna har att se fram emot. Eller höra fram emot.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4455619.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sport_hockeypodden_20130305_1100_27d9786.mp3</guid>
+                    <pubDate>Tue, 05 Mar 2013 09:00:00 GMT</pubDate>
+                    <programid>4468</programid>
+                    <poddid>19144</poddid>
+                    <itunes:summary>Vad är Radiosportens Hockeypodd. Programledaren och redaktören Martin Sundelius förklarar här vad de hockeyintresserade lyssnarna har att se fram emot. Eller höra fram emot.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Radiosportens,hockeypoddDet,här,är,Radiosportens,Hockeypodd</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4455619.mp3" length="1428382" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

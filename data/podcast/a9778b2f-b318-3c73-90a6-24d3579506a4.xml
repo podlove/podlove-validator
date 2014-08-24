@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Content-Length" value="3805"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Last-Modified" value="Wed, 04 Jun 2014 05:49:35 GMT"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="ETag" value="&#34;2a72c2c3b87fcf1:e7e&#34;"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/6.0"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:22:56 GMT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>狗熊有话说视频版</title>
+                <link>http://beartalking.com</link>
+                <language>zh-CN</language>
+                <copyright>Copyright @大狗熊</copyright>
+                <itunes:subtitle>狗熊有话说视频版</itunes:subtitle>
+                <itunes:author>大狗熊</itunes:author>
+                <itunes:summary>独立播客《狗熊有话说》视频版，内容更精彩，观点更有料；设计、思考与生活，来看狗熊有话说！www.beartalking.com 微博：@i大狗熊，微信：@狗熊有话说</itunes:summary>
+                <description>独立播客《狗熊有话说》视频版，内容更精彩，观点更有料；设计、思考与生活，来看狗熊有话说！www.beartalking.com 微博：@i大狗熊，微信：@狗熊有话说</description>
+                <itunes:owner>
+                    <itunes:name>狗熊有话说视频版</itunes:name>
+                    <itunes:email>bearbigtalk@gmail.com</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://42.121.19.82:8010/pic/BearTalkVideo_Cover_1400.jpg"/>
+                <itunes:category text="Technology">
+                    <itunes:category text="Gadgets"/>
+                </itunes:category>
+                <itunes:category text="Arts">
+                    <itunes:category text="Design"/>
+                </itunes:category>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Places &amp; Travel"/>
+                </itunes:category>
+                <item>
+                    <title>Vol.02 旅行·旧金山印象</title>
+                    <itunes:author>大狗熊</itunes:author>
+                    <itunes:subtitle>Vol.002 旅行·旧金山印象</itunes:subtitle>
+                    <itunes:summary>
+美国小说家、剧作家威廉·萨洛扬说过：“如果你还活着，旧金山不会让你厌倦，如果你已经死了，旧金山会让你起死回生。”在旧金山待了几天时间，自然只能是走马观花，但即使这样，这座城市依然给我留下了深刻的印象。你对这个结合了科技和人文的美丽城市感兴趣么？我知道你的答案肯定是Yes，看看这个关于旧金山的视频旅行日志，你也会喜欢上这个城市的！独立播客《狗熊有话说》视频版，内容更精彩，观点更有料；设计、思考与生活，来看狗熊有话说！beartalking.com
+</itunes:summary>
+                    <itunes:image href="http://42.121.19.82:8010/pic/video_02.jpg"/>
+                    <enclosure url="http://iclubkm.com/video/sanFrancisco_impression_480p.mp4" length="68972844" type="video/mp4"/>
+                    <guid>http://iclubkm.com/video/sanFrancisco_impression_480p.mp4</guid>
+                    <pubDate>Wed, 04 Jun 2014 00:48:36 +0800</pubDate>
+                    <itunes:duration>00:04:20</itunes:duration>
+                </item>
+                <item>
+                    <title>Vol.01 科技·直击旧金山Macworld 2014</title>
+                    <itunes:author>大狗熊</itunes:author>
+                    <itunes:subtitle>Vol.001 科技·直击旧金山Macworld 2014</itunes:subtitle>
+                    <itunes:summary>
+旧金山湾区是科技宅男们向往的地方，这里不仅有着美景、美女和美食，更有着苹果、Google、Facebook等众多科技公司总部和几乎全年无休的技术与文化类的交流活动。2014年3月27日至29日，果粉和科技爱好者们凑热闹的大Party：Macworld iWorld在旧金山举行。作为科技播客《狗熊有话说》的主播，大狗熊也去了现场，就让咱们一起来看看，全球的果粉和科技宅男们聚到一起，会凑出什么样的热闹？独立播客《狗熊有话说》视频版，内容更精彩，观点更有料；设计、思考与生活，来看狗熊有话说！beartalking.com
+</itunes:summary>
+                    <itunes:image href="http://42.121.19.82:8010/pic/video_01.jpg"/>
+                    <enclosure url="http://iclubkm.com/video/macworld2014_sf_720p.mp4" length="89402292" type="video/mp4"/>
+                    <guid>http://iclubkm.com/video/macworld2014_sf_720p.mp4</guid>
+                    <pubDate>Mon, 14 Apr 2014 00:48:36 +0800</pubDate>
+                    <itunes:duration>00:05:37</itunes:duration>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

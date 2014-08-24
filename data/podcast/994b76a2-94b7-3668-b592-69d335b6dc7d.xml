@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="404">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.4.4"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:47:10 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.27-1~dotdeb.0"/>
+        <httpclient:header name="Vary" value="Cookie"/>
+        <httpclient:header name="X-Pingback" value="http://appleinsider.ru/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;fdd4313152b1a50eb4cce88d81f4d429&#34;"/>
+        <httpclient:header name="Expires" value="Wed, 11 Jan 1984 05:00:00 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:47:10 GMT"/>
+        <httpclient:header name="Cache-Control" value="no-cache, must-revalidate, max-age=0"/>
+        <httpclient:header name="Pragma" value="no-cache"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss version="0.92">
+            <channel>
+                <title>AppleInsider.ru – Блог об Apple » Страница не найдена</title>
+                <link>http://appleinsider.ru</link>
+                <description>Все об Apple, iPhone, iPad, iPod, iMac, MacBook</description>
+                <lastBuildDate>Wed, 20 Aug 2014 09:00:34 +0000</lastBuildDate>
+                <docs>http://backend.userland.com/rss092</docs>
+                <language>ru</language>
+	<!-- generator="WordPress/3.3.1" -->
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

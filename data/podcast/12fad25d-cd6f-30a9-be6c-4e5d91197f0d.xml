@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:15:06 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Pingback" value="http://1337kultur.de/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Mon, 18 Aug 2014 07:11:26 GMT"/>
+        <httpclient:header name="ETag" value="&#34;9051aba674900c4106355c91311fa992&#34;"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+            <channel>
+                <title>1337@kultur:~$</title>
+                <link>http://1337kultur.de</link>
+                <description>Kultur aus der Nerdperspektive</description>
+                <lastBuildDate>Mon, 18 Aug 2014 07:11:26 +0000</lastBuildDate>
+                <atom:link rel="self" type="application/rss+xml" title="1337@kultur:~$ (1337 Kultur - AAC )" href="http://1337kultur.de/feed/podcast-aac/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="1337@kultur:~$ (MP3 Audio)" href="http://1337kultur.de/feed/podcast/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="1337@kultur:~$ (1337 Kultur - OGG )" href="http://1337kultur.de/feed/podcast-ogg/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="1337@kultur:~$ (1337 Kultur - Opus)" href="http://1337kultur.de/feed/podcast-opus/"/>
+                <atom:link rel="first" href="http://1337kultur.de/feed/podcast-aac/"/>
+                <language>de-DE</language>
+                <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
+                <itunes:author>Martin 'maha' Haase</itunes:author>
+                <itunes:summary/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Philosophy"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>Martin Haase</itunes:name>
+                    <itunes:email>mail@martinhaase.de</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://1337kultur.de/wp-content/uploads/2014/04/ITunes.png"/>
+                <itunes:subtitle>Kultur aus der Nerdperspektive</itunes:subtitle>
+                <itunes:keywords/>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>Folge 41: Podstockauf der Blümchenwiese</title>
+                    <link>http://1337kultur.de/2014/folge-41-podstock/</link>
+                    <pubDate>Sun, 17 Aug 2014 22:00:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-08-10t13:26:13+00:00-c9af0c0cc51415a</guid>
+                    <description>&lt;a href="http://schiller40.net/"&gt;Vorstellung des Schiller40&lt;/a&gt;
+&lt;a href="http://branko-canak.de/"&gt;Branko ?anak aus Paderborn&lt;/a&gt;  
+&lt;a href="http://www.culinaricast.de/"&gt;Sven Menke vom Culinaricast&lt;/a&gt;  
+&lt;a href="http://podstock.de"&gt;podstock.de&lt;/a&gt;  
+&lt;a href="http://hoersuppe.de/"&gt;hörsuppe&lt;/a&gt;  
+&lt;a href="http://hannover.ccc.de/"&gt;Leitstelle511&lt;/a&gt;  
+&lt;a href="http://xenim.de/"&gt;Streamingplattform xenim.de&lt;/a&gt;  
+&lt;a href="https://netzpolitik.org/2007/4525/"&gt;Bluemchenwiese&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Gabriela_Montero"&gt;Gabriela Montero&lt;/a&gt;  
+&lt;a href="https://www.redbull.com/cs/Satellite/de_AT/Article/Red-Bull-Flying-Bach-Fugen-und-Footwork-021243114487552"&gt;Footwork und Fugen&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Ffolge-41-podstock%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+41%3A+Podstockauf+der+Bl%C3%BCmchenwiese&amp;tags=allgemeines%2Cpodcasts%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="00:00:11.539" title="Intro"/>
+                        <psc:chapter start="00:00:28.378" title="Begrüßung"/>
+                        <psc:chapter start="00:01:35.109" title="Christian Cordes und das Schiller40"/>
+                        <psc:chapter start="00:05:20.432" title="Das Podstockfestival" href="http://podstock.de/"/>
+                        <psc:chapter start="00:06:10.477" title="Was ist PodStock?" href="http://podstock.de/"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/folge-41-podstock/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/553/s/feed/c/podcast-aac/LK041_Podstock.m4a" length="36817108" type="audio/mp4"/>
+                    <itunes:duration>01:12:30</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha spricht mit Christian Cordes über das Podstock-Camp bzw. -Festival Ende August 2014.</itunes:subtitle>
+                    <itunes:summary>Vorstellung des Schiller40
+Branko ?anak aus Paderborn  
+Sven Menke vom Culinaricast  
+podstock.de  
+hörsuppe  
+Leitstelle511  
+Streamingplattform xenim.de  
+Bluemchenwiese  
+Gabriela Montero  
+Footwork und Fugen</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 40: Jurisprudenz</title>
+                    <link>http://1337kultur.de/2014/folge-40-jursiprudenz/</link>
+                    <pubDate>Sun, 10 Aug 2014 22:00:47 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-08-10t12:39:40+00:00-b599d656bb2ee5c</guid>
+                    <description>&lt;a href="http://dfg-viewer.de/show/?set[mets]=http%3A//digitale.bibliothek.uni-halle.de%2Foai%2F%3Fverb%3DGetRecord%26metadataPrefix%3Dmets%26identifier%3D661553"&gt;Leipziger Kleiderordnung&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Gerhard_Anger"&gt;Gerhard Anger&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Drei%C3%9Figj%C3%A4hriger_Krieg"&gt;30 jähriger Krieg&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Lutherbibel"&gt;Luther-Bibel&lt;/a&gt;  
+&lt;a href="http://www.gesetze-im-internet.de/bgb/__961.html"&gt;Bienenrecht&lt;/a&gt;  
+&lt;a href="http://www.amazon.de/Juristische-Rhetorik-Fritjof-Haft/dp/3495476881"&gt;Buch über juristische Rhetorik&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Sittenwidrigkeit"&gt;Sittenwidrigkeit&lt;/a&gt;  
+&lt;a href="http://www.gesetze-im-internet.de/battg/index.html"&gt;Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren&lt;/a&gt;  
+&lt;a href="http://www.assemblee-nationale.fr/histoire/dudh/1789.asp"&gt;Déclaration des droits de l’Homme et du citoyen&lt;/a&gt;
+&lt;a href="https://commons.wikimedia.org/wiki/File:Berlin_.Gendarmenmarkt_.Deutscher_Dom_006.jpg"&gt;Übersetzung herausgegeben von Andreas Meyer&lt;/a&gt;  
+&lt;a href="http://www.partyschnaps.com/"&gt;Ficken&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Allgemeine_Erkl%C3%A4rung_der_Menschenrechte"&gt;Allgemeine Erklärung der Menschenrechte&lt;/a&gt;
+&lt;a href="http://www.un.org/depts/german/menschenrechte/aemr.pdf"&gt;Originaltext&lt;/a&gt;  
+&lt;a href="http://www.servat.unibe.ch/dfr/bv006389.html"&gt;Verfassungsbeschwerden bzgl. Homosexualität&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/%C2%A7_175"&gt;Paragraph 175 des Strafgesetzbuchs&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Sittengesetz"&gt;Sittengesetz&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Europ%C3%A4ische_Menschenrechtskonvention"&gt;Europäische Konvention der Menschenrechte&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Europarat"&gt;Europarat&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Katzenk%C3%B6nigfall"&gt;Der Katzenkönig&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Siriusfall"&gt;Siriusfall&lt;/a&gt;  
+&lt;a href="http://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&amp;Art=en&amp;nr=36317&amp;pos=0&amp;anz=1"&gt;Cevapcici-Fall&lt;/a&gt;  
+&lt;a href="http://www.kostenlose-urteile.de/OLG-Duesseldorf_18-U-15693_Gefraessiges-Zirkusschwein-Frachtfuehrer-erhaelt-keinen-Schadenersatz-wegen-Transportschaeden-durch-ein-Schwein.news16251.htm"&gt;Das gefräßige Zirkusschwein&lt;/a&gt;  
+&lt;a href="http://openjur.de/u/147981.html"&gt;Himalayasalz&lt;/a&gt;  
+&lt;a href="http://1337kultur.de/2014/folge-36-arkane-texte/"&gt;Email-Disclaimer bei 1337Kultur&lt;/a&gt;  
+&lt;a href="http://john-d.soup.io/post/91548130/Datensch-tzerkl-rung-Wir-sammeln-einmal-alles"&gt;Maha verliest die Datenschutzerklärung des 27c3&lt;/a&gt;  
+&lt;a href="http://www.amazon.co.uk/Weird-Cases-Bizarre-Courtrooms-around/dp/0854900616/ref=pd_bxgy_b_text_y"&gt;Buchempfehlung: Weird Cases&lt;/a&gt;  
+&lt;a href="https://lawblog.de/"&gt;law blog&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Ffolge-40-jursiprudenz%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+40%3A+Jurisprudenz&amp;tags=b%C3%BCcher%2Cgeschichte%2Cjura%2Clesung%2Cliteratur%2Csprache%2Cwissenschaft%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="00:00:17.515" title="Intro"/>
+                        <psc:chapter start="00:00:33.929" title="Begrüßung"/>
+                        <psc:chapter start="00:02:34.753" title="Leipziger Kleiderordnung" href="http://dfg-viewer.de/show/?set[mets]=http%3A//digitale.bibliothek.uni-halle.de%2Foai%2F%3Fverb%3DGetRecord%26metadataPrefix%3Dmets%26identifier%3D661553"/>
+                        <psc:chapter start="00:12:03.947" title="die 10 Gebote" href="https://de.wikipedia.org/wiki/Zehn_Gebote#mediaviewer/Datei:Decalogue_parchment_by_Jekuthiel_Sofer_1768.jpg"/>
+                        <psc:chapter start="00:27:31.156" title="Batteriegesetz" href="https://de.wikipedia.org/wiki/Batterie_(Elektrotechnik)#mediaviewer/Datei:Volta_batteries.jpg"/>
+                        <psc:chapter start="00:38:31.912" title="Déclaration des droits de l'Homme et du citoyen" href="https://upload.wikimedia.org/wikipedia/commons/6/6c/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg"/>
+                        <psc:chapter start="00:51:13.197" title="Likör-Urteil"/>
+                        <psc:chapter start="01:01:50.722" title="Allgemeine Erklärung der Menschenrechte" href="https://de.wikipedia.org/wiki/Allgemeine_Erklärung_der_Menschenrechte#mediaviewer/Datei:Stamp_Germany_1998_MiNr2026_Erklärung_Menschenrechte.jpg"/>
+                        <psc:chapter start="01:12:12.357" title="Verfassungsbeschwerden bzgl. Homosexualität" href="https://de.wikipedia.org/wiki/Homosexualität#mediaviewer/Datei:Homosexual.jpg"/>
+                        <psc:chapter start="01:27:38.097" title="Europäische Konvention der Menschenrechte" href="https://de.wikipedia.org/wiki/Europarat#mediaviewer/Datei:Council-of-europe.svg"/>
+                        <psc:chapter start="01:31:28.051" title="Der Katzenkönig" href="https://commons.wikimedia.org/wiki/File:Cat_silhouette.svg?uselang=de"/>
+                        <psc:chapter start="01:58:25.120" title="Disclaimer und Datenschutzerklärung" href="https://de.wikipedia.org/wiki/Datei:Logo_CCC.svg"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/folge-40-jursiprudenz/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/544/s/feed/c/podcast-aac/LK040_Jursiprudenz.m4a" length="63548377" type="audio/mp4"/>
+                    <itunes:duration>02:04:01</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Gerhard Anger und maha – beide keine Juristen – unterhalten sich über juristische Texte und lesen aus ihnen vor.</itunes:subtitle>
+                    <itunes:summary>Leipziger Kleiderordnung
+Gerhard Anger  
+30 jähriger Krieg  
+Luther-Bibel  
+Bienenrecht  
+Buch über juristische Rhetorik  
+Sittenwidrigkeit  
+Gesetz über das Inverkehrbringen, die Rücknahme und die umweltverträgliche Entsorgung von Batterien und Akkumulatoren  
+Déclaration des droits de l’Homme et du citoyen
+Übersetzung herausgegeben von Andreas Meyer  
+Ficken  
+Allgemeine Erklärung der Menschenrechte
+Originaltext  
+Verfassungsbeschwerden bzgl. Homosexualität
+Paragraph 175 des Strafgesetzbuchs  
+Sittengesetz
+Europäische Konvention der Menschenrechte
+Europarat  
+Der Katzenkönig
+Siriusfall  
+Cevapcici-Fall  
+Das gefräßige Zirkusschwein  
+Himalayasalz  
+Email-Disclaimer bei 1337Kultur  
+Maha verliest die Datenschutzerklärung des 27c3  
+Buchempfehlung: Weird Cases  
+law blog</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 39: Daheim im Raum:Babylon 5</title>
+                    <link>http://1337kultur.de/2014/folge-39-babylon-5/</link>
+                    <pubDate>Tue, 29 Jul 2014 22:00:20 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-07-07t19:02:15+00:00-9c58768ded5ef07</guid>
+                    <description>Maha und L0tho unterhalten sich über die Fernsehserie Babylon 5.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Ffolge-39-babylon-5%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+39%3A+Daheim+im+Raum%3ABabylon+5&amp;tags=sciencefiction%2Cserien%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="00:00:13.287" title="Intro"/>
+                        <psc:chapter start="00:00:29.700" title="Vorstellung, Allgemeines"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/folge-39-babylon-5/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/516/s/feed/c/podcast-aac/LK039-Babylon5.m4a" length="42104163" type="audio/mp4"/>
+                    <itunes:duration>01:24:57</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha und L0tho unterhalten sich über die Fernsehserie Babylon 5.</itunes:subtitle>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 38:Wüst und nicht leer: Dune</title>
+                    <link>http://1337kultur.de/2014/dune/</link>
+                    <pubDate>Sun, 22 Jun 2014 22:00:49 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-16t08:27:16+00:00-804295334516265</guid>
+                    <description>&lt;a href="https://de.wikipedia.org/wiki/Dune_%E2%80%93_die_erste_Trilogie"&gt;Dune: Bücher und Film&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Frank_Herbert"&gt;Autor Frank Herbert&lt;/a&gt; &lt;br /&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Dune_%28novel%29"&gt;Dune/Der Wüstenplanet&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/The_White_Plague"&gt;Die weiße Pest&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Begriffe_der_Dune-Zyklen#Gew.C3.BCrz_.28Spice.29"&gt;spice&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Spice_%28Dune%29"&gt;spice&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Zimt"&gt;Zimt&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Bene_Gesserit"&gt;Orden der Bene Gesserit&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Paul_Atreides"&gt;Paul Atreides, Sohn der beiden&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Begriffe_der_Dune-Zyklen#Die_Stimme"&gt;Die Technik der Stimme&lt;/a&gt;  
+&lt;a href="http://www.imdb.com/title/tt0087182/"&gt;Verfilmung von 1984&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Hansruedi_Giger"&gt;Einflüsse auf David Lynchs Verfilmung, z.B. H.R.Giger&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Steam_punk"&gt;Steam Punk&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Der_W%C3%BCstenplanet_%28Film%29"&gt;Weiteres zum Film von 1984 von David Lynch&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Der_W%C3%BCstenplanet_%28Film%29#Alan_Smithees_TV-Version"&gt;verschiedene Versionen, z.B&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/David_Lynch"&gt;David Lynch&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Dune_%E2%80%93_Der_W%C3%BCstenplanet"&gt;Neuverfilmung als Science-Fiction-Miniserie aus dem Jahr 2000: Frank Herbert’s Dune (Deutscher Titel: Dune – Der Wüstenplanet)&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Children_of_Dune"&gt;Fortsetzung der 2000er Dune-Miniserie aus dem Jahr 2003: Children of Dune (Deutscher Titel: Dune – Die Trilogie)&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Vladimir_Harkonnen"&gt;Baron Harkonnen, gespielt von Ian McNeice im Film von 19984 und 2000&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Sandworm_%28Dune%29"&gt;Sandwürmer&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Begriffe_der_Dune-Zyklen#Fahrzeuge"&gt;Spice: Art, Vorkommen, Abbau, Sandwürmer, Fahrzeuge&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Begriffe_der_Dune-Zyklen#Fremen"&gt;Fremen&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Re:publica"&gt;re:publica&lt;/a&gt;  
+&lt;a href="http://www.re-publica.de/session/freiheit-und-vorhersage-ueber-ethischen-grenzen-big-data"&gt;Big Data Referenz&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Internet_Movie_Database"&gt;Internet Movie Database (IMDb) existiert bereits seit 1990&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Ornithopter_%28Dune%29#Atomics"&gt;Atomenergie&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/List_of_games_based_on_Dune"&gt;Spiele, basierend auf Dune&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Dune_%28video_game%29"&gt;der Spiele-Klassiker: Dune von 1992&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Handlungsorte_der_Dune-Zyklen"&gt;Handlungsorte&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Begriffe_der_Dune-Zyklen"&gt;Begriffe&lt;/a&gt;
+&lt;a href="http://dune.wikia.com/wiki/Main_Page"&gt;Dune Wiki&lt;/a&gt;
+&lt;a href="http://www.dunenovels.com/"&gt;Dune-Bücher&lt;/a&gt;
+&lt;a href="http://de.wikipedia.org/wiki/Wikipedia:WikiProjekt_Dune#Allgemein"&gt;Dune in der Wikipeda&lt;/a&gt;
+&lt;a href="http://www.denofgeek.com/movies/18726/the-fall-and-rise-of-alejandro-jodorowskys-dune"&gt;Alejandro Jodorowsky’s Dune movie never made it to the screen, but the production’s legend lives on, as a new documentary charts its making&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Fdune%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+38%3AW%C3%BCst+und+nicht+leer%3A+Dune&amp;tags=b%C3%BCcher%2Cfilme%2Ckino%2Cliteratur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="00:00:16.110" title="Intro"/>
+                        <psc:chapter start="00:00:33.038" title="Vorstellung"/>
+                        <psc:chapter start="00:06:37.226" title="Dune-Bücher"/>
+                        <psc:chapter start="00:52:55.436" title="Verfilmungen"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/dune/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/375/s/feed/c/podcast-aac/LK039_Dune.m4a" length="61584969" type="audio/mp4"/>
+                    <itunes:duration>02:04:23</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha spricht mit Patrick Willam über Dune, den Wüstenplaneten: Buchreihe, Filme, Spinoffs. Dabei versuchen wir natürlich, möglichst wenig zu spoilern.</itunes:subtitle>
+                    <itunes:summary>Dune: Bücher und Film
+Autor Frank Herbert 
+Dune/Der Wüstenplanet
+Die weiße Pest
+spice  
+spice  
+Zimt  
+Orden der Bene Gesserit  
+Paul Atreides, Sohn der beiden  
+Die Technik der Stimme  
+Verfilmung von 1984  
+Einflüsse auf David Lynchs Verfilmung, z.B. H.R.Giger  
+Steam Punk  
+Weiteres zum Film von 1984 von David Lynch  
+verschiedene Versionen, z.B  
+David Lynch  
+Neuverfilmung als Science-Fiction-Miniserie aus dem Jahr 2000: Frank Herbert’s Dune (Deutscher Titel: Dune – Der Wüstenplanet)  
+Fortsetzung der 2000er Dune-Miniserie aus dem Jahr 2003: Children of Dune (Deutscher Titel: Dune – Die Trilogie)  
+Baron Harkonnen, gespielt von Ian McNeice im Film von 19984 und 2000  
+Sandwürmer  
+Spice: Art, Vorkommen, Abbau, Sandwürmer, Fahrzeuge  
+Fremen  
+re:publica  
+Big Data Referenz  
+Internet Movie Database (IMDb) existiert bereits seit 1990  
+Atomenergie  
+Spiele, basierend auf Dune  
+der Spiele-Klassiker: Dune von 1992  
+Handlungsorte
+Begriffe
+Dune Wiki
+Dune-Bücher
+Dune in der Wikipeda
+Alejandro Jodorowsky’s Dune movie never made it to the screen, but the production’s legend lives on, as a new documentary charts its making</itunes:summary>
+                    <atom:contributor>
+                        <atom:name>Patrick Willam</atom:name>
+                        <atom:uri>http://wiki.skolelinux.de/PatrickWillam</atom:uri>
+                    </atom:contributor>
+                </item>
+                <item>
+                    <title>Folge 37:Famos: Die Pfalz</title>
+                    <link>http://1337kultur.de/2014/folge-37-famos-die-pfalz/</link>
+                    <pubDate>Tue, 13 May 2014 22:00:53 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-05-13t17:54:30+00:00-aea72baad511dcb</guid>
+                    <description>&lt;a href="http://www.dctp.tv/#/filme/30c3-chaos-macht-schule/"&gt;Peter Hecko&lt;/a&gt;  
+&lt;a href="http://www.pietcast.com"&gt;Pietcast&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Chaos_Communication_Camp"&gt;Chaos Communication Camp Finowfurt Jahr 2011&lt;/a&gt;  
+&lt;a href="http://www.woerterbuchnetz.de/DWB?lemma=famos"&gt;famos&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Mainz-Kastel"&gt;Mainz-Kastel&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Hambacher_Fest"&gt;Hambacher Fest&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Pfälzische_Mundartwettbewerbe"&gt;Pfälzische Mundartwettbewerbe&lt;/a&gt;  
+&lt;a href="http://www.mundart-dannstadter-hoehe.de/"&gt;Mundart-Wettbewerb Dannstadter Höhe&lt;/a&gt;  
+&lt;a href="http://www.ccc-mannheim.de"&gt;Chaos Computer Club Mannheim e.V&lt;/a&gt;  
+&lt;a href="https://raumzeitlabor.de/"&gt;RaumZeitLabor&lt;/a&gt;  
+&lt;a href="http://www.chaos-inkl.de/"&gt;Chaos Computer Club Kaiserlautern&lt;/a&gt;  
+&lt;a href="https://entropia.de"&gt;Chaos Computer Club Karlsruhe „Entropia“&lt;/a&gt;  
+&lt;a href="http://www.cccmz.de/?"&gt;Chaos Computer Club Mainz / Wiesbaden&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Rhein-Haardtbahn_GmbH"&gt;Linie 4 / Rhein-Haardtbahn&lt;/a&gt;  
+&lt;a href="http://rhein-neckar-wiki.de/Straßenbahn_5"&gt;Linie 5&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Wurstmarkt"&gt;Wurstmarkt&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Guerilla_Knitting"&gt;Guerilla Knitting&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Pfälzer_Saumagen"&gt;Saumagen&lt;/a&gt;  
+&lt;a href="http://www.deutscheskartoffelmuseum.de/"&gt;Deutsches Kartoffelmuseum in Fußgönheim&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Handkäse"&gt;Handkäse mit Musik&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Weinknorzen"&gt;Weinknorzen&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Kunstfurzer"&gt;Flatulists&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Dampfnudel"&gt;Dampfnudel&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Germknödel"&gt;Germknödel&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Buchteln"&gt;Buchteln&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Zwetschgenkuchen"&gt;Zwetschgenkuchen&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Lutherisches_e"&gt;Lutherisches e&lt;/a&gt;  
+&lt;a href="http://www.deutscheweine.de/Alles-ueber-Wein/Anbaugebiete/"&gt;13 Anbaugebiete&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Morio-Muskat"&gt;Morio-Muskat&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Gelber_Muskateller"&gt;Muskateller&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Dubbeglas"&gt;Dubbeglas&lt;/a&gt;  
+&lt;a href="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-prn1/t1/14832_595244103893505_368177338_n.jpg"&gt;4 Finger Breit&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Bocksbeutel"&gt;Bocksbeutel&lt;/a&gt;  
+&lt;a href="https://play.google.com/store/apps/details?id=de.kellermeister.android&amp;hl=de"&gt;Kellermeister Android App&lt;/a&gt;  
+&lt;a href="http://viniapps.com/"&gt;VinoCellar iPhone App&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Eiswein"&gt;Eiswein&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Beerenauslese"&gt;Beerenauslese&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Restzucker"&gt;Restsüße&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Huxelrebe"&gt;Huxelrebe&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Riesling"&gt;Riesling&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Scheurebe"&gt;Scheurebe&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Weißburgunder"&gt;Weißer Burgunder&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Grauburgunder"&gt;Grauburgunder&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/St._Laurent"&gt;St. Laurent&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Barrique"&gt;Barrique&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Merlot"&gt;Merlot&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Prosecco"&gt;Prosecco&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Crémant"&gt;Crémant&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Kir"&gt;Kir Royal&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Cuvee"&gt;Cuvée&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Der_kleine_Johnson"&gt;Der kleine Johnson: Weinführer (Taschenführer)&lt;/a&gt;  
+&lt;a href="https://pfl.wikipedia.org/wiki/Grumbeere"&gt;Grumbeere&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Ffolge-37-famos-die-pfalz%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+37%3AFamos%3A+Die+Pfalz&amp;tags=kulinarisches%2Creisen%2Cwein%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:37:46.391" title="Kulinarisch"/>
+                        <psc:chapter start="00:00:00.000" title="Vorspann" href="http://freesound.org/people/Benbojangles/sounds/71265/"/>
+                        <psc:chapter start="00:00:13.327" title="Intro"/>
+                        <psc:chapter start="00:22:47.914" title="Kultur"/>
+                        <psc:chapter start="00:00:29.965" title="Pfalztour"/>
+                        <psc:chapter start="01:08:46.341" title="Wein"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/folge-37-famos-die-pfalz/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/359/s/feed/c/podcast-aac/KC037_Pfalz.m4a" length="76751916" type="audio/mp4"/>
+                    <itunes:duration>02:35:05</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha und dome unterhalten sich über die Pfalz, vor allem über Kulinarisches und Wein.</itunes:subtitle>
+                    <itunes:summary>Peter Hecko  
+Pietcast  
+Chaos Communication Camp Finowfurt Jahr 2011  
+famos  
+Mainz-Kastel  
+Hambacher Fest  
+Pfälzische Mundartwettbewerbe  
+Mundart-Wettbewerb Dannstadter Höhe  
+Chaos Computer Club Mannheim e.V  
+RaumZeitLabor  
+Chaos Computer Club Kaiserlautern  
+Chaos Computer Club Karlsruhe „Entropia“  
+Chaos Computer Club Mainz / Wiesbaden  
+Linie 4 / Rhein-Haardtbahn  
+Linie 5  
+Wurstmarkt  
+Guerilla Knitting  
+Saumagen  
+Deutsches Kartoffelmuseum in Fußgönheim  
+Handkäse mit Musik  
+Weinknorzen  
+Flatulists  
+Dampfnudel  
+Germknödel  
+Buchteln  
+Zwetschgenkuchen  
+Lutherisches e  
+13 Anbaugebiete  
+Morio-Muskat  
+Muskateller  
+Dubbeglas  
+4 Finger Breit  
+Bocksbeutel  
+Kellermeister Android App  
+VinoCellar iPhone App  
+Eiswein  
+Beerenauslese  
+Restsüße  
+Huxelrebe  
+Riesling  
+Scheurebe  
+Weißer Burgunder  
+Grauburgunder  
+St. Laurent  
+Barrique  
+Merlot  
+Prosecco  
+Crémant  
+Kir Royal  
+Cuvée  
+Der kleine Johnson: Weinführer (Taschenführer)  
+Grumbeere</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 36: Arkane Texte</title>
+                    <link>http://1337kultur.de/2014/folge-36-arkane-texte/</link>
+                    <pubDate>Sun, 27 Apr 2014 22:00:46 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-27t20:45:24+00:00-9f69db9ad1f1337</guid>
+                    <description>&lt;a href="https://xkcd.com/593/"&gt;Voynich Manuskript&lt;/a&gt;
+&lt;a href="http://youtu.be/fpZD_3D8_WQ"&gt;Video von Stephen Bax&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Verschl%C3%BCsselung"&gt;Verschlüsselung&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Radiokarbonmethode"&gt;Radiokarbonmethode&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Kr%C3%A4uterbuch"&gt;Kräuterbücher&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Merseburger_Zauberspr%C3%BCche"&gt;Merseburger Zaubersprüche&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/List_of_Latin_phrases_%28E%29"&gt;Ego Te Absolvo&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Exorzismus"&gt;Exorzismus&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Requiem"&gt;Requiem&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Absolution"&gt;Absolution&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Sakrament"&gt;Sakrament&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Aut_idem"&gt;„aut idem“ auf Medikamenten&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Esperanto"&gt;Esperanto&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Verballhornung"&gt;Verballhornung&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Souffl%C3%A9"&gt;Soufflé&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Ave_Maria"&gt;Ave Maria&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/K%C3%BCchenlatein"&gt;Küchenlatein&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Harry_Potter"&gt;Harry Potter&lt;/a&gt;  
+&lt;a href="http://harrypotter.wikia.com/wiki/Riddikulus"&gt;Riddikulus&lt;/a&gt;  
+&lt;a href="http://harrypotter.wikia.com/wiki/Patronus_Charm"&gt;Patronus&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Dies_Irae"&gt;Deus Illa (Dies Irae)&lt;/a&gt;  
+&lt;a href="https://en.wiktionary.org/wiki/creatura#Italian"&gt;Creatura&lt;/a&gt;  
+&lt;a href="http://www.uni-bremen.de"&gt;Uni Bremen&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Totempfahl"&gt;Totempfahl&lt;/a&gt;  
+&lt;a href="http://rechtsanwalt-schwenke.de/disclaimer-urban-law-legends-rechtsbelehrung-folge-11-jura-podcast/"&gt;E-Mail disclaimer&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Phenylalanin"&gt;Phenylalaninquelle&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Aspartam"&gt;Aspartam&lt;/a&gt;  
+&lt;a href="http://angstklauseln.wordpress.com/"&gt;Angstklauseln&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Lorem_ipsum"&gt;Lorem ipsum&lt;/a&gt;  
+&lt;a href="http://www.zeno.org/Philosophie/M/Cicero,+Marcus+Tullius/F%C3%BCnf+B%C3%BCcher+%C3%BCber+das+h%C3%B6chste+Gut+und+%C3%9Cbel"&gt;Entstand aus Ciceros Stoa&lt;/a&gt; &lt;a href="https://de.wikipedia.org/wiki/Marcus_Tullius_Cicero"&gt;M. Tullius Cicero&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Gnaeus_Pompeius_Strabo"&gt;Pompeius&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog"&gt;„The quick brown fox jumps over the lazy dog“&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Pangramm"&gt;„Fix, Schwyz!“ quäkt Jürgen blöd vom Paß“&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Pangramm#Liste_deutscher_Pangramme"&gt;Jeder wackere Bayer vertilgt bequem zwo Pfund Kalbshaxen&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Palindrom"&gt;Palindrom&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Liste_deutscher_Palindrome#Satzpalindrome_und_Satzfragmentpalindrome"&gt;Palindromliste&lt;/a&gt;  
+&lt;a href="http://www.amazon.de/Esel-lese-nie-Mathematik-Palindrome/dp/3499615762/"&gt;Karl Günter Kröber: Ein Esel lese nie - Mathematik der Palindrome&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Anagramm"&gt;Anagramme&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Quintenzirkel"&gt;Quintenzirkel&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Eselsbr%C3%BCcke"&gt;Eselsbrücken&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Finnegan%27s_Wake"&gt;James Joyce Finnigan’s Wake&lt;/a&gt;  
+&lt;a href="http://www.amazon.com/Zettels-Traum-Arno-Schmidt/dp/3100706269"&gt;Zettels Traum von Arno Schmidt&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Unsinnspoesie"&gt;Nonsens-Gedichte&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Lewis_Carroll"&gt;Lewis Carrol&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Codex_Seraphinianus"&gt;Codex Seraphinianus&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Strukturalismus"&gt;Strukturalismus&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Ffolge-36-arkane-texte%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+36%3A+Arkane+Texte&amp;tags=lesung%2Cliteratur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:22:41.714" title="Hokus-Pokus"/>
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="01:26:04.024" title="Leseecke"/>
+                        <psc:chapter start="00:00:05.254" title="Intro"/>
+                        <psc:chapter start="00:57:54.316" title="Blindtexte"/>
+                        <psc:chapter start="00:06:33.342" title="Ritualtexte, Zaubersprüche"/>
+                        <psc:chapter start="00:00:21.800" title="Voynich Manuskript"/>
+                        <psc:chapter start="00:39:34.206" title="Schutzflüche"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/folge-36-arkane-texte/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/298/s/feed/c/podcast-aac/LK036_Voynich_Manuskript.m4a" length="48365658" type="audio/mp4"/>
+                    <itunes:duration>01:37:37</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha und Gerhard Anger beschäftigen sich mit arkanen (also geheimnisvollen Texten): Zaubersprüchen, dem Voynich-Manuskript, Küchenlatein, Blindtext usw. Manches wird, so gut es geht, auch mal vorgelesen.</itunes:subtitle>
+                    <itunes:summary>Voynich Manuskript
+Video von Stephen Bax  
+Verschlüsselung  
+Radiokarbonmethode  
+Kräuterbücher  
+Merseburger Zaubersprüche  
+Ego Te Absolvo  
+Exorzismus  
+Requiem  
+Absolution  
+Sakrament  
+„aut idem“ auf Medikamenten  
+Esperanto  
+Verballhornung  
+Soufflé  
+Ave Maria  
+Küchenlatein  
+Harry Potter  
+Riddikulus  
+Patronus  
+Deus Illa (Dies Irae)  
+Creatura  
+Uni Bremen  
+Totempfahl  
+E-Mail disclaimer  
+Phenylalaninquelle  
+Aspartam  
+Angstklauseln  
+Lorem ipsum  
+Entstand aus Ciceros Stoa M. Tullius Cicero  
+Pompeius  
+„The quick brown fox jumps over the lazy dog“  
+„Fix, Schwyz!“ quäkt Jürgen blöd vom Paß“  
+Jeder wackere Bayer vertilgt bequem zwo Pfund Kalbshaxen  
+Palindrom  
+Palindromliste  
+Karl Günter Kröber: Ein Esel lese nie - Mathematik der Palindrome  
+Anagramme  
+Quintenzirkel  
+Eselsbrücken  
+James Joyce Finnigan’s Wake  
+Zettels Traum von Arno Schmidt  
+Nonsens-Gedichte
+Lewis Carrol
+Codex Seraphinianus  
+Strukturalismus</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 35: Ins All: Star-Trek</title>
+                    <link>http://1337kultur.de/2014/star-trek/</link>
+                    <pubDate>Sun, 06 Apr 2014 22:00:28 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-28t13:55:45+00:00-73e4b66fcc5955c</guid>
+                    <description>&lt;a href="http://de.memory-alpha.org/"&gt;Star Trek-Wiki&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Podcast"&gt;Podcasts über Star Trek&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Eugenische_Kriege"&gt;Eugenische Kriege&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Khan_Noonien_Singh"&gt;Khan Noonien Singh&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Timeline_of_Star_Trek"&gt;Timeline&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Warp_drive"&gt;Warp-Antrieb&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Universal%C3%BCbersetzer"&gt;Universaltranslator&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Kreetassaner"&gt;Kreetassaner&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Der_K%C3%A4fig"&gt;Erster Pilotfilm&lt;/a&gt;
+&lt;a href="http://www.youtube.com/watch?v=x7PaRv5g7LY"&gt;Patrick-Stewart-Witze&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Klingonische_Sprache"&gt;Klingonische Sprache&lt;/a&gt;
+&lt;a href="https://de.wikipedia.org/wiki/Camp_%28Kunst%29"&gt;Camp&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Cardassianer"&gt;Kardassianer&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/La_Barre"&gt;La Barre&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Star_Trek:_Deep_Space_Nine"&gt;Star Trek DS9&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Borg"&gt;Borg&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Medizinisch-Holographisches_Notfallprogramm"&gt;Das MHN (engl: EMH 'emergency medical hologram')&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Temporaler_Kalter_Krieg"&gt;Temporaler kalter Krieg&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Countdown_(Comic)"&gt;Countdown&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Nero_(Comic)"&gt;Nero&lt;/a&gt;
+&lt;a href="http://en.memory-alpha.org/wiki/Star_Trek:_Khan"&gt;Khan&lt;/a&gt;
+&lt;a href="http://de.memory-beta.wikia.com/wiki/Memory_Beta"&gt;Memory-Beta&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Canon"&gt;Kanon&lt;/a&gt;
+&lt;a href="http://memory-gamma.wikia.com/"&gt;Memory Gamma&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Bottle_episode"&gt;Bottle Show:&lt;/a&gt;
+&lt;a href="http://www.sinnlosimweltraum.de"&gt;Sinnlos im Weltraum&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Slash_fiction"&gt;Slash fiction&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Kirk/Spock"&gt;Kirk/Spock&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Galaxy_Quest"&gt;Galaxy Quest&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Traumschiff_Surprise_%E2%80%93_Periode_1"&gt;Traumschiff Surprise Periode 1&lt;/a&gt;
+&lt;a href="http://www.xprize.org/prize-development/life-sciences&gt;/&lt;http://en.memory-alpha.org/wiki/Medical_tricorder"&gt;Der Medizinische Tricorder&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Sektion_31"&gt;Sektion 31&lt;/a&gt;
+&lt;a href="http://en.memory-alpha.org/wiki/The_Neutral_Zone_(episode)"&gt;Neutrale Zone&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Ferengi"&gt;Ferengi&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Erwerbsregeln_der_Ferengi"&gt;Die Erwerbsregeln&lt;/a&gt;
+&lt;a href="http://en.memory-alpha.org/wiki/In_the_Pale_Moonlight_(episode)"&gt;Zitat aus In the Pale Moonlight:&lt;/a&gt; 
+&lt;a href="http://de.memory-alpha.org/wiki/Gene_Roddenberry"&gt;Gene Roddenberry&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Liste_von_Shuttles_der_F%C3%B6deration#Shuttles_der_USS_Enterprise_.28NCC-1701-D.29"&gt;Shuttles&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Verne"&gt;Das Shuttle Verne&lt;/a&gt;
+&lt;a href="http://en.memory-alpha.org/wiki/Dilithium"&gt;Dilithium&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Warpantrieb"&gt;Warpantrieb&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Heisenbergkompensator"&gt;Heisenbergkompensator&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Beamen"&gt;Beamen&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/K%C3%BCnstliche_Schwerkraft"&gt;Künstliche Schwerkraft&lt;/a&gt;
+&lt;a href="http://de.memory-alpha.org/wiki/Transwarp-Beamen"&gt;Interstellares Beamen&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Fstar-trek%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+35%3A+Ins+All%3A+Star-Trek&amp;tags=filme%2Ckino%2Csciencefiction%2Cserien%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:03:39.924" title="Vorspann"/>
+                        <psc:chapter start="00:03:44.258" title="Intro"/>
+                        <psc:chapter start="00:09:19.555" title="Zeitlinie"/>
+                        <psc:chapter start="00:04:00.929" title="Begrüßung und Einführung"/>
+                        <psc:chapter start="02:07:42.548" title="Das Star-Trek-Universum"/>
+                        <psc:chapter start="01:37:59.578" title="Alternative Zeitlinie"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/star-trek/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/246/s/feed/c/podcast-aac/LK035_Star-Trek.m4a" length="91780645" type="audio/mp4"/>
+                    <itunes:duration>03:05:30</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha spricht mit Alex und Björn von memory-alpha.org über das Star-Trek-Universum.</itunes:subtitle>
+                    <itunes:summary>Star Trek-Wiki
+Podcasts über Star Trek
+Eugenische Kriege
+Khan Noonien Singh
+Timeline
+Warp-Antrieb
+Universaltranslator
+Kreetassaner
+Erster Pilotfilm
+Patrick-Stewart-Witze
+Klingonische Sprache
+Camp
+Kardassianer
+La Barre
+Star Trek DS9
+Borg
+Das MHN (engl: EMH 'emergency medical hologram')
+Temporaler kalter Krieg
+Countdown
+Nero
+Khan
+Memory-Beta
+Kanon
+Memory Gamma
+Bottle Show:
+Sinnlos im Weltraum
+Slash fiction
+Kirk/Spock
+Galaxy Quest
+Traumschiff Surprise Periode 1
+Der Medizinische Tricorder
+Sektion 31
+Neutrale Zone
+Ferengi
+Die Erwerbsregeln
+Zitat aus In the Pale Moonlight: 
+Gene Roddenberry
+Shuttles
+Das Shuttle Verne
+Dilithium
+Warpantrieb
+Heisenbergkompensator
+Beamen
+Künstliche Schwerkraft
+Interstellares Beamen</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 34: Zeitlos: Doctor Who</title>
+                    <link>http://1337kultur.de/2014/who-is-doctor-who/</link>
+                    <pubDate>Sun, 30 Mar 2014 22:00:14 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-31t10:35:33+00:00-b831acfe2a531f6</guid>
+                    <description>&lt;a href="https://en.wikipedia.org/wiki/Dalek"&gt;Daleks&lt;/a&gt;: "Weltraumnazis", "wollen entweder alles auslöschen oder alles in Daleks umwandeln"
+&lt;a href="https://en.wikipedia.org/wiki/Time_Lord"&gt;Der Doktor ist der letzte Time Lord&lt;/a&gt;
+&lt;a href="http://www.pocketessentials.com/film/9781842433553doctorwho/index.php"&gt;Buch: The essential pocket guide to Dr Who&lt;/a&gt;
+&lt;a href="http://www.whocast.de"&gt;"Doktor Who funktioniert am Besten, wenn man an einer kleinen Gruppe Menschen die großen Probleme sieht" (paraphrasiert, Lotta/dt. Dr. Who Podcast)&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Torchwood"&gt;Doctor-Who-Spin-off Torchwood:&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/File:Versions_of_the_Doctor.jpg"&gt;Bilder der Doktoren&lt;/a&gt;
+&lt;a href="http://www.drwho.de/forum/index.php"&gt;Doctor-Who-Stammtisch in Berlin: am letzten Freitag im Monat (siehe&lt;/a&gt;)
+&lt;a href="https://en.wikipedia.org/wiki/Klingon_language"&gt;Abschweifungen zum Klingonischen&lt;/a&gt;
+&lt;a href="http://www.bbc.co.uk/iplayer/search?q=doctor+who"&gt;Doctor Who beim BBC iPlayer&lt;/a&gt;. In der App ist die Auswahl sehr viel größer, Zugriff auf alle Folgen kostet aber.
+&lt;a href="https://en.wikipedia.org/wiki/Sherlock_(TV_series)"&gt;Sherlock&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Magnolia_(film)"&gt;Magnolia&lt;/a&gt;
+&lt;a href="https://en.wikipedia.org/wiki/House_of_Cards_(U.S._TV_series)"&gt;House of Cards&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Fwho-is-doctor-who%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+34%3A+Zeitlos%3A+Doctor+Who&amp;tags=literatur%2Cserien%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:03:39.924" title="Vorspann"/>
+                        <psc:chapter start="00:03:55.349" title="Intro"/>
+                        <psc:chapter start="00:12:24.131" title="TARDIS (Time and Relative Dimension in Space)"/>
+                        <psc:chapter start="00:04:11.835" title="Who is Doctor Who und die Gäste: Daniela und Lotta"/>
+                        <psc:chapter start="02:02:07.170" title="Die Abschweifenden bemerken ihr Abschweifen"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/who-is-doctor-who/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/264/s/feed/c/podcast-aac/LK034_Who_is_Doctor_Who.m4a" length="66042561" type="audio/mp4"/>
+                    <itunes:duration>02:14:23</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Daniela, Lotta und Maha sprechen über das Doctor-Who-Universum.</itunes:subtitle>
+                    <itunes:summary>Daleks: "Weltraumnazis", "wollen entweder alles auslöschen oder alles in Daleks umwandeln"
+Der Doktor ist der letzte Time Lord
+Buch: The essential pocket guide to Dr Who
+"Doktor Who funktioniert am Besten, wenn man an einer kleinen Gruppe Menschen die großen Probleme sieht" (paraphrasiert, Lotta/dt. Dr. Who Podcast)
+Doctor-Who-Spin-off Torchwood:
+Bilder der Doktoren
+Doctor-Who-Stammtisch in Berlin: am letzten Freitag im Monat (siehe)
+Abschweifungen zum Klingonischen
+Doctor Who beim BBC iPlayer. In der App ist die Auswahl sehr viel größer, Zugriff auf alle Folgen kostet aber.
+Sherlock
+Magnolia
+House of Cards</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 33: Mathesis:Logik und Statistik</title>
+                    <link>http://1337kultur.de/2014/mathesis-logik-und-statistik/</link>
+                    <pubDate>Wed, 19 Mar 2014 21:00:28 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-13t14:23:35+00:00-6d6c3ffb6521a0b</guid>
+                    <description>Folge 33: Mathesis:&lt;br /&gt;Logik und Statistik</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2014%2Fmathesis-logik-und-statistik%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+33%3A+Mathesis%3ALogik+und+Statistik&amp;tags=wissenschaft%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="02:27:57.040" title="30c3"/>
+                        <psc:chapter start="00:00:00.000" title="Vorspann"/>
+                        <psc:chapter start="00:00:07.021" title="Intro"/>
+                        <psc:chapter start="01:41:28.017" title="Logik"/>
+                        <psc:chapter start="00:00:23.492" title="Statistik"/>
+                        <psc:chapter start="02:50:43.817" title="Verabschiedung"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2014/mathesis-logik-und-statistik/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/202/s/feed/c/podcast-aac/LK033_Mathesis.m4a" length="87572592" type="audio/mp4"/>
+                    <itunes:duration>02:56:59</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 32: Diskoidal:Terry Pratchett</title>
+                    <link>http://1337kultur.de/2013/folge32-diskoidal-terry-pratchett/</link>
+                    <pubDate>Thu, 12 Dec 2013 23:00:20 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-12-11t20:15:43+00:00-e34715275cce715</guid>
+                    <description>&lt;a href="http://en.wikipedia.org/wiki/Discworld"&gt;Scheibenwelt&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Terry_Pratchett"&gt;Terry Pratchett&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Portal:Discworld"&gt;Discworld Wikipedia Portal&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry"&gt;Antoine de Saint-Exupéry&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Der_kleine_Prinz"&gt;Der kleine Prinz&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Terry_Pratchett%27s_Hogfather"&gt;Film Hogfather&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/The_Carpet_People"&gt;The Carpet People&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Strata_%28novel%29"&gt;Strata&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/MacBest"&gt;Mac Best&lt;/a&gt; 
+&lt;a href="http://de.wikipedia.org/wiki/Macbeth_%28Shakespeare%29"&gt;Macbeth&lt;/a&gt;
+&lt;a href="http://en.wikipedia.org/wiki/The_Fifth_Elephant"&gt;Der fünfte Elefant&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Night_Watch_%28Discworld%29"&gt;Night Watch&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/The_Truth_%28novel%29"&gt;Entstehung der Presse in The Truth/Die volle Wahrheit&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Moving_Pictures_%28novel%29"&gt;Moving Pictures&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Going_Postal"&gt;Going Postal&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Soul_Music_%28novel%29"&gt;Rollende Steine/Soul Music&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Witches_Abroad"&gt;Total verhext/Witches Abroad&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Panoramafreiheit"&gt;Panoramafreiheit&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Steampunk"&gt;Steampunk&lt;/a&gt;  
+&lt;a href="http://www.thediscworld.de/index.php/Hauptseite"&gt;Scheibenwelt-Wiki&lt;/a&gt; 
+&lt;a href="http://wiki.lspace.org/mediawiki/index.php/Main_Page"&gt;Discworld &amp; Pratchett Wiki&lt;/a&gt;
+&lt;a href="http://www.theguardian.com/society/2010/feb/01/terry-pratchett-euthanasia-tribunals"&gt;Sterbehilfe&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Fan_Fiction"&gt;Fan Fiction&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Rule_34_%28Internet_meme%29"&gt;Rule 34&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Eric_%28novel%29"&gt;Eric&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Sofies_Welt"&gt;Sofies Welt (Buch und Film)&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Pragmatismus"&gt;Pragmatismus&lt;/a&gt; 
+&lt;a href="https://en.wikipedia.org/wiki/The_Court_Jester"&gt;The Court Jester&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Ook!"&gt;Programmiersprache Ook!&lt;/a&gt;  
+&lt;a href="http://de.wikipedia.org/wiki/Prosopagnosie"&gt;Prosopagnosie&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/The_Colour_of_Magic"&gt;Die Farben der Magie/The Colour of Magic&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/The_Amazing_Maurice_and_his_Educated_Rodents"&gt;Maurice der Kater&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/The_Wee_Free_Men"&gt;Die kleine freien Männer/The Wee Free Men&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/I_Shall_Wear_Midnight"&gt;Das MItternachtskleid/I shall wear Midnight&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/Wintersmith"&gt;Der Winterschmied/Wintersmith&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/A_Hat_Full_of_Sky"&gt;Ein Hut voller Sterne/A Hat Full of Sky&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Cthulhu-Mythos"&gt;Cthulhu&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Harry_potter"&gt;Harry Potter&lt;/a&gt;  
+&lt;a href="http://en.wikipedia.org/wiki/GNU"&gt;GNU: Gnu’s Not Unix&lt;/a&gt;  
+&lt;a href="http://www.imdb.com/title/tt0436992/?ref_=fn_al_tt_1"&gt;Dr.Who&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Cliff-hanger"&gt;Cliff-Hanger&lt;/a&gt;  
+&lt;a href="http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1"&gt;Sherlock&lt;/a&gt;  
+&lt;a href="http://www.imdb.com/title/tt0944947/?ref_=fn_al_tt_1"&gt;Game Of Thrones&lt;/a&gt;  
+&lt;a href="https://en.wikipedia.org/wiki/Douglas_Adams"&gt;Douglas Adams&lt;/a&gt;  
+&lt;a href="https://de.wikipedia.org/wiki/Terry_Pratchett#Verfilmte_Werke"&gt;Übersicht&lt;/a&gt;  
+&lt;a href="http://www.ankh-morpork.de/index.php?seite=4205"&gt;Brettspiel&lt;/a&gt;  
+&lt;a href="http://wiki.lspace.org/mediawiki/index.php/Discworld_Timeline"&gt;Scheibenwelt-Zeitstrahl&lt;/a&gt;</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge32-diskoidal-terry-pratchett%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+32%3A+Diskoidal%3ATerry+Pratchett&amp;description=Julia%2C+Klaus+und+Maha+sprechen+%C3%BCber+Terry+Pratchetts+Scheibenwelt+%28daher+das+Adjektiv+diskoidal+%26%238216%3Bscheibenhaft%26%238217%3B%29.+Die+Aufnahme+erfolgte+am+15.+November+2013+an+der+Universit%C3%A4t+Rostock+%28ein+Foto+des+Informatikgeb%C3%A4udes+findet...&amp;tags=filme%2Cliteratur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge32-diskoidal-terry-pratchett/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/186/s/feed/c/podcast-aac/LK032_Terry_Pratchett.m4a" length="73963695" type="audio/mp4"/>
+                    <itunes:duration>02:28:46</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Julia, Klaus und Maha sprechen über Terry Pratchetts Scheibenwelt (daher das Adjektiv diskoidal 'scheibenhaft'). Die Scheibenwelt wird mit dem Versuch, möglichst wenig zu spoilern, vorgestellt. Außerdem gibt es Lese- und Spielempfehlungen.</itunes:subtitle>
+                    <itunes:summary>Scheibenwelt  
+Terry Pratchett  
+Discworld Wikipedia Portal  
+Antoine de Saint-Exupéry  
+Der kleine Prinz  
+Film Hogfather  
+The Carpet People  
+Strata  
+Mac Best 
+Macbeth
+Der fünfte Elefant  
+Night Watch  
+Entstehung der Presse in The Truth/Die volle Wahrheit  
+Moving Pictures  
+Going Postal  
+Rollende Steine/Soul Music  
+Total verhext/Witches Abroad  
+Panoramafreiheit  
+Steampunk  
+Scheibenwelt-Wiki 
+Discworld &amp; Pratchett Wiki
+Sterbehilfe  
+Fan Fiction  
+Rule 34  
+Eric  
+Sofies Welt (Buch und Film)  
+Pragmatismus 
+The Court Jester  
+Programmiersprache Ook!  
+Prosopagnosie  
+Die Farben der Magie/The Colour of Magic  
+Maurice der Kater  
+Die kleine freien Männer/The Wee Free Men  
+Das MItternachtskleid/I shall wear Midnight  
+Der Winterschmied/Wintersmith  
+Ein Hut voller Sterne/A Hat Full of Sky  
+Cthulhu  
+Harry Potter  
+GNU: Gnu’s Not Unix  
+Dr.Who  
+Cliff-Hanger  
+Sherlock  
+Game Of Thrones  
+Douglas Adams  
+Übersicht  
+Brettspiel  
+Scheibenwelt-Zeitstrahl</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 31: Siderisch:Esoterik</title>
+                    <link>http://1337kultur.de/2013/folge-31-siderischesoterik/</link>
+                    <pubDate>Sat, 09 Nov 2013 00:25:03 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-11-08t23:55:07+00:00-b4479bdf2b87003</guid>
+                    <description>Das Adjektiv siderisch bezieht sich auf die Fixsterne und ist ein wichtiges Konzept esoterischer Lehren, mit denen sich Gerhard Anger und Maha in diesem Podcast kritisch auseinandersetzen. Als Mitglied der Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften ist Gerhard auf diesem Gebiet ein Skeptiker.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-31-siderischesoterik%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+31%3A+Siderisch%3AEsoterik&amp;description=In+dieser+Folge+setzen+wir+erstmalig+den+Shownote-Import+von+shownot.es+ein%2C+danke+an+die+flei%C3%9Figen+Shownoter%3A+%2C+.+Die+Zeitangaben+sind+nur+ein+ungef%C3%A4hrer+Anhaltspunkt+wegen+des+Vorspanns+und+einiger...&amp;tags=esoterik%2Cliteratur%2Creligion%2Cwissenschaft%2Cblog" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:23:04.255" title="Blavatsky"/>
+                        <psc:chapter start="00:00:00.000" title="Vorspann" href="http://freesound.org/people/alaupas/sounds/176685/"/>
+                        <psc:chapter start="01:23:48.213" title="Hahnemann"/>
+                        <psc:chapter start="00:00:32.303" title="Intro"/>
+                        <psc:chapter start="01:50:21.165" title="Christi Wissenschaft"/>
+                        <psc:chapter start="00:49:52.978" title="Hermeneutik"/>
+                        <psc:chapter start="02:27:08.736" title="Esoterische Programmiersprachen"/>
+                        <psc:chapter start="00:15:15.878" title="Geisterwelt"/>
+                        <psc:chapter start="00:00:49.550" title="Einleitung"/>
+                        <psc:chapter start="00:37:34.827" title="Vis Vitalis (Lebenskraft)"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-31-siderischesoterik/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/165/s/feed/c/podcast-aac/LK031_Esoterik.m4a" length="77333566" type="audio/mp4"/>
+                    <itunes:duration>02:36:15</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha und Gerhard Anger unterhalten sich über Esoterik und lesen aus esoterischem und esoterik-kristischem Schrifttum, am Ende geht es als Zugabe noch um esoterische Programmiersprachen.</itunes:subtitle>
+                    <itunes:summary>Das Adjektiv siderisch bezieht sich auf die Fixsterne und ist ein wichtiges Konzept esoterischer Lehren, mit denen sich Gerhard Anger und Maha in diesem Podcast kritisch auseinandersetzen. Als Mitglied der Gesellschaft zur wissenschaftlichen Untersuchung von Parawissenschaften ist Gerhard auf diesem Gebiet ein Skeptiker.</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 30: Schau: Serien</title>
+                    <link>http://1337kultur.de/2013/folge-30-schau-serien/</link>
+                    <pubDate>Fri, 11 Oct 2013 16:39:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-10-11t16:27:36+00:00-252de1b9ab2b60b</guid>
+                    <description>Los gehts!
+1. Kategorien
+2. Woche für Woche vs. am PC
+3. Lieblingsserien
+4. Mahas to see list
+5. Serien, vor denen man warnen muss
+6. Rantphase
+7. Empfehlungen</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-30-schau-serien%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+30%3A+Schau%3A+Serien&amp;description=In+dieser+Folge+geht+es+um+TV-Serien.+Evelyn%2C+hukl%2C+Denis+und+maha+sprechen+%C3%BCber+ihre+Lieblingsserien+und+solche%2C+die+sie+weniger+m%C3%B6gen%2C+und+erl%C3%A4utern%2C+warum+Fernsehserien+interessant+sind.+Podcast+Dauer%3A...&amp;tags=filme%2Cserien%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-30-schau-serien/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/151/s/feed/c/podcast-aac/LK030_Schau_Serien.m4a" length="93953494" type="audio/mp4"/>
+                    <itunes:duration>03:09:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>In dieser Folge geht es um TV-Serien. Evelyn, hukl, Denis und maha sprechen über ihre Lieblingsserien und solche, die sie weniger mögen, und erläutern, warum Fernsehserien interessant sind.</itunes:subtitle>
+                    <itunes:summary>Los gehts!
+1. Kategorien
+2. Woche für Woche vs. am PC
+3. Lieblingsserien
+4. Mahas to see list
+5. Serien, vor denen man warnen muss
+6. Rantphase
+7. Empfehlungen</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 29: Aufgetischt:Tabletop-Spiele</title>
+                    <link>http://1337kultur.de/2013/aufgetischt-tabletop-spiele/</link>
+                    <pubDate>Thu, 03 Oct 2013 12:38:27 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-10-03t12:14:50+00:00-2fa841ea0781c34</guid>
+                    <description>In dieser Folge sprechen maha und [Chistopher Lauer](http://de.wikipedia.org/wiki/Christopher_Lauer) über Tabletop-Rollenspiele. Christopher ist begeisterter Tabletop-Spieler, der seit vielen Jahren Spielfiguren sammelt, zusammenbaut und anmalt. Er vermittelt Einblicke in das Spiel, vor allem Warhammer 40k, dessen innere und äußere Geschichte usw. Natürlich geht es auch um andere Spiele und ein paar kritische Fragen gibt es auch.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Faufgetischt-tabletop-spiele%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+29%3A+Aufgetischt%3ATabletop-Spiele&amp;description=In+dieser+Folge+sprechen+maha+und+Chistopher+Lauer+%C3%BCber+Tabletop-Rollenspiele.+Christopher+ist+begeisterter+Tabletop-Spieler%2C+der+seit+vielen+Jahren+Spielfiguren+sammelt%2C+zusammenbaut+und+anmalt.+Er+vermittelt+Einblicke+in+das+Spiel%2C+vor...&amp;tags=rollenspiele%2Cspiele%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/aufgetischt-tabletop-spiele/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/125/s/feed/c/podcast-aac/LK029_Aufgetischt.m4a" length="72986862" type="audio/mp4"/>
+                    <itunes:duration>02:27:27</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>In dieser Folge sprechen maha und Chistopher Lauer über Tabletop-Rollenspiele.</itunes:subtitle>
+                    <itunes:summary>In dieser Folge sprechen maha und [Chistopher Lauer](http://de.wikipedia.org/wiki/Christopher_Lauer) über Tabletop-Rollenspiele. Christopher ist begeisterter Tabletop-Spieler, der seit vielen Jahren Spielfiguren sammelt, zusammenbaut und anmalt. Er vermittelt Einblicke in das Spiel, vor allem Warhammer 40k, dessen innere und äußere Geschichte usw. Natürlich geht es auch um andere Spiele und ein paar kritische Fragen gibt es auch.</itunes:summary>
+                </item>
+                <item>
+                    <title>Folge 28: Originelle Gelahrte</title>
+                    <link>http://1337kultur.de/2013/folge-28-originelle-gelahrte/</link>
+                    <pubDate>Fri, 28 Jun 2013 07:26:30 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=262</guid>
+                    <description>Gerhard Anger und Maha lesen aus Werken gelehrter und gelahrter Geistesgrößen und diskutieren darüber. Dabei erweisen sich die Autoren, die auf den ersten Blick als anstrengend und langweilig gelten mögen, durchaus als originelle Schriftsteller.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-28-originelle-gelahrte%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+28%3A+Originelle+Gelahrte&amp;description=Podcast+Dauer%3A+ca.+1+Stunde+45+Minuten+%28direkter+Link+zur+mp3-Datei%29%2C+Aufnahme+am+24.5.2013%2C+17.37+Uhr+in+Berlin%2C+Streaming%3A+xenim.de.+Vorspann%3A+Page+turn%2C+von+HollowRiku%2C+%28cc-by%29.+Shownotes+Vielen+Dank+an...&amp;tags=b%C3%BCcher%2Cgeschichte%2Cphilosophie%2Cwissenschaft%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-28-originelle-gelahrte/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/36/s/feed/c/podcast-aac/LK028_Originelle_Gelahrte.m4a" length="53118522" type="audio/mp4"/>
+                    <itunes:duration>01:45:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Gerhard Anger und Maha lesen aus Werken gelehrter und gelahrter Geistesgrößen und diskutieren darüber. Dabei erweisen sich die Autoren, die auf den ersten Blick als anstrengend und langweilig gelten mögen, durchaus als originelle Schriftsteller.</itunes:subtitle>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 27: Ingress:Ertüchtigung für Hacker</title>
+                    <link>http://1337kultur.de/2013/folge-27-ingressertuechtigung-fuer-hacker/</link>
+                    <pubDate>Wed, 15 May 2013 22:55:27 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=258</guid>
+                    <description>Maha unterhält sich mit Lasse (aka lacce), einem Schlumpf über die Google-Schnitzeljagd Ingress. Maha selbst ist bei den Fröschen. Wir erläutern das Spiel und die Geschichte, die ihm unterliegt, und fragen auch nach den Hintergründen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-27-ingressertuechtigung-fuer-hacker%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+27%3A+Ingress%3AErt%C3%BCchtigung+f%C3%BCr+Hacker&amp;description=Maha+unterh%C3%A4lt+sich+mit+Lasse+%28aka+lacce%29%2C+einem+Schlumpf+%C3%BCber+die+Google-Schnitzeljagd+Ingress.+Maha+selbst+ist+bei+den+Fr%C3%B6schen.+Wir+erl%C3%A4utern+das+Spiel+und+die+Geschichte%2C+die+ihm+unterliegt%2C+und...&amp;tags=b%C3%BCcher%2Ccomputerspiele%2Cspiele%2Csport%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-27-ingressertuechtigung-fuer-hacker/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/41/s/feed/c/podcast-aac/LK026_Ingress.m4a" length="93772025" type="audio/mp4"/>
+                    <itunes:duration>03:08:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha unterhält sich mit Lasse (aka lacce), einem Schlumpf über die Google-Schnitzeljagd Ingress. Maha selbst ist bei den Fröschen. Wir erläutern das Spiel und die Geschichte, die ihm unterliegt, und fragen auch nach den Hintergründen.</itunes:subtitle>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 26: Leibesübung:Blindenfußball</title>
+                    <link>http://1337kultur.de/2013/folge-26-leibesuebungblindenfussball/</link>
+                    <pubDate>Fri, 19 Apr 2013 22:46:11 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=251</guid>
+                    <description>Maha unterhält sich mit Kristian über Blindenfußball. Er erklärt, wie es gespielt wird und berichtet über Turniere und Reportagen. Es zeigt sich, dass Blindenfußball eine von Inklusion geprägte Sportart ist, weil Sehende und Blinde gemeinsam spielen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-26-leibesuebungblindenfussball%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+26%3A+Leibes%C3%BCbung%3ABlindenfu%C3%9Fball&amp;description=Maha+unterh%C3%A4lt+sich+mit+Kristian+%C3%BCber+Blindenfu%C3%9Fball.+Er+erkl%C3%A4rt%2C+wie+das+gespielt+wird+und+berichtet+%C3%BCber+Turniere+und+die+Berichterstattung.+Es+zeigt+sich%2C+dass+Blindenfu%C3%9Fball+eine+von+Inklusion+gepr%C3%A4gte+Sportart...&amp;tags=sport%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-26-leibesuebungblindenfussball/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/42/s/feed/c/podcast-aac/LK026_Blindenfussball.m4a" length="62032995" type="audio/mp4"/>
+                    <itunes:duration>02:05:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Maha unterhält sich mit Kristian über Blindenfußball. Er erklärt, wie es gespielt wird und berichtet über Turniere und Reportagen. Es zeigt sich, dass Blindenfußball eine von Inklusion geprägte Sportart ist, weil Sehende und Blinde gemeinsam spielen.</itunes:subtitle>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 25: Brause &amp; BierBrauen mit CC-Lizenz</title>
+                    <link>http://1337kultur.de/2013/folge-25-brause-bierbrauen-mit-cc-lizenz/</link>
+                    <pubDate>Tue, 26 Mar 2013 11:47:40 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=240</guid>
+                    <description>Mate mit BombillaMaha unterhält sich mit Fabricio, Uwe und Johl über faire Getränkeherstellung unter CC-Lizenz. Das Gespräch findet in der Berliner Meta-Mate-Bar statt. Verschiedene Getränke werden vorgestellt...</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-25-brause-bierbrauen-mit-cc-lizenz%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+25%3A+Brause+%26%23038%3B+BierBrauen+mit+CC-Lizenz&amp;description=Maha+unterh%C3%A4lt+sich+mit+Fabricio%2C+Uwe+und+Johl+%C3%BCber+faire+Getr%C3%A4nkeherstellung+unter+CC-Lizenz.+Das+Gespr%C3%A4ch+findet+in+der+Berliner+Meta-Mate-Bar+statt.+Verschiedene+Getr%C3%A4nke+werden+vorgestellt+und+es+wird+erl%C3%A4utert%2C+warum...&amp;tags=bier%2Cbrauen%2Cbrause%2Ckulinarisches%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-25-brause-bierbrauen-mit-cc-lizenz/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/43/s/feed/c/podcast-aac/LK025_Brause_und_Bier.m4a" length="47692320" type="audio/mp4"/>
+                    <itunes:duration>01:35:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle>Mate mit BombillaMaha unterhält sich mit Fabricio, Uwe und Johl über faire Getränkeherstellung unter CC-Lizenz. Das Gespräch findet in der Berliner Meta-Mate-Bar statt. Verschiedene Getränke werden vorgestellt...</itunes:subtitle>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 24: Ross &amp; Reiter</title>
+                    <link>http://1337kultur.de/2013/folge-24-ross-reiter/</link>
+                    <pubDate>Mon, 04 Mar 2013 23:32:00 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=235</guid>
+                    <description>Folge 24: Ross &amp; Reiter</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2013%2Ffolge-24-ross-reiter%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+24%3A+Ross+%26%23038%3B+Reiter&amp;description=In+dieser+Folge+unterhalten+sich+maha+und+Andi+Zottmann+%C3%BCber+Pferde+und+Reiten.+Viele+Aspekte+des+Reitens+und+des+Umgangs+mit+Pferden+werden+er%C3%B6rtert+%28bis+hin+zum+aktuellen+Thema+Pferdefleisch%29....&amp;tags=pferde%2Creiten%2Csport%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2013/folge-24-ross-reiter/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/44/s/feed/c/podcast-aac/LK024_Ross_und_Reiter.m4a" length="67003627" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 23: Wort-Schatz:Lexika-Lesung</title>
+                    <link>http://1337kultur.de/2012/folge-23-wort-schatzlexika-lesung/</link>
+                    <pubDate>Tue, 25 Dec 2012 19:00:07 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=232</guid>
+                    <description>Folge 23: Wort-Schatz:&lt;br /&gt;Lexika-Lesung</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-23-wort-schatzlexika-lesung%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+23%3A+Wort-Schatz%3ALexika-Lesung&amp;description=In+dieser+Folge+sitzen+maha+und+Gerhard+Anger+am+Kamin+und+lesen+sich+und+den+Zuh%C3%B6rern+aus+Lexika+und+W%C3%B6rterb%C3%BCchern+vor.+Dass+das+ganz+und+gar+nicht+langweilig+ist%2C+wird...&amp;tags=lesung%2Cliteratur%2Csprache%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-23-wort-schatzlexika-lesung/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/45/s/feed/c/podcast-aac/LK023_Wort-Schatz.m4a" length="102581577" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 22 Frugale Sinnesfreuden: Kochen und Essen</title>
+                    <link>http://1337kultur.de/2012/folge-22-frugale-sinnesfreuden-kochen-und-essen/</link>
+                    <pubDate>Sun, 21 Oct 2012 18:22:27 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=221</guid>
+                    <description>Folge 22 Frugale Sinnesfreuden:&lt;br /&gt; Kochen und Essen</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-22-frugale-sinnesfreuden-kochen-und-essen%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+22+Frugale+Sinnesfreuden%3A+Kochen+und+Essen&amp;description=In+dieser+Folge+geht+es+um+genussvolles+Essen+und+Kochen%2C+%E2%80%9Efrugale+Sinnesfreuden%E2%80%9C+eben.+Dabei+werden+auch+ein+paar+Rezepte+und+Tipps+gegeben.+Podcast+Dauer%3A+ca.+2+h+6+min+%28direkter...&amp;tags=essen%2Cgastronomie%2Ckochen%2Ckulinarisches%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-22-frugale-sinnesfreuden-kochen-und-essen/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/46/s/feed/c/podcast-aac/LK022_Frugale_Sinnesfreuden.m4a" length="62663462" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 21: Hurtig durch die Sahara</title>
+                    <link>http://1337kultur.de/2012/folge-21-hurtig-durch-die-sahara/</link>
+                    <pubDate>Thu, 19 Jul 2012 15:00:21 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=215</guid>
+                    <description>Folge 21: Hurtig durch die Sahara</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-21-hurtig-durch-die-sahara%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+21%3A+Hurtig+durch+die+Sahara&amp;description=In+dieser+Folge+spricht+maha+mit+spicewiesel+und+xoquox+%C3%BCber+ihren+Trip+durch+die+West-Sahara.+Die+beiden+sind+mit+einer+Rallye+f%C3%BCr+einen+guten+Zweck+im+Mai+von+Tarifa+bis...&amp;tags=autos%2Creisen%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-21-hurtig-durch-die-sahara/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/47/s/feed/c/podcast-aac/LK021_Hurtig_durch_die_Sahara.m4a" length="90767382" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 20: Nostalgie:Retrocomputing</title>
+                    <link>http://1337kultur.de/2012/folge-20-nostalgieretrocomputing/</link>
+                    <pubDate>Fri, 22 Jun 2012 10:40:35 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=210</guid>
+                    <description>Folge 20: Nostalgie:&lt;br /&gt;Retrocomputing</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-20-nostalgieretrocomputing%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+20%3A+Nostalgie%3ARetrocomputing&amp;description=In+dieser+Folge+sprechen+Maha+und+Dexter+%C3%BCber+alte+Computer+und+was+man+damit+machen+kann.+Dexter+berichtet+%C3%BCber+seine+Retrocomputing-Aktivit%C3%A4ten%2C+insbesondere+mit+BTX.+Auch+Maha+erinnert+sich+an+seine...&amp;tags=computer%2Chardware%2Cretrocomputing%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-20-nostalgieretrocomputing/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/48/s/feed/c/podcast-aac/lk020_Nostalgie_Retrocomputing.m4a" length="63090548" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 19 Griffelig:Pen-&amp;-Paper-Rollenspiele</title>
+                    <link>http://1337kultur.de/2012/folge-19-griffeligpen-paper-rollenspiele/</link>
+                    <pubDate>Mon, 21 May 2012 19:28:00 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=203</guid>
+                    <description>Folge 19 Griffelig:&lt;br /&gt;Pen-&amp;-Paper-Rollenspiele</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-19-griffeligpen-paper-rollenspiele%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+19+Griffelig%3APen-%26%23038%3B-Paper-Rollenspiele&amp;description=In+dieser+Folge+sprechen+maha+und+Thomas+%C3%BCber+Pen-%26amp%3B-Paper-Rollenspiele.+Nach+einer+kurzen+Erl%C3%A4uterung%2C+was+Pen-%26amp%3B-Paper-Rollenspiele+sind%2C+was+anhand+eines+einfachen+Beispiels+erkl%C3%A4rt+wird%2C+werden+ein+paar+Spiele+vorgestellt.+Au%C3%9Ferdem+geht...&amp;tags=rollenspiele%2Cspiele%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-19-griffeligpen-paper-rollenspiele/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/49/s/feed/c/podcast-aac/LK019_Pen-and-Paper-Rollenspiele.m4a" length="62733431" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 18: Mit scheelem Blick:Stereoskopie</title>
+                    <link>http://1337kultur.de/2012/folge-18-mit-scheelem-blickstereoskopie/</link>
+                    <pubDate>Mon, 09 Apr 2012 10:38:38 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=197</guid>
+                    <description>Folge 18: Mit scheelem Blick:&lt;br /&gt;Stereoskopie</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-18-mit-scheelem-blickstereoskopie%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+18%3A+Mit+scheelem+Blick%3AStereoskopie&amp;description=Das+Stereoskop+Ein+K%C3%A4stchen+nach+der+Optik+festen+Normen%2C+Ein+flaches+Doppelbild+hineingestellt%2C+Und+wunderbar%2C+ihr+seht+die+sch%C3%B6ne+Welt%2C+Verj%C3%BCngt+und+klar+in+plastisch+treuen+Formen.+Die+Zahl+der...&amp;tags=fotografie%2Ckino%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-18-mit-scheelem-blickstereoskopie/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/50/s/feed/c/podcast-aac/LK018_Stereoskopie.m4a" length="38276554" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 17: Zauberhafte Literatur</title>
+                    <link>http://1337kultur.de/2012/folge-17-zauberhafte-literatur/</link>
+                    <pubDate>Sat, 07 Apr 2012 21:38:46 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=187</guid>
+                    <description>Folge 17: Zauberhafte Literatur</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-17-zauberhafte-literatur%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+17%3A+Zauberhafte+Literatur&amp;description=In+dieser+Folge+sprechen+maha+und+Gerhard+Anger+%C3%BCber+Literatur+und+lesen+daraus.+Podcast+Dauer%3A+ca.+4+Stunden+Vorschau+Voraussichtlich+am+Ostersonntag%2C+8.+April+2012+um+13.37+Uhr+podcastet+maha...&amp;tags=literatur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-17-zauberhafte-literatur/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/51/s/feed/c/podcast-aac/LK017_Zauberhafte_Literatur.m4a" length="118183333" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 16: SticheleiTattoos</title>
+                    <link>http://1337kultur.de/2012/folge-16-sticheleitattoos/</link>
+                    <pubDate>Fri, 16 Mar 2012 16:44:40 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=177</guid>
+                    <description>Folge 16: Stichelei&lt;br /&gt;Tattoos</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-16-sticheleitattoos%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+16%3A+SticheleiTattoos&amp;description=Maha+spricht+mit+Carsten+Eckart+%C3%BCber+Tattoos.+Podcast+Dauer%3A+ca.+2+h+Im+Vorspann+ist+ein+T%C3%A4towierger%C3%A4t+zu+h%C3%B6ren+%28Lizenz%3A+freesound.org%2Fcc-sampling%2B+by+RCA%29.+Shownotes+Die+Shownotes+wurden+wie+immer+unter...&amp;tags=t%C3%A4towierung%2Ctattoo%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-16-sticheleitattoos/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/52/s/feed/c/podcast-aac/LK016_Stichelei_Tattoo.m4a" length="61852317" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 15: Geölter Blitz:Motorradkultur</title>
+                    <link>http://1337kultur.de/2012/folge-15-geolter-blitzmotorradkultur/</link>
+                    <pubDate>Thu, 02 Feb 2012 18:44:25 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=168</guid>
+                    <description>Folge 15: Geölter Blitz:&lt;br /&gt;Motorradkultur</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-15-geolter-blitzmotorradkultur%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+15%3A+Ge%C3%B6lter+Blitz%3AMotorradkultur&amp;description=In+dieser+Folge+spricht+Maha+mit+Dirk+%28triplesmart%29%2C+Christof+und+Hotte+%C3%BCber+Motorr%C3%A4der%2C+Motorradfahren%2C+Motorradbastel+%E2%80%93+kurz+%C3%BCber+Motorradkultur.+Podcast+Dauer%3A+ca.+3+h+11+min+Der+Vorspann+enth%C3%A4lt+die...&amp;tags=motorrad%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-15-geolter-blitzmotorradkultur/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/53/s/feed/c/podcast-aac/LK015_geoelter_Blitz.m4a" length="95215188" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 14: Betörend geschmackvoll:Tee</title>
+                    <link>http://1337kultur.de/2012/folge-14-betorend-geschmackvolltee/</link>
+                    <pubDate>Mon, 16 Jan 2012 17:32:43 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=156</guid>
+                    <description>Folge 14: Betörend geschmackvoll:&lt;br /&gt;Tee</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2012%2Ffolge-14-betorend-geschmackvolltee%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+14%3A+Bet%C3%B6rend+geschmackvoll%3ATee&amp;description=In+dieser+Folge+trinken+maha+und+indigo+Tee+und+sprechen+dar%C3%BCber.+Podcast+Dauer%3A+ca.+3+h+56+min+Die+Tonproben+am+Anfang+sind+abgemischt+aus+Beitr%C3%A4gen+von+Jason+Elrod+und...&amp;tags=tee%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2012/folge-14-betorend-geschmackvolltee/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/54/s/feed/c/podcast-aac/LK014_betoerend-geschmackvoll.m4a" length="117618038" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 13: Konzept(-)Kunst:Streetart und anderes</title>
+                    <link>http://1337kultur.de/2011/folge-13-konzept-kunst-streetart-und-anderes/</link>
+                    <pubDate>Fri, 02 Dec 2011 14:25:11 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=148</guid>
+                    <description>Folge 13: Konzept(-)Kunst:&lt;br /&gt;Streetart und anderes</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-13-konzept-kunst-streetart-und-anderes%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+13%3A+Konzept%28-%29Kunst%3AStreetart+und+anderes&amp;description=In+dieser+Folge+spricht+maha+mit+uniq+%C3%BCber+Kunst%2C+Musik+und+Streetart%3B+uniqs+Stimme+wurde+akustisch+leicht+ver%C3%A4ndert.+Podcast+Dauer%3A+ca.+2+h+35+min+Shownotes+uniq+Kunst+Musik+Links...&amp;tags=graffiti%2Ckunst%2Cmusik%2Cstreetart%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-13-konzept-kunst-streetart-und-anderes/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/55/s/feed/c/podcast-aac/LK013_Konzeptkunst.m4a" length="77418531" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 12: Kuriose Kinematographen</title>
+                    <link>http://1337kultur.de/2011/folge-12-kuriose-kinematographen/</link>
+                    <pubDate>Thu, 06 Oct 2011 13:15:07 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=144</guid>
+                    <description>Folge 12: Kuriose Kinematographen</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-12-kuriose-kinematographen%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+12%3A+Kuriose+Kinematographen&amp;description=In+dieser+Folge+spricht+maha+mit+Simon+Kowalewski+%C3%BCber+%28vor+allem+analoge%29+Kinotechnik.+Simon+hat+selbst+als+Filmvorf%C3%BChrer+gearbeitet+und+erz%C3%A4hlt+von+seinen+Einblicken.+Diesmal+wird+es+etwas+technischer.+Podcast...&amp;tags=filme%2Cfotografie%2Ckino%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-12-kuriose-kinematographen/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/56/s/feed/c/podcast-aac/LK012_Kinematographen.m4a" length="49980822" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 11: Lichtbilder</title>
+                    <link>http://1337kultur.de/2011/folge-11-lichtbilder/</link>
+                    <pubDate>Thu, 01 Sep 2011 15:31:31 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=137</guid>
+                    <description>Folge 11: Lichtbilder</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-11-lichtbilder%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+11%3A+Lichtbilder&amp;description=Diese+Folge+widmet+sich+dem+Thema+Fotografie+und+wurde+auf+dem+Chaos+Communication+Camp+aufgenommen+und+bereits+%C3%BCber+xenim.de+und+das+Camp+Radio+ausgestrahlt+am+Samstag%2C+13.+August+2011+zwischen...&amp;tags=fotografie%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-11-lichtbilder/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/57/s/feed/c/podcast-aac/LK011_Lichtbilder.m4a" length="117270892" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 10: Äonisch: Prähistorische Archäologie</title>
+                    <link>http://1337kultur.de/2011/folge-10-aonisch-prahistorische-archaologie/</link>
+                    <pubDate>Wed, 03 Aug 2011 14:46:35 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=130</guid>
+                    <description>Folge 10: Äonisch: &lt;br /&gt;Prähistorische Archäologie</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-10-aonisch-prahistorische-archaologie%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+10%3A+%C3%84onisch%3A+Pr%C3%A4historische+Arch%C3%A4ologie&amp;description=Maha+unterh%C3%A4lt+sich+mit+Jan+Ahlrichs+und+Christoph+Miera+%C3%BCber+ihr+Webportal+praehistorische-archaeologie.de.+Dabei+geht+es+um+Datierungen%2C+Neandertaler+und+pr%C3%A4historische+Sprachen.+Podcast+Dauer%3A+ca.+2+h+37+min+Vorschau...&amp;tags=archaeologie%2Cgeschichte%2Csprachen%2Cwissenschaft%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-10-aonisch-prahistorische-archaologie/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/58/s/feed/c/podcast-aac/LK010_Praehistorische_Archaeologie.m4a" length="78058211" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 9: Kintopp</title>
+                    <link>http://1337kultur.de/2011/folge-9-kintopp/</link>
+                    <pubDate>Wed, 27 Jul 2011 12:37:02 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=118</guid>
+                    <description>Folge 9: Kintopp</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-9-kintopp%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+9%3A+Kintopp&amp;description=Evelyn%2C+hukl%2C+Denis+und+maha+unterhalten+sich+%C3%BCber+Kinofilme.+Podcast+Dauer%3A+ca.+3+h+Shownotes+Die+Shownotes+wurden+wieder+unter+tatkr%C3%A4ftiger+Mitwirkung+des+IRC-Chats+gemeinsam+in+einem+Pad+zusammengestellt.+Gespr%C3%A4chspartner...&amp;tags=filme%2Ckino%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-9-kintopp/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/59/s/feed/c/podcast-aac/LK009_Kintopp.m4a" length="88843312" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 8: Stringente Sprachen</title>
+                    <link>http://1337kultur.de/2011/folge-8-stringente-sprachen/</link>
+                    <pubDate>Tue, 05 Jul 2011 16:00:59 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=114</guid>
+                    <description>Folge 8: Stringente Sprachen</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-8-stringente-sprachen%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+8%3A+Stringente+Sprachen&amp;description=Maha+spricht+mit+Thomas+W%C3%BCrfel+und+Felix+Zesch+%C3%BCber+Sprachen%2C+das+Sprachenlernen%2C+Esperanto+und+andere+Plansprachen.+Podcast+Dauer%3A+ca.+2+h+15+min+Shownotes+Die+Shownotes+wurden+wieder+unter+tatkr%C3%A4ftiger...&amp;tags=esperanto%2Cplansprachen%2Csprachen%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-8-stringente-sprachen/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/60/s/feed/c/podcast-aac/LK008_Stringente_Sprachen.m4a" length="67554905" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 7: Köstliche Musik</title>
+                    <link>http://1337kultur.de/2011/folge-7-kostliche-musik/</link>
+                    <pubDate>Sat, 04 Jun 2011 20:20:44 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=110</guid>
+                    <description>Folge 7: Köstliche Musik</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-7-kostliche-musik%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+7%3A+K%C3%B6stliche+Musik&amp;description=Mit+einem+Schwerpunkt+auf+Barockmusik+diskutieren+sich+Maha+und+Gerhard+Anger+durch+vierhundert+Jahre+Musikgeschichte.+Die+Aufnahme+erfolgte+am+28.+Mai+2011+in+Berlin+und+wurde+gestreamt.+Podcast+Dauer%3A+ca....&amp;tags=barock%2Cklassik%2Cmusik%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-7-kostliche-musik/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/61/s/feed/c/podcast-aac/LK007_Koestliche_Musik.m4a" length="62439726" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 6: Verrucht: Computerspiele</title>
+                    <link>http://1337kultur.de/2011/folge-6-verrucht-computerspiele/</link>
+                    <pubDate>Mon, 23 May 2011 13:42:59 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=104</guid>
+                    <description>Folge 6: Verrucht:&lt;br /&gt; Computerspiele</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-6-verrucht-computerspiele%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+6%3A+Verrucht%3A+Computerspiele&amp;description=Maha+spricht+in+der+sechsten+Folge+mit+Carsten+Eckart+und+Anke+%C3%BCber+Computerspiele.+Hier+geht+es+zun%C3%A4chst+einmal+um+Grundlegendes.+Weitere%2C+insbesondere+politische+Aspekte+werden+zu+einem+sp%C3%A4teren+Zeitpunkt+behandelt....&amp;tags=computerspiele%2Cspiele%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-6-verrucht-computerspiele/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/62/s/feed/c/podcast-aac/LK006_-_Computerspiele.m4a" length="58875287" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 5: Beseelte Bilder: Anime</title>
+                    <link>http://1337kultur.de/2011/folge-5-beseelte-bilder-anime/</link>
+                    <pubDate>Wed, 04 May 2011 14:11:06 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=95</guid>
+                    <description>Folge 5: Beseelte Bilder:&lt;br /&gt; Anime</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-5-beseelte-bilder-anime%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+5%3A+Beseelte+Bilder%3A+Anime&amp;description=Maha+spricht+in+der+f%C3%BCnften+Folge+mit+Simon+Heider+%C3%BCber+Anime.+Auf+mehrfachen+Wunsch+gibt+es+jetzt+auch+das+Intro+als+separate+Audiodatei+%28mp3%29+zum+Download.+Podcast+Dauer%3A+ca.+1...&amp;tags=anime%2Cfilme%2Cmanga%2Czeichentrick%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-5-beseelte-bilder-anime/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/63/s/feed/c/podcast-aac/LK005_Anime.m4a" length="55733784" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 4: Unverhofft: Gitarre, Seinfeld</title>
+                    <link>http://1337kultur.de/2011/folge-4-unverhofft-gitarre-seinfeld/</link>
+                    <pubDate>Wed, 20 Apr 2011 14:02:09 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=86</guid>
+                    <description>Folge 4: Unverhofft:&lt;br /&gt; Gitarre, Seinfeld</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-4-unverhofft-gitarre-seinfeld%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+4%3A+Unverhofft%3A+Gitarre%2C+Seinfeld&amp;description=Maha+spricht+in+der+vierten+Folge+mit+hukl+%C3%BCber+Gitarren%2C+Gitarrenmusik%2C+die+GEMA+und+die+Serie+Seinfeld.+Das+Wort+der+Sendung+ist+unverhofft%2C+mit+dessen+Gebrauch+es+eine+besondere+Bewandtnis...&amp;tags=musik%2Cserien%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-4-unverhofft-gitarre-seinfeld/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/64/s/feed/c/podcast-aac/LK004_-_Unverhofft_Gitarre_Seinfeld.m4a" length="43899582" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 3: Futurama: Panoptikum der Zukunft</title>
+                    <link>http://1337kultur.de/2011/folge-3-futurama-panoptikum-der-zukunft/</link>
+                    <pubDate>Fri, 15 Apr 2011 08:06:15 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=75</guid>
+                    <description>Folge 3: Futurama:&lt;br /&gt; Panoptikum der Zukunft</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-3-futurama-panoptikum-der-zukunft%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+3%3A+Futurama%3A+Panoptikum+der+Zukunft&amp;description=In+der+dritten+Folge+geht+es+um+die+Zeichentrickserie+Futurama.+Maha+spricht+mit+Theo%2C+einem+Nachwuchsnerd%2C+der+die+Futurama-Folgen+in-+und+auswendig+kennt.+Das+Wort+der+Sendung+ist+Panoptikum%2C+das...&amp;tags=filme%2Csciencefiction%2Czeichentrick%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-3-futurama-panoptikum-der-zukunft/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/65/s/feed/c/podcast-aac/LK003_-_Futurama.m4a" length="33803743" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 2: Beredte Bilder</title>
+                    <link>http://1337kultur.de/2011/folge-2-beredte-bilder/</link>
+                    <pubDate>Wed, 23 Mar 2011 12:37:34 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=67</guid>
+                    <description>Folge 2: Beredte Bilder</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-2-beredte-bilder%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+2%3A+Beredte+Bilder&amp;description=In+der+zweiten+Folge+sprechen+Maha+und+Christopher+Lauer+mit+Jakob+Pfender+%C3%BCber+Comics.+Jakob+hat+sich+intensiv+mit+dem+Thema+auseinandergesetzt%2C+aber+auch+aus+dem+Chat+kamen+interessante+Anregungen%3B...&amp;tags=b%C3%BCcher%2Ccomics%2Cfilme%2Cliteratur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-2-beredte-bilder/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/66/s/feed/c/podcast-aac/LK002_-_Beredte_Bilder.m4a" length="61937642" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Folge 1: Labsal Weltliteratur</title>
+                    <link>http://1337kultur.de/2011/folge-1-labsal-weltliteratur/</link>
+                    <pubDate>Sun, 20 Mar 2011 13:42:43 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=49</guid>
+                    <description>Folge 1: Labsal Weltliteratur</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Ffolge-1-labsal-weltliteratur%2F&amp;language=de_DE&amp;category=audio&amp;title=Folge+1%3A+Labsal+Weltliteratur&amp;description=In+der+ersten+Folge+sprechen+Maha+und+Christopher+Lauer+%C3%BCber+Weltliteratur%2C+also+%C3%BCber+B%C3%BCcher%2C+die+wir+kennen%2C+aber+m%C3%B6glicherweise+gar+nicht+gelesen+haben.+Vielen+Dank+an+die+vielen+Zuh%C3%B6rer%2C+die...&amp;tags=b%C3%BCcher%2Cfilme%2Cliteratur%2Cweltliteratur%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/folge-1-labsal-weltliteratur/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/67/s/feed/c/podcast-aac/LK001_-_Labsal_Weltliteratur.m4a" length="46831979" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+                <item>
+                    <title>Konzept</title>
+                    <link>http://1337kultur.de/2011/konzept/</link>
+                    <pubDate>Sat, 12 Mar 2011 14:35:46 +0000</pubDate>
+                    <guid isPermaLink="false">http://1337kultur.de/?p=24</guid>
+                    <description>Konzept</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=1337kultur&amp;url=http%3A%2F%2F1337kultur.de%2F2011%2Fkonzept%2F&amp;language=de_DE&amp;category=audio&amp;title=Konzept&amp;description=In+der+nullten+Folge+stellt+Maha+das+Konzept+des+Kultur-Podcastes+vor.+Herzlichen+Dank+an+Christopher+Schirner+f%C3%BCr+die+technische+Unterst%C3%BCtzung+und+das+Intro+und+an+Benjamin+St%C3%B6cker+f%C3%BCr+die+Bearbeitung...&amp;tags=allgemeines%2Cblog" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://1337kultur.de/2011/konzept/#"/>
+                    <enclosure url="http://1337kultur.de/podlove/file/38/s/feed/c/podcast-aac/LK000.m4a" length="5563743" type="audio/mp4"/>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:author>Martin 'maha' Haase</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:37:46 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Vary" value="Host"/>
+        <httpclient:header name="X-Source-IP" value="10.10.9.102"/>
+        <httpclient:header name="Pragma" value="no-cache"/>
+        <httpclient:header name="Cache-Control" value="no-cache, max-age=0"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 12:37:46 GMT"/>
+        <httpclient:header name="P3P" value="CP=&#34;CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <title>Seminole Headlines</title>
+                <link>http://979espnradio.hipcast.com/podcast/HP5dJb</link>
+                <atom:link href="http://979espnradio.hipcast.com/rss/archive/seminole_headlines.xml" rel="next" type="application/rss+xml"/>
+                <atom:link href="http://979espnradio.hipcast.com/rss/seminole_headlines.xml" rel="self" type="application/rss+xml"/>
+                <atom:link href="http://979espnradio.hipcast.com/rss/seminole_headlines.xml" rel="current" type="application/rss+xml"/>
+                <description>Seminole Headlines</description>
+                <copyright/>
+                <language>en-us</language>
+                <lastBuildDate>Wed, 20 Aug 2014 12:33:24 GMT</lastBuildDate>
+                <generator>Hipcast RSS Feeder 1.44</generator>
+                <category>Sports</category>
+                <ttl>60</ttl>
+                <image>
+                    <url>http://979espnradio.hipcast.com/albumart/1001.1408538002.jpg</url>
+                    <link>http://979espnradio.hipcast.com/podcast/HP5dJb</link>
+                    <title>Seminole Headlines</title>
+                </image>
+                <itunes:author>ESPN Tallahassee</itunes:author>
+                <itunes:summary>Seminole Headlines for comprehensive FSU sports coverage.  Listen to Jeff Cameron, Ira Schoffel, and Corey Clark as they break down the latest in Seminole Sports.</itunes:summary>
+                <itunes:subtitle>Seminole Headlines Of The Week!</itunes:subtitle>
+                <itunes:keywords>Florida,State,FSU,Seminoles,College,Football,NCAA</itunes:keywords>
+                <itunes:owner>
+                    <itunes:name>97.9 ESPN Radio</itunes:name>
+                    <itunes:email>tom@979espnradio.com</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://979espnradio.hipcast.com/albumart/1001_itunes.1408538002.jpg"/>
+                <itunes:category text="Sports &amp; Recreation">
+                    <itunes:category text="College &amp; High School"/>
+                </itunes:category>
+                <item>
+                    <guid isPermaLink="false">1f940292-841d-6822-388c-9fb5598d655a</guid>
+                    <title>Seminole Headlines 081914 Hour 2</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira chat about football and 
+mostly football. Expectations for the season, teleporting back to 
+earlier seasons for FSU and UF, Bobo Wilson's status and more are all 
+discussed. Hour 2</description>
+                    <pubDate>Wed, 20 Aug 2014 02:10:14 GMT</pubDate>
+                    <itunes:duration>00:45:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira chat about football and 
+mostly football. Expectations for the season, teleporting back to 
+earlier seasons for FSU and UF, Bobo Wilson's status and more are all 
+discussed. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 081914 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386824-s-1.audio.mp3" type="audio/mpeg" length="43533022"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386824-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">2de957f8-c2cc-5fc6-3cae-cc373b866e76</guid>
+                    <title>Seminole Headlines 081914 Hour 1</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira chat about football and mostly football. Expectations for the season, teleporting back to earlier seasons for FSU and UF, Bobo Wilson's status and more are all discussed. Hour 1</description>
+                    <pubDate>Wed, 20 Aug 2014 00:06:21 GMT</pubDate>
+                    <itunes:duration>00:49:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira chat about football and mostly football. Expectations for the season, teleporting back to earlier seasons for FSU and UF, Bobo Wilson's status and more are all discussed. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 081914 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386814-s-1.audio.mp3" type="audio/mpeg" length="47651173"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386814-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">521b3c4a-6a23-7047-b043-e2bf536d867d</guid>
+                    <title>Seminole Headlines 081314 Hour 2</title>
+                    <description>This week on Headlines - the guys break down the Jalen Ramsey/Jimbo Fisher situation, fall practice in general, voluptuous women, how college football is covered and more. Hour two</description>
+                    <pubDate>Wed, 13 Aug 2014 21:21:11 GMT</pubDate>
+                    <itunes:duration>00:46:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines - the guys break down the Jalen Ramsey/Jimbo Fisher situation, fall practice in general, voluptuous women, how college football is covered and more. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 081314 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386294-s-1.audio.mp3" type="audio/mpeg" length="44435813"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386294-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">d4c63b47-79dc-9783-56a6-a74427964e1c</guid>
+                    <title>Seminole Headlines 081314 Hour 1</title>
+                    <description>This week on Headlines - the guys break down the Jalen Ramsey/Jimbo Fisher situation, fall practice in general, voluptuous women, how college football is covered and more. Hour one</description>
+                    <pubDate>Wed, 13 Aug 2014 21:18:57 GMT</pubDate>
+                    <itunes:duration>00:48:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines - the guys break down the Jalen Ramsey/Jimbo Fisher situation, fall practice in general, voluptuous women, how college football is covered and more. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 081314 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386292-s-1.audio.mp3" type="audio/mpeg" length="46377234"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-386292-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">b43ebfa3-2c3e-cdc3-1fc5-0a01021092ea</guid>
+                    <title>Seminole Headlines 080614 Hour 2</title>
+                    <description>Seminole Headlines returns in fall-camp form. A look at the 2014 season ahead, discussion of Jimbo Fisher's first presser of the season, Jameis talk and how media coverage is different now that it ever was. Hour 2</description>
+                    <pubDate>Wed, 06 Aug 2014 22:28:49 GMT</pubDate>
+                    <itunes:duration>00:47:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines returns in fall-camp form. A look at the 2014 season ahead, discussion of Jimbo Fisher's first presser of the season, Jameis talk and how media coverage is different now that it ever was. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 080614 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-385653-s-1.audio.mp3" type="audio/mpeg" length="45282492"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-385653-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">724c0a02-32c4-3402-68d1-ab20c65f4355</guid>
+                    <title>Seminole Headlines 080614 Hour 1</title>
+                    <description>Seminole Headlines returns in fall-camp form. A look at the 2014 season ahead, discussion of Jimbo Fisher's first presser of the season, Jameis talk and how media coverage is different now that it ever was. Hour 1</description>
+                    <pubDate>Wed, 06 Aug 2014 21:07:51 GMT</pubDate>
+                    <itunes:duration>00:45:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines returns in fall-camp form. A look at the 2014 season ahead, discussion of Jimbo Fisher's first presser of the season, Jameis talk and how media coverage is different now that it ever was. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 080614 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-385636-s-1.audio.mp3" type="audio/mpeg" length="43515885"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-385636-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">16fc332e-8eea-492b-9a64-f7a64d5a067a</guid>
+                    <title>Seminole Headlines 072314 Hour 1</title>
+                    <description>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player and more!</description>
+                    <pubDate>Wed, 23 Jul 2014 23:01:30 GMT</pubDate>
+                    <itunes:duration>00:52:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player and more!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 072314 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-384391-s-1.audio.mp3" type="audio/mpeg" length="50160600"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-384391-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">349a3c5e-5a12-c3ce-484c-d705e5eb10bd</guid>
+                    <title>Seminole Headlines 072314 Hour 2</title>
+                    <description>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player(?!) and relive the squirrel incident. Hour two</description>
+                    <pubDate>Wed, 23 Jul 2014 21:17:26 GMT</pubDate>
+                    <itunes:duration>00:43:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player(?!) and relive the squirrel incident. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 072314 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-384387-s-1.audio.mp3" type="audio/mpeg" length="41378928"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-384387-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">5845f553-b4c8-7a9f-291f-0b9b744345e8</guid>
+                    <title>Seminole Headlines 072314 Hour 1</title>
+                    <description>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player(?!) and relive the squirrel incident. Hour one</description>
+                    <pubDate>Wed, 23 Jul 2014 21:14:30 GMT</pubDate>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Ira and (a tardy) Corey discuss ACC meetings, expectations for 2014 on the field, truancy, Jalen Ramsey not an All-ACC player(?!) and relive the squirrel incident. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 072314 Hour 1</itunes:subtitle>
+                </item>
+                <item>
+                    <guid isPermaLink="false">abccbe22-a850-8c2c-d181-752c3130e6b5</guid>
+                    <title>Seminole Headlines 070214 Hour 2</title>
+                    <description>Happy 4th Week folks. Jeff Corey and Ira chat FSU and more on Seminole Headlines. Hour two</description>
+                    <pubDate>Wed, 02 Jul 2014 17:59:25 GMT</pubDate>
+                    <itunes:duration>00:47:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Happy 4th Week folks. Jeff Corey and Ira chat FSU and more on Seminole Headlines. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 070214 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-382409-s-1.audio.mp3" type="audio/mpeg" length="45463993"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-382409-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">82939dcd-4b03-5e18-9536-c20d982ef3a6</guid>
+                    <title>Seminole Headlines 070214 Hour 1</title>
+                    <description>Happy 4th Week folks. Jeff Corey and Ira chat FSU and more on Seminole Headlines. Hour one</description>
+                    <pubDate>Wed, 02 Jul 2014 17:57:02 GMT</pubDate>
+                    <itunes:duration>00:47:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Happy 4th Week folks. Jeff Corey and Ira chat FSU and more on Seminole Headlines. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 070214 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/hipcast-11010-u-382408-s-1.audio.mp3" type="audio/mpeg" length="45558452"/>
+                    <link>http://979espnradio.hipcast.com/deluge/hipcast-11010-u-382408-s-1.audio.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">d91f3d5e-1cae-c281-61a2-1dedd7ba6ca9</guid>
+                    <title>Seminole Headlines 062514 Hour 2</title>
+                    <description>This week, Jeff, Corey and Ira chat about the 2013 season and how much it should be savored and preview a 2014 season that has the potential to be just as special. Hour 2</description>
+                    <pubDate>Wed, 25 Jun 2014 20:36:18 GMT</pubDate>
+                    <itunes:duration>00:55:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira chat about the 2013 season and how much it should be savored and preview a 2014 season that has the potential to be just as special. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 062514 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/83a83f83-059d-7a5f-4dfe-8a53af1e5d5b.mp3" type="audio/mpeg" length="52988512"/>
+                    <link>http://979espnradio.hipcast.com/deluge/83a83f83-059d-7a5f-4dfe-8a53af1e5d5b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">b5ce15f2-2d60-f832-5857-3e2b4d087d1c</guid>
+                    <title>Seminole Headlines 062514 Hour 1</title>
+                    <description>This week, Jeff, Corey and Ira chat about the 2013 season and how much it should be savored and preview a 2014 season that has the potential to be just as special. Hour 1</description>
+                    <pubDate>Wed, 25 Jun 2014 20:18:45 GMT</pubDate>
+                    <itunes:duration>00:50:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira chat about the 2013 season and how much it should be savored and preview a 2014 season that has the potential to be just as special. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 062514 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/ca9ad36b-6916-5b93-1c16-91bdfb0af614.mp3" type="audio/mpeg" length="48742465"/>
+                    <link>http://979espnradio.hipcast.com/deluge/ca9ad36b-6916-5b93-1c16-91bdfb0af614.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">0306c529-229b-496f-a978-1fd4f194b7e5</guid>
+                    <title>Seminole Headlines 060414 Hour 2</title>
+                    <description>This week, the guys do a post mortem on baseball season for FSU and touch on all sorts of randomness. Hour two</description>
+                    <pubDate>Wed, 04 Jun 2014 21:30:11 GMT</pubDate>
+                    <itunes:duration>00:49:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, the guys do a post mortem on baseball season for FSU and touch on all sorts of randomness. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 060414 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/095c6903-ae17-5b76-1fcb-74da791fef3f.mp3" type="audio/mpeg" length="47869348"/>
+                    <link>http://979espnradio.hipcast.com/deluge/095c6903-ae17-5b76-1fcb-74da791fef3f.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">39d7dc43-e05a-4354-fd82-c6973ae7ed74</guid>
+                    <title>Seminole Headlines 060414 Hour 1</title>
+                    <description>This week, the guys do a post mortem on baseball season for FSU and touch on all sorts of randomness. Hour one</description>
+                    <pubDate>Wed, 04 Jun 2014 21:27:38 GMT</pubDate>
+                    <itunes:duration>00:44:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, the guys do a post mortem on baseball season for FSU and touch on all sorts of randomness. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 060414 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/173b9a59-ef5b-c54d-1728-7486db29adbf.mp3" type="audio/mpeg" length="42870556"/>
+                    <link>http://979espnradio.hipcast.com/deluge/173b9a59-ef5b-c54d-1728-7486db29adbf.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">1c164231-c408-b608-3833-56f8eb7c8f5d</guid>
+                    <title>Seminole Headlines 052814 Hour 2</title>
+                    <description>Headlines this week chats about the Tallahassee Regional, FSU Softball (!?), chauvinistic v. honest, Michael Boulware, FSU football, Jeff's 
+walnuts and more! Hour two</description>
+                    <pubDate>Wed, 28 May 2014 22:14:21 GMT</pubDate>
+                    <itunes:duration>00:56:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Headlines this week chats about the Tallahassee Regional, FSU Softball (!?), chauvinistic v. honest, Michael Boulware, FSU football, Jeff's 
+walnuts and more! Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 052814 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/ce77599f-02a2-0891-b059-bc57874bb4a8.mp3" type="audio/mpeg" length="54687934"/>
+                    <link>http://979espnradio.hipcast.com/deluge/ce77599f-02a2-0891-b059-bc57874bb4a8.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">f47baf1e-680b-6402-f382-88eb5c666bb6</guid>
+                    <title>Seminole Headlines 052814 Hour 1</title>
+                    <description>Headlines this week chats about the Tallahassee Regional, FSU Softball (!?), chauvinistic v. honest, Michael Boulware, FSU football, Jeff's walnuts and more! Hour one </description>
+                    <pubDate>Wed, 28 May 2014 21:56:23 GMT</pubDate>
+                    <itunes:duration>00:49:53</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Headlines this week chats about the Tallahassee Regional, FSU Softball (!?), chauvinistic v. honest, Michael Boulware, FSU football, Jeff's walnuts and more! Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 052814 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/6089227d-acd6-016c-9083-ebfc7d4ac0e8.mp3" type="audio/mpeg" length="47883559"/>
+                    <link>http://979espnradio.hipcast.com/deluge/6089227d-acd6-016c-9083-ebfc7d4ac0e8.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">546642ee-c885-07a5-6e62-ec96a36343db</guid>
+                    <title>Seminole Headlines 051414 Hour 2</title>
+                    <description>This week, Jeff, Ira and Corey discuss Hair Metal, 'Noles who were drafted, 'Noles who will be drafted in 2015, the Seminole baseball team and more! Hour two</description>
+                    <pubDate>Wed, 14 May 2014 21:42:53 GMT</pubDate>
+                    <itunes:duration>00:46:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Ira and Corey discuss Hair Metal, 'Noles who were drafted, 'Noles who will be drafted in 2015, the Seminole baseball team and more! Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 051414 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/819a8c2a-d627-147b-ef5c-d1c32c7468ba.mp3" type="audio/mpeg" length="44761404"/>
+                    <link>http://979espnradio.hipcast.com/deluge/819a8c2a-d627-147b-ef5c-d1c32c7468ba.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">332ae151-5788-d757-7639-7afeecda7310</guid>
+                    <title>Seminole Headlines 051414 Hour 1</title>
+                    <description>This week, Jeff, Ira and Corey discuss Hair Metal, 'Noles who were drafted, 'Noles who will be drafted in 2015, the Seminole baseball team and more! Hour one</description>
+                    <pubDate>Wed, 14 May 2014 21:40:55 GMT</pubDate>
+                    <itunes:duration>00:42:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Ira and Corey discuss Hair Metal, 'Noles who were drafted, 'Noles who will be drafted in 2015, the Seminole baseball team and more! Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 051414 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/60314c33-d5ab-4e18-cf84-59365fb886f3.mp3" type="audio/mpeg" length="41152744"/>
+                    <link>http://979espnradio.hipcast.com/deluge/60314c33-d5ab-4e18-cf84-59365fb886f3.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">29295cc1-01f8-ae35-d1c8-0a7ab0f91cd5</guid>
+                    <title>Seminole Headlines 050714 Hour 2</title>
+                    <description>This week, Seminole Headlines returns to discuss Crabgate, how Jameis Winston and other high-profile 'amateur' athletes are covered, the draft. Seminole baseball and more! Hour two</description>
+                    <pubDate>Wed, 07 May 2014 22:03:11 GMT</pubDate>
+                    <itunes:duration>00:47:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Seminole Headlines returns to discuss Crabgate, how Jameis Winston and other high-profile 'amateur' athletes are covered, the draft. Seminole baseball and more! Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 050714 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/5ca65e0b-ba65-a876-2425-0070f9c785f7.mp3" type="audio/mpeg" length="45790837"/>
+                    <link>http://979espnradio.hipcast.com/deluge/5ca65e0b-ba65-a876-2425-0070f9c785f7.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">e638f0e2-bd4f-2aa2-280a-c22d5391b28e</guid>
+                    <title>Seminole Headlines 050714 Hour 1</title>
+                    <description>This week, Seminole Headlines returns to discuss Crabgate, how Jameis Winston and other high-profile 'amateur' athletes are covered, the draft, Seminole baseball and more. Hour one</description>
+                    <pubDate>Wed, 07 May 2014 21:59:35 GMT</pubDate>
+                    <itunes:duration>00:45:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Seminole Headlines returns to discuss Crabgate, how Jameis Winston and other high-profile 'amateur' athletes are covered, the draft, Seminole baseball and more. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 050714 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/b2cd6fb3-c27a-5f2c-f0dd-eb7c739d5f1a.mp3" type="audio/mpeg" length="43468656"/>
+                    <link>http://979espnradio.hipcast.com/deluge/b2cd6fb3-c27a-5f2c-f0dd-eb7c739d5f1a.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">285469d6-b1dd-7ba5-359e-97b5cd9a52df</guid>
+                    <title>Seminole Headlines 042314 Hour 2</title>
+                    <description>This week, Jeff, Corey and Ira chat baseball (and Billy Strode's dominance), Saltalamachia's marriage and more! (There's plenty of FSU content too) Hour two</description>
+                    <pubDate>Thu, 24 Apr 2014 12:39:01 GMT</pubDate>
+                    <itunes:duration>00:48:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira chat baseball (and Billy Strode's dominance), Saltalamachia's marriage and more! (There's plenty of FSU content too) Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 042314 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/4029dbfb-7eab-d230-660c-64e274b5fca8.mp3" type="audio/mpeg" length="46552017"/>
+                    <link>http://979espnradio.hipcast.com/deluge/4029dbfb-7eab-d230-660c-64e274b5fca8.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">90bf5ff0-9e90-4ea6-d79a-607da5523502</guid>
+                    <title>Seminole Headlines Hour 1 042314</title>
+                    <description>This week, Jeff, Corey and Ira chat baseball (and Billy Strode's dominance), Saltalamachia's marriage and more! (There's plenty of FSU content too) Hour one</description>
+                    <pubDate>Thu, 24 Apr 2014 12:36:39 GMT</pubDate>
+                    <itunes:duration>00:42:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira chat baseball (and Billy Strode's dominance), Saltalamachia's marriage and more! (There's plenty of FSU content too) Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 042314</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/faacff7c-3fe8-c32b-143d-5299ac5c8a2a.mp3" type="audio/mpeg" length="40797897"/>
+                    <link>http://979espnradio.hipcast.com/deluge/faacff7c-3fe8-c32b-143d-5299ac5c8a2a.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">2674a73d-f6c9-cdf0-8699-19809db22571</guid>
+                    <title>Seminole Headlines Hour 2 041614</title>
+                    <description>This week, Jeff, Corey and Ira discuss the NY Times piece re: FSU, TPD and the Jameis Winston investigation, the FSU Spring Game, FSU Baseball and the Uniforms. Hour two</description>
+                    <pubDate>Wed, 16 Apr 2014 22:25:37 GMT</pubDate>
+                    <itunes:duration>00:49:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira discuss the NY Times piece re: FSU, TPD and the Jameis Winston investigation, the FSU Spring Game, FSU Baseball and the Uniforms. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 041614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/3bd533a5-d0f2-8746-acd8-de1d39f83204.mp3" type="audio/mpeg" length="47664966"/>
+                    <link>http://979espnradio.hipcast.com/deluge/3bd533a5-d0f2-8746-acd8-de1d39f83204.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">8e027122-5818-f5cf-6d03-73e1cc8d0c83</guid>
+                    <title>Seminole Headlines Hour 1 041614</title>
+                    <description>This week, Jeff, Corey and Ira discuss the NY Times piece re: FSU, TPD and the Jameis Winston investigation, the FSU Spring Game, FSU Baseball and the Uniforms. Hour one</description>
+                    <pubDate>Wed, 16 Apr 2014 22:12:40 GMT</pubDate>
+                    <itunes:duration>00:45:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira discuss the NY Times piece re: FSU, TPD and the Jameis Winston investigation, the FSU Spring Game, FSU Baseball and the Uniforms. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 041614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/7cc7b373-5de6-086a-ed10-97904441fc49.mp3" type="audio/mpeg" length="43256001"/>
+                    <link>http://979espnradio.hipcast.com/deluge/7cc7b373-5de6-086a-ed10-97904441fc49.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">269e19e5-b91f-adad-f537-25a0c762c65d</guid>
+                    <title>Seminole Headlines Hour 2 040314</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira chat logos, Nick O'Leary, NIT run is over and FSU Baseball. Hour 2</description>
+                    <pubDate>Thu, 03 Apr 2014 22:15:57 GMT</pubDate>
+                    <itunes:duration>00:50:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira chat logos, Nick O'Leary, NIT run is over and FSU Baseball. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 040314</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/59de774b-10ed-20b4-b8b2-1322ee7ab858.mp3" type="audio/mpeg" length="48405172"/>
+                    <link>http://979espnradio.hipcast.com/deluge/59de774b-10ed-20b4-b8b2-1322ee7ab858.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">335c8348-63a7-14c9-88ef-a8643389882e</guid>
+                    <title>Seminole Headlines Hour 1 040314</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira chat logos, Nick O'Leary, NIT run is over and FSU Baseball. Hour 1</description>
+                    <pubDate>Thu, 03 Apr 2014 22:12:52 GMT</pubDate>
+                    <itunes:duration>00:45:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira chat logos, Nick O'Leary, NIT run is over and FSU Baseball. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 040314</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/b5647237-9d05-4509-ecc2-25aa77fcd0e0.mp3" type="audio/mpeg" length="43290605"/>
+                    <link>http://979espnradio.hipcast.com/deluge/b5647237-9d05-4509-ecc2-25aa77fcd0e0.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">ad55ef2e-8857-6833-0497-c4bd56647e71</guid>
+                    <title>Seminole Headlines Hour 2 032614</title>
+                    <description>Jeff, Corey and Ira discuss the shoving match between FSU and UF in Jacksonville, the NIT-ing 'Noles keep their hopes alive and more! Hour 2</description>
+                    <pubDate>Wed, 26 Mar 2014 22:04:54 GMT</pubDate>
+                    <itunes:duration>00:44:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Corey and Ira discuss the shoving match between FSU and UF in Jacksonville, the NIT-ing 'Noles keep their hopes alive and more! Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 032614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2e017a24-aa48-970d-6222-6f7e03d1cd73.mp3" type="audio/mpeg" length="42347689"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2e017a24-aa48-970d-6222-6f7e03d1cd73.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">19fe6b7e-4692-24d5-5452-8ecb383c003f</guid>
+                    <title>Seminole Headlines Hour 1 032614</title>
+                    <description>Jeff, Corey and Ira discuss the shoving match between FSU and UF in Jacksonville, the NIT-ing 'Noles keep their hopes alive and more! Hour 1</description>
+                    <pubDate>Wed, 26 Mar 2014 21:56:22 GMT</pubDate>
+                    <itunes:duration>00:45:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Corey and Ira discuss the shoving match between FSU and UF in Jacksonville, the NIT-ing 'Noles keep their hopes alive and more! Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 032614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/3a8cd26b-f589-12b1-b5a8-88ea2ed65535.mp3" type="audio/mpeg" length="44082638"/>
+                    <link>http://979espnradio.hipcast.com/deluge/3a8cd26b-f589-12b1-b5a8-88ea2ed65535.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a4a3228d-3f11-af0d-a918-b13068e87b3e</guid>
+                    <title>Seminole Headlines Hour 2 031914</title>
+                    <description>This week on Headlines, the fellas break down Corey's Tuesday (covering FSU Pro Day and the NIT), chat spring football as well as 'Nole baseball. Hour two</description>
+                    <pubDate>Wed, 19 Mar 2014 21:13:04 GMT</pubDate>
+                    <itunes:duration>00:43:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the fellas break down Corey's Tuesday (covering FSU Pro Day and the NIT), chat spring football as well as 'Nole baseball. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 031914</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/c75ae58a-0114-f1d5-7091-d8f7d95c8d0e.mp3" type="audio/mpeg" length="41536431"/>
+                    <link>http://979espnradio.hipcast.com/deluge/c75ae58a-0114-f1d5-7091-d8f7d95c8d0e.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">01a89f5c-c1fa-de55-e196-970e7208a50d</guid>
+                    <title>Seminole Headlines Hour 1 031914</title>
+                    <description>This week on Headlines, the fellas break down Corey's Tuesday (covering FSU Pro Day and the NIT), chat spring football as well as 'Nole baseball. Hour one</description>
+                    <pubDate>Wed, 19 Mar 2014 21:09:07 GMT</pubDate>
+                    <itunes:duration>00:41:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the fellas break down Corey's Tuesday (covering FSU Pro Day and the NIT), chat spring football as well as 'Nole baseball. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 031914</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/bd80c3f4-ef03-3a64-33d3-578f31abb5eb.mp3" type="audio/mpeg" length="39548199"/>
+                    <link>http://979espnradio.hipcast.com/deluge/bd80c3f4-ef03-3a64-33d3-578f31abb5eb.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">25c7715e-e569-8407-da0e-4570ba6464d1</guid>
+                    <title>Seminole Headlines Hour 2 031214</title>
+                    <description>This week, Jeff, Corey and Ira discuss FSU Basketball's hopes of a miracle in Greensboro, Rick Pitnio is loathed, FSU Baseball is dissected and more! Hour 2</description>
+                    <pubDate>Wed, 12 Mar 2014 22:09:18 GMT</pubDate>
+                    <itunes:duration>00:50:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira discuss FSU Basketball's hopes of a miracle in Greensboro, Rick Pitnio is loathed, FSU Baseball is dissected and more! Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 031214</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/91f127c1-1372-3704-0d93-cbc6c218faaf.mp3" type="audio/mpeg" length="48358778"/>
+                    <link>http://979espnradio.hipcast.com/deluge/91f127c1-1372-3704-0d93-cbc6c218faaf.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">b46ee32f-4d6a-a368-caa5-be2ee19789df</guid>
+                    <title>Seminole Headlines Hour 1 031214</title>
+                    <description>This week, Jeff, Corey and Ira discuss FSU Basketball's hopes of a miracle in Greensboro, Rick Pitnio is loathed, FSU Baseball is dissected and more! Hour 1</description>
+                    <pubDate>Wed, 12 Mar 2014 22:08:31 GMT</pubDate>
+                    <itunes:duration>00:51:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira discuss FSU Basketball's hopes of a miracle in Greensboro, Rick Pitnio is loathed, FSU Baseball is dissected and more! Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 031214</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2d3f63a6-26e0-4e64-1518-7c6e1248ee6b.mp3" type="audio/mpeg" length="49241926"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2d3f63a6-26e0-4e64-1518-7c6e1248ee6b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">28e51af6-8340-d3b6-1b74-dbfb871d5863</guid>
+                    <title>Seminole Headlines Hour 2 022614</title>
+                    <description>Jeff, Ira, and Corey discuss FSU baseball taking on the Yankees, Jameis' fame, FSU basketball clinging to life and the usual tomfoolery.</description>
+                    <pubDate>Wed, 26 Feb 2014 21:57:28 GMT</pubDate>
+                    <itunes:duration>00:50:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Ira, and Corey discuss FSU baseball taking on the Yankees, Jameis' fame, FSU basketball clinging to life and the usual tomfoolery.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 022614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/1c4e667d-d780-9cf7-195d-cd13238b9577.mp3" type="audio/mpeg" length="48330775"/>
+                    <link>http://979espnradio.hipcast.com/deluge/1c4e667d-d780-9cf7-195d-cd13238b9577.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">affcf25f-6a4d-f86e-5874-5be9e68474db</guid>
+                    <title>Seminole Headlines Hour 1 022614</title>
+                    <description>Jeff, Ira, and Corey discuss FSU baseball taking on the Yankees, Jameis' fame, FSU basketball clinging to life and the usual tomfoolery.</description>
+                    <pubDate>Wed, 26 Feb 2014 21:56:01 GMT</pubDate>
+                    <itunes:duration>00:48:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Ira, and Corey discuss FSU baseball taking on the Yankees, Jameis' fame, FSU basketball clinging to life and the usual tomfoolery.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 022614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/baddf05d-ea68-005f-ec9d-960acb5e69a9.mp3" type="audio/mpeg" length="46592065"/>
+                    <link>http://979espnradio.hipcast.com/deluge/baddf05d-ea68-005f-ec9d-960acb5e69a9.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">9ab25d0b-0cad-ba8a-698b-ed0a2d64d1b6</guid>
+                    <title>Seminole Headlines Hour 2 021914</title>
+                    <description>Jeff, Corey and Ira chat about FSU basketball's disaster, Ira's van, the FSU baseball team is off to a good start, and the usual tomfoolery. Hour 2</description>
+                    <pubDate>Wed, 19 Feb 2014 23:01:59 GMT</pubDate>
+                    <itunes:duration>00:50:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Corey and Ira chat about FSU basketball's disaster, Ira's van, the FSU baseball team is off to a good start, and the usual tomfoolery. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 021914</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/02f5ee1e-3853-ea51-7b62-a36fb6badadb.mp3" type="audio/mpeg" length="48282710"/>
+                    <link>http://979espnradio.hipcast.com/deluge/02f5ee1e-3853-ea51-7b62-a36fb6badadb.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">db70272c-acdf-f27d-d2e6-8610d92ba45c</guid>
+                    <title>Seminole Headlines Hour 1 021914</title>
+                    <description>Jeff, Corey and Ira chat about FSU basketball's disaster, Ira's van, the FSU baseball team is off to a good start, and the usual tomfoolery. Hour 1 </description>
+                    <pubDate>Wed, 19 Feb 2014 22:38:15 GMT</pubDate>
+                    <itunes:duration>00:47:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Corey and Ira chat about FSU basketball's disaster, Ira's van, the FSU baseball team is off to a good start, and the usual tomfoolery. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 021914</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/e49bc61d-0950-e831-3af8-5a793e5aed05.mp3" type="audio/mpeg" length="45195663"/>
+                    <link>http://979espnradio.hipcast.com/deluge/e49bc61d-0950-e831-3af8-5a793e5aed05.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">add0d159-a355-635f-108c-c4d98a586082</guid>
+                    <title>Seminole Headlines Hour 2 021314</title>
+                    <description>This week on Headlines, the guys do a post-mortem (with the EKG
+active) on FSU basketball, chat about curling, the Winter Olympics and
+FSU Baseball. Hour 2</description>
+                    <pubDate>Thu, 13 Feb 2014 23:24:35 GMT</pubDate>
+                    <itunes:duration>00:51:26</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the guys do a post-mortem (with the EKG
+active) on FSU basketball, chat about curling, the Winter Olympics and
+FSU Baseball. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 021314</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/358e9d98-7b15-a641-0c08-930e41d93c30.mp3" type="audio/mpeg" length="49371911"/>
+                    <link>http://979espnradio.hipcast.com/deluge/358e9d98-7b15-a641-0c08-930e41d93c30.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">57aab8fa-e7ac-c0b9-381d-00f2a872264f</guid>
+                    <title>Seminole Headlines Hour 1 021314</title>
+                    <description>This week on Headlines, the guys do a post-mortem (with the EKG active) on FSU basketball, chat about curling, the Winter Olympics and FSU Baseball. Hour 1</description>
+                    <pubDate>Thu, 13 Feb 2014 23:06:53 GMT</pubDate>
+                    <itunes:duration>00:46:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the guys do a post-mortem (with the EKG active) on FSU basketball, chat about curling, the Winter Olympics and FSU Baseball. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 021314</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/39322194-dd1d-6bb0-ff18-6621c41df1de.mp3" type="audio/mpeg" length="44519823"/>
+                    <link>http://979espnradio.hipcast.com/deluge/39322194-dd1d-6bb0-ff18-6621c41df1de.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">c8dfe123-93f9-bf0e-13d4-4c48296b316d</guid>
+                    <title>Seminole Headlines Hour 2 020614</title>
+                    <description>We continue to celebrate Ira being employee of the month and of course, the latest in Seminole sports news</description>
+                    <pubDate>Thu, 06 Feb 2014 22:50:58 GMT</pubDate>
+                    <itunes:duration>00:55:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>We continue to celebrate Ira being employee of the month and of course, the latest in Seminole sports news</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 020614</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/cba953e8-4277-7308-29ae-a440411a443b.mp3" type="audio/mpeg" length="53670073"/>
+                    <link>http://979espnradio.hipcast.com/deluge/cba953e8-4277-7308-29ae-a440411a443b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">8992cb9e-8826-7b27-ec66-03d8d3593088</guid>
+                    <title>Seminole Headlines Hour 1 2-6-14</title>
+                    <description>Ira is employee of the year and all of your other Seminole news</description>
+                    <pubDate>Thu, 06 Feb 2014 22:26:55 GMT</pubDate>
+                    <itunes:duration>00:47:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Ira is employee of the year and all of your other Seminole news</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 2-6-14</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/f117b36a-3cac-8254-de2d-cc5d329a5208.mp3" type="audio/mpeg" length="45774119"/>
+                    <link>http://979espnradio.hipcast.com/deluge/f117b36a-3cac-8254-de2d-cc5d329a5208.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">267d67bb-471d-4961-347e-59aadfa16188</guid>
+                    <title>JCS 2-3-14 Hour 1</title>
+                    <description>1. Reaction to the Super Bowl 2. Trainwreck for Trolley? 3. Manning and the Super Bowl</description>
+                    <pubDate>Mon, 03 Feb 2014 23:19:28 GMT</pubDate>
+                    <itunes:duration>00:36:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>1. Reaction to the Super Bowl 2. Trainwreck for Trolley? 3. Manning and the Super Bowl</itunes:summary>
+                    <itunes:subtitle>JCS 2-3-14 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/1975373e-ce05-5d1f-f458-9c5af2eae01c.mp3" type="audio/mpeg" length="35384907"/>
+                    <link>http://979espnradio.hipcast.com/deluge/1975373e-ce05-5d1f-f458-9c5af2eae01c.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">2446273a-2db3-ea1f-21b1-8d9f13f4f889</guid>
+                    <title>Seminole Headlines Hour 2 012214</title>
+                    <description>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship celebration being postponed,  Jeremy Pruitt leaving and FSU Basketball. Hour 2. </description>
+                    <pubDate>Wed, 22 Jan 2014 23:04:38 GMT</pubDate>
+                    <itunes:duration>00:50:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship celebration being postponed,  Jeremy Pruitt leaving and FSU Basketball. Hour 2.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 012214</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/7b4b5cfe-c42c-ebb7-ce2b-e0a903db0cf4.mp3" type="audio/mpeg" length="48586984"/>
+                    <link>http://979espnradio.hipcast.com/deluge/7b4b5cfe-c42c-ebb7-ce2b-e0a903db0cf4.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">452f83d5-67cc-7fe5-858c-42a5da259a08</guid>
+                    <title>Seminole Headlines Hour 1 012214</title>
+                    <description>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship celebration being postponed,  Jeremy Pruitt leaving and FSU Basketball. Hour 1. </description>
+                    <pubDate>Wed, 22 Jan 2014 22:57:40 GMT</pubDate>
+                    <itunes:duration>00:37:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship celebration being postponed,  Jeremy Pruitt leaving and FSU Basketball. Hour 1.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 012214</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/e37ece2b-b287-9a75-a184-6a6d4fd392d4.mp3" type="audio/mpeg" length="36143921"/>
+                    <link>http://979espnradio.hipcast.com/deluge/e37ece2b-b287-9a75-a184-6a6d4fd392d4.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a22498d4-caaf-107c-b704-c16b2d288433</guid>
+                    <title>Seminole Headlines Hour 2 011514</title>
+                    <description>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship Game and discuss stealing signs. Hour 2. </description>
+                    <pubDate>Wed, 15 Jan 2014 23:07:50 GMT</pubDate>
+                    <itunes:duration>00:54:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship Game and discuss stealing signs. Hour 2.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 011514</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/4ee2e6f6-7f0e-903d-551f-18ed5b6073d5.mp3" type="audio/mpeg" length="52501590"/>
+                    <link>http://979espnradio.hipcast.com/deluge/4ee2e6f6-7f0e-903d-551f-18ed5b6073d5.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">363fa79f-a7f8-41d5-6679-01e1ca68fae1</guid>
+                    <title>Seminole Headlines Hour 1 011514</title>
+                    <description>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship Game and discuss stealing signs. Hour 1. </description>
+                    <pubDate>Wed, 15 Jan 2014 22:56:08 GMT</pubDate>
+                    <itunes:duration>00:46:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines: Jeff, Corey and Ira react to the BCS Championship Game and discuss stealing signs. Hour 1.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 011514</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/8a3c5355-0e5d-ca60-1d35-1435d2d79c08.mp3" type="audio/mpeg" length="45084068"/>
+                    <link>http://979espnradio.hipcast.com/deluge/8a3c5355-0e5d-ca60-1d35-1435d2d79c08.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">420376a1-3137-fdf1-5480-c4da49eb328b</guid>
+                    <title>Seminole Headlines Hour 2 121113</title>
+                    <description>This week on Headlines: Jeff, Corey and Ira talk 13-0, the National Championship, Cutcliffe, Cox, Coconut Oil and Corey offers up a new Hour Number Two!</description>
+                    <pubDate>Wed, 11 Dec 2013 22:50:27 GMT</pubDate>
+                    <itunes:duration>00:48:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Jeff, Corey and Ira talk 13-0, the National Championship, Cutcliffe, Cox, Coconut Oil and Corey offers up a new Hour Number Two!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 121113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/17459503-f667-28d9-40cb-ce6646ba015c.mp3" type="audio/mpeg" length="47014204"/>
+                    <link>http://979espnradio.hipcast.com/deluge/17459503-f667-28d9-40cb-ce6646ba015c.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">350bb3f3-30dd-89a6-7316-52578bb1b0c0</guid>
+                    <title>Seminole Headlines Hour 1 121113</title>
+                    <description>This week on Headlines: Jeff, Corey and Ira talk 13-0, the National Championship, Cutcliffe, Cox, Coconut Oil and Corey offers up a new Hour Number Two!</description>
+                    <pubDate>Wed, 11 Dec 2013 22:35:02 GMT</pubDate>
+                    <itunes:duration>00:46:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Jeff, Corey and Ira talk 13-0, the National Championship, Cutcliffe, Cox, Coconut Oil and Corey offers up a new Hour Number Two!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 121113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/e156c4f9-05dc-a79b-c977-014e9c62f6d8.mp3" type="audio/mpeg" length="44667781"/>
+                    <link>http://979espnradio.hipcast.com/deluge/e156c4f9-05dc-a79b-c977-014e9c62f6d8.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">eacaf5e4-0d26-14df-cc0f-f6b765627d0f</guid>
+                    <title>Seminole Headlines 120413 Hour 2</title>
+                    <description>This week on Headlines, Jeff, Ira and Corey discuss the ever-evolving Jameis Winston situation, FSU completing a 12-0 season, the awards and superlatives for Jimbo Fisher and the players and more. Hour two</description>
+                    <pubDate>Wed, 04 Dec 2013 23:19:32 GMT</pubDate>
+                    <itunes:duration>00:46:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Ira and Corey discuss the ever-evolving Jameis Winston situation, FSU completing a 12-0 season, the awards and superlatives for Jimbo Fisher and the players and more. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 120413 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/94012c00-fe58-2bef-4439-d9bd182425f0.mp3" type="audio/mpeg" length="44561201"/>
+                    <link>http://979espnradio.hipcast.com/deluge/94012c00-fe58-2bef-4439-d9bd182425f0.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">500a76c1-c894-8ebb-ec42-f50114838c75</guid>
+                    <title>Seminole Headlines 120413 Hour 1</title>
+                    <description>This week on Headlines, Jeff, Ira and Corey discuss the ever-evolving Jameis Winston situation, FSU completing a 12-0 season, the awards and superlatives for Jimbo Fisher and the players and more. Hour one</description>
+                    <pubDate>Wed, 04 Dec 2013 23:07:19 GMT</pubDate>
+                    <itunes:duration>00:48:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Ira and Corey discuss the ever-evolving Jameis Winston situation, FSU completing a 12-0 season, the awards and superlatives for Jimbo Fisher and the players and more. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 120413 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/45e62981-3061-1d6c-2c0a-1e0c53059920.mp3" type="audio/mpeg" length="46246831"/>
+                    <link>http://979espnradio.hipcast.com/deluge/45e62981-3061-1d6c-2c0a-1e0c53059920.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">5e2c9777-c13a-ebb4-6319-59f0174dabfe</guid>
+                    <title>Seminole Headlines Hour 2 112713</title>
+                    <description>This holiday edition of Seminole Headlines chats about FSU-UF, where the Florida Athletic Department goes from here, FSU BBall, Pie, Balls and more. Hour 2</description>
+                    <pubDate>Wed, 27 Nov 2013 19:14:41 GMT</pubDate>
+                    <itunes:duration>00:39:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This holiday edition of Seminole Headlines chats about FSU-UF, where the Florida Athletic Department goes from here, FSU BBall, Pie, Balls and more. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 112713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/55845a9c-46d1-df77-3290-538737158645.mp3" type="audio/mpeg" length="38182308"/>
+                    <link>http://979espnradio.hipcast.com/deluge/55845a9c-46d1-df77-3290-538737158645.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">9e5ae58e-7752-289d-6cfb-36c396856b34</guid>
+                    <title>Seminole Headlines Hour 1 112713</title>
+                    <description>This holiday edition of Seminole Headlines chats about FSU-UF, where the Florida Athletic Department goes from here, FSU BBall, Pie, Balls and more. Hour 1 </description>
+                    <pubDate>Wed, 27 Nov 2013 19:06:51 GMT</pubDate>
+                    <itunes:duration>00:45:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This holiday edition of Seminole Headlines chats about FSU-UF, where the Florida Athletic Department goes from here, FSU BBall, Pie, Balls and more. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 112713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/567efd23-eae6-7e0f-03ed-fa48eeb57f19.mp3" type="audio/mpeg" length="44111059"/>
+                    <link>http://979espnradio.hipcast.com/deluge/567efd23-eae6-7e0f-03ed-fa48eeb57f19.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">b645cfb8-613f-c714-b20e-60388b8c02ec</guid>
+                    <title>Seminole Headlines Hour 2 112013</title>
+                    <description>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports </description>
+                    <pubDate>Wed, 20 Nov 2013 23:32:49 GMT</pubDate>
+                    <itunes:duration>00:57:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 112013</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/fd15b12b-b0d7-c10a-6531-35070c643761.mp3" type="audio/mpeg" length="55382582"/>
+                    <link>http://979espnradio.hipcast.com/deluge/fd15b12b-b0d7-c10a-6531-35070c643761.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">804b44a3-c30f-7cff-98da-7a4f52a979f0</guid>
+                    <title>Seminole Headlines Hour 1 112013</title>
+                    <description>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports </description>
+                    <pubDate>Wed, 20 Nov 2013 23:23:56 GMT</pubDate>
+                    <itunes:duration>00:57:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 112013</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/5d0b69a9-c75b-bb21-0dab-158060324a15.mp3" type="audio/mpeg" length="55382582"/>
+                    <link>http://979espnradio.hipcast.com/deluge/5d0b69a9-c75b-bb21-0dab-158060324a15.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a0c455a6-0d20-451f-bfae-88490f755098</guid>
+                    <title>Seminole Headlines Hour 1 112013</title>
+                    <description>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports</description>
+                    <pubDate>Wed, 20 Nov 2013 23:13:20 GMT</pubDate>
+                    <itunes:duration>00:43:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff Cameron, Ira Schoffel and Corey Clark discuss the latest in FSU sports</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 112013</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/bed22d38-1e50-c941-5a0a-d9b0354e0fec.mp3" type="audio/mpeg" length="41511421"/>
+                    <link>http://979espnradio.hipcast.com/deluge/bed22d38-1e50-c941-5a0a-d9b0354e0fec.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">c71d87c7-b216-75a3-36d9-039f5ca6b0c9</guid>
+                    <title>Seminole Headlines Hour 2 111413</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira discuss the Jameis Winston saga in depth, and break down the football and basketball programs. Hour two</description>
+                    <pubDate>Fri, 15 Nov 2013 00:33:08 GMT</pubDate>
+                    <itunes:duration>00:51:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira discuss the Jameis Winston saga in depth, and break down the football and basketball programs. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 111413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/bb936e63-4f43-e002-4608-bf6525597db2.mp3" type="audio/mpeg" length="49795304"/>
+                    <link>http://979espnradio.hipcast.com/deluge/bb936e63-4f43-e002-4608-bf6525597db2.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">6256e414-043c-a61e-f3a7-f51d815110f5</guid>
+                    <title>Seminole Headlines Hour 1 111413</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira discuss the Jameis Winston saga in depth, and break down the football and basketball programs. Hour one</description>
+                    <pubDate>Fri, 15 Nov 2013 00:28:36 GMT</pubDate>
+                    <itunes:duration>00:44:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira discuss the Jameis Winston saga in depth, and break down the football and basketball programs. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 111413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/48164ced-eeb3-cbcc-e0f7-e53888ab2754.mp3" type="audio/mpeg" length="42844225"/>
+                    <link>http://979espnradio.hipcast.com/deluge/48164ced-eeb3-cbcc-e0f7-e53888ab2754.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">d6279b23-951d-0ffc-54f0-b78a17ccf3a2</guid>
+                    <title>Seminole Headlines Hour 2 110613</title>
+                    <description>This week on Headlines: Jeff, Corey and Ira react to FSU-Miami, Tom Rinaldi is prominently mentioned and what are the realistic chances FSU is in Pasadena if the top three are all undefeated. Hour 2</description>
+                    <pubDate>Wed, 06 Nov 2013 23:30:30 GMT</pubDate>
+                    <itunes:duration>00:49:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Jeff, Corey and Ira react to FSU-Miami, Tom Rinaldi is prominently mentioned and what are the realistic chances FSU is in Pasadena if the top three are all undefeated. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 110613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/4c2cf5c7-4c4a-6e48-9986-f7f93f19ff28.mp3" type="audio/mpeg" length="47392875"/>
+                    <link>http://979espnradio.hipcast.com/deluge/4c2cf5c7-4c4a-6e48-9986-f7f93f19ff28.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">95a60d5a-5314-4e81-ecbf-dc36433a6196</guid>
+                    <title>Seminole Headlines Hour 1 110613</title>
+                    <description>This week on Headlines: Jeff, Corey and Ira react to FSU-Miami, Tom Rinaldi is prominently mentioned and what are the realistic chances FSU is in Pasadena if the top three are all undefeated.</description>
+                    <pubDate>Wed, 06 Nov 2013 23:25:58 GMT</pubDate>
+                    <itunes:duration>00:50:31</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Jeff, Corey and Ira react to FSU-Miami, Tom Rinaldi is prominently mentioned and what are the realistic chances FSU is in Pasadena if the top three are all undefeated.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 110613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2096bfad-da8c-3674-6d68-a44a56c9479b.mp3" type="audio/mpeg" length="48499213"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2096bfad-da8c-3674-6d68-a44a56c9479b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">f33a2aa1-0889-9455-84a9-fa6fad0695e4</guid>
+                    <title>Seminole Headlines Hour 2 10-30-13</title>
+                    <description>Miami Week</description>
+                    <pubDate>Wed, 30 Oct 2013 23:15:07 GMT</pubDate>
+                    <itunes:duration>00:51:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Miami Week</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 10-30-13</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/e1859dd9-38fc-09da-bbe2-418e44ac2b74.mp3" type="audio/mpeg" length="49636897"/>
+                    <link>http://979espnradio.hipcast.com/deluge/e1859dd9-38fc-09da-bbe2-418e44ac2b74.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">00f6a280-7fd1-0dd7-0064-553baeae6124</guid>
+                    <title>Seminole Headlines Hour 1 10-30-13</title>
+                    <description>Miami Week</description>
+                    <pubDate>Wed, 30 Oct 2013 23:08:21 GMT</pubDate>
+                    <itunes:duration>00:44:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Miami Week</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 10-30-13</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/1e1f0ccd-ff5b-1d79-d70a-57621229f5b9.mp3" type="audio/mpeg" length="42446328"/>
+                    <link>http://979espnradio.hipcast.com/deluge/1e1f0ccd-ff5b-1d79-d70a-57621229f5b9.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">096a8120-88f7-dfe9-1af7-afc58230d397</guid>
+                    <title>Seminole Headlines Hour 1 102313</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</description>
+                    <pubDate>Thu, 24 Oct 2013 03:48:57 GMT</pubDate>
+                    <itunes:duration>00:45:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 102313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/402baaae-4433-2775-9b55-eb354f5bf53b.mp3" type="audio/mpeg" length="43837296"/>
+                    <link>http://979espnradio.hipcast.com/deluge/402baaae-4433-2775-9b55-eb354f5bf53b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">00190cfb-fbdd-4bc5-131e-4871b2268398</guid>
+                    <title>Seminole Headlines Hour 1 102313</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 2</description>
+                    <pubDate>Thu, 24 Oct 2013 03:47:22 GMT</pubDate>
+                    <itunes:duration>00:45:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 102313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/92c6847e-45b0-375d-d57d-c6afcc9069d6.mp3" type="audio/mpeg" length="43837296"/>
+                    <link>http://979espnradio.hipcast.com/deluge/92c6847e-45b0-375d-d57d-c6afcc9069d6.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">8491c8fd-ec89-994e-f477-6c9e80e8530c</guid>
+                    <title>Seminole Headlines Hour 1 102313</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season and a little Bobby Bowden talk too.</description>
+                    <pubDate>Thu, 24 Oct 2013 03:34:32 GMT</pubDate>
+                    <itunes:duration>00:45:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season and a little Bobby Bowden talk too.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 102313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/04d03164-0172-d5f0-e7bc-f7480b209e71.mp3" type="audio/mpeg" length="43837296"/>
+                    <link>http://979espnradio.hipcast.com/deluge/04d03164-0172-d5f0-e7bc-f7480b209e71.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">db52c4a6-997a-1c61-f9be-f6e64eb322f7</guid>
+                    <title>Seminole Headlines Hour 1 102313</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</description>
+                    <pubDate>Thu, 24 Oct 2013 03:08:29 GMT</pubDate>
+                    <itunes:duration>00:45:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 102313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/641243f2-77d6-dc79-8b96-6193bcf61f3e.mp3" type="audio/mpeg" length="43837296"/>
+                    <link>http://979espnradio.hipcast.com/deluge/641243f2-77d6-dc79-8b96-6193bcf61f3e.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">beb2e390-acbd-8eb3-831e-32b3e70d8dd3</guid>
+                    <title>Seminole Headlines Hour 1 102313</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</description>
+                    <pubDate>Thu, 24 Oct 2013 03:08:11 GMT</pubDate>
+                    <itunes:duration>00:45:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 102313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/b56f2354-19fa-83a8-88c7-5652fefbff59.mp3" type="audio/mpeg" length="43837296"/>
+                    <link>http://979espnradio.hipcast.com/deluge/b56f2354-19fa-83a8-88c7-5652fefbff59.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a9b9bd6b-54fc-3bbb-523f-c4f455a3fd57</guid>
+                    <title>Seminole Headlines Hour 2 102323</title>
+                    <description>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 2</description>
+                    <pubDate>Wed, 23 Oct 2013 22:14:08 GMT</pubDate>
+                    <itunes:duration>00:44:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Seminole Headlines this week features Jeff, Corey an Ira reacting to the thumping FSU put on Clemson, the guys looking toward what could be a National Championship game season, and Bobby Bowden talk. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 102323</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/9d3e5882-48c9-1538-8a1c-e7a3f5e9eb3b.mp3" type="audio/mpeg" length="42348175"/>
+                    <link>http://979espnradio.hipcast.com/deluge/9d3e5882-48c9-1538-8a1c-e7a3f5e9eb3b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">bba2a27a-f96b-960b-1f53-2c5a6bd33295</guid>
+                    <title>Seminole Headlines Hour 2 101613</title>
+                    <description>It's that time of year, Clemson week is upon us. Jeff, Corey and Ira focus on all the keys to the game, where this would put FSU with a win, mix in some Dabo love and top it off with predictions. Hour two</description>
+                    <pubDate>Wed, 16 Oct 2013 23:59:53 GMT</pubDate>
+                    <itunes:duration>00:44:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>It's that time of year, Clemson week is upon us. Jeff, Corey and Ira focus on all the keys to the game, where this would put FSU with a win, mix in some Dabo love and top it off with predictions. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 101613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/50572b95-844d-d34a-8028-38e61ba6bbf1.mp3" type="audio/mpeg" length="43013080"/>
+                    <link>http://979espnradio.hipcast.com/deluge/50572b95-844d-d34a-8028-38e61ba6bbf1.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">e9c1a8eb-e1bf-86a5-0366-0d444927dd2f</guid>
+                    <title>Seminole Headlines Hour 1 101613</title>
+                    <description>It's that time of year, Clemson week is upon us. Jeff, Corey and Ira focus on all the keys to the game, where this would put FSU with a win, mix in some Dabo love and top it off with predictions. Hour one</description>
+                    <pubDate>Wed, 16 Oct 2013 23:34:17 GMT</pubDate>
+                    <itunes:duration>00:46:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>It's that time of year, Clemson week is upon us. Jeff, Corey and Ira focus on all the keys to the game, where this would put FSU with a win, mix in some Dabo love and top it off with predictions. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 101613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/67034ed9-b9e3-ab89-fb86-de4dd0087740.mp3" type="audio/mpeg" length="44360581"/>
+                    <link>http://979espnradio.hipcast.com/deluge/67034ed9-b9e3-ab89-fb86-de4dd0087740.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">f71d3c49-fc54-d310-f1a4-7829b0d40f06</guid>
+                    <title>Seminole Headlines Hour 2 100913</title>
+                    <description>This week on Headlines, Corey has to bite the Terrapin-flavored bullet as Jeff brings a clip with him to review Maryland predictions, the guys chat about all that the Clemson game could mean as well as topics like statues and the things crazy kids do to them.</description>
+                    <pubDate>Wed, 09 Oct 2013 22:34:57 GMT</pubDate>
+                    <itunes:duration>00:47:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Corey has to bite the Terrapin-flavored bullet as Jeff brings a clip with him to review Maryland predictions, the guys chat about all that the Clemson game could mean as well as topics like statues and the things crazy kids do to them.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 100913</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/1847c704-6383-20dc-0230-18199b450f32.mp3" type="audio/mpeg" length="45147598"/>
+                    <link>http://979espnradio.hipcast.com/deluge/1847c704-6383-20dc-0230-18199b450f32.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">e7e179cd-a854-85c1-a639-5c2ed252e4d6</guid>
+                    <title>Seminole Headlines Hour 1 100913</title>
+                    <description>This week on Headlines, Corey has to bite the Terrapin-flavored bullet as Jeff brings a clip with him to review Maryland predictions, the guys chat about all that the Clemson game could mean as well as topics like statues and the things crazy kids do to them.</description>
+                    <pubDate>Wed, 09 Oct 2013 22:28:06 GMT</pubDate>
+                    <itunes:duration>00:43:53</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Corey has to bite the Terrapin-flavored bullet as Jeff brings a clip with him to review Maryland predictions, the guys chat about all that the Clemson game could mean as well as topics like statues and the things crazy kids do to them.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 100913</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/de5dc097-4839-585f-af76-e0fabedbe406.mp3" type="audio/mpeg" length="42136202"/>
+                    <link>http://979espnradio.hipcast.com/deluge/de5dc097-4839-585f-af76-e0fabedbe406.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">be8b4cfe-8f13-88ea-0730-0bf3421f8a8e</guid>
+                    <title>Seminole Headlines Hour 2 100213</title>
+                    <description>This week on Headlines, the guys break down what was an eyebrow-raising performance by the defense in Chestnut Hill, Corey and Jeff butt heads on what Maryland is, there is going commando (not that kind) mentioned, and Ira remains professional in the midst of Jeff's foolishness. Hour one</description>
+                    <pubDate>Wed, 02 Oct 2013 22:47:45 GMT</pubDate>
+                    <itunes:duration>00:49:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the guys break down what was an eyebrow-raising performance by the defense in Chestnut Hill, Corey and Jeff butt heads on what Maryland is, there is going commando (not that kind) mentioned, and Ira remains professional in the midst of Jeff's foolishness. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 100213</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/a7ebf406-8dd8-e4ca-e6dd-ca3ecb1e8ccc.mp3" type="audio/mpeg" length="47094034"/>
+                    <link>http://979espnradio.hipcast.com/deluge/a7ebf406-8dd8-e4ca-e6dd-ca3ecb1e8ccc.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">30028564-4bcd-ca61-7546-0c3eb02fe13d</guid>
+                    <title>Seminole Headlines Hour 1 100213</title>
+                    <description>This week on Headlines, the guys break down what was an eyebrow-raising performance by the defense in Chestnut Hill, Corey and Jeff butt heads on what Maryland is, there is going commando (not that kind) mentioned, and Ira remains professional in the midst of Jeff's foolishness. Hour one</description>
+                    <pubDate>Wed, 02 Oct 2013 22:37:29 GMT</pubDate>
+                    <itunes:duration>00:42:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, the guys break down what was an eyebrow-raising performance by the defense in Chestnut Hill, Corey and Jeff butt heads on what Maryland is, there is going commando (not that kind) mentioned, and Ira remains professional in the midst of Jeff's foolishness. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 100213</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/7abb2a96-6c3d-fee3-6ffd-6067bda621fb.mp3" type="audio/mpeg" length="41225469"/>
+                    <link>http://979espnradio.hipcast.com/deluge/7abb2a96-6c3d-fee3-6ffd-6067bda621fb.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">0b7dc677-cde8-ff09-1cea-37fbb82af37f</guid>
+                    <title>Seminole Headlines Hour 2 092613</title>
+                    <description>This week on Headlines: Florida State returns to the conference slate
+against B.C., Tyler Hunter's potential injury is examined, the guys
+add Karlos to the Menelik Challenge (!?) and more! Hour two</description>
+                    <pubDate>Thu, 26 Sep 2013 22:43:49 GMT</pubDate>
+                    <itunes:duration>00:49:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Florida State returns to the conference slate
+against B.C., Tyler Hunter's potential injury is examined, the guys
+add Karlos to the Menelik Challenge (!?) and more! Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 092613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/8d32162d-94bd-6a8d-86f7-4f708969a1aa.mp3" type="audio/mpeg" length="47118693"/>
+                    <link>http://979espnradio.hipcast.com/deluge/8d32162d-94bd-6a8d-86f7-4f708969a1aa.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">81636bbc-edfe-7bf1-ad45-0d480fee690b</guid>
+                    <title>Seminole Headlines Hour 1 092613</title>
+                    <description>This week on Headlines: Florida State returns to the conference slate against B.C., Tyler Hunter's potential injury is examined, the guys add Karlos to the Menelik Challenge (!?) and more! Hour one</description>
+                    <pubDate>Thu, 26 Sep 2013 22:32:26 GMT</pubDate>
+                    <itunes:duration>00:47:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines: Florida State returns to the conference slate against B.C., Tyler Hunter's potential injury is examined, the guys add Karlos to the Menelik Challenge (!?) and more! Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 092613</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/38763be2-346e-9ece-499c-d9bf19a973b2.mp3" type="audio/mpeg" length="45655418"/>
+                    <link>http://979espnradio.hipcast.com/deluge/38763be2-346e-9ece-499c-d9bf19a973b2.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">987a91a2-4619-4c71-b5a2-eb115842400b</guid>
+                    <title>Seminole Headlines Hour 2 091813</title>
+                    <description>Headlines this week discusses the calm-factor for coach Jimbo Fisher
+with his new quarterback, any concerns for the defense, butt powder on
+balding heads, Bo Pelini and more! Hour 2</description>
+                    <pubDate>Wed, 18 Sep 2013 22:51:56 GMT</pubDate>
+                    <itunes:duration>00:47:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Headlines this week discusses the calm-factor for coach Jimbo Fisher
+with his new quarterback, any concerns for the defense, butt powder on
+balding heads, Bo Pelini and more! Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 091813</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/9210d0df-6474-a4da-323e-593038982f9e.mp3" type="audio/mpeg" length="45509861"/>
+                    <link>http://979espnradio.hipcast.com/deluge/9210d0df-6474-a4da-323e-593038982f9e.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a51f8b97-d712-6a27-8b22-b423cabd9daf</guid>
+                    <title>Seminole Headlines Hour 1 091813</title>
+                    <description>Headlines this week discusses the calm-factor for coach Jimbo Fisher with his new quarterback, any concerns for the defense, butt powder on balding heads, Bo Pelini and more!</description>
+                    <pubDate>Wed, 18 Sep 2013 22:44:28 GMT</pubDate>
+                    <itunes:duration>00:48:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Headlines this week discusses the calm-factor for coach Jimbo Fisher with his new quarterback, any concerns for the defense, butt powder on balding heads, Bo Pelini and more!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 091813</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2e037c05-b865-8fe1-a677-f26eac012ed0.mp3" type="audio/mpeg" length="46268564"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2e037c05-b865-8fe1-a677-f26eac012ed0.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">5df6f931-afbd-63cf-7c15-078ae3f168f3</guid>
+                    <title>Seminole Headlines Hour 2 091113</title>
+                    <description>This week, Headlines chats about Nevada week, Jameis Winston and the defense making their second appearances on the field, Little League and more. Hour 2</description>
+                    <pubDate>Thu, 12 Sep 2013 01:07:21 GMT</pubDate>
+                    <itunes:duration>00:54:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Headlines chats about Nevada week, Jameis Winston and the defense making their second appearances on the field, Little League and more. Hour 2</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 091113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/8acbf5e0-e59a-d115-e0d1-26b34ae9a894.mp3" type="audio/mpeg" length="51926478"/>
+                    <link>http://979espnradio.hipcast.com/deluge/8acbf5e0-e59a-d115-e0d1-26b34ae9a894.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">1eb4c108-e369-86d7-a102-d17c789b6483</guid>
+                    <title>Seminole Headlines Hour 1 091113</title>
+                    <description>This week, Headlines chats about Nevada week, Jameis Winston and the defense making their second appearances on the field, Little League and more. Hour 1</description>
+                    <pubDate>Thu, 12 Sep 2013 00:58:04 GMT</pubDate>
+                    <itunes:duration>00:50:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Headlines chats about Nevada week, Jameis Winston and the defense making their second appearances on the field, Little League and more. Hour 1</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 091113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/043063dd-46fb-c99a-d0f2-1803bbe75add.mp3" type="audio/mpeg" length="48889586"/>
+                    <link>http://979espnradio.hipcast.com/deluge/043063dd-46fb-c99a-d0f2-1803bbe75add.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">1cd8c105-fc85-f23d-166c-5c0953aedf3e</guid>
+                    <title>Seminole Headlines Hour 2 090413</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira react to the debut of debuts in Pittsburgh, talk about Winston2019s chances to be an impact player moving forward, react to the first game for Pruitt2019s defense and more. Hour two</description>
+                    <pubDate>Wed, 04 Sep 2013 21:27:14 GMT</pubDate>
+                    <itunes:duration>00:41:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira react to the debut of debuts in Pittsburgh, talk about Winston2019s chances to be an impact player moving forward, react to the first game for Pruitt2019s defense and more. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 090413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/49929d1d-8202-fefc-9fc7-85b65b8be571.mp3" type="audio/mpeg" length="40051004"/>
+                    <link>http://979espnradio.hipcast.com/deluge/49929d1d-8202-fefc-9fc7-85b65b8be571.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">61b8b8b8-4f1b-95d2-8385-fb234708cc91</guid>
+                    <title>Seminole Headlines Hour 1 090413</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira react to the debut of debuts in Pittsburgh, talk about Winston2019s chances to be an impact player moving forward, react to the first game for Pruitt2019s defense and more. Hour one</description>
+                    <pubDate>Wed, 04 Sep 2013 21:22:58 GMT</pubDate>
+                    <itunes:duration>00:46:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira react to the debut of debuts in Pittsburgh, talk about Winston2019s chances to be an impact player moving forward, react to the first game for Pruitt2019s defense and more. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 090413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/4f67f41e-83a2-e879-658a-75506fad723b.mp3" type="audio/mpeg" length="44820754"/>
+                    <link>http://979espnradio.hipcast.com/deluge/4f67f41e-83a2-e879-658a-75506fad723b.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">5e835e08-e184-09ec-262c-ddd70c170ced</guid>
+                    <title>Seminole Headlines Hour 2 082913</title>
+                    <description>This week on Headlines, we actually get to talk about a real football game that is going to take place before the next episode! That, and Jeff crosses something off his celebrity-to-do list, Mark May gets told to have a good day by Corey, and Ira maintains his role as the class act on the panel. Hour two</description>
+                    <pubDate>Thu, 29 Aug 2013 23:32:51 GMT</pubDate>
+                    <itunes:duration>00:41:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, we actually get to talk about a real football game that is going to take place before the next episode! That, and Jeff crosses something off his celebrity-to-do list, Mark May gets told to have a good day by Corey, and Ira maintains his role as the class act on the panel. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 082913</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2f7cfaf9-d9c5-9d26-0d58-91697ba65eb1.mp3" type="audio/mpeg" length="39460427"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2f7cfaf9-d9c5-9d26-0d58-91697ba65eb1.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">286b5bf3-8676-fb59-2ea1-ee43cd3f26f1</guid>
+                    <title>Seminole Headlines Hour 1 082913</title>
+                    <description>This week on Headlines, we actually get to talk about a real football game that is going to take place before the next episode! That, and Jeff crosses something off his celebrity-to-do list, Mark May gets told to have a good day by Corey, and Ira maintains his role as the class act on the panel. Hour one</description>
+                    <pubDate>Thu, 29 Aug 2013 23:22:09 GMT</pubDate>
+                    <itunes:duration>00:45:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, we actually get to talk about a real football game that is going to take place before the next episode! That, and Jeff crosses something off his celebrity-to-do list, Mark May gets told to have a good day by Corey, and Ira maintains his role as the class act on the panel. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 082913</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/8f8b71fe-abac-eb5c-156b-9a4f81b90085.mp3" type="audio/mpeg" length="43898318"/>
+                    <link>http://979espnradio.hipcast.com/deluge/8f8b71fe-abac-eb5c-156b-9a4f81b90085.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">83ee2bcc-917b-a198-0a77-6b14a333fc84</guid>
+                    <title>Seminole Headlines Hour 1 082213</title>
+                    <description>This week on Seminole Headlines, Jeff, Corey and Ira react to the FSU Scrimmage and the few things that came out of it, chat FSU offense and what it may look like in 2013, project National Champions (too soon?) and more.</description>
+                    <pubDate>Fri, 23 Aug 2013 00:14:49 GMT</pubDate>
+                    <itunes:duration>00:47:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines, Jeff, Corey and Ira react to the FSU Scrimmage and the few things that came out of it, chat FSU offense and what it may look like in 2013, project National Champions (too soon?) and more.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 082213</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/df6f5bba-7d58-4608-bc4b-01ca22805646.mp3" type="audio/mpeg" length="45735666"/>
+                    <link>http://979espnradio.hipcast.com/deluge/df6f5bba-7d58-4608-bc4b-01ca22805646.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">8aacfc5b-180a-bc4d-b9fe-aa145e2f54cc</guid>
+                    <title>Seminole Headlines Hour 2 082213</title>
+                    <description>This week on Seminole Headlines, Jeff, Corey and Ira react to the FSU Scrimmage and the few things that came out of it, chat FSU offense and what it may look like in 2013, project National Champions (too soon?) and more.</description>
+                    <pubDate>Thu, 22 Aug 2013 21:54:18 GMT</pubDate>
+                    <itunes:duration>00:43:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Seminole Headlines, Jeff, Corey and Ira react to the FSU Scrimmage and the few things that came out of it, chat FSU offense and what it may look like in 2013, project National Champions (too soon?) and more.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 082213</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/4a15cd9e-de11-994b-ccdc-8ed5d8f33157.mp3" type="audio/mpeg" length="41534341"/>
+                    <link>http://979espnradio.hipcast.com/deluge/4a15cd9e-de11-994b-ccdc-8ed5d8f33157.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">4133e202-77ef-25b9-9353-7b2e674c3bd6</guid>
+                    <title>Seminole Headlines Hr 2 8-14-13</title>
+                    <description>Jeff is joined by Corey Clark and Ira Schoffel of the Tallahassee Democrat to discuss the latest topics surrounding FSU sports</description>
+                    <pubDate>Wed, 14 Aug 2013 22:58:32 GMT</pubDate>
+                    <itunes:duration>00:44:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff is joined by Corey Clark and Ira Schoffel of the Tallahassee Democrat to discuss the latest topics surrounding FSU sports</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hr 2 8-14-13</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/a342a996-011f-f57a-0a96-ae9ebb874ec8.mp3" type="audio/mpeg" length="42671457"/>
+                    <link>http://979espnradio.hipcast.com/deluge/a342a996-011f-f57a-0a96-ae9ebb874ec8.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">efcf48c4-2d45-4148-3860-de0596b2cb20</guid>
+                    <title>Seminole Headlines Hr 1 8-14-13</title>
+                    <description>Jeff is joined by Corey Clark and Ira Schoffel of the Tallahassee Democrat to discuss the latest topics surrounding FSU sports</description>
+                    <pubDate>Wed, 14 Aug 2013 22:50:27 GMT</pubDate>
+                    <itunes:duration>00:44:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff is joined by Corey Clark and Ira Schoffel of the Tallahassee Democrat to discuss the latest topics surrounding FSU sports</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hr 1 8-14-13</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/6c3e0344-8cb6-aaac-1065-bf56567ea924.mp3" type="audio/mpeg" length="42687994"/>
+                    <link>http://979espnradio.hipcast.com/deluge/6c3e0344-8cb6-aaac-1065-bf56567ea924.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a50b9adb-8665-1b52-dd3c-159c868798ca</guid>
+                    <title>Seminole Headlines Hour 2 080713</title>
+                    <description>This week, the Seminole Headlines crew gets to talk actual football events, like the Jimbo Fisher press conference that officially opened camp, plus talk of day one of 2013 fall camp as well. NOTE*: This edition was recorded the morning before FSU announced Stan Wilcox as its new A.D. Hour two</description>
+                    <pubDate>Wed, 07 Aug 2013 23:28:45 GMT</pubDate>
+                    <itunes:duration>00:45:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, the Seminole Headlines crew gets to talk actual football events, like the Jimbo Fisher press conference that officially opened camp, plus talk of day one of 2013 fall camp as well. NOTE*: This edition was recorded the morning before FSU announced Stan Wilcox as its new A.D. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 080713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/a9f659ea-a6b0-306c-e9e0-cbd6bcb30a67.mp3" type="audio/mpeg" length="43768751"/>
+                    <link>http://979espnradio.hipcast.com/deluge/a9f659ea-a6b0-306c-e9e0-cbd6bcb30a67.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">29e66c1a-7058-1480-3acb-16e60bc37d88</guid>
+                    <title>Seminole Headlines Hour 1 080713</title>
+                    <description>This week, the Seminole Headlines crew gets to talk actual football events, like the Jimbo Fisher press conference that officially opened camp, plus talk of day one of 2013 fall camp as well. NOTE*: This edition was recorded the morning before FSU announced Stan Wilcox as its new A.D. Hour one</description>
+                    <pubDate>Wed, 07 Aug 2013 23:18:02 GMT</pubDate>
+                    <itunes:duration>00:44:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, the Seminole Headlines crew gets to talk actual football events, like the Jimbo Fisher press conference that officially opened camp, plus talk of day one of 2013 fall camp as well. NOTE*: This edition was recorded the morning before FSU announced Stan Wilcox as its new A.D. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 080713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/683171a1-a0b2-b98d-3b21-4805a1f447f7.mp3" type="audio/mpeg" length="43029799"/>
+                    <link>http://979espnradio.hipcast.com/deluge/683171a1-a0b2-b98d-3b21-4805a1f447f7.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">8b30217b-dac5-094e-d80b-d544ae80ce5b</guid>
+                    <title>Seminole Headlines Hour 2 073113</title>
+                    <description>Hour two. This week on Headlines, Jeff, Corey and Ira chat about Jimbo Fisher doing the ESPN Car Wash, the ever-nearing fall camp, Nick O2019Leary2019s accident, Jameis Winston2019s chances for success and more! Hour two.</description>
+                    <pubDate>Wed, 31 Jul 2013 21:42:37 GMT</pubDate>
+                    <itunes:duration>00:42:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Hour two. This week on Headlines, Jeff, Corey and Ira chat about Jimbo Fisher doing the ESPN Car Wash, the ever-nearing fall camp, Nick O2019Leary2019s accident, Jameis Winston2019s chances for success and more! Hour two.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 073113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/d672f08a-bff8-31fd-f403-d265a3624c84.mp3" type="audio/mpeg" length="40671255"/>
+                    <link>http://979espnradio.hipcast.com/deluge/d672f08a-bff8-31fd-f403-d265a3624c84.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">5a740f72-48c3-291c-8be6-8cd4bd36afd6</guid>
+                    <title>Seminole Headlines Hour 1 073113</title>
+                    <description>This week on Headlines, Jeff, Corey and Ira chat about Jimbo Fisher doing the ESPN Car Wash, the ever-nearing fall camp, Nick O2019Leary2019s accident, Jameis Winston2019s chances for success and more! Hour one</description>
+                    <pubDate>Wed, 31 Jul 2013 21:24:45 GMT</pubDate>
+                    <itunes:duration>00:45:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff, Corey and Ira chat about Jimbo Fisher doing the ESPN Car Wash, the ever-nearing fall camp, Nick O2019Leary2019s accident, Jameis Winston2019s chances for success and more! Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 073113</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/743ccef4-4447-b4e9-ac61-c1af0915aa69.mp3" type="audio/mpeg" length="43721521"/>
+                    <link>http://979espnradio.hipcast.com/deluge/743ccef4-4447-b4e9-ac61-c1af0915aa69.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">4bac3654-de93-d9a7-6a3d-95961f830688</guid>
+                    <title>Seminole Headlines Hour 2 072413</title>
+                    <description>This week on Headlines, Jeff catches up with Corey and Ira who are fresh off a weekend at the ACC meetings in Greensboro. What did we learn from the ACC days, what will the 2013 FSU team look like, did Corey have a run-in with Clemson media and more. Hour two</description>
+                    <pubDate>Wed, 24 Jul 2013 22:24:20 GMT</pubDate>
+                    <itunes:duration>00:49:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff catches up with Corey and Ira who are fresh off a weekend at the ACC meetings in Greensboro. What did we learn from the ACC days, what will the 2013 FSU team look like, did Corey have a run-in with Clemson media and more. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 072413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/170d2a98-243c-fe89-bc7f-ca2994faaafc.mp3" type="audio/mpeg" length="47795787"/>
+                    <link>http://979espnradio.hipcast.com/deluge/170d2a98-243c-fe89-bc7f-ca2994faaafc.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">a314d5f0-3df0-0b7c-d0a2-a8d96dc227e0</guid>
+                    <title>Seminole Headlines Hour 1 072413</title>
+                    <description>This week on Headlines, Jeff catches up with Corey and Ira who are fresh off a weekend at the ACC meetings in Greensboro. What did we learn from the ACC days, what will the 2013 FSU team look like, did Corey have a run-in with Clemson media and more. Hour one</description>
+                    <pubDate>Wed, 24 Jul 2013 22:09:27 GMT</pubDate>
+                    <itunes:duration>00:43:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week on Headlines, Jeff catches up with Corey and Ira who are fresh off a weekend at the ACC meetings in Greensboro. What did we learn from the ACC days, what will the 2013 FSU team look like, did Corey have a run-in with Clemson media and more. Hour one</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 072413</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/12dff2c4-e77c-1e74-7c06-e27273ce2f19.mp3" type="audio/mpeg" length="42164205"/>
+                    <link>http://979espnradio.hipcast.com/deluge/12dff2c4-e77c-1e74-7c06-e27273ce2f19.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">42552b88-7659-13b5-2a6f-90ff0c747ed6</guid>
+                    <title>Seminole Headlines Hour 2 071713</title>
+                    <description>Hour 2. This week, Jeff, Corey and Ira talk about the football season fast approaching, the contenders in the ACC this season coming season, and Mariah Carey.</description>
+                    <pubDate>Wed, 17 Jul 2013 21:38:32 GMT</pubDate>
+                    <itunes:duration>00:55:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Hour 2. This week, Jeff, Corey and Ira talk about the football season fast approaching, the contenders in the ACC this season coming season, and Mariah Carey.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 071713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/04bff08a-f73f-fedc-ce29-e26ccacf149e.mp3" type="audio/mpeg" length="53036577"/>
+                    <link>http://979espnradio.hipcast.com/deluge/04bff08a-f73f-fedc-ce29-e26ccacf149e.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">6dab2a3d-3a2b-0560-911a-1af400fcb95c</guid>
+                    <title>Seminole Headlines Hour 1 071713</title>
+                    <description>This week, Jeff, Corey and Ira talk about the football season fast approaching, the contenders in the ACC this up coming season, and of course Mariah Carey. Hour one.</description>
+                    <pubDate>Wed, 17 Jul 2013 21:30:20 GMT</pubDate>
+                    <itunes:duration>00:44:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>This week, Jeff, Corey and Ira talk about the football season fast approaching, the contenders in the ACC this up coming season, and of course Mariah Carey. Hour one.</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 071713</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/fb58e195-997c-778e-c787-44e7bcde7e4d.mp3" type="audio/mpeg" length="42778605"/>
+                    <link>http://979espnradio.hipcast.com/deluge/fb58e195-997c-778e-c787-44e7bcde7e4d.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">936ffa18-27e5-dd33-9ac5-b24f98586f69</guid>
+                    <title>Seminole Headlines Hour 2 070313</title>
+                    <description>In hour two Jeff, Corey and Ira talk about the FSU AD search, Football season fast approaching, Corey's love for Game of Thrones and more!</description>
+                    <pubDate>Fri, 05 Jul 2013 20:23:59 GMT</pubDate>
+                    <itunes:duration>00:42:26</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>In hour two Jeff, Corey and Ira talk about the FSU AD search, Football season fast approaching, Corey's love for Game of Thrones and more!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 2 070313</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/5bdedeef-694d-741d-b6a4-83e90922ba88.mp3" type="audio/mpeg" length="40746070"/>
+                    <link>http://979espnradio.hipcast.com/deluge/5bdedeef-694d-741d-b6a4-83e90922ba88.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">90b6eb43-0e74-e71c-367a-2e3b60644df7</guid>
+                    <title>Seminole Headlines Hour 1 070533</title>
+                    <description>Jeff, Corey and Ira talk about in Hour 1 about the FSU AD search, Football season fast approaching, Corey's love for Game of Thrones and more!</description>
+                    <pubDate>Wed, 03 Jul 2013 20:27:56 GMT</pubDate>
+                    <itunes:duration>00:44:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Jeff, Corey and Ira talk about in Hour 1 about the FSU AD search, Football season fast approaching, Corey's love for Game of Thrones and more!</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines Hour 1 070533</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/52904c6c-a169-294a-6b77-c39ae93685f0.mp3" type="audio/mpeg" length="42913606"/>
+                    <link>http://979espnradio.hipcast.com/deluge/52904c6c-a169-294a-6b77-c39ae93685f0.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">bc44d49f-0a76-4c26-35a6-3cd565d79ebe</guid>
+                    <title>Seminole Headlines 6-26-13 Hour 2</title>
+                    <description>Plenty to talk about on this week's edition of Seminole Headlines. In Hour 2 Jeff, Corey and Ira talk about the search for a new FSU AD, coaches propping up their players, and the origin of "letting the cat out of the bag".</description>
+                    <pubDate>Wed, 26 Jun 2013 22:10:36 GMT</pubDate>
+                    <itunes:duration>00:39:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Plenty to talk about on this week's edition of Seminole Headlines. In Hour 2 Jeff, Corey and Ira talk about the search for a new FSU AD, coaches propping up their players, and the origin of "letting the cat out of the bag".</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 6-26-13 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/92182dbb-a07d-baef-f286-4a543fc22475.mp3" type="audio/mpeg" length="38301844"/>
+                    <link>http://979espnradio.hipcast.com/deluge/92182dbb-a07d-baef-f286-4a543fc22475.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">034b54c2-a8ce-0c05-c470-c7f831953596</guid>
+                    <title>Seminole Headlines 6-26-13 Hour 1</title>
+                    <description>Plenty to talk about on this week's edition of Seminole Headlines. In Hour 1 Jeff, Corey and Ira talk about the search for a new FSU AD, coaches propping up their players, and the origin of "letting the cat out of the bag".</description>
+                    <pubDate>Wed, 26 Jun 2013 22:03:51 GMT</pubDate>
+                    <itunes:duration>00:39:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Plenty to talk about on this week's edition of Seminole Headlines. In Hour 1 Jeff, Corey and Ira talk about the search for a new FSU AD, coaches propping up their players, and the origin of "letting the cat out of the bag".</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines 6-26-13 Hour 1</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/2e32e1a8-9140-aad2-86db-6ff2075ebb2c.mp3" type="audio/mpeg" length="37996316"/>
+                    <link>http://979espnradio.hipcast.com/deluge/2e32e1a8-9140-aad2-86db-6ff2075ebb2c.mp3</link>
+                </item>
+                <item>
+                    <guid isPermaLink="false">9200211d-fbea-9850-e316-e5e829f97b7e</guid>
+                    <title>Seminole Headlines hour 2 6-12-13 Hour 2</title>
+                    <description>Plenty to talk about on this week's edition of Seminole Headlines. Jeff, Corey and Ira talk about the end of Seminole baseball in 2013, look to 2014, wrap up Matthew Thomas talk (we think it's over) and look back at the end of the Randy Spetman era. Hour two</description>
+                    <pubDate>Wed, 12 Jun 2013 22:23:11 GMT</pubDate>
+                    <itunes:duration>00:39:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>ESPN Tallahassee</itunes:author>
+                    <itunes:summary>Plenty to talk about on this week's edition of Seminole Headlines. Jeff, Corey and Ira talk about the end of Seminole baseball in 2013, look to 2014, wrap up Matthew Thomas talk (we think it's over) and look back at the end of the Randy Spetman era. Hour two</itunes:summary>
+                    <itunes:subtitle>Seminole Headlines hour 2 6-12-13 Hour 2</itunes:subtitle>
+                    <enclosure url="http://979espnradio.hipcast.com/deluge/38b60974-6a7e-af58-7066-2b904c70e31c.mp3" type="audio/mpeg" length="38140094"/>
+                    <link>http://979espnradio.hipcast.com/deluge/38b60974-6a7e-af58-7066-2b904c70e31c.mp3</link>
+                </item>
+                <itunes:explicit>clean</itunes:explicit>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

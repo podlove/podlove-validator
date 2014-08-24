@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, max-age=13"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:43:10 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:42:10 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:42:55 GMT"/>
+        <httpclient:header name="Content-Length" value="96046"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/15382</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/15382" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:42:10 GMT</lastBuildDate>
+                <image>
+                    <title>Institutet</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4131</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4131/2698731_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Institutet med Karin och Jesper är ett vindlande populärvetenskapligt program som bygger på starka berättelser, humor och rafflande forskningsrön. I programmet hörs människor som upplevt säregna vetenskapliga fenomen och forskarintervjuer där dörren öppnas till svindlande upptäckter och teorier.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Institutet</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Institutet</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4131</link>
+                <description>Institutet med Karin och Jesper är ett vindlande populärvetenskapligt program som bygger på starka berättelser, humor och rafflande forskningsrön. I programmet hörs människor som upplevt säregna vetenskapliga fenomen och forskarintervjuer där dörren öppnas till svindlande upptäckter och teorier.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Specialpodd: Institutet LIVE i Göteborg.</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4952177.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140515_24e6cd.mp3</guid>
+                    <pubDate>Thu, 15 May 2014 15:00:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSpecialpodd:,Institutet,LIVE,i,Göteborg.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4952177.mp3" length="46642800" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fingerled Zeppelin</title>
+                    <description>Allt om hur farligt det egentligen är när det knakar i dina fogar, den första sekunden i universums historia, och warp drive! Hur bra är det egentligen? Dessutom: blommor som också är toaletter. Och varulvar! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4902513.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140329_24d461.mp3</guid>
+                    <pubDate>Sat, 29 Mar 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Allt om hur farligt det egentligen är när det knakar i dina fogar, den första sekunden i universums historia, och warp drive! Hur bra är det egentligen? Dessutom: blommor som också är toaletter. Och varulvar! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetFingerled,Zeppelin</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4902513.mp3" length="62134189" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bison och Fille</title>
+                    <description>Äntligen får du veta bl.a vilket som är världens mest metriska land, hur du vinner kriget i din hjärna, vad du ska välja av pest eller pest, och ifall du ska tacka ja till en trettiosex tusen år gammal köttbit. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4894697.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140322_64dc34.mp3</guid>
+                    <pubDate>Sat, 22 Mar 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Äntligen får du veta bl.a vilket som är världens mest metriska land, hur du vinner kriget i din hjärna, vad du ska välja av pest eller pest, och ifall du ska tacka ja till en trettiosex tusen år gammal köttbit. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetBison,och,Fille</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4894697.mp3" length="64283333" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Timbukterie</title>
+                    <description>FULLT av nyttiga råd! Hur du undviker att se ut som om du är gjord av plåt, hur du lurar en fågel (om du är en krokodil), hur du gör Sahara blågrön, hur du åldersbestämmer en blåval, och hur tacksamma vi ska vara mot neandertalarna. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4887382.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140315_a48ba7.mp3</guid>
+                    <pubDate>Sat, 15 Mar 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>FULLT av nyttiga råd! Hur du undviker att se ut som om du är gjord av plåt, hur du lurar en fågel (om du är en krokodil), hur du gör Sahara blågrön, hur du åldersbestämmer en blåval, och hur tacksamma vi ska vara mot neandertalarna. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetTimbukterie</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4887382.mp3" length="57539598" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kapten Röda Havet (Vi kommer inte på nåt bättre!)</title>
+                    <description>Vi semestrar på exoplaneter, löser mysterier i Röda havet, besöker myrornas begravningsplats, reser till förolämpningarnas begynnelse, kikar in i en sovande hjärna och som om inte det var nog: en larv med hatt. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4879548.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140308_0937bf.mp3</guid>
+                    <pubDate>Sat, 08 Mar 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Vi semestrar på exoplaneter, löser mysterier i Röda havet, besöker myrornas begravningsplats, reser till förolämpningarnas begynnelse, kikar in i en sovande hjärna och som om inte det var nog: en larv med hatt. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKapten,Röda,Havet,(Vi,kommer,inte,på,nåt,bättre!)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4879548.mp3" length="60601181" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kiss</title>
+                    <description>Det spiller över lite tyngdkraft från förra programmet, annars är det förvånande rumsrent. Ifall rummet du befinner dig i är ett helkaklat badrum. För det är urinoarer, det är grodsex, det är svärordsbiologi och väderkrig. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4872362.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140301_c0e7cc.mp3</guid>
+                    <pubDate>Sat, 01 Mar 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Det spiller över lite tyngdkraft från förra programmet, annars är det förvånande rumsrent. Ifall rummet du befinner dig i är ett helkaklat badrum. För det är urinoarer, det är grodsex, det är svärordsbiologi och väderkrig. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKiss</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4872362.mp3" length="61464202" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Billy Oceanlevel</title>
+                    <description>Här var det högt och lågt, både bokstavligt talat i t.ex. havet och på Gotlands befolkning, men också bildligt vad gäller fantompenisar, knep för att hindra folk från att dricka sprit, tonsäkerheten i låten om saker vi inte vet, och acceptansen för en revolutionerande operation.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4864955.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_institutet_20140222_1100_2d5b46b.mp3</guid>
+                    <pubDate>Sat, 22 Feb 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Här var det högt och lågt, både bokstavligt talat i t.ex. havet och på Gotlands befolkning, men också bildligt vad gäller fantompenisar, knep för att hindra folk från att dricka sprit, tonsäkerheten i låten om saker vi inte vet, och acceptansen för en revolutionerande operation.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetBilly,Oceanlevel</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4864955.mp3" length="56337733" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Teleportishead</title>
+                    <description>Världens sämsta drog, tidernas konstigaste preventivmedel, framtidernas största transportproblem, historiens konstigaste kärleksstund, 60-talets nördigaste uppfinning, i Sveriges bästa vetenskapshumorprogram. Dessutom får du reda på vad dur och moll egentligen är. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4857827.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140215_b86c9c.mp3</guid>
+                    <pubDate>Sat, 15 Feb 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Världens sämsta drog, tidernas konstigaste preventivmedel, framtidernas största transportproblem, historiens konstigaste kärleksstund, 60-talets nördigaste uppfinning, i Sveriges bästa vetenskapshumorprogram. Dessutom får du reda på vad dur och moll egentligen är. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetTeleportishead</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4857827.mp3" length="59372001" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hyperlooptroop</title>
+                    <description>Rekommenderad klädsel för lyssning: hörlurar för finstämda kastrat-toner, sanitetspåse för hyperloopen, mindfuckmössa för den antropiska principen, samt nytvättade händer för den siamesiska frukten. På underkroppen: inget. Särskilt inte om du varit på medeltidslajv. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4851051.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140208_71ce08.mp3</guid>
+                    <pubDate>Sat, 08 Feb 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Rekommenderad klädsel för lyssning: hörlurar för finstämda kastrat-toner, sanitetspåse för hyperloopen, mindfuckmössa för den antropiska principen, samt nytvättade händer för den siamesiska frukten. På underkroppen: inget. Särskilt inte om du varit på medeltidslajv. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetHyperlooptroop</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4851051.mp3" length="56404495" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Far och boson</title>
+                    <description>Får det lov att vara några snygga grisar med borst förföriskt fläktande i 3 Beaufort, fläskfiléer på stämband och lite nydansad honung till det? Att dricka till, lite vargmjölk kanske? Och till dessert: en liten tryffel à la Higgs? Ett bra val. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4843417.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_140201_f4fc01.mp3</guid>
+                    <pubDate>Sat, 01 Feb 2014 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Får det lov att vara några snygga grisar med borst förföriskt fläktande i 3 Beaufort, fläskfiléer på stämband och lite nydansad honung till det? Att dricka till, lite vargmjölk kanske? Och till dessert: en liten tryffel à la Higgs? Ett bra val. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetFar,och,boson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4843417.mp3" length="53340390" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Specialpodd: Institutet LIVE i Linköping.</title>
+                    <description>Vi besökte Linköping och spelade in en sista specialpodd om djungelhönor (och deras tusentals spermielagrande organ) om robotar (som bygger om sig själva) och om världar där mygg saknar vingar och grisar flyger.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4756030.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131109_775402.mp3</guid>
+                    <pubDate>Sat, 09 Nov 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Vi besökte Linköping och spelade in en sista specialpodd om djungelhönor (och deras tusentals spermielagrande organ) om robotar (som bygger om sig själva) och om världar där mygg saknar vingar och grisar flyger.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSpecialpodd:,Institutet,LIVE,i,Linköping.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4756030.mp3" length="49662581" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Specialpodd: Institutet LIVE i Stockholm.</title>
+                    <description>Du läste rätt. Institutet levererar ännu en specialpodd! Den här gången om hur storspigg påverkas av övergödning (dvs när vattnet är övergött, inte fiskarna), varför vi blir fula om vi sover för lite, och ett epic vetenskapsbattle om robotar med automatvapen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4748126.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131102_c11782.mp3</guid>
+                    <pubDate>Sat, 02 Nov 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Du läste rätt. Institutet levererar ännu en specialpodd! Den här gången om hur storspigg påverkas av övergödning (dvs när vattnet är övergött, inte fiskarna), varför vi blir fula om vi sover för lite, och ett epic vetenskapsbattle om robotar med automatvapen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSpecialpodd:,Institutet,LIVE,i,Stockholm.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4748126.mp3" length="39722354" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Specialpodd: Institutet LIVE i Uppsala.</title>
+                    <description>Vi åkte till Uppsala och spelade in en specialpodd framför en underbar publik. Hur speciellt är då detta avsnitt? T.ex berättar Jöns Hillborn om hur de borrade hål i grisars huvuden och la i en smet som fick skallbenet att växa igen på tre veckor. Astronomen Samuel Regandell svarar på om det finns kantiga planeter och hur det skulle vara om jorden hade ringar. Dessutom blir det vetenskapsbattle om placeboeffektens för- och nackdelar. Bara så.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4740451.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131026_95e0d3.mp3</guid>
+                    <pubDate>Sat, 26 Oct 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Vi åkte till Uppsala och spelade in en specialpodd framför en underbar publik. Hur speciellt är då detta avsnitt? T.ex berättar Jöns Hillborn om hur de borrade hål i grisars huvuden och la i en smet som fick skallbenet att växa igen på tre veckor. Astronomen Samuel Regandell svarar på om det finns kantiga planeter och hur det skulle vara om jorden hade ringar. Dessutom blir det vetenskapsbattle om placeboeffektens för- och nackdelar. Bara så.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSpecialpodd:,Institutet,LIVE,i,Uppsala.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4740451.mp3" length="45864634" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stenad flatlus</title>
+                    <description>Titeln låter som hämtad från en kvällstidningslöpsedel, och med all rätt! För det är Mona Sahlin! Jennifer Aniston! Mördarnyckelpigor! Bebisar som fångas med håvar! Bin som kräks! Armar som tappas! Rymdhjärnor! Samt geologstadiet årskurs 3 förstås. Programledare: Karin Gyllenklev &amp; Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4733029.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131019_d11dc5.mp3</guid>
+                    <pubDate>Sat, 19 Oct 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Titeln låter som hämtad från en kvällstidningslöpsedel, och med all rätt! För det är Mona Sahlin! Jennifer Aniston! Mördarnyckelpigor! Bebisar som fångas med håvar! Bin som kräks! Armar som tappas! Rymdhjärnor! Samt geologstadiet årskurs 3 förstås. Programledare: Karin Gyllenklev &amp; Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetStenad,flatlus</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4733029.mp3" length="58043688" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vombat i frack</title>
+                    <description>Det låter stiligt, och det är det, det handlar om hur man är artigt uppmärksam fast man sover, vad ett slitet berg har med vår goda hållning att göra, hur man påminner ljus om att inte ha så bråttom, samt hur hästar ska hantera sociala medier. Dessutom visar Karin hur man tjatar till sig skjuts av en astronaut. Gutår! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4724528.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131012_8f81b9.mp3</guid>
+                    <pubDate>Sat, 12 Oct 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Det låter stiligt, och det är det, det handlar om hur man är artigt uppmärksam fast man sover, vad ett slitet berg har med vår goda hållning att göra, hur man påminner ljus om att inte ha så bråttom, samt hur hästar ska hantera sociala medier. Dessutom visar Karin hur man tjatar till sig skjuts av en astronaut. Gutår! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetVombat,i,frack</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4724528.mp3" length="63787014" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Knas i kvadrat</title>
+                    <description>(Mel: Rena rama Rolf-låten) Blir solen en supermagnet, blir parkinsonspatienter beroende, är lysrör jätteäckligt, kan hundar simma till en ö för långt bort? Här får ni, dom svaren, på frågor, som vi ställt, institutetut, vilket tut, institut, instii-instii-tuuut! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4716996.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_131005_6198f7.mp3</guid>
+                    <pubDate>Sat, 05 Oct 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>(Mel: Rena rama Rolf-låten) Blir solen en supermagnet, blir parkinsonspatienter beroende, är lysrör jätteäckligt, kan hundar simma till en ö för långt bort? Här får ni, dom svaren, på frågor, som vi ställt, institutetut, vilket tut, institut, instii-instii-tuuut! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKnas,i,kvadrat</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4716996.mp3" length="58218849" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vinkeldiscodödsdans</title>
+                    <description>Du kanske tänker på voodoo, och du kanske har lite rätt. Men mest handlar det om bananer, var månen kommer ifrån, varför rovdjur är irriterande och så förstås om en helt vanlig vinkeldiskordans. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4708929.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130928_105cc7.mp3</guid>
+                    <pubDate>Sat, 28 Sep 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Du kanske tänker på voodoo, och du kanske har lite rätt. Men mest handlar det om bananer, var månen kommer ifrån, varför rovdjur är irriterande och så förstås om en helt vanlig vinkeldiskordans. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetVinkeldiscodödsdans</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4708929.mp3" length="60168083" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Smärtsam loser</title>
+                    <description>Japp, det är en del smärta i det här avsnittet, orsakat av lasrar, mikrovågor, magneter och okänd - men också festliga lösningar! Och apropå lösningar: ett kemivitsrace! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4700946.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130921_f954bd.mp3</guid>
+                    <pubDate>Sat, 21 Sep 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Japp, det är en del smärta i det här avsnittet, orsakat av lasrar, mikrovågor, magneter och okänd - men också festliga lösningar! Och apropå lösningar: ett kemivitsrace! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSmärtsam,loser</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4700946.mp3" length="60289231" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Freaks of Nature</title>
+                    <description>Tinnitus åt fel håll? Ormar med två huvuden? Höbalar som börjar brinna av sig själva? Folk som äter sked med sked? Inte alls lika freakigt som var vi fick allt vatten ifrån. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4693070.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130914_d2c047.mp3</guid>
+                    <pubDate>Sat, 14 Sep 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Tinnitus åt fel håll? Ormar med två huvuden? Höbalar som börjar brinna av sig själva? Folk som äter sked med sked? Inte alls lika freakigt som var vi fick allt vatten ifrån. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetFreaks,of,Nature</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4693070.mp3" length="56876606" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Drömvåglig</title>
+                    <description>Obs! Nej, det är inte new age! Visst, det handlar om drömmar och en viss ål som suger åt sig hela universum, men annars det ingen fara. Det är folk som studsar radiovågor på månen och tredje mötet med Nyckelpigeklubben och såna härliga grejer. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4685234.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130907_9eed67.mp3</guid>
+                    <pubDate>Sat, 07 Sep 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Obs! Nej, det är inte new age! Visst, det handlar om drömmar och en viss ål som suger åt sig hela universum, men annars det ingen fara. Det är folk som studsar radiovågor på månen och tredje mötet med Nyckelpigeklubben och såna härliga grejer. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetDrömvåglig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4685234.mp3" length="66453433" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rena Rama Raketbränslet</title>
+                    <description>Ja du hör ju själv, det är ett sjujäkla drag i badrum och basbehov som är helt off och bläckfiskar från helvetet. Dessutom: andra mötet med Nyckelpigeklubben! (OBS! Obligatoriskt)! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4678038.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130831_1f7bcd.mp3</guid>
+                    <pubDate>Sat, 31 Aug 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Ja du hör ju själv, det är ett sjujäkla drag i badrum och basbehov som är helt off och bläckfiskar från helvetet. Dessutom: andra mötet med Nyckelpigeklubben! (OBS! Obligatoriskt)! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetRena,Rama,Raketbränslet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4678038.mp3" length="56405594" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sträv &amp; Snuvig</title>
+                    <description>Möt rapgruppen Sträv &amp; Snuvig! Dom rappar helt utan melodi eller taktkänsla om ämnen som Black hole firewall, leguaner som krymper, panikångest och valar som dör för längesen. Dessutom: första mötet med Nyckelpigeklubben! Yo.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4669581.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130824_174ef0.mp3</guid>
+                    <pubDate>Sat, 24 Aug 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Möt rapgruppen Sträv &amp; Snuvig! Dom rappar helt utan melodi eller taktkänsla om ämnen som Black hole firewall, leguaner som krymper, panikångest och valar som dör för längesen. Dessutom: första mötet med Nyckelpigeklubben! Yo.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSträv,&amp;,Snuvig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4669581.mp3" length="62837464" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kodnamn Jeans</title>
+                    <description>Titeln är kryptisk för att hela programmet är det! Hör t.ex. om mysteriet med den gröna tröjan som egentligen är blå! Förbluffas över oljudet som hjälper Jesper att koncentrera sig! Få upplösningen på gåtan om valen med penisen i munnen! Gapa åt faktumet att datorer ska använda skrock för att handla aktier! Dessutom: Räliga robotravinen! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4517713.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130413_2f4bbf.mp3</guid>
+                    <pubDate>Sat, 13 Apr 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Titeln är kryptisk för att hela programmet är det! Hör t.ex. om mysteriet med den gröna tröjan som egentligen är blå! Förbluffas över oljudet som hjälper Jesper att koncentrera sig! Få upplösningen på gåtan om valen med penisen i munnen! Gapa åt faktumet att datorer ska använda skrock för att handla aktier! Dessutom: Räliga robotravinen! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKodnamn,Jeans</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4517713.mp3" length="60705021" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gasen i botten!</title>
+                    <description>Gasen i botten på alla sätt du kan tänka dig: i champagneflaskor, i planeten, i cola, i baken, på ännu mer privata ställen, och i helt vanlig luft. Dessutom: flygplan med päls! Och varför blöta fingrar blir skrynkliga! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4508122.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130406_8e89e7.mp3</guid>
+                    <pubDate>Sat, 06 Apr 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Gasen i botten på alla sätt du kan tänka dig: i champagneflaskor, i planeten, i cola, i baken, på ännu mer privata ställen, och i helt vanlig luft. Dessutom: flygplan med päls! Och varför blöta fingrar blir skrynkliga! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetGasen,i,botten!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4508122.mp3" length="60396747" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nils rulez!</title>
+                    <description>Nils rulez! Och Nils, det är ju ingen annan än jag. Alltså Institutets ljuddesigner. Men jag rular mest över namnet och ljudet, det är ju fortfarande J &amp; K som babblar. Och den här gången handlar det om hur man gör om Mars så att det går att bo där, varför Kinas forskare dör tio år för tidigt och hur man undviker att hamna på övervakningskameror med hjälp av en helt vanlig fjärrkontroll. Dessutom: Stark sås, tomater förr och varför det varmt och skönt under den absoluta nollpunkten. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4495148.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130330_4e8f1b.mp3</guid>
+                    <pubDate>Sat, 30 Mar 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Nils rulez! Och Nils, det är ju ingen annan än jag. Alltså Institutets ljuddesigner. Men jag rular mest över namnet och ljudet, det är ju fortfarande J &amp; K som babblar. Och den här gången handlar det om hur man gör om Mars så att det går att bo där, varför Kinas forskare dör tio år för tidigt och hur man undviker att hamna på övervakningskameror med hjälp av en helt vanlig fjärrkontroll. Dessutom: Stark sås, tomater förr och varför det varmt och skönt under den absoluta nollpunkten. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetNils,rulez!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4495148.mp3" length="63059677" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Livet i maskinen</title>
+                    <description>Allt talar för att du lever i en maskin. Och då menar vi inte din kropp, utan en riktig maskin. Detta gäller också om du är en av aliensarna i Space invaders, en förkyld kyckling eller en sjungande Lucy. Eller för den delen en städande kråka eller världens största bakterie. Dessutom: varför vill vissa gravida äta sten? Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4487254.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130323_d44fb4.mp3</guid>
+                    <pubDate>Sat, 23 Mar 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Allt talar för att du lever i en maskin. Och då menar vi inte din kropp, utan en riktig maskin. Detta gäller också om du är en av aliensarna i Space invaders, en förkyld kyckling eller en sjungande Lucy. Eller för den delen en städande kråka eller världens största bakterie. Dessutom: varför vill vissa gravida äta sten? Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLivet,i,maskinen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4487254.mp3" length="62140678" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Som en boll</title>
+                    <description>Krokodilägg som pratar! Kvantdatorer i alla möjliga universum, hårsäckar som går i dvala och en lagom varm brun dvärg, helgens tema är kort och gott: som en boll! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4475422.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130316_d9f71e.mp3</guid>
+                    <pubDate>Sat, 16 Mar 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Krokodilägg som pratar! Kvantdatorer i alla möjliga universum, hårsäckar som går i dvala och en lagom varm brun dvärg, helgens tema är kort och gott: som en boll! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSom,en,boll</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4475422.mp3" length="59170752" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gul energi</title>
+                    <description>”Blixtar” tänkte du först, och det är rätt. Men tänkte du öl? Att danskar kanske lägger extra näringsämnen i sin? Eller på ägg? Vad den där äckliga snodden egentligen är? Eller rymdraketer? Och vad som händer när de sprängs? Nä, det gjorde du nog inte. Dessutom: dinosaurier i dixielandorkestrar! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4462836.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130309_c83810.mp3</guid>
+                    <pubDate>Sat, 09 Mar 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>”Blixtar” tänkte du först, och det är rätt. Men tänkte du öl? Att danskar kanske lägger extra näringsämnen i sin? Eller på ägg? Vad den där äckliga snodden egentligen är? Eller rymdraketer? Och vad som händer när de sprängs? Nä, det gjorde du nog inte. Dessutom: dinosaurier i dixielandorkestrar! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetGul,energi</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4462836.mp3" length="64586931" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Klump</title>
+                    <description>Det enda stället där det inte är en klump, det är i magen. Annars är det i form av Einsteins hjärna, snus, brontosaurusar, och geléshots som gör dig kreativ. Dessutom: när du är i rymden kissar du ut ditt skelett! Samt: blixtar och dunder. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4450014.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130302_e22cc0.mp3</guid>
+                    <pubDate>Sat, 02 Mar 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Det enda stället där det inte är en klump, det är i magen. Annars är det i form av Einsteins hjärna, snus, brontosaurusar, och geléshots som gör dig kreativ. Dessutom: när du är i rymden kissar du ut ditt skelett! Samt: blixtar och dunder. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKlump</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4450014.mp3" length="59281652" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ingen fysik</title>
+                    <description>Det här är avsnittet för dig som haft stora problem med att packa ner dina bowlingklot i våra futtiga tre dimensioner! Eller för dig som behöver klona dig själv pga tidsbrist, eller undrar vad som finns i de dolda gångarna i Cheops-pyramiden! Eller har hicka! Dessutom: Veckans fyllemyt! Samt varför Tolkien är i omloppsbana runt Saturnus. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4437659.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130223_459eab.mp3</guid>
+                    <pubDate>Sat, 23 Feb 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Det här är avsnittet för dig som haft stora problem med att packa ner dina bowlingklot i våra futtiga tre dimensioner! Eller för dig som behöver klona dig själv pga tidsbrist, eller undrar vad som finns i de dolda gångarna i Cheops-pyramiden! Eller har hicka! Dessutom: Veckans fyllemyt! Samt varför Tolkien är i omloppsbana runt Saturnus. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetIngen,fysik</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4437659.mp3" length="61757436" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lite blött</title>
+                    <description>Delfiner som dejtar människor, alienparasiter i fiskmunnar, och varför gråt kanske är den töntigaste varningssignalen blandas ut med masshysterier om försvinnande könsdelar, motsatsen till allt som finns, och den bästa teorin hittills om dinosauriernas utrotning. Institutet S04 är igång! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4423400.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_130216_013b7f.mp3</guid>
+                    <pubDate>Sat, 16 Feb 2013 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Delfiner som dejtar människor, alienparasiter i fiskmunnar, och varför gråt kanske är den töntigaste varningssignalen blandas ut med masshysterier om försvinnande könsdelar, motsatsen till allt som finns, och den bästa teorin hittills om dinosauriernas utrotning. Institutet S04 är igång! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem Lundberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLite,blött</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4423400.mp3" length="62929707" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Döda</title>
+                    <description>”Döda” som i att nåt är fast beslutet att döda en, eller som i att alla människor nästan blev det för 74000 år sen, eller som att solsystemets månar kanske inte alls är det, och fiskar som definitivt är det, men ändå verkar tänka på vem som är glad. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4301879.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121208_fcf19e.mp3</guid>
+                    <pubDate>Sat, 08 Dec 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>”Döda” som i att nåt är fast beslutet att döda en, eller som i att alla människor nästan blev det för 74000 år sen, eller som att solsystemets månar kanske inte alls är det, och fiskar som definitivt är det, men ändå verkar tänka på vem som är glad. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetDöda</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4301879.mp3" length="58514962" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mikro</title>
+                    <description>Ha! Du trodde att du styr själv över din kropp! Det gör bakterierna. Ha! Du trodde att den snabbaste spermien vinner! Tydligen inte. Ha! Du trodde att en raket var snabbare än en rymddrake! No sirree Bob. Dessutom: Karin som plasmasuperhjälte och hundra (inte hundra) andra grejer. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4289696.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121201_1dcfbc.mp3</guid>
+                    <pubDate>Sat, 01 Dec 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Ha! Du trodde att du styr själv över din kropp! Det gör bakterierna. Ha! Du trodde att den snabbaste spermien vinner! Tydligen inte. Ha! Du trodde att en raket var snabbare än en rymddrake! No sirree Bob. Dessutom: Karin som plasmasuperhjälte och hundra (inte hundra) andra grejer. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetMikro</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4289696.mp3" length="62770270" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Barn</title>
+                    <description>Är barn smarta som äter snor? Hur är det att bli som en nyfödd, fast när man är vuxen? Varför kan tjocka mammor vara elakare mot sina barn än vad spinkiga mammor kan vara? Dessutom: en äcklig grej. Programledare: Karin Gyllenklev &amp; Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4274730.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121124_5c1de0.mp3</guid>
+                    <pubDate>Sat, 24 Nov 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Är barn smarta som äter snor? Hur är det att bli som en nyfödd, fast när man är vuxen? Varför kan tjocka mammor vara elakare mot sina barn än vad spinkiga mammor kan vara? Dessutom: en äcklig grej. Programledare: Karin Gyllenklev &amp; Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetBarn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4274730.mp3" length="59527569" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Irriterande</title>
+                    <description>Obs! Avsnittet i sig är inte irriterande, tvärtom så får du äntligen klia på det där som alltid irriterat dig. T.ex. varför universum inte har nån mitt, varför det luktar honung när vissa nyser, varför vi delar könslöss med gorillor och varför mattesnillen bara ser problem istället för lösningar. Och sen får du veta allt om klåda också. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4262533.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121117_665102.mp3</guid>
+                    <pubDate>Sat, 17 Nov 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Obs! Avsnittet i sig är inte irriterande, tvärtom så får du äntligen klia på det där som alltid irriterat dig. T.ex. varför universum inte har nån mitt, varför det luktar honung när vissa nyser, varför vi delar könslöss med gorillor och varför mattesnillen bara ser problem istället för lösningar. Och sen får du veta allt om klåda också. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetIrriterande</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4262533.mp3" length="61774817" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hål</title>
+                    <description>Hål behöver inte betyda nåt snuskigt, det kan också vara spejsade maskhål, att ens inälvor tryckts ut genom ett litet hål på magen, och att Karin kommer få piratlapp för ögat. Men okej då, det blir också lite spermier och G-punkter. Sorry. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4249326.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121110_e0afab.mp3</guid>
+                    <pubDate>Sat, 10 Nov 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Hål behöver inte betyda nåt snuskigt, det kan också vara spejsade maskhål, att ens inälvor tryckts ut genom ett litet hål på magen, och att Karin kommer få piratlapp för ögat. Men okej då, det blir också lite spermier och G-punkter. Sorry. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetHål</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4249326.mp3" length="59158597" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ondska</title>
+                    <description>Ondska, nä, det låter inte så trevligt! Och det kommer du inte tycka heller, efter att ha hört om världens ondaste fladdermus (inte vampyren), hjärnans elakaste proteiner, och att ondast av alla är du själv (om du har en smartphone). Dessutom: vad händer om ett litet svart hål träffar en katt? Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4236691.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121103_1d2f41.mp3</guid>
+                    <pubDate>Sat, 03 Nov 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Ondska, nä, det låter inte så trevligt! Och det kommer du inte tycka heller, efter att ha hört om världens ondaste fladdermus (inte vampyren), hjärnans elakaste proteiner, och att ondast av alla är du själv (om du har en smartphone). Dessutom: vad händer om ett litet svart hål träffar en katt? Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetOndska</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4236691.mp3" length="59462987" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jubileum</title>
+                    <description>Olösliga chiffer, total brist på lokalsinne, vetenskapsbluffar, hur kaffe egentligen funkar, vaginor i tak och jeeprumpa - vad har de gemensamt? Att de på något sätt har jubileum i år! Det firar vi med ett helt program tillägnat olika jubilarer. Och till dig såklart. Grattis! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4223227.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121027_b61484.mp3</guid>
+                    <pubDate>Sat, 27 Oct 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Olösliga chiffer, total brist på lokalsinne, vetenskapsbluffar, hur kaffe egentligen funkar, vaginor i tak och jeeprumpa - vad har de gemensamt? Att de på något sätt har jubileum i år! Det firar vi med ett helt program tillägnat olika jubilarer. Och till dig såklart. Grattis! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetJubileum</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4223227.mp3" length="62585528" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bygge</title>
+                    <description>Börja bygga upp förväntningar meddetsamma, för du kommer äntligen få svaren på de eviga frågorna ”Hur bygger du upp din hjärna igen när halva försvunnit?” ”Varför slutar vissas skelett aldrig att byggas på?” ”Vad är universum egentligen uppbyggt av?” ”Varför tror några knäppgökar att de är byggda av glas?” samt förstås, ”Varför bygger en bäver bo fast den inte har nåt att bygga med?” i veckans utgåva av Institutet med Karin och Jesper! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4209978.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121020_db9527.mp3</guid>
+                    <pubDate>Sat, 20 Oct 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Börja bygga upp förväntningar meddetsamma, för du kommer äntligen få svaren på de eviga frågorna ”Hur bygger du upp din hjärna igen när halva försvunnit?” ”Varför slutar vissas skelett aldrig att byggas på?” ”Vad är universum egentligen uppbyggt av?” ”Varför tror några knäppgökar att de är byggda av glas?” samt förstås, ”Varför bygger en bäver bo fast den inte har nåt att bygga med?” i veckans utgåva av Institutet med Karin och Jesper! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetBygge</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4209978.mp3" length="63469044" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luftigt</title>
+                    <description>Obs! Luftigt är bara titeln, för det är tusan ta oss inte en beskrivning av programmet. Det är nämligen fullsmockat med festliga fakta om flygplan, svampar, gäspningar, snarkningar och helium. Och så slänger vi in en Topp Tre-lista på töntiga fågelnamn som sylt på marmeladen också! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4197906.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_121013_1a0a46.mp3</guid>
+                    <pubDate>Sat, 13 Oct 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Obs! Luftigt är bara titeln, för det är tusan ta oss inte en beskrivning av programmet. Det är nämligen fullsmockat med festliga fakta om flygplan, svampar, gäspningar, snarkningar och helium. Och så slänger vi in en Topp Tre-lista på töntiga fågelnamn som sylt på marmeladen också! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLuftigt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4197906.mp3" length="62475663" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Reprisursäkt (Osynlighet)</title>
+                    <description>Förlåt förlåt för att det inte kommer ett nytt Institutet den här veckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Osynlighet) så gör det nu! Lyssna på den här filen så förklarar vi varför.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3917195.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120505_de9c4d.mp3</guid>
+                    <pubDate>Sat, 05 May 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Förlåt förlåt för att det inte kommer ett nytt Institutet den här veckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Osynlighet) så gör det nu! Lyssna på den här filen så förklarar vi varför.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetReprisursäkt,(Osynlighet)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3917195.mp3" length="1860083" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Försvar</title>
+                    <description>Har vi nåt försvar mot utomjordingar? Eller kosmisk strålning? Vad tjänar pungråttan på att vara så äcklig? Är du immun mot HIV? Vad har en skalbagge med Die Hard 3 att göra? Svaren är en blandning av ”ja”, ”nej”, ”kanske” och ”allt”. Det här avsnittet handlar om försvar, på de olikaste sätt du nånsin stött på. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3904168.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120428_e3ef22.mp3</guid>
+                    <pubDate>Sat, 28 Apr 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Har vi nåt försvar mot utomjordingar? Eller kosmisk strålning? Vad tjänar pungråttan på att vara så äcklig? Är du immun mot HIV? Vad har en skalbagge med Die Hard 3 att göra? Svaren är en blandning av ”ja”, ”nej”, ”kanske” och ”allt”. Det här avsnittet handlar om försvar, på de olikaste sätt du nånsin stött på. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetFörsvar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3904168.mp3" length="62652401" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Reprisursäkt (Kommunikation)</title>
+                    <description>Förlåt förlåt för att det inte kommer ett nytt Institutet den här veckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Kommunikation) så gör det nu! Lyssna på den här filen så förklarar vi varför.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3891091.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120421_33ca85.mp3</guid>
+                    <pubDate>Sat, 21 Apr 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Förlåt förlåt för att det inte kommer ett nytt Institutet den här veckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Kommunikation) så gör det nu! Lyssna på den här filen så förklarar vi varför.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetReprisursäkt,(Kommunikation)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3891091.mp3" length="1509418" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mindf**k</title>
+                    <description>Så kom det äntligen, programmet om företeelsen som egentligen genomsyrar Institutet från vägg till tak. Du får veta hur man kan bli helt slut i huvet av en tavla, varför du egentligen blir lurad av déjà vu och hur nånting kan ha sju kön. Dessutom, kanske det mindfuckigaste inslaget hittills: hur du överlever fast du skjuter dig själv i huvudet. Varje gång! Och så toppar vi med lite zombier. Bon appetit. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3878746.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120414_983740.mp3</guid>
+                    <pubDate>Sat, 14 Apr 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Så kom det äntligen, programmet om företeelsen som egentligen genomsyrar Institutet från vägg till tak. Du får veta hur man kan bli helt slut i huvet av en tavla, varför du egentligen blir lurad av déjà vu och hur nånting kan ha sju kön. Dessutom, kanske det mindfuckigaste inslaget hittills: hur du överlever fast du skjuter dig själv i huvudet. Varje gång! Och så toppar vi med lite zombier. Bon appetit. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetMindf**k</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3878746.mp3" length="62433068" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Snusk</title>
+                    <description>Japp, det är snusk! Fast inte bara på det där tarvliga, skabrösa sättet, utan också snusk i bemärkelsen smutsigt och lite äckligt. Till exempel hur spetälskan fortfarande lever och frodas, och varför Kung Sol nös ut mat genom näsan. Men lugn, bara lugn, det kommer såklart också att handla om hur man har sex ifall man är förlamad, hur kaniner berättar för dig ifall du är gravid och dessutom en Topp 3-lista över bästa djurpenisar. NSFW. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3866065.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120407_9ba87f.mp3</guid>
+                    <pubDate>Sat, 07 Apr 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Japp, det är snusk! Fast inte bara på det där tarvliga, skabrösa sättet, utan också snusk i bemärkelsen smutsigt och lite äckligt. Till exempel hur spetälskan fortfarande lever och frodas, och varför Kung Sol nös ut mat genom näsan. Men lugn, bara lugn, det kommer såklart också att handla om hur man har sex ifall man är förlamad, hur kaniner berättar för dig ifall du är gravid och dessutom en Topp 3-lista över bästa djurpenisar. NSFW. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetSnusk</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3866065.mp3" length="62102491" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Reprisursäkt (Ljud och ljuv musik)</title>
+                    <description>Förlåt förlåt för att det inte kommer ett nytt Institutet den härveckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Ljud och ljuv musik) så gör det nu! Lyssna på den här filen så förklarar vi varför.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3859282.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120331_fba3ed.mp3</guid>
+                    <pubDate>Sat, 31 Mar 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Förlåt förlåt för att det inte kommer ett nytt Institutet den härveckan. Istället sänds det en repris i FM-radion, och har du inte laddat ner den tidigare (Ljud och ljuv musik) så gör det nu! Lyssna på den här filen så förklarar vi varför.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetReprisursäkt,(Ljud,och,ljuv,musik)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3859282.mp3" length="1539934" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trots</title>
+                    <description>Ifall det trotsar naturlagarna, logiken, förnuftet eller bara en ballong, så platsar det i det här avsnittet. Du får träffa Stina som har Alice in Wonderland-syndromet och plötsligt tycker att saker börjar växa okontrollerat. Du får också veta ifall en ballong kan bli mindre när man blåser upp den, och dessutom hur ett slags bullrecept raderade hela Sveriges BNP och fick ett JAS att krascha - men ändå inte kan räkna ut vem som gillar filmen Napoleon Dynamite. Trotsåldern är här! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3842574.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120324_6dfdce.mp3</guid>
+                    <pubDate>Sat, 24 Mar 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Ifall det trotsar naturlagarna, logiken, förnuftet eller bara en ballong, så platsar det i det här avsnittet. Du får träffa Stina som har Alice in Wonderland-syndromet och plötsligt tycker att saker börjar växa okontrollerat. Du får också veta ifall en ballong kan bli mindre när man blåser upp den, och dessutom hur ett slags bullrecept raderade hela Sveriges BNP och fick ett JAS att krascha - men ändå inte kan räkna ut vem som gillar filmen Napoleon Dynamite. Trotsåldern är här! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetTrots</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3842574.mp3" length="58654791" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Borta</title>
+                    <description>Christina var tvungen att operera bort hela sitt vänstra bröst. Men plötsligt en dag kunde hon känna sin bröstvårta igen, fastän den inte fanns. Veckans podd handlar om fantomkänsel. Dessutom pratar vi om vad som händer när en människa hamnar i vakuum, om tomrummet som aldrig är tomt, och om Cotards syndrom, ett tillstånd där levande personer är övertygade om att de är döda eller att deras organ håller på att ruttna. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3829992.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120317_1664af.mp3</guid>
+                    <pubDate>Sat, 17 Mar 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Christina var tvungen att operera bort hela sitt vänstra bröst. Men plötsligt en dag kunde hon känna sin bröstvårta igen, fastän den inte fanns. Veckans podd handlar om fantomkänsel. Dessutom pratar vi om vad som händer när en människa hamnar i vakuum, om tomrummet som aldrig är tomt, och om Cotards syndrom, ett tillstånd där levande personer är övertygade om att de är döda eller att deras organ håller på att ruttna. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetBorta</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3829992.mp3" length="58621291" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Oändligheten</title>
+                    <description>Är rymden verkligen oändlig eller beskrivs den bättre som en kantig slang? Skulle människan kunna leva för evigt och när i så fall utvecklar vi vingar? Vad har det att göra med krypen som har sex med sin brorsa inuti sin mamma? Och hur kan det finnas olika stora oändligheter? Svaren får du i Institutets andra program. Repris från 20110620. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3818113.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120310_91d15d.mp3</guid>
+                    <pubDate>Sat, 10 Mar 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Är rymden verkligen oändlig eller beskrivs den bättre som en kantig slang? Skulle människan kunna leva för evigt och när i så fall utvecklar vi vingar? Vad har det att göra med krypen som har sex med sin brorsa inuti sin mamma? Och hur kan det finnas olika stora oändligheter? Svaren får du i Institutets andra program. Repris från 20110620. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetOändligheten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3818113.mp3" length="63593702" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ihop</title>
+                    <description>Institutet träffar Christian, som har synestesi, för honom har alla siffror och bokstäver specifika färger, till exempel så är ”F” klargult. Lars Olson förklarar varför bara vissa har den här egenskapen. Dessutom så tar vi oss an strängteorin, teorin som hävdar att de minsta beståndsdelarna av materia består av små, vibrerande strängar. Dessutom pratar vi om p-piller som påverkar dig mer än du tror och märkliga djuphavsmarulkar. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3804301.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120303_1d4460.mp3</guid>
+                    <pubDate>Sat, 03 Mar 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Institutet träffar Christian, som har synestesi, för honom har alla siffror och bokstäver specifika färger, till exempel så är ”F” klargult. Lars Olson förklarar varför bara vissa har den här egenskapen. Dessutom så tar vi oss an strängteorin, teorin som hävdar att de minsta beståndsdelarna av materia består av små, vibrerande strängar. Dessutom pratar vi om p-piller som påverkar dig mer än du tror och märkliga djuphavsmarulkar. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetIhop</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3804301.mp3" length="60629597" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rysk forskning</title>
+                    <description>Av någon anledning är det ryssarna som har stått för den knasigaste forskningen genom historien, från att transplantera en liten hund på en stor hund, till att inseminera kvinnor med apsperma - och vilja snabba på växthuseffekten för att kunna odla bananer i Sibirien. Men dom har kanske också gett oss lösningen på klimatkrisen i form av en slags filt, och framför (nästan) allt det periodiska systemet! Dessutom: maneterna som fyllde Svarta havet. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3790229.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120225_7d9689.mp3</guid>
+                    <pubDate>Sat, 25 Feb 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Av någon anledning är det ryssarna som har stått för den knasigaste forskningen genom historien, från att transplantera en liten hund på en stor hund, till att inseminera kvinnor med apsperma - och vilja snabba på växthuseffekten för att kunna odla bananer i Sibirien. Men dom har kanske också gett oss lösningen på klimatkrisen i form av en slags filt, och framför (nästan) allt det periodiska systemet! Dessutom: maneterna som fyllde Svarta havet. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetRysk,forskning</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3790229.mp3" length="73414577" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lita inte på nån!</title>
+                    <description>Du ska inte lita på någon. Inte på vittnen, inte på svampar, inte på din syster - om hon nu verkligen ÄR din syster! Lita inte heller på dom som säger att du måste öva dig för att bli bra på gitarr, lita inte på dina ögon och framförallt: lita inte på nånting som din hjärna säger. Repris från 20110613. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3776081.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120218_d02d3f.mp3</guid>
+                    <pubDate>Sat, 18 Feb 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Du ska inte lita på någon. Inte på vittnen, inte på svampar, inte på din syster - om hon nu verkligen ÄR din syster! Lita inte heller på dom som säger att du måste öva dig för att bli bra på gitarr, lita inte på dina ögon och framförallt: lita inte på nånting som din hjärna säger. Repris från 20110613. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLita,inte,på,nån!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3776081.mp3" length="51298958" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tiden</title>
+                    <description>I den stora tidsspecialen försöker vi och professor Ulf Danielsson förklara varför tiden går långsammare om du står på en stege, att samtidigt inte finns och att resor till framtiden är fullt möjliga. Och apropå det hör du också Det Stora Tidsresefilmprincipinslaget, om det rimliga i Tillbaka till framtiden och förvirringen i Terminotor-kvadrologin. Dessutom pratar vi med Helena som under inga omständigheter kan komma i tid, om när en tjockis satt på Härnösand och Amondawafolket som bara har nu eller aldrig. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3762469.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120211_0a147f.mp3</guid>
+                    <pubDate>Sat, 11 Feb 2012 09:03:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>I den stora tidsspecialen försöker vi och professor Ulf Danielsson förklara varför tiden går långsammare om du står på en stege, att samtidigt inte finns och att resor till framtiden är fullt möjliga. Och apropå det hör du också Det Stora Tidsresefilmprincipinslaget, om det rimliga i Tillbaka till framtiden och förvirringen i Terminotor-kvadrologin. Dessutom pratar vi med Helena som under inga omständigheter kan komma i tid, om när en tjockis satt på Härnösand och Amondawafolket som bara har nu eller aldrig. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetTiden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3762469.mp3" length="70162909" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Iskallt</title>
+                    <description>I Institutets säsongsstart träffar du Daniel som inte tänker acceptera att han bara är död när han väl dör. Du får veta hur smyghomosexualitet kanske kan lösa energikrisen, och hur du fram till dess kan dricka iskall öl fast den stått i solen. Dessutom: hemligheten om varför ansiktet är kroppens mest utfrysta kroppsdel, och topp fem-listan över taskiga grejer man utsatte ismannen Ötzi för.Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3749820.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_120204_5562ab.mp3</guid>
+                    <pubDate>Sat, 04 Feb 2012 09:00:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>I Institutets säsongsstart träffar du Daniel som inte tänker acceptera att han bara är död när han väl dör. Du får veta hur smyghomosexualitet kanske kan lösa energikrisen, och hur du fram till dess kan dricka iskall öl fast den stått i solen. Dessutom: hemligheten om varför ansiktet är kroppens mest utfrysta kroppsdel, och topp fem-listan över taskiga grejer man utsatte ismannen Ötzi för.Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetIskallt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3749820.mp3" length="65381336" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det ballar ur!</title>
+                    <description>I sommarens sista Institut ballar det dessvärre ur fullständigt. Men det gör det å andra sidan på väldigt intressanta sätt, t.ex. i djupsömnen (så att du ser monster fast du är vaken), i mitten av Vintergatan (där allting blir helt obegripligt), i Jespers tunntarm (där Blondinbella går före i kön) och i Karins huvud (där nånting mycket oroande dunkar på uppmärksamhet). Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3400154.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110815_294d5e.mp3</guid>
+                    <pubDate>Mon, 15 Aug 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>I sommarens sista Institut ballar det dessvärre ur fullständigt. Men det gör det å andra sidan på väldigt intressanta sätt, t.ex. i djupsömnen (så att du ser monster fast du är vaken), i mitten av Vintergatan (där allting blir helt obegripligt), i Jespers tunntarm (där Blondinbella går före i kön) och i Karins huvud (där nånting mycket oroande dunkar på uppmärksamhet). Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetDet,ballar,ur!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3400154.mp3" length="63593711" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Styrka </title>
+                    <description>Giv mig styrka! I en het vindaloo, i golfklubborna i mina muskler, i ålslem av spindelnät och när du ändå är igång, giv mig en styrketår dubbel-ipa! Institutet benar ut och spaltar upp vad styrka innebär för dig, för delfinen och för dina myggbett. Dessutom agerar vi lite Dr House där i början, men det behöver vi inte orda så mycket om. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3363241.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110808_4650b3.mp3</guid>
+                    <pubDate>Mon, 08 Aug 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Giv mig styrka! I en het vindaloo, i golfklubborna i mina muskler, i ålslem av spindelnät och när du ändå är igång, giv mig en styrketår dubbel-ipa! Institutet benar ut och spaltar upp vad styrka innebär för dig, för delfinen och för dina myggbett. Dessutom agerar vi lite Dr House där i början, men det behöver vi inte orda så mycket om. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetStyrka,</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3363241.mp3" length="62909889" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Attraktion</title>
+                    <description>Vårt åttonde program tillägnar vi attraktionen i alla dess former. Bland annat attraktionen mellan människa och lite för avlägsen släkting, mellan icke-rökare och rökare, mellan Vintergatan och Andromeda, samt mellan mygg och Karin. Dessutom får du reda på hur många män egentligen ligger med. Bara sådär. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3316300.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110801_a223ad.mp3</guid>
+                    <pubDate>Mon, 01 Aug 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Vårt åttonde program tillägnar vi attraktionen i alla dess former. Bland annat attraktionen mellan människa och lite för avlägsen släkting, mellan icke-rökare och rökare, mellan Vintergatan och Andromeda, samt mellan mygg och Karin. Dessutom får du reda på hur många män egentligen ligger med. Bara sådär. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetAttraktion</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3316300.mp3" length="74491927" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Doft &amp; stank</title>
+                    <description>Den här veckan berättar vi att luktblindhet kan underlätta i bostadsrättsföreningen, att getingar kan rädda dig från terroristattacker och att du ska undvika att spreja dig i huvudet med slidjos från apor. Det sistnämnda kanske du visste redan, men du vet inte VAR och HUR du ska undvika det. Institutet med Karin och Jesper och med temat Doft &amp; Stank, ger dig hela historien. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3303894.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110725_6ac28a.mp3</guid>
+                    <pubDate>Mon, 25 Jul 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Den här veckan berättar vi att luktblindhet kan underlätta i bostadsrättsföreningen, att getingar kan rädda dig från terroristattacker och att du ska undvika att spreja dig i huvudet med slidjos från apor. Det sistnämnda kanske du visste redan, men du vet inte VAR och HUR du ska undvika det. Institutet med Karin och Jesper och med temat Doft &amp; Stank, ger dig hela historien. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetDoft,&amp;,stank</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3303894.mp3" length="71857186" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mittemellan</title>
+                    <description>Vad är det som växer och växer men aldrig rör sig mot dörren? Vad är det som är en planet i New Mexico men ingen annanstans? Vad är det som gör att du kan byta kön efter din död? Vad är det som flyter men ändå är hårdare än titan? Svaren på alla dessa frågor (samt varför många egentligen tycker att Jesus är skitäcklig) får du när Institutet reser till skymningslandet Mittemellan. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3282086.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110718_ddbaa7.mp3</guid>
+                    <pubDate>Mon, 18 Jul 2011 08:00:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Vad är det som växer och växer men aldrig rör sig mot dörren? Vad är det som är en planet i New Mexico men ingen annanstans? Vad är det som gör att du kan byta kön efter din död? Vad är det som flyter men ändå är hårdare än titan? Svaren på alla dessa frågor (samt varför många egentligen tycker att Jesus är skitäcklig) får du när Institutet reser till skymningslandet Mittemellan. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetMittemellan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3282086.mp3" length="68747574" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Osynlighet</title>
+                    <description>Hur kan du missa hela vänstersidan av världen - fast dina ögon fungerar utmärkt? Varför måste du släpa med dig stora stenblock för att bli osynlig? Varför ska du passa dig för havets vinbärsbuskar? Varför brändes skomodellens ben av? Svaren får du i den här veckans Institutet med Karin och Jesper - om osynlighet! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3264255.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110711_463062.mp3</guid>
+                    <pubDate>Mon, 11 Jul 2011 08:00:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Hur kan du missa hela vänstersidan av världen - fast dina ögon fungerar utmärkt? Varför måste du släpa med dig stora stenblock för att bli osynlig? Varför ska du passa dig för havets vinbärsbuskar? Varför brändes skomodellens ben av? Svaren får du i den här veckans Institutet med Karin och Jesper - om osynlighet! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetOsynlighet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3264255.mp3" length="72638287" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kommunikation</title>
+                    <description>Varför kommer personliga assistenter lättare i MC-slagsmål? Vad har Brangelina med teleportering att göra? Och hur stora bröst hade Karin egentligen när hon var 12 år? Svaren får du när Institutet tar sig an kommunikation. Och om du inte nöjer dig med det får du dessutom reda på hur du bygger din egen rymdhiss. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3244500.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110704_8548ea.mp3</guid>
+                    <pubDate>Mon, 04 Jul 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Varför kommer personliga assistenter lättare i MC-slagsmål? Vad har Brangelina med teleportering att göra? Och hur stora bröst hade Karin egentligen när hon var 12 år? Svaren får du när Institutet tar sig an kommunikation. Och om du inte nöjer dig med det får du dessutom reda på hur du bygger din egen rymdhiss. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetKommunikation</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3244500.mp3" length="82809325" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ljud och ljuv musik</title>
+                    <description>Äntligen kommer du få den vetenskapliga förklaringen till spöken, varför vissa hör med foten och hur du kan få tillbaks minnet med hjälp av musik. Och hur vet man att möss har tinnitus, men framförallt, hur vet man att man botat dem? Ljud och ljuv musik är temat! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3226467.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110627_fb6043.mp3</guid>
+                    <pubDate>Mon, 27 Jun 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Äntligen kommer du få den vetenskapliga förklaringen till spöken, varför vissa hör med foten och hur du kan få tillbaks minnet med hjälp av musik. Och hur vet man att möss har tinnitus, men framförallt, hur vet man att man botat dem? Ljud och ljuv musik är temat! Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLjud,och,ljuv,musik</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3226467.mp3" length="71934402" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Oändligheten</title>
+                    <description>Är rymden verkligen oändlig eller beskrivs den bättre som en kantig slang? Skulle människan kunna leva för evigt och när i så fall utvecklar vi vingar? Vad har det att göra med krypen som har sex med sin brorsa inuti sin mamma? Och hur kan det finnas olika stora oändligheter? Svaren får du i Institutets andra program. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3204414.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110620_5e96d9.mp3</guid>
+                    <pubDate>Mon, 20 Jun 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Är rymden verkligen oändlig eller beskrivs den bättre som en kantig slang? Skulle människan kunna leva för evigt och när i så fall utvecklar vi vingar? Vad har det att göra med krypen som har sex med sin brorsa inuti sin mamma? Och hur kan det finnas olika stora oändligheter? Svaren får du i Institutets andra program. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetOändligheten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3204414.mp3" length="73999587" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lita inte på nån</title>
+                    <description>Du ska inte lita på någon. Inte på vittnen, inte på svampar, inte på din syster - om hon nu verkligen ÄR din syster! Lita inte heller på dom som säger att du måste öva dig för att bli bra på gitarr, lita inte på dina ögon och framförallt: lita inte på nånting som din hjärna säger. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3179583.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_institutet_110613_801c6b.mp3</guid>
+                    <pubDate>Mon, 13 Jun 2011 08:02:00 GMT</pubDate>
+                    <programid>4131</programid>
+                    <poddid>15382</poddid>
+                    <itunes:summary>Du ska inte lita på någon. Inte på vittnen, inte på svampar, inte på din syster - om hon nu verkligen ÄR din syster! Lita inte heller på dom som säger att du måste öva dig för att bli bra på gitarr, lita inte på dina ögon och framförallt: lita inte på nånting som din hjärna säger. Programledare: Karin Gyllenklev och Jesper Rönndahl. Ljuddesign: Nils Svennem. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>InstitutetLita,inte,på,nån</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3179583.mp3" length="63365419" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

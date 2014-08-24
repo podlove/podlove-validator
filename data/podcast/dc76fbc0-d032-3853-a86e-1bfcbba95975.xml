@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.6.0"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:30:54 GMT"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml; charset=utf-8"/>
+        <httpclient:header name="Content-Length" value="26255"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Status" value="200 OK"/>
+        <httpclient:header name="X-Frame-Options" value="SAMEORIGIN"/>
+        <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
+        <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
+        <httpclient:header name="X-UA-Compatible" value="chrome=1"/>
+        <httpclient:header name="ETag" value="&#34;80f5a32507130459c5c84c63bb92ef56&#34;"/>
+        <httpclient:header name="Cache-Control" value="max-age=0, private, must-revalidate"/>
+        <httpclient:header name="Set-Cookie" value="request_method=GET; path=/"/>
+        <httpclient:header name="X-Request-Id" value="a59ae6be-00f8-4c72-a099-e243296f7e29"/>
+        <httpclient:header name="X-Runtime" value="0.068481"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml; charset=utf-8" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xml:lang="fr-FR">
+            <channel>
+                <title>
+      5 questions à...
+    </title>
+                <description>
+      Des mini-interviews de podcasteurs et de poditeurs, enregistrées sur le vif. 
+
+Une nouvelle interview tous les lundis et les jeudis.
+    </description>
+                <itunes:summary>
+      Des mini-interviews de podcasteurs et de poditeurs, enregistrées sur le vif. 
+
+Une nouvelle interview tous les lundis et les jeudis.
+    </itunes:summary>
+                <itunes:subtitle>
+      Mini-interviews de podcasteurs et poditeurs
+    </itunes:subtitle>
+                <language>fr-fr</language>
+                <webMaster>leperemptoire@gmail.com (Peremptoire)</webMaster>
+                <pubDate>Sun, 17 Aug 2014 21:51:45 +0200</pubDate>
+                <lastBuildDate>Sun, 17 Aug 2014 21:51:45 +0200</lastBuildDate>
+                <generator>podCloud</generator>
+                <image>
+                    <url>http://5questions.podcloud.fr/assets/fallback/nocover-a28be78d9a9ab784bc8c3685244a376a.png</url>
+                    <title>
+        5 questions à...
+      </title>
+                    <link>http://5questions.podcloud.fr/index.html</link>
+                </image>
+                <copyright>
+      
+    </copyright>
+                <link>http://5questions.podcloud.fr/index.html</link>
+                <atom:link href="http://5questions.podcloud.fr/rss" rel="self" type="application/rss+xml"/>
+                <itunes:image href="http://5questions.podcloud.fr/assets/fallback/nocover-a28be78d9a9ab784bc8c3685244a376a.png"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:author>
+      Peremptoire
+    </itunes:author>
+                <itunes:keywords>format court, interview, questions, podcast, podcasteur, podCloud</itunes:keywords>
+                <itunes:owner>
+                    <itunes:name>
+        Peremptoire
+      </itunes:name>
+                    <itunes:email>leperemptoire@gmail.com</itunes:email>
+                </itunes:owner>
+                <item>
+                    <title>
+        5 questions à InTheBlix
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"&gt;5 questions à InTheBlix&lt;/h2&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Retrouvez&#160;&lt;strong&gt;InTheBlix&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;span style="border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: black;"&gt;&lt;a href="http://www.twitter.com/inteblix" target="_blank"&gt;@InTheBlix&lt;/a&gt;&#160;&lt;/span&gt;&#160;et sur les podcasts&#160;&lt;a href="http://www.livetile.fr/" style="color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: black;" target="_blank"&gt;l&lt;/a&gt;e&#160;&lt;a href="http://planb-podcast.net/" target="_blank"&gt;Plan B&lt;/a&gt; et &lt;a href="http://www.splitscreenpodcast.com/" target="_blank"&gt;Splitscreen&lt;/a&gt;. Il écrit également sur le &lt;a href="http://www.dailymars.net/" target="_blank"&gt;Daily Mars&lt;/a&gt; et produit l'&lt;a href="http://www.dailymars.net/category/life-on-daily-mars/podcast-life-on-daily-mars/aguiche-room/" target="_blank"&gt;Aguiche Room&lt;/a&gt;.&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 18 Aug 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-intheblix</link>
+                    <guid isPermaLink="false">53f104846e73345d2d4c2400</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-intheblix/enclosure.mp3?p=f" length="2495102" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à InTheBlixEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;InTheBlix&#160;sur Twitter :&#160;@InTheBlix&#160;&#160;et sur les podcasts&#160;le&#160;Plan B et Splitscreen. Il écrit également sur le Daily Mars et produit l'Aguiche Room.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à InTheBlixEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;InTheBlix&#160;sur Twitter :&#160;@InTheBlix&#160;&#160;et sur les podcasts&#160;le&#160;Plan B et Splitscreen. Il écrit également sur le Daily Mars et produit l'Aguiche Room.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-intheblix/enclosure/cover"/>
+                    <itunes:duration>2:35</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Izura
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"&gt;5 questions à Izura&lt;/h2&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Retrouvez&#160;&lt;strong&gt;Izura&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;span style="border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: black;"&gt;&lt;a href="http://www.twitter.com/izura" target="_blank"&gt;@izura&lt;/a&gt;&lt;/span&gt;&#160;et sur le podcast&#160;&lt;a href="http://www.livetile.fr/" style="color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: black;" target="_blank"&gt;l&lt;/a&gt;e &lt;a href="http://www.comptoirsecu.fr/" target="_blank"&gt;Comptoir Secu&lt;/a&gt;.&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 14 Aug 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-izura</link>
+                    <guid isPermaLink="false">53e75fbf6e73344653960500</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-izura/enclosure.mp3?p=f" length="2162295" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à IzuraEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Izura&#160;sur Twitter :&#160;@izura&#160;et sur le podcast&#160;le Comptoir Secu.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à IzuraEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Izura&#160;sur Twitter :&#160;@izura&#160;et sur le podcast&#160;le Comptoir Secu.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-izura/enclosure/cover"/>
+                    <itunes:duration>2:14</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Anthony du Bro de Caste
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"&gt;5 questions à Anthony du Bro de Caste&lt;/h2&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Retrouvez&#160;&lt;strong&gt;Anthony&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="https://twitter.com/Anthony_Pol" target="_blank"&gt;&lt;span style="color: rgb(136, 153, 166); font-family: 'Gotham Narrow SSm', sans-serif; line-height: 14px; background-color: rgb(245, 248, 250);"&gt;@&lt;/span&gt;&lt;span style="line-height: 1.428571429;"&gt;Anthony_pol&lt;/span&gt;&lt;/a&gt;&lt;span style="line-height: 1.428571429;"&gt;&#160;et&#160;&lt;/span&gt;&lt;a href="https://twitter.com/brodecaste" target="_blank"&gt;&lt;span style="color: rgb(136, 153, 166); font-family: 'Gotham Narrow SSm', sans-serif; line-height: 14px; background-color: rgb(245, 248, 250);"&gt;@&lt;/span&gt;Brodecaste&lt;/a&gt;&lt;span style="line-height: 1.428571429;"&gt;&#160;sur le podcast&#160;&lt;/span&gt;&lt;a href="http://www.livetile.fr/" style="line-height: 1.428571429; color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: dotted; border-bottom-color: black;" target="_blank"&gt;l&lt;/a&gt;e &lt;a href="http://www.thewalkingnerd.fr" target="_blank"&gt;Bro de Caste&lt;/a&gt; (c'est chié)&lt;span style="line-height: 1.428571429;"&gt;.&lt;/span&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 11 Aug 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-anthony-du-bro-de-caste</link>
+                    <guid isPermaLink="false">53e75e3f6e73344659370500</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-anthony-du-bro-de-caste/enclosure.mp3?p=f" length="1923602" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à Anthony du Bro de CasteEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Anthony&#160;sur Twitter :&#160;@Anthony_pol&#160;et&#160;@Brodecaste&#160;sur le podcast&#160;le Bro de Caste (c'est chié).
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à Anthony du Bro de CasteEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Anthony&#160;sur Twitter :&#160;@Anthony_pol&#160;et&#160;@Brodecaste&#160;sur le podcast&#160;le Bro de Caste (c'est chié).
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-anthony-du-bro-de-caste/enclosure/cover"/>
+                    <itunes:duration>1:59</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Kobal
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à Kobal&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Kobal&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/kobal" target="_blank"&gt;@kobal&lt;/a&gt;&#160;et sur le podcast &lt;a href="http://www.twitter.com/kobal" target="_blank"&gt;Radio&lt;/a&gt;&lt;span style="line-height: 1.428571429;"&gt;&lt;a href="http://www.twitter.com/kobal" target="_blank"&gt;&#160;Rôliste&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 07 Aug 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-kobal</link>
+                    <guid isPermaLink="false">53de50766e733405725e1600</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-kobal/enclosure.mp3?p=f" length="2851714" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à KobalEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Kobal&#160;sur Twitter :&#160;@kobal&#160;et sur le podcast Radio&#160;Rôliste.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à KobalEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Kobal&#160;sur Twitter :&#160;@kobal&#160;et sur le podcast Radio&#160;Rôliste.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-kobal/enclosure/cover"/>
+                    <itunes:duration>00:02:57</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Davidobico
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à Davidobico&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Davidobico&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/davidobico" target="_blank"&gt;@davidobico&lt;/a&gt;&#160;et sur le podcast&#160;&lt;a href="http://www.livetile.fr/" target="_blank"&gt;LiveTile&lt;/a&gt;.&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 04 Aug 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-davidobico</link>
+                    <guid isPermaLink="false">53de4c676e7334057b7f1800</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-davidobico/enclosure.mp3?p=f" length="2493511" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à DavidobicoEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Davidobico&#160;sur Twitter :&#160;@davidobico&#160;et sur le podcast&#160;LiveTile.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à DavidobicoEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Davidobico&#160;sur Twitter :&#160;@davidobico&#160;et sur le podcast&#160;LiveTile.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-davidobico/enclosure/cover"/>
+                    <itunes:duration>00:02:47</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Irslo
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à Irslo&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Irslo&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/irslo" target="_blank"&gt;@Irslo&lt;/a&gt;&#160;et sur le podcast &lt;a href="http://www.livetile.fr" target="_blank"&gt;LiveTile&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 31 Jul 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-irslo</link>
+                    <guid isPermaLink="false">53d51c946e73346f619f1300</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-irslo/enclosure.mp3?p=f" length="1981970" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à IrsloEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Irslo&#160;sur Twitter :&#160;@Irslo&#160;et sur le podcast LiveTile.&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à IrsloEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Irslo&#160;sur Twitter :&#160;@Irslo&#160;et sur le podcast LiveTile.&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-irslo/enclosure/cover"/>
+                    <itunes:duration>00:02:07</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Siddhartarus
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à Siddhartarus&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Siddhartarus&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/siddhartarus" target="_blank"&gt;@siddhartarus&lt;/a&gt;&#160;et sur les podcasts &lt;a href="http://www.planb-podcast.net/" target="_blank"&gt;Plan B&lt;/a&gt; et &lt;a href="http://www.livetile.fr/" target="_blank"&gt;LiveTile&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 28 Jul 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-siddhartarus</link>
+                    <guid isPermaLink="false">53d517af6e73341e158e1300</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-siddhartarus/enclosure.mp3?p=f" length="2693970" type="application/octet-stream"/>
+                    <itunes:summary>
+        5 questions à SiddhartarusEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Siddhartarus&#160;sur Twitter :&#160;@siddhartarus&#160;et sur les podcasts Plan B et LiveTile.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à SiddhartarusEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Siddhartarus&#160;sur Twitter :&#160;@siddhartarus&#160;et sur les podcasts Plan B et LiveTile.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-siddhartarus/enclosure/cover"/>
+                    <itunes:duration>00:02:47</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Xim Axinn
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à&#160;Xim Axinn&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Xim Axinn&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="https://twitter.com/XimVaLoin" target="_blank"&gt;@XimVaLoin&lt;/a&gt;&#160;et sur ses chaines Youtube &lt;a href="https://www.youtube.com/user/cavaloin" target="_blank"&gt;Ça Va Loin&lt;/a&gt; et &lt;a href="https://www.youtube.com/user/Geexutoire" target="_blank"&gt;Geexutoire&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 03 Jul 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-xim-axinn</link>
+                    <guid isPermaLink="false">53af27bc6e73346fdffb2200</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-xim-axinn/enclosure.mp3?p=f" length="3263773" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à&#160;Xim AxinnEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Xim Axinn&#160;sur Twitter :&#160;@XimVaLoin&#160;et sur ses chaines Youtube Ça Va Loin et Geexutoire.&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à&#160;Xim AxinnEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Xim Axinn&#160;sur Twitter :&#160;@XimVaLoin&#160;et sur ses chaines Youtube Ça Va Loin et Geexutoire.&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-xim-axinn/enclosure/cover"/>
+                    <itunes:duration>00:03:22</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Anthony Stark
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);"&gt;5 questions à&#160;Anthony Stark&lt;/h2&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p style="background-color: rgb(255, 255, 255);"&gt;Retrouvez&#160;&lt;strong&gt;Anthony Stark&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="https://twitter.com/nthonyStark" target="_blank"&gt;@nthonystark&lt;/a&gt; et sur le podcast &lt;a href="http://geeksansmoderation.com/" target="_blank"&gt;Geek Sans Modération&#160;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 30 Jun 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-anthony-stark</link>
+                    <guid isPermaLink="false">53af26996e73346fdff62200</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-anthony-stark/enclosure.mp3?p=f" length="4752274" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à&#160;Anthony StarkEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Anthony Stark&#160;sur Twitter :&#160;@nthonystark et sur le podcast Geek Sans Modération&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à&#160;Anthony StarkEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Anthony Stark&#160;sur Twitter :&#160;@nthonystark et sur le podcast Geek Sans Modération&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-anthony-stark/enclosure/cover"/>
+                    <itunes:duration>00:04:55</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Azertoff
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à&#160;Azertoff&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Azertoff&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/azertoff" target="_blank"&gt;@Azertoff&lt;/a&gt;&#160;sur &lt;a href="http://azertoff.wordpress.com/" target="_blank"&gt;Planning Podcast&lt;/a&gt; et &lt;a href="http://koiqispass.podcloud.fr/" target="_blank"&gt;Koiqispass&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 26 Jun 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-azertoff</link>
+                    <guid isPermaLink="false">53a5dc8d6e733418fa150900</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-azertoff/enclosure.mp3?p=f" length="3040375" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à&#160;AzertoffEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Azertoff&#160;sur Twitter :&#160;@Azertoff&#160;sur Planning Podcast et Koiqispass&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à&#160;AzertoffEnregistré à Rennes le 14 juin 2014.Retrouvez&#160;Azertoff&#160;sur Twitter :&#160;@Azertoff&#160;sur Planning Podcast et Koiqispass&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-azertoff/enclosure/cover"/>
+                    <itunes:duration>00:03:05</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Finghin
+      </title>
+                    <description>
+        &lt;h2 style="font-family: Lato, sans-serif; color: rgb(51, 51, 51);"&gt;5 questions à&#160;Finghin&lt;/h2&gt;&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;&lt;p&gt;Retrouvez Finghin&#160;sur Twitter :&#160;&lt;a href="https://twitter.com/Finghin33" target="_blank"&gt;@Finghin33&lt;/a&gt;&#160;et&#160;sur les podcasts &lt;a href="http://www.planb-podcast.net" target="_blank"&gt;Plan B&lt;/a&gt; et &lt;a href="http://www.livetile.fr" target="_blank"&gt;LiveTile&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 23 Jun 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-finghin</link>
+                    <guid isPermaLink="false">53a5da7c6e733418fdef0900</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-finghin/enclosure.mp3?p=f" length="3225346" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à&#160;FinghinEnregistré à Rennes le 14 juin 2014.Retrouvez Finghin&#160;sur Twitter :&#160;@Finghin33&#160;et&#160;sur les podcasts Plan B et LiveTile.
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à&#160;FinghinEnregistré à Rennes le 14 juin 2014.Retrouvez Finghin&#160;sur Twitter :&#160;@Finghin33&#160;et&#160;sur les podcasts Plan B et LiveTile.
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-finghin/enclosure/cover"/>
+                    <itunes:duration>00:03:15</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions au Doc
+      </title>
+                    <description>
+        &lt;h2&gt;5 questions&#160;au Doc&lt;/h2&gt;
+&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;
+&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Le Doc&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="https://twitter.com/lancepatate" target="_blank"&gt;@lancepatate&lt;/a&gt;&#160;et &lt;a href="http://www.twitter.com/le_podgast" target="_blank"&gt;@le_podGast&lt;/a&gt;&#160;et&#160;sur&#160;le podGast sur&#160;&lt;a href="http://www.podgast.net" target="_blank"&gt;podGast.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+      </description>
+                    <pubDate>Thu, 19 Jun 2014 09:00:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-au-doc</link>
+                    <guid isPermaLink="false">539f0d786e733475daf00000</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-au-doc/enclosure.mp3?p=f" length="2087302" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions&#160;au Doc
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez&#160;Le Doc&#160;sur Twitter :&#160;@lancepatate&#160;et @le_podGast&#160;et&#160;sur&#160;le podGast sur&#160;podGast.net
+&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions&#160;au Doc
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez&#160;Le Doc&#160;sur Twitter :&#160;@lancepatate&#160;et @le_podGast&#160;et&#160;sur&#160;le podGast sur&#160;podGast.net
+&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-au-doc/enclosure/cover"/>
+                    <itunes:duration>00:02:09</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Fred du Bro de Caste
+      </title>
+                    <description>
+        &lt;h2&gt;5 questions à&#160;Fred du Bro de Caste&lt;/h2&gt;
+&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;
+&lt;p&gt;Retrouvez&#160;&lt;strong&gt;Fred&lt;/strong&gt;&#160;sur Twitter :&#160;&lt;a href="http://www.twitter.com/fredbuzzmarie" target="_blank"&gt;@fredbuzzmarie&lt;/a&gt; et &lt;a href="http://www.twitter.com/brodecaste" target="_blank"&gt;@brodecaste&lt;/a&gt;&#160;et sur&#160;le Bro de Caste sur&#160;&lt;a href="http://www.thewalkingnerd.fr" target="_blank"&gt;thewalkingnerd.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+      </description>
+                    <pubDate>Mon, 16 Jun 2014 21:06:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-fred-du-bro-de-caste</link>
+                    <guid isPermaLink="false">539f0bf26e733475dae20000</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-fred-du-bro-de-caste/enclosure.mp3?p=f" length="1759839" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à&#160;Fred du Bro de Caste
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez&#160;Fred&#160;sur Twitter :&#160;@fredbuzzmarie et @brodecaste&#160;et sur&#160;le Bro de Caste sur&#160;thewalkingnerd.fr
+&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à&#160;Fred du Bro de Caste
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez&#160;Fred&#160;sur Twitter :&#160;@fredbuzzmarie et @brodecaste&#160;et sur&#160;le Bro de Caste sur&#160;thewalkingnerd.fr
+&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-fred-du-bro-de-caste/enclosure/cover"/>
+                    <itunes:duration>00:01:49</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+                <item>
+                    <title>
+        5 questions à Shutan
+      </title>
+                    <description>
+        &lt;h2&gt;5 questions à Shutan&lt;/h2&gt;
+&lt;p&gt;Enregistré à Rennes le 14 juin 2014.&lt;/p&gt;
+&lt;p&gt;Retrouvez &lt;strong&gt;Shutan&lt;/strong&gt; sur Twitter : &lt;a href="https://twitter.com/shutan_uzuki" target="_blank"&gt;@shutan_uzuki&lt;/a&gt;&#160;et sur Ca Va Trancher et Erikadi sur&#160;&lt;a href="http://www.badgeek.fr/" target="_blank"&gt;Badgeek.fr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&#160;&lt;/p&gt;
+      </description>
+                    <pubDate>Sun, 15 Jun 2014 21:06:00 +0200</pubDate>
+                    <link>http://5questions.podcloud.fr/5-questions-a-shutan</link>
+                    <guid isPermaLink="false">539df6476e73341b4a810200</guid>
+                    <enclosure url="http://5questions.podcloud.fr/5-questions-a-shutan/enclosure.mp3?p=f" length="2359607" type="audio/mp3"/>
+                    <itunes:summary>
+        5 questions à Shutan
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez Shutan sur Twitter : @shutan_uzuki&#160;et sur Ca Va Trancher et Erikadi sur&#160;Badgeek.fr
+&#160;
+      </itunes:summary>
+                    <itunes:subtitle>
+        5 questions à Shutan
+Enregistré à Rennes le 14 juin 2014.
+Retrouvez Shutan sur Twitter : @shutan_uzuki&#160;et sur Ca Va Trancher et Erikadi sur&#160;Badgeek.fr
+&#160;
+      </itunes:subtitle>
+                    <itunes:image href="http://5questions.podcloud.fr/5-questions-a-shutan/enclosure/cover"/>
+                    <itunes:duration>00:02:27</itunes:duration>
+                    <itunes:author>
+        Peremptoire
+      </itunes:author>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

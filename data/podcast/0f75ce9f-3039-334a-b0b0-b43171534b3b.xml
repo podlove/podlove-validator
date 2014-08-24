@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Last-Modified" value="Fri, 15 Aug 2014 15:59:01 GMT"/>
+        <httpclient:header name="ETag" value="&#34;56d556-135a6-500ad19845b40&#34;"/>
+        <httpclient:header name="X-APM-Hostname" value="hqwebprod02"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:32:27 GMT"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Connection" value="Transfer-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml"><?xml-stylesheet type="text/xsl" href="http://americanpublicmedia.publicradio.org/standard/xsl/apm001/podcast.xsl"?>
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Wits</title>
+                <link>http://www.witsradio.org</link>
+                <description>Wits is a live public radio show and podcast in which host John Moe brings world-class comedians, actors and musicians to the stage of the Fitzgerald Theater. Wits mixes improv, sketch comedy, conversation, music and genuine beauty. Twitter: @wits.</description>
+                <language>en-us</language>
+                <copyright>Copyright 2014 American Public Media</copyright>
+                <lastBuildDate>Fri, 15 Aug 2014 14:59:00 EST</lastBuildDate>
+                <pubDate>Fri, 15 Aug 2014 14:59:00 EST</pubDate>
+                <itunes:summary>Wits is a live public radio show and podcast in which host John Moe brings world-class comedians, actors and musicians to the stage of the Fitzgerald Theater. Wits mixes improv, sketch comedy, conversation, music and genuine beauty. Twitter: @wits.</itunes:summary>
+                <itunes:author>American Public Media</itunes:author>
+                <itunes:keywords>wits, john moe</itunes:keywords>
+                <itunes:owner>
+                    <itunes:name>American Public Media</itunes:name>
+                    <itunes:email>podcasts@americanpublicmedia.org</itunes:email>
+                </itunes:owner>
+                <itunes:category text="Comedy"/>
+                <itunes:category text="Music"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:image href="http://americanpublicmedia.publicradio.org/podcasts/xml/wits/images/wits1400.jpg"/>
+                <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://americanpublicmedia.publicradio.org/podcasts/xml/wits/podcast.xml" type="application/rss+xml"/>
+                <item>
+                    <title>57: Kumail Nanjiani with Valerie June (Part Two)</title>
+                    <itunes:subtitle>Comedian Kumail Nanjiani talks about his first time in America, his HBO show Silicon Valley, and his love for video games. And we hear music from singer/songwriter Valerie June, who tells us how sometimes songs come to her in different voices.</itunes:subtitle>
+                    <description>Comedian Kumail Nanjiani talks about his first time in America, his HBO show Silicon Valley, and his love for video games. And we hear music from singer/songwriter Valerie June, who tells us how sometimes songs come to her in different voices.</description>
+                    <itunes:summary>Comedian Kumail Nanjiani talks about his first time in America, his HBO show Silicon Valley, and his love for video games. And we hear music from singer/songwriter Valerie June, who tells us how sometimes songs come to her in different voices.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/08/15/wits_20140815_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/nanjiani-june-two/</link>
+                    <pubDate>Fri, 15 Aug 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/08/15/wits_20140815_128.mp3</guid>
+                    <itunes:duration>53:52</itunes:duration>
+                </item>
+                <item>
+                    <title>42: Patton Oswalt, Paul F. Tompkins, Keegan-Michael Key and Ellie Kemper with Aimee Mann and Ted Leo (Part One)</title>
+                    <itunes:subtitle>From Largo at the Coronet in Los Angeles, Keegan-Michael Key performs a one-star Amazon review of Dixon Ticonderoga #2 pencils, Ellie Kemper learns Spanish from a Tom Waits cassette, and more.</itunes:subtitle>
+                    <description>From Largo at the Coronet in Los Angeles, Keegan-Michael Key performs a one-star Amazon review of Dixon Ticonderoga #2 pencils, Ellie Kemper learns Spanish from a Tom Waits cassette, and more.</description>
+                    <itunes:summary>From Largo at the Coronet in Los Angeles, Keegan-Michael Key performs a one-star Amazon review of Dixon Ticonderoga #2 pencils, Ellie Kemper learns Spanish from a Tom Waits cassette, and more.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/08/08/wits_20140808_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/largo-one/</link>
+                    <pubDate>Fri, 8 Aug 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/08/08/wits_20140808_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>46: Steven Yeun with Motion City Soundtrack</title>
+                    <itunes:subtitle>Actor Steven Yeun talks about how his character Glenn from The Walking Dead keeps his spirits up amid a zombie apocalypse. Plus, rock band Motion City Soundtrack debuts a song written specifically for Glenn and tells us where Motion City is actually located.</itunes:subtitle>
+                    <description>Actor Steven Yeun talks about how his character Glenn from The Walking Dead keeps his spirits up amid a zombie apocalypse. Plus, rock band Motion City Soundtrack debuts a song written specifically for Glenn and tells us where Motion City is actually located.</description>
+                    <itunes:summary>Actor Steven Yeun talks about how his character Glenn from The Walking Dead keeps his spirits up amid a zombie apocalypse. Plus, rock band Motion City Soundtrack debuts a song written specifically for Glenn and tells us where Motion City is actually located.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/08/01/wits_20140801_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/yeun-motion-city-soundtrack/</link>
+                    <pubDate>Fri, 1 Aug 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/08/01/wits_20140801_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>56: Peter Sagal and Paul F. Tompkins with Open Mike Eagle (Part Two)</title>
+                    <itunes:subtitle>Wait Wait ... Don't Tell Me! host Peter Sagal sings, comedian Paul F. Tompkins reads one-star Amazon reviews (and also sings), and art-rapper Open Mike Eagle offers chilling insight on the Happy Birthday song. He sings as well.</itunes:subtitle>
+                    <description>Wait Wait ... Don't Tell Me! host Peter Sagal sings, comedian Paul F. Tompkins reads one-star Amazon reviews (and also sings), and art-rapper Open Mike Eagle offers chilling insight on the Happy Birthday song. He sings as well.</description>
+                    <itunes:summary>Wait Wait ... Don't Tell Me! host Peter Sagal sings, comedian Paul F. Tompkins reads one-star Amazon reviews (and also sings), and art-rapper Open Mike Eagle offers chilling insight on the Happy Birthday song. He sings as well.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/07/25/wits_20140725_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/sagal-tompkins-eagle-two/</link>
+                    <pubDate>Fri, 25 Jul 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/07/25/wits_20140725_128.mp3</guid>
+                    <itunes:duration>53:52</itunes:duration>
+                </item>
+                <item>
+                    <title>45: Marc Maron with Jason Isbell and Amanda Shires</title>
+                    <itunes:subtitle>On this week's show, podcast icon Marc Maron tells us about a very memorable encounter with Iggy Pop, singer/songwriters Jason Isbell and Amanda Shires make beautiful music together, and we come face to face with Murder Cat! Plus, in our Pop Song Correspondence, we stop the world to melt with Superman.</itunes:subtitle>
+                    <description>On this week's show, podcast icon Marc Maron tells us about a very memorable encounter with Iggy Pop, singer/songwriters Jason Isbell and Amanda Shires make beautiful music together, and we come face to face with Murder Cat! Plus, in our Pop Song Correspondence, we stop the world to melt with Superman.</description>
+                    <itunes:summary>On this week's show, podcast icon Marc Maron tells us about a very memorable encounter with Iggy Pop, singer/songwriters Jason Isbell and Amanda Shires make beautiful music together, and we come face to face with Murder Cat! Plus, in our Pop Song Correspondence, we stop the world to melt with Superman.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/07/18/wits_20140718_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/maron-isbell-shires/</link>
+                    <pubDate>Fri, 18 Jul 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/07/18/wits_20140718_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>44: Andy Richter with Neko Case</title>
+                    <itunes:subtitle>On this week's show, Tom Waits, Abraham Lincoln and Morrissey tell us about their snack foods for kids, Neko Case sings from her latest album and tells us about her love for heavy metal, and TV's Andy Richter is a prom king forever.</itunes:subtitle>
+                    <description>On this week's show, Tom Waits, Abraham Lincoln and Morrissey tell us about their snack foods for kids, Neko Case sings from her latest album and tells us about her love for heavy metal, and TV's Andy Richter is a prom king forever.</description>
+                    <itunes:summary>On this week's show, Tom Waits, Abraham Lincoln and Morrissey tell us about their snack foods for kids, Neko Case sings from her latest album and tells us about her love for heavy metal, and TV's Andy Richter is a prom king forever.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/07/11/wits_20140711_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/richter-case/</link>
+                    <pubDate>Fri, 11 Jul 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/07/11/wits_20140711_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>41: Maria Bamford with Thao Nguyen</title>
+                    <itunes:subtitle>On this week's show, comedian Maria Bamford is a pro wrestler who becomes a substitute English teacher. Plus, singer/songwriter Thao Nguyen rocks songs from her latest album.</itunes:subtitle>
+                    <description>On this week's show, comedian Maria Bamford is a pro wrestler who becomes a substitute English teacher. Plus, singer/songwriter Thao Nguyen rocks songs from her latest album.</description>
+                    <itunes:summary>On this week's show, comedian Maria Bamford is a pro wrestler who becomes a substitute English teacher. Plus, singer/songwriter Thao Nguyen rocks songs from her latest album.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/07/04/wits_20140704_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/bamford-nguyen/</link>
+                    <pubDate>Fri, 4 Jul 2014 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/07/04/wits_20140704_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>55: Kumail Nanjiani with Valerie June (Part One)</title>
+                    <itunes:subtitle>Comedian and actor Kumail Nanjiani tells us what happens when you Google a smell, singer/songwriter Valerie June explains how she's able to smile when she sings the blues, and the premiere installment of Wikihow Theater.</itunes:subtitle>
+                    <description>Comedian and actor Kumail Nanjiani tells us what happens when you Google a smell, singer/songwriter Valerie June explains how she's able to smile when she sings the blues, and the premiere installment of Wikihow Theater.</description>
+                    <itunes:summary>Comedian and actor Kumail Nanjiani tells us what happens when you Google a smell, singer/songwriter Valerie June explains how she's able to smile when she sings the blues, and the premiere installment of Wikihow Theater.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/06/27/wits_20140627_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/nanjiani-june/</link>
+                    <pubDate>Fri, 27 Jun 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/06/27/wits_20140627_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>54: Jen Kirkman with Bob Mould</title>
+                    <itunes:subtitle>Comedian Jen Kirkman tells us what it's like to make an episode of Drunk History, punk rock godfather Bob Mould performs tracks from his latest album, and we hear why dead author Franz Kafka is so upset with Pharrell Williams.</itunes:subtitle>
+                    <description>Comedian Jen Kirkman tells us what it's like to make an episode of Drunk History, punk rock godfather Bob Mould performs tracks from his latest album, and we hear why dead author Franz Kafka is so upset with Pharrell Williams.</description>
+                    <itunes:summary>Comedian Jen Kirkman tells us what it's like to make an episode of Drunk History, punk rock godfather Bob Mould performs tracks from his latest album, and we hear why dead author Franz Kafka is so upset with Pharrell Williams.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/06/20/wits_20140620_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/kirkman-mould/</link>
+                    <pubDate>Fri, 20 Jun 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/06/20/wits_20140620_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>40: Jason Ritter with Dessa</title>
+                    <itunes:subtitle>Actor Jason Ritter explains his fascination with puns and gives handsome people advice on how to be handsomer. Singer/rapper/writer Dessa confesses her love for the elderly and warns against serpents with bad circulation.</itunes:subtitle>
+                    <description>Actor Jason Ritter explains his fascination with puns and gives handsome people advice on how to be handsomer. Singer/rapper/writer Dessa confesses her love for the elderly and warns against serpents with bad circulation.</description>
+                    <itunes:summary>Actor Jason Ritter explains his fascination with puns and gives handsome people advice on how to be handsomer. Singer/rapper/writer Dessa confesses her love for the elderly and warns against serpents with bad circulation.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/06/13/wits_20140613_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/ritter-dessa/</link>
+                    <pubDate>Fri, 13 Jun 2014 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/06/13/wits_20140613_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>53: Peter Sagal and Paul F. Tompkins with Open Mike Eagle (Part One)</title>
+                    <itunes:subtitle>On this week's episode, Wait Wait ... Don't Tell Me! host Peter Sagal plays a Wits game show, comedian Paul F. Tompkins performs Amazon.com one-star reviews of great literature, and Open Mike Eagle performs from his album Dark Comedy.</itunes:subtitle>
+                    <description>On this week's episode, Wait Wait ... Don't Tell Me! host Peter Sagal plays a Wits game show, comedian Paul F. Tompkins performs Amazon.com one-star reviews of great literature, and Open Mike Eagle performs from his album Dark Comedy.</description>
+                    <itunes:summary>On this week's episode, Wait Wait ... Don't Tell Me! host Peter Sagal plays a Wits game show, comedian Paul F. Tompkins performs Amazon.com one-star reviews of great literature, and Open Mike Eagle performs from his album Dark Comedy.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/06/06/wits_20140606_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/sagal-tompkins-eagle/</link>
+                    <pubDate>Fri, 6 Jun 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/06/06/wits_20140606_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>39: David Cross with Har Mar Superstar</title>
+                    <itunes:subtitle>Comedian, actor, director David Cross talks about Arrested Development's Tobias Funke and Alvin and the Chipmunks, Har Mar Superstar lays down his sweet soul sounds, and the two compete in the Wits Game Show: The R&amp;B singer vs. the Slam Poet.</itunes:subtitle>
+                    <description>Comedian, actor, director David Cross talks about Arrested Development's Tobias Funke and Alvin and the Chipmunks, Har Mar Superstar lays down his sweet soul sounds, and the two compete in the Wits Game Show: The R&amp;B singer vs. the Slam Poet.</description>
+                    <itunes:summary>Comedian, actor, director David Cross talks about Arrested Development's Tobias Funke and Alvin and the Chipmunks, Har Mar Superstar lays down his sweet soul sounds, and the two compete in the Wits Game Show: The R&amp;B singer vs. the Slam Poet.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/05/30/wits_20140530_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/cross-har-mar-superstar/</link>
+                    <pubDate>Fri, 30 May 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/05/30/wits_20140530_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>38: Tim Heidecker with Aimee Mann and Ted Leo</title>
+                    <itunes:subtitle>Comedian Tim Heidecker becomes an unconventional aerobics instructor, the Wits Game Show goes delightfully off the rails, and we hear new songs from Aimee Mann and Ted Leo's super-duo, The Both.</itunes:subtitle>
+                    <description>Comedian Tim Heidecker becomes an unconventional aerobics instructor, the Wits Game Show goes delightfully off the rails, and we hear new songs from Aimee Mann and Ted Leo's super-duo, The Both.</description>
+                    <itunes:summary>Comedian Tim Heidecker becomes an unconventional aerobics instructor, the Wits Game Show goes delightfully off the rails, and we hear new songs from Aimee Mann and Ted Leo's super-duo, The Both.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/05/23/wits_20140523_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/heidecker-mann-leo/</link>
+                    <pubDate>Fri, 23 May 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/05/23/wits_20140523_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>37: Paul F. Tompkins with Rhett Miller</title>
+                    <itunes:subtitle>Comedian Paul F. Tompkins tries to overcome a lifetime of servile conditioning as Mark, a newly liberated denizen of Oz. Hip-swiveling Rhett Miller of the Old 97's educates us all about random dandelion surgery.</itunes:subtitle>
+                    <description>Comedian Paul F. Tompkins tries to overcome a lifetime of servile conditioning as Mark, a newly liberated denizen of Oz. Hip-swiveling Rhett Miller of the Old 97's educates us all about random dandelion surgery.</description>
+                    <itunes:summary>Comedian Paul F. Tompkins tries to overcome a lifetime of servile conditioning as Mark, a newly liberated denizen of Oz. Hip-swiveling Rhett Miller of the Old 97's educates us all about random dandelion surgery.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/05/16/wits_20140516_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/tompkins-miller/</link>
+                    <pubDate>Fri, 16 May 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/05/16/wits_20140516_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>36: Jim Gaffigan with Busdriver</title>
+                    <itunes:subtitle>Comedian Jim Gaffigan plays the moon from Goodnight Moon. Rap artist Busdriver tells of the first time he met LL Cool J. And we hear a Pop Song Correspondence from Simon and Garfunkel's put-upon friends Alan and Doug.</itunes:subtitle>
+                    <description>Comedian Jim Gaffigan plays the moon from Goodnight Moon. Rap artist Busdriver tells of the first time he met LL Cool J. And we hear a Pop Song Correspondence from Simon and Garfunkel's put-upon friends Alan and Doug.</description>
+                    <itunes:summary>Comedian Jim Gaffigan plays the moon from Goodnight Moon. Rap artist Busdriver tells of the first time he met LL Cool J. And we hear a Pop Song Correspondence from Simon and Garfunkel's put-upon friends Alan and Doug.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/05/09/wits_20140509_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/gaffigan-busdriver/</link>
+                    <pubDate>Fri, 9 May 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/05/09/wits_20140509_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>52: John Hodgman with Jean Grae</title>
+                    <itunes:subtitle>On this week's show, comedian, actor, and author John Hodgman talks about growing up as an only child and embodying every subgenre of nerd at the same time. Also, rapper, writer, and director Jean Grae tells us what it's like to punch a superhero, and Britney Spears is finally sued for medical malpractice.</itunes:subtitle>
+                    <description>On this week's show, comedian, actor, and author John Hodgman talks about growing up as an only child and embodying every subgenre of nerd at the same time. Also, rapper, writer, and director Jean Grae tells us what it's like to punch a superhero, and Britney Spears is finally sued for medical malpractice.</description>
+                    <itunes:summary>On this week's show, comedian, actor, and author John Hodgman talks about growing up as an only child and embodying every subgenre of nerd at the same time. Also, rapper, writer, and director Jean Grae tells us what it's like to punch a superhero, and Britney Spears is finally sued for medical malpractice.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/05/02/wits_20140502_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/hodgman-grae/</link>
+                    <pubDate>Fri, 2 May 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/05/02/wits_20140502_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>51: Bobcat Goldthwait with Matt Nathanson</title>
+                    <itunes:subtitle>On this week's episode, comedian and movie director Bobcat Goldthwait talks Bigfoot, singer/songwriter Matt Nathanson explains his love for KISS, and the feud between Neil Young and Lynyrd Skynyrd takes an unexpected turn in Pop Song Correspondences.</itunes:subtitle>
+                    <description>On this week's episode, comedian and movie director Bobcat Goldthwait talks Bigfoot, singer/songwriter Matt Nathanson explains his love for KISS, and the feud between Neil Young and Lynyrd Skynyrd takes an unexpected turn in Pop Song Correspondences.</description>
+                    <itunes:summary>On this week's episode, comedian and movie director Bobcat Goldthwait talks Bigfoot, singer/songwriter Matt Nathanson explains his love for KISS, and the feud between Neil Young and Lynyrd Skynyrd takes an unexpected turn in Pop Song Correspondences.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/04/25/wits_20140425_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/goldthwait-nathanson/</link>
+                    <pubDate>Fri, 25 Apr 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/04/25/wits_20140425_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>50: Margaret Cho and Paul F. Tompkins with Superchunk and Will Sheff (of Okkervil River)</title>
+                    <itunes:subtitle>Hear comedian and actor Paul F. Tompkins read one-star reviews from Amazon.com and comedian and actor Margaret Cho talk about how her experience All American Girl has shaped her career. Also, punk rockers Superchunk and Will Sheff of Okkervil River.</itunes:subtitle>
+                    <description>Hear comedian and actor Paul F. Tompkins read one-star reviews from Amazon.com and comedian and actor Margaret Cho talk about how her experience All American Girl has shaped her career. Also, punk rockers Superchunk and Will Sheff of Okkervil River.</description>
+                    <itunes:summary>Hear comedian and actor Paul F. Tompkins read one-star reviews from Amazon.com and comedian and actor Margaret Cho talk about how her experience All American Girl has shaped her career. Also, punk rockers Superchunk and Will Sheff of Okkervil River.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/04/18/wits_20140418_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/cho-tompkins-superchunk-sheff/</link>
+                    <pubDate>Fri, 18 Apr 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/04/18/wits_20140418_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>49: Kristen Schaal with Typhoon</title>
+                    <itunes:subtitle>On this week's show, comedian and actor Kristen Schaal is a mom with a powerful fanny pack, and we finally find out the name of America's horse in the desert. Plus, music from the Portland-based band Typhoon.</itunes:subtitle>
+                    <description>On this week's show, comedian and actor Kristen Schaal is a mom with a powerful fanny pack, and we finally find out the name of America's horse in the desert. Plus, music from the Portland-based band Typhoon.</description>
+                    <itunes:summary>On this week's show, comedian and actor Kristen Schaal is a mom with a powerful fanny pack, and we finally find out the name of America's horse in the desert. Plus, music from the Portland-based band Typhoon.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/04/11/wits_20140411_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/schaal-typhoon/</link>
+                    <pubDate>Fri, 11 Apr 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/04/11/wits_20140411_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>33: Aisha Tyler with Loudon Wainwright III</title>
+                    <itunes:subtitle>This week's show features comedian, actor, author, TV host and podcaster Aisha Tyler and Grammy Award-winner Loudon Wainwright III. Plus, an alien slumber party, Tom Waits meditation tapes and a Pop Song Correspondence from Radiohead's therapist.</itunes:subtitle>
+                    <description>This week's show features comedian, actor, author, TV host and podcaster Aisha Tyler and Grammy Award-winner Loudon Wainwright III. Plus, an alien slumber party, Tom Waits meditation tapes and a Pop Song Correspondence from Radiohead's therapist.</description>
+                    <itunes:summary>This week's show features comedian, actor, author, TV host and podcaster Aisha Tyler and Grammy Award-winner Loudon Wainwright III. Plus, an alien slumber party, Tom Waits meditation tapes and a Pop Song Correspondence from Radiohead's therapist.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/04/04/wits_20140404_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/tyler-wainwright/</link>
+                    <pubDate>Fri, 4 Apr 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/04/04/wits_20140404_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>48: Paul F. Tompkins, Eugene Mirman and Paget Brewster with Nellie McKay and Loudon Wainwright III</title>
+                    <itunes:subtitle>This week's episode comes to you from San Francisco's Sketchfest comedy festival. Hear comedian Paul F. Tompkins as Ice-T in an episode of Cop Squadron: Spoiler Alert Unit and actor Paget Brewster on Eleanor Roosevelt's exercise cassettes.</itunes:subtitle>
+                    <description>This week's episode comes to you from San Francisco's Sketchfest comedy festival. Hear comedian Paul F. Tompkins as Ice-T in an episode of Cop Squadron: Spoiler Alert Unit and actor Paget Brewster on Eleanor Roosevelt's exercise cassettes.</description>
+                    <itunes:summary>This week's episode comes to you from San Francisco's Sketchfest comedy festival. Hear comedian Paul F. Tompkins as Ice-T in an episode of Cop Squadron: Spoiler Alert Unit and actor Paget Brewster on Eleanor Roosevelt's exercise cassettes.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/03/28/wits_20140328_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/sketchfest-2014/</link>
+                    <pubDate>Fri, 28 Mar 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/03/28/wits_20140328_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>35: Margaret Cho with Josh Ritter</title>
+                    <itunes:subtitle>John Moe and comedian Margaret Cho play characters in an unconventional wedding ceremony, we learn some unusual things about penguins, and Josh Ritter performs and tells us why Macbeth is a good read for people going through divorce.</itunes:subtitle>
+                    <description>John Moe and comedian Margaret Cho play characters in an unconventional wedding ceremony, we learn some unusual things about penguins, and Josh Ritter performs and tells us why Macbeth is a good read for people going through divorce.</description>
+                    <itunes:summary>John Moe and comedian Margaret Cho play characters in an unconventional wedding ceremony, we learn some unusual things about penguins, and Josh Ritter performs and tells us why Macbeth is a good read for people going through divorce.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/03/21/wits_20140321_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/cho-ritter/</link>
+                    <pubDate>Fri, 21 Mar 2014 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/03/21/wits_20140321_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>47: Patton Oswalt, Paul F. Tompkins, Keegan-Michael Key and Ellie Kemper with Aimee Mann and Ted Leo (Part Two)</title>
+                    <itunes:subtitle>We hear what superheroes do when there's down time at the Hall of Justice, get a peek at how Big Foot influenced Fleetwood Mac's Rumors, and find out why someone gave Monty Python and the Holy Grail a one-star review on Amazon.com.</itunes:subtitle>
+                    <description>We hear what superheroes do when there's down time at the Hall of Justice, get a peek at how Big Foot influenced Fleetwood Mac's Rumors, and find out why someone gave Monty Python and the Holy Grail a one-star review on Amazon.com.</description>
+                    <itunes:summary>We hear what superheroes do when there's down time at the Hall of Justice, get a peek at how Big Foot influenced Fleetwood Mac's Rumors, and find out why someone gave Monty Python and the Holy Grail a one-star review on Amazon.com.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/03/14/wits_20140314_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/largo-three/</link>
+                    <pubDate>Fri, 14 Mar 2014 14:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/03/14/wits_20140314_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>43: Zach Galifianakis, Ed Helms and Anna Kendrick with Sara Watkins and Dan Wilson</title>
+                    <itunes:subtitle>Zach Galifianakis reveals his secret ambitions, Ed Helms plays an original song, Anna Kendrick co-owns of a very different kind of casino, and Sara Watkins and Dan Wilson knock out the crowd with beautiful harmonies.</itunes:subtitle>
+                    <description>Zach Galifianakis reveals his secret ambitions, Ed Helms plays an original song, Anna Kendrick co-owns of a very different kind of casino, and Sara Watkins and Dan Wilson knock out the crowd with beautiful harmonies.</description>
+                    <itunes:summary>Zach Galifianakis reveals his secret ambitions, Ed Helms plays an original song, Anna Kendrick co-owns of a very different kind of casino, and Sara Watkins and Dan Wilson knock out the crowd with beautiful harmonies.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/02/14/wits_20140214_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/largo-two/</link>
+                    <pubDate>Fri, 14 Feb 2014 13:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/02/14/wits_20140214_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>32: Paul F. Tompkins with Yo La Tengo</title>
+                    <itunes:subtitle>On this week's episode of Wits, comedian Paul F. Tompkins performs one-star reviews of classic literature from Amazon.com and competes against rock band Yo La Tengo in the Wits Game Show. Plus, a cruise ship where anything goes. Anything.</itunes:subtitle>
+                    <description>On this week's episode of Wits, comedian Paul F. Tompkins performs one-star reviews of classic literature from Amazon.com and competes against rock band Yo La Tengo in the Wits Game Show. Plus, a cruise ship where anything goes. Anything.</description>
+                    <itunes:summary>On this week's episode of Wits, comedian Paul F. Tompkins performs one-star reviews of classic literature from Amazon.com and competes against rock band Yo La Tengo in the Wits Game Show. Plus, a cruise ship where anything goes. Anything.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/01/31/wits_20140131_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/tompkins-yo-la-tengo/</link>
+                    <pubDate>Fri, 31 Jan 2014 23:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/01/31/wits_20140131_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>31: Chris Kluwe and Dave Hill with Sara Watkins</title>
+                    <itunes:subtitle>NFL punter/author Chris Kluwe and comedian/author Dave Hill join the Cop Squadron, and Sara Watkins sings songs from her latest album, Sun Midnight Sun. Plus, we hear a Pop Song Correspondence from the Rocknrollsburg civil engineering department.</itunes:subtitle>
+                    <description>NFL punter/author Chris Kluwe and comedian/author Dave Hill join the Cop Squadron, and Sara Watkins sings songs from her latest album, Sun Midnight Sun. Plus, we hear a Pop Song Correspondence from the Rocknrollsburg civil engineering department.</description>
+                    <itunes:summary>NFL punter/author Chris Kluwe and comedian/author Dave Hill join the Cop Squadron, and Sara Watkins sings songs from her latest album, Sun Midnight Sun. Plus, we hear a Pop Song Correspondence from the Rocknrollsburg civil engineering department.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/01/24/wits_20140124_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/kluwe-hill-watkins/</link>
+                    <pubDate>Fri, 24 Jan 2014 15:00:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/01/24/wits_20140124_128.mp3</guid>
+                    <itunes:duration>54:08</itunes:duration>
+                </item>
+                <item>
+                    <title>29: David Koechner with Metric</title>
+                    <itunes:subtitle>Actor and comedian David Koechner becomes Dutch, who, with his brother Small Eric, try to help the town they live in with their repair businesses. Emily Haines and Jimmy Shaw of Metric perform a stunning stripped-down set of songs.</itunes:subtitle>
+                    <description>Actor and comedian David Koechner becomes Dutch, who, with his brother Small Eric, try to help the town they live in with their repair businesses. Emily Haines and Jimmy Shaw of Metric perform a stunning stripped-down set of songs.</description>
+                    <itunes:summary>Actor and comedian David Koechner becomes Dutch, who, with his brother Small Eric, try to help the town they live in with their repair businesses. Emily Haines and Jimmy Shaw of Metric perform a stunning stripped-down set of songs.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2014/01/03/wits_20140103_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-nine/</link>
+                    <pubDate>Fri, 3 Jan 2014 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2014/01/03/wits_20140103_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>28: Hannibal Buress with Open Mike Eagle</title>
+                    <itunes:subtitle>Stand-up comedian and 30 Rock/SNL veteran Hannibal Buress tells about the childhood of Alex Trebek. Hip hop artist Open Mike Eagle has a question for the Party People, and we find out what you really get at a deli when you place a certain lunch order.</itunes:subtitle>
+                    <description>Stand-up comedian and 30 Rock/SNL veteran Hannibal Buress tells about the childhood of Alex Trebek. Hip hop artist Open Mike Eagle has a question for the Party People, and we find out what you really get at a deli when you place a certain lunch order.</description>
+                    <itunes:summary>Stand-up comedian and 30 Rock/SNL veteran Hannibal Buress tells about the childhood of Alex Trebek. Hip hop artist Open Mike Eagle has a question for the Party People, and we find out what you really get at a deli when you place a certain lunch order.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/12/27/wits_20131227_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-eight/</link>
+                    <pubDate>Fri, 27 Dec 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/12/27/wits_20131227_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>34: Scott Aukerman and Eugene Mirman with Kathleen Edwards</title>
+                    <itunes:subtitle>On this week's Wits, Comedy Bang! Bang!'s Scott Aukerman is Glenn Frey of The Eagles, comedian Eugene Mirman is an astronaut looking for space babes, and singer/songwriter Kathleen Edwards plays music that rocks your soul and breaks your heart.</itunes:subtitle>
+                    <description>On this week's Wits, Comedy Bang! Bang!'s Scott Aukerman is Glenn Frey of The Eagles, comedian Eugene Mirman is an astronaut looking for space babes, and singer/songwriter Kathleen Edwards plays music that rocks your soul and breaks your heart.</description>
+                    <itunes:summary>On this week's Wits, Comedy Bang! Bang!'s Scott Aukerman is Glenn Frey of The Eagles, comedian Eugene Mirman is an astronaut looking for space babes, and singer/songwriter Kathleen Edwards plays music that rocks your soul and breaks your heart.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/11/15/wits_20131115_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/aukerman-mirman-edwards/</link>
+                    <pubDate>Fri, 15 Nov 2013 11:59:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/11/15/wits_20131115_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>Bonus Sketch: Paul F. Tompkins and Yo La Tengo</title>
+                    <itunes:subtitle>Comedian Paul F. Tompkins and musical guest Yo La Tengo join host John Moe.</itunes:subtitle>
+                    <description>Comedian Paul F. Tompkins and musical guest Yo La Tengo join host John Moe.</description>
+                    <itunes:summary>Comedian Paul F. Tompkins and musical guest Yo La Tengo join host John Moe.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/11/01/pftylt_20131101_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/tompkins-yo-la-tengo/</link>
+                    <pubDate>Fri, 1 Nov 2013 15:00:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/11/01/pftylt_20131101_128.mp3</guid>
+                    <itunes:duration>9:24</itunes:duration>
+                </item>
+                <item>
+                    <title>30: Audience Choice Show</title>
+                    <itunes:subtitle>You told us your favorite sketches, songs and segments from the archives of Wits, and we whomped up this episode, featuring a Carlile-Bamford game show, a scene from the off-kilter world of Don Draper, and songs from Jason Isbell and Aimee Mann.</itunes:subtitle>
+                    <description>You told us your favorite sketches, songs and segments from the archives of Wits, and we whomped up this episode, featuring a Carlile-Bamford game show, a scene from the off-kilter world of Don Draper, and songs from Jason Isbell and Aimee Mann.</description>
+                    <itunes:summary>You told us your favorite sketches, songs and segments from the archives of Wits, and we whomped up this episode, featuring a Carlile-Bamford game show, a scene from the off-kilter world of Don Draper, and songs from Jason Isbell and Aimee Mann.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/10/18/wits_20131018_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/audience-choice-show/</link>
+                    <pubDate>Fri, 18 Oct 2013 15:00:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/10/18/wits_20131018_128.mp3</guid>
+                    <itunes:duration>54:07</itunes:duration>
+                </item>
+                <item>
+                    <title>5: Dave Foley with Mike Doughty</title>
+                    <itunes:subtitle>Comedian Dave Foley is much beloved for his work on the sketch comedy favorite The Kids in the Hall and his starring role in the long-running NBC comedy series NewsRadio. Mike Doughty: Singer. Songwriter. Guitar player. Poet. Author. </itunes:subtitle>
+                    <description>Comedian Dave Foley is much beloved for his work on the sketch comedy favorite The Kids in the Hall and his starring role in the long-running NBC comedy series NewsRadio. Mike Doughty: Singer. Songwriter. Guitar player. Poet. Author. </description>
+                    <itunes:summary>Comedian Dave Foley is much beloved for his work on the sketch comedy favorite The Kids in the Hall and his starring role in the long-running NBC comedy series NewsRadio. Mike Doughty: Singer. Songwriter. Guitar player. Poet. Author. </itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/10/11/wits_20131011_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/five/</link>
+                    <pubDate>Fri, 11 Oct 2013 15:00:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/10/11/wits_20131011_128.mp3</guid>
+                    <itunes:duration>53:57</itunes:duration>
+                </item>
+                <item>
+                    <title>27: Colin Hanks with Jason Isbell</title>
+                    <itunes:subtitle>Actor Colin Hanks becomes Doug Bagelson, a man offering his services as a professional friend. Also, Jason Isbell plays songs from his latest album, Southeastern, and performs one of the most stunning covers of Pancho and Lefty ever.</itunes:subtitle>
+                    <description>Actor Colin Hanks becomes Doug Bagelson, a man offering his services as a professional friend. Also, Jason Isbell plays songs from his latest album, Southeastern, and performs one of the most stunning covers of Pancho and Lefty ever.</description>
+                    <itunes:summary>Actor Colin Hanks becomes Doug Bagelson, a man offering his services as a professional friend. Also, Jason Isbell plays songs from his latest album, Southeastern, and performs one of the most stunning covers of Pancho and Lefty ever.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/09/20/wits_20130920_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-seven/</link>
+                    <pubDate>Fri, 20 Sep 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/09/20/wits_20130920_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>26: Rob Delaney with Neko Case and Kelly Hogan</title>
+                    <itunes:subtitle>Pop Song Correspondences features a customer befuddled by the process of buying a Little Red Corvette from a used car salesman named Prince. Plus, comedian Rob Delaney as a customer service representative, and Neko Case and Kelly Hogan.</itunes:subtitle>
+                    <description>Pop Song Correspondences features a customer befuddled by the process of buying a Little Red Corvette from a used car salesman named Prince. Plus, comedian Rob Delaney as a customer service representative, and Neko Case and Kelly Hogan.</description>
+                    <itunes:summary>Pop Song Correspondences features a customer befuddled by the process of buying a Little Red Corvette from a used car salesman named Prince. Plus, comedian Rob Delaney as a customer service representative, and Neko Case and Kelly Hogan.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/09/13/wits_20130913_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-six/</link>
+                    <pubDate>Fri, 13 Sep 2013 12:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/09/13/wits_20130913_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>21: W. Kamau Bell with Brendan Benson</title>
+                    <itunes:subtitle>On this week's episode, W. Kamau Bell talks with host John Moe about comedy and race, songwriter Brendan Benson, of The Raconteurs, does his best Prince impression, and Charlie Brown's world gets rocked from a conversation with Franklin.</itunes:subtitle>
+                    <description>On this week's episode, W. Kamau Bell talks with host John Moe about comedy and race, songwriter Brendan Benson, of The Raconteurs, does his best Prince impression, and Charlie Brown's world gets rocked from a conversation with Franklin.</description>
+                    <itunes:summary>On this week's episode, W. Kamau Bell talks with host John Moe about comedy and race, songwriter Brendan Benson, of The Raconteurs, does his best Prince impression, and Charlie Brown's world gets rocked from a conversation with Franklin.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/09/06/wits_20130906_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-one/</link>
+                    <pubDate>Fri, 6 Sep 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/09/06/wits_20130906_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>7: Julia Sweeney with Martha Wainwright</title>
+                    <itunes:subtitle>Martha Wainwright sings, Julia Sweeney tells stories. Listen up, and you will laugh. Hard. You will cry -- unless your heart is a blackened lump of coal, in which case you will at minimum have strong emotional stirrings. Snoopy might die. Or not.</itunes:subtitle>
+                    <description>Martha Wainwright sings, Julia Sweeney tells stories. Listen up, and you will laugh. Hard. You will cry -- unless your heart is a blackened lump of coal, in which case you will at minimum have strong emotional stirrings. Snoopy might die. Or not.</description>
+                    <itunes:summary>Martha Wainwright sings, Julia Sweeney tells stories. Listen up, and you will laugh. Hard. You will cry -- unless your heart is a blackened lump of coal, in which case you will at minimum have strong emotional stirrings. Snoopy might die. Or not.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/08/30/wits_20130830_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/seven/</link>
+                    <pubDate>Fri, 30 Aug 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/08/30/wits_20130830_128.mp3 </guid>
+                    <itunes:duration>54:05</itunes:duration>
+                </item>
+                <item>
+                    <title>14: Paul F. Tompkins with Aimee Mann</title>
+                    <itunes:subtitle>This week: Comedian and actor Paul F. Tompkins (also host of the Pod F. Tompkast) with the Oscar and Grammy-nominated singer-songwriter Aimee Mann, as well as an EMU ATTACK, and a visit from President James K. Polk the time-traveling repairman.</itunes:subtitle>
+                    <description>This week: Comedian and actor Paul F. Tompkins (also host of the Pod F. Tompkast) with the Oscar and Grammy-nominated singer-songwriter Aimee Mann, as well as an EMU ATTACK, and a visit from President James K. Polk the time-traveling repairman.</description>
+                    <itunes:summary>This week: Comedian and actor Paul F. Tompkins (also host of the Pod F. Tompkast) with the Oscar and Grammy-nominated singer-songwriter Aimee Mann, as well as an EMU ATTACK, and a visit from President James K. Polk the time-traveling repairman.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/08/23/wits_20130823_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/fourteen/</link>
+                    <pubDate>Fri, 23 Aug 2013 12:25:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/08/23/wits_20130823_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>17: Bobcat Goldthwait, Steven Page and Dave Pirner</title>
+                    <itunes:subtitle>Bobcat Goldthwait, Esquire Magazine's Director of the Year for his movie God Bless America, makes his pitch to become public radio's morning shock jock, and we hear from an exasperated contractor working on Robert Plant's stairway to heaven.</itunes:subtitle>
+                    <description>Bobcat Goldthwait, Esquire Magazine's Director of the Year for his movie God Bless America, makes his pitch to become public radio's morning shock jock, and we hear from an exasperated contractor working on Robert Plant's stairway to heaven.</description>
+                    <itunes:summary>Bobcat Goldthwait, Esquire Magazine's Director of the Year for his movie God Bless America, makes his pitch to become public radio's morning shock jock, and we hear from an exasperated contractor working on Robert Plant's stairway to heaven.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/08/16/wits_20130816_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/seventeen/</link>
+                    <pubDate>Fri, 16 Aug 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/08/16/wits_20130816_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>15: Fred Willard and Dan Wilson</title>
+                    <itunes:subtitle>This week's show features comedy icon Fred Willard from Best in Show and Anchorman: The Legend of Ron Burgundy with Grammy-award winning songwriter and producer Dan Wilson, and a Commercial Showdown Throwdown game show.</itunes:subtitle>
+                    <description>This week's show features comedy icon Fred Willard from Best in Show and Anchorman: The Legend of Ron Burgundy with Grammy-award winning songwriter and producer Dan Wilson, and a Commercial Showdown Throwdown game show.</description>
+                    <itunes:summary>This week's show features comedy icon Fred Willard from Best in Show and Anchorman: The Legend of Ron Burgundy with Grammy-award winning songwriter and producer Dan Wilson, and a Commercial Showdown Throwdown game show.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/08/09/wits_20130809_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/fifteen/</link>
+                    <pubDate>Fri, 9 Aug 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/08/09/wits_20130809_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>9: Maria Bamford and Brandi Carlile</title>
+                    <itunes:subtitle>Comedian Maria Bamford transforms into a mermaid obsessed with the Showtime series Homeland, host John Moe becomes a guy at the bottom of the well, dying from Carly Rae Jepsen's Call Me Maybe, and Brandi Carlile blows us all away ...</itunes:subtitle>
+                    <description>Comedian Maria Bamford transforms into a mermaid obsessed with the Showtime series Homeland, host John Moe becomes a guy at the bottom of the well, dying from Carly Rae Jepsen's Call Me Maybe, and Brandi Carlile blows us all away ...</description>
+                    <itunes:summary>Comedian Maria Bamford transforms into a mermaid obsessed with the Showtime series Homeland, host John Moe becomes a guy at the bottom of the well, dying from Carly Rae Jepsen's Call Me Maybe, and Brandi Carlile blows us all away ...</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/08/02/wits_20130802_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/nine/</link>
+                    <pubDate>Fri, 2 Aug 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/08/02/wits_20130802_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>25: Patton Oswalt with Ben Lee</title>
+                    <itunes:subtitle>Comedian and actor Patton Oswalt and host John Moe are John Oates and Daryl Hall: Animal Control Officers in our Maneater Pop Song Correspondence. Ben Lee squares off with Patton in our Wits Game Show, and we've got another Charlie Brown story.</itunes:subtitle>
+                    <description>Comedian and actor Patton Oswalt and host John Moe are John Oates and Daryl Hall: Animal Control Officers in our Maneater Pop Song Correspondence. Ben Lee squares off with Patton in our Wits Game Show, and we've got another Charlie Brown story.</description>
+                    <itunes:summary>Comedian and actor Patton Oswalt and host John Moe are John Oates and Daryl Hall: Animal Control Officers in our Maneater Pop Song Correspondence. Ben Lee squares off with Patton in our Wits Game Show, and we've got another Charlie Brown story.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/07/26/wits_20130726_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-five/</link>
+                    <pubDate>Fri, 26 Jul 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/07/26/wits_20130726_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>24: Michael Ian Black with A.C. Newman</title>
+                    <itunes:subtitle>This week, comedian, actor and author Michael Ian Black joins Cop Squadron, indie-pop powerhouse singer/songwriter A.C. Newman writes a very catchy theme song for the canceled show Mr. Nebulous, and we hear where babies really come from. Really.</itunes:subtitle>
+                    <description>This week, comedian, actor and author Michael Ian Black joins Cop Squadron, indie-pop powerhouse singer/songwriter A.C. Newman writes a very catchy theme song for the canceled show Mr. Nebulous, and we hear where babies really come from. Really.</description>
+                    <itunes:summary>This week, comedian, actor and author Michael Ian Black joins Cop Squadron, indie-pop powerhouse singer/songwriter A.C. Newman writes a very catchy theme song for the canceled show Mr. Nebulous, and we hear where babies really come from. Really.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/07/19/wits_20130719_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-four/</link>
+                    <pubDate>Fri, 19 Jul 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/07/19/wits_20130719_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>23: Tig Notaro with Kathleen Edwards</title>
+                    <itunes:subtitle>Comedian Tig Notaro goes up against singer/songwriter Kathleen Edwards in our Wits game show, Bruce Springsteen warns about what happens when you blow up the Chickenman's house, and we get updates from Older Brother Magazine and Tiger Beat for Seniors.</itunes:subtitle>
+                    <description>Comedian Tig Notaro goes up against singer/songwriter Kathleen Edwards in our Wits game show, Bruce Springsteen warns about what happens when you blow up the Chickenman's house, and we get updates from Older Brother Magazine and Tiger Beat for Seniors.</description>
+                    <itunes:summary>Comedian Tig Notaro goes up against singer/songwriter Kathleen Edwards in our Wits game show, Bruce Springsteen warns about what happens when you blow up the Chickenman's house, and we get updates from Older Brother Magazine and Tiger Beat for Seniors.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/07/12/wits_20130712_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-three/</link>
+                    <pubDate>Fri, 12 Jul 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/07/12/wits_20130712_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>22: Kristen Schaal with Rufus Wainwright</title>
+                    <itunes:subtitle>Comedian and actress Kristen Schaal appears as a jaded hamster and a cop who's just had her first ever cup of coffee; singer/songwriter Rufus Wainwright plays a cat and sings a stunning a cappella version of his song Candles.</itunes:subtitle>
+                    <description>Comedian and actress Kristen Schaal appears as a jaded hamster and a cop who's just had her first ever cup of coffee; singer/songwriter Rufus Wainwright plays a cat and sings a stunning a cappella version of his song Candles.</description>
+                    <itunes:summary>Comedian and actress Kristen Schaal appears as a jaded hamster and a cop who's just had her first ever cup of coffee; singer/songwriter Rufus Wainwright plays a cat and sings a stunning a cappella version of his song Candles.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/07/05/schaalwainwright_20130705_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty-two/</link>
+                    <pubDate>Fri, 5 Jul 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/07/05/schaalwainwright_20130705_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>20: Paula Poundstone with Robyn Hitchcock</title>
+                    <itunes:subtitle>Comedian Paula Poundstone competes with Robyn Hitchcock on The Game Show Game Show. Paula explains the rules of fictitious games while Robyn, one of the godfathers of alternative rock, creates the pretend game show's theme songs.</itunes:subtitle>
+                    <description>Comedian Paula Poundstone competes with Robyn Hitchcock on The Game Show Game Show. Paula explains the rules of fictitious games while Robyn, one of the godfathers of alternative rock, creates the pretend game show's theme songs.</description>
+                    <itunes:summary>Comedian Paula Poundstone competes with Robyn Hitchcock on The Game Show Game Show. Paula explains the rules of fictitious games while Robyn, one of the godfathers of alternative rock, creates the pretend game show's theme songs.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/06/28/poundstonehitchcock_20130628_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twenty/</link>
+                    <pubDate>Fri, 28 Jun 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/06/28/poundstonehitchcock_20130628_128.mp3</guid>
+                    <itunes:duration>53:55</itunes:duration>
+                </item>
+                <item>
+                    <title>11: Henry Rollins and Lissie</title>
+                    <itunes:subtitle>In this episode of Wits, punk rock icon Henry Rollins tells us why he wants to be in a constant state of agitation, Lissie bewitches us all with her songs, and the two compete in our Wits game show.</itunes:subtitle>
+                    <description>In this episode of Wits, punk rock icon Henry Rollins tells us why he wants to be in a constant state of agitation, Lissie bewitches us all with her songs, and the two compete in our Wits game show.</description>
+                    <itunes:summary>In this episode of Wits, punk rock icon Henry Rollins tells us why he wants to be in a constant state of agitation, Lissie bewitches us all with her songs, and the two compete in our Wits game show.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/04/12/rollinslissie_20130412_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/eleven/</link>
+                    <pubDate>Fri, 12 Apr 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/04/12/rollinslissie_20130412_128.mp3</guid>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>12: Patton Oswalt, Neil Gaiman and John Hodgman</title>
+                    <itunes:subtitle>We join writers Patton Oswalt, John Hodgman, Neil Gaiman and Julia Sweeney for discussions of grandmothers, Beatles, wine, sex, and Dungeons and Dragons. Plus, music from singer-songwriter-authors Josh Ritter and John Darnielle of The Mountain Goats.</itunes:subtitle>
+                    <description>We join writers Patton Oswalt, John Hodgman, Neil Gaiman and Julia Sweeney for discussions of grandmothers, Beatles, wine, sex, and Dungeons and Dragons. Plus, music from singer-songwriter-authors Josh Ritter and John Darnielle of The Mountain Goats.</description>
+                    <itunes:summary>We join writers Patton Oswalt, John Hodgman, Neil Gaiman and Julia Sweeney for discussions of grandmothers, Beatles, wine, sex, and Dungeons and Dragons. Plus, music from singer-songwriter-authors Josh Ritter and John Darnielle of The Mountain Goats.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/03/15/authors_20130315_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/twelve/</link>
+                    <pubDate>Fri, 15 Mar 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/03/15/authors_20130315_128.mp3</guid>
+                    <itunes:duration>53:55</itunes:duration>
+                </item>
+                <item>
+                    <title>19: Andy Richter and Reggie Watts</title>
+                    <itunes:subtitle>We visit with comedian, actor and longtime comedy partner of Conan O'Brien, Andy Richter, as well as internationally renowned vocalist/beatboxer/comic Reggie Watts. Also, learn why Elton John gets fired by NASA in our Pop Song Correspondence.</itunes:subtitle>
+                    <description>We visit with comedian, actor and longtime comedy partner of Conan O'Brien, Andy Richter, as well as internationally renowned vocalist/beatboxer/comic Reggie Watts. Also, learn why Elton John gets fired by NASA in our Pop Song Correspondence.</description>
+                    <itunes:summary>We visit with comedian, actor and longtime comedy partner of Conan O'Brien, Andy Richter, as well as internationally renowned vocalist/beatboxer/comic Reggie Watts. Also, learn why Elton John gets fired by NASA in our Pop Song Correspondence.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/03/08/richterwatts_20130308_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/nineteen/</link>
+                    <pubDate>Fri, 8 Mar 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/03/08/richterwatts_20130308_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>18: Tim Meadows and Rhett Miller</title>
+                    <itunes:subtitle>Tim Meadows, one of the longest-running cast members in Saturday Night Live history goes up against singer/songwriter and Old 97's front man Rhett Miller in our Wits game show, Funnier and Poignanter. Who will win? It's a nail-biter.</itunes:subtitle>
+                    <description>Tim Meadows, one of the longest-running cast members in Saturday Night Live history goes up against singer/songwriter and Old 97's front man Rhett Miller in our Wits game show, Funnier and Poignanter. Who will win? It's a nail-biter.</description>
+                    <itunes:summary>Tim Meadows, one of the longest-running cast members in Saturday Night Live history goes up against singer/songwriter and Old 97's front man Rhett Miller in our Wits game show, Funnier and Poignanter. Who will win? It's a nail-biter.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/03/01/meadowsmiller_20130301_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/eighteen/</link>
+                    <pubDate>Fri, 1 Mar 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/03/01/meadowsmiller_20130301_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>16: Amy Sedaris and They Might Be Giants</title>
+                    <itunes:subtitle>Author and actor Amy Sedaris joins John Moe and Grammy award-winning They Might Be Giants. We go behind the scenes at the writing of the Declaration of Independence and get a little insight about what would happen if Winnie the Pooh took an office job.</itunes:subtitle>
+                    <description>Author and actor Amy Sedaris joins John Moe and Grammy award-winning They Might Be Giants. We go behind the scenes at the writing of the Declaration of Independence and get a little insight about what would happen if Winnie the Pooh took an office job.</description>
+                    <itunes:summary>Author and actor Amy Sedaris joins John Moe and Grammy award-winning They Might Be Giants. We go behind the scenes at the writing of the Declaration of Independence and get a little insight about what would happen if Winnie the Pooh took an office job.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/02/15/sedarisgiants_20130215_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/sixteen/</link>
+                    <pubDate>Fri, 15 Feb 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/02/15/sedarisgiants_20130215_128.mp3</guid>
+                    <itunes:duration>53:59</itunes:duration>
+                </item>
+                <item>
+                    <title>13: James Adomian and Grant Lee Phillips</title>
+                    <itunes:subtitle>A special studio version of Wits this time around, an intimate setting, a show NOT available to radio listeners. We visit with comedian James Adomian and Grant Lee Phillips, a Wits alumnus, about the new music he's been making.</itunes:subtitle>
+                    <description>A special studio version of Wits this time around, an intimate setting, a show NOT available to radio listeners. We visit with comedian James Adomian and Grant Lee Phillips, a Wits alumnus, about the new music he's been making.</description>
+                    <itunes:summary>A special studio version of Wits this time around, an intimate setting, a show NOT available to radio listeners. We visit with comedian James Adomian and Grant Lee Phillips, a Wits alumnus, about the new music he's been making.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2013/01/11/adomianphillips_20130111_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/thirteen/</link>
+                    <pubDate>Fri, 11 Jan 2013 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2013/01/11/adomianphillips_20130111_128.mp3</guid>
+                    <itunes:duration>25:40</itunes:duration>
+                </item>
+                <item>
+                    <title>10: Rhett Miller, Tim Meadows and Jan the Custodian</title>
+                    <itunes:subtitle>Rhett Miller is a singer-songwriter and front man of the Old 97's. He plays a song that's all about a daydream of romance wherein his heart gets crushed. We listen back to Rhett's appearance in the Wits game show from March of 2012.</itunes:subtitle>
+                    <description>Rhett Miller is a singer-songwriter and front man of the Old 97's. He plays a song that's all about a daydream of romance wherein his heart gets crushed. We listen back to Rhett's appearance in the Wits game show from March of 2012.</description>
+                    <itunes:summary>Rhett Miller is a singer-songwriter and front man of the Old 97's. He plays a song that's all about a daydream of romance wherein his heart gets crushed. We listen back to Rhett's appearance in the Wits game show from March of 2012.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/12/07/millermeadows_20121207_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/ten/</link>
+                    <pubDate>Fri, 7 Dec 2012 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/12/07/millermeadows_20121207_128.mp3</guid>
+                    <itunes:duration>29:46</itunes:duration>
+                </item>
+                <item>
+                    <title>8: Maria Bamford and Hannibal Buress</title>
+                    <itunes:subtitle>It's a comedy interview DOUBLE SHOT! First up, Maria Bamford. We climb inside her head in a revealing interview. Then, Hannibal Buress, who recently starred in the Comedy Central special, Hannibal Buress: Animal Furnace.</itunes:subtitle>
+                    <description>It's a comedy interview DOUBLE SHOT! First up, Maria Bamford. We climb inside her head in a revealing interview. Then, Hannibal Buress, who recently starred in the Comedy Central special, Hannibal Buress: Animal Furnace.</description>
+                    <itunes:summary>It's a comedy interview DOUBLE SHOT! First up, Maria Bamford. We climb inside her head in a revealing interview. Then, Hannibal Buress, who recently starred in the Comedy Central special, Hannibal Buress: Animal Furnace.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/11/21/bamfordburess_20121121_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/eight/</link>
+                    <pubDate>Wed, 21 Nov 2012 15:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/11/21/bamfordburess_20121121_128.mp3</guid>
+                    <itunes:duration>30:04</itunes:duration>
+                </item>
+                <item>
+                    <title>6: Theater Ghost and Julia Sweeney</title>
+                    <itunes:subtitle>We get a visit from the ghost who haunts the Fitzgerald Theater in St Paul. If you listen closely, you can almost hear him attempt to do standup. And a chat with Julia Sweeney about how Wits led her to reassess her literary career.</itunes:subtitle>
+                    <description>We get a visit from the ghost who haunts the Fitzgerald Theater in St Paul. If you listen closely, you can almost hear him attempt to do standup. And a chat with Julia Sweeney about how Wits led her to reassess her literary career.</description>
+                    <itunes:summary>We get a visit from the ghost who haunts the Fitzgerald Theater in St Paul. If you listen closely, you can almost hear him attempt to do standup. And a chat with Julia Sweeney about how Wits led her to reassess her literary career.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/11/09/ghostsweeney_20121109_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/six/</link>
+                    <pubDate>Fri, 9 Nov 2012 11:20:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/11/09/ghostsweeney_20121109_128.mp3</guid>
+                    <itunes:duration>22:10</itunes:duration>
+                </item>
+                <item>
+                    <title>4: John Roderick and War Horse</title>
+                    <itunes:subtitle>John Moe chats with songwriter John Roderick, lead singer and guitarist in The Long Winters, and the co-host of the podcast Roderick on the Line. Roderick performs his song Not Moving to Portland, and an interview with War Horse.</itunes:subtitle>
+                    <description>John Moe chats with songwriter John Roderick, lead singer and guitarist in The Long Winters, and the co-host of the podcast Roderick on the Line. Roderick performs his song Not Moving to Portland, and an interview with War Horse.</description>
+                    <itunes:summary>John Moe chats with songwriter John Roderick, lead singer and guitarist in The Long Winters, and the co-host of the podcast Roderick on the Line. Roderick performs his song Not Moving to Portland, and an interview with War Horse.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/10/24/wits_20121024_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/four/</link>
+                    <pubDate>Wed, 24 Oct 2012 17:50:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/10/24/wits_20121024_128.mp3</guid>
+                    <itunes:duration>22:35</itunes:duration>
+                </item>
+                <item>
+                    <title>3: John Hodgman, Julia Sweeney and Here Are The News</title>
+                    <itunes:subtitle>John Moe visits with John Hodgman, author of several books of fake knowledge, including That Is All. Also: Julia Sweeney tells the story of explaining sex to her daughter. And we get a news update from @HereAreTheNews.</itunes:subtitle>
+                    <description>John Moe visits with John Hodgman, author of several books of fake knowledge, including That Is All. Also: Julia Sweeney tells the story of explaining sex to her daughter. And we get a news update from @HereAreTheNews.</description>
+                    <itunes:summary>John Moe visits with John Hodgman, author of several books of fake knowledge, including That Is All. Also: Julia Sweeney tells the story of explaining sex to her daughter. And we get a news update from @HereAreTheNews.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/10/17/wits_20121017_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/three/</link>
+                    <pubDate>Wed, 17 Oct 2012 17:50:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/10/17/wits_20121017_128.mp3</guid>
+                    <itunes:duration>32:09</itunes:duration>
+                </item>
+                <item>
+                    <title>2: Rosanne Cash, Mike Doughty and a trip to Mummytown</title>
+                    <itunes:subtitle>Host John Moe welcomes a pair of singer/songwriter/memoirists. Rosanne Cash talks about her love of John Denver and Mike Doughty. Doughty returns the love and is enthused over Katy Perry, Justin Bieber and the cavernous cars of the 1970s.</itunes:subtitle>
+                    <description>Host John Moe welcomes a pair of singer/songwriter/memoirists. Rosanne Cash talks about her love of John Denver and Mike Doughty. Doughty returns the love and is enthused over Katy Perry, Justin Bieber and the cavernous cars of the 1970s.</description>
+                    <itunes:summary>Host John Moe welcomes a pair of singer/songwriter/memoirists. Rosanne Cash talks about her love of John Denver and Mike Doughty. Doughty returns the love and is enthused over Katy Perry, Justin Bieber and the cavernous cars of the 1970s.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/10/10/wits_20121010_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/two/</link>
+                    <pubDate>Wed, 10 Oct 2012 17:50:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/10/10/wits_20121010_128.mp3 </guid>
+                    <itunes:duration>28:29</itunes:duration>
+                </item>
+                <item>
+                    <title>1: Paul F. Tompkins</title>
+                    <itunes:subtitle>On this, the inaugural Wits podcast, host John Moe visits with comedian and actor Paul F. Tompkins, who provides valuable insight in how to podcast, the liabilities of having 100 podcast hosts speaking at once, and the invigorating powers of Irish music.</itunes:subtitle>
+                    <description>On this, the inaugural Wits podcast, host John Moe visits with comedian and actor Paul F. Tompkins, who provides valuable insight in how to podcast, the liabilities of having 100 podcast hosts speaking at once, and the invigorating powers of Irish music. John also talks with a certain enormously tall bird who was the surprise star of the first presidential debate, and we explore the career of time-traveling history repairman and U.S. President James K. Polk.</description>
+                    <itunes:summary>On this, the inaugural Wits podcast, host John Moe visits with comedian and actor Paul F. Tompkins, who provides valuable insight in how to podcast, the liabilities of having 100 podcast hosts speaking at once, and the invigorating powers of Irish music. John also talks with a certain enormously tall bird who was the surprise star of the first presidential debate, and we explore the career of time-traveling history repairman and U.S. President James K. Polk.</itunes:summary>
+                    <enclosure url="http://download.publicradio.org/podcast/wits/2012/10/04/wits1_20121004_128.mp3" length="25641625" type="audio/mp3"/>
+                    <link>http://www.witsradio.org/episodes/one/</link>
+                    <pubDate>Thu, 4 Oct 2012 11:30:00 EST</pubDate>
+                    <guid isPermaLink="false">http://download.publicradio.org/podcast/wits/2012/10/04/wits1_20121004_128.mp3</guid>
+                    <itunes:duration>23:07</itunes:duration>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

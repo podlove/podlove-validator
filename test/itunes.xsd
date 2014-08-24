@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <xs:import schemaLocation="podlove.xsd"/>
+    <xs:import namespace="http://podlove.org/simple-chapters" schemaLocation="psc.xsd"/>
+    <xs:import namespace="http://purl.org/rss/1.0/modules/content/" schemaLocation="content.xsd"/>
+    <xs:import namespace="http://rssnamespace.org/feedburner/ext/1.0" schemaLocation="feedburner.xsd"/>
+    <xs:import namespace="http://www.w3.org/2005/Atom" schemaLocation="atom.xsd"/>
+    <xs:element name="block" type="xs:NCName"/>
+    <xs:element name="explicit" type="xs:NCName"/>
+    <xs:element name="image">
+        <xs:complexType>
+            <xs:attribute name="href" use="required" type="xs:anyURI"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="keywords" type="xs:string"/>
+    <xs:element name="owner">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="itunes:name"/>
+                <xs:element ref="itunes:email"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="name" type="xs:string"/>
+    <xs:element name="email" type="xs:string"/>
+    <xs:element name="duration" type="xs:time"/>
+    <xs:element name="author" type="xs:string"/>
+    <xs:element name="summary" type="xs:string"/>
+    <xs:element name="category">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element minOccurs="0" ref="itunes:category"/>
+            </xs:sequence>
+            <xs:attribute name="text" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="subtitle" type="xs:string"/>
+</xs:schema>

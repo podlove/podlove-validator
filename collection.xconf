@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:mods="http://www.loc.gov/mods/v3">
+        <lucene>
+            <!-- text qname="author"/>
+            <text qname="chapter"/>
+            <text qname="category"/-->
+            <text qname="description"/>
+            <!--text qname="encoded"/>
+            <text qname="keywords"/>
+            <text qname="link"/>
+            <text qname="name"/>
+            <text qname="owner"/>
+            <text qname="subtitle"/>
+            <text qname="summary"/>
+            <text qname="title"/>
+            <text qname="uri"/-->
+        </lucene>
+        <range>
+            <create qname="description" type="xs:string"/>
+            <create qname="link" type="xs:string"/>
+            <!-- create qname="title" type="xs:string"/-->
+            <create qname="atom:name" type="xs:string"/>
+            <create qname="atom:uri" type="xs:string"/>
+            <create qname="content:encoded" type="xs:string"/>
+            <create qname="itunes:author" type="xs:string"/>
+            <create qname="itunes:category" type="xs:string"/>
+            <create qname="itunes:duration" type="xs:string"/>
+            <create qname="itunes:email" type="xs:string"/>
+            <create qname="itunes:name" type="xs:string"/>
+            <create qname="itunes:summary" type="xs:string"/>
+            <create qname="itunes:subtitle" type="xs:string"/>
+            <create qname="psc:chapter" type="xs:string"/>
+        </range>
+        
+         <!-- N-gram indexes -->
+        <!-- ngram qname="author"/>
+        <ngram qname="chapter"/>
+        <ngram qname="category"/-->
+    </index>
+</collection>

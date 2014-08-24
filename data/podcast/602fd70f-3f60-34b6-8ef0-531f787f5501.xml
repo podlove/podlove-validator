@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:28:22 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.27 (Unix)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.28"/>
+        <httpclient:header name="X-Pingback" value="http://agiledelivery.de/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;2735e82f4c027b55cd14ee8c5532bb5f&#34;"/>
+        <httpclient:header name="Expires" value="Wed, 11 Jan 1984 05:00:00 GMT"/>
+        <httpclient:header name="Cache-Control" value="no-cache, must-revalidate, max-age=0"/>
+        <httpclient:header name="Pragma" value="no-cache"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+            <channel>
+                <title>Valtech Podcast</title>
+                <link>http://agiledelivery.de</link>
+                <description>Just another WordPress site</description>
+                <lastBuildDate>Fri, 16 May 2014 16:14:26 +0000</lastBuildDate>
+                <atom:link rel="self" type="application/rss+xml" title="Valtech Podcast (Valtech Podcast)" href="http://agiledelivery.de/feed/valtechpodcast/"/>
+                <atom:link rel="first" href="http://agiledelivery.de/feed/valtechpodcast/"/>
+                <language>de</language>
+                <generator>Podlove Podcast Publisher v1.10.7-alpha</generator>
+                <itunes:author>Valtech GmbH</itunes:author>
+                <itunes:summary>Im  Valtech Podcast geht um Menschen, Themen und Werte die uns bei Valtech bewegen.</itunes:summary>
+                <itunes:category text="Business"/>
+                <itunes:category text="Education"/>
+                <itunes:category text="Technology"/>
+                <itunes:owner>
+                    <itunes:name>Christopher Ezell</itunes:name>
+                    <itunes:email>christopher.ezell@valtech.de</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://agiledelivery.de/content/valtech_podcast_logo.png"/>
+                <itunes:subtitle>Alles was uns bewegt in der Welt der Technik.</itunes:subtitle>
+                <itunes:keywords>Agile, Software Craftsmanship, Continuous Delivery, Continuous Deployment, Consulting, </itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>Agile Testing im Projekthaus</title>
+                    <link>http://agiledelivery.de/2014/05/16/agile-testing-im-projekthaus/</link>
+                    <pubDate>Fri, 16 May 2014 16:09:51 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-05-16t16:02:26+00:00-6a27ab16739c783</guid>
+                    <description>Hier nun die erste Folge. Ich habe mich mit Jan Jongen über agiles Testen im Projekthaus unterhalten.</description>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://agiledelivery.de/2014/05/16/agile-testing-im-projekthaus/#"/>
+                    <enclosure url="http://agiledelivery.de/podcasts/Agile_testing_FIle-test.mp3" length="37004227" type="audio/mpeg"/>
+                    <itunes:duration>00:25:41</itunes:duration>
+                    <itunes:author>Valtech GmbH</itunes:author>
+                    <itunes:subtitle>Was ist eigentlich das Projekthaus und was heist es, agil zu Testen im Projekthaus.</itunes:subtitle>
+                    <itunes:summary>Hier nun die erste Folge. Ich habe mich mit Jan Jongen über agiles Testen im Projekthaus unterhalten.</itunes:summary>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

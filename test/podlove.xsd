@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" attributeFormDefault="unqualified">
+    <xs:import namespace="http://podlove.org/simple-chapters" schemaLocation="psc.xsd"/>
+    <xs:import namespace="http://purl.org/rss/1.0/modules/content/" schemaLocation="content.xsd"/>
+    <xs:import namespace="http://rssnamespace.org/feedburner/ext/1.0" schemaLocation="feedburner.xsd"/>
+    <xs:import namespace="http://www.itunes.com/dtds/podcast-1.0.dtd" schemaLocation="itunes.xsd"/>
+    <xs:import namespace="http://www.w3.org/2005/Atom" schemaLocation="atom.xsd"/>
+    <xs:element name="rss">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="channel"/>
+            </xs:sequence>
+            <xs:attribute name="version" use="required" type="xs:decimal"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="channel">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="title"/>
+                <xs:element ref="link"/>
+                <xs:element ref="description"/>
+                <xs:element ref="lastBuildDate"/>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element ref="atom:contributor"/>
+                    <xs:element ref="atom:link"/>
+                    <xs:element ref="itunes:author"/>
+                    <xs:element ref="itunes:category"/>
+                    <xs:element ref="itunes:subtitle"/>
+                    <xs:element ref="itunes:summary"/>
+                    <xs:element ref="generator"/>
+                    <xs:element ref="language"/>
+                    <xs:element ref="feedburner:info"/>
+                    <xs:element ref="itunes:block"/>
+                    <xs:element ref="itunes:explicit"/>
+                    <xs:element ref="itunes:image"/>
+                    <xs:element ref="itunes:keywords"/>
+                    <xs:element ref="itunes:owner"/>
+                </xs:choice>
+                <xs:element maxOccurs="unbounded" ref="item"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="lastBuildDate" type="xs:string"/>
+    <xs:element name="generator" type="xs:string"/>
+    <xs:element name="language" type="xs:NCName"/>
+    <xs:element name="item">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="title"/>
+                <xs:element ref="link"/>
+                <xs:element ref="pubDate"/>
+                <xs:element ref="guid"/>
+                <xs:element ref="description"/>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element ref="atom:link"/>
+                    <xs:element ref="psc:chapters"/>
+                </xs:choice>
+                <xs:choice maxOccurs="unbounded">
+                    <xs:element ref="atom:contributor"/>
+                    <xs:element ref="itunes:author"/>
+                    <xs:element ref="itunes:subtitle"/>
+                    <xs:element ref="itunes:summary"/>
+                    <xs:element ref="enclosure"/>
+                    <xs:element ref="content:encoded"/>
+                    <xs:element ref="feedburner:origLink"/>
+                    <xs:element ref="itunes:duration"/>
+                </xs:choice>
+                <xs:element minOccurs="0" ref="feedburner:origEnclosureLink"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="pubDate" type="xs:string"/>
+    <xs:element name="guid">
+        <xs:complexType>
+            <xs:simpleContent>
+                <xs:extension base="xs:anyURI">
+                    <xs:attribute name="isPermaLink" type="xs:boolean"/>
+                    <xs:attribute name="isPermaLinnk" type="xs:boolean"/>
+                </xs:extension>
+            </xs:simpleContent>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="enclosure">
+        <xs:complexType>
+            <xs:attribute name="length" use="required" type="xs:integer"/>
+            <xs:attribute name="type" use="required"/>
+            <xs:attribute name="url" use="required" type="xs:anyURI"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="title" type="xs:string"/>
+    <xs:element name="link" type="xs:anyURI"/>
+    <xs:element name="description" type="xs:string"/>
+</xs:schema>

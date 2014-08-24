@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>The Podlove Matrix</description>
+    <author>lasse</author>
+    <website>podlove.org</website>
+    <status>alpha</status>
+    <license>MIT</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>podlove-matrix</target>
+    <prepare>pre-install.xql</prepare>
+    <finish>post-install.xql</finish>
+    <permissions user="podlove" password="" group="" mode="rwxrwxr-x"/>
+</meta>

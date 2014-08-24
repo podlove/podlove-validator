@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="17306"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:48:19 GMT"/>
+        <httpclient:header name="X-Varnish" value="2438644153"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Eftersnack</title>
+                <link>http://areena.yle.fi/api/search.rss?id=1474952&amp;ladattavat=1</link>
+                <pubDate>Wed, 20 Aug 2014 12:48:19 +0300</pubDate>
+                <description>Terävää jutustelua - ja erinäisiä banaaliuksia - kuluneesta viikosta. Äänessä Magnus Londen, Jeanette Björkqvist ja sidekick.</description>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary>Terävää jutustelua - ja erinäisiä banaaliuksia - kuluneesta viikosta. Äänessä Magnus Londen, Jeanette Björkqvist ja sidekick.</itunes:summary>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/areena/series/3490488_971_eftersnack_tv_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/areena/series/3490488_971_eftersnack_tv_65.jpg</url>
+                    <title>Eftersnack</title>
+                    <link>http://areena.yle.fi/api/search.rss?id=1474952&amp;ladattavat=1</link>
+                </image>
+                <item>
+                    <title>Eftersnack: Radio Vega 12.4.2013. Sidekick: Riko Eklundh.</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1890503</link>
+                    <guid isPermaLink="false">a69e8307cadd4c1e9e19dbc8fa951da8</guid>
+                    <description>Putin är misstänkt "kriminiell" - och politiska ledningen bugar sig. Vad får en lärare 
+göra? Så lätt ta "ställning" utan att veta. Google Glass kommer att förändra allt. Nya 
+Argus och kyrkan: konstiga debatter. Mumin characters ute på villosväger. Stora 
+kulturupplevelser är Stort. Facebook börjar ta betalt.</description>
+                    <pubDate>Fri, 12 Apr 2013 17:45:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/f1/f11eb003d43b4e5cb5cdea10dcbeca34.mp3?filename=eftersnack_20130412_1745.mp3" type="audio/mp3" length="358678"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a69e8307cadd4c1e9e19dbc8fa951da8/a69e8307cadd4c1e9e19dbc8fa951da8_1365774210562_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-04-12T17:45:00+0300; end=2015-04-12T17:45:00+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="2738"/>
+                </item>
+                <item>
+                    <title>Eftersnack: Radio Vega 05.04.2013 Sidekick: Misha Eriksson</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1881835</link>
+                    <guid isPermaLink="false">0dd3c26aa0d64172a2cb1a420859e408</guid>
+                    <description>Host host i dammet. Hackspettarna. Arhinmäki fixade kryphålen. Soini vet vem som inte 
+sitter i nästa regering. Nordkorea som telefonkatalogen. Schack i Armenien, ledarskap och beslutsfattande. Att tacksamt ta emot böter. Bättre läsa vad som helst? Att vinna 
+skattefrihet.</description>
+                    <pubDate>Fri, 5 Apr 2013 16:51:00 +0300</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/31/31f9165bcd8049049bcff8aa62741589.mp3?filename=eftersnack_20130405_1651.mp3" type="audio/mp3" length="367717"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/0d/0dd3c26aa0d64172a2cb1a420859e408/0dd3c26aa0d64172a2cb1a420859e408_1365170439025_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-04-05T16:51:00+0300; end=2015-04-05T16:51:00+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="2807"/>
+                </item>
+                <item>
+                    <title>Eftersnack: Radio Vega 29.3.2013. Sidekick: Maria Wasström.</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1875410</link>
+                    <guid isPermaLink="false">543bcc72a67347fabf0215935fbbd86e</guid>
+                    <description>Långfredagsspecial. Stoppa pressarna: vi hoppar över våren! Vänstern hostar till budgetuppgörelsen. Nordkorea har photoshop. Flygvärdinnorna i Sydkorea får gå i byxor. Google blandade sig i språket. Karis-Billnäs gymnasium publicerar sig. Finlandsdieten. Tjockskatt på flyget. Litteratur för elvaåringen. Att fria via tidningen. 1-1: fotboll kan ge lycka. Barnen, men inte vuxna, ska ha det tråkigt. Långfredag.</description>
+                    <pubDate>Fri, 29 Mar 2013 15:00:00 +0200</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/12/120a6b4e134b4484abd5c98c1882a04c.mp3?filename=eftersnack_20130329_1500.mp3" type="audio/mp3" length="402170"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/54/543bcc72a67347fabf0215935fbbd86e/543bcc72a67347fabf0215935fbbd86e_1364397884167_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-03-29T15:00:00+0200; end=2015-03-27T17:21:00+0200; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3070"/>
+                </item>
+                <item>
+                    <title>Eftersnack: 22.03.2013 Radio Vega. Sidekick: Riko Eklundh.</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1871858</link>
+                    <guid isPermaLink="false">fd52f5d50f98485d9257a97e0e42aefe</guid>
+                    <description>Cypern. Början på slutet för Europa som vi känner det? Budgetramarna spikades: Godis, sprit, tobak dyrare? Sjukledighet för ros skull. Stora mammadiskussionen. Alla bär vi på ett kort. Samkönade äktenskap. Sibboungdomar vill inte bli hesabor. Upplopp i Burma. Spring undan biljettkontrollörerna. Kroppslig mångfald hos skyltdockorna. Sjung i kör! Cello från 1741. Finland chockar Spanien ikväll. Iphonen som landar på sina fötter.</description>
+                    <pubDate>Fri, 22 Mar 2013 17:00:00 +0200</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/2b/2b94cd9c1af94d6da5328d20c8a9b756.mp3?filename=eftersnack_20130322_1700.mp3" type="audio/mp3" length="405576"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/fd/fd52f5d50f98485d9257a97e0e42aefe/fd52f5d50f98485d9257a97e0e42aefe_1363964885469_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-03-22T17:00:00+0200; end=2015-03-22T17:00:00+0200; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3096"/>
+                </item>
+                <item>
+                    <title>Eftersnack: 15.03.2013 Radio Vega. Sidekick: Pia-Maria Lehtola</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1864452</link>
+                    <guid isPermaLink="false">19da6df4aef84770aa62cecd487bd471</guid>
+                    <description>Påven är vald. En fadersfigur eller en konservativ reaktionär. Hautala och dörrgate. Putin förklarar vinterkriget. Hur kan fettfrågan väcka aggressioner? Stoppa porren? Oksanen fick pris igen. Mobbningen sker på FB. Är Suomen Sisu offer för mediekampanj. I så fall positiv eller negativ? Wiens trevligaste man. Oslo är välmående. Morkis efter flygplanshärjande?</description>
+                    <pubDate>Fri, 15 Mar 2013 16:39:00 +0200</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/10/102373c606a1475fbcb2fc6716eadce9.mp3?filename=eftersnack_20130315_1639.mp3" type="audio/mp3" length="367848"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/19/19da6df4aef84770aa62cecd487bd471/19da6df4aef84770aa62cecd487bd471_1363359923202_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-03-15T16:39:00+0200; end=2015-03-15T16:39:00+0200; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="2808"/>
+                </item>
+                <item>
+                    <title>Eftersnack: 08.03.2013 Sidekick: Misha Eriksson. Smart snack om veckan som gått.</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/1855906</link>
+                    <guid isPermaLink="false">0497451bf6c74f2e9e1583706f272a74</guid>
+                    <description>Kvinnodagen, hur uppmärksamma? Justitiemord ManU-Real M. "Systemet" kunde inte hjälpa åttaåringen, även om individer försökte. Nordkorea hotar och skriker, men vad vet vi? Rökbomb in i Talvivaaras kontor. Uran eller grottmålningar? Nya bakterier på Antarktis, precis som i The Thing? Searching for sugar man: Vilka friheter ska en dokumentärfilm få eller ta? Kvinnliga förebilder. Jenni Haukio. Sofi Oksanen. Tove Jansson-gatan. Kamera inne i fotbollen. Mellanåret efter skolan. Glad tonåring blir rikare vuxen?</description>
+                    <pubDate>Fri, 8 Mar 2013 16:50:00 +0200</pubDate>
+                    <category>Fakta ja kulttuuri</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/a3/a38c63482b34460093eb72f4ba740fad.mp3?filename=eftersnack_20130308_1650.mp3" type="audio/mp3" length="363918"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656.jpg" width="640" height="360"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/04/0497451bf6c74f2e9e1583706f272a74/0497451bf6c74f2e9e1583706f272a74_1362755590656_720.jpg" width="720" height="405"/>
+                    <dcterms:subject>Eftersnack</dcterms:subject>
+                    <dcterms:valid>start=2013-03-08T16:50:00+0200; end=2015-03-08T16:50:00+0200; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="2778"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

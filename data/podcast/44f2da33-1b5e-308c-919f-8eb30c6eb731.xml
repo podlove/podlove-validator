@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:46:59 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:45:59 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=scyyizige0wfzvjqzymfbpxn; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:45:58 GMT"/>
+        <httpclient:header name="Content-Length" value="14379"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/9945</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/9945" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:45:59 GMT</lastBuildDate>
+                <image>
+                    <title>Josefinito - sänds inte längre</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=3739</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/3739/2876621_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Poddradio med Josefin Johansson</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Josefinito - sänds inte längre</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Josefinito - sänds inte längre</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=3739</link>
+                <description>Poddradio med Josefin Johansson</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios eget sus i säven Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 10 (Därför extralångt). Denna veckas bisittare: Jesper Rönndahl. Gäst: Anders "Ankan" Johansson. Tema för dagen: I ett hus vid naturens slut, liten tomte tittar ut.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2264629.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100318120028.mp3</guid>
+                    <pubDate>Thu, 18 Mar 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios eget sus i säven Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 10 (Därför extralångt). Denna veckas bisittare: Jesper Rönndahl. Gäst: Anders "Ankan" Johansson. Tema för dagen: I ett hus vid naturens slut, liten tomte tittar ut.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2264629.mp3" length="28901251" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen Palmsöndag Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 9. Denna veckas bisittare: Kristoffer ”Kringlan” Svensson. Tema för dagen: Groupwise </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2252177.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100311120035.mp3</guid>
+                    <pubDate>Thu, 11 Mar 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen Palmsöndag Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 9. Denna veckas bisittare: Kristoffer ”Kringlan” Svensson. Tema för dagen: Groupwise </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2252177.mp3" length="21777659" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen betongsilo Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 8. Denna veckas bisittare: Kristoffer ”Kringlan” Svensson. Gäst: Jonatan Unge. Tema för dagen: I’m a working girl: Mine’s broken, mine’s broken. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2239794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100304120032.mp3</guid>
+                    <pubDate>Thu, 04 Mar 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen betongsilo Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 8. Denna veckas bisittare: Kristoffer ”Kringlan” Svensson. Gäst: Jonatan Unge. Tema för dagen: I’m a working girl: Mine’s broken, mine’s broken. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2239794.mp3" length="23856274" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen sockenstuga Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 7. Denna veckas bisittare: Jesper Rönndahl. Tema för dagen: Beam me up, Lottie. Knutsson.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2226960.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100225120007.mp3</guid>
+                    <pubDate>Thu, 25 Feb 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen sockenstuga Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 7. Denna veckas bisittare: Jesper Rönndahl. Tema för dagen: Beam me up, Lottie. Knutsson.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2226960.mp3" length="20642273" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen strumpebandshållare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 6. Denna veckas bisittare: Kristoffer "Kringlan" Svensson. Tema för dagen: Nu blåser vi snuten.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2214589.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100218120022.mp3</guid>
+                    <pubDate>Thu, 18 Feb 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen strumpebandshållare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 6. Denna veckas bisittare: Kristoffer "Kringlan" Svensson. Tema för dagen: Nu blåser vi snuten.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2214589.mp3" length="20186175" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen levnadstecknare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 5. Denna veckas bisittare: Kim W Andersson. Tema för dagen: Sällskapsresan/or. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2201799.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100211120059.mp3</guid>
+                    <pubDate>Thu, 11 Feb 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen levnadstecknare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 5. Denna veckas bisittare: Kim W Andersson. Tema för dagen: Sällskapsresan/or. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2201799.mp3" length="15532095" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen lilla trumslagarpojke barrumpa-bum-bum Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 4. Denna veckas bisittare: Jesper "Jepser" Rönndahl. Tema för dagen: Glöm dina ensamma stunder, du kan lita på naturens blunder. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2189269.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100204120105.mp3</guid>
+                    <pubDate>Thu, 04 Feb 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen lilla trumslagarpojke barrumpa-bum-bum Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 4. Denna veckas bisittare: Jesper "Jepser" Rönndahl. Tema för dagen: Glöm dina ensamma stunder, du kan lita på naturens blunder. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2189269.mp3" length="21023765" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen strövare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 3. Denna veckas bisittare: Kristoffer "Kringlan" Svensson. Tema för dagen: Är du nöjsam, lille vän? </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2177170.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100128011631.mp3</guid>
+                    <pubDate>Thu, 28 Jan 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen strövare Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 3. Denna veckas bisittare: Kristoffer "Kringlan" Svensson. Tema för dagen: Är du nöjsam, lille vän? </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2177170.mp3" length="19952640" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen 40-årspresent Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 2. Denna veckas bisittare: Kim W Andersson. Tema för dagen: Nu lägger vi bort titlarna. Det är vår. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2164533.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100121120040.mp3</guid>
+                    <pubDate>Thu, 21 Jan 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen 40-årspresent Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Avsnitt 2. Denna veckas bisittare: Kim W Andersson. Tema för dagen: Nu lägger vi bort titlarna. Det är vår. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2164533.mp3" length="14992614" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Josefinito show</title>
+                    <description>Josefinito show! Sveriges Radios egen mama`s boy Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Denna veckas bisittare: Jesper Rönndahl. Tema för dagen: Nedre regioner</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2152761.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_josefinito_100114124159.mp3</guid>
+                    <pubDate>Thu, 14 Jan 2010 10:00:00 GMT</pubDate>
+                    <programid>3739</programid>
+                    <poddid>9945</poddid>
+                    <itunes:summary>Josefinito show! Sveriges Radios egen mama`s boy Josefin Johansson bjuder in kända och okända, trevliga och otrevliga gäster till en stunds tramseprat. Denna veckas bisittare: Jesper Rönndahl. Tema för dagen: Nedre regioner</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Josefinito,-,sänds,inte,längreJosefinito,show</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2152761.mp3" length="21809946" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:46:48 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:45:48 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=b2qwspwybgifbgiugex2tpsm; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:45:48 GMT"/>
+        <httpclient:header name="Content-Length" value="170892"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/7534</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/7534" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:45:48 GMT</lastBuildDate>
+                <image>
+                    <title>P2-fågeln</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=3275</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/3275/3237683_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>En radioklassiker i nyputsad skrud. Fåglar i Sveriges Radio och P2 har en lång och stolt tradition och nu återkommer de på webben. För första gången kan du även höra de samtal om varje fågel som tidigare bara hörts i radio. Favoritfågeln går en helt ny vår till mötes…</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Music"/>
+                <itunes:category text="Science &amp; Medicine"/>
+                <itunes:owner>
+                    <itunes:name>P2-fågeln</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>P2-fågeln</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=3275</link>
+                <description>En radioklassiker i nyputsad skrud. Fåglar i Sveriges Radio och P2 har en lång och stolt tradition och nu återkommer de på webben. För första gången kan du även höra de samtal om varje fågel som tidigare bara hörts i radio. Favoritfågeln går en helt ny vår till mötes…</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Skäggmesen, P2-fågeln</title>
+                    <description>Samtal om skäggmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2873506.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110128090019.mp3</guid>
+                    <pubDate>Fri, 28 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skäggmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkäggmesen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2873506.mp3" length="10998595" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sävsparven, P2-fågeln</title>
+                    <description>Samtal om sävsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2873507.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110128090025.mp3</guid>
+                    <pubDate>Fri, 28 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sävsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSävsparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2873507.mp3" length="10156408" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Berglärkan, P2-fågeln</title>
+                    <description>Samtal om berglärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2873508.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110128090036.mp3</guid>
+                    <pubDate>Fri, 28 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om berglärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBerglärkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2873508.mp3" length="10654197" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göken, P2-fågeln</title>
+                    <description>Samtal om göken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2872791.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110127060009.mp3</guid>
+                    <pubDate>Thu, 27 Jan 2011 16:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om göken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGöken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2872791.mp3" length="10690977" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Storskraken, P2-fågeln</title>
+                    <description>Samtal om storskraken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2872792.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110127060104.mp3</guid>
+                    <pubDate>Thu, 27 Jan 2011 16:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om storskraken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStorskraken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2872792.mp3" length="10577293" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mindre sumphöna, P2-fågeln</title>
+                    <description>Samtal om den mindre sumphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2860710.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110121090036.mp3</guid>
+                    <pubDate>Fri, 21 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om den mindre sumphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnMindre,sumphöna,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2860710.mp3" length="10637061" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svarthättan, P2-fågeln</title>
+                    <description>Samtal om svarthättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2860711.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110121090040.mp3</guid>
+                    <pubDate>Fri, 21 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om svarthättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSvarthättan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2860711.mp3" length="10243761" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pärlugglan, P2-fågeln</title>
+                    <description>Samtal om pärlugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2860712.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110121090042.mp3</guid>
+                    <pubDate>Fri, 21 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om pärlugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnPärlugglan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2860712.mp3" length="10203637" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Krickan, P2-fågeln</title>
+                    <description>Samtal om krickan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2860714.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110121090045.mp3</guid>
+                    <pubDate>Fri, 21 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om krickan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKrickan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2860714.mp3" length="10113776" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Dubbelbeckasinen, P2-fågeln</title>
+                    <description>Samtal om dubbelbeckasinen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2847252.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110114090028.mp3</guid>
+                    <pubDate>Fri, 14 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om dubbelbeckasinen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDubbelbeckasinen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2847252.mp3" length="10278034" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Strandskata, P2 Fågeln</title>
+                    <description>Samtal om strandskatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2847253.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110114090031.mp3</guid>
+                    <pubDate>Fri, 14 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om strandskatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStrandskata,,P2,Fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2847253.mp3" length="10713965" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Havsörnen, P2-fågeln</title>
+                    <description>Samtal om havsörnen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2847254.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110114090033.mp3</guid>
+                    <pubDate>Fri, 14 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om havsörnen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHavsörnen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2847254.mp3" length="9646497" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Härfågel, P2-fågeln</title>
+                    <description>Samtal om härfågeln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2847255.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110114090035.mp3</guid>
+                    <pubDate>Fri, 14 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om härfågeln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHärfågel,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2847255.mp3" length="10798811" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödhaken, P2-fågeln</title>
+                    <description>Samtal om rödhaken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2847256.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110114090037.mp3</guid>
+                    <pubDate>Fri, 14 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödhaken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödhaken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2847256.mp3" length="10315650" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skräntärna, P2-fågeln</title>
+                    <description>Samtal om skräntärnan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839793.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042153.mp3</guid>
+                    <pubDate>Fri, 07 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skräntärnan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkräntärna,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839793.mp3" length="10388793" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skogssnäppan, P2-fågeln</title>
+                    <description>Samtal om skogssnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839795.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042213.mp3</guid>
+                    <pubDate>Fri, 07 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skogssnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkogssnäppan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839795.mp3" length="10159333" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fiskgjuse, P2-fågeln</title>
+                    <description>Samtal om fiskgjusen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839796.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042220.mp3</guid>
+                    <pubDate>Fri, 07 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om fiskgjusen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnFiskgjuse,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839796.mp3" length="11057110" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Törnskata, P2-fågeln</title>
+                    <description>Samtal om törnskatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839779.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042026.mp3</guid>
+                    <pubDate>Fri, 07 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om törnskatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTörnskata,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839779.mp3" length="10786272" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vattenrallen, P2-fågeln</title>
+                    <description>Samtal om vattenrallen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839787.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042118.mp3</guid>
+                    <pubDate>Fri, 07 Jan 2011 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om vattenrallen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnVattenrallen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839787.mp3" length="10564336" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Koltrasten, P2-fågeln</title>
+                    <description>Samtal om koltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839788.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042124.mp3</guid>
+                    <pubDate>Fri, 31 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om koltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKoltrasten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839788.mp3" length="10968084" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hägern, P2-fågeln</title>
+                    <description>Samtal om hägern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839789.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042130.mp3</guid>
+                    <pubDate>Fri, 31 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om hägern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHägern,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839789.mp3" length="10784600" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gråsiskan, P2-fågeln</title>
+                    <description>Samtal om gråsiskan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839784.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042106.mp3</guid>
+                    <pubDate>Fri, 31 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gråsiskan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGråsiskan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839784.mp3" length="10991490" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sothönan, P2-fågeln</title>
+                    <description>Samtal om sothönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839785.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042109.mp3</guid>
+                    <pubDate>Fri, 31 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sothönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSothönan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839785.mp3" length="10768300" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lundsångaren, P2-fågeln</title>
+                    <description>Samtal om lundsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839798.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042235.mp3</guid>
+                    <pubDate>Fri, 31 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om lundsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnLundsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839798.mp3" length="10714801" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Dalripa, P2-fågeln</title>
+                    <description>Samtal om dalripan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042202.mp3</guid>
+                    <pubDate>Fri, 24 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om dalripan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDalripa,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839794.mp3" length="10569769" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mindre flugsnappare, P2-fågeln</title>
+                    <description>Samtal om mindre flugsnapparen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839778.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042019.mp3</guid>
+                    <pubDate>Fri, 24 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om mindre flugsnapparen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnMindre,flugsnappare,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839778.mp3" length="10485342" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sillgrisslan P2-fågeln</title>
+                    <description>Samtal om sillgrisslan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839783.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042053.mp3</guid>
+                    <pubDate>Fri, 24 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sillgrisslan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSillgrisslan,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839783.mp3" length="10636225" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trastsångaren, P2-fågeln</title>
+                    <description>Samtal om trastsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839780.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042034.mp3</guid>
+                    <pubDate>Fri, 24 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om trastsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTrastsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839780.mp3" length="11350935" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skogsduvan,P2-fågeln</title>
+                    <description>Samtal om skogsduvan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839791.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042151.mp3</guid>
+                    <pubDate>Fri, 24 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skogsduvan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkogsduvan,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839791.mp3" length="10453995" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nordsångaren, P2-fågeln</title>
+                    <description>Samtal om nordsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839781.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042037.mp3</guid>
+                    <pubDate>Fri, 17 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om nordsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnNordsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839781.mp3" length="11870458" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svart rödstjärt, P2-fågeln</title>
+                    <description>Samtal om den svarta rödstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839782.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042047.mp3</guid>
+                    <pubDate>Fri, 17 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om den svarta rödstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSvart,rödstjärt,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839782.mp3" length="11014478" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fiskmås, P2-fågeln</title>
+                    <description>Samtal om fiskmåsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839790.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042140.mp3</guid>
+                    <pubDate>Fri, 17 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om fiskmåsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnFiskmås,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839790.mp3" length="11032868" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Storlommen, P2-fågeln</title>
+                    <description>Samtal om storlommen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839797.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042228.mp3</guid>
+                    <pubDate>Fri, 17 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om storlommen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStorlommen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839797.mp3" length="10989818" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Råkan, P2-Fågeln</title>
+                    <description>Samtal om råkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839801.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_110110042241.mp3</guid>
+                    <pubDate>Fri, 17 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om råkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRåkan,,P2-Fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839801.mp3" length="11405688" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kråkan, P2-fågeln</title>
+                    <description>Samtal om kråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2785519.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101210090054.mp3</guid>
+                    <pubDate>Fri, 10 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om kråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKråkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2785519.mp3" length="10685126" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gluttsnäppan, P2-Fågeln</title>
+                    <description>Samtal om gluttsnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2785520.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101210090057.mp3</guid>
+                    <pubDate>Fri, 10 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gluttsnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGluttsnäppan,,P2-Fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2785520.mp3" length="10896195" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Strömstaren, P2-fågeln</title>
+                    <description>Samtal om strömstaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2785521.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101210090059.mp3</guid>
+                    <pubDate>Fri, 10 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om strömstaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStrömstaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2785521.mp3" length="10771226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bofinken, P2-fågeln</title>
+                    <description>Samtal om bofinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2785522.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101210090101.mp3</guid>
+                    <pubDate>Fri, 10 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om bofinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBofinken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2785522.mp3" length="10981877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pilfinken, P2-fågeln</title>
+                    <description>Samtal om pilfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2785523.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101210090103.mp3</guid>
+                    <pubDate>Fri, 10 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om pilfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnPilfinken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2785523.mp3" length="10964323" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blåstjärten, P2-fågeln</title>
+                    <description>Samtal om blåstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2772698.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101203090008.mp3</guid>
+                    <pubDate>Fri, 03 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om blåstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBlåstjärten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2772698.mp3" length="10255464" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nattskärran, P2-fågeln</title>
+                    <description>Samtal om nattskärran, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2772699.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101203090011.mp3</guid>
+                    <pubDate>Fri, 03 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om nattskärran, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnNattskärran,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2772699.mp3" length="9838341" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hämplingen, P2 Fågeln</title>
+                    <description>Samtal om hämplingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2772700.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101203090014.mp3</guid>
+                    <pubDate>Fri, 03 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om hämplingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHämplingen,,P2,Fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2772700.mp3" length="10763702" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skatan, P2-fågeln</title>
+                    <description>Samtal om skatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2772701.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101203090016.mp3</guid>
+                    <pubDate>Fri, 03 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skatan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkatan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2772701.mp3" length="10715637" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Dvärgsparven, P2-fågeln</title>
+                    <description>Samtal om dvärgsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2772702.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101203090018.mp3</guid>
+                    <pubDate>Fri, 03 Dec 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om dvärgsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDvärgsparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2772702.mp3" length="9834997" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svartmesen, P2-fågeln</title>
+                    <description>Samtal om svartmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2759381.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101126090100.mp3</guid>
+                    <pubDate>Fri, 26 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om svartmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSvartmesen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2759381.mp3" length="10921691" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Slagugglan, P2-fågeln</title>
+                    <description>Samtal om slagugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2759382.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101126090102.mp3</guid>
+                    <pubDate>Fri, 26 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om slagugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSlagugglan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2759382.mp3" length="10627448" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sidensvansen, P2-fågeln</title>
+                    <description>Samtal om sidensvansen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2759383.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101126090104.mp3</guid>
+                    <pubDate>Fri, 26 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sidensvansen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSidensvansen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2759383.mp3" length="11077172" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Knölsvan, P2-fågeln</title>
+                    <description>Samtal om knölsvanen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2759384.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101126090106.mp3</guid>
+                    <pubDate>Fri, 26 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om knölsvanen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKnölsvan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2759384.mp3" length="10564336" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gyllensparven, P2-fågeln</title>
+                    <description>Samtal om gyllensparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2759385.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101126090108.mp3</guid>
+                    <pubDate>Fri, 26 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gyllensparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGyllensparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2759385.mp3" length="10570187" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Duvhöken P2-fågeln</title>
+                    <description>Samtal om duvhöken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2744609.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101119090056.mp3</guid>
+                    <pubDate>Fri, 19 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om duvhöken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDuvhöken,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2744609.mp3" length="10688052" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Berguven, P2-fågeln</title>
+                    <description>Samtal om berguven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2744610.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101119090058.mp3</guid>
+                    <pubDate>Fri, 19 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om berguven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBerguven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2744610.mp3" length="10795467" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Enkelbeckasinen, P2-fågeln</title>
+                    <description>Samtal om enkelbeckasinen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2744611.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101119090100.mp3</guid>
+                    <pubDate>Fri, 19 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om enkelbeckasinen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnEnkelbeckasinen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2744611.mp3" length="11067559" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göktytan, P2-fågeln</title>
+                    <description>Samtal om göktytan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2744612.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101119090103.mp3</guid>
+                    <pubDate>Fri, 19 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om göktytan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGöktytan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2744612.mp3" length="10731102" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vassångaren, P2-fågeln</title>
+                    <description>Samtal om vassångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2744613.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101119090106.mp3</guid>
+                    <pubDate>Fri, 19 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om vassångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnVassångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2744613.mp3" length="10753671" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ringtrasten, P2-fågeln</title>
+                    <description>Samtal om ringtrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731727.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090012.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ringtrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRingtrasten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731727.mp3" length="10759941" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Buskskvättan, P2-fågel</title>
+                    <description>Samtal om buskskvättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731728.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090016.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om buskskvättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBuskskvättan,,P2-fågel</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731728.mp3" length="10309799" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gärdsmygen, P2-Fågeln ett andra samtal</title>
+                    <description>Samtal om gärdsmygen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731729.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090018.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gärdsmygen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGärdsmygen,,P2-Fågeln,ett,andra,samtal</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731729.mp3" length="11032032" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Knipan, P2-fågeln</title>
+                    <description>Samtal om knipan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731731.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090020.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om knipan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKnipan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731731.mp3" length="10894942" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödstjärten, P2-fågeln</title>
+                    <description>Samtal om rödstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731732.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090023.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödstjärten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödstjärten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731732.mp3" length="10392555" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gärdsmygen, P2-fågeln</title>
+                    <description>Samtal om gärdsmygen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2731733.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101112090026.mp3</guid>
+                    <pubDate>Fri, 12 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gärdsmygen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGärdsmygen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2731733.mp3" length="10129658" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Talltitan, P2-fågeln</title>
+                    <description>Samtal om talltitan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2719074.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101105090133.mp3</guid>
+                    <pubDate>Fri, 05 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om talltitan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTalltitan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2719074.mp3" length="10273018" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sånglärkan, P2-fågeln </title>
+                    <description>Samtal om sånglärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2719076.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101105090158.mp3</guid>
+                    <pubDate>Fri, 05 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sånglärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSånglärkan,,P2-fågeln,</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2719076.mp3" length="10206981" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tranan, P2-fågeln </title>
+                    <description>Samtal om tranan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2719077.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101105090203.mp3</guid>
+                    <pubDate>Fri, 05 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om tranan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTranan,,P2-fågeln,</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2719077.mp3" length="10334040" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Grönsångaren, P2-fågeln</title>
+                    <description>Samtal om grönsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2719078.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101105090217.mp3</guid>
+                    <pubDate>Fri, 05 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om grönsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGrönsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2719078.mp3" length="10118373" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Grönfinken, P2-fågeln</title>
+                    <description>Samtal om grönfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2719079.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101105090221.mp3</guid>
+                    <pubDate>Fri, 05 Nov 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om grönfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGrönfinken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2719079.mp3" length="11182497" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trädlärkan, P2-fågeln</title>
+                    <description>Samtal om trädlärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2706257.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101029090020.mp3</guid>
+                    <pubDate>Fri, 29 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om trädlärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTrädlärkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2706257.mp3" length="10334458" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Koltrasten, P2-Fågeln</title>
+                    <description>Samtal om koltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2706259.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101029090024.mp3</guid>
+                    <pubDate>Fri, 29 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om koltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKoltrasten,,P2-Fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2706259.mp3" length="10480744" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Busksångaren, P2-fågeln</title>
+                    <description>Samtal om busksångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2706260.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101029090026.mp3</guid>
+                    <pubDate>Fri, 29 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om busksångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBusksångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2706260.mp3" length="10728176" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Spillkråkan, P2-fågeln</title>
+                    <description>Samtal om spillkråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2706261.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101029090029.mp3</guid>
+                    <pubDate>Fri, 29 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om spillkråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSpillkråkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2706261.mp3" length="11001521" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Domherren, P2-fågeln ett andra samtal</title>
+                    <description>Samtal om domherren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692901.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090046.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om domherren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDomherren,,P2-fågeln,ett,andra,samtal</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692901.mp3" length="10906226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Domherren P2-fågeln</title>
+                    <description>Samtal om domherren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692902.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090049.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om domherren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDomherren,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692902.mp3" length="10106671" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sparvugglan</title>
+                    <description>Samtal om sparvugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692903.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090052.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sparvugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSparvugglan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692903.mp3" length="9195520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sommargyllingen, P2-fågeln</title>
+                    <description>Samtal om sommargyllingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692904.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090054.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sommargyllingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSommargyllingen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692904.mp3" length="9982119" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Talgoxe, P2-fågeln</title>
+                    <description>Samtal om talgoxen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692905.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090055.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om talgoxen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTalgoxe,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692905.mp3" length="9791111" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tjäder, P2-fågel</title>
+                    <description>Samtal om tjädern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2692906.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101022090057.mp3</guid>
+                    <pubDate>Fri, 22 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om tjädern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTjäder,,P2-fågel</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2692906.mp3" length="9979193" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blåhaken, P2 fågeln</title>
+                    <description>Samtal om blåhaken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2677452.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101015090053.mp3</guid>
+                    <pubDate>Fri, 15 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om blåhaken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBlåhaken,,P2,fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2677452.mp3" length="10206981" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rosenfinken, P2-fågeln</title>
+                    <description>Samtal om rosenfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2677453.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101015090056.mp3</guid>
+                    <pubDate>Fri, 15 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rosenfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRosenfinken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2677453.mp3" length="9732179" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Korpen, P2-fågeln</title>
+                    <description>Samtal om korpen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2677454.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101015090101.mp3</guid>
+                    <pubDate>Fri, 15 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om korpen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKorpen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2677454.mp3" length="9994240" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trädpiplärkan, P2-fågeln</title>
+                    <description>Samtal om trädpiplärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2677455.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101015090103.mp3</guid>
+                    <pubDate>Fri, 15 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om trädpiplärkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTrädpiplärkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2677455.mp3" length="10210742" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödvingetrasten, P2-fågeln</title>
+                    <description>Samtal om rödvingetrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2677456.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101015090105.mp3</guid>
+                    <pubDate>Fri, 15 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödvingetrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödvingetrasten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2677456.mp3" length="10433933" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Alfågeln, P2-fågeln</title>
+                    <description>Samtal om alfågeln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2662971.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101008090036.mp3</guid>
+                    <pubDate>Fri, 08 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om alfågeln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnAlfågeln,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2662971.mp3" length="10677603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ejdern, P2-fågeln</title>
+                    <description>Samtal om ejdern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2662972.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101008090039.mp3</guid>
+                    <pubDate>Fri, 08 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ejdern, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnEjdern,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2662972.mp3" length="10306873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kattugglan, P2-fågeln</title>
+                    <description>Samtal om kattugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2662973.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101008090054.mp3</guid>
+                    <pubDate>Fri, 08 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om kattugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKattugglan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2662973.mp3" length="9709191" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blåmesen, P2-fåglen</title>
+                    <description>Samtal om blåmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2662974.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101008090058.mp3</guid>
+                    <pubDate>Fri, 08 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om blåmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBlåmesen,,P2-fåglen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2662974.mp3" length="10152228" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Näktergalen, P2-fågeln</title>
+                    <description>Samtal om näktergalen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2662975.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101008090101.mp3</guid>
+                    <pubDate>Fri, 08 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om näktergalen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnNäktergalen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2662975.mp3" length="10899957" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Storspoven, P2-fågeln</title>
+                    <description>Samtal om storspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2647635.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101001090036.mp3</guid>
+                    <pubDate>Fri, 01 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om storspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStorspoven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2647635.mp3" length="10183157" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Orren, P2-fågeln</title>
+                    <description>Samtal om orren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2647636.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101001090039.mp3</guid>
+                    <pubDate>Fri, 01 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om orren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnOrren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2647636.mp3" length="10146795" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svarthättan, P2-fågeln</title>
+                    <description>Samtal om svarthättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2647637.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101001090041.mp3</guid>
+                    <pubDate>Fri, 01 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om svarthättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSvarthättan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2647637.mp3" length="10991490" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Härmsångaren, P2-fågeln</title>
+                    <description>Samtal om härmsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2647638.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_101001090043.mp3</guid>
+                    <pubDate>Fri, 01 Oct 2010 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om härmsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHärmsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2647638.mp3" length="10504568" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Järnsparven, P2-fågeln</title>
+                    <description>Samtal om järnsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708847.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120136.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om järnsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnJärnsparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708847.mp3" length="8062119" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rörsångaren</title>
+                    <description>Samtal om rörsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708848.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120139.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rörsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRörsångaren</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708848.mp3" length="8336718" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Höksångaren, P2-fågeln</title>
+                    <description>Samtal om höksångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708849.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120140.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om höksångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHöksångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708849.mp3" length="7453048" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Entitan, P2-fågeln</title>
+                    <description>Samtal om entitan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708850.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120142.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om entitan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnEntitan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708850.mp3" length="8314462" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kärrsångaren, P2-fågeln</title>
+                    <description>Samtal om kärrsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708851.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120144.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om kärrsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKärrsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708851.mp3" length="8271203" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bergfinken, P2-fågeln</title>
+                    <description>Samtal om bergfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708852.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120146.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om bergfinken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnBergfinken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708852.mp3" length="8007262" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rördrommen, P2-fågeln</title>
+                    <description>Samtal om rördrommen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708853.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120148.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rördrommen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRördrommen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708853.mp3" length="8377783" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Dubbeltrasten, P2-fågeln</title>
+                    <description>Samtal om dubbeltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708854.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120150.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om dubbeltrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDubbeltrasten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708854.mp3" length="7892219" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kornknarren, P2-fågeln</title>
+                    <description>Samtal om kornknarren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708855.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120152.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om kornknarren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKornknarren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708855.mp3" length="8612885" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gröngölingen, P2-fågeln</title>
+                    <description>Samtal om gröngölingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708856.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120154.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gröngölingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGröngölingen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708856.mp3" length="7991275" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Grönsiskan, P2-fågeln</title>
+                    <description>Samtal om grönsiskan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708857.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120156.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om grönsiskan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGrönsiskan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708857.mp3" length="7950838" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rapphönan, P2-fågeln</title>
+                    <description>Samtal om rapphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708858.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120158.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rapphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRapphönan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708858.mp3" length="7867768" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ormvråken, P2-fågeln</title>
+                    <description>Samtal om ormvråken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708859.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120200.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ormvråken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnOrmvråken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708859.mp3" length="7264340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kajan, P2-fågeln</title>
+                    <description>Samtal om kajan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708860.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120201.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om kajan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnKajan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708860.mp3" length="8259605" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödbenan, P2-fågeln</title>
+                    <description>Samtal om rödbenan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708861.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120203.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödbenan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödbenan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708861.mp3" length="8380604" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödvingetrasten, P2-fågeln</title>
+                    <description>Samtal om rödvingetrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708862.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120206.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödvingetrasten, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödvingetrasten,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708862.mp3" length="7825450" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nötskrikan, P2-fågeln</title>
+                    <description>Samtal om nötskrikan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708863.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120208.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om nötskrikan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnNötskrikan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708863.mp3" length="8058358" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ladusvalan, P2-fågeln</title>
+                    <description>Samtal om ladusvalan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708864.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120210.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ladusvalan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnLadusvalan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708864.mp3" length="8257411" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nötkråkan, P2-fågeln</title>
+                    <description>Samtal om nötkråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708865.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120212.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om nötkråkan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnNötkråkan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708865.mp3" length="7581257" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lövsångaren, P2-fågeln</title>
+                    <description>Samtal om lövsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708866.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120214.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om lövsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnLövsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708866.mp3" length="8184059" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pilgrimsfalken, P2-fågeln</title>
+                    <description>Samtal om pilgrimsfalken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708867.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120216.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om pilgrimsfalken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnPilgrimsfalken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708867.mp3" length="8195030" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Drillsnäppan, P2-fågeln</title>
+                    <description>Samtal om drillsnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708868.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120218.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om drillsnäppan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnDrillsnäppan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708868.mp3" length="8055536" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gransångaren, P2-fågeln</title>
+                    <description>Samtal om gransångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708869.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120220.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om gransångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnGransångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708869.mp3" length="8133277" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hornugglan, P2-fågeln</title>
+                    <description>Samtal om hornugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708870.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120221.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om hornugglan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHornugglan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708870.mp3" length="7151177" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lappsparven, P2-fågeln</title>
+                    <description>Samtal om lappsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708871.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120223.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om lappsparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnLappsparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708871.mp3" length="7649907" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hussvalan, P2-fågeln</title>
+                    <description>Samtal om hussvalan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708872.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120225.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om hussvalan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnHussvalan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708872.mp3" length="7832660" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ortolansparven, P2-fågeln</title>
+                    <description>Samtal om ortolansparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708873.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120227.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ortolansparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnOrtolansparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708873.mp3" length="8245185" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vitkindad gås, P2-fågeln</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708874.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120229.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnVitkindad,gås,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708874.mp3" length="8279040" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ringduvan, P2-fågeln</title>
+                    <description>Samtal om ringduvan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708875.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120231.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ringduvan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRingduvan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708875.mp3" length="7892219" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rödspoven, P2-fågeln</title>
+                    <description>Samtal om rödspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708876.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120233.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om rödspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnRödspoven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708876.mp3" length="8112588" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vakteln, P2-fågeln</title>
+                    <description>Samtal om vakteln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708877.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120235.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om vakteln, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnVakteln,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708877.mp3" length="7969646" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Silvertärnan, P2-fågeln</title>
+                    <description>Samtal om silvertärnan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708878.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120237.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om silvertärnan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSilvertärnan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708878.mp3" length="7754606" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stenskvättan, P2-fågeln</title>
+                    <description>Samtal om stenskvättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708879.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120239.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om stenskvättan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStenskvättan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708879.mp3" length="8024816" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Småfläckig sumphöna, P2-fågeln</title>
+                    <description>Samtal om den småfläckiga sumphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708880.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120241.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om den småfläckiga sumphönan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSmåfläckig,sumphöna,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708880.mp3" length="8203807" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Snösparven, P2-fågeln</title>
+                    <description>Samtal om snösparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708881.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120243.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om snösparven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSnösparven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708881.mp3" length="8338286" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sädgåsen, P2-fågeln</title>
+                    <description>Samtal om sädgåsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708882.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120245.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sädgåsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSädgåsen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708882.mp3" length="7982185" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tofsvipan, P2-fågeln</title>
+                    <description>Samtal om tofsvipan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708883.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120247.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om tofsvipan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTofsvipan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708883.mp3" length="8248633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sädesärlan, P2-fågeln</title>
+                    <description>Samtal om sädesärlan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708884.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120248.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sädesärlan, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSädesärlan,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708884.mp3" length="8005381" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Törnsångaren, P2-fågeln</title>
+                    <description>Samtal om törnsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708885.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120250.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om törnsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTörnsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708885.mp3" length="8148637" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Steglitsen, P2-fågeln</title>
+                    <description>Samtal om steglitsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708886.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120252.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om steglitsen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSteglitsen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708886.mp3" length="8169012" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tofsmesen, P2-fågeln</title>
+                    <description>Samtal om tofsmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708887.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120254.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om tofsmesen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTofsmesen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708887.mp3" length="7932029" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skäggdoppingen, P2-fågeln</title>
+                    <description>Samtal om skäggdoppingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708888.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120257.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om skäggdoppingen, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSkäggdoppingen,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708888.mp3" length="8158041" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tornfalken, P2-fågeln</title>
+                    <description>Samtal om tornfalken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708889.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120259.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om tornfalken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTornfalken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708889.mp3" length="7401326" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ärtsångaren, P2-fågeln</title>
+                    <description>Samtal om ärtsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708890.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120301.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om ärtsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnÄrtsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708890.mp3" length="7988140" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Småspoven, P2-fågeln</title>
+                    <description>Samtal om småspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708891.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120303.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om småspoven, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSmåspoven,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708891.mp3" length="7994096" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Storskraken, P2-fågeln</title>
+                    <description>Samtal om storskraken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708892.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120305.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om storskraken, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnStorskraken,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708892.mp3" length="7923566" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sävsångaren, P2-fågeln</title>
+                    <description>Samtal om sävsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708893.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120307.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om sävsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnSävsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708893.mp3" length="8064627" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trädsångaren, P2-fågeln</title>
+                    <description>Samtal om trädsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1708894.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_090421120309.mp3</guid>
+                    <pubDate>Tue, 21 Apr 2009 10:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Samtal om trädsångaren, med Bengt Emil Johnson och Sten Wahlström. Mer info och fler fåglar hittar du på P2-fågelns hemsida www.sr.se/p2/p2fageln.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnTrädsångaren,,P2-fågeln</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1708894.mp3" length="8255216" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 29</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335988.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090138.mp3</guid>
+                    <pubDate>Sun, 29 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,29</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335988.mp3" length="438230" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 28</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335968.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090111.mp3</guid>
+                    <pubDate>Sat, 28 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,28</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335968.mp3" length="153913" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 27</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335987.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090136.mp3</guid>
+                    <pubDate>Fri, 27 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,27</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335987.mp3" length="523494" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 26</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335964.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090106.mp3</guid>
+                    <pubDate>Thu, 26 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,26</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335964.mp3" length="136359" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 25</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335981.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090127.mp3</guid>
+                    <pubDate>Wed, 25 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,25</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335981.mp3" length="259866" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 24</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335975.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090119.mp3</guid>
+                    <pubDate>Tue, 24 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,24</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335975.mp3" length="717218" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 23</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335978.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090122.mp3</guid>
+                    <pubDate>Mon, 23 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,23</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335978.mp3" length="357669" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 22</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335984.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090132.mp3</guid>
+                    <pubDate>Sun, 22 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,22</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335984.mp3" length="341995" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 21</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335967.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090109.mp3</guid>
+                    <pubDate>Sat, 21 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,21</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335967.mp3" length="919092" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 20</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335972.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090116.mp3</guid>
+                    <pubDate>Fri, 20 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335972.mp3" length="1999621" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 19</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335989.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090139.mp3</guid>
+                    <pubDate>Thu, 19 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,19</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335989.mp3" length="449515" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 18</title>
+                    <description>en välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335985.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090134.mp3</guid>
+                    <pubDate>Wed, 18 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>en välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,18</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335985.mp3" length="620356" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 18</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335976.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090120.mp3</guid>
+                    <pubDate>Wed, 18 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,18</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335976.mp3" length="620356" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 17</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335962.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090103.mp3</guid>
+                    <pubDate>Tue, 17 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,17</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335962.mp3" length="1280522" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 16</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335991.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090141.mp3</guid>
+                    <pubDate>Mon, 16 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,16</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335991.mp3" length="1537254" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 15</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335990.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090140.mp3</guid>
+                    <pubDate>Sun, 15 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,15</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335990.mp3" length="506253" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 14</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335974.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090118.mp3</guid>
+                    <pubDate>Sat, 14 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,14</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335974.mp3" length="584934" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 13</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335986.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090135.mp3</guid>
+                    <pubDate>Fri, 13 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,13</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335986.mp3" length="551706" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 12</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335980.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090125.mp3</guid>
+                    <pubDate>Thu, 12 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,12</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335980.mp3" length="717845" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 11</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335979.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090124.mp3</guid>
+                    <pubDate>Wed, 11 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,11</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335979.mp3" length="420989" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 10</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335973.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090117.mp3</guid>
+                    <pubDate>Tue, 10 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335973.mp3" length="658286" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 9</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335983.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090131.mp3</guid>
+                    <pubDate>Mon, 09 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,9</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335983.mp3" length="409705" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 8</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335970.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090113.mp3</guid>
+                    <pubDate>Sun, 08 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,8</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335970.mp3" length="642926" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 7</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335963.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090105.mp3</guid>
+                    <pubDate>Sat, 07 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,7</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335963.mp3" length="233848" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 6</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335969.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090112.mp3</guid>
+                    <pubDate>Fri, 06 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,6</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335969.mp3" length="388702" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 5</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335977.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090121.mp3</guid>
+                    <pubDate>Thu, 05 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,5</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335977.mp3" length="215980" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 4</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335965.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090107.mp3</guid>
+                    <pubDate>Wed, 04 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,4</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335965.mp3" length="384313" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr:3</title>
+                    <description>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335966.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090108.mp3</guid>
+                    <pubDate>Tue, 03 Mar 2009 07:00:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>” Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335966.mp3" length="762358" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeldikter nr: 2</title>
+                    <description>Den välbesökta fågelsajten utökas med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335971.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090115.mp3</guid>
+                    <pubDate>Mon, 02 Mar 2009 07:02:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Den välbesökta fågelsajten utökas med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeldikter,nr:,2</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335971.mp3" length="1378952" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P2 Fågeln Fågeldikter nr 1</title>
+                    <description>Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2335982.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p2_fageln_100428090130.mp3</guid>
+                    <pubDate>Sun, 01 Mar 2009 07:01:00 GMT</pubDate>
+                    <programid>3275</programid>
+                    <poddid>7534</poddid>
+                    <itunes:summary>Den välbesökta fågelsajten utökas nu med en unik samling fågeldikter signerade poeten och fågelkännaren Bengt Emil Johnson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P2-fågelnP2,Fågeln,Fågeldikter,nr,1</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2335982.mp3" length="711576" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

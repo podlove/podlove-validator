@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:47:41 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:46:41 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:46:40 GMT"/>
+        <httpclient:header name="Content-Length" value="26452"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/7508</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/7508" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:46:41 GMT</lastBuildDate>
+                <image>
+                    <title>Odla med stadsgrönt - sänds inte längre</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=3411</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/3411/2954511_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Odla med stadsgrönt är ett odlingsprogram för stadsbor. För dig som inte har hus. För dig som odlar på balkongen, i fönstren, eller under sängen. För dig som vill odla på gården, i en park eller på vinden.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Science &amp; Medicine"/>
+                <itunes:owner>
+                    <itunes:name>Odla med stadsgrönt - sänds inte längre</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Odla med stadsgrönt - sänds inte längre</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=3411</link>
+                <description>Odla med stadsgrönt är ett odlingsprogram för stadsbor. För dig som inte har hus. För dig som odlar på balkongen, i fönstren, eller under sängen. För dig som vill odla på gården, i en park eller på vinden.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>PODD Stadsgront 29 aug</title>
+                    <description>Vissa lämnar med lättnad trädgårdsskötseln i det stora huset inför flytten till staden och ett mindre boende, medan andra saknar den. Odla med Stadsgrönt hjälper till med planeringen inför flytten, vad ska man ta med sig, hur återskapar man sina växtminnen på en betydligt mindre yta? Programledare Petra Quiding </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3425830.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110829_fab24a.mp3</guid>
+                    <pubDate>Mon, 29 Aug 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Vissa lämnar med lättnad trädgårdsskötseln i det stora huset inför flytten till staden och ett mindre boende, medan andra saknar den. Odla med Stadsgrönt hjälper till med planeringen inför flytten, vad ska man ta med sig, hur återskapar man sina växtminnen på en betydligt mindre yta? Programledare Petra Quiding </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD,Stadsgront,29,aug</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3425830.mp3" length="23601970" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stadsgront 1 augusti</title>
+                    <description>Att odla i staden är ju en medborgarrörelse som har några år på nacken nu, men har stadsplaneringen hängt med in i den nya tiden? Men hur förtätar man staden och utvecklar den ekologiska hållbarheten samtidigt? Dessa, och andra frågor ställer vi till landskapsarkitekt Anders Larsson från SLU i Alnarp, Tyke Tykesson, arkitekt och författare som idag jobbar för Malmö stad med dess översiktsplan 2012 samt aktiva stadsodlaren och trädgårdsingenjören Erikka Chapman från Lund. Programledare Petra Quiding </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3307099.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110801_94c7ac.mp3</guid>
+                    <pubDate>Mon, 01 Aug 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Att odla i staden är ju en medborgarrörelse som har några år på nacken nu, men har stadsplaneringen hängt med in i den nya tiden? Men hur förtätar man staden och utvecklar den ekologiska hållbarheten samtidigt? Dessa, och andra frågor ställer vi till landskapsarkitekt Anders Larsson från SLU i Alnarp, Tyke Tykesson, arkitekt och författare som idag jobbar för Malmö stad med dess översiktsplan 2012 samt aktiva stadsodlaren och trädgårdsingenjören Erikka Chapman från Lund. Programledare Petra Quiding </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreStadsgront,1,augusti</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3307099.mp3" length="23602995" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>POD Stadsgront 4 juli</title>
+                    <description>Hur ser framtidens parker ut och vem ska använda dom? Det frågar Odla med Stadsgrönt, idag från Sege park i Malmö där man vill tillbaka till självhusshållning av stadsbornas grödor. Programledare Petra Quiding </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3237830.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110704_04bf95.mp3</guid>
+                    <pubDate>Mon, 04 Jul 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Hur ser framtidens parker ut och vem ska använda dom? Det frågar Odla med Stadsgrönt, idag från Sege park i Malmö där man vill tillbaka till självhusshållning av stadsbornas grödor. Programledare Petra Quiding </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePOD,Stadsgront,4,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3237830.mp3" length="23517020" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pod Stadsgrönt 6:e juli</title>
+                    <description>Hur viktiga är träden för livet i staden? Det frågar Odla med Stadsgrönt, idag från Fredriksdals trädgård mitt i Helsingborg. Programledare Petra Quiding  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3136853.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110606_0ba941.mp3</guid>
+                    <pubDate>Mon, 06 Jun 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Hur viktiga är träden för livet i staden? Det frågar Odla med Stadsgrönt, idag från Fredriksdals trädgård mitt i Helsingborg. Programledare Petra Quiding  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePod,Stadsgrönt,6:e,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3136853.mp3" length="23352709" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pod stadsgrönt 9 maj kl 1035</title>
+                    <description>Odla med Stadsgrönt handlar idag om det urbana jordbruket. Att odla på taken, för att äta, för att kyla staden och för att ta hand om regnvattnet. Och vi besöker företaget som vill fylla stora glober med grönsaksodling, mitt i stan. Programledare Petra Quiding </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3035947.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110509_c3cb31.mp3</guid>
+                    <pubDate>Mon, 09 May 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt handlar idag om det urbana jordbruket. Att odla på taken, för att äta, för att kyla staden och för att ta hand om regnvattnet. Och vi besöker företaget som vill fylla stora glober med grönsaksodling, mitt i stan. Programledare Petra Quiding </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePod,stadsgrönt,9,maj,kl,1035</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3035947.mp3" length="23376226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PODD/STADSGRONT/QM02-11/1501</title>
+                    <description>Odla med Stadsgrönt inviger säsongen med ett besök på en takterrass mitt i stan i Malmö, och frågar sig hur man odlar giftfritt där mitt i korsningen? Programledare Petra Quiding  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3009244.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_110411_d59b4a.mp3</guid>
+                    <pubDate>Mon, 11 Apr 2011 08:35:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt inviger säsongen med ett besök på en takterrass mitt i stan i Malmö, och frågar sig hur man odlar giftfritt där mitt i korsningen? Programledare Petra Quiding  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD/STADSGRONT/QM02-11/1501</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3009244.mp3" length="23516997" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PODD STADSGRONT QM02 10 3401</title>
+                    <description>Odla med Stadsgrönt besöker kyrkogården i staden, en plats för de döda, men också för de levande. Men hur ska de användas i framtiden när allt färre väljer den traditionella begravningen? Och hur odlar man bäst på sin anhöriges gravplats. Stadsgrönt tittar på trender, historia och framtid i årets sista program. Programledare Petra Quiding</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2546201.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100823_73edab.mp3</guid>
+                    <pubDate>Mon, 23 Aug 2010 08:03:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt besöker kyrkogården i staden, en plats för de döda, men också för de levande. Men hur ska de användas i framtiden när allt färre väljer den traditionella begravningen? Och hur odlar man bäst på sin anhöriges gravplats. Stadsgrönt tittar på trender, historia och framtid i årets sista program. Programledare Petra Quiding</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD,STADSGRONT,QM02,10,3401</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2546201.mp3" length="23606182" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PODD Odla med Stadsgrönt 5</title>
+                    <description>Odla med Stadsgrönt spanar efter steklingar och flugor i Lund, och går i närkamp med bina i Malmö. Programledare Petra Quiding.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2489398.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100726_c9fa15.mp3</guid>
+                    <pubDate>Mon, 26 Jul 2010 08:03:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt spanar efter steklingar och flugor i Lund, och går i närkamp med bina i Malmö. Programledare Petra Quiding.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD,Odla,med,Stadsgrönt,5</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2489398.mp3" length="23838353" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PODD STADSGRONT 28 juni kl 10.03 i P1</title>
+                    <description>Att ta sticklingar för att få fler plantor är inte så svårt som man kanske tror, följ med Odla med Stadsgrönt hem till Teo och Irma, mitt i stan i Malmö. Programledare Petra Quiding. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2447804.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100628_3216f3.mp3</guid>
+                    <pubDate>Mon, 28 Jun 2010 08:03:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Att ta sticklingar för att få fler plantor är inte så svårt som man kanske tror, följ med Odla med Stadsgrönt hem till Teo och Irma, mitt i stan i Malmö. Programledare Petra Quiding. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD,STADSGRONT,28,juni,kl,10.03,i,P1</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2447804.mp3" length="17866411" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PODD/STADSGRONT/QM02-10/2201</title>
+                    <description>Odla med Stadsgrönt som besöker Anette i Ängelholm som bytte den stora krävande trädgården mot en balkong i staden och lät fantasin löpa. Hör hur hennes odlande blev en lisa för själen. Programledare Petra Quiding.  Medverkande: Anette Nilsson, fotograf, Eva Robild, trädgårdsjournalist, Annika Rejmer rättssocilolog,  Lund, Elisabeth Hydbom Hedenroth, arkitekt, Elin Abrahamsson, landskapsarkitekten, Åsa Kjellman Erici, reporter   </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2389169.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100531_f95475.mp3</guid>
+                    <pubDate>Mon, 31 May 2010 08:03:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt som besöker Anette i Ängelholm som bytte den stora krävande trädgården mot en balkong i staden och lät fantasin löpa. Hör hur hennes odlande blev en lisa för själen. Programledare Petra Quiding.  Medverkande: Anette Nilsson, fotograf, Eva Robild, trädgårdsjournalist, Annika Rejmer rättssocilolog,  Lund, Elisabeth Hydbom Hedenroth, arkitekt, Elin Abrahamsson, landskapsarkitekten, Åsa Kjellman Erici, reporter   </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längrePODD/STADSGRONT/QM02-10/2201</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2389169.mp3" length="17811168" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 2010-05-03</title>
+                    <description>Att odla uppåt väggarna är blir allt mer nödvändigt vartefter våra städer förtätas. Odla med Stadsgrönt besöker Torun Jorde som redan i fjol monterade en väggodling på sin balkong på tredje våningen. Hör hur hon gjorde och vad hon har planterat. Och när allt fler ska få rum att bo is staden måste man tänka i andra banor än tidigare när kanske en gräsmatta eller en liten park var det viktigaste grönområdet. Odlingen måste upp på taken, och väggarna, menar professor Eivor Bucht från SLU, Sveriges lantbruksuniversitet i Alnarp i Skåne.  Och hon får medhåll från Thomas Horke, projektledare från Stadsfastigheter i Malmö Stad. Han planerar ett av landets första kommunala vertikalodling på en kontorsfastighet i stadsdelen Augustenborg.  Programledare och producent Petra Quiding.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2344776.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100503110034.mp3</guid>
+                    <pubDate>Mon, 03 May 2010 09:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Att odla uppåt väggarna är blir allt mer nödvändigt vartefter våra städer förtätas. Odla med Stadsgrönt besöker Torun Jorde som redan i fjol monterade en väggodling på sin balkong på tredje våningen. Hör hur hon gjorde och vad hon har planterat. Och när allt fler ska få rum att bo is staden måste man tänka i andra banor än tidigare när kanske en gräsmatta eller en liten park var det viktigaste grönområdet. Odlingen måste upp på taken, och väggarna, menar professor Eivor Bucht från SLU, Sveriges lantbruksuniversitet i Alnarp i Skåne.  Och hon får medhåll från Thomas Horke, projektledare från Stadsfastigheter i Malmö Stad. Han planerar ett av landets första kommunala vertikalodling på en kontorsfastighet i stadsdelen Augustenborg.  Programledare och producent Petra Quiding.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,2010-05-03</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2344776.mp3" length="17623562" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgront 2010-04-05</title>
+                    <description>Stadsgrönt om städernas odlingsbom.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2294181.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_100405110100.mp3</guid>
+                    <pubDate>Mon, 05 Apr 2010 09:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Stadsgrönt om städernas odlingsbom.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgront,2010-04-05</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2294181.mp3" length="17760549" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med stadsgrönt 20090831</title>
+                    <description>I säsongen sista Odla med Stadsgrönt klättrar vi upp på taken i   Landskrona och tittar på nyttoodling i mikroformat hemma hos Sarah   Emerly, vi hälsar på Camilla Thomasson i Lund och ser vad som hänt på   hennes balkong under sommaren, och så pratar vi om framtidens odlande   med  Kenneth Lorentzon, forskare och lärare på Statens   Lantbruksuniversitet på Alnarp.  Programledare och producent Petra Quiding.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1925337.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090831040026.mp3</guid>
+                    <pubDate>Mon, 31 Aug 2009 14:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>I säsongen sista Odla med Stadsgrönt klättrar vi upp på taken i   Landskrona och tittar på nyttoodling i mikroformat hemma hos Sarah   Emerly, vi hälsar på Camilla Thomasson i Lund och ser vad som hänt på   hennes balkong under sommaren, och så pratar vi om framtidens odlande   med  Kenneth Lorentzon, forskare och lärare på Statens   Lantbruksuniversitet på Alnarp.  Programledare och producent Petra Quiding.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,stadsgrönt,20090831</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1925337.mp3" length="17676539" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 20090803</title>
+                    <description>Odla med Stadsgrönt lämnar sommarsolen och går inomhus. För alla som   av olika skäl inte kan odla ute. Gäst i programmet är Tora Rådberg,   hortonom och permakulturdesigner som tipsar om hur man odlar bäst   hemma på liten yta. Vår reporter Åsa Kjellman Erici  har träffat   parkettodlaren Malin Nilsson Norén i Uppsala som visar sin   maskkompost i lägenheten. Programledare och producent Petra Quiding</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1879724.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090803110129.mp3</guid>
+                    <pubDate>Mon, 03 Aug 2009 09:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt lämnar sommarsolen och går inomhus. För alla som   av olika skäl inte kan odla ute. Gäst i programmet är Tora Rådberg,   hortonom och permakulturdesigner som tipsar om hur man odlar bäst   hemma på liten yta. Vår reporter Åsa Kjellman Erici  har träffat   parkettodlaren Malin Nilsson Norén i Uppsala som visar sin   maskkompost i lägenheten. Programledare och producent Petra Quiding</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,20090803</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1879724.mp3" length="17909760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 20090706</title>
+                    <description>Varför är vissa stadsdelar grönare än andra, och hur påverkar det   barnen? Reportage från Sevedsplan i Malmö. Gäster i programmet är trädgårdsingenjör Karina Brozinic och   slottsträdgårdsmästare John Taylor från Malmö. Programledare Petra Quiding.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1835005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090706110041.mp3</guid>
+                    <pubDate>Mon, 06 Jul 2009 09:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Varför är vissa stadsdelar grönare än andra, och hur påverkar det   barnen? Reportage från Sevedsplan i Malmö. Gäster i programmet är trädgårdsingenjör Karina Brozinic och   slottsträdgårdsmästare John Taylor från Malmö. Programledare Petra Quiding.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,20090706</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1835005.mp3" length="17863993" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 20090608</title>
+                    <description>Temabalkong och gourmetodling.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1799502.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090615090018.mp3</guid>
+                    <pubDate>Mon, 15 Jun 2009 07:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Temabalkong och gourmetodling.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,20090608</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1799502.mp3" length="17861799" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 20090511</title>
+                    <description>Hur planerar man sin odling på innegården? Vilka växter trivs bäst och hur håller man sams med grannarna när det ska skötas om? Det handlar Odla med Stadsgrönt om idag. Men vi ska också ut med ett riktig gerilla odlare, men hur förbjudet är det egentligen att sätta egna lökar i parken? Reportage och gäster.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1741389.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090511110054.mp3</guid>
+                    <pubDate>Mon, 11 May 2009 09:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Hur planerar man sin odling på innegården? Vilka växter trivs bäst och hur håller man sams med grannarna när det ska skötas om? Det handlar Odla med Stadsgrönt om idag. Men vi ska också ut med ett riktig gerilla odlare, men hur förbjudet är det egentligen att sätta egna lökar i parken? Reportage och gäster.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,20090511</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1741389.mp3" length="17791582" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odla med Stadsgrönt 20090413</title>
+                    <description>Odla med Stadsgrönt är ett odlingsprogram för stadsbor. Vi tipsar om exotiska växter och om vad man kan odla på balkonen om man är lat.  Reportage och röster från Landskrona, Lund och Stockholm. Programledare Petra Quiding.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1697614.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_stadsgront_090414050006.mp3</guid>
+                    <pubDate>Tue, 14 Apr 2009 15:00:00 GMT</pubDate>
+                    <programid>3411</programid>
+                    <poddid>7508</poddid>
+                    <itunes:summary>Odla med Stadsgrönt är ett odlingsprogram för stadsbor. Vi tipsar om exotiska växter och om vad man kan odla på balkonen om man är lat.  Reportage och röster från Landskrona, Lund och Stockholm. Programledare Petra Quiding.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Odla,med,stadsgrönt,-,sänds,inte,längreOdla,med,Stadsgrönt,20090413</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1697614.mp3" length="17649580" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

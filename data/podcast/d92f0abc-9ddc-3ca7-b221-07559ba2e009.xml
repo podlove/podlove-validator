@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:33:01 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.17"/>
+        <httpclient:header name="X-Pingback" value="http://lookingsideways.net/wp-lookingsideways/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;0257c9ff16e368117c9c1d17c0855a2f&#34;"/>
+        <httpclient:header name="Last-Modified" value="Mon, 04 Aug 2014 08:51:40 GMT"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+            <channel>
+                <title>Looking Sideways Podcast</title>
+                <atom:link href="http://lookingsideways.net/feed/podcast" rel="self" type="application/rss+xml"/>
+                <link>http://lookingsideways.net</link>
+                <description>A podcast about ideas, technology, making and doing interesting things.</description>
+                <lastBuildDate>Mon, 04 Aug 2014 08:51:40 +0000</lastBuildDate>
+                <language>en-GB</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.8" mode="advanced" -->
+                <itunes:summary>Conversations with smart people who do interesting things. Makers and maker culture, innovation and creativity, design, art, making stuff happen, technology and probably coffee too.</itunes:summary>
+                <itunes:author>Looking Sideways Podcast</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                <itunes:owner>
+                    <itunes:name>Looking Sideways Podcast</itunes:name>
+                    <itunes:email>andrew.sleigh@gmail.com</itunes:email>
+                </itunes:owner>
+                <managingEditor>andrew.sleigh@gmail.com (Looking Sideways Podcast)</managingEditor>
+                <copyright>Andrew Sleigh</copyright>
+                <itunes:subtitle>A podcast about ideas, technology, making and doing interesting things.</itunes:subtitle>
+                <image>
+                    <title>Looking Sideways Podcast</title>
+                    <url>http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg</url>
+                    <link>http://lookingsideways.net</link>
+                </image>
+                <itunes:category text="Arts">
+                    <itunes:category text="Design"/>
+                </itunes:category>
+                <rawvoice:location>Brighton, UK</rawvoice:location>
+                <rawvoice:frequency>Monthly</rawvoice:frequency>
+                <item>
+                    <title>11 – Mitch Altman</title>
+                    <link>http://lookingsideways.net/episode/11</link>
+                    <comments>http://lookingsideways.net/episode/11#comments</comments>
+                    <pubDate>Wed, 25 Jun 2014 16:00:49 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1713</guid>
+                    <description>In a special episode of Looking Sideways, I talk with inventor, hackspace evangelist and all-round legend, Mitch Altman, about how he became a maker, the origins of the pioneering Noisebridge hackerspace in San Francisco, the enduring appeal of the soldering iron, how to start your own hackerspace &amp;#8230; and of course, the importance of doing [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img src="http://andrewsleigh.com/wp/wp-content/uploads/2014/06/682px-Mitch_Altman_Chaos_Communication_Camp_2011-199x300.jpg" alt="Mitch Altman (Photo by Alexander Klink)" title="Mitch Altman (Photo by Alexander Klink)" class="alignright size-medium wp-image-1716" /&gt;In a special episode of Looking Sideways, I talk with inventor, hackspace evangelist and all-round legend, Mitch Altman, about how he became a maker, the origins of the pioneering Noisebridge hackerspace in San Francisco, the enduring appeal of the soldering iron, how to start your own hackerspace &amp;#8230; and of course, the importance of doing what you love.&lt;span id="more-1713"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;If you get the opportunity to hear Mitch talk, or take part in one of his soldering is easy workshops (or anyone else’s &amp;#8216;soldering is easy&amp;#8217; workshop, for that matter) I’d thoroughly recommend it.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=WkiX7R1-kaY"&gt;Mitch’s hackerspaces talk at TEDx Brussels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mightyohm.com/blog/2011/04/soldering-is-easy-comic-book/"&gt;Soldering is Easy comic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.flickr.com/photos/maltman23/"&gt;Mitch’s photos of (amongst other things) people soldering on Flickr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cornfieldelectronics.com/cfe/cfe.main.php"&gt;Mitch’s company: Cornfield Electronics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cornfieldelectronics.com/tvbgone/"&gt;TV-B-Gone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ccc.de/en/home"&gt;Chaos Computer Club&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hackerspaces.org/wiki/Design_Patterns"&gt;Hackerspace Design Patterns&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Photo credit: &lt;a href="http://en.wikipedia.org/wiki/File:Mitch_Altman_Chaos_Communication_Camp_2011.jpg"&gt;Alexander Klink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And don’t forget to watch out for the accompanying article in the next issue of &lt;a href="http://www.makerfairebrighton.com/zine/"&gt;Hot Glue&lt;/a&gt; zine.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/11/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode11-Mitch_Altman.mp3" length="51949483" type="audio/mpeg"/>
+                    <itunes:keywords>hackspace, hackerspace, Noisebridge, soldering</itunes:keywords>
+                    <itunes:subtitle>How to start a hackerspace, the zen of soldering, and the importance of doing what you love</itunes:subtitle>
+                    <itunes:summary>In a special episode of Looking Sideways, I talk with inventor, hackspace evangelist and all-round legend, Mitch Altman, about how he became a maker, the origins of the pioneering Noisebridge hackerspace in San Francisco, the enduring appeal of the soldering iron, how to start your own hackerspace ... and of course, the importance of doing what you love.
+
+If you get the opportunity to hear Mitch talk, or take part in one of his soldering is easy workshops (or anyone else’s 'soldering is easy' workshop, for that matter) I’d thoroughly recommend it.
+
+
+Links for this episode
+
+	Mitch’s hackerspaces talk at TEDx Brussels
+	Soldering is Easy comic
+	Mitch’s photos of (amongst other things) people soldering on Flickr
+	Mitch’s company: Cornfield Electronics
+	TV-B-Gone
+	Chaos Computer Club
+	Hackerspace Design Patterns
+
+Photo credit: Alexander Klink
+
+And don’t forget to watch out for the accompanying article in the next issue of Hot Glue zine.</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:02:59</itunes:duration>
+                </item>
+                <item>
+                    <title>10 — Ross Atkin</title>
+                    <link>http://lookingsideways.net/episode/10</link>
+                    <comments>http://lookingsideways.net/episode/10#comments</comments>
+                    <pubDate>Wed, 28 May 2014 13:17:12 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1708</guid>
+                    <description>How do humans create order out of chaos? Why are we always tidying up? And why doesn’t nature bother? What can we learn from natural systems about creating meaning in the physical world, and what’s this got to do with the internet of things? All these questions are answered in this episode of Looking Sideways, [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;How do humans create order out of chaos? Why are we always tidying up? And why doesn’t nature bother? What can we learn from natural systems about creating meaning in the physical world, and what’s this got to do with the internet of things? &lt;span id="more-1708"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All these questions are answered in this episode of Looking Sideways, the world’s most partially informed podcast.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://schedule.sxsw.com/2014/events/event_IAP22490"&gt;Ross Atkin at SXSW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rossatkin.com/sxsw14talk"&gt;Ross&amp;#8217;s slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Nicolas_Léonard_Sadi_Carnot"&gt;Nicolas Léonard Sadi Carnot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Reflections_on_the_Motive_Power_of_Fire"&gt;Reflections on the Motive Power of Fire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Two_Cultures"&gt;CP Snow on the Second Law of Thermodynamics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thingsorganizedneatly.tumblr.com"&gt;Things Organised Neatly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thetileapp.com"&gt;Tiles &amp;#8211; bluetooth tags for objects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.radiolab.org/story/brown-box/"&gt;Radiolab on fulfilment warehouses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rgbdtoolkit.com"&gt;RGBD Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vitaminsdesign.com/projects/lego-calendar/"&gt;Lego Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rossatkin.com/sightline/"&gt;Ross&amp;#8217;s accessible street furniture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.wired.co.uk/news/archive/2013-08/09/recycling-bins-are-watching-you"&gt;Bins gathering MAC addresses in London&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=VXzFp1lshBE&amp;amp;feature=kp"&gt;Guns don’t kill people rappers do&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/10/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode10-Ross_Atkin.mp3" length="67790242" type="audio/mpeg"/>
+                    <itunes:keywords>entropy, iot, internet of things, thermodynamics, design, chaos, order, tidying up</itunes:keywords>
+                    <itunes:subtitle>I talk with designer and engineer, Ross Atkin, about entropy, chaos, tidying up, and the internet of things.</itunes:subtitle>
+                    <itunes:summary>How do humans create order out of chaos? Why are we always tidying up? And why doesn’t nature bother? What can we learn from natural systems about creating meaning in the physical world, and what’s this got to do with the internet of things? 
+
+All these questions are answered in this episode of Looking Sideways, the world’s most partially informed podcast.
+
+
+Links for this episode
+
+	Ross Atkin at SXSW
+	Ross's slides
+	Nicolas Léonard Sadi Carnot
+	Reflections on the Motive Power of Fire
+	CP Snow on the Second Law of Thermodynamics
+	Things Organised Neatly
+	Tiles - bluetooth tags for objects
+	Radiolab on fulfilment warehouses
+	RGBD Toolkit
+	Lego Calendar
+	Ross's accessible street furniture
+	Bins gathering MAC addresses in London
+	Guns don’t kill people rappers do</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>56:12</itunes:duration>
+                </item>
+                <item>
+                    <title>9 — Christian Hambly</title>
+                    <link>http://lookingsideways.net/episode/9</link>
+                    <comments>http://lookingsideways.net/episode/9#comments</comments>
+                    <pubDate>Mon, 06 Jan 2014 20:56:15 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1702</guid>
+                    <description>In this episode, I talk to Christian Hambly, and we explore that territory seemingly always on the geek horizon: Coffee. From espresso machines to domestic brew methods, denaturation to decaffeination, John Gruber to George Clooney, we map out pretty much the whole domain in 55 minutes. If you’re a long-standing coffee nut (‘bean’?), my ill-informed [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="alignright  wp-image-1703" title="christian" src="http://andrewsleigh.com/wp/wp-content/uploads/2014/01/christian.jpg" alt="" width="256" height="263" /&gt;In this episode, I talk to Christian Hambly, and we explore that territory seemingly always on the geek horizon: Coffee.&lt;/p&gt;
+&lt;p&gt;From espresso machines to domestic brew methods, denaturation to decaffeination, John Gruber to George Clooney, we map out pretty much the whole domain in 55 minutes. If you’re a long-standing coffee nut (‘bean’?), my ill-informed questions will infuriate you, but if, like me, you’re just setting out on this voyage, Christian’s expertise and enthusiasm will guide you to the promised land.&lt;span id="more-1702"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;And rest assured, you won’t have to endure any of these metaphors during the show.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://5by5.tv/talkshow/87"&gt;The Talk Show&lt;/a&gt;: John Gruber’s 3 keys to internet success&lt;/li&gt;
+&lt;li&gt;Brighton coffee shops: &lt;a href="http://smallbatchcoffee.co.uk"&gt;Small Batch Coffee&lt;/a&gt; and &lt;a href="http://www.taylor-st.com"&gt;Taylor Street Baristas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Christian Hambly’s &lt;a href="http://mkgeeknight.co.uk/past"&gt;talk at MK Geek Night&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://aerobie.com/products/aeropress.htm"&gt;Aeropress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brewmethods.com"&gt;Brew methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coffee bean suppliers: &lt;a href="http://www.hasbean.co.uk"&gt;Has Bean Coffee&lt;/a&gt;,&lt;br /&gt;
+&lt;a href="http://www.jamesgourmetcoffee.com"&gt;James&amp;#8217; Gourmet Coffee&lt;/a&gt; and &lt;a href="http://shop.squaremilecoffee.com"&gt;Square Mile Coffee Roasters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Christian&amp;#8217;s &lt;a href="http://www.mahlkoenig.com/en_products/VARIO-home.html/?setLanguage=en_EN"&gt;Mahlkonig Vario coffee grinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chemexcoffeemaker.com"&gt;Chemex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Christian’s &lt;a href="http://www.christianhambly.co.uk"&gt;website&lt;/a&gt; and &lt;a href="https://twitter.com/ChristianHambly"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;Since we recorded this show, I’ve bought a coffee grander, a&lt;br /&gt;
+&lt;a href="http://www.amazon.co.uk/gp/product/B001804CLY/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B001804CLY&amp;amp;linkCode=as2&amp;amp;tag=andrewsleighcom"&gt;Hario Ceramic Slim mill&lt;/a&gt;&lt;img style="border: none !important; margin: 0px !important;" src="http://ir-uk.amazon-adsystem.com/e/ir?t=andrewsleighcom&amp;amp;l=as2&amp;amp;o=2&amp;amp;a=B001804CLY" alt="" width="1" height="1" border="0" /&gt; (UK affiliate link) and some beans. So hopefully we&amp;#8217;ll be able to record a follow up episode and go a little deeper.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/9/feed</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode9-Christian_Hambly.mp3" length="52751671" type="audio/mpeg"/>
+                    <itunes:keywords>coffee, beans, aeropress, geek, grinder, espresso</itunes:keywords>
+                    <itunes:subtitle>Finally, we take a sideways look at coffee, brew methods, and the law of diminishing returns</itunes:subtitle>
+                    <itunes:summary>In this episode, I talk to Christian Hambly, and we explore that territory seemingly always on the geek horizon: Coffee.
+
+From espresso machines to domestic brew methods, denaturation to decaffeination, John Gruber to George Clooney, we map out pretty much the whole domain in 55 minutes. If you’re a long-standing coffee nut (‘bean’?), my ill-informed questions will infuriate you, but if, like me, you’re just setting out on this voyage, Christian’s expertise and enthusiasm will guide you to the promised land.
+
+And rest assured, you won’t have to endure any of these metaphors during the show.
+
+Links for this episode
+
+	The Talk Show: John Gruber’s 3 keys to internet success
+	Brighton coffee shops: Small Batch Coffee and Taylor Street Baristas
+	Christian Hambly’s talk at MK Geek Night
+	Aeropress
+	Brew methods
+	Coffee bean suppliers: Has Bean Coffee,
+James' Gourmet Coffee and Square Mile Coffee Roasters
+	Christian's Mahlkonig Vario coffee grinder
+	Chemex
+	Christian’s website and Twitter
+
+
+
+
+Since we recorded this show, I’ve bought a coffee grander, a
+Hario Ceramic Slim mill (UK affiliate link) and some beans. So hopefully we'll be able to record a follow up episode and go a little deeper.</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>54:35</itunes:duration>
+                </item>
+                <item>
+                    <title>8 — Sarah Angliss</title>
+                    <link>http://lookingsideways.net/episode/8</link>
+                    <comments>http://lookingsideways.net/episode/8#comments</comments>
+                    <pubDate>Tue, 10 Dec 2013 17:28:17 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1695</guid>
+                    <description>Sarah Angliss is a composer and performer, writer and historian, roboticist and maker of musical instruments and automata. I caught up with her in the basement of Bom-Banes café in Brighton&amp;#8217;s Kemp Town to find out what lies behind her eerie performances and historically-influenced music. We talked about the discomfort of new technology, and nostalgia [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;Sarah Angliss is a composer and performer, writer and historian, roboticist and maker of musical instruments and automata. I caught up with her in the basement of Bom-Banes café in Brighton&amp;#8217;s Kemp Town to find out what lies behind her eerie performances and historically-influenced music. We talked about the discomfort of new technology, and nostalgia for old; performance, magic and jeopardy; and the value of physical things in a world being eaten by software.&lt;span id="more-1695"&gt;&lt;/span&gt;  &lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src="http://andrewsleigh.com/wp/wp-content/uploads/2013/12/sarah-angliss.jpg" alt="" title="sarah-angliss" class="alignnone size-full wp-image-1697" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;&lt;a href="http://www.flickr.com/photos/37996583811@N01/6111270089/in/pool-bmmf/"&gt;Sarah performing at Hugo onstage at the 2011 Brighton Mini Maker Faire after-party, with Hugo&lt;/a&gt;. Photo by &lt;a href="http://www.flickr.com/photos/37996583811@N01/"&gt;Rain Rabbit&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://bom-banes.com"&gt;Jane Bom-Banes café in Brighton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sarahangliss.com/talks"&gt;Sarah talking about machine music and clog dancing at TEDx Brighton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.flickr.com/photos/37996583811@N01/6111270089/in/pool-bmmf/"&gt;Hugo onstage at the 2011 Brighton Mini Maker Faire after-party&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0037635/"&gt;Dead of Night (1945) on IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bl.uk/onlinegallery/onlineex/voiceshist/flonight/"&gt;Florence Nightingale voice recording&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.esquire.com/features/google-glass-tests-1213"&gt;Google Glass: What You&amp;#8217;re Not Supposed To Do&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bbc.co.uk/programmes/b03f92q7"&gt;Radio 4&amp;#8242;s Digital Human &amp;#8211; Value&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://online.wsj.com/news/articles/SB10001424053111903480904576512250915629460"&gt;Marc Andreessen: Why Software Is Eating The World&lt;/a&gt; — and the &lt;a href="http://paulgraham.com/hw.html"&gt;hardware startup renaissance&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ixi-software.net/thor/"&gt;Thor Magnusson live coding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&amp;amp;BOparam::WScontent::loadArticle::article_id=72EAAFD1-F54B-45FA-AF97-3EDFAF8FA445&amp;amp;BOparam::WScontent::loadArticle::context_id=5BC48E73-4E63-493D-AE4C-704BBD4D61AE"&gt;Sarah with Spacedog at the BFI: Music for Silent Gothic Treasures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://soundcloud.com/spacedoguk/sets/sarah-angliss-music-samples-1"&gt;Sarah on Soundcloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sarahangliss.com/buymusic"&gt;Sarah&amp;#8217;s last album with Spacedog and Belbury Poly: Message and Method&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://boomkat.com/vinyl/785006-jon-brooks-pye-corner-audio-moon-wiring-club-time-attendant-sarah-angliss-down-to-the-silver-sea"&gt;Down to the Silver Sea compilation&lt;/a&gt; featuring Jon Brooks, Pye Corner Audio, Moon Wiring Club, Time Attendant and Sarah Angliss on Boomkat&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.nerdydaytrips.com"&gt;Nerdy Day Trips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.secretnuclearbunker.com"&gt;Kelvedon Hatch Secret Nuclear Bunker&lt;/a&gt; in Essex&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brightondome.org/event/4727/stewart_lee_friends/"&gt;Stewart Lee &amp;amp; Friends: celebrating the music of Nick Pynn&lt;/a&gt; – featuring Jane Bom-Bane, at the Brighton Dome, 23 March 2014&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/8/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode8-Sarah_Angliss.mp3" length="40887770" type="audio/mpeg"/>
+                    <itunes:keywords>maker, space dog, eerie, clogs, bmmf</itunes:keywords>
+                    <itunes:subtitle>Sarah Angliss is a composer and performer, writer and historian, roboticist and maker of musical instruments and automata.</itunes:subtitle>
+                    <itunes:summary>I caught up with Sarah Angliss to find out what lies behind her eerie performances and historically-influenced music. We talked about the discomfort of new technology, and nostalgia for old; performance, magic and jeopardy; and the value of physical things in a world being eaten by software.</itunes:summary>
+                    <itunes:author>Andrew Sleigh</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>42:13</itunes:duration>
+                </item>
+                <item>
+                    <title>7 — Emma Rose Metcalfe</title>
+                    <link>http://lookingsideways.net/episode/7</link>
+                    <comments>http://lookingsideways.net/episode/7#comments</comments>
+                    <pubDate>Thu, 05 Dec 2013 14:31:14 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1662</guid>
+                    <description>Emma Rose Metcalfe is the co-founder of How.Do, an app and platform that lets you share how to do things. We spoke about the user experience of sharing. How does sharing projects stop us from doing projects? How can we share collaborative experiences? Who holds the camera? How do constraints improve the sharing experience? And [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="alignright  wp-image-1663" title="emma-rose-metcalfe" src="http://andrewsleigh.com/wp/wp-content/uploads/2013/12/emma-rose-metcalfe.jpg" alt="" width="384" height="256" /&gt;Emma Rose Metcalfe is the co-founder of How.Do, an app and platform that lets you share how to do things.&lt;/p&gt;
+&lt;p&gt;We spoke about the user experience of sharing. How does sharing projects stop us from &lt;em&gt;doing&lt;/em&gt; projects? How can we share collaborative experiences? Who holds the camera? How do constraints improve the sharing experience? And how do sharing platforms create new kinds of narrative?&lt;/p&gt;
+&lt;p&gt;We also talked about value in a sharing system? How does a social network or sharing platform make money? Why do people share, and what do they get out of it? When can advertising be valuable?&lt;/p&gt;
+&lt;p&gt;And how can tools like How.Do work in other contexts, such as education? What happens when you let people find their own uses for technology?&lt;span id="more-1662"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://how.do"&gt;How.Do&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://fiverr.com"&gt;Fiverr&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/7/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode7-Emma_Rose_Metcalfe.mp3" length="46119871" type="audio/mpeg"/>
+                    <itunes:subtitle>Emma Rose Metcalfe is the co-founder of How.Do, an app and platform that lets you share how to do things.  We spoke about the user experience of sharing. How does sharing projects stop us from doing projects? How can we share collaborative experiences?</itunes:subtitle>
+                    <itunes:summary>Emma Rose Metcalfe is the co-founder of How.Do, an app and platform that lets you share how to do things.
+
+We spoke about the user experience of sharing. How does sharing projects stop us from doing projects? How can we share collaborative experiences? Who holds the camera? How do constraints improve the sharing experience? And how do sharing platforms create new kinds of narrative?
+
+We also talked about value in a sharing system? How does a social network or sharing platform make money? Why do people share, and what do they get out of it? When can advertising be valuable?
+
+And how can tools like How.Do work in other contexts, such as education? What happens when you let people find their own uses for technology?
+
+
+
+
+Links for this episode
+
+How.Do
+Fiverr</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>6 — Leila Johnston</title>
+                    <link>http://lookingsideways.net/episode/6</link>
+                    <comments>http://lookingsideways.net/episode/6#comments</comments>
+                    <pubDate>Thu, 28 Nov 2013 20:44:26 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1651</guid>
+                    <description>It&amp;#8217;s episode 6! We&amp;#8217;re officially into the high single digits. In this episode, I speak to writer, publisher, producer, maker and all round difficult-to-pigeonhole person, Leila Johnston. We talk about play, and making for the sake of it; that bit in the venn diagram where geeks and sci-fi cross over; the future, and what it [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="alignright  wp-image-1652" title="Leila Johnston and Brodie" src="http://andrewsleigh.com/wp/wp-content/uploads/2013/11/bwbrodiebus.jpg" alt="" width="200" height="200" /&gt;It&amp;#8217;s episode 6! We&amp;#8217;re officially into the high single digits. In this episode, I speak to writer, publisher, producer, maker and all round difficult-to-pigeonhole person, Leila Johnston. We talk about play, and making for the sake of it; that bit in the venn diagram where geeks and sci-fi cross over; the future, and what it means without the past; grassroots movements and the consumer experience; coding because you have to, and experts vs ignorance. &lt;span id="more-1651"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Plus – in what is becoming a regular feature – more holiday tips.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;
+
+&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://hackcircus.com"&gt;Hack Circus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sandy Noble&amp;#8217;s &lt;a href="http://www.polargraph.co.uk/2013/09/new-boards-and-hack-circus/"&gt;Linear Clock&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Leila at &lt;a href="http://tedxbrighton.com/leila-johnston/"&gt;TEDx Brighton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.games-workshop.com/"&gt;Warhammer and Warhammer 40K&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.wired.co.uk/magazine/archive/2011/08/play/uncanny-orchestra"&gt;Sarah Angliss in Wired&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.bigfug.com/blog/horizons-sinclair-zx-spectrum/"&gt;Alex May on the ZX Spectrum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Holiday tips! &lt;a href="http://en.wikipedia.org/wiki/Denge"&gt;Acoustic Mirrors&lt;/a&gt; at Dungeoness, and &lt;a href="http://en.wikipedia.org/wiki/Goonhilly_Satellite_Earth_Station "&gt;Goonhilly Satellite Earth Station&lt;/a&gt;, Lizard Peninsula&lt;/li&gt;
+&lt;li&gt;Leila&amp;#8217;s website, &lt;a href="http://finalbullet.com"&gt;Finalbullet.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/6/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode6-Leila_Johnston.mp3" length="41959797" type="audio/mpeg"/>
+                    <itunes:keywords>Maker, Leila Johnston, Hack Circus, Sci-fi, fantasy, geek holiday tips</itunes:keywords>
+                    <itunes:subtitle>I speak with Leila Johnston about play, sci-fi, Warhammer, consumerism and not knowing how to do stuff.</itunes:subtitle>
+                    <itunes:summary>In this episode, I speak to writer, publisher, producer, maker and all round difficult-to-pigeonhole person, Leila Johnston. We talk about play, and making for the sake of it; that bit in the venn diagram where geeks and sci-fi cross over; the future, and what it means without the past; grassroots movements and the consumer experience; coding because you have to, and experts vs ignorance.</itunes:summary>
+                    <itunes:author>Andrew Sleigh</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>43:37</itunes:duration>
+                </item>
+                <item>
+                    <title>5 — Ivan Pope</title>
+                    <link>http://lookingsideways.net/episode/5</link>
+                    <comments>http://lookingsideways.net/episode/5#comments</comments>
+                    <pubDate>Sun, 06 Oct 2013 16:57:29 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1550</guid>
+                    <description>I met up with Ivan Pope at his new makespace, Fabrivan, tucked away behind London Road, a low-rent shopping street on the edges of Brighton city centre. Fabrivan is Ivan’s latest experiment in future technology – a makespace designed to be accessible and welcoming, and to support experimentation. We spoke about making makespaces accessible, developing [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img src="http://andrewsleigh.com/wp/wp-content/uploads/2013/10/IMG_0907-300x199.jpg" alt="" title="Ivan watching over the 3D printer at Fabrivan" class="alignright size-medium wp-image-1554" /&gt;I met up with Ivan Pope at his new makespace, Fabrivan, tucked away behind London Road, a low-rent shopping street on the edges of Brighton city centre. Fabrivan is Ivan’s latest experiment in future technology – a makespace designed to be accessible and welcoming, and to support experimentation. We spoke about making makespaces accessible, developing business models, and the importance of diving into things before you&amp;#8217;re ready.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://fabrivan.com/"&gt;Fabrivan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ivan_Pope"&gt;Ivan on Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/5/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode-5-Ivan-Pope.mp3" length="40925271" type="audio/mpeg"/>
+                    <itunes:subtitle>I met up with Ivan Pope at his new makespace, Fabrivan, tucked away behind London Road, a low-rent shopping street on the edges of Brighton city centre. Fabrivan is Ivan’s latest experiment in future technology – a makespace designed to be accessible a...</itunes:subtitle>
+                    <itunes:summary>I met up with Ivan Pope at his new makespace, Fabrivan, tucked away behind London Road, a low-rent shopping street on the edges of Brighton city centre. Fabrivan is Ivan’s latest experiment in future technology – a makespace designed to be accessible and welcoming, and to support experimentation. We spoke about making makespaces accessible, developing business models, and the importance of diving into things before you're ready.
+
+
+
+
+Links for this episode
+
+
+	Fabrivan
+        Ivan on Wikipedia</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>35:56</itunes:duration>
+                </item>
+                <item>
+                    <title>4 — Chris Thorpe</title>
+                    <link>http://lookingsideways.net/episode/4</link>
+                    <comments>http://lookingsideways.net/episode/4#comments</comments>
+                    <pubDate>Mon, 10 Jun 2013 20:37:07 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <category>3D Printing</category>
+                    <category>maker</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1400</guid>
+                    <description>In episode 4, I caught up with Chris Thorpe from Flexiscale, a small UK startup making 3D models of the great steam engines of the first industrial revolution. He filled me in on how they&amp;#8217;re testing new ways of manufacturing, how they laser scan an entire locomotive, and what we can learn from the Victorians [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="alignright  wp-image-1389" title="Chris Thorpe" src="http://andrewsleigh.com/wp/wp-content/uploads/2013/06/headshot-300x300.jpg" alt="" width="180" height="180" /&gt;In episode 4, I caught up with Chris Thorpe from &lt;a href="http://www.flexiscale.co"&gt;Flexiscale&lt;/a&gt;, a small UK startup making 3D models of the great steam engines of the first industrial revolution. He filled me in on how they&amp;#8217;re testing new ways of manufacturing, how they laser scan an entire locomotive, and what we can learn from the Victorians about making, modifying and improving the stuff around us.&lt;span id="more-1400"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve written up some of the podcast &lt;a href="http://andrewsleigh.com/1388"&gt;on the blog&lt;/a&gt;. You can hear the full interview here.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.flexiscale.co"&gt;The Flexiscale Company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kickstarter.com/projects/theflexiscaleco/3d-printed-kits-of-the-ffestiniog-englands-from-la"&gt;Flexiscale on Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.digitalsurveys.co.uk/view_case_study/13/steam-engine-3d-laser-scan-to-3d-print"&gt;Digital Surveys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.kamermaker.com"&gt;KamerMaker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://doriantaylor.com/pull-requests"&gt;Pull requests in software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/fredwilson/status/159937127780585472"&gt;Fred Wilson: Kickstarter is a futures market for products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Flexiscale on &lt;a href="https://twitter.com/theflexiscaleco"&gt;Twitter&lt;/a&gt; and &lt;a href="https://www.facebook.com/theflexiscaleco"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.wired.com/design/2013/02/flexiscale-model-trains/"&gt;Flexiscale in Wired&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/4/feed</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode4-Chris_Thorpe-Flexiscale.mp3" length="47309951" type="audio/mpeg"/>
+                    <itunes:keywords>3D Printing,maker</itunes:keywords>
+                    <itunes:subtitle>In episode 4, I caught up with Chris Thorpe from Flexiscale, a small UK startup making 3D models of the great steam engines of the first industrial revolution. He filled me in on how they're testing new ways of manufacturing,</itunes:subtitle>
+                    <itunes:summary>In episode 4, I caught up with Chris Thorpe from Flexiscale, a small UK startup making 3D models of the great steam engines of the first industrial revolution. He filled me in on how they're testing new ways of manufacturing, how they laser scan an entire locomotive, and what we can learn from the Victorians about making, modifying and improving the stuff around us.
+
+I've written up some of the podcast on the blog. You can hear the full interview here.
+
+Links for this episode
+
+	The Flexiscale Company
+	Flexiscale on Kickstarter
+	Digital Surveys
+	KamerMaker
+	Pull requests in software
+	Fred Wilson: Kickstarter is a futures market for products
+	Flexiscale on Twitter and Facebook
+	Flexiscale in Wired</itunes:summary>
+                    <itunes:author>Looking Sideways Podcast</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>3 — Brendan Dawes</title>
+                    <link>http://lookingsideways.net/episode/3</link>
+                    <comments>http://lookingsideways.net/episode/3#comments</comments>
+                    <pubDate>Fri, 17 May 2013 16:13:25 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1322</guid>
+                    <description>For Episode 3, I interviewed the designer and maker Brendan Dawes. Brendan&amp;#8217;s known for early interactive web projects like Psycho Studio, that allows users to remix Hitchcock&amp;#8217;s famous shower scene themselves. He&amp;#8217;s also known for his physical projects, such as the Moviepeg and Popa phone accessories, and devices that cross the digital/physical divide, such as [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;For Episode 3, I interviewed the designer and maker Brendan Dawes. Brendan&amp;#8217;s known for early interactive web projects like Psycho Studio, that allows users to remix Hitchcock&amp;#8217;s famous shower scene themselves. He&amp;#8217;s also known for his physical projects, such as the Moviepeg and Popa phone accessories, and devices that cross the digital/physical divide, such as the Happiness machine, an internet-connected printer that prints random happy thoughts from people across the web.&lt;/p&gt;
+&lt;p&gt;We talk about making digital stuff tangible, design, art and simplicity, remixes and supercuts, and how makers can get their work out into the world for people to see.&lt;span id="more-1322"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve written up some of the podcast &lt;a href="http://andrewsleigh.com/1321"&gt;on the blog&lt;/a&gt;. You can hear the full interview here.&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;h2&gt;Links for this episode&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://brendandawes.com"&gt;BrendanDawes.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.antirom.com"&gt;Antirom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Programming languages: &lt;a href="http://www.processing.org"&gt;Processing&lt;/a&gt; and &lt;a href="http://www.squirrel-lang.org"&gt;Squirrel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mbed.org"&gt;Mbed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project: &lt;a href="http://brendandawes.com/projects/weatherindicator"&gt;FIDO (Frugal Internet Data Object)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Armin_Hofmann"&gt;Armin Hofmann&lt;/a&gt;: Graphic Design Manual (&lt;a href="http://www.abebooks.co.uk/book-search/title/the-graphic-design-manual/author/armin-hofmann/sortby/3/page-1/"&gt;secondhand&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Project: &lt;a href="http://brendandawes.com/projects/psychostudio"&gt;Psycho Studio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project: &lt;a href="http://brendandawes.com/projects/cinemaredux"&gt;Cinema Redux&lt;/a&gt; (and original &lt;a href="http://arts.guardian.co.uk/fridayreview/story/0,,1172523,00.html"&gt;Guardian article&lt;/a&gt;, and &lt;a href="http://www.moma.org/interactives/exhibitions/2008/elasticmind/"&gt;MoMA exhibition&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.discogs.com/artist/Brendan+J.+Dawes"&gt;Vitamin Beat&lt;/a&gt;, Brendan&amp;#8217;s one-time musical alter ego&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ninjatune.net/artist/coldcut"&gt;Coldcut&lt;/a&gt; and &lt;a href="http://www.steinski.com"&gt;Steinski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://everythingisaremix.info"&gt;Everything is a Remix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://supercut.org"&gt;Supercuts&lt;/a&gt;, in particular &lt;a href="https://vimeo.com/41731718"&gt;Three point landing&lt;/a&gt; and &lt;a href="http://www.youtube.com/watch?v=Vxq9yj2pVWk"&gt;Let&amp;#8217;s enhance&lt;/a&gt; (and &lt;a href="http://www.youtube.com/watch?v=qHepKd38pr0"&gt;my favourite scene from Blade Runner&lt;/a&gt;), and &lt;a href="http://supercut.org/video/531"&gt;Just the breathing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project: &lt;a href="http://brendandawes.com/projects/popa"&gt;Popa&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Project: &lt;a href="http://brendandawes.com/projects/ee"&gt;EE &amp;#8211; Digital city portraits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Brendan on &lt;a href="https://twitter.com/brendandawes"&gt;Twitter&lt;/a&gt; and &lt;a href="http://instagram.com/brendandawes"&gt;Instagram&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/3/feed</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode-3-Brendan-Dawes-Interview.mp3" length="64465108" type="audio/mpeg"/>
+                    <itunes:keywords>maker, brendan, dawes, design</itunes:keywords>
+                    <itunes:subtitle>I talk with Brendan Dawes: designer and maker, and self-confessed 'filler-in of rectangles'.</itunes:subtitle>
+                    <itunes:summary>This week, I interview the designer and maker Brendan Dawes for my podcast, Looking Sideways. We talk about simplicity in art and design, remixing culture and wrestling supercuts, publishing early and the nice things that happen when you get your work out there for the world to see.</itunes:summary>
+                    <itunes:author>Andrew Sleigh</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:07:09</itunes:duration>
+                </item>
+                <item>
+                    <title>2 — Jude Pullen</title>
+                    <link>http://lookingsideways.net/episode/2</link>
+                    <comments>http://lookingsideways.net/episode/2#comments</comments>
+                    <pubDate>Thu, 02 May 2013 20:15:21 +0000</pubDate>
+                    <dc:creator>Andrew</dc:creator>
+                    <category>episode</category>
+                    <category>craft</category>
+                    <category>design</category>
+                    <category>maker</category>
+                    <category>modelling</category>
+                    <category>prototyping</category>
+                    <guid isPermaLink="false">http://andrewsleigh.com/?p=1295</guid>
+                    <description>And so we come to episode 2 of the podcast. Two episodes. That makes it officially a thing. On this episode, I talk with Jude Pullen, a product design engineer, and also the creator of the Design Modelling website, a series of tutorials, techniques and project ideas for working with low cost prototyping materials, mostly [&amp;#8230;]</description>
+                    <content:encoded>&lt;p&gt;And so we come to episode 2 of the podcast. Two episodes. That makes it officially a thing.&lt;/p&gt;
+&lt;p&gt;On this episode, I talk with Jude Pullen, a product design engineer, and also the creator of the &lt;a href="http://www.judepullen.com/designmodelling/"&gt;Design Modelling&lt;/a&gt; website, a series of tutorials, techniques and project ideas for working with low cost prototyping materials, mostly cardboard. Jude also runs live workshops where he shows people how to make models to express and share ideas.&lt;span id="more-1295"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;div class="podcast_player"&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img class="alignnone size-full wp-image-1304" title="Solder Buddy - Looking Sideways" src="http://andrewsleigh.com/wp/wp-content/uploads/2013/05/Solder-Buddy-Looking-Sideways.jpg" alt="" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;cite&gt;Jude&amp;#8217;s Solder Buddy project&lt;/cite&gt;&lt;/p&gt;
+&lt;p&gt;Jude helped me compile the links below, roughly in the same order that we covered this ground in the podcast. Loads of good stuff in here, so do check them out. If you&amp;#8217;re listening, I strongly recommend you check out the &lt;a href="http://www.judepullen.com/designmodelling/"&gt;design modelling website&lt;/a&gt; first, so you know what the hell we&amp;#8217;re talking about.&lt;/p&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;h3&gt;Design modelling&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://www.judepullen.com/designmodelling/"&gt;Design Modelling&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.judepullen.com/designmodelling/about/"&gt;The Beginning of Design Modelling:- IDEO’s Stories of Making&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Influences&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://www.sketch-a-day.com/ "&gt;Spencer Nugent – Sketch-A-Day&lt;/a&gt; and &lt;a href="http://www.idsketching.com/"&gt;ID Sketching&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.channel4.com/programmes/better-by-design"&gt;Better by Design (Seymour &amp;amp; Powell)&lt;/a&gt;&lt;br /&gt;
+Scott Wilson: &lt;a href="http://vimeo.com/44255553"&gt;Bill’s Design Talks&lt;/a&gt; + &lt;a href="http://www.kickstarter.com/projects/1104350651/tiktok-lunatik-multi-touch-watch-kits"&gt;Tik Tok Watch on Kickstarter&lt;/a&gt;&lt;br /&gt;
+Bitsa (BBC TV): &lt;a href="http://youtu.be/RcpnaWxdrtY"&gt;here&lt;/a&gt; and &lt;a href="http://youtu.be/wFJlpWxIXbo"&gt;here&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.heatherwick.com/"&gt;Thomas Heatherwick&lt;/a&gt; &amp;amp; &lt;a href="http://www.amazon.co.uk/gp/product/0500290938/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=0500290938&amp;amp;linkCode=as2&amp;amp;tag=andrewsleighcom"&gt;&amp;#8220;Making&amp;#8221; book&lt;/a&gt;&lt;img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.co.uk/e/ir?t=andrewsleighcom&amp;amp;l=as2&amp;amp;o=2&amp;amp;a=0500290938" alt="" width="1" height="1" border="0" /&gt;&lt;/p&gt;
+&lt;h3&gt;Workshops&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://sugru.com/videos/meet-the-sugru-fixers-design-engineer-and-model-maker-jude-pullen"&gt;Sugru ‘Meet the Makers’ – Video of Design Modelling Workshops&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.judepullen.com/designmodelling/capital-one-earth-day-workshop/ "&gt;Capital One Workshop (Earth Day)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.judepullen.com/designmodelling/ideo-make-a-thon-2013-superhuman/ "&gt;IDEO Make-a-Thon&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Online Projects&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://www.judepullen.com/designmodelling/raspberry-pi-case/"&gt;Raspberry Pi Case (Cardboard)&lt;/a&gt;&lt;br /&gt;
+(Award-Winning) Solder Buddy (Plastic Sheet): &lt;a href="http://www.instructables.com/id/How-to-Make-a-Solder-Buddy-from-sheet-plastic/"&gt;Instructables&lt;/a&gt; &amp;amp; &lt;a href="http://www.youtube.com/playlist?list=PL_Xwha1csAraOCpRq1m-MSm8ZpQKkE9KW "&gt;YouTube&lt;/a&gt; tutorials&lt;br /&gt;
+&lt;a href="http://www.instructables.com/id/Apple-Box-to-Walking-Boot-Carrier-in-5mins-an-end/"&gt;Boot Box (mini project)&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Previous Work&lt;/h3&gt;
+&lt;p&gt;Design work ranging from fire-fighting robots in California to whisky packaging in Norway, and from assistive devices for the elderly of Hong Kong to new product innovation for Dyson, UK&amp;#8221;. &lt;a href="http://www.judepullen.com/"&gt;Portfolio here&lt;/a&gt;.&lt;br /&gt;
+Pressure Alert for an Endotracheal Tube: &lt;a href="http://www.judepullen.com/downloads/Design_Journal_Pressure_Alert_Jude_Pullen.pdf"&gt;Full Design Journal Download&lt;/a&gt; (PDF) and &lt;a href="http://www.judepullen.com/downloads/Anaesthesia_Journal_Publication_Jude_Pullen.pdf"&gt;journal article&lt;/a&gt; (PDF)&lt;/p&gt;
+&lt;h3&gt;Materials&lt;/h3&gt;
+&lt;p&gt;&lt;a href="http://sugru.com/story"&gt;Sugru, and Jane&amp;#8217;s story&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.judepullen.com/designmodelling/new-adventures-in-sugru-branding-needle-files-and-silicone-paintbrushes/"&gt;Design Modelling + Sugru&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.bareconductive.com/ "&gt;Bare Conductive paint&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.qualityfoam.com/plastazote.asp"&gt;Plastazote&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Wood's_metal"&gt;Wood’s Metal&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Hide_glue "&gt;Size (Animal Glue)&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.instituteofmaking.org.uk/"&gt;Institute of Making&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.co.uk/gp/product/0714834491/ref=as_li_ss_tl?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=0714834491&amp;amp;linkCode=as2&amp;amp;tag=andrewsleighcom"&gt;The Art of Looking Sideways&lt;/a&gt;&lt;img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.co.uk/e/ir?t=andrewsleighcom&amp;amp;l=as2&amp;amp;o=2&amp;amp;a=0714834491" alt="" width="1" height="1" border="0" /&gt;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://lookingsideways.net/episode/2/feed</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://media.blubrry.com/lookingsideways/s3-eu-west-1.amazonaws.com/lookingsidewayspodcast/Episode_2-Jude_Pullen-Design_Modelling.mp3" length="43101286" type="audio/mpeg"/>
+                    <itunes:keywords>craft,design,maker,modelling,prototyping</itunes:keywords>
+                    <itunes:subtitle>I talk with Jude Pullen, creator of the &lt;a href="http://www.judepullen.com/designmodelling/"&gt;Design Modelling&lt;/a&gt; website</itunes:subtitle>
+                    <itunes:summary>On this episode, I talk with Jude Pullen, a product design engineer, and also the creator of the &lt;a href="http://www.judepullen.com/designmodelling/"&gt;Design Modelling&lt;/a&gt; website, a series of tutorials, techniques and project ideas for working with low cost prototyping materials, mostly cardboard. Jude also runs live workshops where he shows people how to make models to express and share ideas.</itunes:summary>
+                    <itunes:author>Andrew Sleigh</itunes:author>
+                    <itunes:image href="http://lookingsideways.net/wp-lookingsideways/wp-content/uploads/powerpress/looking-sideways-logo2.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44:48</itunes:duration>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

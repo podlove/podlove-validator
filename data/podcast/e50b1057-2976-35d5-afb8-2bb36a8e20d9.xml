@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="x-amz-id-2" value="AUul1bBfJ7DYNH7rFkoz/shMcHcvaVjENnq40JmSGrVVcJTLrcr+qefQvNFV64rJ"/>
+        <httpclient:header name="x-amz-request-id" value="29E6E073C711BC7F"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:17:44 GMT"/>
+        <httpclient:header name="x-amz-meta-content-md5" value="a2b83b71d4a6af9c2b7df25c2e9923e6"/>
+        <httpclient:header name="Last-Modified" value="Tue, 05 Aug 2014 18:05:09 GMT"/>
+        <httpclient:header name="ETag" value="&#34;a2b83b71d4a6af9c2b7df25c2e9923e6&#34;"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="Content-Length" value="22265"/>
+        <httpclient:header name="Server" value="AmazonS3"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
+            <channel>
+                <title>The Camp Compressor - official eurcamp podcast</title>
+                <link>http://2014.eurucamp.org/podcast</link>
+                <atom:link rel="self" href="http://2014.eurucamp.org/episodes.m4a.rss" type="application/rss+xml" title="M4A Audio"/>
+                <atom:link rel="alternate" href="http://2014.eurucamp.org/episodes.mp3.rss" type="application/rss+xml" title="MP3 Audio"/>
+                <atom:link rel="alternate" href="http://2014.eurucamp.org/episodes.opus.rss" type="application/rss+xml" title="OPUS Audio"/>
+                <language>en-en</language>
+                <generator>gst-kitchen</generator>
+                <copyright>Dirk Breuer, Lucas Dohmen, Bodo Tasche, cc-by-nc-sa</copyright>
+                <itunes:subtitle>The official podcast of the eurucamp 2014</itunes:subtitle>
+                <itunes:author>Dirk Breuer, Lucas Dohmen, Bodo Tasche</itunes:author>
+                <managingEditor>podcast@eurucamp.org (Dirk Breuer, Lucas Dohmen, Bodo Tasche)</managingEditor>
+                <itunes:summary>Whether you could not make our want to remember the eurucamp, The Camp Compressor will try hard to bring this outstanding conference to your ears.</itunes:summary>
+                <itunes:explicit>no</itunes:explicit>
+                <description>Whether you could not make our want to remember the eurucamp, The Camp Compressor will try hard to bring this outstanding conference to your ears.</description>
+                <itunes:owner>
+                    <itunes:name>Dirk Breuer, Lucas Dohmen, Bodo Tasche</itunes:name>
+                    <itunes:email>podcast@eurucamp.org</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://2014.eurucamp.org/source/images/content/podcast/tcc_poster.png"/>
+                <itunes:category text="Technology"/>
+                <itunes:category text="Technology">
+                    <itunes:category text="Gadgets"/>
+                </itunes:category>
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News"/>
+                </itunes:category>
+                <item>
+                    <title>TCC001 - Day One</title>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>Dirk Breuer, Lucas Dohmen, Bodo Tasche</itunes:author>
+                    <itunes:subtitle>Warmup with JRuby Conf, Railsgirls Berlin and some Workshops</itunes:subtitle>
+                    <enclosure url="http://tcc-media.s3-website-eu-west-1.amazonaws.com/episodes/tcc001.m4a" length="60558244" type="audio/x-m4a"/>
+                    <guid isPermaLink="false">TCC001</guid>
+                    <pubDate>Sat, 02 Aug 2014 10:32:48 +0200</pubDate>
+                    <itunes:duration>02:16:02</itunes:duration>
+                    <itunes:summary>**Synopsis:** Today was the first day of eurucamp 2014. It started with a workshop day and it was a very nice and cozy beginning of this conference. But there was not only eurucamp but JRuby Conf EU and a Railsgirls workshop as well. Thus we had the opportunity to speak with a variety of people and to cover a lot of different and interesting topics.
+
+### Intro (00:00:00)
+
+* We introduce ourselves, say "Hello" and explain the concept briefly
+
+### Luca Guidi (00:04:03)
+
+Luca is the creator of the [Lotus](http://lotusrb.org) web framework for Ruby. He gave a workshop in the morning introducing the framework to beginners and more advanced Rubyist alike. We spoke with him about the design concepts behind Lotus, his work on it and what are its benefits compared to other web frameworks.
+
+### Ellen König (00:20:56)
+
+Ellen is a Java developer who loves the Ruby community. She will give a talk about increasing the diversity in our community. In her talk she analyzes the current situation and why it is a problem, then gives some reasons for the current state and finally gives some practical advice on how to improve in that area.
+
+### Frank Webber (00:34:25)
+
+Frank Webber enjoyed his first bottles of Club Mate before talking to us. We talked to him about his talk 'Utils is a junk drawer!'. What is in a junk drawer like that and is it less organized than the rest of your application? There are a lot of gems hidden inside of this drawer. We also talked about the personal toolkit that a developer has and discussed ideas on how to share them with us. We also talked about reading code you don't know.
+
+### Gerdi &amp; Juli (01:10:38)
+
+Gerdi and Juli were at the Rails Girls workshop this entire day. They told us what they learned and shared their excitement about Ruby and Rails development. Juli especially was surprised to learn how welcoming the community is compared to engineering where she originally comes from.
+
+### Eric West (01:17:56)
+
+Eric is a software developer at Lonely Planet. Last year he was one of the students at [Google's Summer of Code](https://developers.google.com/open-source/soc/?csw=1) where he worked on [rsense](https://github.com/rsense/rsense). It is a tool that does static analysis of your source code to determine the types of your Ruby programs. He explained why this is useful and what is involved in building this project.
+
+### Christophe Philemotte (01:35:01)
+
+Christophe from PullReview held a workshop about static code analysis this morning. He explained what it is and told us about the tools he introduced at his workshop. We discussed how you can use it and where it can help you. We also talked about Ruby Burgers, a different kind of Ruby meetup he helps to organize in Belgium.
+
+### Magda, Ute &amp; Jan (02:00:40)
+
+The [Code Padawans](http://code-padawans.de) Magda and Ute and one of their coaches Jan talked about their [Rails Girls Summer of Code](http://railsgirlssummerofcode.org) projects. They explained what RGSoC is and how they got involved in it. They work at [asquera](http://asquera.de) where they learn by doing everything from Scrum to writing their own [testing framework](https://github.com/CodePadawans/nano_padawans_test) in Ruby. We also talked about their upcoming talk at [RedFrog Conf](http://ruby.froscon.org) and Berlin's impressive Rails Girls community.</itunes:summary>
+                    <description>&lt;p&gt;&lt;strong&gt;Synopsis:&lt;/strong&gt; Today was the first day of eurucamp 2014. It started with a workshop day and it was a very nice and cozy beginning of this conference. But there was not only eurucamp but JRuby Conf EU and a Railsgirls workshop as well. Thus we had the opportunity to speak with a variety of people and to cover a lot of different and interesting topics.&lt;/p&gt;
+
+&lt;h3&gt;Intro (00:00:00)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We introduce ourselves, say &amp;quot;Hello&amp;quot; and explain the concept briefly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Luca Guidi (00:04:03)&lt;/h3&gt;
+
+&lt;p&gt;Luca is the creator of the &lt;a href="http://lotusrb.org"&gt;Lotus&lt;/a&gt; web framework for Ruby. He gave a workshop in the morning introducing the framework to beginners and more advanced Rubyist alike. We spoke with him about the design concepts behind Lotus, his work on it and what are its benefits compared to other web frameworks.&lt;/p&gt;
+
+&lt;h3&gt;Ellen König (00:20:56)&lt;/h3&gt;
+
+&lt;p&gt;Ellen is a Java developer who loves the Ruby community. She will give a talk about increasing the diversity in our community. In her talk she analyzes the current situation and why it is a problem, then gives some reasons for the current state and finally gives some practical advice on how to improve in that area.&lt;/p&gt;
+
+&lt;h3&gt;Frank Webber (00:34:25)&lt;/h3&gt;
+
+&lt;p&gt;Frank Webber enjoyed his first bottles of Club Mate before talking to us. We talked to him about his talk &amp;#39;Utils is a junk drawer!&amp;#39;. What is in a junk drawer like that and is it less organized than the rest of your application? There are a lot of gems hidden inside of this drawer. We also talked about the personal toolkit that a developer has and discussed ideas on how to share them with us. We also talked about reading code you don&amp;#39;t know.&lt;/p&gt;
+
+&lt;h3&gt;Gerdi &amp;amp; Juli (01:10:38)&lt;/h3&gt;
+
+&lt;p&gt;Gerdi and Juli were at the Rails Girls workshop this entire day. They told us what they learned and shared their excitement about Ruby and Rails development. Juli especially was surprised to learn how welcoming the community is compared to engineering where she originally comes from.&lt;/p&gt;
+
+&lt;h3&gt;Eric West (01:17:56)&lt;/h3&gt;
+
+&lt;p&gt;Eric is a software developer at Lonely Planet. Last year he was one of the students at &lt;a href="https://developers.google.com/open-source/soc/?csw=1"&gt;Google&amp;#39;s Summer of Code&lt;/a&gt; where he worked on &lt;a href="https://github.com/rsense/rsense"&gt;rsense&lt;/a&gt;. It is a tool that does static analysis of your source code to determine the types of your Ruby programs. He explained why this is useful and what is involved in building this project.&lt;/p&gt;
+
+&lt;h3&gt;Christophe Philemotte (01:35:01)&lt;/h3&gt;
+
+&lt;p&gt;Christophe from PullReview held a workshop about static code analysis this morning. He explained what it is and told us about the tools he introduced at his workshop. We discussed how you can use it and where it can help you. We also talked about Ruby Burgers, a different kind of Ruby meetup he helps to organize in Belgium.&lt;/p&gt;
+
+&lt;h3&gt;Magda, Ute &amp;amp; Jan (02:00:40)&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href="http://code-padawans.de"&gt;Code Padawans&lt;/a&gt; Magda and Ute and one of their coaches Jan talked about their &lt;a href="http://railsgirlssummerofcode.org"&gt;Rails Girls Summer of Code&lt;/a&gt; projects. They explained what RGSoC is and how they got involved in it. They work at &lt;a href="http://asquera.de"&gt;asquera&lt;/a&gt; where they learn by doing everything from Scrum to writing their own &lt;a href="https://github.com/CodePadawans/nano_padawans_test"&gt;testing framework&lt;/a&gt; in Ruby. We also talked about their upcoming talk at &lt;a href="http://ruby.froscon.org"&gt;RedFrog Conf&lt;/a&gt; and Berlin&amp;#39;s impressive Rails Girls community.&lt;/p&gt;
+</description>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2014.eurucamp.org/podcast#TCC001"/>
+                    <psc:chapters>
+                        <psc:chapter start="00:00:00" title="Intro"/>
+                        <psc:chapter start="00:04:03.365" title="Luca Guidi"/>
+                        <psc:chapter start="00:20:56.459" title="Ellen König"/>
+                        <psc:chapter start="00:34:25.802" title="Frank Webber"/>
+                        <psc:chapter start="01:10:38.189" title="Gerdi &amp; Juli"/>
+                        <psc:chapter start="01:17:56.473" title="Eric West"/>
+                        <psc:chapter start="01:35:01.603" title="Christophe Philemotte"/>
+                        <psc:chapter start="02:00:40.619" title="Magda, Ute &amp; Jan"/>
+                    </psc:chapters>
+                </item>
+                <item>
+                    <title>TCC002 - Day Two</title>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>Dirk Breuer, Lucas Dohmen, Bodo Tasche</itunes:author>
+                    <itunes:subtitle>The second day was about coding, decentralization, architecture and coffee.</itunes:subtitle>
+                    <enclosure url="http://tcc-media.s3-website-eu-west-1.amazonaws.com/episodes/tcc002.m4a" length="47078339" type="audio/x-m4a"/>
+                    <guid isPermaLink="false">TCC002</guid>
+                    <pubDate>Sun, 03 Aug 2014 15:28:46 +0200</pubDate>
+                    <itunes:duration>01:45:38</itunes:duration>
+                    <itunes:summary>**Synopsis:** On the second day we got some more speakers on the microphones and more impressions from eurucamp. Additionally to technical interviews we learned some nice things about coffee.
+
+### Rin Räuber (00:00:12)
+
+Rin is a web developer at [bitcrowd](http://bitcrowd.net) who did live coding at eurucamp with [gosu](http://www.libgosu.org). Gosu is a library to build 2d games using Ruby. In her talk she build a [side-scroller](https://en.wikipedia.org/wiki/Side-scroller) from scratch. We talked about how Gosu could be used for teaching and the 48 hour game challenge [ludum dare](http://www.ludumdare.com).
+
+### Jan Krutisch (00:19:59)
+
+Jan is a web developer from Hamburg and believes that the web should be more decentralized. We talked about different areas where this philosophy applies and what we can do to move towards a more decentralized world: From [Mailbox](https://mailbox.org), [ownCloud](http://owncloud.org), [gitlab](https://about.gitlab.com), [webfinger](http://webfinger.net), [unhosted](https://unhosted.org) to selecting a hoster. We should start with our own things and then evangelize the non-technical people.
+
+### Paolo "Nusco" Perrotta (00:43:50)
+
+Paolo is the author of the book [Metaprogramming Ruby](http://pragprog.com/book/ppmetr2/metaprogramming-ruby) and the keynote speaker of this years eurucamp. In his keynote he talked about simple, complex and complicated. He explained the difference between the latter two and how it affects the way we distribute tasks in our companies. He gave suggestions on how to do it differently.
+
+### Joanne Cheng (01:05:44)
+
+Joanne works at [thoughtbot](http://thoughtbot.com) doing web development, but she loves to do more visual programming. Last year at eurucamp she talked about [processing](http://processingjs.org) and this year she gave a workshop about [D3.js](http://d3js.org). We talked about all things D3 and when to use it instead of a tool like Highchart. If you want to get into D3, she suggests [Interactive Data Visualization for the Web](http://shop.oreilly.com/product/0636920026938.do) as a good starting point.
+
+### Jessica &amp; Blazej (1:20:34)
+
+Jessica and Blazej work at [THE BARN](http://barn.bigcartel.com) in Berlin. They are serving coffee at eurucamp sponsored by [Travis](https://travis-ci.org) this year so we talked about coffee and how to get started with drinking better coffee. What are the tools you need to get started and what should you keep in mind when buying beans from a roaster.</itunes:summary>
+                    <description>&lt;p&gt;&lt;strong&gt;Synopsis:&lt;/strong&gt; On the second day we got some more speakers on the microphones and more impressions from eurucamp. Additionally to technical interviews we learned some nice things about coffee.&lt;/p&gt;
+
+&lt;h3&gt;Rin Räuber (00:00:12)&lt;/h3&gt;
+
+&lt;p&gt;Rin is a web developer at &lt;a href="http://bitcrowd.net"&gt;bitcrowd&lt;/a&gt; who did live coding at eurucamp with &lt;a href="http://www.libgosu.org"&gt;gosu&lt;/a&gt;. Gosu is a library to build 2d games using Ruby. In her talk she build a &lt;a href="https://en.wikipedia.org/wiki/Side-scroller"&gt;side-scroller&lt;/a&gt; from scratch. We talked about how Gosu could be used for teaching and the 48 hour game challenge &lt;a href="http://www.ludumdare.com"&gt;ludum dare&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Jan Krutisch (00:19:59)&lt;/h3&gt;
+
+&lt;p&gt;Jan is a web developer from Hamburg and believes that the web should be more decentralized. We talked about different areas where this philosophy applies and what we can do to move towards a more decentralized world: From &lt;a href="https://mailbox.org"&gt;Mailbox&lt;/a&gt;, &lt;a href="http://owncloud.org"&gt;ownCloud&lt;/a&gt;, &lt;a href="https://about.gitlab.com"&gt;gitlab&lt;/a&gt;, &lt;a href="http://webfinger.net"&gt;webfinger&lt;/a&gt;, &lt;a href="https://unhosted.org"&gt;unhosted&lt;/a&gt; to selecting a hoster. We should start with our own things and then evangelize the non-technical people.&lt;/p&gt;
+
+&lt;h3&gt;Paolo &amp;quot;Nusco&amp;quot; Perrotta (00:43:50)&lt;/h3&gt;
+
+&lt;p&gt;Paolo is the author of the book &lt;a href="http://pragprog.com/book/ppmetr2/metaprogramming-ruby"&gt;Metaprogramming Ruby&lt;/a&gt; and the keynote speaker of this years eurucamp. In his keynote he talked about simple, complex and complicated. He explained the difference between the latter two and how it affects the way we distribute tasks in our companies. He gave suggestions on how to do it differently.&lt;/p&gt;
+
+&lt;h3&gt;Joanne Cheng (01:05:44)&lt;/h3&gt;
+
+&lt;p&gt;Joanne works at &lt;a href="http://thoughtbot.com"&gt;thoughtbot&lt;/a&gt; doing web development, but she loves to do more visual programming. Last year at eurucamp she talked about &lt;a href="http://processingjs.org"&gt;processing&lt;/a&gt; and this year she gave a workshop about &lt;a href="http://d3js.org"&gt;D3.js&lt;/a&gt;. We talked about all things D3 and when to use it instead of a tool like Highchart. If you want to get into D3, she suggests &lt;a href="http://shop.oreilly.com/product/0636920026938.do"&gt;Interactive Data Visualization for the Web&lt;/a&gt; as a good starting point.&lt;/p&gt;
+
+&lt;h3&gt;Jessica &amp;amp; Blazej (1:20:34)&lt;/h3&gt;
+
+&lt;p&gt;Jessica and Blazej work at &lt;a href="http://barn.bigcartel.com"&gt;THE BARN&lt;/a&gt; in Berlin. They are serving coffee at eurucamp sponsored by &lt;a href="https://travis-ci.org"&gt;Travis&lt;/a&gt; this year so we talked about coffee and how to get started with drinking better coffee. What are the tools you need to get started and what should you keep in mind when buying beans from a roaster.&lt;/p&gt;
+</description>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2014.eurucamp.org/podcast#TCC002"/>
+                    <psc:chapters>
+                        <psc:chapter start="00:00:12.238" title="Rin Räuber"/>
+                        <psc:chapter start="00:19:59.342" title="Jan Krutisch"/>
+                        <psc:chapter start="00:43:50.009" title="Paolo &#34;&#34;Nusco&#34;&#34; Perrotta"/>
+                        <psc:chapter start="01:05:55.200" title="Joanne Cheng"/>
+                        <psc:chapter start="01:20:34.438" title="Jessica &amp; Blazej "/>
+                    </psc:chapters>
+                </item>
+                <item>
+                    <title>TCC003 - Day Three</title>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:author>Dirk Breuer, Lucas Dohmen, Bodo Tasche</itunes:author>
+                    <itunes:subtitle>A remarkable conference comes to an end. One last round of interviews with great people.</itunes:subtitle>
+                    <enclosure url="http://tcc-media.s3-website-eu-west-1.amazonaws.com/episodes/tcc003.m4a" length="59656729" type="audio/x-m4a"/>
+                    <guid isPermaLink="false">TCC003</guid>
+                    <pubDate>Tue, 05 Aug 2014 20:00:52 +0200</pubDate>
+                    <itunes:duration>02:14:01</itunes:duration>
+                    <itunes:summary>### Tom Stuart (00:00:11)
+
+Tom is the author of [Understanding Computation](http://computationbook.com) and he gave an introduction to monads. He took a very different and interesting approach to explaining them. We talked with him about his talk, this technique and a lot of other things including the problems with math education.
+
+### Laura (00:39:09)
+
+Laura is working at the FU Berlin and we talked with her about her journey to Rails via her bachelor thesis about [Rails Girls Berlin](http://railsgirlsberlin.de). Starting from that we talked about diversity at the conference compared to the tech scene in large, Rails Girls Berlin, [Coder Dojo](http://coderdojo.com) and the inclusion of other minorities.
+
+### Andre Cedik (01:02:18)
+
+Andre works at [webionate](http://www.webionate.de). He's suffering from depression and talked about it in his presentation. We talked about revealing your illness to your familiy, finding a therapist and writing a list of things that make you happy.
+
+### Florian Gilcher (01:23:19)
+
+Florian is one of the main organizers alongside with Alex and Dajana. We talked with him about what it takes to organize a conference and the history of eurucamp.
+
+### [German] Dominik und Jan-Erik (01:46:38)
+
+Dominik and Jan-Erik from [rrbone](https://www.rrbone.net) have neither given a talk or a workshop nor organized the conference. We talked with them about their perspective as a participant and also about their perspective on decentralizing everything.
+
+### Outro (02:06:34)
+
+So this was our podcast series on eurucamp. We will follow up with some remote interviews that we didn't manage to record.</itunes:summary>
+                    <description>&lt;h3&gt;Tom Stuart (00:00:11)&lt;/h3&gt;
+
+&lt;p&gt;Tom is the author of &lt;a href="http://computationbook.com"&gt;Understanding Computation&lt;/a&gt; and he gave an introduction to monads. He took a very different and interesting approach to explaining them. We talked with him about his talk, this technique and a lot of other things including the problems with math education.&lt;/p&gt;
+
+&lt;h3&gt;Laura (00:39:09)&lt;/h3&gt;
+
+&lt;p&gt;Laura is working at the FU Berlin and we talked with her about her journey to Rails via her bachelor thesis about &lt;a href="http://railsgirlsberlin.de"&gt;Rails Girls Berlin&lt;/a&gt;. Starting from that we talked about diversity at the conference compared to the tech scene in large, Rails Girls Berlin, &lt;a href="http://coderdojo.com"&gt;Coder Dojo&lt;/a&gt; and the inclusion of other minorities.&lt;/p&gt;
+
+&lt;h3&gt;Andre Cedik (01:02:18)&lt;/h3&gt;
+
+&lt;p&gt;Andre works at &lt;a href="http://www.webionate.de"&gt;webionate&lt;/a&gt;. He&amp;#39;s suffering from depression and talked about it in his presentation. We talked about revealing your illness to your familiy, finding a therapist and writing a list of things that make you happy.&lt;/p&gt;
+
+&lt;h3&gt;Florian Gilcher (01:23:19)&lt;/h3&gt;
+
+&lt;p&gt;Florian is one of the main organizers alongside with Alex and Dajana. We talked with him about what it takes to organize a conference and the history of eurucamp.&lt;/p&gt;
+
+&lt;h3&gt;[German] Dominik und Jan-Erik (01:46:38)&lt;/h3&gt;
+
+&lt;p&gt;Dominik and Jan-Erik from &lt;a href="https://www.rrbone.net"&gt;rrbone&lt;/a&gt; have neither given a talk or a workshop nor organized the conference. We talked with them about their perspective as a participant and also about their perspective on decentralizing everything.&lt;/p&gt;
+
+&lt;h3&gt;Outro (02:06:34)&lt;/h3&gt;
+
+&lt;p&gt;So this was our podcast series on eurucamp. We will follow up with some remote interviews that we didn&amp;#39;t manage to record.&lt;/p&gt;
+</description>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2014.eurucamp.org/podcast#TCC003"/>
+                    <psc:chapters>
+                        <psc:chapter start="00:00:11.768" title="Tom Stewart"/>
+                        <psc:chapter start="00:39:09.037" title="Laura"/>
+                        <psc:chapter start="01:02:18.536" title="Andre Cedik"/>
+                        <psc:chapter start="01:23:19.241" title="Florian Gilcher"/>
+                        <psc:chapter start="01:46:38.145" title="Dominik und Jan-Erik [German]"/>
+                        <psc:chapter start="02:06:34.576" title="Outro"/>
+                    </psc:chapters>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

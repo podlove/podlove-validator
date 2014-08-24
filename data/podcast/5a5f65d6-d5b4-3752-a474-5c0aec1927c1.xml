@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:09 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=owrypwgbweprcylqmrv14ktp; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Content-Length" value="46814"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/19452</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/19452" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:09 GMT</lastBuildDate>
+                <image>
+                    <title>Bästa minnet</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4493</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4493/3241614_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Nina Allergren.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Bästa minnet</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Bästa minnet</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4493</link>
+                <description>Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Nina Allergren.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>“Se upp för synålar i morötter!”</title>
+                    <description>Avsnitt 16, säsong 2014. I årets sista program hoppar vi rakt in i en kontroversiell bilfärd i början 1990-talet, går vidare med ett bisarrt levnadsöde som tog slut 2009, får svar på vem retorikens nollpunkt är, och varnas för farliga morötter av Gösta Bohman i ett klipp från 1979. Anna Charlotta Gunnarsson önskar sig ett fredagsmys med en spännande kombo, Hélène Benno chansar vilt - och rätt! - och så stämmer Svante Weyler upp till skönsång mer än en gång! Programledare: Nina Allergren.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048470.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140816_809ec9.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 16, säsong 2014. I årets sista program hoppar vi rakt in i en kontroversiell bilfärd i början 1990-talet, går vidare med ett bisarrt levnadsöde som tog slut 2009, får svar på vem retorikens nollpunkt är, och varnas för farliga morötter av Gösta Bohman i ett klipp från 1979. Anna Charlotta Gunnarsson önskar sig ett fredagsmys med en spännande kombo, Hélène Benno chansar vilt - och rätt! - och så stämmer Svante Weyler upp till skönsång mer än en gång! Programledare: Nina Allergren.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Se,upp,för,synålar,i,morötter!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048470.mp3" length="28656506" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Det finns luckor i min obildning!”</title>
+                    <description>Avsnitt 15, säsong 2014, inleds i ett stycke riven historia till stor glädje för paneldeltagarna Staffan Dopping, Kjell Albin Abrahamson och Denise Rudberg. Rapporteringen kring mordet på en stor ikon vållar dem dock vissa bekymmer, men får åtminstone Staffan Dopping att stämma upp i sång. Likaså visar sig dubbla tacktal, i stort sett identiska men hållna vid helt olika tillfällen i historien, inte vara en helt enkelt nöt att knäcka. Programledare: Nina Allergren.   </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4999834.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140809_3c9dfa.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 15, säsong 2014, inleds i ett stycke riven historia till stor glädje för paneldeltagarna Staffan Dopping, Kjell Albin Abrahamson och Denise Rudberg. Rapporteringen kring mordet på en stor ikon vållar dem dock vissa bekymmer, men får åtminstone Staffan Dopping att stämma upp i sång. Likaså visar sig dubbla tacktal, i stort sett identiska men hållna vid helt olika tillfällen i historien, inte vara en helt enkelt nöt att knäcka. Programledare: Nina Allergren.   </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Det,finns,luckor,i,min,obildning!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4999834.mp3" length="27600699" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Försökte han mjölka dig?”</title>
+                    <description>Avsnitt 14, säsong 2014, inleder i 1970-talet och en motsträvig intervjuperson vi inte kan få nog av att lyssna till. Vi dyker ner i ett politiskt fenomen som kanske fick sin början i Hylands Hörna 1962. Och så fiskar vi upp ett sällan skådat misslyckande - som givetvis blev en av våra främsta nationalsymboler. Dessutom får vi - tro det eller ej - en ko på tråden. Jenny Strömstedt, Svante Weyler och Staffan Heimerson tävlar med och mot varandra. Programledare: Nina Allergren. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4998289.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140802_31f558.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 14, säsong 2014, inleder i 1970-talet och en motsträvig intervjuperson vi inte kan få nog av att lyssna till. Vi dyker ner i ett politiskt fenomen som kanske fick sin början i Hylands Hörna 1962. Och så fiskar vi upp ett sällan skådat misslyckande - som givetvis blev en av våra främsta nationalsymboler. Dessutom får vi - tro det eller ej - en ko på tråden. Jenny Strömstedt, Svante Weyler och Staffan Heimerson tävlar med och mot varandra. Programledare: Nina Allergren. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Försökte,han,mjölka,dig?”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4998289.mp3" length="28272782" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Var hon ihop med hästen?”</title>
+                    <description>Avsnitt 13, säsong 2014, innehåller bl.a. minnet av en världsberömd, men helt okänd, frihetshjälte. Vi bläddrar i musikhistorien och tar oss an en popgrupp som kanske egentligen inte var en popgrupp...åtminstone om man ska tro dåtidens debatt i Studio 1. Anna Charlotta Gunnarsson bäddar ner Pekka Heino under ett rosa täcke och ett synnerligen pinsamt riksdagstal får Jenny Strömstedt att vilja sjunka genom marken. Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4999197.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140726_eb409e.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 13, säsong 2014, innehåller bl.a. minnet av en världsberömd, men helt okänd, frihetshjälte. Vi bläddrar i musikhistorien och tar oss an en popgrupp som kanske egentligen inte var en popgrupp...åtminstone om man ska tro dåtidens debatt i Studio 1. Anna Charlotta Gunnarsson bäddar ner Pekka Heino under ett rosa täcke och ett synnerligen pinsamt riksdagstal får Jenny Strömstedt att vilja sjunka genom marken. Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Var,hon,ihop,med,hästen?”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4999197.mp3" length="28448675" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Idag gäller bara en sak - att vinna eller förlora!”</title>
+                    <description>Avsnitt 12, säsong 2014, innehåller bl.a. 13 st träd som blev fasligt berömda i början av 70-talet. Vi går till botten med hur ett klassiskt uttryck på hund-tema myntas 2002. Och så avslutar vi i en riktig såpa från 1994 som inte Hollywood hade kunnat sätta ihop bättre. Dessutom ger Natanael Derwinger sin gamla klasskamrat Roland Madaras ett erkännande, Staffan Dopping gör ett djärvt statement, och Elisabet Höglund imponerar stort med en åttondeplats. Programledare: Nina Allergren.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4999182.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140719_8c7fc8.mp3</guid>
+                    <pubDate>Sat, 19 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 12, säsong 2014, innehåller bl.a. 13 st träd som blev fasligt berömda i början av 70-talet. Vi går till botten med hur ett klassiskt uttryck på hund-tema myntas 2002. Och så avslutar vi i en riktig såpa från 1994 som inte Hollywood hade kunnat sätta ihop bättre. Dessutom ger Natanael Derwinger sin gamla klasskamrat Roland Madaras ett erkännande, Staffan Dopping gör ett djärvt statement, och Elisabet Höglund imponerar stort med en åttondeplats. Programledare: Nina Allergren.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Idag,gäller,bara,en,sak,-,att,vinna,eller,förlora!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4999182.mp3" length="28448809" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Han har äntligen oskadliggjorts!”</title>
+                    <description>Avsnitt 11, 2014, inleds i oskadliggörandet av en berömd astmatiker 1967. Till stor glädje för Ekot om man ska ta den tidens rapportering på orden. Andra godbitar ur historien som dyker upp är en av regeringen Ullsten införd sommarplåga från 1979 och en skandalomsusad ”Super Mario” från 2010. Staffan Heimerson gör storslagen Bästa Minnet-premiär och berättar om sina Hollywood-drömmar, Jenny Strömstedt minns en orättvis fröken från fjärdeklass, och Svante Weyler tilldelas ett helt nytt epitet.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4999140.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140712_01a7c7.mp3</guid>
+                    <pubDate>Sat, 12 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 11, 2014, inleds i oskadliggörandet av en berömd astmatiker 1967. Till stor glädje för Ekot om man ska ta den tidens rapportering på orden. Andra godbitar ur historien som dyker upp är en av regeringen Ullsten införd sommarplåga från 1979 och en skandalomsusad ”Super Mario” från 2010. Staffan Heimerson gör storslagen Bästa Minnet-premiär och berättar om sina Hollywood-drömmar, Jenny Strömstedt minns en orättvis fröken från fjärdeklass, och Svante Weyler tilldelas ett helt nytt epitet.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Han,har,äntligen,oskadliggjorts!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4999140.mp3" length="28464737" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“En liten Svante Weyler kan man göra?”</title>
+                    <description>Avsnitt 10, säsong 2014, är en twistpåse som innehåller ett gäng vitt skilda historiska karameller. Här återfinns ett förbud från 1977, ett kontroversiellt djur som ser världens ljus knappt tjugo år senare, och en person som gav politikergrodorna ett välsminkat ansikte hösten 2008. Hélène Benno återger ett pinsamt minne, Anna Charlotta Gunnarsson berättar om strypta rådjur, och signaturerna får Svante Weyler att plötsligt tänka på bussar från den gamla goda tiden. Programledare: Nina Allergren. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4998113.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140705_33b9e7.mp3</guid>
+                    <pubDate>Sat, 05 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 10, säsong 2014, är en twistpåse som innehåller ett gäng vitt skilda historiska karameller. Här återfinns ett förbud från 1977, ett kontroversiellt djur som ser världens ljus knappt tjugo år senare, och en person som gav politikergrodorna ett välsminkat ansikte hösten 2008. Hélène Benno återger ett pinsamt minne, Anna Charlotta Gunnarsson berättar om strypta rådjur, och signaturerna får Svante Weyler att plötsligt tänka på bussar från den gamla goda tiden. Programledare: Nina Allergren. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“En,liten,Svante,Weyler,kan,man,göra?”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4998113.mp3" length="28208896" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Det kommer inte bli ett program!”</title>
+                    <description>Avsnitt 9, säsong 2014, inleds i en uppmärksammad presskonferens från 1988, går vidare till en uppmärksammad fläkt från 1991, och avslutar i ett minst lika uppmärksammat uttalande från 2010 utanför Vita Huset. Och så får vi höra Ernst-Hugo Järegård som recensent från 1989. I Ekot!  Kan Pekka Heino, debutant i sammanhanget, mäta sig med Bästa Minnet-veteranerna Anna Charlotta Gunnarsson och Jenny Strömstedt? Programledare: Nina Allergren. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4993296.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140628_cd15c5.mp3</guid>
+                    <pubDate>Sat, 28 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 9, säsong 2014, inleds i en uppmärksammad presskonferens från 1988, går vidare till en uppmärksammad fläkt från 1991, och avslutar i ett minst lika uppmärksammat uttalande från 2010 utanför Vita Huset. Och så får vi höra Ernst-Hugo Järegård som recensent från 1989. I Ekot!  Kan Pekka Heino, debutant i sammanhanget, mäta sig med Bästa Minnet-veteranerna Anna Charlotta Gunnarsson och Jenny Strömstedt? Programledare: Nina Allergren. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Det,kommer,inte,bli,ett,program!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4993296.mp3" length="28560694" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“All publicitet är inte bra publicitet”</title>
+                    <description>Avsnitt 8, säsong 2014. När Kjell Albin Abrahamson gör Bästa Minnet-premiär hettar det till kring en händelse i Almedalen från 2010. Staffan Dopping excellerar återigen i ämnet signaturer - men denna gång främst genom att sjunga dem helt på egen hand. Och en ofödd Denise Rudberg visar sig minnas oväntat mycket kring en rad förvirrade mord från 1969. Dessutom öppnar vi en alldeles särskild lucka från 1979 och får en försmak av 2014 års dito. Programledare: Nina Allergren. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4988149.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140621_e45370.mp3</guid>
+                    <pubDate>Sat, 21 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 8, säsong 2014. När Kjell Albin Abrahamson gör Bästa Minnet-premiär hettar det till kring en händelse i Almedalen från 2010. Staffan Dopping excellerar återigen i ämnet signaturer - men denna gång främst genom att sjunga dem helt på egen hand. Och en ofödd Denise Rudberg visar sig minnas oväntat mycket kring en rad förvirrade mord från 1969. Dessutom öppnar vi en alldeles särskild lucka från 1979 och får en försmak av 2014 års dito. Programledare: Nina Allergren. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“All,publicitet,är,inte,bra,publicitet”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4988149.mp3" length="28528589" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“En helig ko som måste slaktas”</title>
+                    <description>Avsnitt 7, säsong 2014. Vi återupplivar en gammal revy från 1979 som, enligt Denise Rudberg, är synnerligen redo för nödslakt. Elisabet Höglund är dock het på knappen och rycker snabbt ut till dess försvar. Svante Weyler kör sitt eget race och passar på att briljera i häcklöpning samtidigt som han täpper till sina kunskapsluckor kring en tecknad tv-serie. Samtliga tävlande visar dessutom stor fantasi när det gäller namnet på ett överskridet gränsvärde.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4981913.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140614_48dbf3.mp3</guid>
+                    <pubDate>Sat, 14 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 7, säsong 2014. Vi återupplivar en gammal revy från 1979 som, enligt Denise Rudberg, är synnerligen redo för nödslakt. Elisabet Höglund är dock het på knappen och rycker snabbt ut till dess försvar. Svante Weyler kör sitt eget race och passar på att briljera i häcklöpning samtidigt som han täpper till sina kunskapsluckor kring en tecknad tv-serie. Samtliga tävlande visar dessutom stor fantasi när det gäller namnet på ett överskridet gränsvärde.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“En,helig,ko,som,måste,slaktas”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4981913.mp3" length="28608845" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Inte utan min bearnaisesås!”</title>
+                    <description>Avsnitt 6, säsong 2014. Veckans program har ett särskilt tema som - ska det visa sig - går särskilt bra ihop med bearnaisesås. Hélène Benno blir glad över morötter när en biff från 1996 inte längre smakar gott och Jenny Strömstedt berättar vad förkortningen LCHF egentligen står för. Dessutom ger en känd händelse från 1985 Natanael Derwinger inspiration till en helt ny kommunslogan.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4973882.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140607_2a829c.mp3</guid>
+                    <pubDate>Sat, 07 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 6, säsong 2014. Veckans program har ett särskilt tema som - ska det visa sig - går särskilt bra ihop med bearnaisesås. Hélène Benno blir glad över morötter när en biff från 1996 inte längre smakar gott och Jenny Strömstedt berättar vad förkortningen LCHF egentligen står för. Dessutom ger en känd händelse från 1985 Natanael Derwinger inspiration till en helt ny kommunslogan.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Inte,utan,min,bearnaisesås!”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4973882.mp3" length="28496684" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Vi fick ett happy meal”</title>
+                    <description>Avsnitt 5, säsong 2014, innehåller bl.a. en olycklig felsägning från 1981, något som får Svante Weyler att reda ut likheterna mellan pandor och det brittiska kungahuset. Staffan Dopping delar i sin tur med sig av en plötslig vision innehållande en f.d. statsministers röda toppluva medan en tv-debatt från 1982 tvingar Anna Charlotta Gunnarsson att krypa ner under täcket. Dessutom berättar telefongästen Björn Renstierna om ett synnerligen dyrköpt happy meal från SVT.   Programledare: Nina Allergren. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4966757.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140531_1c40e4.mp3</guid>
+                    <pubDate>Sat, 31 May 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 5, säsong 2014, innehåller bl.a. en olycklig felsägning från 1981, något som får Svante Weyler att reda ut likheterna mellan pandor och det brittiska kungahuset. Staffan Dopping delar i sin tur med sig av en plötslig vision innehållande en f.d. statsministers röda toppluva medan en tv-debatt från 1982 tvingar Anna Charlotta Gunnarsson att krypa ner under täcket. Dessutom berättar telefongästen Björn Renstierna om ett synnerligen dyrköpt happy meal från SVT.   Programledare: Nina Allergren. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Vi,fick,ett,happy,meal”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4966757.mp3" length="28496846" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Hur nära vansinnet hade du kunnat komma?”</title>
+                    <description>Avsnitt 4, säsong 2014. Dagens deltagare försöker bemästra galenskap och genialitet i mästerlig symbios från 1972. Vi rustar för tittarstorm från 1957 och snubblar samtidigt över ett nyord i det svenska språket. Denise Rudberg går bokstavligen vilse bland signaturerna till stor glädje för Svante Weyler, som dessutom lyckas lura in Elisabet Höglund i boxarringen. Rätt som det är dyker också komikern Johan Glans upp och berättar om ett förgånget bonzai-träd.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4959347.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140524_263119.mp3</guid>
+                    <pubDate>Sat, 24 May 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 4, säsong 2014. Dagens deltagare försöker bemästra galenskap och genialitet i mästerlig symbios från 1972. Vi rustar för tittarstorm från 1957 och snubblar samtidigt över ett nyord i det svenska språket. Denise Rudberg går bokstavligen vilse bland signaturerna till stor glädje för Svante Weyler, som dessutom lyckas lura in Elisabet Höglund i boxarringen. Rätt som det är dyker också komikern Johan Glans upp och berättar om ett förgånget bonzai-träd.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Hur,nära,vansinnet,hade,du,kunnat,komma?”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4959347.mp3" length="28640640" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Är vi säkra på att han har rymt?”</title>
+                    <description>Avsnitt 3, säsong 2014. I veckans batalj ryms det mycket. Bland annat stoppas ett av dagens huvudämnen ner i bagageluckan på en diplomatbil för att först sju år senare dyka upp igen. Lagom till Jenny Strömstedts födelsedag. Hélène Benno stilar med nyskapande ljudläggning under signaturerna medan Natanael Derwinger drabbas av plötslig namnafasi. Dessutom tittar vi tillbaka på ett tv-program från 1987 som inte ens programmets egen projektledare stod ut med.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4951180.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140517_1fe540.mp3</guid>
+                    <pubDate>Sat, 17 May 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 3, säsong 2014. I veckans batalj ryms det mycket. Bland annat stoppas ett av dagens huvudämnen ner i bagageluckan på en diplomatbil för att först sju år senare dyka upp igen. Lagom till Jenny Strömstedts födelsedag. Hélène Benno stilar med nyskapande ljudläggning under signaturerna medan Natanael Derwinger drabbas av plötslig namnafasi. Dessutom tittar vi tillbaka på ett tv-program från 1987 som inte ens programmets egen projektledare stod ut med.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Är,vi,säkra,på,att,han,har,rymt?”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4951180.mp3" length="28656504" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>“Munnen full med punschpraliner”</title>
+                    <description>Avsnitt 2, säsong 2014. I dagens program plockar Natanael Derwinger poäng med hjälp av ett gammalt 60-talsskämt medan Elisabet Höglund sänder en personlig hälsning till en ljusskygg australiensare. Staffan Dopping svarar till sin egen förskräckelse fel på en av dagens signaturer, men kompenserar det hela med att tugga punschpraliner på ett för Natanael mäkta provocerande sätt. Samtliga medverkande briljerar dessutom i ämnet “kända drinkar”, men har likväl svårt för att hitta smeknamnet för en storpolitisk händelse från 1981. Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4945347.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140510_04f0db.mp3</guid>
+                    <pubDate>Sat, 10 May 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Avsnitt 2, säsong 2014. I dagens program plockar Natanael Derwinger poäng med hjälp av ett gammalt 60-talsskämt medan Elisabet Höglund sänder en personlig hälsning till en ljusskygg australiensare. Staffan Dopping svarar till sin egen förskräckelse fel på en av dagens signaturer, men kompenserar det hela med att tugga punschpraliner på ett för Natanael mäkta provocerande sätt. Samtliga medverkande briljerar dessutom i ämnet “kända drinkar”, men har likväl svårt för att hitta smeknamnet för en storpolitisk händelse från 1981. Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet“Munnen,full,med,punschpraliner”</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4945347.mp3" length="28640756" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"Den berömda Fosbury-flippen"</title>
+                    <description>Nypremiär för Bästa Minnet. I första avsnittet av 2014 års program dyker Staffan Dopping ner i - eller kanske snarare över - en känd sporthändelse från 1968. Svante Weyler springer över en nybyggd bro och Anna Charlotta Gunnarsson plockar heta poäng på linjetema.  Programledare: Nina Allergren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4936462.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_140503_a6cc98.mp3</guid>
+                    <pubDate>Sat, 03 May 2014 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>Nypremiär för Bästa Minnet. I första avsnittet av 2014 års program dyker Staffan Dopping ner i - eller kanske snarare över - en känd sporthändelse från 1968. Svante Weyler springer över en nybyggd bro och Anna Charlotta Gunnarsson plockar heta poäng på linjetema.  Programledare: Nina Allergren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnet"Den,berömda,Fosbury-flippen"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4936462.mp3" length="28336361" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130907</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648726.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130907_6e2bf3.mp3</guid>
+                    <pubDate>Sat, 07 Sep 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130907</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648726.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130831</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648703.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130831_ec9f76.mp3</guid>
+                    <pubDate>Sat, 31 Aug 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130831</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648703.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130824</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648707.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130824_a90a95.mp3</guid>
+                    <pubDate>Sat, 24 Aug 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130824</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648707.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130817</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648704.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130817_e8bcd3.mp3</guid>
+                    <pubDate>Sat, 17 Aug 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130817</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648704.mp3" length="28463530" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130810</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648702.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130810_dbecec.mp3</guid>
+                    <pubDate>Sat, 10 Aug 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130810</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648702.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130803</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4648497.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130803_e0f26d.mp3</guid>
+                    <pubDate>Sat, 03 Aug 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130803</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4648497.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130727</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4639317.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130727_531ee9.mp3</guid>
+                    <pubDate>Sat, 27 Jul 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130727</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4639317.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130720</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4630302.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130720_a45879.mp3</guid>
+                    <pubDate>Sat, 20 Jul 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130720</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4630302.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130713</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4623232.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130713_20d0d1.mp3</guid>
+                    <pubDate>Sat, 13 Jul 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130713</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4623232.mp3" length="28463112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130706</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616024.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130706_4c2506.mp3</guid>
+                    <pubDate>Sat, 06 Jul 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130706</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616024.mp3" length="28467709" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130629</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4601592.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130629_fe8afe.mp3</guid>
+                    <pubDate>Sat, 29 Jun 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130629</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4601592.mp3" length="28474397" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bästa Minnet - 20130622</title>
+                    <description>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4601594.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_bastaminnet_130622_561c4a.mp3</guid>
+                    <pubDate>Sat, 22 Jun 2013 14:03:00 GMT</pubDate>
+                    <programid>4493</programid>
+                    <poddid>19452</poddid>
+                    <itunes:summary>När genomfördes högeromläggningen, vad var det Mona Sahlin hade glömt att betala och vad krävde rånarna vid Norrmalmstorgsdramat? Bästa minnet är en tävling i att komma ihåg stora och små händelser. Vi lyssnar på klipp från arkiven, gissar när ifrån de är och minns tillsammans den tid som varit. Programledare: Amanda Rydman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bästa,minnetBästa,Minnet,-,20130622</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4601594.mp3" length="28470635" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

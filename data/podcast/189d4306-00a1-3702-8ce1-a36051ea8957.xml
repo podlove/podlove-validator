@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, max-age=26"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:43:22 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:42:22 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:42:55 GMT"/>
+        <httpclient:header name="Content-Length" value="72908"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/14990</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/14990" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:42:22 GMT</lastBuildDate>
+                <image>
+                    <title>Kluvet Land</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4091</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4091/2828917_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>I reportageserien Kluvet Land undersöker vi vad som händer när människor blir av med bibliotek, grannar och Försäkringskassa. Vi möter föräldrar som driver sina egna skolor,  företagaren som är trött på att beskrivas som en förlorare och vi följer de nya flyttlassen som går till landsbygden. </itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Kluvet Land</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Kluvet Land</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4091</link>
+                <description>I reportageserien Kluvet Land undersöker vi vad som händer när människor blir av med bibliotek, grannar och Försäkringskassa. Vi möter föräldrar som driver sina egna skolor,  företagaren som är trött på att beskrivas som en förlorare och vi följer de nya flyttlassen som går till landsbygden. </description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Kluvet Land 20140813</title>
+                    <description>Framtiden och de tjänstvilliga robotarna  Robotiseringen och automatiseringen tros ta hälften av jobben de närmsta tjugo åren. Vad ska vi jobba med i framtiden och kan en robot verkligen göra samma jobb som en människa?  -- Jag tror personligen, att vi står på tröskeln till en automationsrevolution som kommer kunna automatisera bort hälften av alla jobb, och då i stor utsträckning tjänstemannajobb faktiskt, säger Mats Lindgren VD för framtidsanalysföretaget Kairos Future.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5005633.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140813_1500_3376f56.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Framtiden och de tjänstvilliga robotarna  Robotiseringen och automatiseringen tros ta hälften av jobben de närmsta tjugo åren. Vad ska vi jobba med i framtiden och kan en robot verkligen göra samma jobb som en människa?  -- Jag tror personligen, att vi står på tröskeln till en automationsrevolution som kommer kunna automatisera bort hälften av alla jobb, och då i stor utsträckning tjänstemannajobb faktiskt, säger Mats Lindgren VD för framtidsanalysföretaget Kairos Future.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140813</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5005633.mp3" length="28408682" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140806</title>
+                    <description>Myten om det hållbara tjänstesamhället  Fosfor sinar, oljan likaså. I det näst sista programmet av sommarens Kluvet land tittar vi på vilken påverkan tjänstesamhället har på miljön. För det är en myt att tjänstesamhället skulle vara mer hållbart, det menar Hervé Corvellec, professor i företagsekonomi vid Lunds Universitet. Följ också med till en odlingslott i Norrbotten där två bröder försöker leva så immateriellt som möjligt. Men vi börjar hos en naturfrisör som försöker vara en del av en miljövänlig tjänstebransch.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5005625.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140806_1500_336739e.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Myten om det hållbara tjänstesamhället  Fosfor sinar, oljan likaså. I det näst sista programmet av sommarens Kluvet land tittar vi på vilken påverkan tjänstesamhället har på miljön. För det är en myt att tjänstesamhället skulle vara mer hållbart, det menar Hervé Corvellec, professor i företagsekonomi vid Lunds Universitet. Följ också med till en odlingslott i Norrbotten där två bröder försöker leva så immateriellt som möjligt. Men vi börjar hos en naturfrisör som försöker vara en del av en miljövänlig tjänstebransch.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140806</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5005625.mp3" length="28164688" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140730</title>
+                    <description>Med kunskap och pengar kan du köpa dig en bättre ålderdom  Du som är gammal förväntas också välja ur tjänstekatalogen, och med kunskap och pengar kan du köpa dig en bättre ålderdom. Men hur är det att börja med hemtjänst, hur går det till och vilka val har valfriheten gett de äldre? Samtidigt återstår den viktigaste faktorn, att det ska vara samma personal som ringer på imorgon också.    Följ med till Linda Belanners mamma Monica som minns hur det var när hennes mamma började bli dålig och behövde hemtjänst. Hör också hur Gun och Barbro i Umeå resonerar kring att välja bland alla olika hemtjänstutförare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5005620.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140730_1500_3351939.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Med kunskap och pengar kan du köpa dig en bättre ålderdom  Du som är gammal förväntas också välja ur tjänstekatalogen, och med kunskap och pengar kan du köpa dig en bättre ålderdom. Men hur är det att börja med hemtjänst, hur går det till och vilka val har valfriheten gett de äldre? Samtidigt återstår den viktigaste faktorn, att det ska vara samma personal som ringer på imorgon också.    Följ med till Linda Belanners mamma Monica som minns hur det var när hennes mamma började bli dålig och behövde hemtjänst. Hör också hur Gun och Barbro i Umeå resonerar kring att välja bland alla olika hemtjänstutförare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140730</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5005620.mp3" length="28466212" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140723</title>
+                    <description>UNGA I SERVICEBRANSCHEN VÅR TIDS DAGLÖNARE  Det är inom restaurang- och handelsbranschen som du hittar de unga. Där jobbar de, ofta med korta kontrakt och osäkra anställningar, dåligt informerade om vilja rättigheter de har. Hör 23-åriga Elin som redan varit nära att bränna ut sig, och 20-åriga Mattias som erbjöds gratisjobb men som sa ifrån.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5005613.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140723_1500_3308bf2.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>UNGA I SERVICEBRANSCHEN VÅR TIDS DAGLÖNARE  Det är inom restaurang- och handelsbranschen som du hittar de unga. Där jobbar de, ofta med korta kontrakt och osäkra anställningar, dåligt informerade om vilja rättigheter de har. Hör 23-åriga Elin som redan varit nära att bränna ut sig, och 20-åriga Mattias som erbjöds gratisjobb men som sa ifrån.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140723</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5005613.mp3" length="28425138" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140716</title>
+                    <description>LATHETEN OCH DEN FÄRDIGA MATKASSEN   -- Vi blir mer och mer bekväma av oss och det ska gärna gå fort. Vi blir latare helt enkelt, säger Lotta Nyberg, trebarnsmamma från Gravmark i Västerbotten. Hon beställer en färdig matkasse varannan vecka. Kluvet Land i om de färdiga lösningarna, där någon annan gör grovjobbet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4991170.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140716_1500_30cef4a.mp3</guid>
+                    <pubDate>Wed, 16 Jul 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>LATHETEN OCH DEN FÄRDIGA MATKASSEN   -- Vi blir mer och mer bekväma av oss och det ska gärna gå fort. Vi blir latare helt enkelt, säger Lotta Nyberg, trebarnsmamma från Gravmark i Västerbotten. Hon beställer en färdig matkasse varannan vecka. Kluvet Land i om de färdiga lösningarna, där någon annan gör grovjobbet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140716</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4991170.mp3" length="28356117" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140709</title>
+                    <description>SVARTA STÄDTJÄNSTER - BARA ETT SAMTAL BORT  Trots skattereduktion på hushållstjänster är det många som köper och säljer svarta städtjänster. Ring idag och få ditt hem svartstädat redan imorgon. Men att jobba svart är ett utsatt liv. Möt Silvia som var tvungen att tacka nej till en operation som hon behövde, för att hon inte hade råd att vara sjukskriven.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4991169.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140709_1500_30bad99.mp3</guid>
+                    <pubDate>Wed, 09 Jul 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>SVARTA STÄDTJÄNSTER - BARA ETT SAMTAL BORT  Trots skattereduktion på hushållstjänster är det många som köper och säljer svarta städtjänster. Ring idag och få ditt hem svartstädat redan imorgon. Men att jobba svart är ett utsatt liv. Möt Silvia som var tvungen att tacka nej till en operation som hon behövde, för att hon inte hade råd att vara sjukskriven.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140709</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4991169.mp3" length="28560163" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140702</title>
+                    <description>RUTKÖPARNA SOM HELLRE DANSAR ÄN STÄDAR   Fler och fler jobbar med att skura och putsa hemma hos andra. Antalet svenskar som köpte hushållsnära tjänster har femdubblats på fyra år. Kluvet Land hälsar på ingenjörsparet i Göteborg som gått över från svart till vit städhjälp. Och som hellre övar dans än skurar när de är lediga.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4991168.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140702_1500_30a2032.mp3</guid>
+                    <pubDate>Wed, 02 Jul 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>RUTKÖPARNA SOM HELLRE DANSAR ÄN STÄDAR   Fler och fler jobbar med att skura och putsa hemma hos andra. Antalet svenskar som köpte hushållsnära tjänster har femdubblats på fyra år. Kluvet Land hälsar på ingenjörsparet i Göteborg som gått över från svart till vit städhjälp. Och som hellre övar dans än skurar när de är lediga.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140702</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4991168.mp3" length="28276725" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20140625</title>
+                    <description>OM ATT UNNA SIG DET GODA - OCH LÅTA NÅGON ANNAN GÖRA JOBBET Vi köper mer och mer tjänster, andra gör det vi förut gjort själva. I premiären av sommarens Kluvet Land gör vi oss fina hos Maria Anatolieva, nagelskulptris i Göteborg och hör forskaren Henrik Jordahl säga att man unnar sig om man har råd.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4991165.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140625_1500_308164e.mp3</guid>
+                    <pubDate>Wed, 25 Jun 2014 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>OM ATT UNNA SIG DET GODA - OCH LÅTA NÅGON ANNAN GÖRA JOBBET Vi köper mer och mer tjänster, andra gör det vi förut gjort själva. I premiären av sommarens Kluvet Land gör vi oss fina hos Maria Anatolieva, nagelskulptris i Göteborg och hör forskaren Henrik Jordahl säga att man unnar sig om man har råd.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20140625</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4991165.mp3" length="28430066" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land Trettondagen</title>
+                    <description>"Det är sent, men inte för sent att säga ifrån" - en berättelse om dom som ställde upp. Unga människor i Härnösand vägrade acceptera trakasserier mot stans nya medborgare, flyktingarna och Åseleborna kämpade för två utvisningshotade familjer under många år. Den ena berättelsen i en stad som då var på dekis och den andra i ett litet samhälle i södra Lappland.  I Härnösand firar manifestationerna på torget 25 år. I Åsele slutade kampen med polisinsatser och tumult. Kluvet Land reser bakåt i historien för att höra vad människorna säger idag.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4811999.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20140106_1700_327c884.mp3</guid>
+                    <pubDate>Mon, 06 Jan 2014 15:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>"Det är sent, men inte för sent att säga ifrån" - en berättelse om dom som ställde upp. Unga människor i Härnösand vägrade acceptera trakasserier mot stans nya medborgare, flyktingarna och Åseleborna kämpade för två utvisningshotade familjer under många år. Den ena berättelsen i en stad som då var på dekis och den andra i ett litet samhälle i södra Lappland.  I Härnösand firar manifestationerna på torget 25 år. I Åsele slutade kampen med polisinsatser och tumult. Kluvet Land reser bakåt i historien för att höra vad människorna säger idag.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,Trettondagen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4811999.mp3" length="39392375" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet land del 8 20130813</title>
+                    <description>Man är bara ung en gång.  Det handlar om dem som är Sveriges framtid. Måste man alltid säga ja till alla jobb i arbetslinjens Sverige? Emil Bergström berättar om något annat än jobbångest och oro. Han vill bara vara ung just nu. ”Min tid är värd mer än de flesta av de här jobben betalar. De här åren är ju värdefulla”, säger han.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4645226.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130813_1500_2f6cdb6.mp3</guid>
+                    <pubDate>Tue, 13 Aug 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Man är bara ung en gång.  Det handlar om dem som är Sveriges framtid. Måste man alltid säga ja till alla jobb i arbetslinjens Sverige? Emil Bergström berättar om något annat än jobbångest och oro. Han vill bara vara ung just nu. ”Min tid är värd mer än de flesta av de här jobben betalar. De här åren är ju värdefulla”, säger han.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,land,del,8,20130813</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4645226.mp3" length="28663357" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 7 20130806</title>
+                    <description>Om dem som tar saken i egna händer och hittar på ovanliga metoder för att slippa gå arbetslösa. Hur gick det för Linus som ställde sig på centralstationen med en skylt? Fatime fick en lysande idé och fixade sitt eget drömjobb - nu hjälper hon andra att uppfylla sina jobbdrömmar. Och vad driver en 18-årig kille att fixa jobb åt 50 kompisar?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4645224.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130806_1500_2f3d5e6.mp3</guid>
+                    <pubDate>Tue, 06 Aug 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Om dem som tar saken i egna händer och hittar på ovanliga metoder för att slippa gå arbetslösa. Hur gick det för Linus som ställde sig på centralstationen med en skylt? Fatime fick en lysande idé och fixade sitt eget drömjobb - nu hjälper hon andra att uppfylla sina jobbdrömmar. Och vad driver en 18-årig kille att fixa jobb åt 50 kompisar?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,7,20130806</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4645224.mp3" length="28694308" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 6 20130730</title>
+                    <description>I Kiruna med landets lägsta ungdomsarbetslöshet sliter företagen eleverna direkt från skolbänken till jobb med bättre lön än vad deras föräldrar har. I andra landsändan - i skånska Bromölla - är det helt andra villkor som gäller för unga. Här finns landets högsta ungdomsarbetslöshet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4637391.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130730_1500_1f363c0.mp3</guid>
+                    <pubDate>Tue, 30 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>I Kiruna med landets lägsta ungdomsarbetslöshet sliter företagen eleverna direkt från skolbänken till jobb med bättre lön än vad deras föräldrar har. I andra landsändan - i skånska Bromölla - är det helt andra villkor som gäller för unga. Här finns landets högsta ungdomsarbetslöshet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,6,20130730</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4637391.mp3" length="28511546" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 5 20130723 1430 20130727 0903</title>
+                    <description>Kluvet Land i P1. Som ett jordskred. Så har ungdomsarbetslösheten ökat i Sverige de senaste decennierna. Som ett jordskred underminerar arbetslösheten unga människors hälsa. Och gör dem sjuka. Kluvet Land är unga människors radio i sommar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4631289.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130723_1500_24d9e02.mp3</guid>
+                    <pubDate>Tue, 23 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land i P1. Som ett jordskred. Så har ungdomsarbetslösheten ökat i Sverige de senaste decennierna. Som ett jordskred underminerar arbetslösheten unga människors hälsa. Och gör dem sjuka. Kluvet Land är unga människors radio i sommar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,5,20130723,1430,20130727,0903</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4631289.mp3" length="28712532" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 4 20130716</title>
+                    <description>Kluvet Land i P1. Om jakten på 77 000 spårlöst försvunna unga människor i Sverige. Från dörrknackning i Malmös förorter till Skellefteåbon Victor som varken pluggat eller jobbat på två år.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4626210.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130716_1500_25754ec.mp3</guid>
+                    <pubDate>Tue, 16 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land i P1. Om jakten på 77 000 spårlöst försvunna unga människor i Sverige. Från dörrknackning i Malmös förorter till Skellefteåbon Victor som varken pluggat eller jobbat på två år.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,4,20130716</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4626210.mp3" length="28439883" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 3 20130709</title>
+                    <description>Att få jobb direkt och sparken lika plötsligt I Danmark tackar många systemet Flexicurity för den låga arbetslösheten bland unga. Där kan man få jobb på direkten och sedan sparken lika fort. I Lappland väger tryggheten tyngre.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4620208.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130709_1500_330aee1.mp3</guid>
+                    <pubDate>Tue, 09 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Att få jobb direkt och sparken lika plötsligt I Danmark tackar många systemet Flexicurity för den låga arbetslösheten bland unga. Där kan man få jobb på direkten och sedan sparken lika fort. I Lappland väger tryggheten tyngre.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,3,20130709</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4620208.mp3" length="28661059" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 2 20130702</title>
+                    <description>Kluvet Land i P1. De skulle kunna fylla tio Globen, eller 6000 skolklasser. De lever som förvuxna tonåringar hemma hos sina föräldrar och vill inget hellre än att klara sig själva. I Sverige är ungdomsarbetslösheten omkring 25 procent. Kluvet Land i P1 är de ungas radio i sommar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4611072.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130702_1500_2d378f7.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land i P1. De skulle kunna fylla tio Globen, eller 6000 skolklasser. De lever som förvuxna tonåringar hemma hos sina föräldrar och vill inget hellre än att klara sig själva. I Sverige är ungdomsarbetslösheten omkring 25 procent. Kluvet Land i P1 är de ungas radio i sommar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,2,20130702</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4611072.mp3" length="28664929" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land del 1 20130625</title>
+                    <description>Kluvet Land. Unga människors radio i sommar. Först ut: Den ofrivilliga scouten, alltid redo! Aldrig ledig! Och det i ett Sverige där unga med fast jobb minskat dramatiskt och klyftan växer mellan dem som harvar i vikarieträsket och de priviligierade fastanställda.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4604487.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_kluvetland_20130625_1500_24e8a4a.mp3</guid>
+                    <pubDate>Tue, 25 Jun 2013 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land. Unga människors radio i sommar. Först ut: Den ofrivilliga scouten, alltid redo! Aldrig ledig! Och det i ett Sverige där unga med fast jobb minskat dramatiskt och klyftan växer mellan dem som harvar i vikarieträsket och de priviligierade fastanställda.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,del,1,20130625</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4604487.mp3" length="28485592" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svenskarna som jobbar gratis</title>
+                    <description>”Svenskarna som jobbar gratis” - Kluvet Land, 23 dec 12.00   Vi ligger i topp i världen. Sverige skulle stanna om inte det vore för det ideella arbetet.   När Söderhamns kommun lade ner deltidsbrandkåren i Trönö gick invånarna ihop och startade sitt egna brandvärn. När affären var illa ute köpte man fastigheten. På samma sätt visar man bio och ger ut lokaltidning med ideella krafter. Kluvet Land reser till Trönödalen i Hälsingland och till Agunnaryd i Småland för att träffa några av alla de människor på landsbygden som gör det själva när det offentliga samhället allt mer drar sig tillbaka.   Reportage av Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4328011.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_121223_d5ff.mp3</guid>
+                    <pubDate>Sun, 23 Dec 2012 09:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>”Svenskarna som jobbar gratis” - Kluvet Land, 23 dec 12.00   Vi ligger i topp i världen. Sverige skulle stanna om inte det vore för det ideella arbetet.   När Söderhamns kommun lade ner deltidsbrandkåren i Trönö gick invånarna ihop och startade sitt egna brandvärn. När affären var illa ute köpte man fastigheten. På samma sätt visar man bio och ger ut lokaltidning med ideella krafter. Kluvet Land reser till Trönödalen i Hälsingland och till Agunnaryd i Småland för att träffa några av alla de människor på landsbygden som gör det själva när det offentliga samhället allt mer drar sig tillbaka.   Reportage av Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandSvenskarna,som,jobbar,gratis</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4328011.mp3" length="28816861" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Svenskarna som jobbar gratis</title>
+                    <description>”Svenskarna som jobbar gratis” - Kluvet Land  Vi ligger i topp i världen. Sverige skulle stanna om inte det vore för det ideella arbetet.   När Söderhamns kommun lade ner deltidsbrandkåren i Trönö gick invånarna ihop och startade sitt egna brandvärn. När affären var illa ute köpte man fastigheten. På samma sätt visar man bio och ger ut lokaltidning med ideella krafter. Kluvet Land reser till Trönödalen i Hälsingland och till Agunnaryd i Småland för att träffa några av alla de människor på landsbygden som gör det själva när det offentliga samhället allt mer drar sig tillbaka.   Reportage av Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4328019.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_121223_d7c4.mp3</guid>
+                    <pubDate>Sun, 23 Dec 2012 09:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>”Svenskarna som jobbar gratis” - Kluvet Land  Vi ligger i topp i världen. Sverige skulle stanna om inte det vore för det ideella arbetet.   När Söderhamns kommun lade ner deltidsbrandkåren i Trönö gick invånarna ihop och startade sitt egna brandvärn. När affären var illa ute köpte man fastigheten. På samma sätt visar man bio och ger ut lokaltidning med ideella krafter. Kluvet Land reser till Trönödalen i Hälsingland och till Agunnaryd i Småland för att träffa några av alla de människor på landsbygden som gör det själva när det offentliga samhället allt mer drar sig tillbaka.   Reportage av Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandSvenskarna,som,jobbar,gratis</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4328019.mp3" length="28816831" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land Ingen är vän med en fattig m ny påa av Mona Masri</title>
+                    <description>Frida är 25 år och har jobbat på krogen sedan hon var 14. Hon har serverat, diskat, städat, blandat drinkar och suttit i kassan.  Frida behöver tre olika jobb för att pengarna ska räcka till mat och hyra. Men hon vet aldrig när hon ska jobba. Oftast blir hon inringd på ett par timmars varsel. Fast anställning har hon aldrig varit i närheten av. Nu ringer telefonen inte lika ofta; i flera veckor är den tyst. Fridas stjäl toapapper på restauranger och börjar sälja sina möbler. Hon har inte råd med mat och rasar i vikt. Hennes stora dröm är att bli barnprogramledare i tv, men om inte telefonen ringer snart kommer hon att bli hemlös.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4205730.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_121017_bb04.mp3</guid>
+                    <pubDate>Wed, 17 Oct 2012 11:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Frida är 25 år och har jobbat på krogen sedan hon var 14. Hon har serverat, diskat, städat, blandat drinkar och suttit i kassan.  Frida behöver tre olika jobb för att pengarna ska räcka till mat och hyra. Men hon vet aldrig när hon ska jobba. Oftast blir hon inringd på ett par timmars varsel. Fast anställning har hon aldrig varit i närheten av. Nu ringer telefonen inte lika ofta; i flera veckor är den tyst. Fridas stjäl toapapper på restauranger och börjar sälja sina möbler. Hon har inte råd med mat och rasar i vikt. Hennes stora dröm är att bli barnprogramledare i tv, men om inte telefonen ringer snart kommer hon att bli hemlös.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,Ingen,är,vän,med,en,fattig,m,ny,påa,av,Mona,Masri</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4205730.mp3" length="52907602" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120816 1430 20120818 0903 Fantastiska berättelser</title>
+                    <description>Sommarens sista Kluvet Land berättar fantastiska berättelser om kreativa människor som kan skapa sånt som andra inte trodde vara möjligt. Vi besöker den lilla byn Saxnäs i Lapplandsfjällen där kulturen lever och frodas i ett fullständigt unikt konstmuseum med konst av de stora och med Gerd Ullander som både konstnärlig ledare och kulturmotor. Vi hälsar också på i Lammhult i Småland. Här har ett av Sveriges mest kända varumärken för möbler växt fram och här satsar man på att bli skandinavisk designhuvudstad. Johan Sjöberg, möbelrikets ordförande och delägare och inspiratör till mycket av det som finns i möbelriket säger att om alltihopa legat i en storstad så hade det inte funnits. Du har mycket kontakter i Stockholm med politiker och myndigheter, hur fungerar de kontakterna? Ja de fungerar ju så att jag kommer till dem och vi blir väl mottagna. Men att få ut dem på landet, nä, de vet ju inte vad som finns utanför tullarna kan jag säga. Det är oerhört omständligt att få folk att komma u</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4032686.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120816_b862.mp3</guid>
+                    <pubDate>Thu, 16 Aug 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Sommarens sista Kluvet Land berättar fantastiska berättelser om kreativa människor som kan skapa sånt som andra inte trodde vara möjligt. Vi besöker den lilla byn Saxnäs i Lapplandsfjällen där kulturen lever och frodas i ett fullständigt unikt konstmuseum med konst av de stora och med Gerd Ullander som både konstnärlig ledare och kulturmotor. Vi hälsar också på i Lammhult i Småland. Här har ett av Sveriges mest kända varumärken för möbler växt fram och här satsar man på att bli skandinavisk designhuvudstad. Johan Sjöberg, möbelrikets ordförande och delägare och inspiratör till mycket av det som finns i möbelriket säger att om alltihopa legat i en storstad så hade det inte funnits. Du har mycket kontakter i Stockholm med politiker och myndigheter, hur fungerar de kontakterna? Ja de fungerar ju så att jag kommer till dem och vi blir väl mottagna. Men att få ut dem på landet, nä, de vet ju inte vad som finns utanför tullarna kan jag säga. Det är oerhört omständligt att få folk att komma u</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120816,1430,20120818,0903,Fantastiska,berättelser</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4032686.mp3" length="28729620" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120809 1430 20120811 0903 England</title>
+                    <description>Kluvet Land i P1 reser till england. Där flyttströmmen vänt, nu flyttar de som har råd ut på landet. I England har flyttströmmarna från landsbygden in till städerna vänt. Idag flyttar fler ut på landet och färre till de stora städerna. Chris Head bor i den lilla byn East Harptree i sydvästra England, han jobbar med landsbygdsutveckling och tillhör själv en av de som flyttat ut. Jag och min fru ville bo på en plats där man känner sina grannar, och där man kan vara en aktiv del av samhällslivet, en del av en bygemskap. Men det är inte vilka som helst som flyttar ut, idag är flyttmönstret också en fråga om vilka som har råd. Stadsbor som inte har råd att bo på landet pendlar ut till landsbygden för att arbeta eller för de har en längtan ut. Och rika landsbygdsbor som pendlar in till stan för att arbeta. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4032583.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120809_af0f.mp3</guid>
+                    <pubDate>Thu, 09 Aug 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land i P1 reser till england. Där flyttströmmen vänt, nu flyttar de som har råd ut på landet. I England har flyttströmmarna från landsbygden in till städerna vänt. Idag flyttar fler ut på landet och färre till de stora städerna. Chris Head bor i den lilla byn East Harptree i sydvästra England, han jobbar med landsbygdsutveckling och tillhör själv en av de som flyttat ut. Jag och min fru ville bo på en plats där man känner sina grannar, och där man kan vara en aktiv del av samhällslivet, en del av en bygemskap. Men det är inte vilka som helst som flyttar ut, idag är flyttmönstret också en fråga om vilka som har råd. Stadsbor som inte har råd att bo på landet pendlar ut till landsbygden för att arbeta eller för de har en längtan ut. Och rika landsbygdsbor som pendlar in till stan för att arbeta. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120809,1430,20120811,0903,England</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4032583.mp3" length="28930988" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120802 1430 20120804 0903 Svarta Drömmar</title>
+                    <description>Kluvet Land reser till Trönö, utanför Söderhamn för att prata med PO Tidholm, journalist och glesbygdsskildrare, om bilden i media av livet på landet. -Den ena bilden är att landbygden är en plats för vila och andlighet, och sedan så har du den andra bilden, som något efterblivet och mörkt och dyster och hopplöst, en plats för de som blivit över, som inte är lämpade för det urbana livet. Nattsvart, eller i allafall inte lika bra som Stockholm Det är bilden som forskaren Madeleine Eriksson vid Umeå Universitet såg när hon i en avhandling undersökte bilden av Norrland i nyhetsmedia och populärkultur. Det handlar om avfolkning, arbetslöshet och omoderna människor när medierna beskriver Norrland. Hon menar att de dystra bilderna av landbygden är till för att definiera det som staden inte är. Man är lantis och lite bakom. Det urbana är något eftersträvansvärt, något som vi alla ska vilja ha. Och landsbygden blir något som folk lämnar, där de omoderna finns. Reportrar Anna Burén och Sven Bör</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4032500.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120802_a4e0.mp3</guid>
+                    <pubDate>Thu, 02 Aug 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land reser till Trönö, utanför Söderhamn för att prata med PO Tidholm, journalist och glesbygdsskildrare, om bilden i media av livet på landet. -Den ena bilden är att landbygden är en plats för vila och andlighet, och sedan så har du den andra bilden, som något efterblivet och mörkt och dyster och hopplöst, en plats för de som blivit över, som inte är lämpade för det urbana livet. Nattsvart, eller i allafall inte lika bra som Stockholm Det är bilden som forskaren Madeleine Eriksson vid Umeå Universitet såg när hon i en avhandling undersökte bilden av Norrland i nyhetsmedia och populärkultur. Det handlar om avfolkning, arbetslöshet och omoderna människor när medierna beskriver Norrland. Hon menar att de dystra bilderna av landbygden är till för att definiera det som staden inte är. Man är lantis och lite bakom. Det urbana är något eftersträvansvärt, något som vi alla ska vilja ha. Och landsbygden blir något som folk lämnar, där de omoderna finns. Reportrar Anna Burén och Sven Bör</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120802,1430,20120804,0903,Svarta,Drömmar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4032500.mp3" length="28597362" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120726 1430 20120728 0903 Här var det nymålat</title>
+                    <description>Kluvet land återvänder till Jörn i Västerbotten ett år senare. Familjen Stenman ska nu sälja sitt hus och flytta, skolan är nedläggningshotad men det har också flyttat in ett antal unga familjer som ser en framtid här. Det är en dyster bild av ett samhälle som en gång blomstrat men det finns verkligen också ljuspunkter bland som kommer inflyttande. Patrik Karlsson jobbar på storköket i Jörn tillsammans med Karin Grundström och han och hans sambo är en av dem:  -	Trevligt folk, bra service och billigt, väldigt väldigt billigt. Och nu ska ni flytta in i ett hus här, vad har ni fått ge för det? 160 000, en enplanvilla med källare, garage, fyra rum och kök. Vad säger du om det priset. Riktigt bra, för bra för att vara sant. Hur tänker du om framtiden? Ja, i framtiden kommer vi att få vara ifred, ska man bo i inlandet får man räkna med att ha det lite tufft och man får väl kämpa för allt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4032427.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120726_9d34.mp3</guid>
+                    <pubDate>Thu, 26 Jul 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet land återvänder till Jörn i Västerbotten ett år senare. Familjen Stenman ska nu sälja sitt hus och flytta, skolan är nedläggningshotad men det har också flyttat in ett antal unga familjer som ser en framtid här. Det är en dyster bild av ett samhälle som en gång blomstrat men det finns verkligen också ljuspunkter bland som kommer inflyttande. Patrik Karlsson jobbar på storköket i Jörn tillsammans med Karin Grundström och han och hans sambo är en av dem:  -	Trevligt folk, bra service och billigt, väldigt väldigt billigt. Och nu ska ni flytta in i ett hus här, vad har ni fått ge för det? 160 000, en enplanvilla med källare, garage, fyra rum och kök. Vad säger du om det priset. Riktigt bra, för bra för att vara sant. Hur tänker du om framtiden? Ja, i framtiden kommer vi att få vara ifred, ska man bo i inlandet får man räkna med att ha det lite tufft och man får väl kämpa för allt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120726,1430,20120728,0903,Här,var,det,nymålat</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4032427.mp3" length="28645168" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120719 1430 20120721 0903 Jorden vi ärvde</title>
+                    <description>En av landsbygdens framtida utmaningar är maten och var den ska odlas. - Att ta från jordbruksmarken kan vara förödande i ett tioårsperspektiv, nu när vi går mot bristande olja i världen och det gör vi ju nu i rasande takt, det säger Anders Larsson, forskare vid Sveriges Lantbruksuniversitet. Elna Karlsson, bonde i Svedala i Skåne beskriver hur bördig mark förvandlas till bostäder och parkeringsplatser. - Usch så hemskt, vi ska ju äta i framtiden och vi kan inte förlita oss på andra länder. Reportrar i Kluvet land Anna Burén och Sven Börjesson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4031228.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120719_e4fc.mp3</guid>
+                    <pubDate>Thu, 19 Jul 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>En av landsbygdens framtida utmaningar är maten och var den ska odlas. - Att ta från jordbruksmarken kan vara förödande i ett tioårsperspektiv, nu när vi går mot bristande olja i världen och det gör vi ju nu i rasande takt, det säger Anders Larsson, forskare vid Sveriges Lantbruksuniversitet. Elna Karlsson, bonde i Svedala i Skåne beskriver hur bördig mark förvandlas till bostäder och parkeringsplatser. - Usch så hemskt, vi ska ju äta i framtiden och vi kan inte förlita oss på andra länder. Reportrar i Kluvet land Anna Burén och Sven Börjesson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120719,1430,20120721,0903,Jorden,vi,ärvde</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4031228.mp3" length="28912796" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20120712 1430 20120714 0903 Rött och blått - ny version som är den</title>
+                    <description>Rött och blått. Ideologierna får stryka på foten när den praktiska politiken ska utföras ute i de små kommunerna, långt från de stora städerna. Där kan en moderat höja skatten därför att det behövs och socialdemokrat kan ursäktande säga att det är meninglöst att käbbla och bråka när det handlar om att lösa problem. Kluvet land besöker Lessebo i Småland och Bjurholm i Västerbotten. Reportrar Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4028699.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120712_bb23.mp3</guid>
+                    <pubDate>Thu, 12 Jul 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Rött och blått. Ideologierna får stryka på foten när den praktiska politiken ska utföras ute i de små kommunerna, långt från de stora städerna. Där kan en moderat höja skatten därför att det behövs och socialdemokrat kan ursäktande säga att det är meninglöst att käbbla och bråka när det handlar om att lösa problem. Kluvet land besöker Lessebo i Småland och Bjurholm i Västerbotten. Reportrar Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20120712,1430,20120714,0903,Rött,och,blått,-,ny,version,som,är,den</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4028699.mp3" length="28632191" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land - Glesbygdsbarn</title>
+                    <description>Kluvet Land 20120705. Först utbildning, sedan jobb och sist barn. Kluvet Land i P1 om unga i landsbygdskommunerna som gör tvärtom. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4017061.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120705_d547.mp3</guid>
+                    <pubDate>Thu, 05 Jul 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land 20120705. Först utbildning, sedan jobb och sist barn. Kluvet Land i P1 om unga i landsbygdskommunerna som gör tvärtom. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,-,Glesbygdsbarn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4017061.mp3" length="27609673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land -  Glesbygdsbarn</title>
+                    <description>Först utbildning, sedan jobb och sist barn. Kluvet Land i P1 om unga i landsbygdskommunerna som gör tvärtom. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren, Kluvet Land i P1 20120705</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4020823.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120705_b8f4.mp3</guid>
+                    <pubDate>Thu, 05 Jul 2012 12:30:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Först utbildning, sedan jobb och sist barn. Kluvet Land i P1 om unga i landsbygdskommunerna som gör tvärtom. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren, Kluvet Land i P1 20120705</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,-,,Glesbygdsbarn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4020823.mp3" length="27598398" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land: Skam den som ger sig</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4009199.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120628_db64.mp3</guid>
+                    <pubDate>Thu, 28 Jun 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land:,Skam,den,som,ger,sig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4009199.mp3" length="28764926" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land - Skam den som ger sig</title>
+                    <description>Skam den som ger sig  Kluvet Land i P1 startar sommarens reportageserie med att prata om motstånd och protest. I januari i år ockuperade Doroteaborna i Västerbotten sjukstugan i protest mot landstingets besparingar. I Röstånga i Västra Skåne driver byn konsthall, bygdebuss och planerar att ta över hemtjänsten, allt i bygdens regi. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4009029.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120628_cf92.mp3</guid>
+                    <pubDate>Thu, 28 Jun 2012 12:30:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Skam den som ger sig  Kluvet Land i P1 startar sommarens reportageserie med att prata om motstånd och protest. I januari i år ockuperade Doroteaborna i Västerbotten sjukstugan i protest mot landstingets besparingar. I Röstånga i Västra Skåne driver byn konsthall, bygdebuss och planerar att ta över hemtjänsten, allt i bygdens regi. Reportrar Anna Burén och Sven Börjesson, producent Agneta Kellgren</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,-,Skam,den,som,ger,sig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4009029.mp3" length="28765722" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ny P1 Dok Ingen är vän med en fattig av Mona Masri</title>
+                    <description>Frida är 25 år och har jobbat på krogen sedan hon var 14. Hon har serverat, diskat, städat, blandat drinkar och suttit i kassan.   Frida behöver tre olika jobb för att pengarna ska räcka till mat och hyra. Men hon vet aldrig när hon ska jobba. Oftast blir hon inringd på ett par timmars varsel. Fast anställning har hon aldrig varit i närheten av. Nu ringer telefonen inte lika ofta; i flera veckor är den tyst.  Fridas stjäl toapapper på restauranger och börjar sälja sina möbler. Hon har inte råd med mat och rasar i vikt. Hennes stora dröm är att bli barnprogramledare i tv, men om inte telefonen ringer snart kommer hon att bli hemlös.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3937216.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120516_c772.mp3</guid>
+                    <pubDate>Wed, 16 May 2012 14:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Frida är 25 år och har jobbat på krogen sedan hon var 14. Hon har serverat, diskat, städat, blandat drinkar och suttit i kassan.   Frida behöver tre olika jobb för att pengarna ska räcka till mat och hyra. Men hon vet aldrig när hon ska jobba. Oftast blir hon inringd på ett par timmars varsel. Fast anställning har hon aldrig varit i närheten av. Nu ringer telefonen inte lika ofta; i flera veckor är den tyst.  Fridas stjäl toapapper på restauranger och börjar sälja sina möbler. Hon har inte råd med mat och rasar i vikt. Hennes stora dröm är att bli barnprogramledare i tv, men om inte telefonen ringer snart kommer hon att bli hemlös.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandNy,P1,Dok,Ingen,är,vän,med,en,fattig,av,Mona,Masri</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3937216.mp3" length="53047548" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1 Dok Kluvet land-Slavarna som städar sverige 20120506 1503 20120521 0003</title>
+                    <description>POD: I en COOP-butik i norra Stockholm moppade Jelena golven. Hon gick upp 5 på morgonen för att hinna till jobbet i tid. Sju dagar i veckan. I början gick allt bra men i oktober fick hon plötsligt ingen lön. Hon vände sig till Fackligt Center för Papperslösa. Där mötte hon Bengt, som i vanliga fall jobbar med lönetvister på Fastighets. Han bestämde sig för att försöka hjälpa Jelena.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3916779.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120506_ff73.mp3</guid>
+                    <pubDate>Sun, 06 May 2012 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>POD: I en COOP-butik i norra Stockholm moppade Jelena golven. Hon gick upp 5 på morgonen för att hinna till jobbet i tid. Sju dagar i veckan. I början gick allt bra men i oktober fick hon plötsligt ingen lön. Hon vände sig till Fackligt Center för Papperslösa. Där mötte hon Bengt, som i vanliga fall jobbar med lönetvister på Fastighets. Han bestämde sig för att försöka hjälpa Jelena.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandP1,Dok,Kluvet,land-Slavarna,som,städar,sverige,20120506,1503,20120521,0003</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3916779.mp3" length="46924217" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet land - Gå till jobbet och dö</title>
+                    <description>PODD---Marika Kärnbo tänker ofta på det sista samtalet hon hade med sin son, på det  där Magnus berättade att han ville byta jobb, att det han gjorde just nu kändes  alldeles för obehagligt och farligt. Det måste ha varit på torsdagskvällen, för det var på fredagen som polisen kom och knackade på. Gå till jobbet och dö är berättelsen om en av de drygt femtio svenskar som  varje år dör på sin arbetsplats. 28-årige Magnus Kärnbo var först ut på  järrnvägsrälsen den där eftermiddagen, han ville visa framfötterna och se till  att stolpen vid spår U2 blev jordad i tid. Istället kom tåget. Ett program av Måns Mosesson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3917574.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120505_c78f.mp3</guid>
+                    <pubDate>Sat, 05 May 2012 07:03:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>PODD---Marika Kärnbo tänker ofta på det sista samtalet hon hade med sin son, på det  där Magnus berättade att han ville byta jobb, att det han gjorde just nu kändes  alldeles för obehagligt och farligt. Det måste ha varit på torsdagskvällen, för det var på fredagen som polisen kom och knackade på. Gå till jobbet och dö är berättelsen om en av de drygt femtio svenskar som  varje år dör på sin arbetsplats. 28-årige Magnus Kärnbo var först ut på  järrnvägsrälsen den där eftermiddagen, han ville visa framfötterna och se till  att stolpen vid spår U2 blev jordad i tid. Istället kom tåget. Ett program av Måns Mosesson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,land,-,Gå,till,jobbet,och,dö</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3917574.mp3" length="53032685" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet land - Mannen på taket</title>
+                    <description>---POD</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3904155.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_120428_c1d6.mp3</guid>
+                    <pubDate>Sat, 28 Apr 2012 08:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>---POD</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,land,-,Mannen,på,taket</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3904155.mp3" length="50654914" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110818 Drömmen om landet</title>
+                    <description>Kluvet Land träffar idag bandet Glesbygden som spelar reagge och hyllar sina rötter i de glesa bygderna. Men de bor alla i stan. Många drömmer om ett liv på landet.  --</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270571.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110818_d264.mp3</guid>
+                    <pubDate>Thu, 18 Aug 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land träffar idag bandet Glesbygden som spelar reagge och hyllar sina rötter i de glesa bygderna. Men de bor alla i stan. Många drömmer om ett liv på landet.  --</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110818,Drömmen,om,landet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270571.mp3" length="26692649" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110811 Norge ett inte lika kluvet land</title>
+                    <description>Kluvet Land reser till Norge. Ett land där landsbygdsfrågorna står högt upp på den politiska dagordningen och där det går att vara mjölkbonde även om kornas betesmark är fjällsluttningar och det är 30 mil till mejeriet. Vi reser till Bykle, en glesbygdskommun som har fördubblat sin befolkning de senaste 30-35 åren. En glesbygdskommun med stark ekonomi och kvinnoöverskott. En kommun där såväl barnomsorg som inträde till simhallen är gratis.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270532.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110811_d08e.mp3</guid>
+                    <pubDate>Thu, 11 Aug 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land reser till Norge. Ett land där landsbygdsfrågorna står högt upp på den politiska dagordningen och där det går att vara mjölkbonde även om kornas betesmark är fjällsluttningar och det är 30 mil till mejeriet. Vi reser till Bykle, en glesbygdskommun som har fördubblat sin befolkning de senaste 30-35 åren. En glesbygdskommun med stark ekonomi och kvinnoöverskott. En kommun där såväl barnomsorg som inträde till simhallen är gratis.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110811,Norge,ett,inte,lika,kluvet,land</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270532.mp3" length="26859286" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110804 Ropet från staden</title>
+                    <description>I Kluvet Land idag om de unga som vill bort och om de som stannar kvar.   Hör Astrid Holmström i Robertsfors som drömmer att bli skådespelerska och rektorerna Lennart Ljung och Cai Stigson. Hör också Minna Toivanen, undersköterska i Robertsfors och Expressens Malin Siwe. Hör också sociologen Lotta Svensson i Söderhamn som forskat på varför de unga lämnar småorterna. Det handlar förstås om praktiska saker som skola och utbildning. Men också om värderingar om hur man är en lyckad människa, menar Lotta Svensson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270522.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110804_cfb2.mp3</guid>
+                    <pubDate>Thu, 04 Aug 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>I Kluvet Land idag om de unga som vill bort och om de som stannar kvar.   Hör Astrid Holmström i Robertsfors som drömmer att bli skådespelerska och rektorerna Lennart Ljung och Cai Stigson. Hör också Minna Toivanen, undersköterska i Robertsfors och Expressens Malin Siwe. Hör också sociologen Lotta Svensson i Söderhamn som forskat på varför de unga lämnar småorterna. Det handlar förstås om praktiska saker som skola och utbildning. Men också om värderingar om hur man är en lyckad människa, menar Lotta Svensson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110804,Ropet,från,staden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270522.mp3" length="26502823" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110728 När gröna ideal och lantliv krockar</title>
+                    <description>Kluvet Land idag om när gröna värderingar krockar med realiteten på landsbygden.  För hur kul är det att bo på landet när bensinen är svindyr och när vindkraften bullrar sönder tystnaden? Eller när björnen plötsligt står i ens trädgård?   Byn Norråker i Tåsjödalen i Jämtland ligger i Sveriges mest björntäta område. Här är fyrabarnsmamman Sara Nilsson en av de som tycker att det gått lite väl långt när björnen trampar runt mitt i byn, i rabatter och på farstubroar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270514.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110728_cedd.mp3</guid>
+                    <pubDate>Thu, 28 Jul 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land idag om när gröna värderingar krockar med realiteten på landsbygden.  För hur kul är det att bo på landet när bensinen är svindyr och när vindkraften bullrar sönder tystnaden? Eller när björnen plötsligt står i ens trädgård?   Byn Norråker i Tåsjödalen i Jämtland ligger i Sveriges mest björntäta område. Här är fyrabarnsmamman Sara Nilsson en av de som tycker att det gått lite väl långt när björnen trampar runt mitt i byn, i rabatter och på farstubroar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110728,När,gröna,ideal,och,lantliv,krockar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270514.mp3" length="26777395" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110721 De nya flyttlassen</title>
+                    <description>Kluvet Land idag om en landsbygd som inte bara blir allt glesare och allt äldre utan också allt mer internationell.  Nina Claus och Stan Weyns har flyttat in i en gammal lärarbostad i Söftestorp i Tingsryds kommun, en kommun som på mässor och via konsulter försöker locka få folk från kontinenten. Hundra mil norrut ligger Sveriges minsta kommun, Bjurholm i Västerbotten. Här kan man numera stoltsera med invånare från 30 olika nationer. En del har kommit som flyktingar. Andra som bärplockare eller för kärleken.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270511.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110721_cdfc.mp3</guid>
+                    <pubDate>Thu, 21 Jul 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land idag om en landsbygd som inte bara blir allt glesare och allt äldre utan också allt mer internationell.  Nina Claus och Stan Weyns har flyttat in i en gammal lärarbostad i Söftestorp i Tingsryds kommun, en kommun som på mässor och via konsulter försöker locka få folk från kontinenten. Hundra mil norrut ligger Sveriges minsta kommun, Bjurholm i Västerbotten. Här kan man numera stoltsera med invånare från 30 olika nationer. En del har kommit som flyktingar. Andra som bärplockare eller för kärleken.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110721,De,nya,flyttlassen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270511.mp3" length="26750255" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110714 Det som växer ska växa</title>
+                    <description>Det går inte att vrida klockan tillbaka. Det kluvna landet är här för att stanna. Det menar forskare som Johan Claesson vid Jönköpings internationella handelshögskola. Små regioner förlorar i befolkning och stora ökar i befolkning. Men företagarna på landsbygden tänker inte ge upp. Följ med till Getnö i Småland och till Sorsele i Lapplandsfjällen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3270483.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110714_cd0b.mp3</guid>
+                    <pubDate>Thu, 14 Jul 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Det går inte att vrida klockan tillbaka. Det kluvna landet är här för att stanna. Det menar forskare som Johan Claesson vid Jönköpings internationella handelshögskola. Små regioner förlorar i befolkning och stora ökar i befolkning. Men företagarna på landsbygden tänker inte ge upp. Följ med till Getnö i Småland och till Sorsele i Lapplandsfjällen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110714,Det,som,växer,ska,växa</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3270483.mp3" length="26667757" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110707 Vi gör det själva</title>
+                    <description>Kluvet Land reser idag till Sorsele i södra Lappland och till Torpa i Småland för att träffa människor som är trötta på dysterkvistar och tar saken i egna händer. I Sorsele ordnar Bodil Häggström hårdrocksfestival och i Torpa kämpar föräldrarna för att få behålla sin skola. Föräldrar och andra engagerade i Torpa har samlat in namn och krävt en folkomröstning om de tre landsbygdsskolorna. Över 3800 personer skrev på och fullmäktige i Ljungby har sagt ja till en folkomröstning i höst. Reportrar Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3252841.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110707_9d8c.mp3</guid>
+                    <pubDate>Thu, 07 Jul 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Kluvet Land reser idag till Sorsele i södra Lappland och till Torpa i Småland för att träffa människor som är trötta på dysterkvistar och tar saken i egna händer. I Sorsele ordnar Bodil Häggström hårdrocksfestival och i Torpa kämpar föräldrarna för att få behålla sin skola. Föräldrar och andra engagerade i Torpa har samlat in namn och krävt en folkomröstning om de tre landsbygdsskolorna. Över 3800 personer skrev på och fullmäktige i Ljungby har sagt ja till en folkomröstning i höst. Reportrar Anna Burén och Sven Börjesson. Producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110707,Vi,gör,det,själva</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3252841.mp3" length="26781225" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kluvet Land 20110630 Det är bara skogen som växer</title>
+                    <description>Dottern Saga går snart ut nian och båda föräldrarna måste pendla för jobb. Flytten känns allt mer aktuell för familjen Stenman i Jörn i norra Västerbotten. I vårt första program reser Kluvet Land till Jörn och till Kloten i Bergslagen, två orter som ser ut att ha sin storhetstid bakom sig. I Kloten guidar Bengt Johansson genom den tid som flytt. Hör också Annica Thunborg, som flyttat tillbaka, Mikael Nilsson som har flyttat in och professor Börje Johansson vid Internationella handelshögskolan i Jönköping. Reportrar AnnaBurén och Sven Börjesson. Producent Agneta Kellgren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3238081.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_kluvetland_110630_ec40.mp3</guid>
+                    <pubDate>Thu, 30 Jun 2011 13:00:00 GMT</pubDate>
+                    <programid>4091</programid>
+                    <poddid>14990</poddid>
+                    <itunes:summary>Dottern Saga går snart ut nian och båda föräldrarna måste pendla för jobb. Flytten känns allt mer aktuell för familjen Stenman i Jörn i norra Västerbotten. I vårt första program reser Kluvet Land till Jörn och till Kloten i Bergslagen, två orter som ser ut att ha sin storhetstid bakom sig. I Kloten guidar Bengt Johansson genom den tid som flytt. Hör också Annica Thunborg, som flyttat tillbaka, Mikael Nilsson som har flyttat in och professor Börje Johansson vid Internationella handelshögskolan i Jönköping. Reportrar AnnaBurén och Sven Börjesson. Producent Agneta Kellgren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Kluvet,LandKluvet,Land,20110630,Det,är,bara,skogen,som,växer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3238081.mp3" length="26541768" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

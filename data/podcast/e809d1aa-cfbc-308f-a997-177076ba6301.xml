@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:11 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:11 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=wwnd3aflsqkmjecfdk51ezdm; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:10 GMT"/>
+        <httpclient:header name="Content-Length" value="12933"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/20591</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/20591" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:11 GMT</lastBuildDate>
+                <image>
+                    <title>P1 Debatt</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4645</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4645/3282686_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Ovanliga möten, skratt och allvar, politik och kultur. Månadens hetaste frågor inför valet debatteras direkt inför publik på Kulturhuset i Stockholm.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>P1 Debatt</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>P1 Debatt</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4645</link>
+                <description>Ovanliga möten, skratt och allvar, politik och kultur. Månadens hetaste frågor inför valet debatteras direkt inför publik på Kulturhuset i Stockholm.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Om våld i nära relationer</title>
+                    <description>Hot, kränkningar, våld och trakasserier. Våld i nära relationer är ett stort folkhälsoproblem i Sverige, Men är sällan vi hör personer som blivit utsatta eller utsatt någon för våld själva tala om sina upplevelser.  Medverkande: Åsa Witkowski, Nationellt centrum för kvinnofrid, NCK Natashja Blomberg - Lady Dahmer, bloggare. Kristian Lundberg, författare. Zandra Kanakaris, Sveriges kvinno och tjejjourers. riksförbund, SKR. Arazo Arif, Terrafem.Alán Ali, Fryshuset Malmö. Suzann Larsdotter, RFSL Lars Jalmert, genusforskare. Debbie Nujen, jurist. Michael Alonzo.Jenny Yourstone, Kriminalvården. Nina Rung, Polisen. Programledare: Alexandra Pascalidou.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4976060.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_debatt_20140608_1600_4ef7f35.mp3</guid>
+                    <pubDate>Sun, 08 Jun 2014 14:00:00 GMT</pubDate>
+                    <programid>4645</programid>
+                    <poddid>20591</poddid>
+                    <itunes:summary>Hot, kränkningar, våld och trakasserier. Våld i nära relationer är ett stort folkhälsoproblem i Sverige, Men är sällan vi hör personer som blivit utsatta eller utsatt någon för våld själva tala om sina upplevelser.  Medverkande: Åsa Witkowski, Nationellt centrum för kvinnofrid, NCK Natashja Blomberg - Lady Dahmer, bloggare. Kristian Lundberg, författare. Zandra Kanakaris, Sveriges kvinno och tjejjourers. riksförbund, SKR. Arazo Arif, Terrafem.Alán Ali, Fryshuset Malmö. Suzann Larsdotter, RFSL Lars Jalmert, genusforskare. Debbie Nujen, jurist. Michael Alonzo.Jenny Yourstone, Kriminalvården. Nina Rung, Polisen. Programledare: Alexandra Pascalidou.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,DebattOm,våld,i,nära,relationer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4976060.mp3" length="83597149" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hur mycket fri rörlighet tål EU?</title>
+                    <description>I Sverige ser vi det som självklart att kunna plugga och jobba i andra EU-länder samtidigt som många irriterar sig på polska byggjobbare och rumänska tiggare. Så frågan är - Hur mycket fri rörlighet tål EU? Debattdeltagare: Annika Thor, Författare  Moa Svan, komiker; Thomas Hammarberg, fd EU-kommissionär för mänskliga rättigheter; David Qviström, Journalist och författare; Andrea Wesslén, student och skriver för ETC-tidningarna; Bienvenido Flores, socionom; Anna Johansson, socialchef på Crossroads; Jörgen Karlsson, närpolischef; ;Joakim Ruist, forskare i nationalekonomi; Daniel Suhonen, idéinstitutet Katalys; Fredrik Segerfeldt, författare och liberal debattör; Marie Wedin, ordförande Läkarförbundet; Aaron Israelson, chefredaktör Faktum; Maria Koblanck, Filosofie doktori statsvetenskap; Marius Gaspar, Stadsmissionen; Joanna Ahlkvist, ST-läkare, radiolog Hans Li Egnell, socionom och liberal bloggare. Proigramledare Alexandra Pascalidou.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4939453.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_debatt_20140504_1600_3f9e1f1.mp3</guid>
+                    <pubDate>Sun, 04 May 2014 14:00:00 GMT</pubDate>
+                    <programid>4645</programid>
+                    <poddid>20591</poddid>
+                    <itunes:summary>I Sverige ser vi det som självklart att kunna plugga och jobba i andra EU-länder samtidigt som många irriterar sig på polska byggjobbare och rumänska tiggare. Så frågan är - Hur mycket fri rörlighet tål EU? Debattdeltagare: Annika Thor, Författare  Moa Svan, komiker; Thomas Hammarberg, fd EU-kommissionär för mänskliga rättigheter; David Qviström, Journalist och författare; Andrea Wesslén, student och skriver för ETC-tidningarna; Bienvenido Flores, socionom; Anna Johansson, socialchef på Crossroads; Jörgen Karlsson, närpolischef; ;Joakim Ruist, forskare i nationalekonomi; Daniel Suhonen, idéinstitutet Katalys; Fredrik Segerfeldt, författare och liberal debattör; Marie Wedin, ordförande Läkarförbundet; Aaron Israelson, chefredaktör Faktum; Maria Koblanck, Filosofie doktori statsvetenskap; Marius Gaspar, Stadsmissionen; Joanna Ahlkvist, ST-läkare, radiolog Hans Li Egnell, socionom och liberal bloggare. Proigramledare Alexandra Pascalidou.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,DebattHur,mycket,fri,rörlighet,tål,EU?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4939453.mp3" length="83153025" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>#p1debatt: Hur lågt betyg tål skolan?</title>
+                    <description>Skolverkets generaldirektör Anna Ekström, artisten Adam Tensta, nationalekonomen Jonas Vlachos och Olivia Onwuta som startade uppropet #björklundsskola. Dessutom medverkar forskare, elever, lärare och rektorer om valets hetaste fråga just nu: Hur ska den svenska skolkrisen egentligen lösas? Programledare: Alexandra Pascalidou  Medverkande: Emma Pettersson, elev Ahmed Abdirahim, utbildare, Fryshuset Yodit Girmay, artist, Revolution Poetry Anna Ekström, generaldirektör, Skolverket Per Kornhall, författare Jonas Vlachos, nationalekonom Lina Axelsson Kihlblom, rektor på Ronnaskolan i Södertälje B-O Molander, docent Rektorsrådet, Stockholm Universitet Erik Gustavsson, lärarstudent Olivia Onwuta, initiativtagare till #Björklundsskola Adam Tensta, artist Maria Mpoyi, läxhjälpare Attila Szabo, mattelärare Lena Gumaelius, vice skolchef KTH Sara Beischer, författare &amp; gymnasielärare</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4911379.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_debatt_20140406_1600_3f752eb.mp3</guid>
+                    <pubDate>Sun, 06 Apr 2014 14:00:00 GMT</pubDate>
+                    <programid>4645</programid>
+                    <poddid>20591</poddid>
+                    <itunes:summary>Skolverkets generaldirektör Anna Ekström, artisten Adam Tensta, nationalekonomen Jonas Vlachos och Olivia Onwuta som startade uppropet #björklundsskola. Dessutom medverkar forskare, elever, lärare och rektorer om valets hetaste fråga just nu: Hur ska den svenska skolkrisen egentligen lösas? Programledare: Alexandra Pascalidou  Medverkande: Emma Pettersson, elev Ahmed Abdirahim, utbildare, Fryshuset Yodit Girmay, artist, Revolution Poetry Anna Ekström, generaldirektör, Skolverket Per Kornhall, författare Jonas Vlachos, nationalekonom Lina Axelsson Kihlblom, rektor på Ronnaskolan i Södertälje B-O Molander, docent Rektorsrådet, Stockholm Universitet Erik Gustavsson, lärarstudent Olivia Onwuta, initiativtagare till #Björklundsskola Adam Tensta, artist Maria Mpoyi, läxhjälpare Attila Szabo, mattelärare Lena Gumaelius, vice skolchef KTH Sara Beischer, författare &amp; gymnasielärare</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,Debatt#p1debatt:,Hur,lågt,betyg,tål,skolan?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4911379.mp3" length="83123650" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hur mycket ojämställdhet tål Sverige?</title>
+                    <description>Har Sverige råd med kvinnolöner, kvinnoyrken och mansdominerade bolagsstyrelser? Och hur ser vägen mot jämställdhet ut? I årets andra P1 Debatt möter publiken personer med erfarenheter från olika delar av arbetslivet. Vi pratar om kvotering, kvinnofällor och en jämställd framtid. Hemma, på jobbet och samhällsekonomiskt. Medverkande: Shanthi Rydwall Menon, Amanda Lundeteg, Ebba Witt-Brattström, Danica Kragic, Mira Skundic, Mats Söderlund, Erik Wedin, Martin Höjman, Hidayet Tercan, Elaine Breske Hirscher, Maria Ludvigsson, Pernilla Alexandersson, Eskil Wadensjö. Programledare: Alexandra Pascalidou.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4873048.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_debatt_20140302_1600_4f8c8ab.mp3</guid>
+                    <pubDate>Sun, 02 Mar 2014 14:00:00 GMT</pubDate>
+                    <programid>4645</programid>
+                    <poddid>20591</poddid>
+                    <itunes:summary>Har Sverige råd med kvinnolöner, kvinnoyrken och mansdominerade bolagsstyrelser? Och hur ser vägen mot jämställdhet ut? I årets andra P1 Debatt möter publiken personer med erfarenheter från olika delar av arbetslivet. Vi pratar om kvotering, kvinnofällor och en jämställd framtid. Hemma, på jobbet och samhällsekonomiskt. Medverkande: Shanthi Rydwall Menon, Amanda Lundeteg, Ebba Witt-Brattström, Danica Kragic, Mira Skundic, Mats Söderlund, Erik Wedin, Martin Höjman, Hidayet Tercan, Elaine Breske Hirscher, Maria Ludvigsson, Pernilla Alexandersson, Eskil Wadensjö. Programledare: Alexandra Pascalidou.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,DebattHur,mycket,ojämställdhet,tål,Sverige?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4873048.mp3" length="82842217" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hur mycket rasism tål Sverige?</title>
+                    <description>Premiärsändning för P1 Debatt. Månadens hetaste frågor inför valet debatteras direkt inför publik på Studion/Kulturhuset Stadsteatern i Stockholm. P1 Debatt sänds första söndagen i varje månad. Programledare: Alexandra Pascalidou. Bland de medverkande hörs: Özz Nujen, ståuppare, Seher Yilmaz, ny ordförande för Rättviseförmedlingen, Johan Oljeqvist, VD för Fryshuset,  Anna Rehnvall, liberala tankesmedjan FORES, Faje Gani, VD för Nöjesguiden, Judith Kiros, nätforumet ”Rummet”, Patrik Lundberg, författare, Paula Bieler, SD kuriren m.fl.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4845138.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_debatt_20140202_1600_2289e68.mp3</guid>
+                    <pubDate>Sun, 02 Feb 2014 14:00:00 GMT</pubDate>
+                    <programid>4645</programid>
+                    <poddid>20591</poddid>
+                    <itunes:summary>Premiärsändning för P1 Debatt. Månadens hetaste frågor inför valet debatteras direkt inför publik på Studion/Kulturhuset Stadsteatern i Stockholm. P1 Debatt sänds första söndagen i varje månad. Programledare: Alexandra Pascalidou. Bland de medverkande hörs: Özz Nujen, ståuppare, Seher Yilmaz, ny ordförande för Rättviseförmedlingen, Johan Oljeqvist, VD för Fryshuset,  Anna Rehnvall, liberala tankesmedjan FORES, Faje Gani, VD för Nöjesguiden, Judith Kiros, nätforumet ”Rummet”, Patrik Lundberg, författare, Paula Bieler, SD kuriren m.fl.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,DebattHur,mycket,rasism,tål,Sverige?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4845138.mp3" length="83107061" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

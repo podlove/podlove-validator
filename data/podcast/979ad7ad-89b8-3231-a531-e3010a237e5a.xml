@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:26:23 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Vary" value="Host"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.5"/>
+        <httpclient:header name="Content-Length" value="4987"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml"><?xml-stylesheet href="/styles/rss/rss20.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="/styles/rss/rss20.css" type="text/css" media="screen"?>
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Abgekuppelt</title>
+                <itunes:subtitle>Am Fenster mit Morgan…</itunes:subtitle>
+                <itunes:summary>Abgekuppelt ist der private Podcast von Morgan Schönberger, Stimme des Klangkammer-Universums und Internet-Mensch, rund um alles andere…</itunes:summary>
+                <link>http://klangkammer-media.de/blog/category/abgekuppelt/</link>
+                <description>Abgekuppelt ist der private Podcast von Morgan Schönberger, Stimme des Klangkammer-Universums und Internet-Mensch, rund um alles andere…</description>
+                <lastBuildDate>Wed, 20 Aug 2014 11:26:23 +0200</lastBuildDate>
+                <language>de-de</language>
+                <copyright>Morgan Schönberger</copyright>
+                <generator>PodHost.de - Keeping your podcasts up and running</generator>
+                <webMaster>Morgan Schönberger</webMaster>
+                <managingEditor>Morgan Schönberger</managingEditor>
+                <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" title="Abgekuppelt" href="http://abgekuppelt.podspot.de/rss"/>
+                <itunes:owner>
+                    <itunes:name>Klangkammer Media</itunes:name>
+                    <itunes:email>Abgekuppelt@schoeM.de</itunes:email>
+                </itunes:owner>
+                <itunes:author>Klangkammer Media</itunes:author>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Personal Journals"/>
+                </itunes:category>
+                <itunes:category text="Music"/>
+                <itunes:category text="Technology">
+                    <itunes:category text="Podcasting"/>
+                </itunes:category>
+                <itunes:image href="http://www.bilder-hochladen.net/files/big/i506-1.png"/>
+                <image>
+                    <url>http://www.bilder-hochladen.net/files/big/i506-1.png</url>
+                    <title>Abgekuppelt</title>
+                    <link>http://klangkammer-media.de/blog/category/abgekuppelt/</link>
+                </image>
+                <itunes:explicit>no</itunes:explicit>
+                <ttl>20</ttl>
+                <item>
+                    <title>AK #002 (Uni Stuttgart?!)</title>
+                    <description>Nach nur knapper Wartezeit kommt hier die zweite Folge Abgekuppelt.
+
+Nicht ohne Grund kurz vor dem Semesterbeginn, denn ich reg mich ziemlich über die Uni in Stuttgart auf, alles weitere gibt's dann in der Folge.
+
+Der Radioausschnitt in der Folge ist von hier: http://www.radiopannen.de/index.php?pid=226 
+</description>
+                    <author>Morgan Schönberger</author>
+                    <pubDate>Thu, 04 Oct 2012 17:38:10 +0200</pubDate>
+                    <guid isPermaLink="false">9fd6256c816ecd78b0c779458f33c90a</guid>
+                    <link>http://abgekuppelt.podspot.de/post/ak-002-uni-stuttgart/</link>
+                    <enclosure url="http://abgekuppelt.podspot.de/files/AK002.mp3" length="5344572" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AK #001 (Premiere)</title>
+                    <description>Hier ist sie, die erste Folge Abgekuppelt, dem neuen Podcast aus der Klangkammer. Eigentlich wollte ich ja heute einen Balkoncast veröffentlichen, aber da keiner mitgemacht hat eben das neue Format, dass ich schon lange in der Hinterhand habe. Ich bin gespannt wie euer Feedback aussieht und freue mich auf weitere Solo-Sendungen.
+
+ 
+
+Themen waren:
+
+Intro heute journal Titelmusik; Balkoncast; Wort und Stille; Mate; Matecalypse; 1-Wochen-Frequenz; Magazinsendung; Beiträge; Titelergänzungen; Holgi; The Big Bang Theory (DVD*); How to Feedback: Blog / Twitter Abgekuppelt / Twitter schoeM; The Big Bang Theory Intro als Outro
+
+ 
+
+Ich hoffe euch hat die erste Folge gefallen, abonnieren könnt Ihr Abgekuppelt einfach über iTunes oder Ihr hört den Podcast auf der Seite hier.</description>
+                    <author>Morgan Schönberger</author>
+                    <pubDate>Sat, 09 Jul 2011 18:11:52 +0200</pubDate>
+                    <guid isPermaLink="false">b817da5e5dad6473ec57256f60e50f01</guid>
+                    <link>http://abgekuppelt.podspot.de/post/ak-001-premiere/</link>
+                    <enclosure url="http://abgekuppelt.podspot.de/files/AK001.mp3" length="7741125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AK #000 (Nullnummer)</title>
+                    <description>Bitte gehen Sie weiter, hier gibt es nichts zu sehen!</description>
+                    <author>Morgan Schönberger</author>
+                    <pubDate>Mon, 13 Jun 2011 12:04:52 +0200</pubDate>
+                    <guid isPermaLink="false">9942b532f5cafb324e64e5d64a47b0cd</guid>
+                    <link>http://abgekuppelt.podspot.de/post/ak-000-nullnummer/</link>
+                    <enclosure url="http://abgekuppelt.podspot.de/files/AK%20%23000.mp3" length="900638" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Willkommen</title>
+                    <description>Willkommen bei deinem PodHost.de Account. Dieser Beitrag wurde automatisch für dich angelegt. Bearbeite oder Lösche ihn, und dann viel Spaß beim Podcasten!</description>
+                    <author>Morgan Schönberger</author>
+                    <pubDate>Tue, 07 Jun 2011 12:00:09 +0200</pubDate>
+                    <guid isPermaLink="false">3b18db622e833a7601bec26fe1f8e168</guid>
+                    <link>http://abgekuppelt.podspot.de/post/welcome/</link>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:28:12 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Pingback" value="http://aftereffects-screencast.de/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Wed, 25 Dec 2013 18:00:37 GMT"/>
+        <httpclient:header name="ETag" value="&#34;92f8a6e761180bb53508fa96951f9188&#34;"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:amp="http://www.adobe.com/amp/1.0" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>After Effects Screencast</title>
+                <atom:link href="http://aftereffects-screencast.de/?feed=podcast" rel="self" type="application/rss+xml"/>
+                <link>http://aftereffects-screencast.de</link>
+                <description>Video-Tutorials zu Adobe After Effects - jede Woche neu</description>
+                <pubDate>Wed, 25 Dec 2013 18:00:37 +0000</pubDate>
+                <generator>http://wordpress.org/?v=2.7.1</generator>
+                <language>de</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+		<!-- podcast_generator="podPress/8.8" -->
+                <copyright>©video2brain GmbH </copyright>
+                <managingEditor>office@aftereffects-screencast.de (video2brain GmbH)</managingEditor>
+                <webMaster>office@aftereffects-screencast.de(video2brain GmbH)</webMaster>
+                <category>Software How-To</category>
+                <amp:logo/>
+                <amp:halfBanner/>
+                <amp:banner/>
+                <amp:background/>
+                <ttl>1440</ttl>
+                <itunes:keywords/>
+                <itunes:subtitle/>
+                <itunes:summary>After Effects Screencast bietet Ihnen jede Woche ein neues Video-Tutorial. Die besten Trainer im deutschsprachigen Raum zeigen Ihnen alles rund um Adobe After Effects.</itunes:summary>
+                <itunes:author>video2brain GmbH</itunes:author>
+                <itunes:category text="Technology">
+                    <itunes:category text="Software How-To"/>
+                </itunes:category>
+                <itunes:category text="Education">
+                    <itunes:category text="Education Technology"/>
+                </itunes:category>
+                <itunes:category text="Education">
+                    <itunes:category text="Training"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>video2brain GmbH</itunes:name>
+                    <itunes:email>office@aftereffects-screencast.de</itunes:email>
+                </itunes:owner>
+                <itunes:block>No</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://aftereffects-screencast.de/wp-content/feed_images/aftereffects_300x300.jpg"/>
+                <image>
+                    <url>http://aftereffects-screencast.de/wp-content/feed_images/aftereffects_144x144.jpg</url>
+                    <title>After Effects Screencast</title>
+                    <link>http://aftereffects-screencast.de</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <item>
+                    <title>Episode 155: Das Storyboard von Premiere Pro</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep155-das-storyboard-von-premiere-pro/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep155-das-storyboard-von-premiere-pro/#comments</comments>
+                    <pubDate>Wed, 25 Dec 2013 18:00:37 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=537</guid>
+                    <description>Ist die Vorauswahl getroffen, ordnen Sie die Clips in der Ablage – dem Storyboard von Premiere Pro – in der richtigen &amp;#8220;Filmreihenfolge&amp;#8221; an. Das ist per Drag&amp;#38;Drop fast schon ein Kinderspiel.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Ist die Vorauswahl getroffen, ordnen Sie die Clips in der Ablage – dem Storyboard von Premiere Pro – in der richtigen &amp;#8220;Filmreihenfolge&amp;#8221; an. Das ist per Drag&amp;amp;Drop fast schon ein Kinderspiel.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep155-das-storyboard-von-premiere-pro/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/537/0/aftereffects_podcast_episode_155.m4v" length="10310046" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_155_small.jpg"/>
+                    <itunes:duration>3:02</itunes:duration>
+                    <itunes:subtitle>Ist die Vorauswahl getroffen, ordnen Sie die Clips in der Ablage – dem Storyboard von Premiere Pro – in der richtigen "Filmreihenfolge" an. Das ist ...</itunes:subtitle>
+                    <itunes:summary>Ist die Vorauswahl getroffen, ordnen Sie die Clips in der Ablage – dem Storyboard von Premiere Pro – in der richtigen "Filmreihenfolge" an. Das ist per Drag#38;Drop fast schon ein Kinderspiel.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 154: Animationen auslagern</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep154-animationen-auslagern/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep154-animationen-auslagern/#comments</comments>
+                    <pubDate>Wed, 27 Nov 2013 18:00:06 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=534</guid>
+                    <description>Erstellte Animationen können in Flash in Spritesheets ausgelagert werden. Dies ist besonders bei der Entwicklung von Grafiken für die Entwicklung von Spielen sinnvoll.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Erstellte Animationen können in Flash in Spritesheets ausgelagert werden. Dies ist besonders bei der Entwicklung von Grafiken für die Entwicklung von Spielen sinnvoll.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep154-animationen-auslagern/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/534/0/aftereffects_podcast_episode_154.m4v" length="15190868" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_154_small.jpg"/>
+                    <itunes:duration>4:41</itunes:duration>
+                    <itunes:subtitle>Erstellte Animationen können in Flash in Spritesheets ausgelagert werden. Dies ist besonders bei der Entwicklung von Grafiken für die Entwicklung von Spielen sinnvoll. </itunes:subtitle>
+                    <itunes:summary>Erstellte Animationen können in Flash in Spritesheets ausgelagert werden. Dies ist besonders bei der Entwicklung von Grafiken für die Entwicklung von Spielen sinnvoll.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 153: Video exportieren</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep153-video-exportieren/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep153-video-exportieren/#comments</comments>
+                    <pubDate>Wed, 30 Oct 2013 18:00:15 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=532</guid>
+                    <description>Es besteht ebenfalls die Möglichkeit, Videos aus Flash in höchster Qualität zu exportieren. Hierbei werden sowohl verschachtelte Movieclips als auch Animationen, welche über ActionScript gesteuert werden, übernommen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Es besteht ebenfalls die Möglichkeit, Videos aus Flash in höchster Qualität zu exportieren. Hierbei werden sowohl verschachtelte Movieclips als auch Animationen, welche über ActionScript gesteuert werden, übernommen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep153-video-exportieren/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/532/0/aftereffects_podcast_episode_153.m4v" length="35799084" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_153_small.jpg"/>
+                    <itunes:duration>11:46</itunes:duration>
+                    <itunes:subtitle>Es besteht ebenfalls die Möglichkeit, Videos aus Flash in höchster Qualität zu exportieren. Hierbei werden sowohl verschachtelte Movieclips als auch Animationen, welche über ActionScript gesteuert ...</itunes:subtitle>
+                    <itunes:summary>Es besteht ebenfalls die Möglichkeit, Videos aus Flash in höchster Qualität zu exportieren. Hierbei werden sowohl verschachtelte Movieclips als auch Animationen, welche über ActionScript gesteuert werden, übernommen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 152: Einzelbildanimation</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep152-einzelbildanimation/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep152-einzelbildanimation/#comments</comments>
+                    <pubDate>Wed, 02 Oct 2013 18:00:06 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=529</guid>
+                    <description>Die Einzelbildanimation stellt in Flash die einfachste Art der Animation dar. Dabei werden die Änderungen von Elementen in Schlüsselbildern festgehalten, welche anschließend der Reihenfolge nach abgespielt werden.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Die Einzelbildanimation stellt in Flash die einfachste Art der Animation dar. Dabei werden die Änderungen von Elementen in Schlüsselbildern festgehalten, welche anschließend der Reihenfolge nach abgespielt werden.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep152-einzelbildanimation/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/529/0/aftereffects_podcast_episode_152.m4v" length="9733679" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_152_small.jpg"/>
+                    <itunes:duration>3:37</itunes:duration>
+                    <itunes:subtitle>Die Einzelbildanimation stellt in Flash die einfachste Art der Animation dar. Dabei werden die Änderungen von Elementen in Schlüsselbildern festgehalten, welche anschließend der Reihenfolge nach ...</itunes:subtitle>
+                    <itunes:summary>Die Einzelbildanimation stellt in Flash die einfachste Art der Animation dar. Dabei werden die Änderungen von Elementen in Schlüsselbildern festgehalten, welche anschließend der Reihenfolge nach abgespielt werden.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 151: Grundformen-Werkzeug</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep151-grundformen-werkzeug/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep151-grundformen-werkzeug/#comments</comments>
+                    <pubDate>Wed, 04 Sep 2013 18:00:07 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <category>Flash CC</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=527</guid>
+                    <description>Durch die Verwendung von Grundformen-Werkzeugen, welche für Rechtecke und Ellipsen zur Verfügung stehen, können Formen nachträglich auf einfache Art und Weise modifiziert werden.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Durch die Verwendung von Grundformen-Werkzeugen, welche für Rechtecke und Ellipsen zur Verfügung stehen, können Formen nachträglich auf einfache Art und Weise modifiziert werden.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep151-grundformen-werkzeug/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/527/0/aftereffects_podcast_episode_151.m4v" length="10479406" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_151_small.jpg"/>
+                    <itunes:duration>3:39</itunes:duration>
+                    <itunes:subtitle>Durch die Verwendung von Grundformen-Werkzeugen, welche für Rechtecke und Ellipsen zur Verfügung stehen, können Formen nachträglich auf einfache Art und Weise modifiziert werden. </itunes:subtitle>
+                    <itunes:summary>Durch die Verwendung von Grundformen-Werkzeugen, welche für Rechtecke und Ellipsen zur Verfügung stehen, können Formen nachträglich auf einfache Art und Weise modifiziert werden.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 150: Sequenzebenen</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep150-sequenzebenen/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep150-sequenzebenen/#comments</comments>
+                    <pubDate>Wed, 14 Aug 2013 18:00:49 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=525</guid>
+                    <description>Sequenzebenen können einem die Arbeit erleichtern und der Trainer zeigt Ihnen wie. Auch da passieren kleine Fehler und so können schon mal die Ebenen verkehrt herum in der Zeitleiste landen. 
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Sequenzebenen können einem die Arbeit erleichtern und der Trainer zeigt Ihnen wie. Auch da passieren kleine Fehler und so können schon mal die Ebenen verkehrt herum in der Zeitleiste landen. &lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep150-sequenzebenen/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/525/0/aftereffects_podcast_episode_150.m4v" length="16534627" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_150_small.jpg"/>
+                    <itunes:duration>5:31</itunes:duration>
+                    <itunes:subtitle>Sequenzebenen können einem die Arbeit erleichtern und der Trainer zeigt Ihnen wie. Auch da passieren kleine Fehler und so können schon mal die Ebenen verkehrt ...</itunes:subtitle>
+                    <itunes:summary>Sequenzebenen können einem die Arbeit erleichtern und der Trainer zeigt Ihnen wie. Auch da passieren kleine Fehler und so können schon mal die Ebenen verkehrt herum in der Zeitleiste landen. </itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 149: Ausrichten 2D</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep149-ausrichten-2d/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep149-ausrichten-2d/#comments</comments>
+                    <pubDate>Wed, 31 Jul 2013 18:00:18 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=523</guid>
+                    <description>Ausrichten wird Ihre Arbeit vereinfachen. Layouten und Positionieren leicht gemacht, denn Sie können über diese Funktion Ihr Layouten einfacher gestalten.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Ausrichten wird Ihre Arbeit vereinfachen. Layouten und Positionieren leicht gemacht, denn Sie können über diese Funktion Ihr Layouten einfacher gestalten.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep149-ausrichten-2d/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/523/0/aftereffects_podcast_episode_149.m4v" length="19376525" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_149_small.jpg"/>
+                    <itunes:duration>4:01</itunes:duration>
+                    <itunes:subtitle>Ausrichten wird Ihre Arbeit vereinfachen. Layouten und Positionieren leicht gemacht, denn Sie können über diese Funktion Ihr Layouten einfacher gestalten. </itunes:subtitle>
+                    <itunes:summary>Ausrichten wird Ihre Arbeit vereinfachen. Layouten und Positionieren leicht gemacht, denn Sie können über diese Funktion Ihr Layouten einfacher gestalten.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 148: Verpixeln</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep148-verpixeln/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep148-verpixeln/#comments</comments>
+                    <pubDate>Wed, 17 Jul 2013 18:00:52 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=521</guid>
+                    <description>In diesem Film wird Ihnen erklärt, wie Sie Menschen und Objekte mit Weichzeichnern oder Masken anonymisieren.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;In diesem Film wird Ihnen erklärt, wie Sie Menschen und Objekte mit Weichzeichnern oder Masken anonymisieren.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep148-verpixeln/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/521/0/aftereffects_podcast_episode_148.m4v" length="24042711" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_148_small.jpg"/>
+                    <itunes:duration>4:38</itunes:duration>
+                    <itunes:subtitle>In diesem Film wird Ihnen erklärt, wie Sie Menschen und Objekte mit Weichzeichnern oder Masken anonymisieren. </itunes:subtitle>
+                    <itunes:summary>In diesem Film wird Ihnen erklärt, wie Sie Menschen und Objekte mit Weichzeichnern oder Masken anonymisieren.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 147: Fenster und Oberfläche</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep147-fenster-und-oberflache/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep147-fenster-und-oberflache/#comments</comments>
+                    <pubDate>Wed, 03 Jul 2013 18:00:06 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CC</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=519</guid>
+                    <description>Ein Überblick über die Oberfläche und Fenster-Workflow-Ansichten mit After Effects. Grundsätzlich gilt – man kann nie genug Monitore haben! Aber beschränken wir uns auf die wichtigsten Fenster, die Sie hier näher kennenlernen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Ein Überblick über die Oberfläche und Fenster-Workflow-Ansichten mit After Effects. Grundsätzlich gilt – man kann nie genug Monitore haben! Aber beschränken wir uns auf die wichtigsten Fenster, die Sie hier näher kennenlernen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep147-fenster-und-oberflache/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/519/0/aftereffects_podcast_episode_147.m4v" length="17635460" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_147_small.jpg"/>
+                    <itunes:duration>4:29</itunes:duration>
+                    <itunes:subtitle>Ein Überblick über die Oberfläche und Fenster-Workflow-Ansichten mit After Effects. Grundsätzlich gilt – man kann nie genug Monitore haben! Aber beschränken wir uns auf die ...</itunes:subtitle>
+                    <itunes:summary>Ein Überblick über die Oberfläche und Fenster-Workflow-Ansichten mit After Effects. Grundsätzlich gilt – man kann nie genug Monitore haben! Aber beschränken wir uns auf die wichtigsten Fenster, die Sie hier näher kennenlernen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 146: Effekte</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep146-effekte/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep146-effekte/#comments</comments>
+                    <pubDate>Wed, 19 Jun 2013 18:00:35 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=517</guid>
+                    <description>Effekte können im Effekte- und Vorgaben-Fenster schneller einer Ebene hinzugefügt werden und verfügen in der aktuellen Version teilweise über neue Optionen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Effekte können im Effekte- und Vorgaben-Fenster schneller einer Ebene hinzugefügt werden und verfügen in der aktuellen Version teilweise über neue Optionen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep146-effekte/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/517/0/aftereffects_podcast_episode_146.m4v" length="15438493" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_146_small.jpg"/>
+                    <itunes:duration>4:05</itunes:duration>
+                    <itunes:subtitle>Effekte können im Effekte- und Vorgaben-Fenster schneller einer Ebene hinzugefügt werden und verfügen in der aktuellen Version teilweise über neue Optionen. </itunes:subtitle>
+                    <itunes:summary>Effekte können im Effekte- und Vorgaben-Fenster schneller einer Ebene hinzugefügt werden und verfügen in der aktuellen Version teilweise über neue Optionen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 145: Pixel-Bewegungsunschärfe</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep145-pixel-bewegungsunscharfe/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep145-pixel-bewegungsunscharfe/#comments</comments>
+                    <pubDate>Wed, 05 Jun 2013 18:00:06 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=515</guid>
+                    <description>Mit dem Effekt „Pixel-Bewegungsunschärfe“ kann eine künstliche Bewegungsunschärfe in eine Animation gerechnet werden. Dafür stehen einige Optionen zur Verfügung.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Mit dem Effekt „Pixel-Bewegungsunschärfe“ kann eine künstliche Bewegungsunschärfe in eine Animation gerechnet werden. Dafür stehen einige Optionen zur Verfügung.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep145-pixel-bewegungsunscharfe/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/515/0/aftereffects_podcast_episode_145.m4v" length="14931485" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_145_small.jpg"/>
+                    <itunes:duration>4:08</itunes:duration>
+                    <itunes:subtitle>Mit dem Effekt „Pixel-Bewegungsunschärfe“ kann eine künstliche Bewegungsunschärfe in eine Animation gerechnet werden. Dafür stehen einige Optionen zur Verfügung. </itunes:subtitle>
+                    <itunes:summary>Mit dem Effekt „Pixel-Bewegungsunschärfe“ kann eine künstliche Bewegungsunschärfe in eine Animation gerechnet werden. Dafür stehen einige Optionen zur Verfügung.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 144: Masken verbessern</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep144-masken-verbessern/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep144-masken-verbessern/#comments</comments>
+                    <pubDate>Wed, 22 May 2013 18:00:51 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=498</guid>
+                    <description>Mit den Effekten „Weiche bzw. Harte Maske verbessern“ besteht die Möglichkeit, die gewünschten Kanten auf eine Maske zu berechnen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Mit den Effekten „Weiche bzw. Harte Maske verbessern“ besteht die Möglichkeit, die gewünschten Kanten auf eine Maske zu berechnen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep144-masken-verbessern/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/498/0/aftereffects_podcast_episode_144.m4v" length="19412973" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_144_small.jpg"/>
+                    <itunes:duration>6:23</itunes:duration>
+                    <itunes:subtitle>Mit den Effekten „Weiche bzw. Harte Maske verbessern“ besteht die Möglichkeit, die gewünschten Kanten auf eine Maske zu berechnen. </itunes:subtitle>
+                    <itunes:summary>Mit den Effekten „Weiche bzw. Harte Maske verbessern“ besteht die Möglichkeit, die gewünschten Kanten auf eine Maske zu berechnen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 143: Transparenz erhalten</title>
+                    <link>http://aftereffects-screencast.de/blog/143-ep143-transparenz-erhalten/</link>
+                    <comments>http://aftereffects-screencast.de/blog/143-ep143-transparenz-erhalten/#comments</comments>
+                    <pubDate>Wed, 24 Apr 2013 18:00:15 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=496</guid>
+                    <description>Die Funktion „Transparenz erhalten“ ermöglicht es, die darunterliegenden Elemente einer Ebene als Freisteller zu verwenden. 
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Die Funktion „Transparenz erhalten“ ermöglicht es, die darunterliegenden Elemente einer Ebene als Freisteller zu verwenden. &lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/143-ep143-transparenz-erhalten/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/496/0/aftereffects_podcast_episode_143.m4v" length="28362088" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_143_small.jpg"/>
+                    <itunes:duration>8:18</itunes:duration>
+                    <itunes:subtitle>Die Funktion „Transparenz erhalten“ ermöglicht es, die darunterliegenden Elemente einer Ebene als Freisteller zu verwenden.  </itunes:subtitle>
+                    <itunes:summary>Die Funktion „Transparenz erhalten“ ermöglicht es, die darunterliegenden Elemente einer Ebene als Freisteller zu verwenden. </itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 142: Grundlegende Texteigenschaften</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep142-grundlegende-texteigenschaften/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep142-grundlegende-texteigenschaften/#comments</comments>
+                    <pubDate>Wed, 10 Apr 2013 18:00:05 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=493</guid>
+                    <description>Eine Textebene beinhaltet Animationsoptionen für einen Text. Die Option Quelltext ermöglicht es, einen Text durch einen harten Schnitt zu animieren, die Pfadoptionen animieren den Text an einem Pfad ausgerichtet.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Eine Textebene beinhaltet Animationsoptionen für einen Text. Die Option Quelltext ermöglicht es, einen Text durch einen harten Schnitt zu animieren, die Pfadoptionen animieren den Text an einem Pfad ausgerichtet.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep142-grundlegende-texteigenschaften/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/493/0/aftereffects_podcast_episode_142.m4v" length="17294240" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_142_small.jpg"/>
+                    <itunes:duration>7:14</itunes:duration>
+                    <itunes:subtitle>Eine Textebene beinhaltet Animationsoptionen für einen Text. Die Option Quelltext ermöglicht es, einen Text durch einen harten Schnitt zu animieren, die Pfadoptionen animieren den Text ...</itunes:subtitle>
+                    <itunes:summary>Eine Textebene beinhaltet Animationsoptionen für einen Text. Die Option Quelltext ermöglicht es, einen Text durch einen harten Schnitt zu animieren, die Pfadoptionen animieren den Text an einem Pfad ausgerichtet.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 141: Key Frames bearbeiten</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep141-key-frames-bearbeiten/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep141-key-frames-bearbeiten/#comments</comments>
+                    <pubDate>Wed, 27 Mar 2013 18:00:44 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=491</guid>
+                    <description>Dieses Video zeigt die sinnvollste Art und Weise, Key Frames effizient zu bearbeiten.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Dieses Video zeigt die sinnvollste Art und Weise, Key Frames effizient zu bearbeiten.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep141-key-frames-bearbeiten/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/491/0/aftereffects_podcast_episode_141.m4v" length="15395083" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_141_small.jpg"/>
+                    <itunes:duration>6:08</itunes:duration>
+                    <itunes:subtitle>Dieses Video zeigt die sinnvollste Art und Weise, Key Frames effizient zu bearbeiten. </itunes:subtitle>
+                    <itunes:summary>Dieses Video zeigt die sinnvollste Art und Weise, Key Frames effizient zu bearbeiten.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 140: Projektfenster</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep140-projektfenster/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep140-projektfenster/#comments</comments>
+                    <pubDate>Wed, 13 Mar 2013 18:00:17 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=488</guid>
+                    <description>Das Projektfenster verwaltet das Quellmaterial. Es besteht die Möglichkeit, das Footage zu interpretieren, Kompositionen und Ordner zu erstellen und die Projekteinstellungen aufzurufen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Das Projektfenster verwaltet das Quellmaterial. Es besteht die Möglichkeit, das Footage zu interpretieren, Kompositionen und Ordner zu erstellen und die Projekteinstellungen aufzurufen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep140-projektfenster/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/488/0/aftereffects_podcast_episode_140.m4v" length="19495955" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_140_small.jpg"/>
+                    <itunes:duration>6:56</itunes:duration>
+                    <itunes:subtitle>Das Projektfenster verwaltet das Quellmaterial. Es besteht die Möglichkeit, das Footage zu interpretieren, Kompositionen und Ordner zu erstellen und die Projekteinstellungen aufzurufen. </itunes:subtitle>
+                    <itunes:summary>Das Projektfenster verwaltet das Quellmaterial. Es besteht die Möglichkeit, das Footage zu interpretieren, Kompositionen und Ordner zu erstellen und die Projekteinstellungen aufzurufen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 139: Standbild in Bewegung versetzen</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep139-standbild-in-bewegung-versetzen/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep139-standbild-in-bewegung-versetzen/#comments</comments>
+                    <pubDate>Wed, 27 Feb 2013 18:00:40 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=486</guid>
+                    <description>Es besteht die Möglichkeit, mit der Anwendung von Effekten und der Verwendung von Masken ein importiertes Standbild in Bewegung zu versetzen.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Es besteht die Möglichkeit, mit der Anwendung von Effekten und der Verwendung von Masken ein importiertes Standbild in Bewegung zu versetzen.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep139-standbild-in-bewegung-versetzen/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/486/0/aftereffects_podcast_episode_139.m4v" length="19560181" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_139_small.jpg"/>
+                    <itunes:duration>5:54</itunes:duration>
+                    <itunes:subtitle>Es besteht die Möglichkeit, mit der Anwendung von Effekten und der Verwendung von Masken ein importiertes Standbild in Bewegung zu versetzen. </itunes:subtitle>
+                    <itunes:summary>Es besteht die Möglichkeit, mit der Anwendung von Effekten und der Verwendung von Masken ein importiertes Standbild in Bewegung zu versetzen.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 138: After Effects</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep138-after-effects/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep138-after-effects/#comments</comments>
+                    <pubDate>Wed, 13 Feb 2013 18:00:12 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=484</guid>
+                    <description>After Effects-Kompositionen lassen sich direkt im Media Encoder öffnen und exportieren, während man in After Effects an anderen Projekten weiterarbeitet.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;After Effects-Kompositionen lassen sich direkt im Media Encoder öffnen und exportieren, während man in After Effects an anderen Projekten weiterarbeitet.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep138-after-effects/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/484/0/aftereffects_podcast_episode_138.m4v" length="12529809" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_138_small.jpg"/>
+                    <itunes:duration>4:24</itunes:duration>
+                    <itunes:subtitle>After Effects-Kompositionen lassen sich direkt im Media Encoder öffnen und exportieren, während man in After Effects an anderen Projekten weiterarbeitet. </itunes:subtitle>
+                    <itunes:summary>After Effects-Kompositionen lassen sich direkt im Media Encoder öffnen und exportieren, während man in After Effects an anderen Projekten weiterarbeitet.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 137: Premiere Pro</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep137-premiere-pro/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep137-premiere-pro/#comments</comments>
+                    <pubDate>Wed, 30 Jan 2013 18:00:44 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <category>Premiere</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=477</guid>
+                    <description>Die Zusammenarbeit zwischen Premiere Pro und dem Media Encoder funktioniert über Dynamic Link. Sie können Premiere Pro-Projekte importieren oder eine Sequenz aus Premiere Pro an die Warteschlange des Media Encoders schicken.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Die Zusammenarbeit zwischen Premiere Pro und dem Media Encoder funktioniert über Dynamic Link. Sie können Premiere Pro-Projekte importieren oder eine Sequenz aus Premiere Pro an die Warteschlange des Media Encoders schicken.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep137-premiere-pro/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/477/0/aftereffects_podcast_episode_137.m4v" length="21563027" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_137_small.jpg"/>
+                    <itunes:duration>7:48</itunes:duration>
+                    <itunes:subtitle>Die Zusammenarbeit zwischen Premiere Pro und dem Media Encoder funktioniert über Dynamic Link. Sie können Premiere Pro-Projekte importieren oder eine Sequenz aus Premiere Pro an ...</itunes:subtitle>
+                    <itunes:summary>Die Zusammenarbeit zwischen Premiere Pro und dem Media Encoder funktioniert über Dynamic Link. Sie können Premiere Pro-Projekte importieren oder eine Sequenz aus Premiere Pro an die Warteschlange des Media Encoders schicken.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 136: Audio- und Bildsequenzen</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep136-audio-und-bildsequenzen/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep136-audio-und-bildsequenzen/#comments</comments>
+                    <pubDate>Wed, 16 Jan 2013 18:00:22 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=475</guid>
+                    <description>Der Media Encoder kann Videoclips in Bildsequenzen umwandeln oder das Audio extrahieren bzw. konvertieren.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Der Media Encoder kann Videoclips in Bildsequenzen umwandeln oder das Audio extrahieren bzw. konvertieren.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep136-audio-und-bildsequenzen/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/475/0/aftereffects_podcast_episode_136.m4v" length="14131329" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_136_small.jpg"/>
+                    <itunes:duration>5:53</itunes:duration>
+                    <itunes:subtitle>Der Media Encoder kann Videoclips in Bildsequenzen umwandeln oder das Audio extrahieren bzw. konvertieren. </itunes:subtitle>
+                    <itunes:summary>Der Media Encoder kann Videoclips in Bildsequenzen umwandeln oder das Audio extrahieren bzw. konvertieren.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 135: Clips in unterschiedliche Formate exportieren</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep135-clips-in-unterschiedliche-formate-exportieren/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep135-clips-in-unterschiedliche-formate-exportieren/#comments</comments>
+                    <pubDate>Wed, 02 Jan 2013 18:00:21 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=473</guid>
+                    <description>Mit dem Media Encoder lässt sich ein Clip gleichzeitig in unterschiedliche Formate exportieren.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Mit dem Media Encoder lässt sich ein Clip gleichzeitig in unterschiedliche Formate exportieren.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep135-clips-in-unterschiedliche-formate-exportieren/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/473/0/aftereffects_podcast_episode_135.m4v" length="14752480" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_135_small.jpg"/>
+                    <itunes:duration>6:35</itunes:duration>
+                    <itunes:subtitle>Mit dem Media Encoder lässt sich ein Clip gleichzeitig in unterschiedliche Formate exportieren. </itunes:subtitle>
+                    <itunes:summary>Mit dem Media Encoder lässt sich ein Clip gleichzeitig in unterschiedliche Formate exportieren.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 134: Archivieren</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-episode-134-archivieren/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-episode-134-archivieren/#comments</comments>
+                    <pubDate>Wed, 19 Dec 2012 18:00:54 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=471</guid>
+                    <description>Das Projekt ist abgeschlossen, aber das Footage liegt an verschiedenen Orten verteilt herum? Kein Problem: Der Trainer zeigt Ihnen, wie Sie Ihr Projekt mit der passenden &amp;#8220;Sammelfunktion&amp;#8221; richtig und vollständig archivieren.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Das Projekt ist abgeschlossen, aber das Footage liegt an verschiedenen Orten verteilt herum? Kein Problem: Der Trainer zeigt Ihnen, wie Sie Ihr Projekt mit der passenden &amp;#8220;Sammelfunktion&amp;#8221; richtig und vollständig archivieren.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-episode-134-archivieren/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/471/0/aftereffects_podcast_episode_134.m4v" length="9710930" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_134_small.jpg"/>
+                    <itunes:duration>3:08</itunes:duration>
+                    <itunes:subtitle>Das Projekt ist abgeschlossen, aber das Footage liegt an verschiedenen Orten verteilt herum? Kein Problem: Der Trainer zeigt Ihnen, wie Sie Ihr Projekt mit der ...</itunes:subtitle>
+                    <itunes:summary>Das Projekt ist abgeschlossen, aber das Footage liegt an verschiedenen Orten verteilt herum? Kein Problem: Der Trainer zeigt Ihnen, wie Sie Ihr Projekt mit der passenden "Sammelfunktion" richtig und vollständig archivieren.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 133: Uhr animieren</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep133-uhr-animieren/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep133-uhr-animieren/#comments</comments>
+                    <pubDate>Wed, 05 Dec 2012 18:00:58 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=469</guid>
+                    <description>Lassen Sie die Zeiger springen! Wie Sie eine Uhr mit Expressions animieren, verrät dieses Video.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Lassen Sie die Zeiger springen! Wie Sie eine Uhr mit Expressions animieren, verrät dieses Video.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep133-uhr-animieren/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/469/0/aftereffects_podcast_episode_133.m4v" length="6707718" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_133_small.jpg"/>
+                    <itunes:duration>2:48</itunes:duration>
+                    <itunes:subtitle>Lassen Sie die Zeiger springen! Wie Sie eine Uhr mit Expressions animieren, verrät dieses Video. </itunes:subtitle>
+                    <itunes:summary>Lassen Sie die Zeiger springen! Wie Sie eine Uhr mit Expressions animieren, verrät dieses Video.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 132: Linien animieren</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep132-linien-animieren/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep132-linien-animieren/#comments</comments>
+                    <pubDate>Wed, 21 Nov 2012 18:00:15 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=452</guid>
+                    <description>Hier geht&amp;#8217;s darum, in einfachen Schritten eine Linie auf einer Karte zu animieren.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Hier geht&amp;#8217;s darum, in einfachen Schritten eine Linie auf einer Karte zu animieren.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep132-linien-animieren/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/452/0/aftereffects_podcast_episode_132.m4v" length="12757859" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_132_small.jpg"/>
+                    <itunes:duration>3:59</itunes:duration>
+                    <itunes:subtitle>Hier geht's darum, in einfachen Schritten eine Linie auf einer Karte zu animieren. </itunes:subtitle>
+                    <itunes:summary>Hier geht's darum, in einfachen Schritten eine Linie auf einer Karte zu animieren.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 131: Feuer</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep131-feuer/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep131-feuer/#comments</comments>
+                    <pubDate>Wed, 07 Nov 2012 18:00:59 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=450</guid>
+                    <description>Lodernde Flammen, flackernde Feuer: So simulieren Sie offenes Feuer mit After Effects.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Lodernde Flammen, flackernde Feuer: So simulieren Sie offenes Feuer mit After Effects.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep131-feuer/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/450/0/aftereffects_podcast_episode_131.m4v" length="21578996" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_131_small.jpg"/>
+                    <itunes:duration>7:28</itunes:duration>
+                    <itunes:subtitle>Lodernde Flammen, flackernde Feuer: So simulieren Sie offenes Feuer mit After Effects. </itunes:subtitle>
+                    <itunes:summary>Lodernde Flammen, flackernde Feuer: So simulieren Sie offenes Feuer mit After Effects.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 130: Zeitraffer</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep130-zeitraffer/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep130-zeitraffer/#comments</comments>
+                    <pubDate>Wed, 24 Oct 2012 18:00:11 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=448</guid>
+                    <description>Zu einem wirklich guten Zeitraffer-Effekt gehört mehr, als nur das Video schnell abzuspielen. Worauf Sie achten müssen, erklärt dieses Video.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Zu einem wirklich guten Zeitraffer-Effekt gehört mehr, als nur das Video schnell abzuspielen. Worauf Sie achten müssen, erklärt dieses Video.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep130-zeitraffer/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/448/0/aftereffects_podcast_episode_130.m4v" length="20230906" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_130_small.jpg"/>
+                    <itunes:duration>4:00</itunes:duration>
+                    <itunes:subtitle>Zu einem wirklich guten Zeitraffer-Effekt gehört mehr, als nur das Video schnell abzuspielen. Worauf Sie achten müssen, erklärt dieses Video. </itunes:subtitle>
+                    <itunes:summary>Zu einem wirklich guten Zeitraffer-Effekt gehört mehr, als nur das Video schnell abzuspielen. Worauf Sie achten müssen, erklärt dieses Video.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 129: 3D-Text und 3D-Formebene</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep129-3d-text-und-3d-formebene/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep129-3d-text-und-3d-formebene/#comments</comments>
+                    <pubDate>Wed, 10 Oct 2012 18:00:11 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=446</guid>
+                    <description>In diesem Film lernen Sie, wie man ganz einfach aus einer Textebene &amp;#8220;echten&amp;#8221; 3D-Text erstellen kann.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;In diesem Film lernen Sie, wie man ganz einfach aus einer Textebene &amp;#8220;echten&amp;#8221; 3D-Text erstellen kann.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep129-3d-text-und-3d-formebene/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/446/0/aftereffects_podcast_episode_129.m4v" length="12298290" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_129_small.jpg"/>
+                    <itunes:duration>4:28</itunes:duration>
+                    <itunes:subtitle>In diesem Film lernen Sie, wie man ganz einfach aus einer Textebene "echten" 3D-Text erstellen kann. </itunes:subtitle>
+                    <itunes:summary>In diesem Film lernen Sie, wie man ganz einfach aus einer Textebene "echten" 3D-Text erstellen kann.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 128: Kritzeln-Effekt</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep128-kritzeln-effekt/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep128-kritzeln-effekt/#comments</comments>
+                    <pubDate>Wed, 26 Sep 2012 18:00:29 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=444</guid>
+                    <description>Mit diesem Effekt sieht Text tatsächlich so aus, wie von Hand gezeichnet. Damit der Effekt auf Text anwendbar ist, braucht es allerdings einen kleinen Trick!
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Mit diesem Effekt sieht Text tatsächlich so aus, wie von Hand gezeichnet. Damit der Effekt auf Text anwendbar ist, braucht es allerdings einen kleinen Trick!&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep128-kritzeln-effekt/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/444/0/aftereffects_podcast_episode_128.m4v" length="24928363" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_128_small.jpg"/>
+                    <itunes:duration>6:25</itunes:duration>
+                    <itunes:subtitle>Mit diesem Effekt sieht Text tatsächlich so aus, wie von Hand gezeichnet. Damit der Effekt auf Text anwendbar ist, braucht es allerdings einen kleinen Trick! </itunes:subtitle>
+                    <itunes:summary>Mit diesem Effekt sieht Text tatsächlich so aus, wie von Hand gezeichnet. Damit der Effekt auf Text anwendbar ist, braucht es allerdings einen kleinen Trick!</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 127: Farbe übrig lassen</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep127-farbe-ubrig-lassen/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep127-farbe-ubrig-lassen/#comments</comments>
+                    <pubDate>Wed, 12 Sep 2012 18:00:51 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=442</guid>
+                    <description>Beliebt nicht nur in Hollywood-Blockbustern: Dieser Effekt lässt Sie in einem Schwarzweiß-Clip einzelne &amp;#8220;Farbkleckse&amp;#8221; bewahren und so hervorheben.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Beliebt nicht nur in Hollywood-Blockbustern: Dieser Effekt lässt Sie in einem Schwarzweiß-Clip einzelne &amp;#8220;Farbkleckse&amp;#8221; bewahren und so hervorheben.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep127-farbe-ubrig-lassen/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/442/0/aftereffects_podcast_episode_127.m4v" length="15456144" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_127_small.jpg"/>
+                    <itunes:duration>4:44</itunes:duration>
+                    <itunes:subtitle>Beliebt nicht nur in Hollywood-Blockbustern: Dieser Effekt lässt Sie in einem Schwarzweiß-Clip einzelne "Farbkleckse" bewahren und so hervorheben. </itunes:subtitle>
+                    <itunes:summary>Beliebt nicht nur in Hollywood-Blockbustern: Dieser Effekt lässt Sie in einem Schwarzweiß-Clip einzelne "Farbkleckse" bewahren und so hervorheben.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+                <item>
+                    <title>Episode 126: Grundlagen der Farbkorrektur</title>
+                    <link>http://aftereffects-screencast.de/blog/aftereffects-ep126-grundlagen-der-farbkorrektur/</link>
+                    <comments>http://aftereffects-screencast.de/blog/aftereffects-ep126-grundlagen-der-farbkorrektur/#comments</comments>
+                    <pubDate>Wed, 29 Aug 2012 18:00:14 +0000</pubDate>
+                    <dc:creator>Christine Bodlos</dc:creator>
+                    <category>After Effects CS6</category>
+                    <category>Alle Videos</category>
+                    <category>Featured</category>
+                    <guid isPermaLink="false">http://aftereffects-screencast.de/?p=440</guid>
+                    <description>Das Video erläutert die Grundlagen der Farbkorrektur und stellt im Anschluss die gängigsten Farbkorrektur-Werkzeuge vor.
+Download Podcast Video</description>
+                    <content:encoded>&lt;p&gt;Das Video erläutert die Grundlagen der Farbkorrektur und stellt im Anschluss die gängigsten Farbkorrektur-Werkzeuge vor.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://aftereffects-screencast.de/blog/aftereffects-ep126-grundlagen-der-farbkorrektur/feed/</wfw:commentRss>
+                    <enclosure url="http://aftereffects-screencast.de/podpress_trac/feed/440/0/aftereffects_podcast_episode_126.m4v" length="13357703" type="video/x-m4v"/>
+                    <media:thumbnail url="http://aftereffects-screencast.de/wp-content/uploads/aftereffects/thumb/aftereffects_podcast_episode_126_small.jpg"/>
+                    <itunes:duration>4:15</itunes:duration>
+                    <itunes:subtitle>Das Video erläutert die Grundlagen der Farbkorrektur und stellt im Anschluss die gängigsten Farbkorrektur-Werkzeuge vor. </itunes:subtitle>
+                    <itunes:summary>Das Video erläutert die Grundlagen der Farbkorrektur und stellt im Anschluss die gängigsten Farbkorrektur-Werkzeuge vor.</itunes:summary>
+                    <itunes:keywords/>
+                    <itunes:author>video2brain GmbH</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

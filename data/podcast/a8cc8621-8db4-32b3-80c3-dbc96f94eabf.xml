@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:31:00 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Last-Modified" value="Tue, 02 Jun 2009 09:08:25 GMT"/>
+        <httpclient:header name="ETag" value="&#34;ac85295-1896-46b59e29c5440&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Length" value="6294"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>花井とキッドのファミコン道場</title>
+                <link>http://alldaynippon.com/</link>
+                <description>花井とキッドのファミコン道場がPodcastに登場！毎月最終月曜日夜22：00〜23:00 放送中のファミコンエンターテイメントラジオ（生配信）のバックナンバーです。ファミコンキッドと花井なお、オギクボマンが、ファミコンをプレイしながらの1時間。</description>
+                <copyright>株式会社オギクボマン</copyright>
+                <category>ミュージック</category>
+                <image>
+                    <url>http://alldaynippon.com/famicom/famicom.jpg</url>
+                    <title>花井とキッドのファミコン道場</title>
+                    <link>http://alldaynippon.com/</link>
+                </image>
+                <itunes:author>花井なお　ファミコンキッド　オギクボマン</itunes:author>
+                <itunes:subtitle>花井とキッドのファミコン道場</itunes:subtitle>
+                <itunes:summary>花井とキッドのファミコン道場がPodcastに登場！毎月最終月曜日夜22：00〜23:00 放送中のファミコンエンターテイメントラジオ（生配信）のバックナンバーです。ファミコンキッドと花井なお、オギクボマンが、ファミコンをプレイしながらの1時間。</itunes:summary>
+                <itunes:owner>
+                    <itunes:name>株式会社オギクボマン</itunes:name>
+                    <itunes:email>info@alldaynippon.com</itunes:email>
+                </itunes:owner>
+                <itunes:category text="International">
+                    <itunes:category text="Japanese"/>
+                </itunes:category>
+                <item>
+                    <title>花井とキッドのファミコン道場</title>
+                    <description>花井とキッドのファミコン道場</description>
+                    <category>ゲーム</category>
+                    <itunes:author>花井なお　ファミコンキッド　オギクボマン</itunes:author>
+                    <itunes:subtitle>第一回 2/23 放送分　次回は3/30 22:00〜 生放送！！</itunes:subtitle>
+                    <itunes:summary>第一回 2/23 放送分　次回は3/30 22:00〜 生放送！！</itunes:summary>
+                    <itunes:duration>0:53:24</itunes:duration>
+                    <itunes:keywords>花井なお　ファミコンキッド　ファミコン道場　ファミコン　オギクボマン　オールデイニッポン　AllDayNippon</itunes:keywords>
+                    <itunes:category text="International">
+                        <itunes:category text="Japanese"/>
+                    </itunes:category>
+                    <itunes:explicit>no</itunes:explicit>
+                    <enclosure url="http://43.244.65.64:8080/famicom/001.m4a" length="79554368" type="x-audio/m4a"/>
+                    <guid>http://43.244.65.64:8080/famicom/001.m4a</guid>
+                    <pubDate>Mon, 23 Feb 2009 13:00:00 +0900</pubDate>
+                </item>
+                <item>
+                    <title>花井とキッドのファミコン道場</title>
+                    <description>花井とキッドのファミコン道場</description>
+                    <category>ゲーム</category>
+                    <itunes:author>花井なお　ファミコンキッド　オギクボマン</itunes:author>
+                    <itunes:subtitle>第二回 3/30 放送分　次回は4/21 22:00〜 生放送！！</itunes:subtitle>
+                    <itunes:summary>第二回 3/30 放送分　次回は4/21 22:00〜 生放送！！</itunes:summary>
+                    <itunes:duration>0:53:47</itunes:duration>
+                    <itunes:keywords>花井なお　ファミコンキッド　ファミコン道場　ファミコン　オギクボマン　オールデイニッポン　AllDayNippon</itunes:keywords>
+                    <itunes:category text="International">
+                        <itunes:category text="Japanese"/>
+                    </itunes:category>
+                    <itunes:explicit>no</itunes:explicit>
+                    <enclosure url="http://43.244.65.64:8080/famicom/002.m4a" length="79554368" type="x-audio/m4a"/>
+                    <guid>http://43.244.65.64:8080/famicom/002.m4a</guid>
+                    <pubDate>Mon, 30 Mar 2009 13:00:00 +0900</pubDate>
+                </item>
+                <item>
+                    <title>花井とキッドのファミコン道場</title>
+                    <description>花井とキッドのファミコン道場</description>
+                    <category>ゲーム</category>
+                    <itunes:author>花井なお　ファミコンキッド　オギクボマン</itunes:author>
+                    <itunes:subtitle>第三回 4/21 放送分　次回は5/25 22:00〜 生配信。「銀河の三人」「ファザナドゥ」をプレイします。</itunes:subtitle>
+                    <itunes:summary>第三回 4/21 放送分　次回は5/25 22:00〜 生配信。「銀河の三人」「ファザナドゥ」をプレイします。</itunes:summary>
+                    <itunes:duration>0:53:10</itunes:duration>
+                    <itunes:keywords>花井なお　ファミコンキッド　ファミコン道場　ファミコン　オギクボマン　オールデイニッポン　AllDayNippon</itunes:keywords>
+                    <itunes:category text="International">
+                        <itunes:category text="Japanese"/>
+                    </itunes:category>
+                    <itunes:explicit>no</itunes:explicit>
+                    <enclosure url="http://43.244.65.64:8080/famicom/003.m4a" length="79554368" type="x-audio/m4a"/>
+                    <guid>http://43.244.65.64:8080/famicom/003.m4a</guid>
+                    <pubDate>Tue, 21 Apr 2009 13:00:00 +0900</pubDate>
+                </item>
+                <item>
+                    <title>花井とキッドのファミコン道場</title>
+                    <description>花井とキッドのファミコン道場</description>
+                    <category>ゲーム</category>
+                    <itunes:author>花井なお　ファミコンキッド　オギクボマン</itunes:author>
+                    <itunes:subtitle>第四回 5/25 放送分　次回は6/29 21:00〜 生配信。絶対に負けられない戦いがある！「キャプテン翼」をプレイします。</itunes:subtitle>
+                    <itunes:summary>第四回 5/25 放送分　次回は6/29 21:00〜 生配信。絶対に負けられない戦いがある！「キャプテン翼」をプレイします。</itunes:summary>
+                    <itunes:duration>0:56:42</itunes:duration>
+                    <itunes:keywords>花井なお　ファミコンキッド　ファミコン道場　ファミコン　オギクボマン　オールデイニッポン　AllDayNippon</itunes:keywords>
+                    <itunes:category text="International">
+                        <itunes:category text="Japanese"/>
+                    </itunes:category>
+                    <itunes:explicit>no</itunes:explicit>
+                    <enclosure url="http://43.244.65.64:8080/famicom/004.m4a" length="79554368" type="x-audio/m4a"/>
+                    <guid>http://43.244.65.64:8080/famicom/004.m4a</guid>
+                    <pubDate>Mon, 25 May 2009 13:00:00 +0900</pubDate>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

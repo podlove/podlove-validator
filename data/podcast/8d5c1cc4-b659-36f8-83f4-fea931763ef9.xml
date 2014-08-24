@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:30:34 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Content-Length" value="3315"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Keep-Alive" value="timeout=30"/>
+        <httpclient:header name="Server" value="Apache/2"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.17"/>
+        <httpclient:header name="X-Pingback" value="http://alakraf.ihussain.net/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Thu, 13 Jan 2011 16:55:53 GMT"/>
+        <httpclient:header name="ETag" value="&#34;542570109e4cd2f9740d08aa033b0884&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Age" value="0"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>الشيخ حسين الأكرف</title>
+                <atom:link href="http://alakraf.ihussain.net/?feed=rss2" rel="self" type="application/rss+xml"/>
+                <link>http://alakraf.ihussain.net</link>
+                <description>By iHussain Abul</description>
+                <lastBuildDate>Thu, 13 Jan 2011 16:55:53 +0000</lastBuildDate>
+                <language>en</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.0.4</generator>
+	<!-- podcast_generator="podPress/8.8" -->
+                <copyright>©Eng. iHussain Abul </copyright>
+                <managingEditor>iHussain@me.com (Eng. iHussain Abul)</managingEditor>
+                <webMaster>iHussain@me.com(Eng. iHussain Abul)</webMaster>
+                <category/>
+                <ttl>1440</ttl>
+                <itunes:keywords>شيعة الشيعة الكويت كويت حسين الاكرف الأكرف أبل iHussain Hussain Kuwait q8 shia</itunes:keywords>
+                <itunes:subtitle/>
+                <itunes:summary>إذاعة الشيخ حسين الأكرف</itunes:summary>
+                <itunes:author>Eng. iHussain Abul</itunes:author>
+                <itunes:category text="Religion &amp; Spirituality">
+                    <itunes:category text="Islam"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>Eng. iHussain Abul</itunes:name>
+                    <itunes:email>iHussain@me.com</itunes:email>
+                </itunes:owner>
+                <itunes:block>No</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://alakraf.ihussain.net/wp-content/plugins/podpress/images/akraflarg.jpg"/>
+                <image>
+                    <url>http://alakraf.ihussain.net/wp-content/plugins/podpress/images/akrafsmall.jpg</url>
+                    <title>الشيخ حسين الأكرف</title>
+                    <link>http://alakraf.ihussain.net</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <item>
+                    <title>المقطع الاول</title>
+                    <link>http://alakraf.ihussain.net/?p=6</link>
+                    <comments>http://alakraf.ihussain.net/?p=6#comments</comments>
+                    <pubDate>Thu, 13 Jan 2011 16:55:53 +0000</pubDate>
+                    <dc:creator>iHussain</dc:creator>
+                    <category>Uncategorized</category>
+                    <guid isPermaLink="false">http://alakraf.ihussain.net/?p=6</guid>
+                    <description/>
+                    <content:encoded/>
+                    <wfw:commentRss>http://alakraf.ihussain.net/?feed=rss2&amp;p=6</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://www.ihussain.net/blog/wp-content/uploads/Bassim/matasha2/Track%2011.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>00:01:01</itunes:duration>
+                    <itunes:subtitle>المقطع الاول</itunes:subtitle>
+                    <itunes:summary>إذاعة الشيخ حسين الأكرف</itunes:summary>
+                    <itunes:keywords>Uncategorized</itunes:keywords>
+                    <itunes:author>Eng. iHussain Abul</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>No</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

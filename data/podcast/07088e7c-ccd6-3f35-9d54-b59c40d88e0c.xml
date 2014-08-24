@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine3.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Mon, 18 Aug 2014 12:10:39 GMT"/>
+        <httpclient:header name="Content-Length" value="16774"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:45:41 GMT"/>
+        <httpclient:header name="X-Varnish" value="3095301927 3076732747"/>
+        <httpclient:header name="Age" value="174454"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://a.webdevbreak.com/episodes" rel="self" type="application/rss+xml"/>
+                <title>Web Dev Break</title>
+                <pubDate>Mon, 30 Jun 2014 14:55:27 +0000</pubDate>
+                <lastBuildDate>Mon, 18 Aug 2014 12:10:39 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://www.webdevbreak.com/</link>
+                <language>en</language>
+                <copyright/>
+                <docs>http://www.webdevbreak.com/</docs>
+                <managingEditor>e@webdevbreak.com (e@webdevbreak.com)</managingEditor>
+                <description>Web Dev Break is a screencast for web developers. Beginners and experts are guided through useful tools, tips, and techniques on coding, design, performance, security, accessibility, HTML5, CSS3, and JavaScript. Each and every episode grows your knowledge and confidence to help you keep your skills up-to-date and in-demand. Hosted by Eliot Sykes</description>
+                <image>
+                    <url>http://assets.libsyn.com/content/6959177.jpg</url>
+                    <title>Web Dev Break</title>
+                    <link>http://www.webdevbreak.com/</link>
+                </image>
+                <itunes:author>Eliot Sykes</itunes:author>
+                <itunes:keywords>accessibility,chrome,coding,css,css3,design,developer,development,firefox,html,html5,javascript,js,performance,programming,screencast,security,tips,tutorial,usability,ux,web</itunes:keywords>
+                <itunes:category text="Technology">
+                    <itunes:category text="Software How-To"/>
+                </itunes:category>
+                <itunes:category text="Education">
+                    <itunes:category text="Training"/>
+                </itunes:category>
+                <itunes:image href="http://assets.libsyn.com/content/6959177.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Eliot Sykes</itunes:name>
+                    <itunes:email>e@webdevbreak.com</itunes:email>
+                </itunes:owner>
+                <itunes:summary>Web Dev Break is a screencast for web developers. Beginners and experts are guided through useful tools, tips, and techniques on coding, design, performance, security, accessibility, HTML5, CSS, and JavaScript. Each and every episode grows your knowledge and confidence to help you keep your skills up-to-date and in-demand. Hosted by Eliot Sykes</itunes:summary>
+                <itunes:subtitle>Screencasts for web developers on HTML5, CSS and JavaScript</itunes:subtitle>
+                <item>
+                    <title>Typography Tips: Responsive Paragraphs for Non-Designers</title>
+                    <pubDate>Mon, 30 Jun 2014 14:55:27 +0000</pubDate>
+                    <guid isPermaLink="false">568b6cf373350cbda3fc0e9de9b53b18</guid>
+                    <link>http://www.webdevbreak.com/episodes/responsive-paragraphs</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2917836"/>
+                    <description>You don&amp;rsquo;t have to be a professional designer to know the secrets to making text look good on the web. If you&amp;rsquo;re new to typography, this tutorial will arm you with a few rules of thumb to help you produce responsive, legible, and beautiful paragraphs.
+Show notes and captioned video available at www.webdevbreak.com/episodes/responsive-paragraphs</description>
+                    <enclosure length="217746765" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/011-responsive-paragraphs.mp4"/>
+                    <itunes:duration>20:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>You don’t have to be a professional designer to know the secrets to making text look good on the web.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Page Visibility API: How To Be Lazy</title>
+                    <pubDate>Mon, 02 Jun 2014 07:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">9927416f489f5288b2eb6e28c545db59</guid>
+                    <link>http://www.webdevbreak.com/episodes/page-visibility-api</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2867330"/>
+                    <description>Give your page a break when users aren&amp;rsquo;t looking to make your app use less CPU, power and network resources.
+Show notes and captioned video available at www.webdevbreak.com/episodes/page-visibility-api
+Get the Web Dev Break bonus tips and extras email delivered to your inbox weekly: www.webdevbreak.com</description>
+                    <enclosure length="163364821" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/010-page-visibility-api.mp4"/>
+                    <itunes:duration>14:26</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Give your page a break when users aren't looking to make your app use less CPU, power and network resources</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Touch gestures with hammer.js (part 2)</title>
+                    <pubDate>Fri, 23 May 2014 01:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">61517560b5fe6dcc6d73e4a9a1834218</guid>
+                    <link>http://www.webdevbreak.com/episodes/touch-gestures-hammerjs-2</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2848765"/>
+                    <description>In this second and final part you&amp;rsquo;ll complete learning how to add touch gestures to your web apps with hammer.js.
+Show notes, demo, and captioned video available at www.webdevbreak.com/episodes/touch-gestures-hammerjs-2
+Get the Web Dev Break weekly email with all of the bonus tips &amp;amp; behind-the-screen extras that I can&amp;rsquo;t fit into the regular screencasts: www.webdevbreak.com/#join</description>
+                    <enclosure length="179323400" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/009-touch-gestures-hammerjs-part-2.mp4"/>
+                    <itunes:duration>09:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In this second and final part you'll complete learning how to add touch gestures to your web apps with hammer.js</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Touch gestures with hammer.js (part 1)</title>
+                    <pubDate>Fri, 16 May 2014 01:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">b6339923bb91cca9372b3db49f0b557e</guid>
+                    <link>http://www.webdevbreak.com/episodes/touch-gestures-hammerjs</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2839313"/>
+                    <description>Hammer.js takes a lot of the hard work out of bringing touch gestures like double-tap, pinch, and swipe to your web app. In this screencast you&amp;rsquo;ll learn how to get started with it, and some problems with the touchable web you&amp;rsquo;ll want to watch out for.
+Show notes, links and captioned video available at www.webdevbreak.com/episodes/touch-gestures-hammerjs
+Join the Web Dev Break mailing list to have a say on future topics tackled in the screencasts (and you'll get exclusive newsletter-only content too): Join free at webdevbreak.com</description>
+                    <enclosure length="228655059" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/008-touch-gestures-hammerjs-part-1.mp4"/>
+                    <itunes:duration>12:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Hammer.js takes a lot of the hard work out of bringing touch gestures like double-tap, pinch,  and swipe to your web app. In this screencast you'll learn how to get started with it, and some problems with the touchable web you'll want to watch out for.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>PageSpeed Insights</title>
+                    <pubDate>Fri, 02 May 2014 22:28:44 +0000</pubDate>
+                    <guid isPermaLink="false">48cd64b2ba802cdfafd3687851f9b60e</guid>
+                    <link>http://www.webdevbreak.com/episodes/pagespeed-insights</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2816775"/>
+                    <description>Visitor satisfaction is tied to how fast your web site feels. Google&amp;rsquo;s performance measurement and recommendation tool will teach you how to fit turbo boosters to your projects.
+Show notes and captioned video available at www.webdevbreak.com/episodes/pagespeed-insights.
+Got feedback? Email e@webdevbreak.com
+Like the show? Leave a review in iTunes
+Thanks for watching!</description>
+                    <enclosure length="186162747" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/007-pagespeed-insights.mp4"/>
+                    <itunes:duration>10:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Visitor satisfaction is tied to how fast your web site feels. Google's performance measurement and recommendation tool will teach you how to fit turbo boosters to your projects.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Cross-browser dictation</title>
+                    <pubDate>Mon, 28 Apr 2014 13:41:05 +0000</pubDate>
+                    <guid isPermaLink="false">c41dc024378ec6d453c70c3100912408</guid>
+                    <link>http://www.webdevbreak.com/episodes/cross-browser-dictation</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2806853"/>
+                    <description>Chrome&amp;rsquo;s speech recognition means you can add dictation to your web apps today. That&amp;rsquo;s fine and dandy for Chrome users but how can we &amp;ldquo;cheat&amp;rdquo; to give dictation to everyone else?
+For show notes and links from the episode please go to: www.webdevbreak.com/episodes/cross-browser-dictation
+The demo form used in the screencast is at: www.webdevbreak.com/episodes/cross-browser-dictation/demo
+Got feedback? Email e@webdevbreak.com
+Like the show? Leave a review in iTunes
+Thanks for watching!</description>
+                    <enclosure length="280553013" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/006-cross-browser-dictation-reupload.mp4"/>
+                    <itunes:duration>13:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Chrome's speech recognition means you can add dictation to your web apps today. That's fine and dandy for Chrome users but how can we "cheat" to give dictation to everyone else?</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Make your app safer with HSTS</title>
+                    <pubDate>Wed, 16 Apr 2014 12:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">08e890daa7047399cfec8cb5e89b1d74</guid>
+                    <link>http://www.webdevbreak.com/episodes/hsts</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2790422"/>
+                    <description>HSTS (HTTP Strict Transport Security) is a wonderfully simple mechanism for protecting your users from certain attacks that HTTPS alone cannot prevent.
+Show notes and captioned video available at www.webdevbreak.com/episodes/hsts</description>
+                    <enclosure length="101836826" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/005-hsts.mp4"/>
+                    <itunes:duration>07:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>HSTS (HTTP Strict Transport Security) is a wonderfully simple mechanism for protecting your users from certain attacks that HTTPS alone cannot prevent.
+Show notes and captioned video available at www.webdevbreak.com/episodes/hsts</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Use email (not text) inputs</title>
+                    <pubDate>Wed, 02 Apr 2014 12:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">c13de13d61eea66b3a08d434967be287</guid>
+                    <link>http://www.webdevbreak.com/episodes/email-inputs</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2764251"/>
+                    <description>Prefer email inputs over text inputs. The upsides are optimized touch keyboards, improved accessibility, and client-side validation. There's no downside: browser support is wide and older clients fall back to text inputs.
+Watch episode online (with optional subtitles) at www.webdevbreak.com/episodes/email-inputs
+The form demonstrated in this episode can be found at www.webdevbreak.com/episodes/email-inputs/demo
+Learn more about Web Dev Break, subscribe to future episodes, and get in touch at webdevbreak.com. Thanks for watching!</description>
+                    <enclosure length="79430610" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/004-email-inputs.mp4"/>
+                    <itunes:duration>04:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Prefer email inputs over text inputs. The upsides are optimized touch keyboards, improved accessibility, and client-side validation. There’s no downside: browser support is wide and older clients fall back to text inputs.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Console tips: $ shortcuts</title>
+                    <pubDate>Wed, 26 Mar 2014 00:30:00 +0000</pubDate>
+                    <guid isPermaLink="false">96e89944e62195f35a6817b351853c6a</guid>
+                    <link>http://www.webdevbreak.com/episodes/dollar-shortcuts</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2747955"/>
+                    <description>Type less. Learn how $0, $_ and friends can save you time and keystrokes in your browser&amp;rsquo;s console.
+This episode is available online with subtitles at www.webdevbreak.com/episodes/dollar-shortcuts
+Learn more about Web Dev Break, subscribe to future episodes, and get in touch at webdevbreak.com
+Thanks for watching!</description>
+                    <enclosure length="80113080" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/003-dollar-shortcuts-reupload-2.mp4"/>
+                    <itunes:duration>04:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Type less. Learn how $0, $_ and friends can save you time and keystrokes in your browser's console.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Zen full screen textarea: JS finesse</title>
+                    <pubDate>Wed, 19 Mar 2014 12:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">5211b1f4afcbb6d37093d9a465296877</guid>
+                    <link>http://www.webdevbreak.com/episodes/zen-textarea-js-finesse</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2743409"/>
+                    <description>Apply some JavaScript polish to the full screen textarea we created with CSS alone in the previous episode to finish up this two-part series.
+Watch episode online: www.webdevbreak.com/episodes/zen-textarea-js-finesse
+Here's the demo for the Zen full screen textarea covered in the video: www.webdevbreak.com/episodes/zen-textarea-js-finesse/demo
+Watch the previous episode where we built a Zen textarea with CSS alone: www.webdevbreak.com/episodes/zen-textarea-pure-css
+Learn more about Web Dev Break, subscribe to future episodes, and get in touch at webdevbreak.com
+Thanks for watching!</description>
+                    <enclosure length="115862972" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/002-zen-textarea-js-finesse.mp4"/>
+                    <itunes:duration>08:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Apply some JavaScript polish to the full screen textarea we created with CSS alone in the previous episode to finish up this two-part series</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Zen full screen textarea: Pure CSS</title>
+                    <pubDate>Wed, 12 Mar 2014 12:00:00 +0000</pubDate>
+                    <guid isPermaLink="false">dad94d8c1e8d1621e983cad2ad69d7fa</guid>
+                    <link>http://www.webdevbreak.com/episodes/zen-textarea-pure-css</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2728791"/>
+                    <description>Learn how to use HTML and CSS alone to delight your users with a clutter-free, full screen writing experience in this first part of a two-part series on textareas.
+Watch episode online: www.webdevbreak.com/episodes/zen-textarea-pure-css
+Here's the demo for the Zen full screen textarea covered in the video: www.webdevbreak.com/episodes/zen-textarea-pure-css/demo
+In the next episode you'll learn how to enhance our Zen mode textarea with JavaScript (for example, exit full screen via the escape key and back button).
+Learn more about Web Dev Break, subscribe to future episodes, and get in touch at webdevbreak.com
+Thanks for watching!</description>
+                    <enclosure length="145174978" type="video/x-mp4" url="http://traffic.libsyn.com/webdevbreak/001-zen-textarea-pure-css-redux.mp4"/>
+                    <itunes:duration>11:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Learn how to delight your users with a clutter-free, full screen writing experience in this first part of a two-part series on textareas</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="X-Pantheon-Styx-Hostname" value="styxa72528a2.chios.panth.io"/>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="x-drupal-cache" value="HIT"/>
+        <httpclient:header name="Content-Language" value="en"/>
+        <httpclient:header name="Last-Modified" value="Tue, 19 Aug 2014 20:11:12 +0000"/>
+        <httpclient:header name="x-pantheon-endpoint" value="e97959bf-fb25-4cb6-bf79-e70cbe3c1627"/>
+        <httpclient:header name="X-Varnish" value="1566576234"/>
+        <httpclient:header name="Cache-Control" value="max-age=0"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:32:27 GMT"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:32:27 GMT"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Connection" value="Transfer-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>The Splendid Table</title>
+                <link>http://www.splendidtable.org</link>
+                <description>American Public Media's The Splendid Table is public radio's culinary, culture, and lifestyle program that celebrates food and its ability to touch the lives and feed the souls of everyone. Each week, award-winning host Lynne Rossetto Kasper leads listeners on a journey of the senses and hosts discussions with a variety of writers and personalities who share their passion for the culinary delights updated every Friday.</description>
+                <pubDate>Tue, 19 Aug 2014 15:11:12 CDT</pubDate>
+                <lastBuildDate>Tue, 19 Aug 2014 15:11:12 CDT</lastBuildDate>
+                <webMaster>podcasts@americanpublicmedia.org</webMaster>
+                <copyright>2014 APM. All rights reserved.</copyright>
+                <language>en-us</language>
+                <itunes:block>No</itunes:block>
+                <itunes:subtitle>American Public Media's The Splendid Table is public radio's culinary, culture, and lifestyle program that celebrates food and its ability to touch the lives and feed the souls of everyone. Each week, award-winning host Lynne Rossetto Kasper leads li ...</itunes:subtitle>
+                <itunes:author>American Public Media</itunes:author>
+                <itunes:summary>American Public Media's The Splendid Table is public radio's culinary, culture, and lifestyle program that celebrates food and its ability to touch the lives and feed the souls of everyone. Each week, award-winning host Lynne Rossetto Kasper leads listeners on a journey of the senses and hosts discussions with a variety of writers and personalities who share their passion for the culinary delights updated every Friday.</itunes:summary>
+                <itunes:owner>
+                    <itunes:name>American Public Media</itunes:name>
+                    <itunes:email>podcasts@americanpublicmedia.org</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://americanpublicmedia.publicradio.org/podcasts/xml/splendid_table/images/splendid1400.png"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="Health"/>
+                <itunes:category text="Kids &amp; Family"/>
+                <itunes:explicit>No</itunes:explicit>
+                <item>
+                    <title>540: Foodelectric</title>
+                    <description>&lt;div&gt;William Sitwell on food history, Wayne Wang on Cecilia Chiang, Vikas Khanna on chutney, Karen Solomon on ketchup.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/piggly_wiggly_0.jpg?itok=eDKN_bt-"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/540</link>
+                    <pubDate>Fri, 15 Aug 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/16/splendidtable_20140816_64.mp3" length="24864330" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/16/splendidtable_20140816_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>William Sitwell on food history, Wayne Wang on Cecilia Chiang, Vikas Khanna on chutney, Karen Solomon on ketchup.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>563: Female Chefs</title>
+                    <description>&lt;div&gt;Amanda Cohen on female chefs, Bonnie Benwick on toum, Sami Scripter and Sheng Yang on Hmong recipes, Bill Tracy on corn.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/dirt%20candy%20food_0.jpg?itok=45LN338t"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/563</link>
+                    <pubDate>Fri, 08 Aug 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/09/splendidtable_20140809_64.mp3" length="49622655" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/09/splendidtable_20140809_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Amanda Cohen on female chefs, Bonnie Benwick on toum, Sami Scripter and Sheng Yang on Hmong recipes, Bill Tracy on corn.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>539: Eating Wild</title>
+                    <description>&lt;div&gt;Jo Robinson on phytonutrients, Charles Phoenix on entertaining, David Karp on grapes, Fritz Haeg on edible estates.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/green_onions_0.jpg?itok=boxEFCZE"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/539</link>
+                    <pubDate>Fri, 01 Aug 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/02/splendidtable_20140802_64.mp3" length="24487122" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/08/02/splendidtable_20140802_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Jo Robinson on phytonutrients, Charles Phoenix on entertaining, David Karp on grapes, Fritz Haeg on edible estates.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>562: Buffalo Milk</title>
+                    <description>&lt;div&gt;Sruthi Pinnamaneni on buffalo milk, Maria Elia on Greek cheese, Jolie Kerr on cleaning, Melissa Daka on wine, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/buffalo.jpg?itok=Q-6R3o-j"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/562</link>
+                    <pubDate>Fri, 25 Jul 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/26/splendidtable_20140726_64.mp3" length="49671765" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/26/splendidtable_20140726_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Sruthi Pinnamaneni on buffalo milk, Maria Elia on Greek cheese, Jolie Kerr on cleaning, Melissa Daka on wine, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>538: Heirloom Yogurt</title>
+                    <description>&lt;div&gt;Sandor Katz on yogurt, Harold McGee on thawing meat, Megan Krigbaum on wine, Katie Parla on Rome, Lucinda Hutson on tequila.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/homemade_yogurt_0.jpg?itok=CZCkR19W"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/538</link>
+                    <pubDate>Fri, 18 Jul 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/19/splendidtable_20140719_64.mp3" length="25003718" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/19/splendidtable_20140719_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Sandor Katz on yogurt, Harold McGee on thawing meat, Megan Krigbaum on wine, Katie Parla on Rome, Lucinda Hutson on tequila.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>561: Feeding 9 Billion</title>
+                    <description>&lt;div&gt;Dennis Dimick on feeding 9 billion, Roy Choi on Korean food, Andrew Schloss on liqueur, Fred Plotkin on Italy.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/celery_1_0.jpg?itok=dlhkj7-L"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/561</link>
+                    <pubDate>Fri, 11 Jul 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/12/splendidtable_20140712_64.mp3" length="24973625" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/12/splendidtable_20140712_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Dennis Dimick on feeding 9 billion, Roy Choi on Korean food, Andrew Schloss on liqueur, Fred Plotkin on Italy.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>537: Bouchon Bakery</title>
+                    <description>&lt;div&gt;Thomas Keller on pastries, Roberto Santibañez on Mexico, The Perennial Plate on honey, the Sterns.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/tart_dough_1_0.JPG?itok=A9VdwCpD"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/537</link>
+                    <pubDate>Fri, 04 Jul 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/05/splendidtable_20140705_64.mp3" length="24668097" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/07/05/splendidtable_20140705_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Thomas Keller on pastries, Roberto Santibañez on Mexico, The Perennial Plate on honey, the Sterns.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>560: Sedaris Family Dinners</title>
+                    <description>&lt;div&gt;David Sedaris on dinner, John Joseph on becoming vegan, Paula Marcoux on flatbread, Steve Jones on beer and cheese.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/sedaris_0.jpg?itok=lOx3Lf2t"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/560</link>
+                    <pubDate>Fri, 27 Jun 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/28/splendidtable_20140628_64.mp3" length="24845520" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/28/splendidtable_20140628_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>David Sedaris on dinner, John Joseph on becoming vegan, Paula Marcoux on flatbread, Steve Jones on beer and cheese.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>536: Lucinda's Meatloaf</title>
+                    <description>&lt;div&gt;Lucinda Scala Quinn&amp;#039;s Key 3, Robb Walsh on Tex-Mex, Jessica Hagy on being interesting, Lara Ferroni on homemade snacks.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/LucindaScalaQuinn_LRK_edit_0.jpg?itok=GTM0fivJ"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/536</link>
+                    <pubDate>Fri, 20 Jun 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/21/splendidtable_20140621_64.mp3" length="25314888" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/21/splendidtable_20140621_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Lucinda Scala Quinn's Key 3, Robb Walsh on Tex-Mex, Jessica Hagy on being interesting, Lara Ferroni on homemade snacks.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>535: Smoke</title>
+                    <description>&lt;div&gt;Tim Byres on grilling, Dr. Weil on non-dairy milk, David Hagedorn on okonomiyaki, Karen Solomon on pickles, Justin Kuzma&amp;#039;s new app.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/wood_grilling_0.jpg?itok=F3ofTv-Z"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/535</link>
+                    <pubDate>Fri, 13 Jun 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/14/splendidtable_20140614_64.mp3" length="24713445" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/14/splendidtable_20140614_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Tim Byres on grilling, Dr. Weil on non-dairy milk, David Hagedorn on okonomiyaki, Karen Solomon on pickles, Justin Kuzma's new app.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>559: Quinoa Quarrel</title>
+                    <description>&lt;div&gt;Lisa Hamilton on quinoa, Diana Henry on summer, Tim Cebula on rules, Edward Humes on Jess Jackson, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/quinoa_field_0.jpg?itok=Oa-beq0i"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/559</link>
+                    <pubDate>Fri, 06 Jun 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/07/splendidtable_20140607_64.mp3" length="25008106" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/06/07/splendidtable_20140607_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Lisa Hamilton on quinoa, Diana Henry on summer, Tim Cebula on rules, Edward Humes on Jess Jackson, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>534: Family Table</title>
+                    <description>&lt;div&gt;Bruce Feiler on family time, Jesse Griffiths on goat, Sean Brock on West African influences, Rohan Marley on farming coffee.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/family_dinner_0.jpg?itok=3QRllLCH"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/534</link>
+                    <pubDate>Fri, 30 May 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/31/splendidtable_20140531_64.mp3" length="24873732" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/31/splendidtable_20140531_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Bruce Feiler on family time, Jesse Griffiths on goat, Sean Brock on West African influences, Rohan Marley on farming coffee.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>558: Fried and True</title>
+                    <description>&lt;div&gt;Lee Brian Schrager and Adeena Sussman on fried chicken, J. Kenji Lopez-Alt on bay leaves, Ray Isle on the wine bottle.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/AdeenaSussmanLeeBrianSchragerEvanSung_0.jpg?itok=jw-rLmY0"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/558</link>
+                    <pubDate>Fri, 23 May 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/24/splendidtable_20140524_64.mp3" length="24877284" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/24/splendidtable_20140524_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Lee Brian Schrager and Adeena Sussman on fried chicken, J. Kenji Lopez-Alt on bay leaves, Ray Isle on the wine bottle.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>533: Adobo Road</title>
+                    <description>&lt;div&gt;Marvin Gapultos on adobo, Lior Lev Sercarz on spices, The Perennial Plate in Spain, Laura Catena on malbec, Sidney Fry on sodium.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Chicken_Adobo_0.jpg?itok=HceTbTcD"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/533</link>
+                    <pubDate>Fri, 16 May 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/17/splendidtable_20140517_64.mp3" length="24658065" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/17/splendidtable_20140517_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Marvin Gapultos on adobo, Lior Lev Sercarz on spices, The Perennial Plate in Spain, Laura Catena on malbec, Sidney Fry on sodium.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>557: Mindfulness</title>
+                    <description>&lt;div&gt;Dan Harris on meditation, Ronna Welsh on waste, Donna Hay on recipes, Eric Prince on hypoxia, the Sterns.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/mindless%20eating_0.jpg?itok=A-V1KPo1"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/557</link>
+                    <pubDate>Fri, 09 May 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/10/splendidtable_20140510_64.mp3" length="24611880" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/10/splendidtable_20140510_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Dan Harris on meditation, Ronna Welsh on waste, Donna Hay on recipes, Eric Prince on hypoxia, the Sterns.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>532: Salt Sugar Fat</title>
+                    <description>&lt;div&gt;Michael Moss on irresistible food, Ted Allen on kitchen inspiration, Ann Taylor Pittman on Korea, Alice Feiring on natural wine.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/162586628_0.jpg?itok=T7Vvpi88"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/532</link>
+                    <pubDate>Fri, 02 May 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/03/splendidtable_20140503_64.mp3" length="24752105" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/05/03/splendidtable_20140503_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Michael Moss on irresistible food, Ted Allen on kitchen inspiration, Ann Taylor Pittman on Korea, Alice Feiring on natural wine.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>556: True Chef</title>
+                    <description>&lt;div&gt;April Bloomfield on chef school, Paul Breslin on salt, Ellie Krieger on oil, Frederick Douglass Opie on blues, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/bloomfield.jpg?itok=HkcTK07X"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/556</link>
+                    <pubDate>Fri, 25 Apr 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/26/splendidtable_20140426_64.mp3" length="25057427" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/26/splendidtable_20140426_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>April Bloomfield on chef school, Paul Breslin on salt, Ellie Krieger on oil, Frederick Douglass Opie on blues, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>478: Shared Meals in Blue Zones</title>
+                    <description>&lt;div&gt;Dan Buettner on happiness, Victoria Tonay on dreams, Dana Bowen on Easter in Sicily, Justin Horner on tamales.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/oatmeal.jpg?itok=qMiKa0MT"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/478</link>
+                    <pubDate>Fri, 18 Apr 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/19/splendidtable_20140419_64.mp3" length="24713655" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/19/splendidtable_20140419_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Dan Buettner on happiness, Victoria Tonay on dreams, Dana Bowen on Easter in Sicily, Justin Horner on tamales.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>531: Raghavan's Dal</title>
+                    <description>&lt;div&gt;Raghavan Iyer&amp;#039;s Key 3, Michael Pollan on liberation, Wendell Pierce on New Orleans, Edward Lee on the South, Bee Wilson on spoons.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/photo_0.jpg?itok=aIniNbdp"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/531</link>
+                    <pubDate>Fri, 11 Apr 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/12/splendidtable_20140412_64.mp3" length="24679174" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/12/splendidtable_20140412_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Raghavan Iyer's Key 3, Michael Pollan on liberation, Wendell Pierce on New Orleans, Edward Lee on the South, Bee Wilson on spoons.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>555: Ramen Slurp</title>
+                    <description>&lt;div&gt;Ivan Orkin on ramen, James Oseland on stories, Gustavo Arellano on Mexico, David Rosengarten on capers, Julie Hruby on pottery.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/ramen_1.jpg?itok=wNQvsmAi"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/555</link>
+                    <pubDate>Fri, 04 Apr 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/05/splendidtable_20140405_64.mp3" length="24867464" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/04/05/splendidtable_20140405_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Ivan Orkin on ramen, James Oseland on stories, Gustavo Arellano on Mexico, David Rosengarten on capers, Julie Hruby on pottery.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>530: Saliva the Superhero</title>
+                    <description>&lt;div&gt;Mary Roach on saliva, Mark Bitterman on salt, Russ Parsons on artichokes.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/mouth_0.jpg?itok=cRZOtewQ"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/530</link>
+                    <pubDate>Fri, 28 Mar 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/29/splendidtable_20140329_64.mp3" length="24871853" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/29/splendidtable_20140329_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Mary Roach on saliva, Mark Bitterman on salt, Russ Parsons on artichokes.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>554: Tasting in the Dark</title>
+                    <description>&lt;div&gt;Hoby Wedler on wine tasting, Coi&amp;#039;s Daniel Patterson, Sam Brasch on cactus, Bill Waddington on white tea.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Coppola%20Winery_0.jpg?itok=OVPC45SF"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/554</link>
+                    <pubDate>Fri, 21 Mar 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/22/splendidtable_20140322_64.mp3" length="24725776" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/22/splendidtable_20140322_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Hoby Wedler on wine tasting, Coi's Daniel Patterson, Sam Brasch on cactus, Bill Waddington on white tea.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>529: Beer Profiles</title>
+                    <description>&lt;div&gt;Greg Engert on beer, Mario Batali on editing, Deborah Madison on radishes, Perennial Plate on coconuts, Travis Marcotte on farming.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/beer-glasses_0.jpg?itok=vOV7vtii"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/529</link>
+                    <pubDate>Fri, 14 Mar 2014 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/15/splendidtable_20140315_64.mp3" length="24785544" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/15/splendidtable_20140315_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Greg Engert on beer, Mario Batali on editing, Deborah Madison on radishes, Perennial Plate on coconuts, Travis Marcotte on farming.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>553: Artisan Bread</title>
+                    <description>&lt;div&gt;Jeff Hertzberg, Mark Furstenberg on bread, Jeremy Bailenson on empathy, Marin Cogan on D.C. lunch, Jason Wang on Xi&amp;#039;an.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Jeff_Herzberg_Zoe_Francois_0.jpg?itok=50wOZ54W"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/553</link>
+                    <pubDate>Fri, 07 Mar 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/08/splendidtable_20140308_64.mp3" length="24849283" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/08/splendidtable_20140308_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Jeff Hertzberg, Mark Furstenberg on bread, Jeremy Bailenson on empathy, Marin Cogan on D.C. lunch, Jason Wang on Xi'an.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>528: Meat-Eaters</title>
+                    <description>&lt;div&gt;Briana Pobiner on meat-eating, Harold McGee on rice wine, Sean Brock on buckwheat, Julia Reed on Chicago, Nova Kim on wildcrafting.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/cave-wall.jpg?itok=8uLQAna8"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/528</link>
+                    <pubDate>Fri, 28 Feb 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/01/splendidtable_20140301_64.mp3" length="24998076" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/03/01/splendidtable_20140301_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Briana Pobiner on meat-eating, Harold McGee on rice wine, Sean Brock on buckwheat, Julia Reed on Chicago, Nova Kim on wildcrafting.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>552: Chickenization</title>
+                    <description>&lt;div&gt;Christopher Leonard on chicken, Marion Nestle on the farm bill, Macanese cuisine, Joshua Wesson on wine, the Sterns.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/baby_chicks_0.jpg?itok=tKUxHd3B"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/552</link>
+                    <pubDate>Fri, 21 Feb 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/22/splendidtable_20140222_64.mp3" length="25073939" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/22/splendidtable_20140222_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Christopher Leonard on chicken, Marion Nestle on the farm bill, Macanese cuisine, Joshua Wesson on wine, the Sterns.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>527: Dinner with Churchill</title>
+                    <description>&lt;div&gt;Cita Stelzer on Winston Churchill, Dorie Greenspan on beef, Mark Menjivar&amp;#039;s fridge photos, Doron Petersan on vegan baking.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Churchill.jpg?itok=Xzj-eMA2"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/527</link>
+                    <pubDate>Fri, 14 Feb 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/15/splendidtable_20140215_64.mp3" length="24847196" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/15/splendidtable_20140215_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Cita Stelzer on Winston Churchill, Dorie Greenspan on beef, Mark Menjivar's fridge photos, Doron Petersan on vegan baking.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>551: Toro Bravo</title>
+                    <description>&lt;div&gt;John Gorham on family, Maureen Fant on pasta, David Rosengarten on hot sauce, Sam Chapple-Sokol on diplomacy, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Gorham.John_.jpg?itok=TFWLNZ2U"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/551</link>
+                    <pubDate>Fri, 07 Feb 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/08/splendidtable_20140208_64.mp3" length="24409175" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/08/splendidtable_20140208_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>John Gorham on family, Maureen Fant on pasta, David Rosengarten on hot sauce, Sam Chapple-Sokol on diplomacy, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>52:00</itunes:duration>
+                </item>
+                <item>
+                    <title>526: Nigellissima</title>
+                    <description>&lt;div&gt;Nigella Lawson on Italy, Nathalie Dupree on Southern biscuits, Joe Warwick on chef eats, Pati Jinich and Arthur Allen on tomatoes.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/nigella-lawson.jpg?itok=NSt0dY6B"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/526</link>
+                    <pubDate>Fri, 31 Jan 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/01/splendidtable_20140201_64.mp3" length="24599764" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/02/01/splendidtable_20140201_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Nigella Lawson on Italy, Nathalie Dupree on Southern biscuits, Joe Warwick on chef eats, Pati Jinich and Arthur Allen on tomatoes.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>550: Zero Gravity</title>
+                    <description>&lt;div&gt;Col. Chris Hadfield on space food, Andy Ricker on Thailand, Herb Eckhouse on prosciutto, Jenn Louis on salad, the Sterns in Florida.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/hadfield-spinach_0.jpg?itok=1UWmcjBG"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/550</link>
+                    <pubDate>Fri, 24 Jan 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/25/splendidtable_20140125_64.mp3" length="24603525" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/25/splendidtable_20140125_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Col. Chris Hadfield on space food, Andy Ricker on Thailand, Herb Eckhouse on prosciutto, Jenn Louis on salad, the Sterns in Florida.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>525: Polish Revival</title>
+                    <description>&lt;div&gt;Anne Applebaum on Poland, Jekka McVicar on herbs, seed saving, Cheryl Day on vintage baking, Hazelann Williams on feet.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/From%20a%20Polish%20Country%20House%20Kitchen_Anne%20Applebaum%20credit%20Bogdan%20and%20Dorota%20Bialy.jpg?itok=JfjPyEDh"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/525</link>
+                    <pubDate>Fri, 17 Jan 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/18/splendidtable_20140118_64.mp3" length="24589941" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/18/splendidtable_20140118_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Anne Applebaum on Poland, Jekka McVicar on herbs, seed saving, Cheryl Day on vintage baking, Hazelann Williams on feet.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>549: No Props</title>
+                    <description>&lt;div&gt;Lisa Heathcote on Downton Abbey, Rene Redzepi on fun, Rachel Laudan on empires, Michael Anthony, Katie Workman.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Highclere_Castle_0.jpg?itok=o3QV5Q06"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/549</link>
+                    <pubDate>Fri, 10 Jan 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/11/splendidtable_20140111_64.mp3" length="24698820" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/11/splendidtable_20140111_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Lisa Heathcote on Downton Abbey, Rene Redzepi on fun, Rachel Laudan on empires, Michael Anthony, Katie Workman.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>524: Eating Bugs</title>
+                    <description>&lt;div&gt;Stefan Gates on bugs, Scarlett Lindeman on Dumpster-diving, Eddie Huang on bao, Scott Peacock on Southern food, Charles Phan on pho.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/134999842.jpg?itok=RKSvk1_m"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/524</link>
+                    <pubDate>Fri, 03 Jan 2014 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/04/splendidtable_20140104_64.mp3" length="24694640" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2014/01/04/splendidtable_20140104_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Stefan Gates on bugs, Scarlett Lindeman on Dumpster-diving, Eddie Huang on bao, Scott Peacock on Southern food, Charles Phan on pho.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>523: Christmas Cheese</title>
+                    <description>&lt;div&gt;David Lebovitz on Paris, Junot Diaz on goats, Eli Sussman on snacking, Sally Schneider on decorating, Steve Jenkins on cheese.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/steve-jenkins.jpg?itok=ZKormMVn"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/523</link>
+                    <pubDate>Fri, 27 Dec 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/28/splendidtable_20131228_64.mp3" length="24341883" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/28/splendidtable_20131228_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>David Lebovitz on Paris, Junot Diaz on goats, Eli Sussman on snacking, Sally Schneider on decorating, Steve Jenkins on cheese.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>548: Duck, Duck, Goose</title>
+                    <description>&lt;div&gt;Nathan Myhrvold on modernist cuisine, Hank Shaw on goose, Alice Medrich on chocolate, Joshua Wesson on wine, the Sterns.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/geese_0.jpg?itok=Gpc1Qcvb"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/548</link>
+                    <pubDate>Fri, 20 Dec 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/21/splendidtable_20131221_64.mp3" length="24620871" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/21/splendidtable_20131221_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Nathan Myhrvold on modernist cuisine, Hank Shaw on goose, Alice Medrich on chocolate, Joshua Wesson on wine, the Sterns.</itunes:subtitle>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>522: Lizz's Fettuccine</title>
+                    <description>&lt;div&gt;Lizz Winstead&amp;#039;s Key 3, Dr. Andrew Weil on nutrition, Dessa on tour food, Liddabit Sweets on holiday candy, James Freeman on coffee.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/lrk-lizz-winstead_0.jpg?itok=2D2yPUN8"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/522</link>
+                    <pubDate>Fri, 13 Dec 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/14/splendidtable_20131214_64.mp3" length="24505514" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/14/splendidtable_20131214_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Lizz Winstead's Key 3, Dr. Andrew Weil on nutrition, Dessa on tour food, Liddabit Sweets on holiday candy, James Freeman on coffee.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>547: Soul Food</title>
+                    <description>&lt;div&gt;Yotam Ottolenghi and Sami Tamimi, Sally Schneider on gifts, Adrian Miller, Kate Hubbard, Marina Marchese.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/soul_food_sign_0.jpg?itok=je3qWML4"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/547</link>
+                    <pubDate>Fri, 06 Dec 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/07/splendidtable_20131207_64.mp3" length="24544803" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/07/splendidtable_20131207_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Yotam Ottolenghi and Sami Tamimi, Sally Schneider on gifts, Adrian Miller, Kate Hubbard, Marina Marchese.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>467: Simple Times</title>
+                    <description>&lt;div&gt;Amy Sedaris on culinary crafts, Fany Gerson on Mexico&amp;#039;s sweets, Rachel Saunders on marmalade, the Sterns.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/101211/images/simple-times.png?itok=SF2waaGP"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/467</link>
+                    <pubDate>Fri, 29 Nov 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/30/splendidtable_20131130_64.mp3" length="24027996" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/30/splendidtable_20131130_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Amy Sedaris on culinary crafts, Fany Gerson on Mexico's sweets, Rachel Saunders on marmalade, the Sterns.</itunes:subtitle>
+                    <itunes:duration>54:00</itunes:duration>
+                </item>
+                <item>
+                    <title>Turkey Confidential 2013</title>
+                    <description>&lt;div&gt;Your Thanksgiving calls, with Mario Batali, Pati Jinich, Ted Allen and Michael Pollan.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/turkey_2.jpg?itok=1yJxIUSJ"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/turkey-confidential-2013</link>
+                    <pubDate>Thu, 28 Nov 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/04/tc2013_20131204_64.mp3" length="57132457" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/12/04/tc2013_20131204_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Your Thanksgiving calls, with Mario Batali, Pati Jinich, Ted Allen and Michael Pollan.</itunes:subtitle>
+                    <itunes:duration>120:00</itunes:duration>
+                </item>
+                <item>
+                    <title>546: Swanksgiving</title>
+                    <description>&lt;div&gt;Mollie Katzen on veggies, Ray Isle on wine, Cheryl Day on pie, Pati Jinich, Vikas Khanna on the Dalai Lama, The Kitchn.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Table02_0.jpg?itok=CggJv_kn"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/546</link>
+                    <pubDate>Fri, 22 Nov 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/23/splendidtable_20131123_64.mp3" length="24253276" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/23/splendidtable_20131123_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Mollie Katzen on veggies, Ray Isle on wine, Cheryl Day on pie, Pati Jinich, Vikas Khanna on the Dalai Lama, The Kitchn.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>521: All Gone</title>
+                    <description>&lt;div&gt;Mo Rocca, Francis Lam on chicken skin, Alex Witchel&amp;#039;s memoir, Corey Milligan on carving knives, Kevin Young&amp;#039;s poetry.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/MO%20w%20Ruth%20Tieg%20Courtesy%20Cooking%20Channel_0.jpg?itok=PCnyBkbq"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/521</link>
+                    <pubDate>Fri, 15 Nov 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/16/splendidtable_20131116_64.mp3" length="24425057" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/16/splendidtable_20131116_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Mo Rocca, Francis Lam on chicken skin, Alex Witchel's memoir, Corey Milligan on carving knives, Kevin Young's poetry.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>520: Tom's Tomato Soup</title>
+                    <description>&lt;div&gt;Tom Douglas&amp;#039; Key 3, Penny De Los Santos on food photography, Todd Selby on his book.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/121103/images/lrk-tom-douglas.jpg?itok=KWATIxFL"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/520</link>
+                    <pubDate>Fri, 08 Nov 2013 00:00:00 CST</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/09/splendidtable_20131109_64.mp3" length="23974497" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/09/splendidtable_20131109_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Tom Douglas' Key 3, Penny De Los Santos on food photography, Todd Selby on his book.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>545: Old Vines</title>
+                    <description>&lt;div&gt;Ray Isle on vines, Andrew Schloss on slow cooking, David Tanis on Chez Panisse, Dan Newman on leftovers, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/old-vines_0.jpg?itok=rD2UCmsp"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/545</link>
+                    <pubDate>Fri, 01 Nov 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/02/splendidtable_20131102_64.mp3" length="24340212" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/11/02/splendidtable_20131102_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Ray Isle on vines, Andrew Schloss on slow cooking, David Tanis on Chez Panisse, Dan Newman on leftovers, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>519: Lardcore</title>
+                    <description>&lt;div&gt;Sean Brock on lard, Eric Asimov on wine, Susan Feniger on tastes, Charlotte Druckman on female chefs, Patrick McGovern on beer.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/121020/images/sean-brock.jpg?itok=PckLLdHZ"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/519</link>
+                    <pubDate>Fri, 25 Oct 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/26/splendidtable_20131026_64.mp3" length="24717837" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/26/splendidtable_20131026_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Sean Brock on lard, Eric Asimov on wine, Susan Feniger on tastes, Charlotte Druckman on female chefs, Patrick McGovern on beer.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>544: Turbot Soufflé</title>
+                    <description>&lt;div&gt;Daniel Boulud&amp;#039;s iconic recipes, Samira Kawash on candy, Tricia Williams on coconut oil, James Bartlett on ghosts.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/daniel_boulud_tray_0.jpg?itok=92QzyGcX"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/544</link>
+                    <pubDate>Fri, 18 Oct 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/19/splendidtable_20131019_64.mp3" length="24635917" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/19/splendidtable_20131019_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Daniel Boulud's iconic recipes, Samira Kawash on candy, Tricia Williams on coconut oil, James Bartlett on ghosts.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>518: John's Fried Eggs</title>
+                    <description>&lt;div&gt;John Besh&amp;#039;s Key 3, Jerome Chateau on cows, Daisuke Utagawa on Japanese cuisine, The Perennial Plate.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/121006/images/lrk-john-besh-sq.jpg?itok=NdovhkVZ"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/518</link>
+                    <pubDate>Fri, 11 Oct 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/12/splendidtable_20131012_64.mp3" length="24446163" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/12/splendidtable_20131012_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>John Besh's Key 3, Jerome Chateau on cows, Daisuke Utagawa on Japanese cuisine, The Perennial Plate.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>543: Fat</title>
+                    <description>&lt;div&gt;Andrew Zimmern on fat, Adam Rapoport on duck confit, Anya von Bremzen on Russia, Julia Herz on beer.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/schmaltz_0.jpg?itok=0jHiienH"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/543</link>
+                    <pubDate>Fri, 04 Oct 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/05/splendidtable_20131005_64.mp3" length="24957954" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/10/05/splendidtable_20131005_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Andrew Zimmern on fat, Adam Rapoport on duck confit, Anya von Bremzen on Russia, Julia Herz on beer.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>490: Purple Citrus and Sweet Perfume</title>
+                    <description>&lt;div&gt;Silvena Rowe on Quince, Nathaniel Dominy on saliva, Richard Mabey on weeds, Isaac Mizrahi judges Stump.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/120901/images/rowe.jpg?itok=dTBeuKe7"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/490</link>
+                    <pubDate>Fri, 27 Sep 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/28/splendidtable_20130928_64.mp3" length="24285251" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/28/splendidtable_20130928_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Silvena Rowe on Quince, Nathaniel Dominy on saliva, Richard Mabey on weeds, Isaac Mizrahi judges Stump.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>542: Salt Block Cooking</title>
+                    <description>&lt;div&gt;Mark Bitterman on salt blocks, Ian Knauer on testing recipes, Joe Yonan on mock meat, Marcie Ferris on women&amp;#039;s history.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/saltblock_0.jpg?itok=gpQCy47a"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/542</link>
+                    <pubDate>Sat, 21 Sep 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/21/splendidtable_20130921_64.mp3" length="24896934" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/21/splendidtable_20130921_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Mark Bitterman on salt blocks, Ian Knauer on testing recipes, Joe Yonan on mock meat, Marcie Ferris on women's history.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>517: Road Trip: New Orleans</title>
+                    <description>&lt;div&gt;Leah Chase on the civil rights movement, Lolis Eric Elie on fine dining, Poppy Tooker on calas, Chris McMillian on the sazerac.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/data2/teamsite/splendidtable/listings/120922/images/leah-chase.jpg?itok=ozFOx--5"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/517</link>
+                    <pubDate>Sat, 14 Sep 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/14/splendidtable_20130914_64.mp3" length="24643860" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/14/splendidtable_20130914_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Leah Chase on the civil rights movement, Lolis Eric Elie on fine dining, Poppy Tooker on calas, Chris McMillian on the sazerac.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>541: Buttermilk</title>
+                    <description>&lt;div&gt;Diane St. Clair on buttermilk, Ben Sargent on lobster rolls, Trevor Corson on sushi, The Perennial Plate on Italy.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/Diane_St_Clair.jpg?itok=eLnzvqsh"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/541</link>
+                    <pubDate>Sat, 07 Sep 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/07/splendidtable_20130907_64.mp3" length="24529757" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/09/07/splendidtable_20130907_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Diane St. Clair on buttermilk, Ben Sargent on lobster rolls, Trevor Corson on sushi, The Perennial Plate on Italy.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+                <item>
+                    <title>516: Bill's Fried Oysters</title>
+                    <description>&lt;div&gt;Bill Smith&amp;#039;s Key 3, Jesse Griffiths on hunting, Jeremy Quinn on orange wine.&lt;/div&gt;</description>
+                    <itunes:image href="http://www.splendidtable.org/sites/default/files/styles/w1200/public/bill-smith.jpg?itok=U_YuoIOX"/>
+                    <category>Public Radio</category>
+                    <link>http://www.splendidtable.org/episode/516</link>
+                    <pubDate>Sat, 31 Aug 2013 00:00:00 CDT</pubDate>
+                    <enclosure url="http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/08/31/splendidtable_20130831_64.mp3" length="24524739" type="audio/mpeg"/>
+                    <guid>http://www.podtrac.com/pts/redirect.mp3/download.publicradio.org/podcast/splendid_table/2013/08/31/splendidtable_20130831_64.mp3</guid>
+                    <itunes:author>American Public Media</itunes:author>
+                    <itunes:subtitle>Bill Smith's Key 3, Jesse Griffiths on hunting, Jeremy Quinn on orange wine.</itunes:subtitle>
+                    <itunes:duration>45:00</itunes:duration>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

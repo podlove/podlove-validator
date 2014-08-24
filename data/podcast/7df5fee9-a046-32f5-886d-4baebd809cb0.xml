@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="GitHub.com"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Last-Modified" value="Sun, 10 Aug 2014 21:37:07 GMT"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:29:19 GMT"/>
+        <httpclient:header name="Cache-Control" value="max-age=600"/>
+        <httpclient:header name="Content-Length" value="4882"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:31:49 GMT"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Age" value="750"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="X-Served-By" value="cache-fra1225-FRA"/>
+        <httpclient:header name="X-Cache" value="MISS"/>
+        <httpclient:header name="X-Cache-Hits" value="0"/>
+        <httpclient:header name="X-Timer" value="S1408527109.542847872,VS0,VE93"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>AN: Firsts series</title>
+                <link>http://tekmusic.github.io/ambient-nights</link>
+                <description>Ambient Nights - Firsts series</description>
+                <lastBuildDate>Sun, 10 Aug 2014 21:37:07 +0000</lastBuildDate>
+                <language>en-US</language>
+                <itunes:author>Ambient Nights</itunes:author>
+                <itunes:subtitle>Firsts series</itunes:subtitle>
+                <itunes:image href="http://www.ambient-nights.org/images/AN%20CD5%20Front450.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>AN09</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD9.mp3</link>
+                    <pubDate>Fri, 09 Jan 2004 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD9.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD9.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN08</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD8.mp3</link>
+                    <pubDate>Thu, 08 Jan 2004 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD8.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD8.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN07</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD7.mp3</link>
+                    <pubDate>Wed, 07 Jan 2004 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD7.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD7.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN06</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD6.mp3</link>
+                    <pubDate>Mon, 06 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD6.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD6.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN05</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD5.mp3</link>
+                    <pubDate>Sun, 05 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD5.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD5.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN04</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD4.mp3</link>
+                    <pubDate>Sat, 04 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD4.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD4.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN03</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD3.mp3</link>
+                    <pubDate>Fri, 03 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD3.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD3.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN02</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD2.mp3</link>
+                    <pubDate>Thu, 02 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD2.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD2.mp3" length="" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>AN01</title>
+                    <link>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD1.mp3</link>
+                    <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+                    <guid>https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD1.mp3</guid>
+                    <enclosure url="https://github.com/tekmusic/ambient-nights/releases/download/5/Ambient.Nights.CD1.mp3" length="" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

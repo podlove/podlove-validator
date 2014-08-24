@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<podcast xmlns="http://podlove.org/dtd/podcast-description">
+    <title>Podlove Podcast</title>
+    <subtitle>
+        Insights and outlooks by the Podlove project
+    </subtitle>
+    <summary>
+        The Podlove team updates creators and developers
+        on the latest thinking behind the Podlove project,
+        it's software projects and standards.
+
+        The podcast is delivered bi-weekly and welcomes
+        feedback on any level. Join as we try to shape the
+        future of podcasting for the greater good.
+    </summary>
+    <link>http://podlove.org/example/podcast</link>
+    <image>http://podlove.org/example/podcast-image.jpg</image>
+    <feeds>
+        <feed>
+            <feed-title>MP3 Audio</feed-title>
+            <feed-url>
+                http://podlove.org/example/podlove-feed-mp3.rss
+            </feed-url>
+            <enclosure-mime-type>audio/mpeg</enclosure-mime-type>
+            <link rel="alternate"
+                  href="http://mycoolpodcast.com/feed/mp3-low"
+                  type="application/atom+xml"
+                  title="MP3 audio low-bandwidth"/>
+            <link rel="alternate"
+                  href="http://mycoolpodcast.com/feed/mp4"
+                  type="application/atom+xml"
+                  title="MP4 audio"/>
+            <link rel="alternate"
+                  href="http://mycoolpodcast.com/feed/ogg"
+                  type="application/atom+xml"
+                  title="Ogg Vorbis audio"/>
+
+            <link rel="alternate"
+                  href="http://mycoolpodcast.com/feed/video"
+                  type="application/atom+xml"
+                  title="MP4 video"/>
+            <link rel="alternate"
+                  href="http://mycoolpodcast.com/feed/video-bt"
+                  type="application/atom+xml"
+                  title="MP4 video (via BitTorrent)"/>
+
+        </feed>
+
+        <feed>
+            <feed-title>MP4 Audio</feed-title>
+            <feed-url>
+                http://podlove.org/example/podlove-feed-m4a.rss
+            </feed-url>
+            <enclosure-mime-type>audio/mp4</enclosure-mime-type>
+        </feed>
+    </feeds>
+
+    <episode xmlns="http://podlove.org/dtd/episode-description">
+        <title>Podlove Episode</title>
+        <subtitle>
+            Insights and outlooks by the Podlove project
+        </subtitle>
+        <summary>
+            The Podlove team updates creators and developers
+            on the latest thinking behind the Podlove project,
+            it's software projects and standards.
+
+            The podcast is delivered bi-weekly and welcomes
+            feedback on any level. Join as we try to shape the
+            future of podcasting for the greater good.
+        </summary>
+        <homepage>http://podlove.org/example/podcast</homepage>
+        <image>http://podlove.org/example/podcast-image.jpg</image>
+        <media-files>
+            <media-file>
+                <file-title>MP3 Audio</file-title>
+                <file-url>
+                    http://podlove.org/example/episode-xxx.mp3
+                </file-url>
+                <file-mime-type>audio/mpeg</file-mime-type>
+            </media-file>
+
+            <media-file>
+                <file-title>MP4 Audio</file-title>
+                <file-url>
+                    http://podlove.org/example/episode-xxx.m4a
+                </file-url>
+                <file-mime-type>audio/mp4</file-mime-type>
+            </media-file>
+        </media-files>
+        <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+            <psc:chapter start="0" title="Welcome" />
+            <psc:chapter start="3:07" title="Introducing Podlove" href="http://podlove.org/" />
+            <psc:chapter start="8:26.250" title="Podlove WordPress Plugin" href="http://podlove.org/podlove-podcast-publisher" />
+            <psc:chapter start="12:42" title="Resumée" />
+        </psc:chapters>
+    </episode>
+
+</podcast>

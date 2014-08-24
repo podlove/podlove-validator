@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:47:10 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Set-Cookie" value="PHPSESSID=40nsqv7fj1vp6v9o9nj6pl56v7; path=/; domain=.podfm.ru; HttpOnly"/>
+        <httpclient:header name="Expires" value="Thu, 19 Nov 1981 08:52:00 GMT"/>
+        <httpclient:header name="Cache-Control" value="no-store, no-cache, must-revalidate, post-check=0, pre-check=0"/>
+        <httpclient:header name="Pragma" value="no-cache"/>
+        <httpclient:header name="Set-Cookie" value="PHPSESSID=8usk50ls2820ssnbh313dlar80; path=/; domain=.podfm.ru; HttpOnly"/>
+        <httpclient:header name="Set-Cookie" value="PHPSESSID=o60jlqc330m1a437uj5b5eu5a7; path=/; domain=.podfm.ru; HttpOnly"/>
+        <httpclient:header name="Access-Control-Allow-Origin" value="*"/>
+        <httpclient:header name="accept_ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podfm="http://podfm.ru/RSS/extension" version="2.0">
+            <channel>
+                <atom:link href="http://applejelly.podfm.ru/applejellyrus/rss/rss.xml" type="application/rss+xml" rel="self"/>
+                <itunes:owner>
+                    <itunes:email>info@podfm.ru</itunes:email>
+                </itunes:owner>
+                <language>ru-ru</language>
+                <itunes:explicit>no</itunes:explicit>
+                <image>
+                    <url>http://file2.podfm.ru/43/437/4372/43722/images/lentava_51151_1_11.jpg</url>
+                    <title>JellyCast</title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/</link>
+                </image>
+                <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/lent_51151_big_19.jpg">
+                    <itunes:url>http://file2.podfm.ru/43/437/4372/43722/images/lent_51151_big_19.jpg</itunes:url>
+                    <itunes:link>http://applejelly.podfm.ru/applejellyrus/</itunes:link>
+                </itunes:image>
+                <link>http://applejelly.podfm.ru/applejellyrus/</link>
+                <title>JellyCast</title>
+                <description>Веселый подкаст о Apple и IT.  Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер. Канал - ссылка ВК - ссылка Твиттер - @AppleJellyRUS</description>
+                <itunes:summary>Веселый подкаст о Apple и IT.  
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер. 
+Канал - ссылка 
+ВК - ссылка 
+Твиттер - @AppleJellyRUS</itunes:summary>
+                <itunes:author>JellyCast</itunes:author>
+                <category>Технологии</category>
+                <lastBuildDate>Wed, 20 Aug 2014 13:47:10 +0400</lastBuildDate>
+                <item>
+                    <title>Новости Apple &gt; Технология iBeacon &gt; Игры недели (16) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/13/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/13/</guid>
+                    <pubDate>Mon, 18 Aug 2014 08:31:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_13.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;SHOWNOTES:&lt;br /&gt;
+Приветствие.&lt;br /&gt;
+Вирус AdThief.&lt;br /&gt;
+iPad проигрывает Lenovo.&lt;br /&gt;
+Yota - 4 федеральный оператор.&lt;br /&gt;
+Oculus SDK для OS X.&lt;br /&gt;
+Новый Lighting.&lt;br /&gt;
+Подарки от Apple в России.&lt;br /&gt;
+Trade-in в России.&lt;br /&gt;
+Экологичное производство Apple.&lt;br /&gt;
+Будет два iPhone 6 - подтверждено.&lt;br /&gt;
+Beats Music в разделе Made by Apple.&lt;br /&gt;
+Технология iBeacon.&lt;br /&gt;
+Игры и приложения недели.&lt;br /&gt;
+Прощание.&lt;br /&gt;
+-----------------------------------------------------&lt;br /&gt;
+Веселый подкаст о Apple и IT. &lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/f917b87" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - vk.com/applejelly&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Сотрудничество - &lt;a rel="nofollow" href="mailto:applejelly@mail.ru"&gt;applejelly@mail.ru&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/13/file/podfm_applejelly_applejellyrus_16.mp3?channel=rss" length="110855023" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>SHOWNOTES:
+Приветствие.
+Вирус AdThief.
+iPad проигрывает Lenovo.
+Yota - 4 федеральный оператор.
+Oculus SDK для OS X.
+Новый Lighting.
+Подарки от Apple в России.
+Trade-in в России.
+Экологичное производство Apple.
+Будет два iPhone 6 - подтверждено.
+Beats Music в разделе Made by Apple.
+Технология iBeacon.
+Игры и приложения недели.
+Прощание.
+-----------------------------------------------------
+Веселый подкаст о Apple и IT. 
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.
+Канал - ссылка
+ВК - vk.com/applejelly
+Твиттер - @AppleJellyRUS
+Сотрудничество - applejelly@mail.ru</itunes:summary>
+                    <itunes:duration>4619</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_13_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>21</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Новости Apple &gt; Foursquare&#160;8.0 &gt; Игры недели (15) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/12/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/12/</guid>
+                    <pubDate>Sun, 10 Aug 2014 20:21:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_12.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;SHOWNOTES:&lt;br /&gt;
+Приветствие.&lt;br /&gt;
+Анонимного Wi-Fi больше нет.&lt;br /&gt;
+Что нового в iOS 8 Beta 5.&lt;br /&gt;
+Что нового в Yosemite DP5.&lt;br /&gt;
+Apple и Beats.&lt;br /&gt;
+iBeacon в московских аэропортах.&lt;br /&gt;
+Foursquare 8.0&lt;br /&gt;
+Игры и обновления недели.&lt;br /&gt;
+Анонс на неделю&lt;br /&gt;
+Прощание.&lt;br /&gt;
+------------------------------------------------&lt;br /&gt;
+The Walking Season 2 бесплатно - &lt;a rel="nofollow" href="http://podfm.ru/goto/c8e93d1" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Shazam на Mac - &lt;a rel="nofollow" href="ps://itunes.apple.com/ru/app/shazam/id897118787?mt=12" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+------------------------------------------------&lt;br /&gt;
+Веселый подкаст о Apple и IT. &lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/f917b87" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Сотрудничество - &lt;a rel="nofollow" href="mailto:applejelly@mail.ru"&gt;applejelly@mail.ru&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/12/file/podfm_applejelly_applejellyrus_15.mp3?channel=rss" length="110380471" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>SHOWNOTES:
+Приветствие.
+Анонимного Wi-Fi больше нет.
+Что нового в iOS 8 Beta 5.
+Что нового в Yosemite DP5.
+Apple и Beats.
+iBeacon в московских аэропортах.
+Foursquare 8.0
+Игры и обновления недели.
+Анонс на неделю
+Прощание.
+------------------------------------------------
+The Walking Season 2 бесплатно - ссылка
+Shazam на Mac - ссылка
+------------------------------------------------
+Веселый подкаст о Apple и IT. 
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS
+Сотрудничество - applejelly@mail.ru</itunes:summary>
+                    <itunes:duration>3449</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_12_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>72</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Отсчет Apple за&#160;Q3 &gt; Новости за&#160;неделю &gt; Google Project Ara и&#160;Project Tango &gt; Игры недели &gt; Как заменить Jawbone&#160;UP (14) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/11/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/11/</guid>
+                    <pubDate>Sun, 27 Jul 2014 21:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_11.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;SHOW NOTES:&lt;br /&gt;
+Приветствие.&lt;br /&gt;
+Отсчет Apple за Q3 2014.&lt;br /&gt;
+Новости Apple за неделю.&lt;br /&gt;
+Google Project Ara и Project Tango&lt;br /&gt;
+Игры и обновления недели.&lt;br /&gt;
+Как заменить Jawbone UP&lt;br /&gt;
+Прощание.&lt;br /&gt;
+---------------------------------------------------------&lt;br /&gt;
+Ссылка на Modern Combat 5:Blackout - &lt;a rel="nofollow" href="http://podfm.ru/goto/592c16c" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+---------------------------------------------------------&lt;br /&gt;
+Веселый подкаст о Apple и IT. &lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.&lt;br /&gt;
+Канал - ссылка&lt;br /&gt;
+ВК - ссылка&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/11/file/podfm_applejelly_applejellyrus_14.mp3?channel=rss" length="79120658" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>SHOW NOTES:
+Приветствие.
+Отсчет Apple за Q3 2014.
+Новости Apple за неделю.
+Google Project Ara и Project Tango
+Игры и обновления недели.
+Как заменить Jawbone UP
+Прощание.
+---------------------------------------------------------
+Ссылка на Modern Combat 5:Blackout - ссылка
+---------------------------------------------------------
+Веселый подкаст о Apple и IT. 
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS</itunes:summary>
+                    <itunes:duration>4449</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_11_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>100</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Новости Apple &gt; Спортивные приложения &gt; Apple+IBM &gt; Игры недели (13) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/10/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/10/</guid>
+                    <pubDate>Tue, 22 Jul 2014 22:59:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_10.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;SHOW NOTES:&lt;br /&gt;
+1. Приветствие.&lt;br /&gt;
+2. Новости Apple за неделю.&lt;br /&gt;
+3. Спортивные приложения, любимые виды спорта, отношение.&lt;br /&gt;
+4. Объединение Apple и IBM.&lt;br /&gt;
+5. Игры и обновления недели.&lt;br /&gt;
+6. Мысли о консоли от Apple.&lt;br /&gt;
+7. Прощание.&lt;br /&gt;
+---------------------------------&lt;br /&gt;
+Приложение Moves: &lt;a rel="nofollow" href="http://podfm.ru/goto/c14e8f5" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Приложение Seven: &lt;a rel="nofollow" href="http://podfm.ru/goto/dd48cb7" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Игра Ingress: &lt;a rel="nofollow" href="http://podfm.ru/goto/a16b419" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+----------------------------------&lt;br /&gt;
+Веселый подкаст о Apple и IT. &lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/f917b87" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/10/file/podfm_applejelly_applejellyrus_13_10.mp3?channel=rss" length="103124851" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>SHOW NOTES:
+1. Приветствие.
+2. Новости Apple за неделю.
+3. Спортивные приложения, любимые виды спорта, отношение.
+4. Объединение Apple и IBM.
+5. Игры и обновления недели.
+6. Мысли о консоли от Apple.
+7. Прощание.
+---------------------------------
+Приложение Moves: ссылка
+Приложение Seven: ссылка
+Игра Ingress: ссылка
+----------------------------------
+Веселый подкаст о Apple и IT. 
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS</itunes:summary>
+                    <itunes:duration>4297</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_10_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>85</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Слухи о&#160;iPhone 6+рендеры &gt; iWatch &gt; WWDC &gt; Google office (13) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/9/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/9/</guid>
+                    <pubDate>Fri, 09 May 2014 16:31:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_9.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Веселый подкаст о Apple и IT. &lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/f917b87" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Tumblr - applejellyrus.tumblr.com&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/9/file/podfm_applejelly_applejellyrus_13.mp3?channel=rss" length="67926698" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Веселый подкаст о Apple и IT. 
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS
+Tumblr - applejellyrus.tumblr.com</itunes:summary>
+                    <itunes:duration>2830</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_9_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>203</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>WWDC 2014:прогнозы &gt; Покупки Apple &gt; Переписка Джобса &gt; Ограбление Связного (12) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/8/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/8/</guid>
+                    <pubDate>Sun, 06 Apr 2014 14:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_8.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Веселый подкаст о Apple и IT. &lt;br /&gt;
+Темы выпуска: WWDC 2014:прогнозы &gt; Покупки Apple &gt; Переписка Джобса &gt; Ограбление Связного и многое другое.&lt;br /&gt;
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/f917b87" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Tumblr - applejellyrus.tumblr.com&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/8/file/podfm_applejelly_applejellyrus_12.mp3?channel=rss" length="63701903" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Веселый подкаст о Apple и IT. 
+Темы выпуска: WWDC 2014:прогнозы &gt; Покупки Apple &gt; Переписка Джобса &gt; Ограбление Связного и многое другое.
+Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS
+Tumblr - applejellyrus.tumblr.com</itunes:summary>
+                    <itunes:duration>3981</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_8_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>177</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>iOS 7.0.4 &gt; iPad Mini 2 &gt; Google Play Музыка &gt; Адвокаты Apple &gt; iPhone 4S &gt; iPhone&#160;5c</title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/7/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/7/</guid>
+                    <pubDate>Sat, 16 Nov 2013 21:37:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_7.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/d4d8aa0" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Tumblr - applejellyrus.tumblr.com&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/7/file/podfm_applejelly_applejellyrus_20131116.mp3?channel=rss" length="85280286" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS
+Tumblr - applejellyrus.tumblr.com</itunes:summary>
+                    <itunes:duration>2665</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_7_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3760</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>iPad Air &gt; Тесты нового Mac Pro &gt; Apple вкладывает в&#160;сапфир &gt; Apple+Google &gt; Отставка главного по&#160;iOS</title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/6/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/6/</guid>
+                    <pubDate>Mon, 11 Nov 2013 20:33:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_6.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.&lt;br /&gt;
+Канал - &lt;a rel="nofollow" href="http://podfm.ru/goto/d4d8aa0" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+ВК - &lt;a rel="nofollow" href="http://podfm.ru/goto/8f5cf45" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Твиттер - @AppleJellyRUS&lt;br /&gt;
+Tumblr - applejellyrus.tumblr.com&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/6/file/podfm_applejelly_applejellyrus_20131111.mp3?channel=rss" length="85046297" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Подписывайтесь на канал, вступайте в группу в ВКонтакте, читайте твиттер и Tumblr.
+Канал - ссылка
+ВК - ссылка
+Твиттер - @AppleJellyRUS
+Tumblr - applejellyrus.tumblr.com</itunes:summary>
+                    <itunes:duration>2658</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_6_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>386</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Подкаст AppleJelly: Мемуары о&#160;Джобсе &gt; Event &gt; iPad&#160;5, iPad Mini 2 &gt; iOS&#160;7</title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/5/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/5/</guid>
+                    <pubDate>Sun, 20 Oct 2013 19:12:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_5.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Еженедельный подкаст AppleJelly.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/5/file/podfm_applejelly_applejellyrus_20131020.mp3?channel=rss" length="18915517" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Еженедельный подкаст AppleJelly.</itunes:summary>
+                    <itunes:duration>1182</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_5_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>314</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Яблочное Желе (9) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/4/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/4/</guid>
+                    <pubDate>Sat, 05 Oct 2013 22:56:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_4.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Еженедельный подкаст об Apple и IT.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/4/file/podfm_applejelly_applejellyrus_9_4.mp3?channel=rss" length="71969118" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Еженедельный подкаст об Apple и IT.</itunes:summary>
+                    <itunes:duration>4498</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_4_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>180</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Подкаст AppleJelly (9) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/3/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/3/</guid>
+                    <pubDate>Sat, 05 Oct 2013 22:52:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_3.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Еженедельный подкаст об Apple и IT.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/3/file/podfm_applejelly_applejellyrus_9.mp3?channel=rss" length="43242365" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Еженедельный подкаст об Apple и IT.</itunes:summary>
+                    <itunes:duration>2703</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_3_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>144</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Яблочное Желе (8) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/2/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/2/</guid>
+                    <pubDate>Mon, 30 Sep 2013 20:04:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_2.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Еженедельный подкаст о Apple и IT в целом.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/2/file/podfm_applejelly_applejellyrus_8_2.mp3?channel=rss" length="136079377" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Еженедельный подкаст о Apple и IT в целом.</itunes:summary>
+                    <itunes:duration>5670</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_2_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>117</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Подкаст AppleJelly (8) </title>
+                    <link>http://applejelly.podfm.ru/applejellyrus/1/</link>
+                    <guid>http://applejelly.podfm.ru/applejellyrus/1/</guid>
+                    <pubDate>Mon, 30 Sep 2013 19:59:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/43/437/4372/43722/images/pod_1.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Еженедельный подкаст о Apple и IT в целом.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://applejelly.podfm.ru/applejellyrus/1/file/podfm_applejelly_applejellyrus_8.mp3?channel=rss" length="32367804" type="audio/mpeg"/>
+                    <itunes:author>JellyCast</itunes:author>
+                    <itunes:summary>Еженедельный подкаст о Apple и IT в целом.</itunes:summary>
+                    <itunes:duration>809</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/43/437/4372/43722/images/pod_1_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>133</podfm:downloadCount>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

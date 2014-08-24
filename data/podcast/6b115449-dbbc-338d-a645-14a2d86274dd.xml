@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml;charset=utf-8"/>
+        <httpclient:header name="X-VG-WebCache" value="23"/>
+        <httpclient:header name="Cache-Control" value="max-age=30"/>
+        <httpclient:header name="Content-Length" value="8434"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:39:38 GMT"/>
+        <httpclient:header name="X-Varnish" value="3195926476 3195924918"/>
+        <httpclient:header name="Age" value="12"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="From" value="n7abchwc02.starwave.com"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml;charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <ttl>60</ttl>
+                <title>ABC News - Nightline - Podcast</title>
+                <itunes:author>ABC News</itunes:author>
+                <link>http://abcnews.go.com/</link>
+                <description>Audio-only edition. The complete broadcast of ABC's Nightline, updated every weekday.</description>
+                <itunes:subtitle>Audio-only edition. The complete broadcast of ABC's Nightline, updated every weekday.</itunes:subtitle>
+                <itunes:summary>Audio-only edition. The complete broadcast of ABC's Nightline, updated every weekday.</itunes:summary>
+                <itunes:keywords>abc news ABC, ABC News, ABC News Radio, radio, Nightline, Sam Donaldson, Martin Bashir, Cynthia McFadden, Terry Moran, radio, podcast, audio, news, TV, show, shows, TV shows, politics, campaign, election, life, living, information</itunes:keywords>
+                <language>en</language>
+                <copyright>Copyright (c) 2014 ABC News Internet Ventures</copyright>
+                <itunes:owner>
+                    <itunes:name>ABC News</itunes:name>
+                    <itunes:email>technical@abcnews.com</itunes:email>
+                </itunes:owner>
+                <image>
+                    <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                    <title>ABC News - Nightline - Podcast</title>
+                    <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                </image>
+                <category>News</category>
+        <!-- iTunes prefers square images 300x300 pixels or larger and the image must be a jpeg or png -->
+                <itunes:image href="http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg"/>
+                <item>
+                    <title>ABC News - Nightline - Podcast - 08.19.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Anti-Surrogacy; Taylor Swift; Little League</description>
+                    <itunes:subtitle>Anti-Surrogacy; Taylor Swift; Little League</itunes:subtitle>
+                    <itunes:summary>Anti-Surrogacy; Taylor Swift; Little League</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2292756/2292756_2014-08-20-015456.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2292756/2292756_2014-08-20-015456.96.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 01:07:28 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news  nightline, world, news</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                        <title>ABC News - Nightline - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>ABC News - Nightline - Podcast - 08.18.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Ferguson Missouri, Closet Robbery, Amazon Tribe</description>
+                    <itunes:subtitle>Ferguson Missouri, Closet Robbery, Amazon Tribe</itunes:subtitle>
+                    <itunes:summary>Ferguson Missouri, Closet Robbery, Amazon Tribe</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2291536/2291536_2014-08-19-011936.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2291536/2291536_2014-08-19-011936.96.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 00:55:04 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news  nightline, world, news</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                        <title>ABC News - Nightline - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>ABC News - Nightline - Podcast - 08.15.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Deadly Love Triangle; Counterfeit Tickets; Animal Planet's "Too Cute"</description>
+                    <itunes:subtitle>Deadly Love Triangle; Counterfeit Tickets; Animal Planet's "Too Cute"</itunes:subtitle>
+                    <itunes:summary>Deadly Love Triangle; Counterfeit Tickets; Animal Planet's "Too Cute"</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2288922/2288922_2014-08-16-011722.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2288922/2288922_2014-08-16-011722.96.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 01:11:02 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news  nightline, world, news</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                        <title>ABC News - Nightline - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>ABC News - Nightline - Podcast - 08.014.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>"Aladdin" Creators Remember Robin Williams; "Shark Week" Enthusiasm Going Too Far?; Making Of "The Giver"</description>
+                    <itunes:subtitle>"Aladdin" Creators Remember Robin Williams; "Shark Week" Enthusiasm Going Too Far?; Making Of "The Giver"</itunes:subtitle>
+                    <itunes:summary>"Aladdin" Creators Remember Robin Williams; "Shark Week" Enthusiasm Going Too Far?; Making Of "The Giver"</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2287426/2287426_2014-08-15-011726.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2287426/2287426_2014-08-15-011726.96.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 00:52:34 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news  nightline, world, news</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                        <title>ABC News - Nightline - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>ABC News - Nightline - Podcast - 08.13.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Robin Williams' Daughter Targeted By Online Bullies; Disability Fraud; Brooklyn Bridge Prank</description>
+                    <itunes:subtitle>Robin Williams' Daughter Targeted By Online Bullies; Disability Fraud; Brooklyn Bridge Prank</itunes:subtitle>
+                    <itunes:summary>Robin Williams' Daughter Targeted By Online Bullies; Disability Fraud; Brooklyn Bridge Prank</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2285944/2285944_2014-08-14-020244.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2285944/2285944_2014-08-14-020244.96.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 01:21:57 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news  nightline, world, news</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/ntl_podcast_audio_062614_600x600.jpg</url>
+                        <title>ABC News - Nightline - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

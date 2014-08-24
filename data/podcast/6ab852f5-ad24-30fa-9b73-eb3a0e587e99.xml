@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="ETag" value="KFl64xzix2EQGYkO1J1+csL8c0w"/>
+        <httpclient:header name="Last-Modified" value="Sat, 23 Aug 2014 10:01:20 GMT"/>
+        <httpclient:header name="Date" value="Sat, 23 Aug 2014 10:16:24 GMT"/>
+        <httpclient:header name="Expires" value="Sat, 23 Aug 2014 10:16:24 GMT"/>
+        <httpclient:header name="Cache-Control" value="private, max-age=0"/>
+        <httpclient:header name="X-Content-Type-Options" value="nosniff"/>
+        <httpclient:header name="X-XSS-Protection" value="1; mode=block"/>
+        <httpclient:header name="Server" value="GSE"/>
+        <httpclient:header name="Alternate-Protocol" value="80:quic"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+            <channel>
+                <title>Der Lautsprecher</title>
+                <link>http://der-lautsprecher.de</link>
+                <description>Ein Podcast über das Senden und Empfangen werden</description>
+                <lastBuildDate>Tue, 08 Jul 2014 03:30:13 +0000</lastBuildDate>
+                <atom:link rel="alternate" type="application/rss+xml" title="Der Lautsprecher (MP3 Audio)" href="http://der-lautsprecher.de/feed/mp3/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="Der Lautsprecher (Ogg Vorbis Audio)" href="http://der-lautsprecher.de/feed/oga/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="Der Lautsprecher (Ogg Opus Audio)" href="http://der-lautsprecher.de/feed/opus/"/>
+                <atom:link rel="first" href="http://der-lautsprecher.de/feed/m4a/"/>
+                <language>de-DE</language>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2F&amp;language=de_DE&amp;category=audio&amp;title=Der+Lautsprecher&amp;description=Ein+Podcast+%C3%BCber+das+Senden+und+Empfangen+werden&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                <atom:contributor>
+                    <atom:name>Tim Pritlove</atom:name>
+                    <atom:uri>http://tim.pritlove.org/</atom:uri>
+                </atom:contributor>
+                <generator>Podlove Podcast Publisher v1.10.19-alpha</generator>
+                <itunes:author>Metaebene Personal Media</itunes:author>
+                <itunes:summary>Der Lautsprecher ist ein Forum für Podcaster und solche, die es vielleicht werden wollen. Tim Pritlove spricht mit ausgewählten Gästen über Technik, Kultur und Methoden des Podcastings.</itunes:summary>
+                <itunes:category text="Technology">
+                    <itunes:category text="Podcasting"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>Tim Pritlove</itunes:name>
+                    <itunes:email>tim@metaebene.me</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://meta.metaebene.me/media/lautsprecher/der-lautsprecher-logo-1500x1500.jpg"/>
+                <itunes:subtitle>Ein Podcast über das Senden und Empfangen werden</itunes:subtitle>
+                <itunes:keywords>podcast, lautsprecher, timpritlove, metaebene, podcasting, technik, aufnehmen, senden</itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/DerLautsprecher"/>
+                <feedburner:info uri="derlautsprecher"/>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+                <atom:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://metaebene.superfeedr.com/"/>
+                <item>
+                    <title>LS013 Ultraschall</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/nfqVFNyCjPU/ls013-ultraschall</link>
+                    <pubDate>Tue, 24 Jun 2014 10:30:08 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-24t10:15:57+00:00-ae098a7d52aeec5</guid>
+                    <description>Das Projekt Ultraschall von Ralf Stockmann startete zunächst als Screencast, um Wissen über Aufnahmetechniken zu teilen und entwickelte sich dann selbst in ein Software-Projekt, das auf Basis der Software Reaper versucht, eine für Podcasting optimierte Aufnahmeumgebung zu schaffen. Ralf erzählt in dieser Ausgabe, wie es dazu kam, was bisher geschaffen wurde und wohin die Reise gehen soll.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls013-ultraschall&amp;language=de_DE&amp;category=audio&amp;title=LS013+Ultraschall&amp;description=links%3A+Ultraschall&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <psc:chapters version="1.2">
+                        <psc:chapter start="00:00:00.000" title="Einführung"/>
+                        <psc:chapter start="00:01:12.021" title="Ultraschall Screencast"/>
+                        <psc:chapter start="00:16:15.099" title="Ultraschall für Reaper"/>
+                        <psc:chapter start="00:27:06.687" title="Design und Workflow"/>
+                        <psc:chapter start="00:38:49.892" title="Team und Technik"/>
+                        <psc:chapter start="01:04:15.058" title="Zukünftiges"/>
+                    </psc:chapters>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls013-ultraschall#"/>
+                    <itunes:duration>01:19:09</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Die Entwicklung einer Podcast-optimierten Aufnahmesoftware für Podcasts</itunes:subtitle>
+                    <itunes:summary>Das Projekt Ultraschall von Ralf Stockmann startete zunächst als Screencast, um Wissen über Aufnahmetechniken zu teilen und entwickelte sich dann selbst in ein Software-Projekt, das auf Basis der Software Reaper versucht, eine für Podcasting optimierte Aufnahmeumgebung zu schaffen. Ralf erzählt in dieser Ausgabe, wie es dazu kam, was bisher geschaffen wurde und wohin die Reise gehen soll.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Die Entwicklung einer Podcast-optimierten Aufnahmesoftware für Podcasts&lt;/em&gt;&lt;/strong&gt;
+
+Das Projekt Ultraschall von Ralf Stockmann startete zunächst als Screencast, um Wissen über Aufnahmetechniken zu teilen und entwickelte sich dann selbst in ein Software-Projekt, das auf Basis der Software Reaper versucht, eine für Podcasting optimierte Aufnahmeumgebung zu schaffen. Ralf erzählt in dieser Ausgabe, wie es dazu kam, was bisher geschaffen wurde und wohin die Reise gehen soll.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:19:09.802
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS013 Ultraschall"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls013-ultraschall#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS013 Ultraschall
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/24b51828c1c384dc45b75faffb7ad8e8?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ralf Stockmann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/ralf.stockmann"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ralf Stockmann@LS013 Ultraschall"
+					rel="flattr;uid:rstockm;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls013-ultraschall#fadaf1a187a42d2f5db08dd967908469"&gt;
+						Flattr Ralf Stockmann@LS013 Ultraschall
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title="Ultraschall" href="http://ultraschall-podcast.de"&gt;Ultraschall&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=4005&amp;amp;md5=2652069dc0fb8e2d6ff32bdb8ee61b44" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/nfqVFNyCjPU" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls013-ultraschall</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/_xyVrH3mp7k/ls013-ultraschall.m4a" length="29855892" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/210/s/feed/c/m4a/ls013-ultraschall.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS012 Das Sendezentrum</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/rKCBbo-Xm-g/ls012-das-sendezentrum</link>
+                    <pubDate>Wed, 04 Dec 2013 22:23:04 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-12-04t21:59:26+00:00-6b777e5525d038e</guid>
+                    <description>Das Sendezentrum ist ein Projekt von Claudia Krell, Ralf Stockmann und Tim Pritlove und kam erstmal auf der re:publica 13 zum Vorschein: ein Raum mit Live-Radio-Bühne und Zuschauern, wo einmal am Tag "Die Sondersendung" produziert wurde – ein Magazin, dass mit Interviews und anderen Beiträgen versucht, den Charakter der umgebenden Veranstaltung möglichst frisch und unterhaltsam rüberzubringen. Auf dem kommenden 30. Chaos Communication Congress wird das Projekt jetzt etwas größer fortgesetzt.
+
+In dieser Ausgabe des Lautsprechers sprechen wir über unsere Motivation, unsere Erfahrungen aus dem ersten Versuch und ähnlichen Events wie dem Bundesradio und über unsere Ziele und Planungen für den kommenden Einsatz. Darüberhinaus philosophieren wir ein wenig über Veranstaltungen im Allgemeinen, warum Panels eine dumme Idee sind und wie man Veranstaltungen an sich aufwerten und lebendiger machen kann.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls012-das-sendezentrum&amp;language=de_DE&amp;category=audio&amp;title=LS012+Das+Sendezentrum&amp;description=Links%3A+Das+Sendezentrum+%2F+Die+Sondersendung+Bundesradio+Wikigeeks+WGS006%3A+%2329C3+30C3%3A+Podlove+Assembly+30C3%3A+Sendezentrum&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls012-das-sendezentrum#"/>
+                    <itunes:duration>01:34:47</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Live-Event-Podcasting und die Nutzung von Radioformaten für Veranstaltungen</itunes:subtitle>
+                    <itunes:summary>Das Sendezentrum ist ein Projekt von Claudia Krell, Ralf Stockmann und Tim Pritlove und kam erstmal auf der re:publica 13 zum Vorschein: ein Raum mit Live-Radio-Bühne und Zuschauern, wo einmal am Tag "Die Sondersendung" produziert wurde – ein Magazin, dass mit Interviews und anderen Beiträgen versucht, den Charakter der umgebenden Veranstaltung möglichst frisch und unterhaltsam rüberzubringen. Auf dem kommenden 30. Chaos Communication Congress wird das Projekt jetzt etwas größer fortgesetzt.
+
+In dieser Ausgabe des Lautsprechers sprechen wir über unsere Motivation, unsere Erfahrungen aus dem ersten Versuch und ähnlichen Events wie dem Bundesradio und über unsere Ziele und Planungen für den kommenden Einsatz. Darüberhinaus philosophieren wir ein wenig über Veranstaltungen im Allgemeinen, warum Panels eine dumme Idee sind und wie man Veranstaltungen an sich aufwerten und lebendiger machen kann.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Live-Event-Podcasting und die Nutzung von Radioformaten für Veranstaltungen&lt;/em&gt;&lt;/strong&gt;
+
+Das Sendezentrum ist ein Projekt von Claudia Krell, Ralf Stockmann und Tim Pritlove und kam erstmal auf der re:publica 13 zum Vorschein: ein Raum mit Live-Radio-Bühne und Zuschauern, wo einmal am Tag "Die Sondersendung" produziert wurde – ein Magazin, dass mit Interviews und anderen Beiträgen versucht, den Charakter der umgebenden Veranstaltung möglichst frisch und unterhaltsam rüberzubringen. Auf dem kommenden 30. Chaos Communication Congress wird das Projekt jetzt etwas größer fortgesetzt.&lt;br /&gt;
+&lt;br /&gt;
+In dieser Ausgabe des Lautsprechers sprechen wir über unsere Motivation, unsere Erfahrungen aus dem ersten Versuch und ähnlichen Events wie dem Bundesradio und über unsere Ziele und Planungen für den kommenden Einsatz. Darüberhinaus philosophieren wir ein wenig über Veranstaltungen im Allgemeinen, warum Panels eine dumme Idee sind und wie man Veranstaltungen an sich aufwerten und lebendiger machen kann.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:34:47.967
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS012 Das Sendezentrum"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls012-das-sendezentrum#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS012 Das Sendezentrum
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/8358474301c6bf82af45c5d84c6d943b?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Claudia Krell
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/claudiakrell"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Claudia Krell@LS012 Das Sendezentrum"
+					rel="flattr;uid:wortkomplex;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls012-das-sendezentrum#5acbc14bb07e4c1a311520fddb612a52"&gt;
+						Flattr Claudia Krell@LS012 Das Sendezentrum
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/24b51828c1c384dc45b75faffb7ad8e8?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ralf Stockmann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/ralf.stockmann"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ralf Stockmann@LS012 Das Sendezentrum"
+					rel="flattr;uid:rstockm;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls012-das-sendezentrum#fadaf1a187a42d2f5db08dd967908469"&gt;
+						Flattr Ralf Stockmann@LS012 Das Sendezentrum
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://das-sendezentrum.de/"&gt;Das Sendezentrum / Die Sondersendung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bundesradio.de"&gt;Bundesradio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wikigeeks.de/201301/wgs006-29c3/"&gt;Wikigeeks WGS006: #29C3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://events.ccc.de/congress/2013/wiki/Assembly:Podlove"&gt;30C3: Podlove Assembly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://events.ccc.de/congress/2013/wiki/Assembly:Sendezentrum"&gt;30C3: Sendezentrum&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3892&amp;amp;md5=623ec9335d9fd0acacdf8798f3912c1d" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/rKCBbo-Xm-g" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls012-das-sendezentrum</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/EkoD_29R2Fw/ls012-das-sendezentrum.m4a" length="35847494" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/199/s/feed/c/m4a/ls012-das-sendezentrum.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS011 Podlove Publisher</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/YfLLyLeH-4U/ls011-podlove-publisher</link>
+                    <pubDate>Fri, 28 Jun 2013 21:41:44 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-06-28t21:35:21+00:00-8b7bd6753052b3f</guid>
+                    <description>Der Podlove Publisher, das WordPress-Plugin zum Publizieren von Podcasts des Podlove-Projekts, wird jetzt seit einem Vierteljahr durch Crowdfunding weiterentwickelt und hat seitdem einen großen Sprung nach vorne gemacht.
+
+Moderiert von Ralf Stockmann berichten In dieser Folge Eric Teubert und Tim Pritlove über die bisherige Entwicklung und welche Features für die nächste Zeit geplant sind und in Angriff genommen werden sollen.
+
+Damit verbunden ist ein Aufruf für eine zweite Runde des Crowdfundings, die die Entwicklung im Idealfall bis zum Ende dieses Jahres tragen soll.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls011-podlove-publisher&amp;language=de_DE&amp;category=audio&amp;title=LS011+Podlove+Publisher&amp;description=Shownotes+von%3A&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls011-podlove-publisher#"/>
+                    <itunes:duration>02:30:11</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Ein Überblick über die letzten vier Monate der Entwicklung und ein Ausblick auf kommende Features und Konzepte</itunes:subtitle>
+                    <itunes:summary>Der Podlove Publisher, das WordPress-Plugin zum Publizieren von Podcasts des Podlove-Projekts, wird jetzt seit einem Vierteljahr durch Crowdfunding weiterentwickelt und hat seitdem einen großen Sprung nach vorne gemacht.
+
+Moderiert von Ralf Stockmann berichten In dieser Folge Eric Teubert und Tim Pritlove über die bisherige Entwicklung und welche Features für die nächste Zeit geplant sind und in Angriff genommen werden sollen.
+
+Damit verbunden ist ein Aufruf für eine zweite Runde des Crowdfundings, die die Entwicklung im Idealfall bis zum Ende dieses Jahres tragen soll.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Ein Überblick über die letzten vier Monate der Entwicklung und ein Ausblick auf kommende Features und Konzepte&lt;/em&gt;&lt;/strong&gt;
+
+Der Podlove Publisher, das WordPress-Plugin zum Publizieren von Podcasts des Podlove-Projekts, wird jetzt seit einem Vierteljahr durch Crowdfunding weiterentwickelt und hat seitdem einen großen Sprung nach vorne gemacht.&lt;br /&gt;
+&lt;br /&gt;
+Moderiert von Ralf Stockmann berichten In dieser Folge Eric Teubert und Tim Pritlove über die bisherige Entwicklung und welche Features für die nächste Zeit geplant sind und in Angriff genommen werden sollen.&lt;br /&gt;
+&lt;br /&gt;
+Damit verbunden ist ein Aufruf für eine zweite Runde des Crowdfundings, die die Entwicklung im Idealfall bis zum Ende dieses Jahres tragen soll.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 02:30:11.847
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/24b51828c1c384dc45b75faffb7ad8e8?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ralf Stockmann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/ralf.stockmann"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ralf Stockmann@LS011 Podlove Publisher"
+					rel="flattr;uid:rstockm;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls011-podlove-publisher#fadaf1a187a42d2f5db08dd967908469"&gt;
+						Flattr Ralf Stockmann@LS011 Podlove Publisher
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS011 Podlove Publisher"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls011-podlove-publisher#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS011 Podlove Publisher
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/4cd08b6372aec4ca88d2decef27ea991?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Eric Teubert
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://ericteubert.de"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/ericteubert"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/ericteubert"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Eric Teubert@LS011 Podlove Publisher"
+					rel="flattr;uid:ericteubert;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls011-podlove-publisher#9d2125e08800b613c4ee53f9a9369138"&gt;
+						Flattr Eric Teubert@LS011 Podlove Publisher
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;div id="osf_usnid_3869_liststyle"&gt;
+
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Begr&amp;uuml;&amp;szlig;ung und Thema&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="https://alpha.app.net/timpritlove"&gt;Tim Pritlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/podlove/podlove-publisher"&gt;Podlove Publisher&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://podlove.org"&gt;Podlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://alpha.app.net/ericteubert"&gt;Eric Teubert&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Aktueller Stand des Projekt&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://der-lautsprecher.de/ls010"&gt;LS010 Podlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/podlove/podlove-publisher"&gt;Podlove Publisher @ GitHub&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/podlove/podlove-web-player"&gt;Podlove Web Player @GitHub&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://bitlove.org"&gt;Bitlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://auphonic.com/"&gt;Auphonic&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shownot.es/"&gt;Shownot.es&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Crowdfunding f&amp;uuml;r Podlove&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://metaebene.me/blog/2013/02/27/podlove-crowdfunding-gestartet/"&gt;Blogpost des Crowdfunding zum Start&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://metaebene.me/spenden-podlove/"&gt;Spenden f&amp;uuml;r Podlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://www.satoripress.com/"&gt;Erics Podlove Publisher Podcast&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/podlove/"&gt;Podlove @ GitHub&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://trello.com/podlove"&gt;Trello-Board f&amp;uuml;r die Organisation&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Migration Assistent&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://app.net/"&gt;App.net&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://podlove.org/2012/11/26/screencast-series-about-podlove-publisher/"&gt;Podlove Publisher Screencasts&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;span&gt;St&amp;auml;ndige Kommunikation zwischen den Mitarbeitenden&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://alpha.app.net/simonwaldherr"&gt;Simon Waldherr&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://alpha.app.net/chemiker"&gt;Alexander Lueken&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://wordpress.org/plugins/podpress/"&gt;Podpress&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://wordpress.org/plugins/powerpress/"&gt;Powerpress&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://wordpress.org/"&gt;Wordpress&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Implementierung&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://codex.wordpress.org/Post_Types#Custom_Post_Types"&gt;Wordpress Custom Post Types&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://alpha.app.net/gglnx"&gt;Dennis Morhardt&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://wordpress.org/plugins/archivist-custom-archive-templates/"&gt;Archivist-Plugin von Eric&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Podlove Web Player&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="https://alpha.app.net/gerritvanaaken"&gt;Gerrit van Aaken&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://podpott.de/"&gt;Podperlen  (PodPott) &lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Verbreitung und geplante Features&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://wordpress.org/plugins/podlove-podcasting-plugin-for-wordpress/stats/"&gt;Active Versions Statistik auf wordpress.org&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://bitlove.org/"&gt;Bitlove&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Statistiken&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://feedburner.google.com/"&gt;FeedBurner&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://meta.metaebene.me/media/lautsprecher/ls011-podlove-publisher.podlove-statistics-mindmap.pdf"&gt;Statistikfeature Mindmap&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Erstgebrauch des Publishers&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Templates, Modules und Expert Settings&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Support und Dokumentationen&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="https://github.com/podlove/podlove-publisher/issues"&gt;Podlove Publisher Issue Tracker&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://wordpress.org/extend/plugins/podlove-podcasting-plugin-for-wordpress/"&gt;Podlove Publisher @ Wordpress Plugin Directory&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://docs.podlove.org/"&gt;docs.podlove.org&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://podlove.org/paged-feeds/"&gt;Paged Feeds&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://tools.ietf.org/html/rfc5005"&gt;RFC 5005&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Episodenerstellung&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://auphonic.com/"&gt;Auphonic&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://shownot.es/"&gt;Shownot.es&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://alpha.app.net/tobybaier"&gt;Toby Baier&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Shownotes Integration&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://shownot.es/"&gt;Communityprojekt Shownot.es&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="http://pad.shownot.es/"&gt;Shownotes Pad&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/shownotes/OSF-in-a-Nutshell"&gt;OSF  (Open Shownotes Format) &lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Shownotes Wordpress Plugin von Simon&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;ul class="osf_rank1"&gt;&lt;li&gt;&lt;a href="http://wordpress.org/plugins/shownotes/"&gt;@Wordpress.org&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;li&gt;&lt;a href="https://github.com/SimonWaldherr/wp-osf-shownotes"&gt;@GitHub&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;a href="http://www.schoene-ecken.de/"&gt;Sch&amp;ouml;ne Ecken&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Spenden&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://podlove.org/simple-chapters/"&gt;Podlove Simple Chapters&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Bugs und Ausblicke in die Zukunft&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;li&gt;&lt;a href="http://firtz.hoersuppe.de/firtz/show"&gt;Firtz&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;ul class="osf_rank1"&gt;&lt;li&gt;&lt;a href="https://github.com/eazyliving/firtz"&gt;@GitHub&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;a href="https://de.wikipedia.org/wiki/Erweiterte_Realit%C3%A4t"&gt;Augmented Reality&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+&lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Verabschiedung&lt;/h2&gt;&lt;span class="osf_chaptertime" data-time=""&gt;&lt;/span&gt;&lt;ul class="osf_items"&gt; 
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Shownotes von: &lt;a target="_blank" href="http://alpha.app.net/simonwaldherr"&gt;Simon Waldherr&lt;/a&gt;, &lt;a target="_blank" href="http://alpha.app.net/evita"&gt;Evita Bley&lt;/a&gt;, &lt;a target="_blank" href="http://alpha.app.net/quimoniz"&gt;Quimoniz&lt;/a&gt;, &lt;a target="_blank" href="http://alpha.app.net/dr4k3"&gt;Dr4k3&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3869&amp;amp;md5=5dfa4dc95009152d0f196c25481c70a0" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/YfLLyLeH-4U" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls011-podlove-publisher</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/ndKy8wr8quU/ls011-podlove-publisher.m4a" length="56712675" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/142/s/feed/c/m4a/ls011-podlove-publisher.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS010 Podlove</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/D2HLHFZaFFo/ls010</link>
+                    <pubDate>Mon, 04 Mar 2013 15:12:44 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2013-03-04t14:38:10+00:00-ea3a01def0b9dc8</guid>
+                    <description>In der zehnten Ausgabe des Lautsprecher steht endlich auch das von Tim angestossene und schon seit längerem aktive Projekt Podlove im Mittelpunkt. Als Verstärkung ist Claudia Krell mit dabei, die in die Moderatorenrolle schlüpft und das Modell hinterfragt. Wir sprechen über die ursprüngliche Motivation und Ausrichtung des Projektes, den bisher erzielten Fortschritt mit Podlove Publisher und Podlove Web Player, zukünftige Features und mögliche Erweiterungen des Tätigkeitsfeldes sowie das jüngst gestartete Crowdfunding für die aktive Entwicklung der Software.
+
+Zum Abschluss sprechen wir noch über den Podcaster-Workshop in Berlin am 4. und 5. Mai und die geplanten Aktvitäten direkt danach auf der re:publica 2013.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls010&amp;language=de_DE&amp;category=audio&amp;title=LS010+Podlove&amp;description=Shownotes%3A+LS003+Podcast+Publishing+mit+Gerrit+van+Aaken+Loudblog+von+Gerrit+Gerrit+van+Aaken+Eric+Teubert+Simon+Waldherr+Podlove+Publisher+Roadmap+%40+Trello+Podlove+%40+Github+Die+Shownotes+Auphonic+Bitlove...&amp;tags=podlove%2Cpodcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls010#"/>
+                    <itunes:duration>02:10:33</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Über das Projekt Podlove, das sich der Verbesserung der Podcasting-Infrastruktur verschrieben hat</itunes:subtitle>
+                    <itunes:summary>In der zehnten Ausgabe des Lautsprecher steht endlich auch das von Tim angestossene und schon seit längerem aktive Projekt Podlove im Mittelpunkt. Als Verstärkung ist Claudia Krell mit dabei, die in die Moderatorenrolle schlüpft und das Modell hinterfragt. Wir sprechen über die ursprüngliche Motivation und Ausrichtung des Projektes, den bisher erzielten Fortschritt mit Podlove Publisher und Podlove Web Player, zukünftige Features und mögliche Erweiterungen des Tätigkeitsfeldes sowie das jüngst gestartete Crowdfunding für die aktive Entwicklung der Software.
+
+Zum Abschluss sprechen wir noch über den Podcaster-Workshop in Berlin am 4. und 5. Mai und die geplanten Aktvitäten direkt danach auf der re:publica 2013.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Über das Projekt Podlove, das sich der Verbesserung der Podcasting-Infrastruktur verschrieben hat&lt;/em&gt;&lt;/strong&gt;
+
+In der zehnten Ausgabe des Lautsprecher steht endlich auch das von Tim angestossene und schon seit längerem aktive Projekt Podlove im Mittelpunkt. Als Verstärkung ist Claudia Krell mit dabei, die in die Moderatorenrolle schlüpft und das Modell hinterfragt. Wir sprechen über die ursprüngliche Motivation und Ausrichtung des Projektes, den bisher erzielten Fortschritt mit Podlove Publisher und Podlove Web Player, zukünftige Features und mögliche Erweiterungen des Tätigkeitsfeldes sowie das jüngst gestartete Crowdfunding für die aktive Entwicklung der Software.&lt;br /&gt;
+&lt;br /&gt;
+Zum Abschluss sprechen wir noch über den Podcaster-Workshop in Berlin am 4. und 5. Mai und die geplanten Aktvitäten direkt danach auf der re:publica 2013.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 02:10:33.787
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS010 Podlove"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls010#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS010 Podlove
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/8358474301c6bf82af45c5d84c6d943b?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Claudia Krell
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/claudiakrell"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Claudia Krell@LS010 Podlove"
+					rel="flattr;uid:wortkomplex;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls010#5acbc14bb07e4c1a311520fddb612a52"&gt;
+						Flattr Claudia Krell@LS010 Podlove
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;Shownotes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://der-lautsprecher.de/ls003" target="_blank"&gt;LS003 Podcast Publishing&lt;/a&gt; mit Gerrit van Aaken&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://loudblog.com" target="_blank"&gt;Loudblog&lt;/a&gt; von Gerrit&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://praegnanz.de" target="_blank"&gt;Gerrit van Aaken&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ericteubert.de" target="_blank"&gt;Eric Teubert&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://simon.waldherr.eu" target="_blank"&gt;Simon Waldherr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://trello.com/board/podlove-publisher/508293f65573fa3f62004e0a" target="_blank"&gt;Podlove Publisher Roadmap @ Trello&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/podlove" target="_blank"&gt;Podlove @ Github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://shownot.es" target="_blank"&gt;Die Shownotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://auphonic.com" target="_blank"&gt;Auphonic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitlove.org" target="_blank"&gt;Bitlove&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Podlove Crowdfunding
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://metaebene.me/spenden-podlove/" target="_blank"&gt;Spendenseite für Podlove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://metaebene.me/blog/2013/02/27/podlove-crowdfunding-gestartet/" target="_blank"&gt;Blog-Eintrag zum Start des Crowdfundings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://metaebene.me/blog/2013/01/15/podlove-crowdfunding/" target="_blank"&gt;Blog-Eintrag mit der Ankündigung der Crowdfunding der Idee&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Podcaster-Workshop und #rp13&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://co-up.de/" target="_blank"&gt;Co-Up Coworking Space Berlin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=f-0lwKw04Zc" target="_blank"&gt;Podcaster Workshop @29C3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://re-publica.de" target="_blank"&gt;re:publica 2013&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="http://metaebene.me/spenden-podlove/"&gt;&#160;&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3851&amp;amp;md5=00f2b1f2240c494c69b071938bcd1404" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/D2HLHFZaFFo" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls010</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/pTTteU7BYGo/ls010-podlove.m4a" length="49248131" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/98/s/feed/c/m4a/ls010-podlove.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS009 Sendungsplanung</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/6QIpGdWreKE/ls009</link>
+                    <pubDate>Tue, 21 Aug 2012 13:41:18 +0000</pubDate>
+                    <guid isPermaLink="false">http://metaebene.me/lautsprecher/?p=3773</guid>
+                    <description>Da es sich ergab, dass Claudia Krell und Ralf Stockmann vom Wikigeeks-Podcast in Berlin waren, habe ich die beiden eingeladen, im Lautsprecher ein wenig darüber zu sprechen, was  vor und hinter einer Podcast-Episode für ein Aufwand betrieben werden muss und sollte, damit das Endergebnis für alle Beteiligten die richtige Gestalt hat.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls009&amp;language=de_DE&amp;category=audio&amp;title=LS009+Sendungsplanung&amp;description=Eine+ausf%C3%BChrliche+Zusammenfassung+und+Linkliste+kann+ich+gerade+nicht+bieten%2C+sonst+h%C3%A4tte+das+hier+noch+l%C3%A4nger+gedauert.+Ich+%C3%BCbernehme+aber+gerne+Vorschl%C3%A4ge+aus+den+Kommentaren.+Links%3A+WikiGeeks+Claudia+Krell+Ralf...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls009#"/>
+                    <itunes:duration>02:09:29</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Wie man Sendungen plant, vorbereitet und sich um Show Notes kümmert</itunes:subtitle>
+                    <itunes:summary>Da es sich ergab, dass Claudia Krell und Ralf Stockmann vom Wikigeeks-Podcast in Berlin waren, habe ich die beiden eingeladen, im Lautsprecher ein wenig darüber zu sprechen, was  vor und hinter einer Podcast-Episode für ein Aufwand betrieben werden muss und sollte, damit das Endergebnis für alle Beteiligten die richtige Gestalt hat.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Wie man Sendungen plant, vorbereitet und sich um Show Notes kümmert&lt;/em&gt;&lt;/strong&gt;
+
+Da es sich ergab, dass Claudia Krell und Ralf Stockmann vom Wikigeeks-Podcast in Berlin waren, habe ich die beiden eingeladen, im Lautsprecher ein wenig darüber zu sprechen, was  vor und hinter einer Podcast-Episode für ein Aufwand betrieben werden muss und sollte, damit das Endergebnis für alle Beteiligten die richtige Gestalt hat.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 02:09:29.500
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS009 Sendungsplanung"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls009#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS009 Sendungsplanung
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/8358474301c6bf82af45c5d84c6d943b?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Claudia Krell
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/wortkomplex"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/claudiakrell"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Claudia Krell@LS009 Sendungsplanung"
+					rel="flattr;uid:wortkomplex;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls009#5acbc14bb07e4c1a311520fddb612a52"&gt;
+						Flattr Claudia Krell@LS009 Sendungsplanung
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/24b51828c1c384dc45b75faffb7ad8e8?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ralf Stockmann
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://wikigeeks.de/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/rstockm"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Facebook" href="https://facebook.com/ralf.stockmann"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/facebook-128.png" class="podlove-contributor-button" alt="Facebook" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ralf Stockmann@LS009 Sendungsplanung"
+					rel="flattr;uid:rstockm;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls009#fadaf1a187a42d2f5db08dd967908469"&gt;
+						Flattr Ralf Stockmann@LS009 Sendungsplanung
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;Eine ausführliche Zusammenfassung und Linkliste kann ich gerade nicht bieten, sonst hätte das hier noch länger gedauert. Ich übernehme aber gerne Vorschläge aus den Kommentaren.&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://wikigeeks.de/"&gt;WikiGeeks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/wortkomplex" target="_blank"&gt;Claudia Krell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/rstockm" target="_blank"&gt;Ralf Stockmann&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hoersuppe.de"&gt;Hörsuppe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3773&amp;amp;md5=3bf629355cdc01ed60ec1da1a91924e3" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/6QIpGdWreKE" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls009</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/_5x7WI6jk1k/ls009-sendungsplanung.m4a" length="48841135" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/40/s/feed/c/m4a/ls009-sendungsplanung.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS008 Bitlove</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/RjeoooQj00g/ls008-bitlove</link>
+                    <pubDate>Thu, 07 Jun 2012 13:52:38 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:43:00+00:00-c3394784acb0740</guid>
+                    <description>Bitlove ist eine neue Platform, die Podcasts via BitTorrent verteilt. Damit wird es für Podcaster ausgesprochen einfach, ihre Inhalte via BitTorrent anzubieten. Ich spreche mit Astro, mit dem Entwickler der Software. Wir sprechen über Funktionsweise, technische Details und mögliche weitere Entwicklungen und Anwendungsbereiche des Systems.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls008-bitlove&amp;language=de_DE&amp;category=audio&amp;title=LS008+Bitlove&amp;description=Themen%3A%C2%A0Astro%3B%C2%A0Astro+%40+GitHub%3B%C2%A0CCC+Dresden+%28C3D2%29%3B+Pentamedia%3B%C2%A0BitTorrent%3B+Erlang%3B+node.js%3B+CRE057+BitTorrent%3B+Podcast+Clients+mit+BitTorrent+Support%3B+Miro%3B+Transmission%3B+%C2%B5Torrent%3B+KTorrent%3B+Vuze%3B+Opera%3B+gpodder.net%3B%C2%A0prittorrent%3B+Tribbler%3B%C2%A0BitTorrent+Streaming%3B+BitTorrent+Inc.%3B%C2%A0DHT+Unterst%C3%BCtzung%3B+Web+Seeding%3B+%C2%A0BitTorrent...&amp;tags=astro%2Cbitlove%2Cbittorrent%2Cpodcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls008-bitlove#"/>
+                    <itunes:duration>01:16:10</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Eine Plattform zum automatischen Veröffentlichen von Podcasts via BitTorrent</itunes:subtitle>
+                    <itunes:summary>Bitlove ist eine neue Platform, die Podcasts via BitTorrent verteilt. Damit wird es für Podcaster ausgesprochen einfach, ihre Inhalte via BitTorrent anzubieten. Ich spreche mit Astro, mit dem Entwickler der Software. Wir sprechen über Funktionsweise, technische Details und mögliche weitere Entwicklungen und Anwendungsbereiche des Systems.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Eine Plattform zum automatischen Veröffentlichen von Podcasts via BitTorrent&lt;/em&gt;&lt;/strong&gt;
+
+Bitlove ist eine neue Platform, die Podcasts via BitTorrent verteilt. Damit wird es für Podcaster ausgesprochen einfach, ihre Inhalte via BitTorrent anzubieten. Ich spreche mit Astro, mit dem Entwickler der Software. Wir sprechen über Funktionsweise, technische Details und mögliche weitere Entwicklungen und Anwendungsbereiche des Systems.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:16:10
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS008 Bitlove"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls008-bitlove#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS008 Bitlove
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/0120a25badc6b1e50f6890527dca7042?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Astro
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/astro1138"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Astro@LS008 Bitlove"
+					rel="flattr;uid:astro;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls008-bitlove#8eeeba8d4c9735e5813bf7eda16f7c61"&gt;
+						Flattr Astro@LS008 Bitlove
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen:&lt;/strong&gt;&#160;&lt;a href="http://spaceboyz.net/~astro/" target="_blank"&gt;Astro&lt;/a&gt;;&#160;&lt;a href="https://github.com/astro/" target="_blank"&gt;Astro @ GitHub&lt;/a&gt;;&#160;&lt;a href="http://c3d2.de/" target="_blank"&gt;CCC Dresden (C3D2)&lt;/a&gt;; &lt;a href="http://pentamedia.org/" target="_blank"&gt;Pentamedia&lt;/a&gt;;&#160;&lt;a href="http://bittorrent.org/" target="_blank"&gt;BitTorrent&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Erlang_(Programmiersprache)" target="_blank"&gt;Erlang&lt;/a&gt;; &lt;a href="http://nodejs.org/" target="_blank"&gt;node.js&lt;/a&gt;; &lt;a href="http://cre.fm/cre057-bittorrent" target="_blank"&gt;CRE057 BitTorrent&lt;/a&gt;; Podcast Clients mit BitTorrent Support; &lt;a href="http://www.getmiro.com/" target="_blank"&gt;Miro&lt;/a&gt;; &lt;a href="http://www.transmissionbt.com/" target="_blank"&gt;Transmission&lt;/a&gt;; &lt;a href="http://www.utorrent.com/intl/de/" target="_blank"&gt;µTorrent&lt;/a&gt;; &lt;a href="https://de.wikipedia.org/wiki/KTorrent" target="_blank"&gt;KTorrent&lt;/a&gt;; &lt;a href="http://www.vuze.com/" target="_blank"&gt;Vuze&lt;/a&gt;; Opera; &lt;a href="https://gpodder.net/" target="_blank"&gt;gpodder.net&lt;/a&gt;;&#160;&lt;a href="https://github.com/astro/prittorrent" target="_blank"&gt;prittorrent&lt;/a&gt;; &lt;a href="http://www.tribler.org/trac" target="_blank"&gt;Tribbler&lt;/a&gt;;&#160;BitTorrent Streaming; &lt;a href="http://www.bittorrent.com/" target="_blank"&gt;BitTorrent Inc.&lt;/a&gt;;&#160;DHT Unterstützung; Web Seeding; &#160;&lt;a href="http://bittorrent.org/beps/bep_0000.html" target="_blank"&gt;BitTorrent Enhancement Proposals&lt;/a&gt;;&#160;&lt;a href="http://bittorrent.org/beps/bep_0017.html" target="_blank"&gt;BEP17&#160;HTTP Seeding&lt;/a&gt;;&#160;&lt;a href="http://bittorrent.org/beps/bep_0019.html" target="_blank"&gt;BEP19&#160;WebSeed &amp;#8211; HTTP/FTP Seeding (GetRight style)&lt;/a&gt;; Flattr Integration; &lt;a href="http://qrios.de/2012/05/bitlove-proxy-for-the-rest-of-us/" target="_blank"&gt;Bitlove Proxy&lt;/a&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3752&amp;amp;md5=ebe47885858c588653419521ed5eb155" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/RjeoooQj00g" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls008-bitlove</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/aS6I7vYXZss/ls008-bitlove.m4a" length="28757020" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/26/s/feed/c/m4a/ls008-bitlove.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS007 Auphonic</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/WmrDLopgbV0/ls007</link>
+                    <pubDate>Wed, 21 Mar 2012 23:06:30 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:12+00:00-c4b5c785e6c0bc2</guid>
+                    <description>Auphonic&#160;ist ein neuer Dienst, der nicht weniger als anspruchsvolle Podcast Post-Production verspricht und jetzt in seine öffentliche Betaphase tritt. Auphonic führt auf Rohaufnahmen eine umfangreiche automatische Audiobearbeitung durch, überführt die Aufnahme in ein oder mehrere Medienformate und sorgt auch für eine universelle und umfangreiche Beglückung mit Metadaten in diesen Dateien. Das Endergebnis wird dann automatisch auf den eigenen Server hochgeladen.
+
+Anlässlich des Podlove Developer Meetings, das am letzten Wochenende in Berlin stattfand, war Georg Holzmann - Initiator und einer der Entwickler von Auphonic - zu Gast in der Metaebene und stellt sein Projekt im Detail vor.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls007&amp;language=de_DE&amp;category=audio&amp;title=LS007+Auphonic&amp;description=Themen%3A+Podlove+Developer+Meeting%3B+Auphonic+%C3%9Cberblick%3B+Toningenieur+Studium+in+Graz%3B+Music+Information+Retrieval%2C+Machine+Learning%3B+Schritte+in+der+Audio+Post+Produktion%3B+Levelator%3B+Audio+Plugins%3B+Intelligente+Lautheitsanpassung+mit+Audioanalyse%3B+Tims+Erfahrungen...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls007#"/>
+                    <itunes:duration>01:34:58</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Ein webbasiertes System zum automatischen Bearbeiten von Podcasts</itunes:subtitle>
+                    <itunes:summary>Auphonic&#160;ist ein neuer Dienst, der nicht weniger als anspruchsvolle Podcast Post-Production verspricht und jetzt in seine öffentliche Betaphase tritt. Auphonic führt auf Rohaufnahmen eine umfangreiche automatische Audiobearbeitung durch, überführt die Aufnahme in ein oder mehrere Medienformate und sorgt auch für eine universelle und umfangreiche Beglückung mit Metadaten in diesen Dateien. Das Endergebnis wird dann automatisch auf den eigenen Server hochgeladen.
+
+Anlässlich des Podlove Developer Meetings, das am letzten Wochenende in Berlin stattfand, war Georg Holzmann - Initiator und einer der Entwickler von Auphonic - zu Gast in der Metaebene und stellt sein Projekt im Detail vor.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Ein webbasiertes System zum automatischen Bearbeiten von Podcasts&lt;/em&gt;&lt;/strong&gt;
+
+Auphonic&#160;ist ein neuer Dienst, der nicht weniger als anspruchsvolle Podcast Post-Production verspricht und jetzt in seine öffentliche Betaphase tritt. Auphonic führt auf Rohaufnahmen eine umfangreiche automatische Audiobearbeitung durch, überführt die Aufnahme in ein oder mehrere Medienformate und sorgt auch für eine universelle und umfangreiche Beglückung mit Metadaten in diesen Dateien. Das Endergebnis wird dann automatisch auf den eigenen Server hochgeladen.&lt;br /&gt;
+&lt;br /&gt;
+Anlässlich des Podlove Developer Meetings, das am letzten Wochenende in Berlin stattfand, war Georg Holzmann - Initiator und einer der Entwickler von Auphonic - zu Gast in der Metaebene und stellt sein Projekt im Detail vor.&lt;br /&gt;
+
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:34:58
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS007 Auphonic"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls007#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS007 Auphonic
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/15cbc90543256ddc4d93e51f2b6b7500?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Georg Holzmann
+					&lt;br&gt;&lt;em&gt;Auphonic&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://auphonic.com/"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/auphonic"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/gholzmann"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Georg Holzmann@LS007 Auphonic"
+					rel="flattr;uid:auphonic;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls007#edda26989ecb7ba1f21c5762bbb8fb3e"&gt;
+						Flattr Georg Holzmann@LS007 Auphonic
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen&lt;/strong&gt;: &lt;a href="http://podlove.org/"&gt;Podlove Developer Meeting&lt;/a&gt;; &lt;a href="http://auphonic.com"&gt;Auphonic&lt;/a&gt; Überblick; &lt;a href="http://iem.kug.ac.at/"&gt;Toningenieur Studium&lt;/a&gt; in Graz; &lt;a href="http://en.wikipedia.org/wiki/Music_information_retrieval"&gt;Music Information Retrieval&lt;/a&gt;, Machine Learning; Schritte in der Audio Post Produktion; &lt;a href="http://web.archive.org/web/20130729204551id_/http://www.conversationsnetwork.org/levelator/"&gt;Levelator&lt;/a&gt;; Audio Plugins; Intelligente Lautheitsanpassung mit Audioanalyse; Tims Erfahrungen mit Auphonic; &lt;a href="http://de.wikipedia.org/wiki/Geh%C3%B6rrichtige_Lautst%C3%A4rke"&gt;Lautheitswahrnehmung&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Peak_programme_meter"&gt;Quasi Peak Programme Meter&lt;/a&gt; (QPPM); ITU-R BS.1770 Algorithmus zur Lautheitsmessung; &lt;a href="https://tech.ebu.ch/loudness"&gt;EBU R 128&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Commercial_Advertisement_Loudness_Mitigation_Act"&gt;Calm Act&lt;/a&gt;; Einheit zur Lautheitsmessung: Loudness Units (LU, LUFS); &lt;a href="http://www.hometracked.com/2007/11/08/prevent-intersample-peaks/"&gt;Inter Sample Peaks&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Loudness_war"&gt;Loudness War&lt;/a&gt;; Audio Restauration: Noise Reduction, Brummfilter, Clipping Entfernung; Audio Encoding (MP3, Ogg Vorbis, AAC/MP4, Flac); Metadaten und Kapitelmarken; Bitratenbereiche für verschiedene &lt;a href="http://auphonic.com/blog/2011/07/13/audio-file-formats-podcasts/"&gt;Audio Formate&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Advanced_Audio_Coding"&gt;HE AAC, HE AACv2&lt;/a&gt;; Übersicht zu &lt;a href="http://wiki.hydrogenaudio.org/index.php?title=AAC_encoders"&gt;AAC/MP4 Enkoder&lt;/a&gt;; &lt;a href="http://lame.sourceforge.net/"&gt;LAME&lt;/a&gt; MP3 Enkoder; &lt;a href="http://de.wikipedia.org/wiki/Bitrate#Variable_Bitrate"&gt;Variable Bitrate&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Bitrate#Konstante_Bitrate"&gt;Konstante Bitrate&lt;/a&gt;; Bitraten Empfehlungen und Erfahrungen; &lt;a href="http://en.wikipedia.org/wiki/Codec_listening_test"&gt;Liste mit Hörversuche&lt;/a&gt; zu Formate und Bitraten; &lt;a href="http://xiph.org/"&gt;Xiph.org&lt;/a&gt; OggEnc Enkoder, &lt;a href="http://www.geocities.jp/aoyoume/aotuv/"&gt;aoTuV Enkoder&lt;/a&gt;; Verlustfreie Datenkompression: &lt;a href="http://de.wikipedia.org/wiki/Free_Lossless_Audio_Codec"&gt;FLAC&lt;/a&gt;, &lt;a href="http://wiki.hydrogenaudio.org/index.php?title=ALAC"&gt;ALAC&lt;/a&gt;; &lt;a href="http://id3.org/"&gt;ID3 Tags&lt;/a&gt;; &lt;a href="http://auphonic.com/blog/2012/01/17/podcast-comparison-part-2-mp3-metadata-id3-tags/"&gt;ID3 Tags Vergleich&lt;/a&gt; bei Podcasts; &lt;a href="http://www.xiph.org/vorbis/doc/v-comment.html"&gt;Vorbis Comments&lt;/a&gt;; &lt;a href="http://auphonic.com/blog/2012/02/18/podcast-comparison-part-4-mpeg-4-itunes-style-metadata-aac-audio-m4a-mp4/"&gt;iTunes-Style Metadata&lt;/a&gt;; &lt;a href="http://code.google.com/p/mp4v2/"&gt;mp4v2&lt;/a&gt;; &lt;a href="http://atomicparsley.sourceforge.net/"&gt;AtomicParsley&lt;/a&gt;; &lt;a href="http://id3.org/id3v2-chapters-1.0"&gt;ID3v2 Chapter Extension&lt;/a&gt;; &lt;a href="http://wiki.xiph.org/Chapter_Extension"&gt;Vorbis Comment Chapter Extension&lt;/a&gt;; &lt;a href="http://www.videolan.org/vlc/"&gt;VLC media player&lt;/a&gt;; &lt;a href="http://opus-codec.org/"&gt;Opus Codec&lt;/a&gt;; &lt;a href="http://www.celt-codec.org/"&gt;CELT Codec&lt;/a&gt; von &lt;a href="http://www.xiph.org"&gt;Xiph.org&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/SILK"&gt;SILK Codec&lt;/a&gt; von &lt;a href="http://www.skype.com/en/"&gt;Skype&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Speech_coding"&gt;Sprachkodierung&lt;/a&gt;; &lt;a href="http://www.speex.org/"&gt;Speex Codec&lt;/a&gt;; &lt;a href="http://mumble.sourceforge.net/"&gt;Mumble Audiochat&lt;/a&gt;; Integration mit anderen Webservices; Auphonic &lt;a href="http://de.wikipedia.org/wiki/Programmierschnittstelle"&gt;API&lt;/a&gt;; &lt;a href="https://auphonic.com/accounts/register/"&gt;Auphonic Registrierlink&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Freemium"&gt;Freemium Modell&lt;/a&gt;; Open Source Strategie von Auphonic; Neues Austauschformat für Podcasts; &lt;a href="http://auphonic.com/blog/"&gt;Auphonic Blog&lt;/a&gt;; &lt;a href="http://podlove.org/"&gt;Podlove Projekt&lt;/a&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3745&amp;amp;md5=c456b4dbcc837aba17ae26199dfc2eac" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/WmrDLopgbV0" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls007</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/z0sBcWluI_0/ls007-auphonic.m4a" length="35838724" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/23/s/feed/c/m4a/ls007-auphonic.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS006 Open Source Tools</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/ywLmBGdb0fY/ls006</link>
+                    <pubDate>Wed, 16 Nov 2011 13:20:07 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:10+00:00-2078c05a7770638</guid>
+                    <description>Ingo Ebel von RadioTux ist zu Gast und wir reden über seine Radioproduktion für die Linux-Szene und vor allem über frei verfügbare Software, die man zur Podcastproduktion einsetzen kann. Da Software ohne Hardware nichts ist kommen aber auch zahlreiche Audiohardware-Lösungen zur Sprache, besonders für den mobilen Einsatz.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls006&amp;language=de_DE&amp;category=audio&amp;title=LS006+Open+Source+Tools&amp;description=Themen%3A%C2%A0RadioTux%3B+RadioTux+Podcast+Feeds%3B%C2%A0SF-Radio%3B+Xenim+Streaming+Network%3B+Yamaha+01V96%2A%3B+Art+HeadAmp+6+Pro%2A%3B+M-Audio+Delta+Audiophile+2496%C2%A0%28Thomann%2A%2C+Amazon%2A%29%3B+Darkice+Live+Audio+Streamer%3B+Icecast+Streaming+Server%3B+Audacity%3B+Ardour%3B+Advanced+Linux+Sound...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls006#"/>
+                    <itunes:duration>02:00:27</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Welche freie Software einem beim Podcasting helfen kann</itunes:subtitle>
+                    <itunes:summary>Ingo Ebel von RadioTux ist zu Gast und wir reden über seine Radioproduktion für die Linux-Szene und vor allem über frei verfügbare Software, die man zur Podcastproduktion einsetzen kann. Da Software ohne Hardware nichts ist kommen aber auch zahlreiche Audiohardware-Lösungen zur Sprache, besonders für den mobilen Einsatz.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Welche freie Software einem beim Podcasting helfen kann&lt;/em&gt;&lt;/strong&gt;
+
+Ingo Ebel von RadioTux ist zu Gast und wir reden über seine Radioproduktion für die Linux-Szene und vor allem über frei verfügbare Software, die man zur Podcastproduktion einsetzen kann. Da Software ohne Hardware nichts ist kommen aber auch zahlreiche Audiohardware-Lösungen zur Sprache, besonders für den mobilen Einsatz.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 02:00:27
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS006 Open Source Tools"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls006#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS006 Open Source Tools
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/ingo-ebel.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Ingo Ebel
+					&lt;br&gt;&lt;em&gt;RadioTux&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/ingoebel"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/ingoebel"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Ingo Ebel@LS006 Open Source Tools"
+					rel="flattr;uid:radiotux;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls006#0663fee7b85316f130bc82fa9fe35542"&gt;
+						Flattr Ingo Ebel@LS006 Open Source Tools
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen:&lt;/strong&gt;&#160;&lt;a href="http://blog.radiotux.de/" target="_blank"&gt;RadioTux&lt;/a&gt;; &lt;a href="http://www.radiotux.de/index.php?/pages/podcasts.html" target="_blank"&gt;RadioTux Podcast Feeds&lt;/a&gt;;&#160;&lt;a href="http://www.robots-and-dragons.de/" target="_blank"&gt;SF-Radio&lt;/a&gt;; &lt;a href="https://streams.xenim.de/" target="_blank" class="broken_link"&gt;Xenim Streaming Network&lt;/a&gt;; &lt;a href="http://www.thomann.de/de/yamaha_01v96_v2.htm" target="_blank"&gt;Yamaha 01V96&lt;/a&gt;*; &lt;a href="http://www.thomann.de/de/art_headamp_6_pro.htm" target="_blank"&gt;Art HeadAmp 6 Pro&lt;/a&gt;*; M-Audio Delta Audiophile 2496&#160;(&lt;a href="http://www.thomann.de/de/m-audio_delta_audiophile_2496.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B00014X6RO/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B00014X6RO" target="_blank"&gt;Amazon&lt;/a&gt;*); &lt;a href="http://darkice.org/" target="_blank"&gt;Darkice Live Audio Streamer&lt;/a&gt;; &lt;a href="http://www.icecast.org/" target="_blank"&gt;Icecast Streaming Server&lt;/a&gt;; &lt;a href="http://audacity.sourceforge.net/" target="_blank"&gt;Audacity&lt;/a&gt;; &lt;a href="http://ardour.org/" target="_blank"&gt;Ardour&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Advanced_Linux_Sound_Architecture" target="_blank"&gt;Advanced Linux Sound Architecture (ALSA)&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Open_Sound_System" target="_blank"&gt;Open Sound System (OSS)&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/ARts" target="_blank"&gt;aRts&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/JACK_Audio_Connection_Kit" target="_blank"&gt;Jack Audio Connection Kit&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/PulseAudio" target="_blank"&gt;PulseAudio&lt;/a&gt;; &lt;a href="http://www.rosegardenmusic.com/" target="_blank"&gt;Rosegarden&lt;/a&gt;; &lt;a href="http://lilypond.org/" target="_blank"&gt;Lilypond&lt;/a&gt;; &lt;a href="http://musescore.org/" target="_blank"&gt;Musescore&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Jokosher" target="_blank"&gt;Jokosher&lt;/a&gt;; &lt;a href="http://www.metadecks.org/software/sweep/" target="_blank"&gt;Sweep&lt;/a&gt;; &lt;a href="http://sox.sourceforge.net/" target="_blank"&gt;SOX&lt;/a&gt;; &lt;a href="http://id3.org/id3v2-chapters-1.0" target="_blank"&gt;ID3 Chapter Frame Addendum&lt;/a&gt;; &lt;a href="https://wiki.gnome.org/Apps/EasyTAG" target="_blank"&gt;EasyTag&lt;/a&gt;; &lt;a href="http://loudblog.com/" target="_blank"&gt;Loudblog&lt;/a&gt;; &lt;a href="http://www.podhawk.com/" target="_blank"&gt;Podhawk&lt;/a&gt;; &lt;a href="http://www.freesound.org/" target="_blank"&gt;freesound&lt;/a&gt;; Zoom H-4N (&lt;a href="http://www.thomann.de/de/zoom_h4_n.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B0029MVRFY/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B0029MVRFY" target="_blank"&gt;Amazon&lt;/a&gt;*); Sony PCM-D50 CED (Thomann*, &lt;a href="http://www.amazon.de/gp/product/B002T4RHD8/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B002T4RHD8" target="_blank"&gt;Amazon&lt;/a&gt;*); Shure SM58 (&lt;a href="http://www.thomann.de/de/shure_sm58.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B000CZ0R42/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B000CZ0R42" target="_blank"&gt;Amazon&lt;/a&gt;*); Beyerdynamic DT-770 Pro (&lt;a href="http://www.thomann.de/de/beyerdynamic_dt770pro.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B0016MNAAI/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=crepodcast-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B0016MNAAI" target="_blank"&gt;Amazon&lt;/a&gt;*); &lt;a href="http://www.thomann.de/de/beyerdynamic_dt297pv80_mk_ii.htm" target="_blank"&gt;Beyerdynamic DT-797 PV&lt;/a&gt;*; Shure X2U Usb Interface (&lt;a href="http://www.thomann.de/de/shure_x2u.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B001PPXFAG/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=crepodcast-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B001PPXFAG" target="_blank"&gt;Amazon&lt;/a&gt;*); Zoom H-1 (&lt;a href="http://www.thomann.de/de/zoom_h1.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B003Y6S2WU/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B003Y6S2WU" target="_blank"&gt;Amazon&lt;/a&gt;*); Zoom H-2N (&lt;a href="http://www.thomann.de/de/zoom_h2n.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B005KS0CI2/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B005KS0CI2" target="_blank"&gt;Amazon&lt;/a&gt;*); &lt;a href="http://www.thomann.de/de/search_dir.html?sw=soundman+okm&amp;amp;x=0&amp;amp;y=0" target="_blank"&gt;Soundman OKM&lt;/a&gt;*; Sony PCM-M10 (&lt;a href="http://www.thomann.de/de/sony_pcmm10_anthrazit.htm" target="_blank"&gt;Thomann&lt;/a&gt;*, &lt;a href="http://www.amazon.de/gp/product/B003BKSGQQ/ref=as_li_ss_tl?ie=UTF8&amp;amp;tag=der-lautsprecher-21&amp;amp;linkCode=as2&amp;amp;camp=1638&amp;amp;creative=19454&amp;amp;creativeASIN=B003BKSGQQ" target="_blank"&gt;Amazon&lt;/a&gt;*); &lt;a href="http://linux-sound.org/distro.html" target="_blank"&gt;Linux Audio Distributionen&lt;/a&gt;; &lt;a href="http://www.radiotux.de/index.php?/archives/418-RadioTux-August-2008-Interview-mit-Michael-Bohle.htmlhttp://blog.radiotux.de/2008/08/02/radiotux-august-2008-interview-mit-michael-bohle/" target="_blank"&gt;RadioTux August 2008 – Interview mit Michael Bohle&lt;/a&gt;; &lt;a href="http://retinacast.de/" target="_blank"&gt;RetinaCast&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;* = Affiliate Links&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3733&amp;amp;md5=861e8d8ef79c60a9ccd5fb1f8d2e873b" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/ywLmBGdb0fY" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls006</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/xRBBpsyy1YQ/ls006-open-source-tools.m4a" length="45435579" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/20/s/feed/c/m4a/ls006-open-source-tools.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS005 Aufnahmekonzepte</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/ufJr82JZIP0/ls005</link>
+                    <pubDate>Thu, 03 Nov 2011 13:54:53 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:19+00:00-ea36bf334845bd5</guid>
+                    <description>Dieses Mal ist Podcaster Timo Hetzel zu Gast beim Lautsprecher und wir sprechen gemeinsam über seine Arbeit und seine eingesetzte Technik. Im Mittelpunkt stehen Aufnahmekonzepte, speziell für Gruppenpodcasts.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls005&amp;language=de_DE&amp;category=audio&amp;title=LS005+Aufnahmekonzepte&amp;description=Themen%3A%C2%A0Undsoversum%3B+Mikrofonauswahl+f%C3%BCr+Gruppenaufnahmen%3B%C2%A0Shure+SM%C2%A07+B%2A%3B+Phonic+HelixBoard%2A+Analogmixer%3B+Behringer+Expander%2FKompressor-Kombination+%282-Kanal%2A%2C+4-Kanal%2A%29%3B+Streaming%3B%C2%A0Nicecast%3B+N-1+Mix%3B+SoundTrack+Pro%3B+Logic+Pro%3B+Edirol+R-44%2A%3B+Hinterbandkontrolle%3B+Levelator%3B+Kapitelmarken%3B+Rode+Podcaster%2A%3B+Rode+PSM1+Spinne%2A%3B%C2%A0Shure...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls005#"/>
+                    <itunes:duration>01:48:47</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Welche Mikrofonierung sich für welche Art Podcast eignet</itunes:subtitle>
+                    <itunes:summary>Dieses Mal ist Podcaster Timo Hetzel zu Gast beim Lautsprecher und wir sprechen gemeinsam über seine Arbeit und seine eingesetzte Technik. Im Mittelpunkt stehen Aufnahmekonzepte, speziell für Gruppenpodcasts.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Welche Mikrofonierung sich für welche Art Podcast eignet&lt;/em&gt;&lt;/strong&gt;
+
+Dieses Mal ist Podcaster Timo Hetzel zu Gast beim Lautsprecher und wir sprechen gemeinsam über seine Arbeit und seine eingesetzte Technik. Im Mittelpunkt stehen Aufnahmekonzepte, speziell für Gruppenpodcasts.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:48:47
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/timohetzel.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Timo Hetzel
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://undsoversum.de"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timohetzel"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timohetzel"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Timo Hetzel@LS005 Aufnahmekonzepte"
+					rel="flattr;uid:undsoversum;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls005#a05e8e67b631d2df5a7e2a65ccfc65c3"&gt;
+						Flattr Timo Hetzel@LS005 Aufnahmekonzepte
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS005 Aufnahmekonzepte"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls005#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS005 Aufnahmekonzepte
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen:&lt;/strong&gt;&#160;&lt;a href="http://www.undsoversum.de/" target="_blank"&gt;Undsoversum&lt;/a&gt;; Mikrofonauswahl für Gruppenaufnahmen;&#160;&lt;a href="http://www.thomann.de/de/shure_sm_7b_studiomikro.htm" target="_blank"&gt;Shure SM&#160;7 B&lt;/a&gt;*; &lt;a href="http://www.thomann.de/de/phonic_phhb18u_helix_board.htm" target="_blank"&gt;Phonic HelixBoard&lt;/a&gt;* Analogmixer; Behringer Expander/Kompressor-Kombination (&lt;a href="http://www.thomann.de/de/behringer_mdx_2600_composer_pro_xl.htm" target="_blank"&gt;2-Kanal&lt;/a&gt;*, &lt;a href="http://www.thomann.de/de/behringer_mdx4600_multicom_proxl.htm" target="_blank"&gt;4-Kanal&lt;/a&gt;*); Streaming;&#160;&lt;a href="http://www.rogueamoeba.com/nicecast/" target="_blank"&gt;Nicecast&lt;/a&gt;; N-1 Mix; SoundTrack Pro; Logic Pro; &lt;a href="http://www.thomann.de/de/edirol_r44.htm" target="_blank"&gt;Edirol R-44&lt;/a&gt;*; Hinterbandkontrolle; &lt;a href="http://web.archive.org/web/20130729204551id_/http://www.conversationsnetwork.org/levelator/" target="_blank"&gt;Levelator&lt;/a&gt;; Kapitelmarken; &lt;a href="http://www.thomann.de/de/rode_podcaster.htm" target="_blank"&gt;Rode Podcaster&lt;/a&gt;*; &lt;a href="http://www.thomann.de/de/rode_psm1.htm" target="_blank"&gt;Rode PSM1 Spinne&lt;/a&gt;*;&#160;&lt;a href="http://www.thomann.de/de/shure_x2u.htm" target="_blank"&gt;Shure X2U&lt;/a&gt;*; Skype; Autogain und Echo Cancellation; &lt;a href="http://jon.smajda.com/2011/04/19/disable-automatic-gain-control-in-skype/" target="_blank"&gt;AGC und EC in Skype ausschalten&lt;/a&gt;; &#160;Comfort Noise; ISDN Codecs; Musictaxi; &lt;a href="http://de.wikipedia.org/wiki/MPEG-1" target="_blank"&gt;MPEG-1&lt;/a&gt;: IP Codecs; VoIP für Podcasting; &lt;a href="http://de.wikipedia.org/wiki/Mumble" target="_blank"&gt;Mumble&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/G.711" target="_blank"&gt;G.711&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/G.722" target="_blank"&gt;G.722&lt;/a&gt;; &lt;a href="http://www.apple.com/final-cut-pro/" target="_blank"&gt;Apple Final Cut Pro X&lt;/a&gt;&#160;(&lt;a href="http://itunes.apple.com/de/app/final-cut-pro/id424389933?mt=12&amp;amp;uo=4&amp;amp;partnerId=2003" target="_blank"&gt;AppStore&lt;/a&gt;*); Skype aufzeichnen und Doubleender; &lt;a href="http://www.rogueamoeba.com/audiohijackpro/" target="_blank"&gt;Audio Hijack Pro&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Wii-Fernbedienung" target="_blank"&gt;Wii-Fernbedienung&lt;/a&gt;; &lt;a href="http://www.osculator.net/" target="_blank"&gt;Osculator&lt;/a&gt;;&#160;&lt;a href="http://www.thomann.de/de/yamaha_01v96_v2.htm" target="_blank"&gt;Yamaha 01V96v2&lt;/a&gt;&#160;Digitalmixer&#160;*; &lt;a href="http://www.adobe.com/products/audition.html" target="_blank"&gt;Adobe Audition&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;* = Affiliate Links&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3716&amp;amp;md5=7c2a9efa50a089c357a21b96ad8094a7" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/ufJr82JZIP0" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls005</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/MzZEm1wT1T8/ls005-aufnahmekonzepte.m4a" length="41046326" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/17/s/feed/c/m4a/ls005-aufnahmekonzepte.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS004 Mischpulte</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/7FMWLX6-j8U/ls004</link>
+                    <pubDate>Mon, 11 Jul 2011 10:21:47 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:33+00:00-b50844bf6a24b7f</guid>
+                    <description>Ich war mal wieder im Westen und nutzte die Gelegenheit, mit meinem Freund Sascha eine weitere Ausgabe des Lautsprechers aufzunehmen. Gute Ergänzung bzw. Fortführung der zweiten Ausgabe, die sich sehr auf Mikrofone und deren Signalbearbeitung konzentrierte.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls004&amp;language=de_DE&amp;category=audio&amp;title=LS004+Mischpulte&amp;description=Themen%3A%C2%A0Sascha+Ludwig+%28%40saschaludwig%2C%C2%A0Astrastudio%29%3B+TLF006+Audiogeschw%C3%A4tz%3B+Raumzeit%3B+Raumzeit-Intro%3B%C2%A0Mischpult%3B+Eing%C3%A4nge+und+Steckerformen%3B%C2%A0XLR%3B%C2%A0Klinkenstecker%3B%C2%A0Channel+Strip%3BGain%3B%C2%A0Equalizer%3B%C2%A0Hochpass+%28Low+Cut%29%3B+Inserts%3B+Panning%3B+n-n-1+Mix%3B+AUX-Mixe%3B+Pre-+und+Post-Fade%3B+Busse%3B+Control+Room%3B+2-Track-Return+%282TR%29+und+die+Hinterbandkontrolle%3B+Cinch%3B...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls004#"/>
+                    <itunes:duration>01:18:58</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Welche Bedeutung Mischpulte für das Podcasting haben</itunes:subtitle>
+                    <itunes:summary>Ich war mal wieder im Westen und nutzte die Gelegenheit, mit meinem Freund Sascha eine weitere Ausgabe des Lautsprechers aufzunehmen. Gute Ergänzung bzw. Fortführung der zweiten Ausgabe, die sich sehr auf Mikrofone und deren Signalbearbeitung konzentrierte.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Welche Bedeutung Mischpulte für das Podcasting haben&lt;/em&gt;&lt;/strong&gt;
+
+Ich war mal wieder im Westen und nutzte die Gelegenheit, mit meinem Freund Sascha eine weitere Ausgabe des Lautsprechers aufzunehmen. Gute Ergänzung bzw. Fortführung der zweiten Ausgabe, die sich sehr auf Mikrofone und deren Signalbearbeitung konzentrierte.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:18:58
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS004 Mischpulte"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls004#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS004 Mischpulte
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/sascha-ludwig.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Sascha Ludwig
+					&lt;br&gt;&lt;em&gt;Astrastudio&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://www.saschaludwig.com"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Sascha Ludwig@LS004 Mischpulte"
+					rel="flattr;uid:saschaludwig;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls004#1c69af4764b74860e5965cdeb7f90122"&gt;
+						Flattr Sascha Ludwig@LS004 Mischpulte
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen:&lt;/strong&gt;&#160;&lt;a href="http://www.saschaludwig.com/" target="_blank"&gt;Sascha Ludwig&lt;/a&gt; (&lt;a href="https://twitter.com/saschaludwig"&gt;@saschaludwig&lt;/a&gt;,&#160;&lt;a href="http://astrastudio.de/" target="_blank"&gt;Astrastudio&lt;/a&gt;); &lt;a href="http://tim.pritlove.org/2006/07/02/tlf006-audiogeschwtz/" target="_blank"&gt;TLF006 Audiogeschwätz&lt;/a&gt;; &lt;a href="http://raumzeit-podcast.de/" target="_blank"&gt;Raumzeit&lt;/a&gt;; &lt;a href="http://raumzeit-podcast.de/downloads/" target="_blank"&gt;Raumzeit-Intro&lt;/a&gt;;&#160;&lt;a href="http://de.wikipedia.org/wiki/Mischpult" target="_blank"&gt;Mischpult&lt;/a&gt;; Eingänge und Steckerformen;&#160;&lt;a href="http://de.wikipedia.org/wiki/XLR" target="_blank"&gt;XLR&lt;/a&gt;;&#160;&lt;a href="http://de.wikipedia.org/wiki/Klinkenstecker" target="_blank"&gt;Klinkenstecker&lt;/a&gt;;&#160;&lt;a href="http://de.wikipedia.org/wiki/Channel_strip" target="_blank"&gt;Channel Strip&lt;/a&gt;;Gain;&#160;&lt;a href="http://de.wikipedia.org/wiki/Equalizer" target="_blank"&gt;Equalizer&lt;/a&gt;;&#160;&lt;a href="http://de.wikipedia.org/wiki/Hochpass" target="_blank"&gt;Hochpass&lt;/a&gt; (Low Cut); Inserts; Panning; n-n-1 Mix; AUX-Mixe; Pre- und Post-Fade; Busse; Control Room; 2-Track-Return (2TR) und die Hinterbandkontrolle; &lt;a href="http://de.wikipedia.org/wiki/Cinch" target="_blank"&gt;Cinch&lt;/a&gt;; Symmetrische und asymmetrische Eingänge; Aussteuerungsanzeige; Analoge Mischpulte: Behringer, Phonic, Mackie;&#160;Digitale Mischpulte: &lt;a href="http://www.thomann.de/de/yamaha_01v96_v2.htm" target="_blank"&gt;Yamaha 01V96&lt;/a&gt;*, Tascam; Planung eines Podcasting-Setups; ADAT;&#160;&lt;a href="http://www.thomann.de/de/behringer_ultragain_pro8_digital_ada8000.htm" target="_blank"&gt;Behringer Ultragain Pro-8 Digital&lt;/a&gt;* (ADAT DA/AD-Wandler); Direct Outs; &lt;a href="http://en.wikipedia.org/wiki/Dante_(networking)" target="_blank"&gt;Dante&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Audio_Video_Bridging" target="_blank"&gt;Audio Video Bridging&lt;/a&gt; (AVB).&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3685&amp;amp;md5=e1e4be710963c1871ad3930ba35042c1" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/7FMWLX6-j8U" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls004</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/uX6zN_fyp-U/ls004-mischpulte.m4a" length="29810113" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/14/s/feed/c/m4a/ls004-mischpulte.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS003 Podcast Publishing</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/B81iyCJB-no/ls003</link>
+                    <pubDate>Mon, 06 Jun 2011 10:21:02 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:23+00:00-29595b3307f3535</guid>
+                    <description>Die dritte Ausgabe des Lautsprechers beschäftigt sich mit dem Publishing im Netz: Plugins und Content Management Systeme für das Podcasting sowie die Entwicklung in Richtung HTML5. Dazu suchte ich das Gespräch mit Gerrit van Aaken und besuchte ihn in seinem Büro in Würzburg.
+
+Wir reden über die (kurze) Geschichte des Podcastings und wie sich das Podcasting selbst technisch aus der Blogtechnik entwickelt hat. Wir gehen danach ausführlich auf die einzelnen Elemente eines Podcast Feeds ein und diskutieren den Best Practice. Zu guter letzt nehmen wir die aktuellen Entwicklung von Medienplayern im Web ins Auge und besprechen welche Änderungen durch HTML5 zu erwarten sind.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls003&amp;language=de_DE&amp;category=audio&amp;title=LS003+Podcast+Publishing&amp;description=Themen%3A+Gerrit+von+Aaaken%3B+die+fr%C3%BChe+Podcasterzeit+in+Deutschland+und+der+erste+Hype%3B+Loudblog%3B+Feeds%3B+WordPress%3B+Drupal%3B+PodPress%3B+Bluberry+PowerPress%3B+Cache-Plugins%3B+W3+Total+Cache%3B+WP+Super+Cache%3B+die+RSS-Story%3B+Dave...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls003#"/>
+                    <itunes:duration>01:50:29</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Publishing im Netz: Plugins und Content Management Systeme für das Podcasting</itunes:subtitle>
+                    <itunes:summary>Die dritte Ausgabe des Lautsprechers beschäftigt sich mit dem Publishing im Netz: Plugins und Content Management Systeme für das Podcasting sowie die Entwicklung in Richtung HTML5. Dazu suchte ich das Gespräch mit Gerrit van Aaken und besuchte ihn in seinem Büro in Würzburg.
+
+Wir reden über die (kurze) Geschichte des Podcastings und wie sich das Podcasting selbst technisch aus der Blogtechnik entwickelt hat. Wir gehen danach ausführlich auf die einzelnen Elemente eines Podcast Feeds ein und diskutieren den Best Practice. Zu guter letzt nehmen wir die aktuellen Entwicklung von Medienplayern im Web ins Auge und besprechen welche Änderungen durch HTML5 zu erwarten sind.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Publishing im Netz: Plugins und Content Management Systeme für das Podcasting&lt;/em&gt;&lt;/strong&gt;
+
+Die dritte Ausgabe des Lautsprechers beschäftigt sich mit dem Publishing im Netz: Plugins und Content Management Systeme für das Podcasting sowie die Entwicklung in Richtung HTML5. Dazu suchte ich das Gespräch mit Gerrit van Aaken und besuchte ihn in seinem Büro in Würzburg.&lt;br /&gt;
+&lt;br /&gt;
+Wir reden über die (kurze) Geschichte des Podcastings und wie sich das Podcasting selbst technisch aus der Blogtechnik entwickelt hat. Wir gehen danach ausführlich auf die einzelnen Elemente eines Podcast Feeds ein und diskutieren den Best Practice. Zu guter letzt nehmen wir die aktuellen Entwicklung von Medienplayern im Web ins Auge und besprechen welche Änderungen durch HTML5 zu erwarten sind.&lt;br /&gt;
+
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:50:29
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS003 Podcast Publishing"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls003#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS003 Podcast Publishing
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/180b4e4ae8d7df2c4b39967ad425f098?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Gerrit van Aaken
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/gerritvanaaken"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/gerritvanaaken"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="GitHub" href="https://github.com/gerritvanaaken"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/github-128.png" class="podlove-contributor-button" alt="GitHub" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Gerrit van Aaken@LS003 Podcast Publishing"
+					rel="flattr;uid:gerritvanaaken;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls003#92a2b44cb9f7b68be9bf6f1aad86e297"&gt;
+						Flattr Gerrit van Aaken@LS003 Podcast Publishing
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen&lt;/strong&gt;: &lt;a href="http://praegnanz.de/"&gt;Gerrit von Aaaken&lt;/a&gt;; die frühe Podcasterzeit in Deutschland und der erste Hype; &lt;a href="http://loudblog.com/"&gt;Loudblog&lt;/a&gt;; Feeds; &lt;a href="http://de.wikipedia.org/wiki/WordPress"&gt;WordPress&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Drupal"&gt;Drupal&lt;/a&gt;; &lt;a href="http://wordpress.org/plugins/podpress/"&gt;PodPress&lt;/a&gt;; &lt;a href="http://create.blubrry.com/resources/powerpress/"&gt;Bluberry PowerPress&lt;/a&gt;; Cache-Plugins; &lt;a href="http://wordpress.org/plugins/w3-total-cache/"&gt;W3 Total Cache&lt;/a&gt;; &lt;a href="http://wordpress.org/plugins/wp-super-cache/"&gt;WP Super Cache&lt;/a&gt;; die RSS-Story; &lt;a href="http://de.wikipedia.org/wiki/Dave_Winer"&gt;Dave Winer&lt;/a&gt;; &lt;a href="http://scripting.com/"&gt;Scripting News&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/UserLand_Software"&gt;UserLand Software&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Gliederungseditor"&gt;Outliner&lt;/a&gt;; &lt;a href="http://www.rssboard.org/rss-0-9-1-netscape"&gt;RSS 0.91&lt;/a&gt;; RDF; &lt;a href="http://de.wikipedia.org/wiki/Tim_Berners-Lee"&gt;Tim Berners-Lee&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Semantisches_Web"&gt;Semantisches Web&lt;/a&gt;; &lt;a href="http://web.resource.org/rss/1.0/"&gt;RDF Site Summary (RSS) 1.0&lt;/a&gt;; &lt;a href="http://cyber.law.harvard.edu/rss/rss.html"&gt;RSS 2.0&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Atom_(standard)"&gt;Atom&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Adam_Curry"&gt;Adam Curry&lt;/a&gt;; &lt;a href="http://juicereceiver.sourceforge.net/"&gt;iPodder/Juice&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Daily_Source_Code"&gt;Daily Source Code&lt;/a&gt;; &lt;a href="http://en.wikipedia.org/wiki/Podshow"&gt;Podshow/mevio&lt;/a&gt;; Podcasting; &lt;a href="http://www.apple.com/itunes/podcasts/specs.html"&gt;iTunes RSS Extensions&lt;/a&gt;; XML und XSLT; Titel und Untertitel; Beschreibungen und Zusammenfassungen; &lt;a href="http://validator.w3.org/feed/"&gt;Feed Validator&lt;/a&gt;; Audio- und Video-Element in HTML5; JWPlayer; Leanback Player; &lt;a href="http://praegnanz.de/html5video/"&gt;HTML5 Video Player Comparison&lt;/a&gt; @praegnanz.de; &lt;a href="http://hyper-audio.org/r/" class="broken_link"&gt;RadioLab + SoundCloud Demoseite&lt;/a&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3587&amp;amp;md5=d3990d55624e80f7cbd670d1b6c7ebff" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/B81iyCJB-no" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls003</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/iEOdOkkrlFk/ls003-podcast-publishing.m4a" length="41682215" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/11/s/feed/c/m4a/ls003-podcast-publishing.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS002 Der gute Ton</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/yFy_RwRwYkw/ls002</link>
+                    <pubDate>Thu, 05 May 2011 20:54:25 +0000</pubDate>
+                    <guid isPermaLink="false">http://tim.geekheim.de/?p=3467</guid>
+                    <description>Die zweite Ausgabe des Lautsprechers widmet sich den Themen Schallausbreitung, Mikrofonierung und Echtzeit-Signalbearbeitung bei der Aufnahme. Mein Ko-Moderator in dieser Folge ist Fiedel, der unter anderem mit dem Bau von Tonstudios Erfahrung hat.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls002&amp;language=de_DE&amp;category=audio&amp;title=LS002+Der+gute+Ton&amp;description=Themen%3A+Schallausbreitung%3B+Schalld%C3%A4mmung+und+Reflektionsvermeidung%3B+Basotect+%28Melaminharzschaum%29%2A%3B+Eierkartons%3B+Diffusoren%3B+Tote+R%C3%A4ume%3B+das+Ohr%3B+Schallwandlung%3B+Dynamische+Mikrofone%3B+Kohlemikrofone%3B+Kondensatormikrofone%3B+Georg+Neumann%3B+Neumann-Mikrofone%2A%3B+Richtcharakteristiken%3B%C2%A0Grenzfl%C3%A4chenmikrofon%3B+Beyerdynamic+DT-297+%28PV%2F80%3B+PV%2F250%29%2A%3B+Gro%C3%9Fmembran-Kondensatormikrofone%3B+Pop-Schutz%2A%3B+Shure+SM58%2A%3B...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls002#"/>
+                    <itunes:duration>01:55:42</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Schallausbreitung, Mikrofonierung und Echtzeit-Signalbearbeitung bei der Aufnahme</itunes:subtitle>
+                    <itunes:summary>Die zweite Ausgabe des Lautsprechers widmet sich den Themen Schallausbreitung, Mikrofonierung und Echtzeit-Signalbearbeitung bei der Aufnahme. Mein Ko-Moderator in dieser Folge ist Fiedel, der unter anderem mit dem Bau von Tonstudios Erfahrung hat.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Schallausbreitung, Mikrofonierung und Echtzeit-Signalbearbeitung bei der Aufnahme&lt;/em&gt;&lt;/strong&gt;
+
+Die zweite Ausgabe des Lautsprechers widmet sich den Themen Schallausbreitung, Mikrofonierung und Echtzeit-Signalbearbeitung bei der Aufnahme. Mein Ko-Moderator in dieser Folge ist Fiedel, der unter anderem mit dem Bau von Tonstudios Erfahrung hat. 
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:55:42
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS002 Der gute Ton"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls002#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS002 Der gute Ton
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="http://meta.metaebene.me/media/metaebene/contributors/thomas-fiedler.jpg" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Fiedel
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/blinkenlicht"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Themen&lt;/strong&gt;: Schallausbreitung; Schalldämmung und Reflektionsvermeidung; &lt;a href="http://www.thomann.de/de/search_dir.html?sw=basotect&amp;amp;x=0&amp;amp;y=0"&gt;Basotect (Melaminharzschaum)&lt;/a&gt;*; Eierkartons; Diffusoren; Tote Räume; das Ohr; Schallwandlung; Dynamische Mikrofone; Kohlemikrofone; Kondensatormikrofone; &lt;a href="http://de.wikipedia.org/wiki/Georg_Neumann"&gt;Georg Neumann&lt;/a&gt;; &lt;a href="http://www.thomann.de/de/neumann_grossmembran_mikrofone.html"&gt;Neumann-Mikrofone&lt;/a&gt;*; &lt;a href="http://de.wikipedia.org/wiki/Richtcharakteristik"&gt;Richtcharakteristiken&lt;/a&gt;;&#160;&lt;a href="http://de.wikipedia.org/wiki/Grenzfl%C3%A4chenmikrofon"&gt;Grenzflächenmikrofon&lt;/a&gt;; Beyerdynamic DT-297 (&lt;a href="http://www.thomann.de/de/beyerdynamic_dt297pv80_mk_ii.htm"&gt;PV/80&lt;/a&gt;; &lt;a href="http://www.thomann.de/de/beyerdynamic_dt297pv250_mk_ii.htm"&gt;PV/250&lt;/a&gt;)*; Großmembran-Kondensatormikrofone; &lt;a href="http://www.thomann.de/de/search.html?xsid=6560711175540ac9c21a751ec7521636"&gt;Pop-Schutz&lt;/a&gt;*; &lt;a href="http://www.thomann.de/de/search_dir.html?gf=dynamische_gesangsmikrofone"&gt;Shure SM58&lt;/a&gt;*; Shure Dynamische Broadcastmikrofone; Monitorsignal; Hinterbandkontrolle; Latenz; Kompression und Expansion; Noise Gates; De-Esser; Limiter; Compander; &lt;a href="http://web.archive.org/web/20130729204551id_/http://www.conversationsnetwork.org/levelator/"&gt;Levelator&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;* = Affiliate Links&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3467&amp;amp;md5=3bac59cc22e765859f581eb8e58fe06f" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/yFy_RwRwYkw" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls002</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/5b0IBYZiW38/ls002-der-gute-ton.m4a" length="43651560" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/8/s/feed/c/m4a/ls002-der-gute-ton.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS001 Formate, Feeds und iTunes</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/2_Eii5Cq1ns/ls001</link>
+                    <pubDate>Sat, 26 Mar 2011 12:39:57 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-11t12:42:08+00:00-88b25a8b0426261</guid>
+                    <description>Da ist sie nun also endlich: die erste Ausgabe des Lautsprechers. Letztlich, damit das Projekt mal in die Puschen kommt, doch eher spontan in München mit &#160;Martin Pittenauer (der von den Fanboys) entstanden. Wir erläutern den Aufbau von Podcast-Feeds, welche Probleme dabei mit manchen Podcast Clients entstehen und im besonderen wie sich iTunes und das iTunes Podcast Directory gegenüber dem Podcaster verhalten.  Die Sendung ist - wie es sich für einen Piloten gehört - eher lang geraten, künftige Ausgaben könnten knapper ausfallen und sich bestimmten Einzelthemen widmen. Oder auch nicht. Wer weiß schon, was die Zukunft bringt. Ich hoffe auf jeden Fall auf Kommentare, Korrekturen und Anregungen von Euch.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls001&amp;language=de_DE&amp;category=audio&amp;title=LS001+Formate%2C+Feeds+und+iTunes&amp;description=Themen%3A+die+richtige+Auswahl+von+Audio-Dateiformaten%3B+die+Vor-+und+Nachteile+von+Codecs+und+Containern%3B+Bitraten%3B+Kompressions-Artefakte%3B+Lame%3B+MP3%3B+AAC+und+HE-AAC%3B+Ogg+Vorbis%3B+Publikations-Workflows%3B+MPEG4+Container%3B+%26%238220%3BEnhanced+Podcasts%26%238220%3B%3A+Kapitelmarken+und...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls001#"/>
+                    <itunes:duration>01:37:30</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Über das Feedwesen und den Umgang mit Verzeichnissen</itunes:subtitle>
+                    <itunes:summary>Da ist sie nun also endlich: die erste Ausgabe des Lautsprechers. Letztlich, damit das Projekt mal in die Puschen kommt, doch eher spontan in München mit &#160;Martin Pittenauer (der von den Fanboys) entstanden. Wir erläutern den Aufbau von Podcast-Feeds, welche Probleme dabei mit manchen Podcast Clients entstehen und im besonderen wie sich iTunes und das iTunes Podcast Directory gegenüber dem Podcaster verhalten.  Die Sendung ist - wie es sich für einen Piloten gehört - eher lang geraten, künftige Ausgaben könnten knapper ausfallen und sich bestimmten Einzelthemen widmen. Oder auch nicht. Wer weiß schon, was die Zukunft bringt. Ich hoffe auf jeden Fall auf Kommentare, Korrekturen und Anregungen von Euch.</itunes:summary>
+                    <content:encoded>&lt;strong&gt;&lt;em&gt;Über das Feedwesen und den Umgang mit Verzeichnissen&lt;/em&gt;&lt;/strong&gt;
+
+Da ist sie nun also endlich: die erste Ausgabe des Lautsprechers. Letztlich, damit das Projekt mal in die Puschen kommt, doch eher spontan in München mit &#160;Martin Pittenauer (der von den Fanboys) entstanden. Wir erläutern den Aufbau von Podcast-Feeds, welche Probleme dabei mit manchen Podcast Clients entstehen und im besonderen wie sich iTunes und das iTunes Podcast Directory gegenüber dem Podcaster verhalten.  Die Sendung ist - wie es sich für einen Piloten gehört - eher lang geraten, künftige Ausgaben könnten knapper ausfallen und sich bestimmten Einzelthemen widmen. Oder auch nicht. Wer weiß schon, was die Zukunft bringt. Ich hoffe auf jeden Fall auf Kommentare, Korrekturen und Anregungen von Euch.
+
+
+
+&lt;strong&gt;Dauer:&lt;/strong&gt; 01:37:30
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS001 Formate, Feeds und iTunes"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls001#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS001 Formate, Feeds und iTunes
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/6818cfe3294b4a4932cdf8a65403c1b8?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Martin Pittenauer
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/map"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/map"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Martin Pittenauer@LS001 Formate, Feeds und iTunes"
+					rel="flattr;uid:map;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls001#45bb791d7662e529da94dbfeee1e0dac"&gt;
+						Flattr Martin Pittenauer@LS001 Formate, Feeds und iTunes
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+
+
+&lt;p&gt;Themen: die richtige Auswahl von Audio-Dateiformaten; die Vor- und Nachteile von &lt;a href="http://de.wikipedia.org/wiki/Codec"&gt;Codecs&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/Containerformat"&gt;Containern&lt;/a&gt;; Bitraten; Kompressions-Artefakte; &lt;a href="http://lame.sourceforge.net/"&gt;Lame&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/MP3"&gt;MP3&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/Advanced_Audio_Coding"&gt;AAC&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/MPEG-4_High_Efficiency_Advanced_Audio_Coding"&gt;HE-AAC&lt;/a&gt;; Ogg &lt;a href="http://de.wikipedia.org/wiki/Vorbis"&gt;Vorbis&lt;/a&gt;; Publikations-Workflows; MPEG4 Container; &amp;#8220;&lt;a href="http://de.wikipedia.org/wiki/Enhanced_Podcast"&gt;Enhanced Podcasts&lt;/a&gt;&amp;#8220;: Kapitelmarken und mehr; Garageband; &lt;a href="http://code.google.com/p/mp4v2/"&gt;mp4v2&lt;/a&gt; mit mp4chaps; &lt;a href="http://id3.org/id3v2-chapters-1.0"&gt;ID3 Chapter Marks&lt;/a&gt;; &lt;a href="http://hindenburg.com/products/hindenburg-journalist/"&gt;Hindenburg&lt;/a&gt;; &lt;a href="http://de.wikipedia.org/wiki/LaTeX"&gt;LaTeX&lt;/a&gt; und&#160;&lt;a href="http://de.wikipedia.org/wiki/Audiotex"&gt;Audiotex&lt;/a&gt;; Encoding- und Metadaten-Workflows; Mono vs. Stereo; Sprecherpositionierung im Stereoraum; Dateigrößen; Podcast-Feeds; RSS 2.0; Atom; Enclosures; iTunes Podcast Directory; iTunes-RSS-Erweiterungen; iTunes Podcast Support; das &amp;#8220;Nicht bei iTunes&amp;#8221; Problem; iTunes und das abgeschaffte Podcast-Pinging; Distribution von Podcasts mit HTTP und BitTorrent; &lt;a href="http://www.getmiro.com/"&gt;Miro&lt;/a&gt; und der &lt;a href="http://www.miroguide.com/"&gt;Miro Guide&lt;/a&gt;; warum Apple kein BitTorrent in iTunes einbaut; &lt;a href="https://github.com/astro/prittorrent"&gt;prittorrent&lt;/a&gt;.&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3321&amp;amp;md5=aefaa77a86b6d33d82755967ead2fa20" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/2_Eii5Cq1ns" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls001</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/aWoBBd6M2Xk/ls001-audioformate-feeds-itunes.m4a" length="36794695" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/5/s/feed/c/m4a/ls001-audioformate-feeds-itunes.m4a</feedburner:origEnclosureLink>
+                </item>
+                <item>
+                    <title>LS000 Der Lautsprecher</title>
+                    <link>http://feedproxy.google.com/~r/DerLautsprecher/~3/xeRP6pYMPJE/ls000</link>
+                    <pubDate>Fri, 04 Feb 2011 12:30:34 +0000</pubDate>
+                    <guid isPermaLink="false">http://tim.geekheim.de/2011/02/04/</guid>
+                    <description>Kurze Erläuterung, wohin die Reise hier gehen soll. Der Lautsprecher ist ein Experiment und ein Versuch, der Community Wissen aus der Erfahrung anderer Podcaster näher zu bringen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=243&amp;url=http%3A%2F%2Fder-lautsprecher.de%2Fls000&amp;language=de_DE&amp;category=audio&amp;title=LS000+Der+Lautsprecher&amp;description=Ich+trage+mich+ja+schon+ewig+mit+dem+Gedanken%2C+einen+Podcast+%C3%BCber+das+Podcasten+zu+machen+und+bevor+ich+die+Sache+noch+l%C3%A4nger+herausz%C3%B6gere+mache+ich+einfach+mal+eine+Nullnummer%2C...&amp;tags=podcast%2C+der+lautsprecher%2C+podcasting%2C+tim+pritlove%2C+metaebene" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://der-lautsprecher.de/ls000#"/>
+                    <itunes:duration>00:04:38</itunes:duration>
+                    <itunes:author>Metaebene Personal Media</itunes:author>
+                    <itunes:subtitle>Eine Einführung in das Projekt</itunes:subtitle>
+                    <itunes:summary>Kurze Erläuterung, wohin die Reise hier gehen soll. Der Lautsprecher ist ein Experiment und ein Versuch, der Community Wissen aus der Erfahrung anderer Podcaster näher zu bringen.</itunes:summary>
+                    <content:encoded>&lt;p&gt;Ich trage mich ja schon ewig mit dem Gedanken, einen Podcast über das Podcasten zu machen und bevor ich die Sache noch länger herauszögere mache ich einfach mal eine Nullnummer, damit das ganze endlich in der Welt ist.&lt;/p&gt;
+&lt;p&gt;Der Podcast wird heißen: &amp;#8220;Der Lautsprecher&amp;#8221;. Und es geht darin um alles, was das &amp;#8220;Senden&amp;#8221; betrifft. Das betrifft Audiotechnik genauso wie das Sprechen selbst, Sendungsformate und Abläufe, Skype und Telefonie, Publishingsysteme, Datenformate und und und. Eben alles, was bei Senden so ein Problem oder eine Herausforderung sein kann.&lt;/p&gt;
+&lt;p&gt;Wie ich das genau gestalten will, weiß ich auch nicht. Ich weiß nur, dass ich mich da nicht sonderlich festlegen will, sondern eher bewusst alles mögliche ausprobieren möchte. In so fern ist Der Lautsprecher auch ein Meta-Podcast und passt daher natürlich auch wunderbar in die Metaebene. Ich werde die Ausgaben auch wohl etwas kürzer halten als die anderen Podcasts, aber wer kann sich da schon sicher sein, dass das auch passiert.&lt;/p&gt;
+&lt;p&gt;Bis auf weiteres ist der Podcast &amp;#8211; wie NSFW &amp;#8211; zu Gast hier im Blog. Aber es gibt schon mal einen eigenen &lt;a href="http://feeds.feedburner.com/DerLautsprecher"&gt;Podcast-Feed&lt;/a&gt; und den entsprechenden &lt;a href="https://itunes.apple.com/de/podcast/der-lautsprecher/id418533452"&gt;Eintrag bei iTunes&lt;/a&gt;. Es gibt auch ein Logo &amp;#8211; aber auch das ist eher ein Platzhalter bis mir was besseres eingefallen ist. Falls jemand eine gute Idee hat, wie man den Titel visualisieren kann: immer her damit. Hinweis: es geht beim Titel eher um das &amp;#8220;laut sprechen&amp;#8221; und nicht um die &amp;#8220;Lautsprecher-Box&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;Ich bin auch für Themenvorschläge offen. Ich habe natürlich schon eine lange Liste von potentiellen Gesprächsthemen, aber davon kann man ja nie genug haben. Am besten gleich hier in die Kommentare, meine Inbox läuft eh schon über.&lt;/p&gt;
+&lt;p&gt;Ich hoffe, das Angebot ist was für Euch. Wer mag, packt sich den Lautsprecher gleich auf Twitter mit dazu: &lt;a href="https://twitter.com/me_lautsprecher"&gt;@me_lautsprecher&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;span class="podlove-duration"&gt;&lt;strong&gt;Dauer:&lt;/strong&gt; 00:04:38&lt;/span&gt;
+
+
+&lt;table class="podlove-contributors-table"&gt;
+		&lt;tbody&gt;
+				    		    			    		
+
+&lt;tr&gt;
+			&lt;td class="avatar_cell"&gt;
+			&lt;img alt="avatar" src="https://www.gravatar.com/avatar/97391367796db965d19e63b690e72b3d?s=50&amp;d=mm&amp;r=g" class="avatar avatar-50 photo" height="50" width="50" /&gt;		&lt;/td&gt;
+		&lt;td class="title_cell"&gt;
+		Tim Pritlove
+			&lt;/td&gt;
+			&lt;td class="social_cell"&gt;
+					&lt;a target="_blank" title="Website" href="http://metaebene.me"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/www-128.png" class="podlove-contributor-button" alt="Website" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="App.net" href="https://alpha.app.net/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/adn-128.png" class="podlove-contributor-button" alt="App.net" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Twitter" href="https://twitter.com/timpritlove"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/twitter-128.png" class="podlove-contributor-button" alt="Twitter" /&gt;
+			&lt;/a&gt;
+			&lt;/td&gt;
+			&lt;td class="donation_cell"&gt;
+					&lt;a target="_blank" title="Bitcoin" href="bitcoin:1f34rAMbMQPC2i9zu6SWmdsF8U6eTmvcS"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/bitcoin-128.png" class="podlove-contributor-button" alt="Bitcoin" /&gt;
+			&lt;/a&gt;
+					&lt;a target="_blank" title="Amazon Wishlist" href="http://www.amazon.de/registry/wishlist/2IRJRYW8WNRBR"&gt;
+				&lt;img width="32" height="32" src="http://der-lautsprecher.de/wp-content/plugins/podlove-podcasting-plugin-for-wordpress/lib/modules/social/images/icons/amazonwishlist-128.png" class="podlove-contributor-button" alt="Amazon Wishlist" /&gt;
+			&lt;/a&gt;
+				&lt;/td&gt;
+				&lt;td class="flattr_cell"&gt;
+											&lt;a target="_blank"
+					class="FlattrButton"
+					style="display:none;"
+					title="Flattr Tim Pritlove@LS000 Der Lautsprecher"
+					rel="flattr;uid:timpritlove;button:compact;popout:0"
+					href="http://der-lautsprecher.de/ls000#805fb0a22ead7c6ecb069ad0da5fefe8"&gt;
+						Flattr Tim Pritlove@LS000 Der Lautsprecher
+				&lt;/a&gt;
+					&lt;/td&gt;
+	&lt;/tr&gt;		    			    			&lt;/tbody&gt;
+&lt;/table&gt;
+
+	&lt;script type="text/javascript"&gt;
+(function() {
+	var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+	s.type = 'text/javascript';
+	s.async = true;
+	s.src = 'https://api.flattr.com/js/0.6/load.js?mode=auto';
+	t.parentNode.insertBefore(s, t);
+})();
+&lt;/script&gt;
+
+
+ &lt;p&gt;&lt;a href="http://der-lautsprecher.de/?flattrss_redirect&amp;amp;id=3108&amp;amp;md5=4161c5a70c4b23eeec5a34dc17f202e8" title="Flattr" target="_blank"&gt;&lt;img src="http://metaebene.me/lautsprecher/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/DerLautsprecher/~4/xeRP6pYMPJE" height="1" width="1"/&gt;</content:encoded>
+                    <atom:contributor>
+                        <atom:name>Tim Pritlove</atom:name>
+                        <atom:uri>http://tim.pritlove.org/</atom:uri>
+                    </atom:contributor>
+                    <feedburner:origLink>http://der-lautsprecher.de/ls000</feedburner:origLink>
+                    <enclosure url="http://feedproxy.google.com/~r/DerLautsprecher/~5/jQJevxAY1gI/ls000-der-lautsprecher.m4a" length="1811642" type="audio/mp4"/>
+                    <feedburner:origEnclosureLink>http://der-lautsprecher.de/podlove/file/2/s/feed/c/m4a/ls000-der-lautsprecher.m4a</feedburner:origEnclosureLink>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

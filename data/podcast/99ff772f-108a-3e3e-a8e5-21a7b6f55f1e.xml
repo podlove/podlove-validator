@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:46:49 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:45:49 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=zzdltwcwfgt01iuyzrimgkht; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:45:48 GMT"/>
+        <httpclient:header name="Content-Length" value="123665"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/7625</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/7625" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:45:49 GMT</lastBuildDate>
+                <image>
+                    <title>Väder</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=2000</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/2000/2877927_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Prognoser från SMHI</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Väder</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Väder</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=2000</link>
+                <description>Prognoser från SMHI</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Land- och sjöväder 20140820 07:57</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049185.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140820_0757.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 05:57:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140820,07:57</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049185.mp3" length="2219616" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140820 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049093.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140820_0655.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140820,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049093.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140820 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049019.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140820_0555.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140820,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049019.mp3" length="4081873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140819 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048953.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140819_2150.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140819,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048953.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140819 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048569.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140819_1555.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140819,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048569.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140819 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048225.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140819_1255.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140819,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048225.mp3" length="4738497" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140819 07:57</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047814.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140819_0757.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 05:57:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140819,07:57</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047814.mp3" length="2219616" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140819 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047704.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140819_0655.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140819,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047704.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140819 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047638.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140819_0555.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140819,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047638.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140818 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047596.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140818_2150.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140818,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047596.mp3" length="9538340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140818 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047260.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140818_1555.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140818,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047260.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140818 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046964.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140818_1255.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140818,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046964.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140818 07:57</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046531.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140818_0757.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 05:57:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140818,07:57</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046531.mp3" length="2219616" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140818 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046438.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140818_0655.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140818,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046438.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140818 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046375.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140818_0555.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140818,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046375.mp3" length="4081873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140817 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046323.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140817_2150.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140817,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046323.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140817 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046217.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140817_1555.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140817,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046217.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140817 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046130.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140817_1250.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140817,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046130.mp3" length="7698066" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140817 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045880.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140817_0755.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140817,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045880.mp3" length="4738497" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140817 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045869.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140817_0655.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140817,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045869.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140817 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045859.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140817_0555.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140817,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045859.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140816 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045827.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140816_2150.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140816,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045827.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140816 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045746.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140816_1555.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140816,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045746.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140816 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045676.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140816_1250.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140816,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045676.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140816 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045441.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140816_0755.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140816,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045441.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140816 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045427.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140816_0655.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140816,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045427.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140816 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045424.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140816_0555.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140816,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045424.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140815 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045396.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140815_2150.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140815,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045396.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140815 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045106.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140815_1555.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140815,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045106.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140815 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044799.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140815_1255.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140815,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044799.mp3" length="4821253" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140815 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044378.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140815_0755.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140815,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044378.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140815 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044275.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140815_0655.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140815,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044275.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140815 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044201.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140815_0555.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140815,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044201.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140814 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044127.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140814_2150.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140814,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044127.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140814 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043804.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140814_1555.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140814,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043804.mp3" length="4872363" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140814 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043523.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140814_1255.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140814,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043523.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140814 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043122.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140814_0755.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140814,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043122.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140814 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043016.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140814_0655.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140814,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043016.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140814 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042942.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140814_0555.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140814,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042942.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140813 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042881.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140813_2150.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140813,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042881.mp3" length="9538340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140813 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042564.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140813_1555.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140813,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042564.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140813 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042272.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140813_1255.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140813,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042272.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140813 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041855.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140813_0755.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140813,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041855.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140813 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041759.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140813_0655.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140813,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041759.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140813 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041688.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140813_0555.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140813,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041688.mp3" length="4081873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140812 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041622.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140812_2150.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140812,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041622.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140812 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041297.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140812_1555.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140812,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041297.mp3" length="4815809" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140812 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041003.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140812_1255.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140812,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041003.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140812 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040627.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140812_0755.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140812,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040627.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140812 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040524.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140812_0655.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140812,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040524.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140812 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040459.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140812_0555.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140812,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040459.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140811 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040400.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140811_2150.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140811,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040400.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140811 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040068.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140811_1555.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140811,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040068.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140811 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140811_1255.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140811,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039794.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140811 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039420.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140811_0755.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140811,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039420.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140811 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039310.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140811_0655.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140811,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039310.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140811 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039248.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140811_0555.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140811,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039248.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140810 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039212.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140810_2150.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140810,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039212.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140810 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140810_1555.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140810,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039120.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140810 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039048.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140810_1250.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140810,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039048.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140810 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038816.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140810_0755.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140810,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038816.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140810 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038805.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140810_0655.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140810,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038805.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140810 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038798.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140810_0555.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140810,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038798.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140809 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038764.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140809_2150.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140809,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038764.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140809 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038700.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140809_1555.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140809,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038700.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140809 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038624.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140809_1250.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140809,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038624.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140809 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038387.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140809_0755.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140809,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038387.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140809 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038376.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140809_0655.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140809,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038376.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140809 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038372.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140809_0555.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140809,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038372.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140808 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038335.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140808_2150.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140808,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038335.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140808 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038045.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140808_1555.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140808,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038045.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140808 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037736.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140808_1255.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140808,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037736.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140808 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037331.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140808_0755.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140808,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037331.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140808 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037224.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140808_0655.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140808,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037224.mp3" length="4098174" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140808 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037152.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140808_0555.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140808,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037152.mp3" length="4081873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140807 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037104.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140807_2150.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140807,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037104.mp3" length="9538340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140807 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036786.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140807_1555.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140807,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036786.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140807 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036461.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140807_1255.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140807,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036461.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140807 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036083.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140807_0755.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140807,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036083.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140807 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035981.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140807_0655.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140807,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035981.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140807 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035909.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140807_0555.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140807,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035909.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140806 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035862.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140806_2150.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140806,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035862.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140806 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035552.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140806_1555.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140806,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035552.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140806 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035247.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140806_1255.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140806,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035247.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140806 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034862.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140806_0755.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140806,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034862.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140806 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034760.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140806_0655.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140806,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034760.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140806 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034691.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140806_0555.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140806,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034691.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140805 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034634.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140805_2150.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140805,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034634.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140805 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034320.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140805_1555.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140805,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034320.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140805 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034050.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140805_1255.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140805,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034050.mp3" length="4877837" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140805 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033654.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140805_0755.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140805,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033654.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140805 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033552.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140805_0655.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140805,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033552.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140805 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033489.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140805_0555.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140805,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033489.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140804 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033440.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140804_2150.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140804,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033440.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140804 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140804_1555.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140804,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033120.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140804 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032841.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140804_1255.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140804,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032841.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140804 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032467.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140804_0755.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140804,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032467.mp3" length="4098183" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140804 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032371.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140804_0655.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140804,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032371.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140804 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032302.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140804_0555.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140804,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032302.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140803 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032264.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140803_2150.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140803,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032264.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140803 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032193.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140803_1555.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140803,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032193.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140803 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032125.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140803_1250.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140803,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032125.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140803 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031895.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140803_0755.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140803,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031895.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140803 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031879.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140803_0655.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140803,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031879.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140803 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031873.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140803_0555.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140803,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031873.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140802 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031839.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140802_2150.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140802,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031839.mp3" length="9538340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140802 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031757.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140802_1555.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140802,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031757.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140802 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031684.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140802_1250.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140802,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031684.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140802 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031463.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140802_0755.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140802,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031463.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140802 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031450.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140802_0655.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140802,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031450.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140802 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031436.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140802_0555.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140802,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031436.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140801 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031407.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140801_2150.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140801,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031407.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140801 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140801_1555.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140801,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031120.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140801 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030854.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140801_1255.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140801,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030854.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140801 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030450.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140801_0755.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140801,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030450.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140801 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030350.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140801_0655.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140801,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030350.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140801 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030284.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140801_0555.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140801,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030284.mp3" length="4082291" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140731 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030240.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140731_2150.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140731,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030240.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140731 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029917.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140731_1555.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140731,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029917.mp3" length="4869856" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140731 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029642.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140731_1255.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140731,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029642.mp3" length="4879091" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140731 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029244.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140731_0755.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140731,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029244.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140731 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029151.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140731_0655.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140731,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029151.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140731 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029077.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140731_0555.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140731,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029077.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140730 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028994.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140730_2150.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140730,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028994.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140730 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028703.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140730_1555.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140730,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028703.mp3" length="4872363" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140730 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028381.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140730_1255.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140730,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028381.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140730 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027996.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140730_0755.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140730,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027996.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140730 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027895.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140730_0655.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140730,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027895.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140730 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027827.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140730_0555.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140730,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027827.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140729 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027760.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140729_2150.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140729,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027760.mp3" length="9538340" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140729 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027466.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140729_1555.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140729,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027466.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140729 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027210.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140729_1255.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140729,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027210.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140729 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026823.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140729_0755.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140729,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026823.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140729 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026724.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140729_0655.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140729,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026724.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140729 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026653.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140729_0555.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140729,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026653.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140728 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026600.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140728_2150.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140728,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026600.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140728 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026283.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140728_1555.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140728,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026283.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140728 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026014.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140728_1255.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140728,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026014.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140728 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025624.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140728_0755.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140728,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025624.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140728 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025513.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140728_0655.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140728,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025513.mp3" length="4098174" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140728 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025447.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140728_0555.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140728,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025447.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140727 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025411.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140727_2150.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140727,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025411.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140727 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025329.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140727_1555.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140727,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025329.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140727 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025248.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140727_1250.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140727,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025248.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140727 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025016.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140727_0755.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140727,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025016.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140727 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140727_0655.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140727,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025005.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140727 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025001.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140727_0555.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140727,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025001.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140726 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024971.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140726_2150.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140726,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024971.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140726 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024886.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140726_1555.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140726,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024886.mp3" length="4795877" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140726 12:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024820.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140726_1250.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 10:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140726,12:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024820.mp3" length="7755486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140726 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024609.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140726_0755.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140726,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024609.mp3" length="4795917" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140726 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024601.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140726_0655.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140726,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024601.mp3" length="4795881" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140726 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024597.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140726_0555.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140726,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024597.mp3" length="4779576" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140725 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024556.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140725_2150.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140725,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024556.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140725 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024232.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140725_1555.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140725,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024232.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140725 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023920.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140725_1255.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140725,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023920.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140725 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023528.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140725_0755.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140725,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023528.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140725 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023424.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140725_0655.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140725,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023424.mp3" length="4098174" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140725 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023351.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140725_0555.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140725,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023351.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140724 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023308.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140724_2150.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140724,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023308.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140724 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022997.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140724_1555.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140724,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022997.mp3" length="4873199" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140724 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022718.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140724_1255.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140724,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022718.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140724 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022302.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140724_0755.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140724,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022302.mp3" length="4098183" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140724 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022203.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140724_0655.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140724,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022203.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140724 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022135.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140724_0555.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140724,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022135.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140723 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022086.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140723_2150.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140723,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022086.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140723 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021776.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140723_1555.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140723,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021776.mp3" length="4872363" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140723 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021476.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140723_1255.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140723,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021476.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140723 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021103.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140723_0755.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140723,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021103.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140723 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021000.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140723_0655.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140723,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021000.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140723 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020937.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140723_0555.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140723,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020937.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140722 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020880.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140722_2150.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140722,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020880.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140722 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020580.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140722_1555.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140722,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020580.mp3" length="4878633" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140722 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020317.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140722_1255.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140722,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020317.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140722 07:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019950.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140722_0755.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 05:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140722,07:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019950.mp3" length="4155603" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Landväder 20140722 06:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019846.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/landvader_20140722_0655.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 04:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLandväder,20140722,06:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019846.mp3" length="4155567" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140722 05:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019783.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140722_0555.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 03:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140722,05:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019783.mp3" length="4139263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140721 21:50</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019734.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140721_2150.mp3</guid>
+                    <pubDate>Mon, 21 Jul 2014 19:50:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140721,21:50</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019734.mp3" length="9595760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sjöväder 20140721 15:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019450.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sjovader_20140721_1555.mp3</guid>
+                    <pubDate>Mon, 21 Jul 2014 13:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderSjöväder,20140721,15:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019450.mp3" length="4815809" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Land- och sjöväder 20140721 12:55</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019164.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/land-_och_sjovader_20140721_1255.mp3</guid>
+                    <pubDate>Mon, 21 Jul 2014 10:55:00 GMT</pubDate>
+                    <programid>2000</programid>
+                    <poddid>7625</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>VäderLand-,och,sjöväder,20140721,12:55</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019164.mp3" length="4878673" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

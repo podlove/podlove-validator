@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="xar" name="podlove-matrix">
+    <property name="project.version" value="0.1"/>
+    <property name="project.app" value="podlove-matrix"/>
+    <property name="build.dir" value="build"/>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>
+
+    <target name="xar" depends="clean">
+        <mkdir dir="${build.dir}"/>
+        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.zip" >
+            <exclude  name="**/${build.dir}/**"/>
+            <exclude name="**/bower_components/**"/>
+            <exclude name="**/node_modules/**"/>
+        </zip>
+    </target>
+</project>

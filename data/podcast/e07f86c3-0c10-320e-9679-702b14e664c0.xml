@@ -1,0 +1,1352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine1.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Thu, 14 Aug 2014 23:37:25 GMT"/>
+        <httpclient:header name="Content-Length" value="66953"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:21:32 GMT"/>
+        <httpclient:header name="X-Varnish" value="2975496804 2928556848"/>
+        <httpclient:header name="Age" value="467588"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://alexosigge.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+                <title>Alex &amp; Sigges podcast</title>
+                <pubDate>Thu, 14 Aug 2014 23:36:55 +0000</pubDate>
+                <lastBuildDate>Thu, 14 Aug 2014 23:37:25 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://alexosigge.libsyn.com</link>
+                <language>sv</language>
+                <copyright>Alex Schulman &amp; Sigge Eklund</copyright>
+                <docs>http://alexosigge.libsyn.com</docs>
+                <managingEditor>alexochsigge@gmail.com (alexochsigge@gmail.com)</managingEditor>
+                <description>Alex Schulmans &amp; Sigge Eklunds podcast</description>
+                <image>
+                    <url>http://assets.libsyn.com/content/4601369.jpg</url>
+                    <title>Alex &amp; Sigges podcast</title>
+                    <link>http://alexosigge.libsyn.com</link>
+                </image>
+                <itunes:author>Alex Schulman &amp; Sigge Eklund</itunes:author>
+                <itunes:keywords>alex,eklund,eklunds,podcast,podradio,radio,schulman,schulmans,sigge,sigges</itunes:keywords>
+                <itunes:category text="Comedy"/>
+                <itunes:image href="http://assets.libsyn.com/content/4601369.jpg"/>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Alex Schulman &amp; Sigge Eklund</itunes:name>
+                    <itunes:email>alexochsigge@gmail.com</itunes:email>
+                </itunes:owner>
+                <itunes:summary>Alex Schulmans och Sigge Eklunds podcast som publiceras en gång i veckan.</itunes:summary>
+                <itunes:subtitle/>
+                <item>
+                    <title>116. En stund på jorden</title>
+                    <pubDate>Thu, 14 Aug 2014 23:36:55 +0000</pubDate>
+                    <guid isPermaLink="false">76ad60dad14618479fef778c9f178105</guid>
+                    <link>http://alexosigge.libsyn.com/116-en-stund-p-jorden</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7507510"/>
+                    <description/>
+                    <enclosure length="49839343" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt116.mp3"/>
+                    <itunes:duration>01:04:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>115. Skitsnacket</title>
+                    <pubDate>Fri, 08 Aug 2014 02:04:20 +0000</pubDate>
+                    <guid isPermaLink="false">5e87e7d6b3af7a65f2a43398da585bd4</guid>
+                    <link>http://alexosigge.libsyn.com/115-skitsnacket</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7485370"/>
+                    <description/>
+                    <enclosure length="47378749" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt115.mp3"/>
+                    <itunes:duration>01:14:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>114. Satans tecken</title>
+                    <pubDate>Fri, 01 Aug 2014 01:25:33 +0000</pubDate>
+                    <guid isPermaLink="false">eefcf0e628f0fc7d7886b3022f6bb436</guid>
+                    <link>http://alexosigge.libsyn.com/114-satans-tecken</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7460993"/>
+                    <description/>
+                    <enclosure length="40139009" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt114.mp3"/>
+                    <itunes:duration>01:01:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>113. Ungdom &amp; död</title>
+                    <pubDate>Fri, 25 Jul 2014 02:17:02 +0000</pubDate>
+                    <guid isPermaLink="false">6bb91fe8a8fa2d9a3fcbd8eeb3e7bc6c</guid>
+                    <link>http://alexosigge.libsyn.com/113-ungdom-d-d</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7428860"/>
+                    <description/>
+                    <enclosure length="40233040" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avznitt113.mp3"/>
+                    <itunes:duration>01:03:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>112. Eko</title>
+                    <pubDate>Fri, 18 Jul 2014 05:11:44 +0000</pubDate>
+                    <guid isPermaLink="false">73dfe2e1d36ddabecb1e8dc4fb984cf7</guid>
+                    <link>http://alexosigge.libsyn.com/112-eko</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2951115"/>
+                    <description/>
+                    <enclosure length="39359421" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt112.mp3"/>
+                    <itunes:duration>58:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>111. Känslostöld</title>
+                    <pubDate>Fri, 11 Jul 2014 02:55:08 +0000</pubDate>
+                    <guid isPermaLink="false">48e96d3aad90b8e8400317cfa2ddf784</guid>
+                    <link>http://alexosigge.libsyn.com/111-k-nslost-ld</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7373697"/>
+                    <description/>
+                    <enclosure length="45175393" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt111.mp3"/>
+                    <itunes:duration>55:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>110. Äntligen dans</title>
+                    <pubDate>Fri, 04 Jul 2014 02:59:14 +0000</pubDate>
+                    <guid isPermaLink="false">e801d54d3f6a8d5a8c7da8e7403bb870</guid>
+                    <link>http://alexosigge.libsyn.com/110-ntligen-dans</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7351486"/>
+                    <description/>
+                    <enclosure length="45638450" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt110.mp3"/>
+                    <itunes:duration>01:10:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>109. Elaka röster</title>
+                    <pubDate>Fri, 27 Jun 2014 06:17:12 +0000</pubDate>
+                    <guid isPermaLink="false">83d86f640e3b15c24424b5cafe9e241c</guid>
+                    <link>http://alexosigge.libsyn.com/109-elaka-r-ster</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7324653"/>
+                    <description/>
+                    <enclosure length="47254648" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt109.mp3"/>
+                    <itunes:duration>01:05:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>108. Segla hem bort</title>
+                    <pubDate>Thu, 19 Jun 2014 16:16:05 +0000</pubDate>
+                    <guid isPermaLink="false">8ba9ebd6680eba864fe2c0a5cac88ddf</guid>
+                    <link>http://alexosigge.libsyn.com/108-segla-hem-bort</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7299744"/>
+                    <description/>
+                    <enclosure length="45841130" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt108.mp3"/>
+                    <itunes:duration>01:09:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>107. Oöppnade brev</title>
+                    <pubDate>Fri, 13 Jun 2014 01:31:36 +0000</pubDate>
+                    <guid isPermaLink="false">d3637b68d3a43de8cdb87a3bf88bcf1b</guid>
+                    <link>http://alexosigge.libsyn.com/107-o-ppnade-brev</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7277769"/>
+                    <description/>
+                    <enclosure length="44009358" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt107.mp3"/>
+                    <itunes:duration>01:12:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>106. Berättarna</title>
+                    <pubDate>Fri, 06 Jun 2014 05:31:18 +0000</pubDate>
+                    <guid isPermaLink="false">6edad4c183d74409a19a2f66e84df312</guid>
+                    <link>http://alexosigge.libsyn.com/106-ber-ttarna</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7254795"/>
+                    <description/>
+                    <enclosure length="41272827" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt106.mp3"/>
+                    <itunes:duration>01:29:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>105. Kedjan</title>
+                    <pubDate>Fri, 30 May 2014 01:33:22 +0000</pubDate>
+                    <guid isPermaLink="false">838c3aff5f3563d61e422de2bd20b7ba</guid>
+                    <link>http://alexosigge.libsyn.com/105-kedjan</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7230025"/>
+                    <description/>
+                    <enclosure length="41369626" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt105.mp3"/>
+                    <itunes:duration>56:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>104. Anmärkningar</title>
+                    <pubDate>Fri, 23 May 2014 03:25:33 +0000</pubDate>
+                    <guid isPermaLink="false">418cd3923867a8245a3d7c8da037921f</guid>
+                    <link>http://alexosigge.libsyn.com/104-anm-rkningar</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7208026"/>
+                    <description/>
+                    <enclosure length="41880939" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt104.mp3"/>
+                    <itunes:duration>01:06:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>103. Basisterna</title>
+                    <pubDate>Fri, 16 May 2014 03:08:00 +0000</pubDate>
+                    <guid isPermaLink="false">a46ab19bac1580dbf9a3ea61b77c01b0</guid>
+                    <link>http://alexosigge.libsyn.com/103-basisterna</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7184102"/>
+                    <description/>
+                    <enclosure length="46849998" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt103.mp3"/>
+                    <itunes:duration>01:11:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>102. Vi och dom</title>
+                    <pubDate>Fri, 09 May 2014 01:31:59 +0000</pubDate>
+                    <guid isPermaLink="false">47bd9053ec951b19eb6869fb4ff7e140</guid>
+                    <link>http://alexosigge.libsyn.com/102-vi-och-dom</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7159903"/>
+                    <description/>
+                    <enclosure length="44743287" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt102.mp3"/>
+                    <itunes:duration>01:07:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>101. Femmänningen</title>
+                    <pubDate>Fri, 02 May 2014 02:56:42 +0000</pubDate>
+                    <guid isPermaLink="false">a64196b4a58d2c312a8bf651fceac21c</guid>
+                    <link>http://alexosigge.libsyn.com/101-femm-nningen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7136463"/>
+                    <description/>
+                    <enclosure length="48989394" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt101.mp3"/>
+                    <itunes:duration>01:15:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>100. 100-poddaren live</title>
+                    <pubDate>Fri, 25 Apr 2014 00:42:52 +0000</pubDate>
+                    <guid isPermaLink="false">2b11a29d58cd9690301f1427479524a9</guid>
+                    <link>http://alexosigge.libsyn.com/100-100-poddaren-live</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7109676"/>
+                    <description/>
+                    <enclosure length="48422210" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt100.mp3"/>
+                    <itunes:duration>01:04:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>99. Sova med fienden</title>
+                    <pubDate>Thu, 17 Apr 2014 23:40:47 +0000</pubDate>
+                    <guid isPermaLink="false">8c52d31d1e4d84debd33fe204260ac63</guid>
+                    <link>http://alexosigge.libsyn.com/99-sova-med-fienden</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7087749"/>
+                    <description/>
+                    <enclosure length="46913579" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt99.mp3"/>
+                    <itunes:duration>01:18:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>98. Slumpens poesi</title>
+                    <pubDate>Fri, 11 Apr 2014 03:08:02 +0000</pubDate>
+                    <guid isPermaLink="false">b3c83d4c96c5777060e7faf113724260</guid>
+                    <link>http://alexosigge.libsyn.com/98-slumpens-poesi</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7064768"/>
+                    <description/>
+                    <enclosure length="46644099" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt98.mp3"/>
+                    <itunes:duration>01:10:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>97. Sista spiken</title>
+                    <pubDate>Fri, 04 Apr 2014 01:08:07 +0000</pubDate>
+                    <guid isPermaLink="false">6792663f8ff24ae54f10446d3a5b5b5d</guid>
+                    <link>http://alexosigge.libsyn.com/97-sista-spiken</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7041101"/>
+                    <description/>
+                    <enclosure length="47430869" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt97.mp3"/>
+                    <itunes:duration>01:18:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>96. Är han skön eller?</title>
+                    <pubDate>Fri, 28 Mar 2014 02:46:02 +0000</pubDate>
+                    <guid isPermaLink="false">c6d95028754d2e2243c72d11c83ae59e</guid>
+                    <link>http://alexosigge.libsyn.com/96-r-han-sk-n-eller</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7016395"/>
+                    <description/>
+                    <enclosure length="44435412" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt96.mp3"/>
+                    <itunes:duration>54:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>95. Frankrikeresan</title>
+                    <pubDate>Fri, 21 Mar 2014 05:33:00 +0000</pubDate>
+                    <guid isPermaLink="false">f062946013558728b5b752497a2dd3eb</guid>
+                    <link>http://alexosigge.libsyn.com/95-frankrikeresan</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6990312"/>
+                    <description/>
+                    <enclosure length="36253074" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt95.mp3"/>
+                    <itunes:duration>01:00:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>94. Stora Alex</title>
+                    <pubDate>Fri, 14 Mar 2014 00:54:00 +0000</pubDate>
+                    <guid isPermaLink="false">89a20fbfe64dfa007890543d2bd9d7a0</guid>
+                    <link>http://alexosigge.libsyn.com/94-stora-alex</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6956426"/>
+                    <description/>
+                    <enclosure length="48797942" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt94.mp3"/>
+                    <itunes:duration>01:12:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>93. Galenskap</title>
+                    <pubDate>Fri, 07 Mar 2014 02:40:31 +0000</pubDate>
+                    <guid isPermaLink="false">50b2d2107bb1d52a070caddb9bc701e4</guid>
+                    <link>http://alexosigge.libsyn.com/93-galenskap</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6924725"/>
+                    <description/>
+                    <enclosure length="44686275" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt93.mp3"/>
+                    <itunes:duration>51:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>92. Lyckopodden</title>
+                    <pubDate>Fri, 28 Feb 2014 02:54:26 +0000</pubDate>
+                    <guid isPermaLink="false">5e307521afa0a9367bc9c654675ac0c2</guid>
+                    <link>http://alexosigge.libsyn.com/92-lyckopodden</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6895967"/>
+                    <description/>
+                    <enclosure length="42078724" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt92.mp3"/>
+                    <itunes:duration>01:01:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>91. Brott och straff</title>
+                    <pubDate>Fri, 21 Feb 2014 02:35:38 +0000</pubDate>
+                    <guid isPermaLink="false">2644543bbb097c1ea2cd8ae24495ac48</guid>
+                    <link>http://alexosigge.libsyn.com/91-brott-och-straff</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6867192"/>
+                    <description/>
+                    <enclosure length="49775804" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt91.mp3"/>
+                    <itunes:duration>01:06:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>90. Mörkrets hjärta</title>
+                    <pubDate>Fri, 14 Feb 2014 01:51:22 +0000</pubDate>
+                    <guid isPermaLink="false">0caf7b2c5652074947393baae1645773</guid>
+                    <link>http://alexosigge.libsyn.com/90-m-rkrets-hj-rta</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6832064"/>
+                    <description/>
+                    <enclosure length="48247456" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt90.mp3"/>
+                    <itunes:duration>01:09:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>89. Hotfull baklänges</title>
+                    <pubDate>Thu, 06 Feb 2014 23:36:45 +0000</pubDate>
+                    <guid isPermaLink="false">e329963b217dd8368a368e69ffedcf4e</guid>
+                    <link>http://alexosigge.libsyn.com/89-hotfull-bakl-nges</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6794911"/>
+                    <description/>
+                    <enclosure length="46868172" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt89.mp3"/>
+                    <itunes:duration>58:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>88. Farligt</title>
+                    <pubDate>Fri, 31 Jan 2014 05:03:00 +0000</pubDate>
+                    <guid isPermaLink="false">5acbebc9ec80c8fc5f8dcfb037dfc0cb</guid>
+                    <link>http://alexosigge.libsyn.com/88-farligt</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6761154"/>
+                    <description/>
+                    <enclosure length="44827517" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt88.mp3"/>
+                    <itunes:duration>01:10:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>87. Naken, betraktad</title>
+                    <pubDate>Fri, 24 Jan 2014 01:47:14 +0000</pubDate>
+                    <guid isPermaLink="false">a37511eb4ede48dc4ce06e68bc0cc9a5</guid>
+                    <link>http://alexosigge.libsyn.com/87-naken-betraktad</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6722386"/>
+                    <description/>
+                    <enclosure length="45656943" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt87.mp3"/>
+                    <itunes:duration>57:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>86. Allt är borta</title>
+                    <pubDate>Fri, 17 Jan 2014 04:00:55 +0000</pubDate>
+                    <guid isPermaLink="false">fc0274dbaa3e336a855618c89e90ecfa</guid>
+                    <link>http://alexosigge.libsyn.com/86-allt-r-borta</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6686261"/>
+                    <description/>
+                    <enclosure length="45071647" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt86.mp3"/>
+                    <itunes:duration>01:05:31</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>85. Svartsjuka</title>
+                    <pubDate>Fri, 10 Jan 2014 03:24:16 +0000</pubDate>
+                    <guid isPermaLink="false">ea7066a7ebbcdee087887957204429e7</guid>
+                    <link>http://alexosigge.libsyn.com/85-svartsjuka</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6650993"/>
+                    <description/>
+                    <enclosure length="45880344" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt85.mp3"/>
+                    <itunes:duration>01:01:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>84. Viskleken</title>
+                    <pubDate>Fri, 03 Jan 2014 01:47:28 +0000</pubDate>
+                    <guid isPermaLink="false">7d94ba396c7fb1abb390937f2ac85393</guid>
+                    <link>http://alexosigge.libsyn.com/84-viskleken</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6611979"/>
+                    <description/>
+                    <enclosure length="46850848" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt84.mp3"/>
+                    <itunes:duration>01:01:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>83. Svarta hål</title>
+                    <pubDate>Fri, 27 Dec 2013 01:42:50 +0000</pubDate>
+                    <guid isPermaLink="false">fcdf44820ab3ab4a13aded6d4eaacb9c</guid>
+                    <link>http://alexosigge.libsyn.com/83-svarta-h-l</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6587153"/>
+                    <description/>
+                    <enclosure length="42677993" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt83.mp3"/>
+                    <itunes:duration>48:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>82. God jul</title>
+                    <pubDate>Fri, 20 Dec 2013 03:28:46 +0000</pubDate>
+                    <guid isPermaLink="false">b779d06d989b0f055ddb041c56ce4b9e</guid>
+                    <link>http://alexosigge.libsyn.com/82-god-jul</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6562904"/>
+                    <description/>
+                    <enclosure length="49537371" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt82.mp3"/>
+                    <itunes:duration>01:02:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>81. Skandal!</title>
+                    <pubDate>Fri, 13 Dec 2013 04:09:29 +0000</pubDate>
+                    <guid isPermaLink="false">8afb2f0ad0df5a90f554545176b99e43</guid>
+                    <link>http://alexosigge.libsyn.com/81-skandal</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6533947"/>
+                    <description/>
+                    <enclosure length="49687277" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt81.mp3"/>
+                    <itunes:duration>01:04:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>80. Överhettad</title>
+                    <pubDate>Fri, 06 Dec 2013 03:33:13 +0000</pubDate>
+                    <guid isPermaLink="false">b17402661f7c01c142c6597c718584c7</guid>
+                    <link>http://alexosigge.libsyn.com/80-verhettad</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6502594"/>
+                    <description/>
+                    <enclosure length="43363312" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt80.mp3"/>
+                    <itunes:duration>57:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>79. Måste krossa</title>
+                    <pubDate>Fri, 29 Nov 2013 02:59:26 +0000</pubDate>
+                    <guid isPermaLink="false">2a9339b3d4149f5e888a444dc0834055</guid>
+                    <link>http://alexosigge.libsyn.com/79-m-ste-krossa</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6473256"/>
+                    <description/>
+                    <enclosure length="47147643" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt79.mp3"/>
+                    <itunes:duration>01:02:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>78. Johannes</title>
+                    <pubDate>Fri, 22 Nov 2013 04:08:39 +0000</pubDate>
+                    <guid isPermaLink="false">fdd0634cd059b1083cad78d277d2675d</guid>
+                    <link>http://alexosigge.libsyn.com/78-johannes</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6441854"/>
+                    <description/>
+                    <enclosure length="46836041" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt78.mp3"/>
+                    <itunes:duration>01:11:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>77. Fisk?</title>
+                    <pubDate>Fri, 15 Nov 2013 02:57:52 +0000</pubDate>
+                    <guid isPermaLink="false">b73f39c3b62502e2e7edb126ff5a86e4</guid>
+                    <link>http://alexosigge.libsyn.com/77-fisk</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6412103"/>
+                    <description/>
+                    <enclosure length="44117546" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt77.mp3"/>
+                    <itunes:duration>01:07:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>76. Knuffen</title>
+                    <pubDate>Fri, 08 Nov 2013 00:29:00 +0000</pubDate>
+                    <guid isPermaLink="false">79dfe7eb77bce3e6b3ab232f9a3ec382</guid>
+                    <link>http://alexosigge.libsyn.com/76-knuffen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6381957"/>
+                    <description/>
+                    <enclosure length="25538136" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt76_c.mp3"/>
+                    <itunes:duration>39:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>75. Tillbaka hem</title>
+                    <pubDate>Fri, 01 Nov 2013 05:56:38 +0000</pubDate>
+                    <guid isPermaLink="false">163c86db394b33f646add5756bf1e875</guid>
+                    <link>http://alexosigge.libsyn.com/75-tillbaka-hem</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6353230"/>
+                    <description/>
+                    <enclosure length="50665923" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt75.mp3"/>
+                    <itunes:duration>01:05:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>74. Älskling</title>
+                    <pubDate>Fri, 25 Oct 2013 00:50:04 +0000</pubDate>
+                    <guid isPermaLink="false">3ba657cfd52a2e7a11a4020e347fdcf3</guid>
+                    <link>http://alexosigge.libsyn.com/74-lskling</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6321180"/>
+                    <description/>
+                    <enclosure length="47852324" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt74.mp3"/>
+                    <itunes:duration>47:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>73. Sandras sinnen</title>
+                    <pubDate>Fri, 18 Oct 2013 03:52:40 +0000</pubDate>
+                    <guid isPermaLink="false">5a25ebafc401c58326750ba2fa9017a4</guid>
+                    <link>http://alexosigge.libsyn.com/73-sandras-sinnen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6285722"/>
+                    <description/>
+                    <enclosure length="39605389" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/alexosigge73.mp3"/>
+                    <itunes:duration>01:00:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>72. Kaninhålet</title>
+                    <pubDate>Thu, 10 Oct 2013 23:26:41 +0000</pubDate>
+                    <guid isPermaLink="false">b8eedf3c59423d7572ef7d3cc7b602ff</guid>
+                    <link>http://alexosigge.libsyn.com/72-kaninh-let</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6256239"/>
+                    <description/>
+                    <enclosure length="46456127" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt72.mp3"/>
+                    <itunes:duration>49:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>71. Drifting</title>
+                    <pubDate>Fri, 04 Oct 2013 01:42:18 +0000</pubDate>
+                    <guid isPermaLink="false">5b4163ec467024e82595021f67c87025</guid>
+                    <link>http://alexosigge.libsyn.com/71-drifting</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6226799"/>
+                    <description/>
+                    <enclosure length="45020381" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt71.mp3"/>
+                    <itunes:duration>01:09:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>70. Juanita</title>
+                    <pubDate>Fri, 27 Sep 2013 03:21:25 +0000</pubDate>
+                    <guid isPermaLink="false">0ffd08007f72b8c9d908a2ac7b7c1d41</guid>
+                    <link>http://alexosigge.libsyn.com/70-juanita</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6196541"/>
+                    <description/>
+                    <enclosure length="40615397" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt70.mp3"/>
+                    <itunes:duration>42:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>69. Off the record</title>
+                    <pubDate>Thu, 19 Sep 2013 22:24:42 +0000</pubDate>
+                    <guid isPermaLink="false">a353c2a370969e87531e76eff0e3c8f6</guid>
+                    <link>http://alexosigge.libsyn.com/69-off-the-record</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6164139"/>
+                    <description/>
+                    <enclosure length="45602475" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt69.mp3"/>
+                    <itunes:duration>56:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>68. Ostkupan</title>
+                    <pubDate>Thu, 12 Sep 2013 22:17:17 +0000</pubDate>
+                    <guid isPermaLink="false">427211f85812cae22dcceda636f74a2d</guid>
+                    <link>http://alexosigge.libsyn.com/68-ostkupan</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6130145"/>
+                    <description/>
+                    <enclosure length="46879661" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt68.mp3"/>
+                    <itunes:duration>01:00:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>67. Oordning</title>
+                    <pubDate>Fri, 06 Sep 2013 02:15:57 +0000</pubDate>
+                    <guid isPermaLink="false">917b8fb20e98b0f32dad5bd98e6f23f8</guid>
+                    <link>http://alexosigge.libsyn.com/67-oordning</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6099134"/>
+                    <description/>
+                    <enclosure length="31079423" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt67.mp3"/>
+                    <itunes:duration>48:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>66. Sockrad &amp; smutsig</title>
+                    <pubDate>Thu, 29 Aug 2013 23:30:59 +0000</pubDate>
+                    <guid isPermaLink="false">ddd1afb8a57093095a7686b4ffdf18a7</guid>
+                    <link>http://alexosigge.libsyn.com/66-sockrad-smutsig</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6068350"/>
+                    <description/>
+                    <enclosure length="35360231" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt66.mp3"/>
+                    <itunes:duration>55:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>65. Världarna rulla</title>
+                    <pubDate>Fri, 23 Aug 2013 02:28:26 +0000</pubDate>
+                    <guid isPermaLink="false">30ced602936764ef9fa46f3b512a2ad9</guid>
+                    <link>http://alexosigge.libsyn.com/65-v-rldarna-rulla</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6035634"/>
+                    <description/>
+                    <enclosure length="36287887" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt65.mp3"/>
+                    <itunes:duration>56:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>64. Lajv och död</title>
+                    <pubDate>Fri, 16 Aug 2013 02:59:00 +0000</pubDate>
+                    <guid isPermaLink="false">d00c46238810b5ad53ff7bdf071ccedb</guid>
+                    <link>http://alexosigge.libsyn.com/64-lajv-och-d-d</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6001506"/>
+                    <description/>
+                    <enclosure length="33544726" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt64.mp3"/>
+                    <itunes:duration>01:05:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>63. Eller hur eller?</title>
+                    <pubDate>Thu, 08 Aug 2013 22:07:16 +0000</pubDate>
+                    <guid isPermaLink="false">426dec4990d63b66b8663abd3ade8dea</guid>
+                    <link>http://alexosigge.libsyn.com/63-eller-hur-eller</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5957023"/>
+                    <description/>
+                    <enclosure length="42001757" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt63.mp3"/>
+                    <itunes:duration>01:06:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>62. Ljus i natten</title>
+                    <pubDate>Thu, 01 Aug 2013 22:25:42 +0000</pubDate>
+                    <guid isPermaLink="false">0726f8061f4bd0e290116f791f0faaa3</guid>
+                    <link>http://alexosigge.libsyn.com/62-ljus-i-natten</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5925913"/>
+                    <description/>
+                    <enclosure length="41548491" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt62.mp3"/>
+                    <itunes:duration>01:02:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>61. Vänner i kris</title>
+                    <pubDate>Thu, 25 Jul 2013 22:53:58 +0000</pubDate>
+                    <guid isPermaLink="false">ef4001c6c19e80a488f710e699739b0a</guid>
+                    <link>http://alexosigge.libsyn.com/61-v-nner-i-kris</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5903363"/>
+                    <description/>
+                    <enclosure length="39396590" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt61.mp3"/>
+                    <itunes:duration>01:01:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>60. Feministen Barbie</title>
+                    <pubDate>Thu, 18 Jul 2013 23:38:20 +0000</pubDate>
+                    <guid isPermaLink="false">df1db182ba3d12f5da5bcfbf685554c5</guid>
+                    <link>http://alexosigge.libsyn.com/60-feministen-barbie</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5881381"/>
+                    <description/>
+                    <enclosure length="40601512" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt60.mp3"/>
+                    <itunes:duration>01:02:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>59. Bög-ön</title>
+                    <pubDate>Thu, 11 Jul 2013 22:50:36 +0000</pubDate>
+                    <guid isPermaLink="false">24b46be833f839fb0b0bfee5f3dd5bd6</guid>
+                    <link>http://alexosigge.libsyn.com/59-b-g-n</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5859299"/>
+                    <description/>
+                    <enclosure length="44159809" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt59.mp3"/>
+                    <itunes:duration>01:10:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>58. Omringade</title>
+                    <pubDate>Thu, 04 Jul 2013 23:10:58 +0000</pubDate>
+                    <guid isPermaLink="false">0610bdaafcbb511bf5ab85d3536a60b1</guid>
+                    <link>http://alexosigge.libsyn.com/58-omringade</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5838420"/>
+                    <description/>
+                    <enclosure length="39751772" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt58.mp3"/>
+                    <itunes:duration>01:01:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>57. Kronjuvelen</title>
+                    <pubDate>Fri, 28 Jun 2013 03:38:51 +0000</pubDate>
+                    <guid isPermaLink="false">001232e1bf5c7286dfb22862580ca7fc</guid>
+                    <link>http://alexosigge.libsyn.com/57-kronjuvelen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5818678"/>
+                    <description/>
+                    <enclosure length="30478529" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt57.mp3"/>
+                    <itunes:duration>00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>56. Helvetets portar</title>
+                    <pubDate>Thu, 20 Jun 2013 23:52:58 +0000</pubDate>
+                    <guid isPermaLink="false">813422b2c030ec7b494411bba2d53100</guid>
+                    <link>http://alexosigge.libsyn.com/56-helvetets-portar</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5794111"/>
+                    <description/>
+                    <enclosure length="35814906" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt56.mp3"/>
+                    <itunes:duration>54:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>55. Bortom orden</title>
+                    <pubDate>Thu, 13 Jun 2013 23:12:45 +0000</pubDate>
+                    <guid isPermaLink="false">5973f778fb3a70506225b3af7c22d639</guid>
+                    <link>http://alexosigge.libsyn.com/55-bortom-orden</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5770346"/>
+                    <description/>
+                    <enclosure length="33350086" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt55.mp3"/>
+                    <itunes:duration>51:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>54. Studentsorg</title>
+                    <pubDate>Thu, 06 Jun 2013 22:47:31 +0000</pubDate>
+                    <guid isPermaLink="false">96a768efd90c7a5ebdf1bd28c6895554</guid>
+                    <link>http://alexosigge.libsyn.com/54-studentsorg</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5750047"/>
+                    <description/>
+                    <enclosure length="32791050" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnit54.mp3"/>
+                    <itunes:duration>52:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>53. It's so fresh</title>
+                    <pubDate>Fri, 31 May 2013 01:07:52 +0000</pubDate>
+                    <guid isPermaLink="false">df9ecb21263ea13aa70f95f15439ef6b</guid>
+                    <link>http://alexosigge.libsyn.com/53-it-s-so-fresh</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2342226"/>
+                    <description/>
+                    <enclosure length="28861987" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt53.mp3"/>
+                    <itunes:duration>42:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>52. Podden 1 år</title>
+                    <pubDate>Fri, 24 May 2013 00:53:58 +0000</pubDate>
+                    <guid isPermaLink="false">06053dbdc460fab5ffcc4d60032d471f</guid>
+                    <link>http://alexosigge.libsyn.com/52-podden-1-r</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5709777"/>
+                    <description/>
+                    <enclosure length="47642766" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt52.mp3"/>
+                    <itunes:duration>01:15:26</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>51. Otrohet</title>
+                    <pubDate>Fri, 17 May 2013 00:26:01 +0000</pubDate>
+                    <guid isPermaLink="false">196884e2aa788a4e03ac4f669ec9d561</guid>
+                    <link>http://alexosigge.libsyn.com/51-otrohet</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5689334"/>
+                    <description/>
+                    <enclosure length="42523421" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt51.mp3"/>
+                    <itunes:duration>57:23</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>50. No need to argue</title>
+                    <pubDate>Thu, 09 May 2013 23:29:10 +0000</pubDate>
+                    <guid isPermaLink="false">bfe2ec57a238c11c177703b2fc1aa694</guid>
+                    <link>http://alexosigge.libsyn.com/50-no-need-to-argue</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5668982"/>
+                    <description/>
+                    <enclosure length="45705734" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt50_itunes.mp3"/>
+                    <itunes:duration>01:02:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>49. Kysst på torget</title>
+                    <pubDate>Thu, 02 May 2013 23:18:46 +0000</pubDate>
+                    <guid isPermaLink="false">7025c10047528cc872ad3f4b682f85c4</guid>
+                    <link>http://alexosigge.libsyn.com/49-kysst-p-torget</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5648128"/>
+                    <description/>
+                    <enclosure length="41632635" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt49.mp3"/>
+                    <itunes:duration>01:01:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>48. Beskjuten</title>
+                    <pubDate>Thu, 25 Apr 2013 23:33:37 +0000</pubDate>
+                    <guid isPermaLink="false">d26387fa1dce449b1265838042ba97cd</guid>
+                    <link>http://alexosigge.libsyn.com/48-beskjuten</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5626168"/>
+                    <description/>
+                    <enclosure length="31574434" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt48.mp3"/>
+                    <itunes:duration>48:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>47. Visst är vi kära?</title>
+                    <pubDate>Thu, 18 Apr 2013 22:57:00 +0000</pubDate>
+                    <guid isPermaLink="false">a7835087a3efce10b16230c099f998a4</guid>
+                    <link>http://alexosigge.libsyn.com/47-visst-r-vi-k-ra</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5605316"/>
+                    <description/>
+                    <enclosure length="36875693" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt47_c.mp3"/>
+                    <itunes:duration>48:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>46. Brinnande lejon</title>
+                    <pubDate>Thu, 11 Apr 2013 22:49:30 +0000</pubDate>
+                    <guid isPermaLink="false">f10390f543a0fcfe610f2ec9bd71eb75</guid>
+                    <link>http://alexosigge.libsyn.com/46-brinnande-lejon</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5581112"/>
+                    <description/>
+                    <enclosure length="34670989" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt46.mp3"/>
+                    <itunes:duration>52:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>45. Messias 2013</title>
+                    <pubDate>Thu, 04 Apr 2013 23:45:41 +0000</pubDate>
+                    <guid isPermaLink="false">1b4901b3de18f69165705caa52e6c8a2</guid>
+                    <link>http://alexosigge.libsyn.com/45-messias-2013</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5560160"/>
+                    <description/>
+                    <enclosure length="26720269" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt45.mp3"/>
+                    <itunes:duration>50:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>44. Nassim!</title>
+                    <pubDate>Thu, 28 Mar 2013 14:40:09 +0000</pubDate>
+                    <guid isPermaLink="false">b925dd00cca16fcf89d69001c5c30f7d</guid>
+                    <link>http://alexosigge.libsyn.com/44-nassim</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5537103"/>
+                    <description/>
+                    <enclosure length="37272981" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt44.mp3"/>
+                    <itunes:duration>57:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>43. Nytt liv</title>
+                    <pubDate>Thu, 21 Mar 2013 22:20:59 +0000</pubDate>
+                    <guid isPermaLink="false">16418d383e37ca2a7b5897fa1d5b9949</guid>
+                    <link>http://alexosigge.libsyn.com/43-nytt-liv</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5512977"/>
+                    <description/>
+                    <enclosure length="37756498" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosvsnitt43.mp3"/>
+                    <itunes:duration>58:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>42. Uppbrott</title>
+                    <pubDate>Thu, 14 Mar 2013 23:03:39 +0000</pubDate>
+                    <guid isPermaLink="false">88901be081a7cfec13add7e5702ce4be</guid>
+                    <link>http://alexosigge.libsyn.com/42-uppbrott</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5490646"/>
+                    <description/>
+                    <enclosure length="32678355" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt42.mp3"/>
+                    <itunes:duration>49:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>41. Sänkt IQ</title>
+                    <pubDate>Fri, 08 Mar 2013 01:23:52 +0000</pubDate>
+                    <guid isPermaLink="false">9dd573fef0992bb0797086b41c3bbd84</guid>
+                    <link>http://alexosigge.libsyn.com/41-s-nkt-iq</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5468727"/>
+                    <description/>
+                    <enclosure length="27767119" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt41.mp3"/>
+                    <itunes:duration>42:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>40. Spädgrisen</title>
+                    <pubDate>Fri, 01 Mar 2013 02:15:41 +0000</pubDate>
+                    <guid isPermaLink="false">5c8ee008ceff1bcf1e07b43f60dcd47f</guid>
+                    <link>http://alexosigge.libsyn.com/40-sp-dgrisen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5444725"/>
+                    <description/>
+                    <enclosure length="30197261" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt40.mp3"/>
+                    <itunes:duration>43:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>39. Corleone</title>
+                    <pubDate>Thu, 21 Feb 2013 23:19:44 +0000</pubDate>
+                    <guid isPermaLink="false">7e861840456c7d857ffd4ac0030c5509</guid>
+                    <link>http://alexosigge.libsyn.com/39-corleone</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5421163"/>
+                    <description/>
+                    <enclosure length="40877440" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt39.mp3"/>
+                    <itunes:duration>55:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>38. Maskeraden</title>
+                    <pubDate>Fri, 15 Feb 2013 01:39:58 +0000</pubDate>
+                    <guid isPermaLink="false">731251a858899f1ca525184e056dd573</guid>
+                    <link>http://alexosigge.libsyn.com/38-maskeraden</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5402302"/>
+                    <description/>
+                    <enclosure length="44453163" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt38.mp3"/>
+                    <itunes:duration>01:09:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>37. The Loonies</title>
+                    <pubDate>Thu, 07 Feb 2013 22:21:57 +0000</pubDate>
+                    <guid isPermaLink="false">254f2171d7f4cbc07c8842ecd8c382dc</guid>
+                    <link>http://alexosigge.libsyn.com/37-the-loonies</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5382428"/>
+                    <description/>
+                    <enclosure length="31211507" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt37.mp3"/>
+                    <itunes:duration>49:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>36. Klaustrofobisk</title>
+                    <pubDate>Thu, 31 Jan 2013 17:54:33 +0000</pubDate>
+                    <guid isPermaLink="false">05a9acf71ad455a4e0ab9826affb0cd4</guid>
+                    <link>http://alexosigge.libsyn.com/36-klaustrofobisk</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5359856"/>
+                    <description/>
+                    <enclosure length="38234883" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt36.mp3"/>
+                    <itunes:duration>01:01:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>35. Livsfiender</title>
+                    <pubDate>Fri, 25 Jan 2013 00:31:32 +0000</pubDate>
+                    <guid isPermaLink="false">9575478cef389cc74e907e32b89e870c</guid>
+                    <link>http://alexosigge.libsyn.com/35-livsfiender</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5341257"/>
+                    <description/>
+                    <enclosure length="45692722" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt35.mp3"/>
+                    <itunes:duration>01:28:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>34. "Jaharå!"</title>
+                    <pubDate>Fri, 18 Jan 2013 05:55:53 +0000</pubDate>
+                    <guid isPermaLink="false">eb7d521bba5e9cd917c5b4a2d768b29e</guid>
+                    <link>http://alexosigge.libsyn.com/34-jahar</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5322801"/>
+                    <description/>
+                    <enclosure length="30648027" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt34.mp3"/>
+                    <itunes:duration>47:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>33. "En död hund"</title>
+                    <pubDate>Thu, 10 Jan 2013 22:58:07 +0000</pubDate>
+                    <guid isPermaLink="false">58d9c0bcb72efd5fed9f40b876746764</guid>
+                    <link>http://alexosigge.libsyn.com/33-en-d-d-hund</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5302135"/>
+                    <description/>
+                    <enclosure length="39197486" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt33.mp3"/>
+                    <itunes:duration>01:01:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>32. "Mot Sauron"</title>
+                    <pubDate>Fri, 04 Jan 2013 00:57:25 +0000</pubDate>
+                    <guid isPermaLink="false">7a93936082670e314ea0a15ab263967e</guid>
+                    <link>http://alexosigge.libsyn.com/32-mot-sauron</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5284659"/>
+                    <description/>
+                    <enclosure length="35543996" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt32.mp3"/>
+                    <itunes:duration>58:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>31. "Lilla jävla apekatt"</title>
+                    <pubDate>Thu, 27 Dec 2012 23:32:46 +0000</pubDate>
+                    <guid isPermaLink="false">a07dbf00275ec326f1470e897fbd9746</guid>
+                    <link>http://alexosigge.libsyn.com/31-lilla-j-vla-apekatt</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5259638"/>
+                    <description/>
+                    <enclosure length="27583437" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt31.mp3"/>
+                    <itunes:duration>45:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>30. "Stalker"</title>
+                    <pubDate>Thu, 20 Dec 2012 21:18:36 +0000</pubDate>
+                    <guid isPermaLink="false">a69ae225b4020a9f63c065004ba6c3ce</guid>
+                    <link>http://alexosigge.libsyn.com/30-stalker</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5247336"/>
+                    <description/>
+                    <enclosure length="27003485" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt30.mp3"/>
+                    <itunes:duration>43:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>29. "Jul-tyrannerna"</title>
+                    <pubDate>Thu, 13 Dec 2012 18:40:54 +0000</pubDate>
+                    <guid isPermaLink="false">17b2e2f8d5420b2c53dd5db1381ce527</guid>
+                    <link>http://alexosigge.libsyn.com/29-jul-tyrannerna</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5229001"/>
+                    <description/>
+                    <enclosure length="34365029" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt29.mp3"/>
+                    <itunes:duration>56:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>28. "Köpt och ledsen"</title>
+                    <pubDate>Thu, 06 Dec 2012 17:25:35 +0000</pubDate>
+                    <guid isPermaLink="false">2dbc538b8b1fac79b05f51f55e2fa8a4</guid>
+                    <link>http://alexosigge.libsyn.com/28-k-pt-och-ledsen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5206819"/>
+                    <description/>
+                    <enclosure length="41640994" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt28.mp3"/>
+                    <itunes:duration>01:07:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>27. "Glaset &amp; koppen"</title>
+                    <pubDate>Fri, 30 Nov 2012 00:20:24 +0000</pubDate>
+                    <guid isPermaLink="false">d13652203d92b8932f6d743c1800fc83</guid>
+                    <link>http://alexosigge.libsyn.com/27-glaset-koppen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5188233"/>
+                    <description/>
+                    <enclosure length="28232787" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt27.mp3"/>
+                    <itunes:duration>43:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>26. "Öronknips"</title>
+                    <pubDate>Fri, 23 Nov 2012 01:00:25 +0000</pubDate>
+                    <guid isPermaLink="false">bbfbd0431733d5de2e18bcaf1f7a1617</guid>
+                    <link>http://alexosigge.libsyn.com/26-ronknips</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5169368"/>
+                    <description/>
+                    <enclosure length="31097789" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt26.mp3"/>
+                    <itunes:duration>48:50</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>25. "Dilemmat"</title>
+                    <pubDate>Thu, 15 Nov 2012 21:35:00 +0000</pubDate>
+                    <guid isPermaLink="false">885cb93c4d939a1b4ec354a4787e7720</guid>
+                    <link>http://alexosigge.libsyn.com/25-dilemmat</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5145201"/>
+                    <description/>
+                    <enclosure length="34233939" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt25.mp3"/>
+                    <itunes:duration>53:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>24. "Frågepoddare"</title>
+                    <pubDate>Sat, 10 Nov 2012 19:07:59 +0000</pubDate>
+                    <guid isPermaLink="false">909223e2acc3a5eff4e987ecd0fd759f</guid>
+                    <link>http://alexosigge.libsyn.com/24-fr-gepoddare</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5128234"/>
+                    <description/>
+                    <enclosure length="30471367" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt24_2.mp3"/>
+                    <itunes:duration>42:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>23. "Förlossningen"</title>
+                    <pubDate>Wed, 31 Oct 2012 01:19:48 +0000</pubDate>
+                    <guid isPermaLink="false">91e155e465f4b703305d509b0bfbbc2c</guid>
+                    <link>http://alexosigge.libsyn.com/23-f-rlossningen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5095948"/>
+                    <description/>
+                    <enclosure length="38414865" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt23.mp3"/>
+                    <itunes:duration>01:14:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>22. "Ödet"</title>
+                    <pubDate>Mon, 22 Oct 2012 23:06:27 +0000</pubDate>
+                    <guid isPermaLink="false">9d28774619e093afcf92dcb407fd0e09</guid>
+                    <link>http://alexosigge.libsyn.com/22-det</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5070273"/>
+                    <description/>
+                    <enclosure length="43162877" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt22.mp3"/>
+                    <itunes:duration>01:07:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>21. "Den inre resan"</title>
+                    <pubDate>Wed, 17 Oct 2012 01:31:09 +0000</pubDate>
+                    <guid isPermaLink="false">811e3b524fadc9817562e3eb4da2991c</guid>
+                    <link>http://alexosigge.libsyn.com/21-den-inre-resan</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5053288"/>
+                    <description/>
+                    <enclosure length="35778945" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/avsnitt21.mp3"/>
+                    <itunes:duration>54:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>20. "Jag vaknade skamsen"</title>
+                    <pubDate>Wed, 10 Oct 2012 01:14:41 +0000</pubDate>
+                    <guid isPermaLink="false">c8f637bcb72956b2ce3094c6771867af</guid>
+                    <link>http://alexosigge.libsyn.com/20-jag-vaknade-skamsen</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5030783"/>
+                    <description/>
+                    <enclosure length="35335599" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt20.mp3"/>
+                    <itunes:duration>55:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>19. "Lukta finkel"</title>
+                    <pubDate>Tue, 02 Oct 2012 23:39:32 +0000</pubDate>
+                    <guid isPermaLink="false">347b6068a1cb8a79d8c02bcb7726393f</guid>
+                    <link>http://alexosigge.libsyn.com/19-lukta-finkel</link>
+                    <itunes:image href="http://assets.libsyn.com/content/5009191"/>
+                    <description/>
+                    <enclosure length="27607244" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt19.mp3"/>
+                    <itunes:duration>46:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>18. "Du är Samuel"</title>
+                    <pubDate>Wed, 26 Sep 2012 02:57:32 +0000</pubDate>
+                    <guid isPermaLink="false">034049816486cc8aae23b5c139a0235b</guid>
+                    <link>http://alexosigge.libsyn.com/18-du-r-samuel</link>
+                    <itunes:image href="http://assets.libsyn.com/content/4986995"/>
+                    <description/>
+                    <enclosure length="39838112" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt18.mp3"/>
+                    <itunes:duration>01:04:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>17. "We're back for you"</title>
+                    <pubDate>Wed, 19 Sep 2012 04:10:20 +0000</pubDate>
+                    <guid isPermaLink="false">629b74854586fc1181e31b9d07fa99c5</guid>
+                    <link>http://alexosigge.libsyn.com/17-we-re-back-for-you</link>
+                    <itunes:image href="http://assets.libsyn.com/content/4961403"/>
+                    <description/>
+                    <enclosure length="29145394" type="audio/mpeg" url="http://traffic.libsyn.com/alexosigge/aosavsnitt17.mp3"/>
+                    <itunes:duration>46:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

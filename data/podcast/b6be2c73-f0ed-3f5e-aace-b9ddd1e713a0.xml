@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:46:51 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:45:51 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=121aiahxadftcwonig2rontx; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:45:51 GMT"/>
+        <httpclient:header name="Content-Length" value="82103"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/8210</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/8210" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:45:51 GMT</lastBuildDate>
+                <image>
+                    <title>Sveriges Radio i Almedalen</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=3227</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/3227/2880808_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Alla partiledarutfrågningar, talen med kommentarer och analys, gäster på Sveriges Radio-scenen, valda seminarier och mycket mer av det Sveriges Radio sänder från Almedalsveckan.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Sveriges Radio i Almedalen</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Sveriges Radio i Almedalen</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=3227</link>
+                <description>Alla partiledarutfrågningar, talen med kommentarer och analys, gäster på Sveriges Radio-scenen, valda seminarier och mycket mer av det Sveriges Radio sänder från Almedalsveckan.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Ekot i Almedalen 20140706 19:03</title>
+                    <description>Tal i Almedalen av Annie Lööf, partiledare Centerpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5004845.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140706_1903.mp3</guid>
+                    <pubDate>Sun, 06 Jul 2014 17:03:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Annie Lööf, partiledare Centerpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenEkot,i,Almedalen,20140706,19:03</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5004845.mp3" length="54796527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annie Lööfs tal i Almedalen</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5004767.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20140706_1200_311eb95.mp3</guid>
+                    <pubDate>Sun, 06 Jul 2014 10:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAnnie,Lööfs,tal,i,Almedalen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5004767.mp3" length="45687228" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jan Björklunds tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Jan Björklund, partiledare Folkpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske chef Fredrik Furtenbach.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5004404.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140705_1903.mp3</guid>
+                    <pubDate>Sat, 05 Jul 2014 17:03:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Jan Björklund, partiledare Folkpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske chef Fredrik Furtenbach.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJan,Björklunds,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5004404.mp3" length="54795693" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jonas Sjöstedts tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Jonas Sjöstedt, partiledare Vänsterpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5003913.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140704_1900.mp3</guid>
+                    <pubDate>Fri, 04 Jul 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Jonas Sjöstedt, partiledare Vänsterpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJonas,Sjöstedts,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5003913.mp3" length="57751090" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fredrik Reinfeldts tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Fredrik Reinfeldt, partiledare Moderaterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5002638.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140703_1900.mp3</guid>
+                    <pubDate>Thu, 03 Jul 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Fredrik Reinfeldt, partiledare Moderaterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFredrik,Reinfeldts,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5002638.mp3" length="57756106" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Åsa Romsons tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Åsa Romson, språkrör Miljöpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5001337.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140702_1900.mp3</guid>
+                    <pubDate>Wed, 02 Jul 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Åsa Romson, språkrör Miljöpartiet. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenÅsa,Romsons,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5001337.mp3" length="57756088" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jimmie Åkessons tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Jimmie Åkesson, partiledare Sverigedemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5000023.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140701_1900.mp3</guid>
+                    <pubDate>Tue, 01 Jul 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Jimmie Åkesson, partiledare Sverigedemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJimmie,Åkessons,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5000023.mp3" length="57769909" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göran Hägglunds tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Göran Hägglund, partiledare Kristdemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4998765.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140630_1900.mp3</guid>
+                    <pubDate>Mon, 30 Jun 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Göran Hägglund, partiledare Kristdemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGöran,Hägglunds,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4998765.mp3" length="57756112" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stefan Löfvens tal i Almedalen 2014</title>
+                    <description>Tal i Almedalen av Stefan Löfven, partiledare Socialdemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4997539.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekot_i_almedalen_20140629_1900.mp3</guid>
+                    <pubDate>Sun, 29 Jun 2014 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tal i Almedalen av Stefan Löfven, partiledare Socialdemokraterna. Efterföljande analys av bland andra Ekots inrikespolitiske kommentator Tomas Ramberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenStefan,Löfvens,tal,i,Almedalen,2014</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4997539.mp3" length="57751096" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stefan Löfvens tal i Almedalen 2013</title>
+                    <description>Hela Stefan Löfvens tal i Almedalen 2013 med efterföljande analys av Ekots inrikespolitiske kommentator Tomas Ramberg, Jonas Magnusson (S) och statsvetaren Stigbjörn Ljunggren. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617884.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130707_1100_2a052fc.mp3</guid>
+                    <pubDate>Sun, 07 Jul 2013 09:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Hela Stefan Löfvens tal i Almedalen 2013 med efterföljande analys av Ekots inrikespolitiske kommentator Tomas Ramberg, Jonas Magnusson (S) och statsvetaren Stigbjörn Ljunggren. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenStefan,Löfvens,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617884.mp3" length="55694871" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 7 juli</title>
+                    <description>Ekots inrikespolitiske kommentator ger sin analys av Stefan Löfven i Alltid nyheter. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617815.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130707_1000_2454237.mp3</guid>
+                    <pubDate>Sun, 07 Jul 2013 08:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Ekots inrikespolitiske kommentator ger sin analys av Stefan Löfven i Alltid nyheter. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,7,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617815.mp3" length="9421586" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Almedalen 2013: Stefan Löfvens presskonferens</title>
+                    <description>Partiledaren Stefan Löfven (S) håller presskonferens i Almedalen i Visby.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617772.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130707_0900_2208355.mp3</guid>
+                    <pubDate>Sun, 07 Jul 2013 07:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Partiledaren Stefan Löfven (S) håller presskonferens i Almedalen i Visby.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAlmedalen,2013:,Stefan,Löfvens,presskonferens</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617772.mp3" length="18127202" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annie Lööf (C) håller tal i Almedalen 2013</title>
+                    <description>Hela Annie Lööfs tal från Almedalen 2013 med efterföljande analys av Ekots inrikespolitiske kommentator Tomas Ramberg, statsvetaren Jonas Hindfors och Lina Landström från CUF. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617530.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130706_1500_3762cc4.mp3</guid>
+                    <pubDate>Sat, 06 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Hela Annie Lööfs tal från Almedalen 2013 med efterföljande analys av Ekots inrikespolitiske kommentator Tomas Ramberg, statsvetaren Jonas Hindfors och Lina Landström från CUF. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAnnie,Lööf,(C),håller,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617530.mp3" length="51706299" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 6 juli</title>
+                    <description>Ekots inrikespolitiske kommentator inför Annie Lööfs tal i Almedalen 2013. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617494.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130706_1400_32cf46f.mp3</guid>
+                    <pubDate>Sat, 06 Jul 2013 12:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Ekots inrikespolitiske kommentator inför Annie Lööfs tal i Almedalen 2013. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,6,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617494.mp3" length="8329021" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jan Björklunds tal i Almedalen 2013</title>
+                    <description>Hela Jan Björklunds tal i Almedalen 2013 med efterföljande analys av Tomas Ramberg, Ekots inrikespolitiske expert, Tove Henriksson (FP) och Nils Lindström, sociala medier-korrespondent. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617106.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_1900_44fe49e.mp3</guid>
+                    <pubDate>Fri, 05 Jul 2013 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Hela Jan Björklunds tal i Almedalen 2013 med efterföljande analys av Tomas Ramberg, Ekots inrikespolitiske expert, Tove Henriksson (FP) och Nils Lindström, sociala medier-korrespondent. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJan,Björklunds,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617106.mp3" length="50823993" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 5 juli</title>
+                    <description>Ekots inrikespolitiske kommentator inför Jan Björklunds tal i Almedalen 2013. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4617067.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_1800_3f50d50.mp3</guid>
+                    <pubDate>Fri, 05 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Ekots inrikespolitiske kommentator inför Jan Björklunds tal i Almedalen 2013. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,5,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4617067.mp3" length="12052625" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Almedalen 2013: Jan Björklunds presskonferens</title>
+                    <description>Folkpariets partiledare träffar pressen i Almedalen i Visby.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616301.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_1100_26e35f1.mp3</guid>
+                    <pubDate>Fri, 05 Jul 2013 09:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Folkpariets partiledare träffar pressen i Almedalen i Visby.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAlmedalen,2013:,Jan,Björklunds,presskonferens</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616301.mp3" length="14214242" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Almedalen 2013: Integritet på Facebook och Google</title>
+                    <description>Debatt i Alltid nyheter med David Mothander från Google, Thomas Myrup Kristensen från Facebook och Eva Melin från Computer Sweden. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616638.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_0900_3289ca8.mp3</guid>
+                    <pubDate>Fri, 05 Jul 2013 07:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Debatt i Alltid nyheter med David Mothander från Google, Thomas Myrup Kristensen från Facebook och Eva Melin från Computer Sweden. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAlmedalen,2013:,Integritet,på,Facebook,och,Google</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616638.mp3" length="15032392" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Jan Björklund</title>
+                    <description>Folkpartiets partiledare Jan Björklund frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616069.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_0000_1def0b0.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Folkpartiets partiledare Jan Björklund frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Jan,Björklund</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616069.mp3" length="14583796" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Stefan Löfven</title>
+                    <description>Folkpartiets partiledare Jan Björklund frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616091.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130705_0000_1f14b75.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Folkpartiets partiledare Jan Björklund frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Stefan,Löfven</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616091.mp3" length="12947486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jonas Sjöstedts tal i Almedalen 2013</title>
+                    <description>Vänsterpartiets partiledare Jonas Sjöstedt talar i Almedalen 2013 med efterföljande analys och kommentarer från Ekots inrikespolitiske kommentator Tomas Ramberg, Jonathan Wassberg från Vänsterpartiet och sociala medier-korrespondenten Nils Lindström. Programledare: Linda Thulin</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4615737.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_1900_44e33ea.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Vänsterpartiets partiledare Jonas Sjöstedt talar i Almedalen 2013 med efterföljande analys och kommentarer från Ekots inrikespolitiske kommentator Tomas Ramberg, Jonathan Wassberg från Vänsterpartiet och sociala medier-korrespondenten Nils Lindström. Programledare: Linda Thulin</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJonas,Sjöstedts,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4615737.mp3" length="49291885" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 4 juli</title>
+                    <description>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om Vänsterpartiets dag i Almedalen, torsdag 4 juli.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4615707.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_1800_402cfdc.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om Vänsterpartiets dag i Almedalen, torsdag 4 juli.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,4,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4615707.mp3" length="12642360" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Från makten till människors vardag – seminarium om nätverksjournalistik</title>
+                    <description>Så flyttas perspektiven när Sveriges Radios lokala kanaler utnyttjar publiknätverk i journalistiken. Över 4 300 lyssnare har gått med i radions publiknätverk runtom i landet - och deras röster och idéer förändrar innehållet i radion. För två år sedan startade det första nätverket av radiolyssnare i Jämtland. Nu har ett tiotal av Sveriges Radios redaktioner publiknätverk och fler är på gång. Och när SR Metropol 93,8 satte fokus på vardagsrasism med satsningen Hur känns det? kom över 500 berättelser från människor som själva utsatts för vardagsrasism in till redaktionen, via nätverk i bland annat sociala medier. När många lyssnare bidrar aktivt med sina berättelser, tips och synpunkter påverkas innehåller i radions nyheter och program. Perspektiven förändras, från makthavarnas och experternas syn på vad som är viktigt till frågor som ligger nära människors vardag. Hör diskussionen om hur publiken kan förändra journalistiken. Medverkande: Björn Löfdahl, Sveriges Radios programdirektör, Ca</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4615722.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_1800_4206325.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Så flyttas perspektiven när Sveriges Radios lokala kanaler utnyttjar publiknätverk i journalistiken. Över 4 300 lyssnare har gått med i radions publiknätverk runtom i landet - och deras röster och idéer förändrar innehållet i radion. För två år sedan startade det första nätverket av radiolyssnare i Jämtland. Nu har ett tiotal av Sveriges Radios redaktioner publiknätverk och fler är på gång. Och när SR Metropol 93,8 satte fokus på vardagsrasism med satsningen Hur känns det? kom över 500 berättelser från människor som själva utsatts för vardagsrasism in till redaktionen, via nätverk i bland annat sociala medier. När många lyssnare bidrar aktivt med sina berättelser, tips och synpunkter påverkas innehåller i radions nyheter och program. Perspektiven förändras, från makthavarnas och experternas syn på vad som är viktigt till frågor som ligger nära människors vardag. Hör diskussionen om hur publiken kan förändra journalistiken. Medverkande: Björn Löfdahl, Sveriges Radios programdirektör, Ca</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFrån,makten,till,människors,vardag,–,seminarium,om,nätverksjournalistik</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4615722.mp3" length="29257271" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Almedalen 2013: Väkteri med Carl Bildt (M)</title>
+                    <description>Utrikesminister Carl Bildt besöker Alltid nyheter och besvarar frågor från publiken på plats och sociala medier. Medverkande även Nils Lindström, sociala medier-korrespondent och programledaren Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4615123.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_1200_2db9080.mp3</guid>
+                    <pubDate>Thu, 04 Jul 2013 10:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Utrikesminister Carl Bildt besöker Alltid nyheter och besvarar frågor från publiken på plats och sociala medier. Medverkande även Nils Lindström, sociala medier-korrespondent och programledaren Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAlmedalen,2013:,Väkteri,med,Carl,Bildt,(M)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4615123.mp3" length="44314279" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vänsterpartiets presskonferens, Almedalen 2013</title>
+                    <description>Vänsterpartiets partiledare Jonas Sjöstedt håller presskonferens i Almedalen 2013.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616183.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_0000_23a5ab5.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Vänsterpartiets partiledare Jonas Sjöstedt håller presskonferens i Almedalen 2013.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenVänsterpartiets,presskonferens,,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616183.mp3" length="14498082" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Jonas Sjöstedt</title>
+                    <description>Vänsterpartiets partiledare Jonas Sjöstedt frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614821.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_0000_21f35e0.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Vänsterpartiets partiledare Jonas Sjöstedt frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Jonas,Sjöstedt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614821.mp3" length="11576548" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Annie Lööf</title>
+                    <description>Centerpartiets partiledare Annie Lööf frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614826.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130704_0000_2203907.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Centerpartiets partiledare Annie Lööf frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Annie,Lööf</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614826.mp3" length="9147393" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fredrik Reinfeldts tal i Almedalen 2013</title>
+                    <description>Hela Fredrik Reinfeldts tal från Almedalen 2013 samt kommentarer från Ekots inrikespolitiske expert Tomas Ramberg och Stephanie Linander från MUF. Programledare: Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614377.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_1900_4507707.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Hela Fredrik Reinfeldts tal från Almedalen 2013 samt kommentarer från Ekots inrikespolitiske expert Tomas Ramberg och Stephanie Linander från MUF. Programledare: Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFredrik,Reinfeldts,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614377.mp3" length="45970999" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kulturminister Lena Adelsohn Liljeroth intervjuas på SR-scenen i Almedalen</title>
+                    <description>Kulturminister Lena Adelsohn Liljeroth intervjuas av Helena Groll på Sveriges Radios scen i Almedalen 3 juli 2013 om aktuella, politiska mediefrågor. Dessutom svarar hon på publikens frågor om kulturpolitik.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614308.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_1800_3e95726.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kulturminister Lena Adelsohn Liljeroth intervjuas av Helena Groll på Sveriges Radios scen i Almedalen 3 juli 2013 om aktuella, politiska mediefrågor. Dessutom svarar hon på publikens frågor om kulturpolitik.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenKulturminister,Lena,Adelsohn,Liljeroth,intervjuas,på,SR-scenen,i,Almedalen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614308.mp3" length="22711704" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 3 juli</title>
+                    <description>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om Moderaternas dag i Almedalen, onsdag 3 juli.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614319.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_1800_3f0d2a5.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om Moderaternas dag i Almedalen, onsdag 3 juli.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,3,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614319.mp3" length="9622596" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Seminarium i Almedalen: Vad vill politikerna med medierna? Och vem ska betala?</title>
+                    <description>Onsdag 3 juli arrangerade Sveriges Radio ett seminarium med Kulturutskottet i Almedalen om de heta, politiska mediefrågorna som bland annat aktualiserats i och med den nya public service-propositionen: Radio- och tv-avgiftens vara eller icke vara, förslaget om en övergång till marksänd digitalradio, presstödet och public service oberoende.  I panelen: Gunilla Carlsson (S), Gustaf Hoffstedt (M), Tina Ehn (MP) Ulf Nilsson (FP), Per Lodenius (C), Andreas Carlson (KD), Lars Ohly (V) Moderator: Staffan Dopping</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614102.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_1500_381d2d0.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 13:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Onsdag 3 juli arrangerade Sveriges Radio ett seminarium med Kulturutskottet i Almedalen om de heta, politiska mediefrågorna som bland annat aktualiserats i och med den nya public service-propositionen: Radio- och tv-avgiftens vara eller icke vara, förslaget om en övergång till marksänd digitalradio, presstödet och public service oberoende.  I panelen: Gunilla Carlsson (S), Gustaf Hoffstedt (M), Tina Ehn (MP) Ulf Nilsson (FP), Per Lodenius (C), Andreas Carlson (KD), Lars Ohly (V) Moderator: Staffan Dopping</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenSeminarium,i,Almedalen:,Vad,vill,politikerna,med,medierna?,Och,vem,ska,betala?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614102.mp3" length="57101164" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Moderaternas presskonferens, Almedalen 2013</title>
+                    <description>Moderaternas Fredrik Reinfeldt håller presskonferens i Almedalen 2013. Följs av analys av Ekots inrikeschef Fredrik Furtenbach och kommentarer från sociala medier med Alltid Nyheters Yasmine El-Rafie. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4613895.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_1200_322dd80.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 10:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Moderaternas Fredrik Reinfeldt håller presskonferens i Almedalen 2013. Följs av analys av Ekots inrikeschef Fredrik Furtenbach och kommentarer från sociala medier med Alltid Nyheters Yasmine El-Rafie. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenModeraternas,presskonferens,,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4613895.mp3" length="37550909" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Almedalen 2013: Ny antologi om tillväxt</title>
+                    <description>Pär Holmgren och Bo Österberg (C) om nya antologin Att svära i kyrkan - tjugofyra röster om evig tillväxt på en ändlig planet. Programledare: Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4616571.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_0900_3098158.mp3</guid>
+                    <pubDate>Wed, 03 Jul 2013 07:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Pär Holmgren och Bo Österberg (C) om nya antologin Att svära i kyrkan - tjugofyra röster om evig tillväxt på en ändlig planet. Programledare: Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAlmedalen,2013:,Ny,antologi,om,tillväxt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4616571.mp3" length="10505868" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Presskonferens: Socialdemokraterna kommenterar Moderaternas jobbförslag</title>
+                    <description>Socialdemokraternas Mikael Damberg kommenterar moderaternas jobbförslag som Fredrik Reinfeldt presenterat tidigare på dagen. Kommentar: Fredrik Furtenbach. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614033.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_0000_36b93fa.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Socialdemokraternas Mikael Damberg kommenterar moderaternas jobbförslag som Fredrik Reinfeldt presenterat tidigare på dagen. Kommentar: Fredrik Furtenbach. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPresskonferens:,Socialdemokraterna,kommenterar,Moderaternas,jobbförslag</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614033.mp3" length="9894098" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Fredrik Reinfeldt</title>
+                    <description>Moderaternas partiledare Fredrik Reinfeldt frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4613349.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130703_0000_1eca706.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Moderaternas partiledare Fredrik Reinfeldt frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Fredrik,Reinfeldt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4613349.mp3" length="13922796" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gustav Fridolin (MP) talar i Almedalen 2013</title>
+                    <description>Miljöpartiets Gustav Fridolin håller sitt tal i Almedalen 2013, därefter kommentar med Ekots inrikespolitiske kommentator Tomas Ramberg, och inspel från sociala medier  med Nils Lindström. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4612993.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_1800_4527361.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Miljöpartiets Gustav Fridolin håller sitt tal i Almedalen 2013, därefter kommentar med Ekots inrikespolitiske kommentator Tomas Ramberg, och inspel från sociala medier  med Nils Lindström. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGustav,Fridolin,(MP),talar,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4612993.mp3" length="45424400" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Seminarium: SR:s grävande reportrar om Saudivapen och Den fastspända flickan</title>
+                    <description>Sveriges Radios grävgrupp arbetar uteslutande med undersökande journalistik. Satsningen har lett till flera av de senaste årens största avslöjanden. Tisdag 2 juli fick Almedalenbesökarna veta mer om hur arbetet med två uppmärksammade reportage bedrivits. Bo Göran Bodin och Daniel Öhman har blivit mångfaldigt prisbelönta för sin granskning av Saudiaffären. I Almedalen avslöjade de det som inte hördes i radio - turerna bakom kulisserna. Möt också grävreportern bakom dokumentären Nora - den fastspända flickan, som lett till en omvälvande debatt om psykiatrin och ungdomsvården. Nora våldtogs av polischef Göran Lindberg och förvägrades sedan terapeutisk vård. Ekots Daniel Velasco följde Nora under tre år. Moderator: Tomas Ramberg</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4612934.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_1800_3dccf55.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Sveriges Radios grävgrupp arbetar uteslutande med undersökande journalistik. Satsningen har lett till flera av de senaste årens största avslöjanden. Tisdag 2 juli fick Almedalenbesökarna veta mer om hur arbetet med två uppmärksammade reportage bedrivits. Bo Göran Bodin och Daniel Öhman har blivit mångfaldigt prisbelönta för sin granskning av Saudiaffären. I Almedalen avslöjade de det som inte hördes i radio - turerna bakom kulisserna. Möt också grävreportern bakom dokumentären Nora - den fastspända flickan, som lett till en omvälvande debatt om psykiatrin och ungdomsvården. Nora våldtogs av polischef Göran Lindberg och förvägrades sedan terapeutisk vård. Ekots Daniel Velasco följde Nora under tre år. Moderator: Tomas Ramberg</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenSeminarium:,SR:s,grävande,reportrar,om,Saudivapen,och,Den,fastspända,flickan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4612934.mp3" length="84711574" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vinna eller försvinna - seminarie i Almedalen 2 juli 2013 om mediernas framtid</title>
+                    <description>Den brittiske medieforskaren Charlie Beckett gästar Sveriges Radio i Almedalen och föreläser om framtidens journalistikutveckling och mediekonsumtion. Därefter en paneldiskussion med Sveriges Radios vd Cilla Benkö, Sydsvenskans politiska chefredaktör Heidi Avellan och Aftonbladets chefredaktör Jan Helin. Moderator: Staffan Sonning, SR.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4612496.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_1300_305cdb8.mp3</guid>
+                    <pubDate>Tue, 02 Jul 2013 11:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Den brittiske medieforskaren Charlie Beckett gästar Sveriges Radio i Almedalen och föreläser om framtidens journalistikutveckling och mediekonsumtion. Därefter en paneldiskussion med Sveriges Radios vd Cilla Benkö, Sydsvenskans politiska chefredaktör Heidi Avellan och Aftonbladets chefredaktör Jan Helin. Moderator: Staffan Sonning, SR.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenVinna,eller,försvinna,-,seminarie,i,Almedalen,2,juli,2013,om,mediernas,framtid</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4612496.mp3" length="80325974" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Miljöpartiets presskonferens, Almedalen 2013</title>
+                    <description>Miljöpartiets Gustav Fridolin håller presskonferens i Almedalen 2013. Kommentar: Fredrik Furtenbach. Programledare: Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4613286.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_0000_1c11416.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Miljöpartiets Gustav Fridolin håller presskonferens i Almedalen 2013. Kommentar: Fredrik Furtenbach. Programledare: Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenMiljöpartiets,presskonferens,,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4613286.mp3" length="41098349" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg 2 juli</title>
+                    <description>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om dagen i Almedalen, tisdag 2 juli.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4612963.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_0000_408b537.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Tomas Ramberg, inrikespolitisk kommentator på Ekot, om dagen i Almedalen, tisdag 2 juli.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,2,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4612963.mp3" length="8310183" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Gustav Fridolin</title>
+                    <description>Miljöpartiets språkrör Gustav Fridolin frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4612370.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130702_0000_2b38c1d.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Miljöpartiets språkrör Gustav Fridolin frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Gustav,Fridolin</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4612370.mp3" length="14645240" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jimmy Åkessons tal i Almedalen 2013</title>
+                    <description>Sverigedemokraternas Jimmie Åkesson talar i Almedalen. Följs av samtal på Sveriges Radios scen med Yasmine El-Rafie, sociala medier och Ekots inrikespolitiske kommentator Tomas Ramberg, intervjuas av programledare Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4611675.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_1900_45dc8db.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Sverigedemokraternas Jimmie Åkesson talar i Almedalen. Följs av samtal på Sveriges Radios scen med Yasmine El-Rafie, sociala medier och Ekots inrikespolitiske kommentator Tomas Ramberg, intervjuas av programledare Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJimmy,Åkessons,tal,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4611675.mp3" length="46292505" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Charlie Beckett intervjuas i Studio Ett i Almedalen</title>
+                    <description>Den brittiske medieforskaren Charlie Beckett, professor vid London School of Economics intervjuas i Studio Ett i P1 på Sveriges Radios scen i Almedalen om medieutvecklingen, av programledare Helena Groll. Därefter publikfrågor till Charlie Beckett, under ledning av Sveriges Radios Staffan Sonning.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4611585.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_1800_3d801e9.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Den brittiske medieforskaren Charlie Beckett, professor vid London School of Economics intervjuas i Studio Ett i P1 på Sveriges Radios scen i Almedalen om medieutvecklingen, av programledare Helena Groll. Därefter publikfrågor till Charlie Beckett, under ledning av Sveriges Radios Staffan Sonning.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenCharlie,Beckett,intervjuas,i,Studio,Ett,i,Almedalen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4611585.mp3" length="24095703" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg - 1 juli</title>
+                    <description>Ekots inrikespolitiske kommentator Tomas Ramberg ger sina tankar för dagen, Sverigedemokraternas dag under Almedalsveckan 2013. Programledare Daniel Klaar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4611649.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_1800_40d7572.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Ekots inrikespolitiske kommentator Tomas Ramberg ger sina tankar för dagen, Sverigedemokraternas dag under Almedalsveckan 2013. Programledare Daniel Klaar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,-,1,juli</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4611649.mp3" length="20976574" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Göran Hägglund</title>
+                    <description>Kristdemokraternas partiledare Göran Hägglund frågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610722.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_0900_1ea714e.mp3</guid>
+                    <pubDate>Mon, 01 Jul 2013 07:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kristdemokraternas partiledare Göran Hägglund frågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Göran,Hägglund</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610722.mp3" length="6688981" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Partiledarutfrågning i P1-morgon: Jimmie Åkesson</title>
+                    <description>Kristdemokraternas partiledare Jimmie Åkessonfrågas ut av P1-morgons programledare Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610750.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_0000_1ffe736.mp3</guid>
+                    <pubDate>Sun, 30 Jun 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kristdemokraternas partiledare Jimmie Åkessonfrågas ut av P1-morgons programledare Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPartiledarutfrågning,i,P1-morgon:,Jimmie,Åkesson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610750.mp3" length="14353514" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Presskonferens: Jimmie Åkesson (SD) Almedalen 2013</title>
+                    <description>Sverigesdemokraternas partiledare Jimmie Åkesson håller presskonferens undr partiets dag i Almedalen 2013. Kommentar: Fredrik Furtenbach. Programledare: Kajsa Norell.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610848.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130701_0000_23af2a7.mp3</guid>
+                    <pubDate>Sun, 30 Jun 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Sverigesdemokraternas partiledare Jimmie Åkesson håller presskonferens undr partiets dag i Almedalen 2013. Kommentar: Fredrik Furtenbach. Programledare: Kajsa Norell.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPresskonferens:,Jimmie,Åkesson,(SD),Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610848.mp3" length="17272253" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göran Hägglund (KD) talar i Almedalen 2013</title>
+                    <description>Kristdemokraternas Göran Hägglund talar i Almedalen. Följs av samtal på Sveriges Radios scen med Mimmi Westerlund KDU:s styrelse på Gotland, Yasmine El-Rafie, sociala medier och Ekots inrikespolitiske kommentator Tomas Ramberg, intervjuas av programledare Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610373.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130630_1800_4566ca5.mp3</guid>
+                    <pubDate>Sun, 30 Jun 2013 16:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kristdemokraternas Göran Hägglund talar i Almedalen. Följs av samtal på Sveriges Radios scen med Mimmi Westerlund KDU:s styrelse på Gotland, Yasmine El-Rafie, sociala medier och Ekots inrikespolitiske kommentator Tomas Ramberg, intervjuas av programledare Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGöran,Hägglund,(KD),talar,i,Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610373.mp3" length="49209123" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I huvudet på Tomas Ramberg - 30 juni</title>
+                    <description>Ekots inrikespolitiske kommentator Tomas Ramberg ger sina tankar för dagen, första söndagen under Almedalsveckan 2013. Programledare Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610354.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130630_0000_410d88e.mp3</guid>
+                    <pubDate>Sat, 29 Jun 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Ekots inrikespolitiske kommentator Tomas Ramberg ger sina tankar för dagen, första söndagen under Almedalsveckan 2013. Programledare Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenI,huvudet,på,Tomas,Ramberg,-,30,juni</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610354.mp3" length="10964345" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Presskonferens: Göran Hägglund (KD) Almedalen 2013</title>
+                    <description>Klipp ur Kristdemokraternas partiledare Göran Hägglund presskonferens. Kommentar: Katarina Helmerson. Programledar: Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4610849.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/almedalen_parti_20130630_0000_23e78dc.mp3</guid>
+                    <pubDate>Sat, 29 Jun 2013 22:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Klipp ur Kristdemokraternas partiledare Göran Hägglund presskonferens. Kommentar: Katarina Helmerson. Programledar: Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPresskonferens:,Göran,Hägglund,(KD),Almedalen,2013</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4610849.mp3" length="5933783" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göran Hägglunds tal i Almedalen 2012</title>
+                    <description>Kristdemokraternas dag i Almedalen 2012 -  Göran Hägglunds tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4027239.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120708_a62b.mp3</guid>
+                    <pubDate>Sun, 08 Jul 2012 09:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kristdemokraternas dag i Almedalen 2012 -  Göran Hägglunds tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGöran,Hägglunds,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4027239.mp3" length="28625289" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stefan Löfvens tal i Almedalen 2012</title>
+                    <description>Socialdemokraternas dag i Almedalen 2012 -Stefan Löfvens tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4026610.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120707_df04.mp3</guid>
+                    <pubDate>Sat, 07 Jul 2012 13:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Socialdemokraternas dag i Almedalen 2012 -Stefan Löfvens tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenStefan,Löfvens,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4026610.mp3" length="30208098" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annie Lööfs tal i Almedalen 2012</title>
+                    <description>Centerpartiets dag i Almedalen 2012 - Annie Lööfs tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4025857.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120706_11bae.mp3</guid>
+                    <pubDate>Fri, 06 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Centerpartiets dag i Almedalen 2012 - Annie Lööfs tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenAnnie,Lööfs,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4025857.mp3" length="39004047" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jan Björklunds tal i Almedalen 2012</title>
+                    <description>Folkpartiets dag i Almedalen 2012 - Jan Björklunds tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4023894.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120705_11f95.mp3</guid>
+                    <pubDate>Thu, 05 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Folkpartiets dag i Almedalen 2012 - Jan Björklunds tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJan,Björklunds,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4023894.mp3" length="39287552" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jonas Sjöstedts tal i Almedalen 2012</title>
+                    <description>Vänsterpartiets dag i Almedalen 2012 - Jonas Sjöstedts tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4021808.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120704_11934.mp3</guid>
+                    <pubDate>Wed, 04 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Vänsterpartiets dag i Almedalen 2012 - Jonas Sjöstedts tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJonas,Sjöstedts,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4021808.mp3" length="33160562" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fredrik Reinfeldts tal Almedalen 2012</title>
+                    <description>Moderaternas dag i Almedalen 2012 -Statsminister Fredrik Reinfeldts tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4019677.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120703_117e5.mp3</guid>
+                    <pubDate>Tue, 03 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Moderaternas dag i Almedalen 2012 -Statsminister Fredrik Reinfeldts tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFredrik,Reinfeldts,tal,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4019677.mp3" length="33673362" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Åsa Romsons tal i Almedalen 2012</title>
+                    <description>Miljöpartiets dag i Almedalen 2012 - Åsa Romsons tal</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4017673.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120702_11aa5.mp3</guid>
+                    <pubDate>Mon, 02 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Miljöpartiets dag i Almedalen 2012 - Åsa Romsons tal</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenÅsa,Romsons,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4017673.mp3" length="31921331" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jimmie Åkessons tal i Almedalen 2012</title>
+                    <description>Sverigedemokraternas dag i Almedalen 2012 - Jimmie Åkessons tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4015578.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_120701_11870.mp3</guid>
+                    <pubDate>Sun, 01 Jul 2012 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Sverigedemokraternas dag i Almedalen 2012 - Jimmie Åkessons tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJimmie,Åkessons,tal,i,Almedalen,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4015578.mp3" length="36682256" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jimmie Åkessons tal i Almedalen 2011</title>
+                    <description>På söndagen höll Sverigedemokraternas partiledare Jimmie Åkesson sitt första tal från stora scenen i Almedalen. 2011-07-10.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3262183.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110710_aa08.mp3</guid>
+                    <pubDate>Sun, 10 Jul 2011 09:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>På söndagen höll Sverigedemokraternas partiledare Jimmie Åkesson sitt första tal från stora scenen i Almedalen. 2011-07-10.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJimmie,Åkessons,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3262183.mp3" length="48954365" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göran Hägglunds tal i Almedalen 2011</title>
+                    <description>Kristdemokraternas partiledare Göran Hägglund höll på lördagskvällen sitt tal på stora scenen i Almedalen. 2011-07-09</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3259776.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110709_11895.mp3</guid>
+                    <pubDate>Sat, 09 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Kristdemokraternas partiledare Göran Hägglund höll på lördagskvällen sitt tal på stora scenen i Almedalen. 2011-07-09</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGöran,Hägglunds,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3259776.mp3" length="31892847" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Håkan Juholts tal i Almedalen 2011</title>
+                    <description>Socialdemokraternas partiledare Håkan Juholt höll sitt första tal från stora scenen i Almedalen på fredagskvällen. 2011-07-08</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3258259.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110708_11a32.mp3</guid>
+                    <pubDate>Fri, 08 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Socialdemokraternas partiledare Håkan Juholt höll sitt första tal från stora scenen i Almedalen på fredagskvällen. 2011-07-08</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenHåkan,Juholts,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3258259.mp3" length="47221925" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Maud Olofssons tal i Almedalen 2011</title>
+                    <description>Centerpartiets dag i Almedalen 2011 - Maud Olofssons tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3254523.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110707_116cd.mp3</guid>
+                    <pubDate>Thu, 07 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Centerpartiets dag i Almedalen 2011 - Maud Olofssons tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenMaud,Olofssons,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3254523.mp3" length="38406621" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jan Björklunds tal i Almedalen 2011</title>
+                    <description>Folkpartiets dag i Almedalen 2011 - Jan Björklunds tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3251308.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110706_11580.mp3</guid>
+                    <pubDate>Wed, 06 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Folkpartiets dag i Almedalen 2011 - Jan Björklunds tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJan,Björklunds,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3251308.mp3" length="35113516" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lars Ohlys tal i Almedalen 2011</title>
+                    <description>Vänsterpartiets dag i Almedalen 2011 - Lars Ohlys tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3249065.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110705_11746.mp3</guid>
+                    <pubDate>Tue, 05 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Vänsterpartiets dag i Almedalen 2011 - Lars Ohlys tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenLars,Ohlys,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3249065.mp3" length="37484594" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fredrik Reinfeldts tal i Almedalen 2011</title>
+                    <description>Moderaternas dag i Almedalen 2011 - Fredrik Reinfeldts tal.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3246040.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110704_11442.mp3</guid>
+                    <pubDate>Mon, 04 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Moderaternas dag i Almedalen 2011 - Fredrik Reinfeldts tal.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFredrik,Reinfeldts,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3246040.mp3" length="24545009" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Miljöpartiets tal i Almedalen 2011</title>
+                    <description>Miljöpartiets tal i Almedalen 2011 - Talet med språkrören Gustav Fridolin och Åsa Romson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3243447.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_110703_118d4.mp3</guid>
+                    <pubDate>Sun, 03 Jul 2011 17:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Miljöpartiets tal i Almedalen 2011 - Talet med språkrören Gustav Fridolin och Åsa Romson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenMiljöpartiets,tal,i,Almedalen,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3243447.mp3" length="45074741" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fredrik Reinfeldts tal i Almedalen 20090704</title>
+                    <description>Fredrik Reinfeldts tal i Almedalen. Sveriges Radio sänder på webben.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1833117.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090704010011.mp3</guid>
+                    <pubDate>Sat, 04 Jul 2009 11:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Fredrik Reinfeldts tal i Almedalen. Sveriges Radio sänder på webben.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenFredrik,Reinfeldts,tal,i,Almedalen,20090704</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1833117.mp3" length="27842978" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Peter Erikssons  tal i Almedalen 20090703</title>
+                    <description>Peter Erikssons tal i Almedalen. Sveriges Radio sänder på webben.    </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1832491.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090703090026.mp3</guid>
+                    <pubDate>Fri, 03 Jul 2009 19:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Peter Erikssons tal i Almedalen. Sveriges Radio sänder på webben.    </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenPeter,Erikssons,,tal,i,Almedalen,20090703</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1832491.mp3" length="21508702" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Göran Hägglund tal i  Almedalen 20090702</title>
+                    <description>Göran Hägglund  tal i Almedalen. Sveriges Radio sänder på webben. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1832122.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090703043024.mp3</guid>
+                    <pubDate>Thu, 02 Jul 2009 19:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Göran Hägglund  tal i Almedalen. Sveriges Radio sänder på webben. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenGöran,Hägglund,tal,i,,Almedalen,20090702</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1832122.mp3" length="28790282" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mona Sahlins tal i Almedalen 20090701</title>
+                    <description>Mona Sahlins tal i Almedalen. Sveriges Radio sänder på webben.  </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1828658.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090701100411.mp3</guid>
+                    <pubDate>Wed, 01 Jul 2009 20:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Mona Sahlins tal i Almedalen. Sveriges Radio sänder på webben.  </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenMona,Sahlins,tal,i,Almedalen,20090701</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1828658.mp3" length="25358733" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Maud Olofssons tal i Almedalen 20090630</title>
+                    <description>Maud Olofssons tal i Almedalen 20090630 Inspelat av Sveriges Radio</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1827588.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090701122925.mp3</guid>
+                    <pubDate>Tue, 30 Jun 2009 20:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Maud Olofssons tal i Almedalen 20090630 Inspelat av Sveriges Radio</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenMaud,Olofssons,tal,i,Almedalen,20090630</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1827588.mp3" length="29371455" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jan Björklunds tal i Almedalen 20090629</title>
+                    <description>Jan Björklunds tal i Almedalen. Sveriges Radio sänder på webben.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1824763.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090629100012.mp3</guid>
+                    <pubDate>Mon, 29 Jun 2009 20:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:summary>Jan Björklunds tal i Almedalen. Sveriges Radio sänder på webben.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenJan,Björklunds,tal,i,Almedalen,20090629</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1824763.mp3" length="21926557" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Nordegren i Almedalen 20090628 - Lars Ohly</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1822799.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090628113012.mp3</guid>
+                    <pubDate>Sun, 28 Jun 2009 21:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenNordegren,i,Almedalen,20090628,-,Lars,Ohly</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1822799.mp3" length="24793548" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lars Ohlys tal i Almedalen 20090628</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1822748.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_almedalen_parti_090628085313.mp3</guid>
+                    <pubDate>Sun, 28 Jun 2009 18:00:00 GMT</pubDate>
+                    <programid>3227</programid>
+                    <poddid>8210</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sveriges,Radio,i,AlmedalenLars,Ohlys,tal,i,Almedalen,20090628</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1822748.mp3" length="21730325" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

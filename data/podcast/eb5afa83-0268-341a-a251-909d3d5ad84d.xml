@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:43:50 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:42:50 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=dydqvkn2yotf0mbhamqzjakg; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:42:49 GMT"/>
+        <httpclient:header name="Content-Length" value="69687"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/13715</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/13715" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:42:50 GMT</lastBuildDate>
+                <image>
+                    <title>Sist med det senaste - sänds inte längre</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4045</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4045/1987628_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Annika Lantz med Sist med det senaste i P4, ett humorprogram i gränslandet mellan nyheter och allvar. Lördagar i P4 14:30-15:00.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Sist med det senaste - sänds inte längre</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Sist med det senaste - sänds inte längre</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4045</link>
+                <description>Annika Lantz med Sist med det senaste i P4, ett humorprogram i gränslandet mellan nyheter och allvar. Lördagar i P4 14:30-15:00.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>En gäll och Offrell - preliminärt</title>
+                    <description>Det är mycket som är speciellt med Daniel Ofrell. Som barn drömde han om att bli astronaut eller påfågel. Han blev något ännu finare – ingenjör. Han bjöd 10 000 kronor i Musikhjälpens auktion för att få göra en timmes pod med Annika Lantz. Han fick något ännu finare – en och en halv timmes pod med Annika Lantz. Hör när Johanna Koljonen, Emma Knyckare, Sonja Schwarzenberger, Ylva Nilsson, Fredrik Wikingsson med flera, samlas runt mannen på alla filantropers läppar: Daniel Offrell i programmet ”En gäll och Offrell – premliminärt.”</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4399035.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_130201_ecea.mp3</guid>
+                    <pubDate>Fri, 01 Feb 2013 14:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Det är mycket som är speciellt med Daniel Ofrell. Som barn drömde han om att bli astronaut eller påfågel. Han blev något ännu finare – ingenjör. Han bjöd 10 000 kronor i Musikhjälpens auktion för att få göra en timmes pod med Annika Lantz. Han fick något ännu finare – en och en halv timmes pod med Annika Lantz. Hör när Johanna Koljonen, Emma Knyckare, Sonja Schwarzenberger, Ylva Nilsson, Fredrik Wikingsson med flera, samlas runt mannen på alla filantropers läppar: Daniel Offrell i programmet ”En gäll och Offrell – premliminärt.”</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreEn,gäll,och,Offrell,-,preliminärt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4399035.mp3" length="83989396" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Lantz, Jungstedt, Schyman och Ericson</title>
+                    <description>Sist med det senaste, sista delen av tre med det bästa från vårens nyhetssatirsändningar med Annika Lantz. Här möter du Jonas Sjöstedt hos frisören och Jimmie Åkesson, Göran persson och Urban Ahlin hos politikerpsykologen. Gudrun Schyman har fått en exklusiv tittin i delfinariet i Kolmården där Carl Bildt och Håkan Juholt går i terapi sedan i höstas. Eric Ericson besöker Fjärrlunga och du hör Ekots Marianne Hasslow och SVTs Linda Nilarve i ny tävling. Mari Jungstedt berättar från sitt exklusiva besök hos paret Strauss-Kahn och du får också viktig information om hur du kan få bort en lundaprofessor från din g-punkt.  Och kanske är den DJ Beppos största hit, låten om vapensamarbetet med Saudiarabien.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3995310.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120713_d8c3.mp3</guid>
+                    <pubDate>Thu, 12 Jul 2012 22:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste, sista delen av tre med det bästa från vårens nyhetssatirsändningar med Annika Lantz. Här möter du Jonas Sjöstedt hos frisören och Jimmie Åkesson, Göran persson och Urban Ahlin hos politikerpsykologen. Gudrun Schyman har fått en exklusiv tittin i delfinariet i Kolmården där Carl Bildt och Håkan Juholt går i terapi sedan i höstas. Eric Ericson besöker Fjärrlunga och du hör Ekots Marianne Hasslow och SVTs Linda Nilarve i ny tävling. Mari Jungstedt berättar från sitt exklusiva besök hos paret Strauss-Kahn och du får också viktig information om hur du kan få bort en lundaprofessor från din g-punkt.  Och kanske är den DJ Beppos största hit, låten om vapensamarbetet med Saudiarabien.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Lantz,,Jungstedt,,Schyman,och,Ericson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3995310.mp3" length="18661933" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Lantz, El-Refai, Hjelt, Jungstedt och Ericson</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3995268.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120706_d3c5.mp3</guid>
+                    <pubDate>Thu, 05 Jul 2012 22:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Lantz,,El-Refai,,Hjelt,,Jungstedt,och,Ericson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3995268.mp3" length="18807219" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz och Nour El-Refai</title>
+                    <description>Sist med det senaste, del ett av tre med det bästa från vårens nyhetssatirsändningar med Annika Lantz. Här möter du Birgitta Olsson hos politikerpsykologen, du får vara med när Lars Nyberg, vd för Telia Sonera, går på SFI, svenska för industriledare och och du får möta Daniel Wilhelmsson, Black Armys ordförande som är något av Sist med det senastes expertkommentator i detta program. Och från Furuviksparken berättar de hur det går för Dominique Strauss-Kahn på primatterapin och Annika Falkengren ger bästa tipset för hur du räddar långkoket. Och så TVÅ låtar av DJ Beppo. Med mycket mera. Missa inte!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3995286.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120629_d742.mp3</guid>
+                    <pubDate>Thu, 28 Jun 2012 22:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste, del ett av tre med det bästa från vårens nyhetssatirsändningar med Annika Lantz. Här möter du Birgitta Olsson hos politikerpsykologen, du får vara med när Lars Nyberg, vd för Telia Sonera, går på SFI, svenska för industriledare och och du får möta Daniel Wilhelmsson, Black Armys ordförande som är något av Sist med det senastes expertkommentator i detta program. Och från Furuviksparken berättar de hur det går för Dominique Strauss-Kahn på primatterapin och Annika Falkengren ger bästa tipset för hur du räddar långkoket. Och så TVÅ låtar av DJ Beppo. Med mycket mera. Missa inte!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,och,Nour,El-Refai</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3995286.mp3" length="18831405" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Podexklusivt material från Sist med det senaste</title>
+                    <description>Programtiden är för kort för att rymma alla nyheter. Här hör du Jonas Sjöstedt återvända till politikerpsykologen för uppföljande samtal. DJ Beppo bjuder på exklusiv podversion av sin undergångslåt, denna gången som öronmask. Henrik Hjelt är enkätreporter i de mänskliga rättigheternas namn och dessutom bär han på en viktig nyhet om facebookvänner och blodtryck. Annika Lantz berättar viktiga nyheter om kvinnors framgångar i styrelserna och reder ut hur det kommer sig att Mats Knutson på Agenda blivit - ja nästan sliskig i sina intervjuer. Och Nour El-Refai berättar varför Johan Elmander kommer att vara spelklar tidigare än man trott. Och hur gick det för Johan i Falun - han som på 70-talet mötte Bin Ladin? Här får du informationen du behöver för att kunna gå vidare i livet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3966165.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120601_11f2f.mp3</guid>
+                    <pubDate>Fri, 01 Jun 2012 19:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Programtiden är för kort för att rymma alla nyheter. Här hör du Jonas Sjöstedt återvända till politikerpsykologen för uppföljande samtal. DJ Beppo bjuder på exklusiv podversion av sin undergångslåt, denna gången som öronmask. Henrik Hjelt är enkätreporter i de mänskliga rättigheternas namn och dessutom bär han på en viktig nyhet om facebookvänner och blodtryck. Annika Lantz berättar viktiga nyheter om kvinnors framgångar i styrelserna och reder ut hur det kommer sig att Mats Knutson på Agenda blivit - ja nästan sliskig i sina intervjuer. Och Nour El-Refai berättar varför Johan Elmander kommer att vara spelklar tidigare än man trott. Och hur gick det för Johan i Falun - han som på 70-talet mötte Bin Ladin? Här får du informationen du behöver för att kunna gå vidare i livet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längrePodexklusivt,material,från,Sist,med,det,senaste</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3966165.mp3" length="19052423" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Lantz, El-Refai och Hjelt 20120601</title>
+                    <description>För sista gången i P4 är nu Annika Lantz Sist med det senaste. Den här veckan  med hjälp av ytterligare två nyhetsankare: Henrik Hjelt och Nour El-Refai. Sist med det senaste är med på Lundsberg när Reinfeldt besöker denna Sveriges brottstätaste plats. DJ Beppo levererar en dystopisk miljöserenad om vilken skit vi lämnar till våra barn och vår glesbygdskorrespondent Eric Ericson träffar Skinnets trädgårdsmästare Mike Jönsson och rapporterar om det nyaste nya -skinnbyxan som odlas direkt på kroppen. Och Fredrik Reinfeldt vågar sig till slut till politikerpsykologen för att berätta om ett speciellt möte. Dessutom medverkar Daniel Wilhelmsson. Han ger sin syn på schlagern och hoppar på Nanne Grönvalls gamla låt och föreslår otillåtna grepp i melodifestivalen. Mer nyheter om Peak Woman blir det också.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3966171.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120601_12511.mp3</guid>
+                    <pubDate>Fri, 01 Jun 2012 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>För sista gången i P4 är nu Annika Lantz Sist med det senaste. Den här veckan  med hjälp av ytterligare två nyhetsankare: Henrik Hjelt och Nour El-Refai. Sist med det senaste är med på Lundsberg när Reinfeldt besöker denna Sveriges brottstätaste plats. DJ Beppo levererar en dystopisk miljöserenad om vilken skit vi lämnar till våra barn och vår glesbygdskorrespondent Eric Ericson träffar Skinnets trädgårdsmästare Mike Jönsson och rapporterar om det nyaste nya -skinnbyxan som odlas direkt på kroppen. Och Fredrik Reinfeldt vågar sig till slut till politikerpsykologen för att berätta om ett speciellt möte. Dessutom medverkar Daniel Wilhelmsson. Han ger sin syn på schlagern och hoppar på Nanne Grönvalls gamla låt och föreslår otillåtna grepp i melodifestivalen. Mer nyheter om Peak Woman blir det också.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Lantz,,El-Refai,och,Hjelt,20120601</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3966171.mp3" length="28479984" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz 20120525</title>
+                    <description>Krig har upphört och folk har enats för i Stockholm har det firats prinsessdop. I Sist med det senaste reder Annika Lantz ut det vi alla undrat över - vilka känslor drog det här igång hos Magnus Hedman? På plats i Cannes visar vår reporter Barbro ”Lill-Babs” Svensson att det finns hopp för kvinnorna inom filmindustrin. Nu instiftas det nya priset Tjejpalmen. Vi får höra Jonas Sjöstedt lätta på det politiska trycket hos politikerpsykologen. Mari Jungstedt är på plats i studion tillsammans med Annika och från ett skogslän långt från dig rapporterar vår glesbygdskorrespondent Eric Ericson om Det norrländska näverguldet, som fått företaget Nävrex att bli en riktig börsraket. Detta och mycket annat i ett program som garanterar att alltid vara sist med det senaste.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3956189.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120528_8ad0.mp3</guid>
+                    <pubDate>Mon, 28 May 2012 08:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Krig har upphört och folk har enats för i Stockholm har det firats prinsessdop. I Sist med det senaste reder Annika Lantz ut det vi alla undrat över - vilka känslor drog det här igång hos Magnus Hedman? På plats i Cannes visar vår reporter Barbro ”Lill-Babs” Svensson att det finns hopp för kvinnorna inom filmindustrin. Nu instiftas det nya priset Tjejpalmen. Vi får höra Jonas Sjöstedt lätta på det politiska trycket hos politikerpsykologen. Mari Jungstedt är på plats i studion tillsammans med Annika och från ett skogslän långt från dig rapporterar vår glesbygdskorrespondent Eric Ericson om Det norrländska näverguldet, som fått företaget Nävrex att bli en riktig börsraket. Detta och mycket annat i ett program som garanterar att alltid vara sist med det senaste.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,20120525</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3956189.mp3" length="28335267" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste podexklusivt material 24 maj 2012</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3950272.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120524_94dc.mp3</guid>
+                    <pubDate>Thu, 24 May 2012 10:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,podexklusivt,material,24,maj,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3950272.mp3" length="9923975" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Podexklusivt! Så kan du få närvara på Estelles dop i Slottskyrkan!</title>
+                    <description>Annika Lantz och Nour El-Refai rapporterar om den sensationella giraffen som möjliggör din närvaro på prinsessan Estelles dop i slottskyrkan i Stockholm den 22 maj. Även exklusiv intervju med Kronprinsessan. Missa inte!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3944254.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120521_cbe6.mp3</guid>
+                    <pubDate>Mon, 21 May 2012 13:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz och Nour El-Refai rapporterar om den sensationella giraffen som möjliggör din närvaro på prinsessan Estelles dop i slottskyrkan i Stockholm den 22 maj. Även exklusiv intervju med Kronprinsessan. Missa inte!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längrePodexklusivt!,Så,kan,du,få,närvara,på,Estelles,dop,i,Slottskyrkan!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3944254.mp3" length="2263014" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste 18 maj 2012</title>
+                    <description>Många tror att det måste vara flera, flera män som skriver manus till Sist med det senaste men det är faktiskt Annika Lantz.  Med Mari Jungstedts och Nour El-Refais hjälp guidar Lantz dig i nyhetsflödet och plockar det viktigaste från veckan som att Dominique Strauss-Kahn är på primatterapi i Sverige och att Peak Woman redan är här. Vi tittar in hos SVT som gör en uppföljare på Smartare än en femteklassare och hör på när politikerpsykologen får Illmar Reepalu på tråden.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3944222.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120518_c923.mp3</guid>
+                    <pubDate>Fri, 18 May 2012 13:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Många tror att det måste vara flera, flera män som skriver manus till Sist med det senaste men det är faktiskt Annika Lantz.  Med Mari Jungstedts och Nour El-Refais hjälp guidar Lantz dig i nyhetsflödet och plockar det viktigaste från veckan som att Dominique Strauss-Kahn är på primatterapi i Sverige och att Peak Woman redan är här. Vi tittar in hos SVT som gör en uppföljare på Smartare än en femteklassare och hör på när politikerpsykologen får Illmar Reepalu på tråden.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,18,maj,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3944222.mp3" length="28826631" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste  Forum Special 20120504</title>
+                    <description>Lyssna på den utmärkta urpremiären av Sist med det senaste Forum Special med Annika Lantz och Anders G Carlsson - en avknoppning från satirprogrammet Sist med det senaste. Sist med det senaste utgår som radioprogram den här veckan på grund av Hockey-VM. I Sist med det senaste Forum Special sätter sig Annika Lantz i studion tillsammans med projektledaren och samhällsintressenten Anders G Carlsson och analyserar veckans inrikespolitiska händelser, tills ni inte känner igen dom längre. Adressen till granskningsnämnden är www.radioochtv.se/Tillsyn/Granskning-av-program/Anmalan/ </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3916473.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120504_e45c.mp3</guid>
+                    <pubDate>Fri, 04 May 2012 14:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Lyssna på den utmärkta urpremiären av Sist med det senaste Forum Special med Annika Lantz och Anders G Carlsson - en avknoppning från satirprogrammet Sist med det senaste. Sist med det senaste utgår som radioprogram den här veckan på grund av Hockey-VM. I Sist med det senaste Forum Special sätter sig Annika Lantz i studion tillsammans med projektledaren och samhällsintressenten Anders G Carlsson och analyserar veckans inrikespolitiska händelser, tills ni inte känner igen dom längre. Adressen till granskningsnämnden är www.radioochtv.se/Tillsyn/Granskning-av-program/Anmalan/ </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,,Forum,Special,20120504</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3916473.mp3" length="42803788" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz den 27 april 2012</title>
+                    <description>Hur hamnade en lunda-professor med sin bild på alla kvinnors g-punkt? Och vad tycker Daniel Wilhelmsson om de nya sedlarna? Sist med det senaste bjuder också på Anna Blombergs exklusiva intervju med Fredrik Reinfeldt. Missa inte heller Annie Lööf som hörs hos politikerpsykologen. Carl Jan Granquist berättar för Annika Lantz vad en sommarregering egentligen är och du hör besvikna barn som inte har fullt förtroende för Kungen vid vårstädningen av Kungliga Djurgården.  och vår glesbygdskorrespondent Eric Ericson träffar mannen som - kanske - är far till tiden.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3904951.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120427_11842.mp3</guid>
+                    <pubDate>Fri, 27 Apr 2012 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Hur hamnade en lunda-professor med sin bild på alla kvinnors g-punkt? Och vad tycker Daniel Wilhelmsson om de nya sedlarna? Sist med det senaste bjuder också på Anna Blombergs exklusiva intervju med Fredrik Reinfeldt. Missa inte heller Annie Lööf som hörs hos politikerpsykologen. Carl Jan Granquist berättar för Annika Lantz vad en sommarregering egentligen är och du hör besvikna barn som inte har fullt förtroende för Kungen vid vårstädningen av Kungliga Djurgården.  och vår glesbygdskorrespondent Eric Ericson träffar mannen som - kanske - är far till tiden.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,den,27,april,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3904951.mp3" length="37188857" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz i P4 20120420</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3895169.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120423_b959.mp3</guid>
+                    <pubDate>Mon, 23 Apr 2012 12:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,i,P4,20120420</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3895169.mp3" length="31737680" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz 13 april 2012</title>
+                    <description>Annika Lantz, Henrik Hjelt, Kim Anderzon och Eric Ericson plockar nyhetsveckans pärlor. Vi avslöjar samarbetet som aldrig blev av: rapduetten mellan Rick Santorum från USA och Björn Ranelid från yttre rymden. Serien ”Bin Ladin och Jag” fortsätter: Johan från Falun berättar exklusivt om sina möten med den stenrika saudiska familjen. Dessutom en gåta från Annika: Vad är skillnaden mellan Titanic och en  massa flottar med flyktingar? Fler haverier: Nordkoreas raket störtade i havet och besvikelsen blev stor för de många svenskar som gett sig ut tidigt på morgonen för att få en glimt av Kim-Bop. Och så hör du Maria Larsson när hon ringer in till Politikerpsykologen.  Allt är precis lika roligt som vanligt. DJ Beppo, däremot, ser över sina rutiner.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3878963.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120413_108f8.mp3</guid>
+                    <pubDate>Fri, 13 Apr 2012 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz, Henrik Hjelt, Kim Anderzon och Eric Ericson plockar nyhetsveckans pärlor. Vi avslöjar samarbetet som aldrig blev av: rapduetten mellan Rick Santorum från USA och Björn Ranelid från yttre rymden. Serien ”Bin Ladin och Jag” fortsätter: Johan från Falun berättar exklusivt om sina möten med den stenrika saudiska familjen. Dessutom en gåta från Annika: Vad är skillnaden mellan Titanic och en  massa flottar med flyktingar? Fler haverier: Nordkoreas raket störtade i havet och besvikelsen blev stor för de många svenskar som gett sig ut tidigt på morgonen för att få en glimt av Kim-Bop. Och så hör du Maria Larsson när hon ringer in till Politikerpsykologen.  Allt är precis lika roligt som vanligt. DJ Beppo, däremot, ser över sina rutiner.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,13,april,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3878963.mp3" length="27439304" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz i P4 6 april 2012</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3867219.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120406_10845.mp3</guid>
+                    <pubDate>Fri, 06 Apr 2012 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,i,P4,6,april,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3867219.mp3" length="37258089" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3855421.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120330_f66e.mp3</guid>
+                    <pubDate>Fri, 30 Mar 2012 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3855421.mp3" length="10607322" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste 30 mars 2012</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3855357.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_120330_ec7e.mp3</guid>
+                    <pubDate>Fri, 30 Mar 2012 15:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,30,mars,2012</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3855357.mp3" length="10607318" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senastes årskrönika med Annika Lantz</title>
+                    <description>Annika Lantz tillönskar lyssnarna en god jul och ett gott nytt år genom att sammanfatta året som gått. I Sist med det senaste har stjärnreportrarna avlöst varandra under året. I den här årskrönikan hörs Bob Hansson, Nour El Refai, Mari Jungstedt, Carina Berg, Niklas Strömstedt, Sissela Kyle, Gudrun Schyman, Lars-Åke Babsan Wilhelmsson, Eric Ericson, Eva Röse, Gina Dirawi, Sonia Åström och Björn Lindberg.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3642877.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111224_bc7b.mp3</guid>
+                    <pubDate>Sat, 24 Dec 2011 09:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz tillönskar lyssnarna en god jul och ett gott nytt år genom att sammanfatta året som gått. I Sist med det senaste har stjärnreportrarna avlöst varandra under året. I den här årskrönikan hörs Bob Hansson, Nour El Refai, Mari Jungstedt, Carina Berg, Niklas Strömstedt, Sissela Kyle, Gudrun Schyman, Lars-Åke Babsan Wilhelmsson, Eric Ericson, Eva Röse, Gina Dirawi, Sonia Åström och Björn Lindberg.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senastes,årskrönika,med,Annika,Lantz</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3642877.mp3" length="66862120" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 26 november 2011</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3600189.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111125_10ef9.mp3</guid>
+                    <pubDate>Fri, 25 Nov 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,26,november,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3600189.mp3" length="25974850" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 19 november 2011</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3587259.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111118_f7a2.mp3</guid>
+                    <pubDate>Fri, 18 Nov 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,19,november,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3587259.mp3" length="28823660" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz den 12 november 2011</title>
+                    <description>Ångande håligheter med mörka hemligheter - eller bara ett vanligt bankkonto med noll procents ränta? Ja, vad man faktiskt får syn på när man får inblick i kungens Apanage får du reda på i veckans avsnitt av Sist med det senaste. Då skickar nämligen Annika Lantz in Arja Saijonmaa och Johanna Koljonen i kungens allra heligaste, en både kittlande och skrämmande upplevelse som du inte får missa. Innan veckans reportrar försvinner in i det okända avslöjar Arja vad som blir årets julklapp, och Johanna berättar om Björklunds nya lösning på problemet med för stora barngrupper på fritids. Missa inte heller nyheten om SM i vanvård och de nya vittnesmålen som ytterligare skakar organisationen Kvinnan är vårt sista hopp. Möt också Inger Arenander och Margit Silberstein som i ett unikt projekt delar på vårdnaden av den gps som public servicebolagen förfogar över för att kunna hålla reda på Håkan Juholt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3574259.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111111_10268.mp3</guid>
+                    <pubDate>Fri, 11 Nov 2011 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Ångande håligheter med mörka hemligheter - eller bara ett vanligt bankkonto med noll procents ränta? Ja, vad man faktiskt får syn på när man får inblick i kungens Apanage får du reda på i veckans avsnitt av Sist med det senaste. Då skickar nämligen Annika Lantz in Arja Saijonmaa och Johanna Koljonen i kungens allra heligaste, en både kittlande och skrämmande upplevelse som du inte får missa. Innan veckans reportrar försvinner in i det okända avslöjar Arja vad som blir årets julklapp, och Johanna berättar om Björklunds nya lösning på problemet med för stora barngrupper på fritids. Missa inte heller nyheten om SM i vanvård och de nya vittnesmålen som ytterligare skakar organisationen Kvinnan är vårt sista hopp. Möt också Inger Arenander och Margit Silberstein som i ett unikt projekt delar på vårdnaden av den gps som public servicebolagen förfogar över för att kunna hålla reda på Håkan Juholt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,den,12,november,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3574259.mp3" length="28881420" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz den 5 november 2011</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3560422.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111104_11382.mp3</guid>
+                    <pubDate>Fri, 04 Nov 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,den,5,november,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3560422.mp3" length="28871745" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz den 5 november</title>
+                    <description>I en tid då kvinnans enda chans att få en arbetsskada klassad som arbetsskada är att ingå pakt med jävulen, behövs Sist med det senaste. I en tid då rovdjur är fritidspedagogikens sista hopp, behövs Sist med det senaste. I en tid då arkeologiska fynd används som sexfällor för franska miljöbrottslingar, behövs Sist med det senaste. I en tid då Håkan Juholt känner sig tvungen att åka till Indien för att be om ursäkt för sin övernattningslägenhet på fyra rum och kök, behövs Sist med det senaste. I en tid då CSN är diktaturens största fiende, behövs Sist med det senaste. Annika Lantz sammanfattar nyhetsveckan med Maria Lundqvist och Inger Nilsson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3560423.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111104_11470.mp3</guid>
+                    <pubDate>Fri, 04 Nov 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>I en tid då kvinnans enda chans att få en arbetsskada klassad som arbetsskada är att ingå pakt med jävulen, behövs Sist med det senaste. I en tid då rovdjur är fritidspedagogikens sista hopp, behövs Sist med det senaste. I en tid då arkeologiska fynd används som sexfällor för franska miljöbrottslingar, behövs Sist med det senaste. I en tid då Håkan Juholt känner sig tvungen att åka till Indien för att be om ursäkt för sin övernattningslägenhet på fyra rum och kök, behövs Sist med det senaste. I en tid då CSN är diktaturens största fiende, behövs Sist med det senaste. Annika Lantz sammanfattar nyhetsveckan med Maria Lundqvist och Inger Nilsson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,den,5,november</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3560423.mp3" length="28866539" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz den 5 nov 2011</title>
+                    <description>I en tid då kvinnans enda chans att få en arbetsskada klassad som arbetsskada är att ingå pakt med djävulen, behövs Sist med det senaste. I en tid då rovdjur är fritidspedagogikens sista hopp, behövs Sist med det senaste. I en tid då arkeologiska fynd används som sexfällor för franska miljöbrottslingar, behövs Sist med det senaste.I en tid då Håkan Juholt känner sig tvungen att åka till Indien för att be om ursäkt för sin övernattningslägenhet på fyra rum och kök, behövs Sist med det senaste. I en tid då CSN är diktaturens största fiende, behövs Sist med det senaste. Annika Lantz sammanfattar nyhetsveckan tillsammans med Maria Lundqvist och Inger Nilsson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3560400.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111104_10949.mp3</guid>
+                    <pubDate>Fri, 04 Nov 2011 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>I en tid då kvinnans enda chans att få en arbetsskada klassad som arbetsskada är att ingå pakt med djävulen, behövs Sist med det senaste. I en tid då rovdjur är fritidspedagogikens sista hopp, behövs Sist med det senaste. I en tid då arkeologiska fynd används som sexfällor för franska miljöbrottslingar, behövs Sist med det senaste.I en tid då Håkan Juholt känner sig tvungen att åka till Indien för att be om ursäkt för sin övernattningslägenhet på fyra rum och kök, behövs Sist med det senaste. I en tid då CSN är diktaturens största fiende, behövs Sist med det senaste. Annika Lantz sammanfattar nyhetsveckan tillsammans med Maria Lundqvist och Inger Nilsson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,den,5,nov,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3560400.mp3" length="28872402" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz 29 oktober 2011</title>
+                    <description>Annika Lantz sammanfattar nyhetsveckan tillsammans med Mari Jungstedt och Amy Diamond. Hör allt om hur orolig man ska vara och hur det gick till när Fredrik Reinfeldt fattade fel när Per Schlingmann var otydlig och hur allt resulterade i att Moderaterna nu dras med ett konturlöst ledord som Allmänintresset. Ett ord som DJ Beppo bygger veckans nyhetshit kring. och apropå Moderaterna så har Sist med det senaste uppgifter som gör gällande att Sofia Arkelstens hjärna kapades i samband med lösenordshackningen i veckan. Vilket dock en rektor för den skola där Arkelsten sökte jobb som bibliotekarie förnekar. Per Schlingmann som skrivit manus till säsong två av Downton Abbey intervjuas av Amy Diamond. Mari Jungstedt hörs i ett exklusivt inslag från paret Strauss-Kahn/Sinclairs franska hem där hon vid deras härd får ställa personliga och privata frågor, som också besvaras av paret. Hur är det att leva med sexrubrikernas man, Anne Sinclair? Hör också allt om Mats Odells gåva till unga.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3546823.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111028_10e0c.mp3</guid>
+                    <pubDate>Fri, 28 Oct 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz sammanfattar nyhetsveckan tillsammans med Mari Jungstedt och Amy Diamond. Hör allt om hur orolig man ska vara och hur det gick till när Fredrik Reinfeldt fattade fel när Per Schlingmann var otydlig och hur allt resulterade i att Moderaterna nu dras med ett konturlöst ledord som Allmänintresset. Ett ord som DJ Beppo bygger veckans nyhetshit kring. och apropå Moderaterna så har Sist med det senaste uppgifter som gör gällande att Sofia Arkelstens hjärna kapades i samband med lösenordshackningen i veckan. Vilket dock en rektor för den skola där Arkelsten sökte jobb som bibliotekarie förnekar. Per Schlingmann som skrivit manus till säsong två av Downton Abbey intervjuas av Amy Diamond. Mari Jungstedt hörs i ett exklusivt inslag från paret Strauss-Kahn/Sinclairs franska hem där hon vid deras härd får ställa personliga och privata frågor, som också besvaras av paret. Hur är det att leva med sexrubrikernas man, Anne Sinclair? Hör också allt om Mats Odells gåva till unga.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,29,oktober,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3546823.mp3" length="37861355" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annika Lantz är Sist med det senaste i P4 20111022</title>
+                    <description>Annika Lantz skickar reportern Gudrun Schyman på exklusivt uppdrag i delfinariet i Kolmården där hon rapporterar från den delfinterapi som Bildt och Juholt deltar i efter de senaste turbulenta veckorna i hetluften. En annan affär har också seglat upp och det är statsministerns skryt om hans ständiga t-baneåkande som Sist med det senaste avslöjar som just skryt. Kristina Axén Olin medverkar i ett tappert försök att rädda Reinfeldts ansikte. Magnus Uggla medverkar för sista gången som vetenskaps- och ekonomireporter. Han har nu headhuntats av Ekot där han börjar som ankare inom kort. Missa inte heller intervjun med den kvinnliga präst som Dag Sandahl förlovat sig med. Du får också möta representanter för organisationen Kvinnan är vårt sista hopp. Och hör allt om hur Tommy Waidelich tog sig till tunnelbanelösa Täby i onsdags.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3533005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111021_102db.mp3</guid>
+                    <pubDate>Fri, 21 Oct 2011 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz skickar reportern Gudrun Schyman på exklusivt uppdrag i delfinariet i Kolmården där hon rapporterar från den delfinterapi som Bildt och Juholt deltar i efter de senaste turbulenta veckorna i hetluften. En annan affär har också seglat upp och det är statsministerns skryt om hans ständiga t-baneåkande som Sist med det senaste avslöjar som just skryt. Kristina Axén Olin medverkar i ett tappert försök att rädda Reinfeldts ansikte. Magnus Uggla medverkar för sista gången som vetenskaps- och ekonomireporter. Han har nu headhuntats av Ekot där han börjar som ankare inom kort. Missa inte heller intervjun med den kvinnliga präst som Dag Sandahl förlovat sig med. Du får också möta representanter för organisationen Kvinnan är vårt sista hopp. Och hör allt om hur Tommy Waidelich tog sig till tunnelbanelösa Täby i onsdags.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreAnnika,Lantz,är,Sist,med,det,senaste,i,P4,20111022</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3533005.mp3" length="28857102" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annika Lantz är Sist med det senaste i P4 den 8 oktober 2011</title>
+                    <description>Annika Lantz skickar Rachel Mohlin till Nobelkansliet i Gamla Stan för att få reda på vilka som blir årets webbjokrar. Niklas Strömstedt stöttar Annika med nyhetsarbetet i hemmastudion och avslöjar mer än du vill veta om sitt förhållande till morgonsoffor. Eric Ericsson rapporterar om det stora folkförflyttningsexperimentet mellan Tierp och Borlänge. Göran Persson vikarierar för Björn Lindberg som är på chefsutbildning på Burma. En ovanligt snabblyssnad halvtimme med den bästa sammanfattningen av nyhetsveckan!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3506422.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_111007_10d02.mp3</guid>
+                    <pubDate>Fri, 07 Oct 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz skickar Rachel Mohlin till Nobelkansliet i Gamla Stan för att få reda på vilka som blir årets webbjokrar. Niklas Strömstedt stöttar Annika med nyhetsarbetet i hemmastudion och avslöjar mer än du vill veta om sitt förhållande till morgonsoffor. Eric Ericsson rapporterar om det stora folkförflyttningsexperimentet mellan Tierp och Borlänge. Göran Persson vikarierar för Björn Lindberg som är på chefsutbildning på Burma. En ovanligt snabblyssnad halvtimme med den bästa sammanfattningen av nyhetsveckan!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreAnnika,Lantz,är,Sist,med,det,senaste,i,P4,den,8,oktober,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3506422.mp3" length="28864734" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annika Lantz är Sist med det senaste 1 oktober 2011</title>
+                    <description>Annika Lantz, Bob Hansson och Gina Dirawi rapporterar om det senaste på gränsen mellan nyheter och allvar. I veckans sändning dyker Fotbollförbundets förlupna s upp igen och Annie Lööf intervjuas om bristen på tempoväxlingar. Från en västsvensk kommun som vill vara anonym kommer inslag om Dominique Strauss-Kahns senaste utsläpp som hotar badlivet nästa sommar. Dessutom flera intressanta vetenskapsnyheter. Missa inte.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3493352.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110930_fdf2.mp3</guid>
+                    <pubDate>Fri, 30 Sep 2011 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz, Bob Hansson och Gina Dirawi rapporterar om det senaste på gränsen mellan nyheter och allvar. I veckans sändning dyker Fotbollförbundets förlupna s upp igen och Annie Lööf intervjuas om bristen på tempoväxlingar. Från en västsvensk kommun som vill vara anonym kommer inslag om Dominique Strauss-Kahns senaste utsläpp som hotar badlivet nästa sommar. Dessutom flera intressanta vetenskapsnyheter. Missa inte.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreAnnika,Lantz,är,Sist,med,det,senaste,1,oktober,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3493352.mp3" length="26927807" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Annika Lantz är Sist med det senaste den 24 september 2011</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3481054.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110924_a2c7.mp3</guid>
+                    <pubDate>Sat, 24 Sep 2011 10:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreAnnika,Lantz,är,Sist,med,det,senaste,den,24,september,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3481054.mp3" length="30315790" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste 10 september 2011</title>
+                    <description>Annika Lantz presenterar höstens nyheter tillsammans med Eva Röse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3454774.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110910_fac9.mp3</guid>
+                    <pubDate>Sat, 10 Sep 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz presenterar höstens nyheter tillsammans med Eva Röse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,10,september,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3454774.mp3" length="28865935" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste, valda inslag från vårsäsongen del 3</title>
+                    <description>Sist med det senaste med Annika Lantz med inslag från vårsäsongen i väntan på höstens premiär den 10 september 14.30 i P4. Medverkar gör bland andra Lars-Åke "Babsan" Wilhelmsson, Erika Strand-Berglund, Carina Berg,  Björn Lindberg och DJ Beppo.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3441647.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110904_e6f4.mp3</guid>
+                    <pubDate>Sun, 04 Sep 2011 08:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste med Annika Lantz med inslag från vårsäsongen i väntan på höstens premiär den 10 september 14.30 i P4. Medverkar gör bland andra Lars-Åke "Babsan" Wilhelmsson, Erika Strand-Berglund, Carina Berg,  Björn Lindberg och DJ Beppo.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,,valda,inslag,från,vårsäsongen,del,3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3441647.mp3" length="13177197" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste, valda inslag från vårsäsongen del 2</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3441639.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110903_e668.mp3</guid>
+                    <pubDate>Sat, 03 Sep 2011 08:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,,valda,inslag,från,vårsäsongen,del,2</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3441639.mp3" length="13828553" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste, valda inslag från vårsäsongen del 1</title>
+                    <description>Sist med det senaste med Annika Lantz med inslag från vårsäsongen i väntan på höstens premiär den 10 september 14.30 i P4. Medverkar gör bland andra Nanne Grönvall, Shirley Clamp, Björn Lindberg och DJ Beppo.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3441637.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110902_e2b6.mp3</guid>
+                    <pubDate>Fri, 02 Sep 2011 15:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste med Annika Lantz med inslag från vårsäsongen i väntan på höstens premiär den 10 september 14.30 i P4. Medverkar gör bland andra Nanne Grönvall, Shirley Clamp, Björn Lindberg och DJ Beppo.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,,valda,inslag,från,vårsäsongen,del,1</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3441637.mp3" length="14606164" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste den 11 juni 2011</title>
+                    <description>Sist med det senaste, hela programmet vecka 23, den 11 juni 2011. Med Annika Lantz, Nour El-Refai, Björn Lindberg, Ylva Nilsson med flera.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3171610.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110610090109.mp3</guid>
+                    <pubDate>Fri, 10 Jun 2011 19:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste, hela programmet vecka 23, den 11 juni 2011. Med Annika Lantz, Nour El-Refai, Björn Lindberg, Ylva Nilsson med flera.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,den,11,juni,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3171610.mp3" length="28861753" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3144921.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110603050903.mp3</guid>
+                    <pubDate>Fri, 03 Jun 2011 15:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3144921.mp3" length="28849632" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3105366.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110520073152.mp3</guid>
+                    <pubDate>Fri, 20 May 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3105366.mp3" length="28917760" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz 14 maj 2011</title>
+                    <description>Allt du behöver veta om nyhetsveckan 19 2011. Annika Lantz sitter i studion i Stockholm och har Babsan som reporter i Cannes där hon blir lite sextrakasserad. Lars-Åke Wilhelmsson stöttar i studion och från Förskoleduellen rapporterar Amy Diamond och Petra Mede. Hör också Malin berghagen och Magdalena Ribbing direkt från Karlaplan i unik enkät signerad Hannes Fossbo. Dessutom hörs bland andra Fredrik Reinfeldt och Håkan Juholt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3090294.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110513070015.mp3</guid>
+                    <pubDate>Fri, 13 May 2011 17:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Allt du behöver veta om nyhetsveckan 19 2011. Annika Lantz sitter i studion i Stockholm och har Babsan som reporter i Cannes där hon blir lite sextrakasserad. Lars-Åke Wilhelmsson stöttar i studion och från Förskoleduellen rapporterar Amy Diamond och Petra Mede. Hör också Malin berghagen och Magdalena Ribbing direkt från Karlaplan i unik enkät signerad Hannes Fossbo. Dessutom hörs bland andra Fredrik Reinfeldt och Håkan Juholt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,14,maj,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3090294.mp3" length="27924689" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz 20110430</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3062785.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110430060057.mp3</guid>
+                    <pubDate>Sat, 30 Apr 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,20110430</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3062785.mp3" length="28876800" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste med Annika Lantz 23 april 2011</title>
+                    <description>Annika Lantz penetrerar veckans nyhetshändelser tillsammans med Petra Mede och Amy Diamond.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3048723.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110422060012.mp3</guid>
+                    <pubDate>Fri, 22 Apr 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz penetrerar veckans nyhetshändelser tillsammans med Petra Mede och Amy Diamond.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,med,Annika,Lantz,23,april,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3048723.mp3" length="28866769" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 20110402 1430</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3002533.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110402080031.mp3</guid>
+                    <pubDate>Sat, 02 Apr 2011 18:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,20110402,1430</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3002533.mp3" length="28832078" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste 1 april</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3002396.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110402014527.mp3</guid>
+                    <pubDate>Fri, 01 Apr 2011 12:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,1,april</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3002396.mp3" length="28832078" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz 26 mars 2011</title>
+                    <description>Annika Lantz sammanfattar nyhetsvecka 12 och har hjälp av Nanne Grönvall som bland annat rapporterar från F17. De flesta nyheter är sensationella den här veckan.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2988050.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110326121619.mp3</guid>
+                    <pubDate>Fri, 25 Mar 2011 21:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz sammanfattar nyhetsvecka 12 och har hjälp av Nanne Grönvall som bland annat rapporterar från F17. De flesta nyheter är sensationella den här veckan.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,26,mars,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2988050.mp3" length="28853394" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 2011-03-18</title>
+                    <description>Annika Lantz sänder Radiosporten den här veckan berättar nyhetschefen Björn Lindberg på mötet där också Anna-Karin Ivarsson och Ylva Nilsson medverkar. Så något vanligt Sist med det senaste i P4 blir det inte utan bara ett nyhetsmöte.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2970954.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110318042709.mp3</guid>
+                    <pubDate>Fri, 18 Mar 2011 14:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz sänder Radiosporten den här veckan berättar nyhetschefen Björn Lindberg på mötet där också Anna-Karin Ivarsson och Ylva Nilsson medverkar. Så något vanligt Sist med det senaste i P4 blir det inte utan bara ett nyhetsmöte.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,2011-03-18</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2970954.mp3" length="4635585" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz 12 mars 2011  Pod-Version Extralång</title>
+                    <description>Sist med det senaste med Annika Lantz och även Carina Berg denna sändning som är något längre än de 15 minuter som sänds lördagen den 12 mars 2011.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2957569.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110311060901.mp3</guid>
+                    <pubDate>Fri, 11 Mar 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaste med Annika Lantz och även Carina Berg denna sändning som är något längre än de 15 minuter som sänds lördagen den 12 mars 2011.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,12,mars,2011,,Pod-Version,Extralång</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2957569.mp3" length="22311497" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz 26 februari 2011</title>
+                    <description>Annika Lantz sammanfattar nyhetsveckan nr åtta år 2011.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2928434.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110225060939.mp3</guid>
+                    <pubDate>Fri, 25 Feb 2011 16:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Annika Lantz sammanfattar nyhetsveckan nr åtta år 2011.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,26,februari,2011</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2928434.mp3" length="28798641" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 20110220 1430</title>
+                    <description>Sist med det senaset i P4 med Annika Lantz. Ett humorprogram i gränslandet mellan nyheter och allvar. Vecka 7 2011. Specialreporter denna vecka: Petra Mede!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2916291.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110219030047.mp3</guid>
+                    <pubDate>Sat, 19 Feb 2011 13:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Sist med det senaset i P4 med Annika Lantz. Ett humorprogram i gränslandet mellan nyheter och allvar. Vecka 7 2011. Specialreporter denna vecka: Petra Mede!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,20110220,1430</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2916291.mp3" length="28788192" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 20110212 1430</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2903127.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110212030021.mp3</guid>
+                    <pubDate>Sat, 12 Feb 2011 13:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,20110212,1430</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2903127.mp3" length="28871784" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sist med det senaste i P4 med Annika Lantz 20110205</title>
+                    <description>Ett humorprogram i gränslandet mellan nyheter och allvar med Annika Lantz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2889238.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_sistmeddetsenaste_110205030025.mp3</guid>
+                    <pubDate>Sat, 05 Feb 2011 13:00:00 GMT</pubDate>
+                    <programid>4045</programid>
+                    <poddid>13715</poddid>
+                    <itunes:summary>Ett humorprogram i gränslandet mellan nyheter och allvar med Annika Lantz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Sist,med,det,senaste,-,sänds,inte,längreSist,med,det,senaste,i,P4,med,Annika,Lantz,20110205</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2889238.mp3" length="28819539" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

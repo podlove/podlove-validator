@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.7.2"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:30:05 GMT"/>
+        <httpclient:header name="Content-Type" value="text/html"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Keep-Alive" value="timeout=20"/>
+        <httpclient:header name="P3P" value="CP=&#34;NON DSP COR ADMa OUR IND UNI COM NAV INT&#34;"/>
+        <httpclient:header name="Cache-Control" value="no-cache"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/html" type="xhtml">
+        <html>
+            <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+                <meta http-equiv="Content-Script-Type" content="text/javascript"/>
+                <script type="text/javascript">
+function getCookie(c_name) { // Local function for getting a cookie value
+    if (document.cookie.length &gt; 0) {
+        c_start = document.cookie.indexOf(c_name + "=");
+        if (c_start!=-1) {
+        c_start=c_start + c_name.length + 1;
+        c_end=document.cookie.indexOf(";", c_start);
+
+        if (c_end==-1) 
+            c_end = document.cookie.length;
+
+        return unescape(document.cookie.substring(c_start,c_end));
+        }
+    }
+    return "";
+}
+function setCookie(c_name, value, expiredays) { // Local function for setting a value of a cookie
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    document.cookie = c_name + "=" + escape(value) + ((expiredays==null) ? "" : ";expires=" + exdate.toGMTString()) + ";path=/";
+}
+function getHostUri() {
+    var loc = document.location;
+    return loc.toString();
+}
+setCookie('YPF8827340282Jdskjhfiw_928937459182JAX666', '217.231.191.32', 10);
+try {  
+    location.reload(true);  
+} catch (err1) {  
+    try {  
+        location.reload();  
+    } catch (err2) {  
+    	location.href = getHostUri();  
+    }  
+}
+</script>
+            </head>
+            <body>
+                <noscript>This site requires JavaScript and Cookies to be enabled. Please change your browser settings or upgrade your browser.</noscript>
+            </body>
+        </html>
+    </httpclient:body>
+</httpclient:response>

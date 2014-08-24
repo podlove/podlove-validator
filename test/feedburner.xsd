@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://rssnamespace.org/feedburner/ext/1.0">
+    <xs:import schemaLocation="podlove.xsd"/>
+    <xs:import namespace="http://podlove.org/simple-chapters" schemaLocation="psc.xsd"/>
+    <xs:import namespace="http://purl.org/rss/1.0/modules/content/" schemaLocation="content.xsd"/>
+    <xs:import namespace="http://www.itunes.com/dtds/podcast-1.0.dtd" schemaLocation="itunes.xsd"/>
+    <xs:import namespace="http://www.w3.org/2005/Atom" schemaLocation="atom.xsd"/>
+    <xs:element name="info">
+        <xs:complexType>
+            <xs:attribute name="uri" use="required" type="xs:NCName"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="origLink" type="xs:anyURI"/>
+    <xs:element name="origEnclosureLink" type="xs:anyURI"/>
+</xs:schema>

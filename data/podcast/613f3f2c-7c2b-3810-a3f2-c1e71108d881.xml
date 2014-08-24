@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:22:23 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Keep-Alive" value="timeout=10"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.17"/>
+        <httpclient:header name="X-Pingback" value="http://3dprintingpodcast.com/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;58e5e07ab2dd9c6933a53b579e72e9bc&#34;"/>
+        <httpclient:header name="Last-Modified" value="Thu, 07 Aug 2014 18:04:21 GMT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>3D Printing Podcast</title>
+                <atom:link href="http://3dprintingpodcast.com/feed/" rel="self" type="application/rss+xml"/>
+                <link>http://3dprintingpodcast.com</link>
+                <description>Official Podcast of the 3D Printing</description>
+                <lastBuildDate>Thu, 07 Aug 2014 18:04:21 +0000</lastBuildDate>
+                <language>en-US</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9.2</generator>
+                <copyright>Copyright © 3D Printing Podcast 2013 </copyright>
+                <managingEditor>bill@3dprintingchannel.com (bill decker)</managingEditor>
+                <webMaster>bill@3dprintingchannel.com (bill decker)</webMaster>
+                <category>3D Printing</category>
+                <ttl>1440</ttl>
+                <image>
+                    <url>http://3dprintingpodcast.com/wp-content/uploads/2013/09/3d-block-14-by-14.png</url>
+                    <title>3D Printing Podcast</title>
+                    <link>http://3dprintingpodcast.com</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <itunes:subtitle>The Official Podcast of the the 3D Printing Industry. The 3d Printing Podcast has: news, information, opinions and interviews brought to you by the 3D Chamber. FInd us at http://3dchamber.com</itunes:subtitle>
+                <itunes:summary>Funny, quick, interesting insights into the 3d Printing Industry. The official podcast of the industry</itunes:summary>
+                <itunes:keywords>3d, printing, additive, manufacturing, new, industry, CAD, drawing, home, based, manufacturing, disruptive</itunes:keywords>
+                <itunes:category text="Business"/>
+                <itunes:category text="Technology">
+                    <itunes:category text="Gadgets"/>
+                </itunes:category>
+                <itunes:category text="Technology"/>
+                <itunes:author>bill decker</itunes:author>
+                <itunes:owner>
+                    <itunes:name>bill decker</itunes:name>
+                    <itunes:email>bill@3dprintingchannel.com</itunes:email>
+                </itunes:owner>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://3dprintingpodcast.com/wp-content/uploads/2013/09/3d-block-14-by-14.png"/>
+                <item>
+                    <title>3D Printing Podcast Radio Show – SME</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-radio-show-sme/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-radio-show-sme/#comments</comments>
+                    <pubDate>Thu, 07 Aug 2014 18:04:21 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>3d printing workforce</category>
+                    <category>additive manufacturing</category>
+                    <category>SME</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=324</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and companies involved in manufacturing. Is 3D Printing an educational opportunity? Is there a workforce problem created with</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-radio-show-sme/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and companies involved in manufacturing.&lt;/p&gt;
+&lt;p&gt;Is 3D Printing an educational opportunity? Is there a workforce problem created with 3D Printing?&lt;/p&gt;
+&lt;p&gt;SME is on top of this industry. It&amp;#8217;s almost as though they read the &lt;a href="http://howto3dprintmoney.com/buy-the-book/" title="3d printing book" target="_blank"&gt;3D Printing Book&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-radio-show-sme/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/07/sme2-7_31_14-12.02-PM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and com[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and companies involved in manufacturing.
+Is 3D Printing an educational opportunity? Is there a workforce problem created with 3D Printing?
+SME is on top of this industry. It’s almost as though they read the 3D Printing Book</itunes:summary>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Podcast Interview With Autodesk, Part 2</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-autodesk-part-2/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-autodesk-part-2/#comments</comments>
+                    <pubDate>Thu, 31 Jul 2014 16:52:36 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>3d printing interview</category>
+                    <category>autodesk</category>
+                    <category>Gonzalo Martinez</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=322</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk, gives an interesting interview about his firm&amp;#8217;s play in 3D Printing. The significance of Autodesk is the fact that they are currently the largest company in the United States, and perhaps even the world that is</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-interview-with-autodesk-part-2/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;Gonzalo Martinez, Director of Strategic Research in the office of the CTO at &lt;a href="http://3dprintingpodcast.com/go/cadsoftware" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/cadsoftware';return true;" onmouseout="self.status=''"&gt;Autodesk&lt;/a&gt;, gives an interesting interview about his firm&amp;#8217;s play in 3D Printing.&lt;/p&gt;
+&lt;p&gt;The significance of &lt;a href="http://3dprintingpodcast.com/go/cadsoftware" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/cadsoftware';return true;" onmouseout="self.status=''"&gt;Autodesk&lt;/a&gt; is the fact that they are currently the largest company in the United States, and perhaps even the world that is producing a 3D printer. Gonzalo speaks about the firm, and his own family&amp;#8217;s experience in 3D Printing!&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-autodesk-part-2/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/07/autodesk-2-1.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk, gives an interesting interview about his firm’s play in 3D Printing.
+The significance of Autodesk is the fact that they are currently the largest company in[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk, gives an interesting interview about his firm’s play in 3D Printing.
+The significance of Autodesk is the fact that they are currently the largest company in the United States, and perhaps even the world that is producing a 3D printer. Gonzalo speaks about the firm, and his own family’s experience in 3D Printing!</itunes:summary>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Podcast Interview – Kegan Schouwenburg, Founder of Sols</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-interview-kegan-schouwenburg-founder-of-sols/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-interview-kegan-schouwenburg-founder-of-sols/#comments</comments>
+                    <pubDate>Thu, 17 Jul 2014 19:48:51 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>Insoles</category>
+                    <category>3d Printed Insoles</category>
+                    <category>3d printed orthordics</category>
+                    <category>sols</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=318</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+3D Printing Podcast welcomes Kegan Schouwenburg, Founder of Sols in a fun interview. Kegan gives her views of the 3D Printing Industry as a whole. From the Sols website: Our 100% digital process captures and stores a detailed foot scan before visualizing the product, and prescription, in real time. With</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-interview-kegan-schouwenburg-founder-of-sols/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;3D Printing Podcast welcomes Kegan Schouwenburg, Founder of Sols in a fun interview. Kegan gives her views of the 3D Printing Industry as a whole. From the Sols website:&lt;/p&gt;
+&lt;p&gt;Our 100% digital process captures and stores a detailed foot scan before visualizing the product, and prescription, in real time. With SOLS, you will experience increased accuracy, improved comfort, and consistent quality. SOLS are made to order from ultra ﬂexible, anti-microbial nylon, &amp;#038; dyed the color of your choice. &lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-interview-kegan-schouwenburg-founder-of-sols/feed/</wfw:commentRss>
+                    <slash:comments>6</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/07/Kegan-1-7_17_14-1.42-PM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>3D Printing Podcast welcomes Kegan Schouwenburg, Founder of Sols in a fun interview. Kegan gives her views of the 3D Printing Industry as a whole. From the Sols website:
+Our 100% digital process captures and stores a detailed foot scan before visual[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>3D Printing Podcast welcomes Kegan Schouwenburg, Founder of Sols in a fun interview. Kegan gives her views of the 3D Printing Industry as a whole. From the Sols website:
+Our 100% digital process captures and stores a detailed foot scan before visualizing the product, and prescription, in real time. With SOLS, you will experience increased accuracy, improved comfort, and consistent quality. SOLS are made to order from ultra ﬂexible, anti-microbial nylon, &amp; dyed the color of your choice. </itunes:summary>
+                    <itunes:keywords>Insoles</itunes:keywords>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Podcast Featuring SME Executives on 3D Printing and Additive Manufacturing</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-featuring-sme-executives-on-3d-printing-and-additive-manufacturing/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-featuring-sme-executives-on-3d-printing-and-additive-manufacturing/#comments</comments>
+                    <pubDate>Thu, 03 Jul 2014 13:32:49 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>conference</category>
+                    <category>3D Printing Trade</category>
+                    <category>additive manufacturing</category>
+                    <category>SME</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=307</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and companies involved in all facets of manufacturing. Founded in 1932, SME is dedicated to advancing and educating</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-featuring-sme-executives-on-3d-printing-and-additive-manufacturing/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, &lt;em&gt;Industry Manager over Additive Manufacturin&lt;/em&gt;g and 3D Technology and Jeannine Kunz,&lt;em&gt; Managing Director, SME is a professional organization for individuals, students, educators and companies involved in all facets of manufacturing. Founded in 1932, SME is dedicated to advancing and educating the manufacturing industry.  Tooling U-SME, a division of SME, delivers versatile, competency-based learning and development solutions to the manufacturing community, working with more than half of all Fortune(r) 500 manufacturing  companies, as well as educational institutions across the country.&lt;/p&gt;
+&lt;p&gt;SME is joining the &lt;a href="http://3dprintingpodcast.com/go/3dguide" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/3dguide';return true;" onmouseout="self.status=''"&gt;3D Printing Revolution&lt;/a&gt;!&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-featuring-sme-executives-on-3d-printing-and-additive-manufacturing/feed/</wfw:commentRss>
+                    <slash:comments>4</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/07/SME-1-7_3_14-7.27-AM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and com[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>Enjoy the 3D Printing Podcast Featuring SME executives, Kevin Ayers, Industry Manager over Additive Manufacturing and 3D Technology and Jeannine Kunz, Managing Director, SME is a professional organization for individuals, students, educators and companies involved in all facets of manufacturing. Founded in 1932, SME is dedicated to advancing and educating the manufacturing industry.  Tooling U-SME, a division of SME, delivers versatile, competency-based learning and development solutions to the manufacturing community, working with more than half of all Fortune(r) 500 manufacturing  companies, as well as educational institutions across the country.
+SME is joining the 3D Printing Revolution!</itunes:summary>
+                    <itunes:keywords>conference</itunes:keywords>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Business Podcast – Interview With Autodesk</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-business-podcast-interview-with-autodesk/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-business-podcast-interview-with-autodesk/#comments</comments>
+                    <pubDate>Mon, 30 Jun 2014 17:53:59 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>Consumer Products</category>
+                    <category>3d printing firms</category>
+                    <category>3d printing platforms</category>
+                    <category>autodesk</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=303</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+This is an interesting interview with Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk. The significance of Autodesk is the fact that they are currently the largest company in the United States, and perhaps even the world that is producing a 3D printer. Earlier</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-business-podcast-interview-with-autodesk/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;This is an interesting interview with Gonzalo Martinez, Director of Strategic Research in the office of the CTO at &lt;a href="http://3dprintingpodcast.com/go/cadsoftware" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/cadsoftware';return true;" onmouseout="self.status=''"&gt;Autodesk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The significance of &lt;a href="http://3dprintingpodcast.com/go/cadsoftware" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/cadsoftware';return true;" onmouseout="self.status=''"&gt;Autodesk&lt;/a&gt; is the fact that they are currently the largest company in the United States, and perhaps even the world that is producing a 3D printer. Earlier this year the company, known for their C A D software, unveiled details on their upcoming SLA 3D printer, aimed towards consumers and small businesses. Why this matters, is that overnight the large 3D printing companies, suddenly found themselves competing with an enormous company (in some cases, more than twice as large as them). This will do two things in helping to spur on R&amp;#038;D into the space.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-business-podcast-interview-with-autodesk/feed/</wfw:commentRss>
+                    <slash:comments>5</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/06/autodesk-1-6_30_14-11.47-AM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>This is an interesting interview with Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk.
+The significance of Autodesk is the fact that they are currently the largest company in the United States, and perhaps even [...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>This is an interesting interview with Gonzalo Martinez, Director of Strategic Research in the office of the CTO at Autodesk.
+The significance of Autodesk is the fact that they are currently the largest company in the United States, and perhaps even the world that is producing a 3D printer. Earlier this year the company, known for their C A D software, unveiled details on their upcoming SLA 3D printer, aimed towards consumers and small businesses. Why this matters, is that overnight the large 3D printing companies, suddenly found themselves competing with an enormous company (in some cases, more than twice as large as them). This will do two things in helping to spur on R&amp;D into the space.</itunes:summary>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Staples 3D Printing Podcast Part 3, Small Business Benefits From 3D Printing</title>
+                    <link>http://3dprintingpodcast.com/staples-3d-printing-podcast-part-3-small-business-benefits-from-3d-printing/</link>
+                    <comments>http://3dprintingpodcast.com/staples-3d-printing-podcast-part-3-small-business-benefits-from-3d-printing/#comments</comments>
+                    <pubDate>Tue, 10 Jun 2014 22:41:55 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>Events</category>
+                    <category>staples</category>
+                    <category>staples 3d printing</category>
+                    <category>staples podcast</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=290</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+Staples, once again is our guest on this &amp;#8220;three peat&amp;#8221; podcast. Here Chris Demeo, Vice President of Sales and Promotions at Staples speaks not only about Staples but also how small business in general can benefit from using 3D Printing. Chris does a great job of explaining Staples&amp;#8217; role and</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/staples-3d-printing-podcast-part-3-small-business-benefits-from-3d-printing/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;Staples, once again is our guest on this &amp;#8220;three peat&amp;#8221; podcast. Here Chris Demeo, Vice President of Sales and Promotions at Staples speaks not only about Staples but also how small business in general can benefit from using 3D Printing. Chris does a great job of explaining Staples&amp;#8217; role and having fun at the same time. Enjoy!&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/staples-3d-printing-podcast-part-3-small-business-benefits-from-3d-printing/feed/</wfw:commentRss>
+                    <slash:comments>5</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/06/staples-3-6_10_14-4.35-PM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>Staples, once again is our guest on this “three peat” podcast. Here Chris Demeo, Vice President of Sales and Promotions at Staples speaks not only about Staples but also how small business in general can benefit from using 3D Printing. C[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>Staples, once again is our guest on this “three peat” podcast. Here Chris Demeo, Vice President of Sales and Promotions at Staples speaks not only about Staples but also how small business in general can benefit from using 3D Printing. Chris does a great job of explaining Staples’ role and having fun at the same time. Enjoy!</itunes:summary>
+                    <itunes:keywords>Events</itunes:keywords>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Staples 3D Printing Podcast – 3D Printing Services and Intellectual Property Issues in 3D Printing</title>
+                    <link>http://3dprintingpodcast.com/staples-3d-printing-podcast-3d-printing-services-and-intellectual-property-issues-in-3d-printing/</link>
+                    <comments>http://3dprintingpodcast.com/staples-3d-printing-podcast-3d-printing-services-and-intellectual-property-issues-in-3d-printing/#comments</comments>
+                    <pubDate>Sun, 01 Jun 2014 19:19:23 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>Intellectual Property</category>
+                    <category>staples interview</category>
+                    <category>staples on Ip issues</category>
+                    <category>staples podcast</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=282</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. He handles some pretty pervasive questions about 3D Printing Intellectual Property conflicts and how Staples handles this controversial issue. It seems that Staples has been dealing with this issue long before 3D Printing technology hit the</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/staples-3d-printing-podcast-3d-printing-services-and-intellectual-property-issues-in-3d-printing/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. He handles some pretty pervasive questions about 3D Printing Intellectual Property conflicts and how Staples handles this controversial issue. It seems that Staples has been dealing with this issue long before 3D Printing technology hit the masses.&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/staples-3d-printing-podcast-3d-printing-services-and-intellectual-property-issues-in-3d-printing/feed/</wfw:commentRss>
+                    <slash:comments>8</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/06/Staples-2-6_1_14-1.10-PM.m4a" length="1" type="audio/x-m4a"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. He handles some pretty pervasive questions about 3D Printing Intellectual Property conflicts and how Staples handles this controversial issue. It seems th[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. He handles some pretty pervasive questions about 3D Printing Intellectual Property conflicts and how Staples handles this controversial issue. It seems that Staples has been dealing with this issue long before 3D Printing technology hit the masses.</itunes:summary>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Podcast Interview With Staples – Largest Office Products Retailer’s Plans In 3D Printing Services</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-staples-largest-office-products-retailers-plans-in-3d-printing-services/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-staples-largest-office-products-retailers-plans-in-3d-printing-services/#comments</comments>
+                    <pubDate>Tue, 20 May 2014 08:13:10 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>Consumer Products</category>
+                    <category>3d printing staples</category>
+                    <category>staples interview</category>
+                    <category>staples podcast</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=275</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. Staples is making all kinds of news.</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-interview-with-staples-largest-office-products-retailers-plans-in-3d-printing-services/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. Staples is making all kinds of news. &lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-interview-with-staples-largest-office-products-retailers-plans-in-3d-printing-services/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/05/Staples-1-5_19_14-10.59-AM.m4a" length="10633054" type="audio/x-m4a"/>
+                    <itunes:duration>0:05:21</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. Staples is making all kinds of news. </itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>3D Printing Podcast interviews Chris Demeo, Vice President of Sales and Promotions at Staples. Staples is making all kinds of news. </itunes:summary>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printing Podcast Interview – FormLabs Discussion at 3D Printing Conference</title>
+                    <link>http://3dprintingpodcast.com/3d-printing-podcast-interview-formlabs-discussion-at-3d-printing-conference/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printing-podcast-interview-formlabs-discussion-at-3d-printing-conference/#comments</comments>
+                    <pubDate>Mon, 12 May 2014 19:50:11 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>About 3d Printing</category>
+                    <category>Events</category>
+                    <category>3d printers</category>
+                    <category>3D Printing Conference</category>
+                    <category>formlabs</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=230</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+3D Printing Podcast interview with Ryan at Formlabs. We spoke to Ryan at the latest 3D Printing Conference about his firm&amp;#8217;s 3D Printers and free software. This is a forward thinking company that has a lot to talk about as far as the 3D Printing Industry goes. Interesting 3D Printing</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printing-podcast-interview-formlabs-discussion-at-3d-printing-conference/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;3D Printing Podcast interview with Ryan at Formlabs. We spoke to Ryan at the latest 3D Printing Conference about his firm&amp;#8217;s 3D Printers and free software. This is a forward thinking company that has a lot to talk about as far as the &lt;a href="http://associationof3dprinting.com/subscribe/" title="3d chamber" target="_blank"&gt;3D Printing Industr&lt;/a&gt;y goes.&lt;/p&gt;
+&lt;p&gt;Interesting &lt;a href="http://3dprintingpodcast.com/go/3dstore" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/3dstore';return true;" onmouseout="self.status=''"&gt;3D Printing Store&lt;/a&gt; idea, for sure&lt;/p&gt;
+&lt;p&gt;From the Formlabs site:&lt;br /&gt;
+&amp;#8220;That details matter when you design and engineer a product and that effort is wasted if it doesn’t improve the customer experience. That you should love working with your team. That people can manage their own schedule and get their work done. That work should be a passion, not a job.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Subscribe to our newsletter at the &lt;a href="http://associationof3dprinting.com/subscribe/" title="Subscribe" target="_blank"&gt;Association of 3D Printing&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printing-podcast-interview-formlabs-discussion-at-3d-printing-conference/feed/</wfw:commentRss>
+                    <slash:comments>7</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/05/formlabs-5_12_14-1.31-PM.m4a" length="4164514" type="audio/x-m4a"/>
+                    <itunes:duration>0:01:57</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>3D Printing Podcast interview with Ryan at Formlabs. We spoke to Ryan at the latest 3D Printing Conference about his firm’s 3D Printers and free software. This is a forward thinking company that has a lot to talk about as far as the 3D Printin[...]</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>3D Printing Podcast interview with Ryan at Formlabs. We spoke to Ryan at the latest 3D Printing Conference about his firm’s 3D Printers and free software. This is a forward thinking company that has a lot to talk about as far as the 3D Printing Industry goes.
+Interesting 3D Printing Store idea, for sure
+From the Formlabs site:
+“That details matter when you design and engineer a product and that effort is wasted if it doesn’t improve the customer experience. That you should love working with your team. That people can manage their own schedule and get their work done. That work should be a passion, not a job.”
+Subscribe to our newsletter at the Association of 3D Printing</itunes:summary>
+                    <itunes:keywords>Events</itunes:keywords>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>3D Printers Entering the US Market –  XYZ Printing From Taiwan Poised to Come Into the USA</title>
+                    <link>http://3dprintingpodcast.com/3d-printers-entering-the-us-market-xyz-printing-fro-taiwan-poised-to-come-into-the-usa/</link>
+                    <comments>http://3dprintingpodcast.com/3d-printers-entering-the-us-market-xyz-printing-fro-taiwan-poised-to-come-into-the-usa/#comments</comments>
+                    <pubDate>Mon, 28 Apr 2014 21:48:53 +0000</pubDate>
+                    <dc:creator>Bill Decker</dc:creator>
+                    <category>International</category>
+                    <category>3d printer</category>
+                    <category>3d printing machines</category>
+                    <category>xyz</category>
+                    <guid isPermaLink="false">http://3dprintingpodcast.com/?p=221</guid>
+                    <description>&lt;style type="text/css"&gt;
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+&lt;/style&gt;
+3D Printing Show. We spoke to XYZ Printing at the 3D Printing conference. Look out USA, Taiwan is here! Visit the 3d printing store for the latest 3d printers, parts and accessories. &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;</description>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <content:encoded>&lt;div name="googleone_share_1" style="position:relative;z-index:5;float: right; margin-left: 10px;"&gt;&lt;g:plusone size="medium" count="" href="http://3dprintingpodcast.com/3d-printers-entering-the-us-market-xyz-printing-fro-taiwan-poised-to-come-into-the-usa/"&gt;&lt;/g:plusone&gt;&lt;/div&gt;&lt;p&gt;3D Printing Show. We spoke to XYZ Printing at the 3D Printing conference. Look out USA, Taiwan is here!&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href="http://3dprintingpodcast.com/go/3dstore" style="" target="_blank" rel="nofollow" onmouseover="self.status='http://3dprintingpodcast.com/go/3dstore';return true;" onmouseout="self.status=''"&gt;3d printing store&lt;/a&gt; for the latest 3d printers, parts and accessories.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+</content:encoded>
+                    <wfw:commentRss>http://3dprintingpodcast.com/3d-printers-entering-the-us-market-xyz-printing-fro-taiwan-poised-to-come-into-the-usa/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://3dprintingpodcast.com/wp-content/uploads/2014/04/XYZ-4_28_14-3.41-PM.m4a" length="3029211" type="audio/x-m4a"/>
+                    <itunes:duration>0:01:31</itunes:duration>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:subtitle>3D Printing Show. We spoke to XYZ Printing at the 3D Printing conference. Look out USA, Taiwan is here!
+Visit the 3d printing store for the latest 3d printers, parts and accessories.
+&#160;&#160;&#160;&#160;&#160;</itunes:subtitle>
+                    <style type="text/css">
+#leftcontainerBox {
+float:left;
+position: fixed;
+top: 60%;
+left: 70px;
+}
+
+#leftcontainerBox .buttons {
+float:left;
+clear:both;
+margin:4px 4px 4px 4px;
+
+padding-bottom:2px;
+}
+
+
+#bottomcontainerBox {
+height: 30px;
+width:50%;
+padding-top:1px;
+}
+
+#bottomcontainerBox .buttons {
+float:left;
+height: 30px;
+margin:4px 4px 4px 4px;
+}
+
+</style>
+                    <itunes:summary>3D Printing Show. We spoke to XYZ Printing at the 3D Printing conference. Look out USA, Taiwan is here!
+Visit the 3d printing store for the latest 3d printers, parts and accessories.
+&#160;&#160;&#160;&#160;&#160;</itunes:summary>
+                    <itunes:keywords>International</itunes:keywords>
+                    <itunes:author>bill decker</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 11:39:07 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.4.9 (Unix) PHP/5.5.11"/>
+        <httpclient:header name="Last-Modified" value="Mon, 09 Jun 2014 18:56:55 GMT"/>
+        <httpclient:header name="ETag" value="&#34;e5cd-4fb6bc65e8bc0&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Length" value="58829"/>
+        <httpclient:header name="Content-Type" value="application/xml"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml" type="xml"><!-- generator="Podcast Generator 1.3" -->
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="es" version="2.0">
+            <channel>
+                <title>Las Mangas del Chaleco</title>
+                <link>http://63.99.201.90/lasmangaspodcast/</link>
+                <description>Noticias y Politica Humoristica || http://noticierostelevisa.com</description>
+                <generator>Podcast Generator 1.3 - http://podcastgen.sourceforge.net</generator>
+                <lastBuildDate>Mon, 09 Jun 2014 18:56:51 +0000</lastBuildDate>
+                <language>es</language>
+                <copyright>Todos los derechos reservados</copyright>
+                <itunes:image href="http://63.99.201.90/lasmangaspodcast/images/itunes_image.jpg"/>
+                <image>
+                    <url>http://63.99.201.90/lasmangaspodcast/images/itunes_image.jpg</url>
+                    <title>Las Mangas del Chaleco</title>
+                    <link>http://63.99.201.90/lasmangaspodcast/</link>
+                </image>
+                <itunes:summary>Noticias y Politica Humoristica || http://noticierostelevisa.com</itunes:summary>
+                <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                <itunes:author>Alex Pepi G.</itunes:author>
+                <itunes:owner>
+                    <itunes:name>Alex Pepi G.</itunes:name>
+                    <itunes:email>lasmangasdelchaleco00@gmail.com</itunes:email>
+                </itunes:owner>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:category text="Comedy"/>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 115 09/05/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_905.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-06-09_mangas_905.m4v" length="44820153" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_905.m4v</guid>
+                    <itunes:duration>6:13</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 09 Jun 2014 18:56:51 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 114 25/04/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_2504bueno.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-06-09_mangas_2504bueno.m4v" length="73846938" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_2504bueno.m4v</guid>
+                    <itunes:duration>6:00</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 09 Jun 2014 18:28:23 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 112 11/04/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_1104_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-06-09_mangas_1104_ok.m4v" length="93577724" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-06-09_mangas_1104_ok.m4v</guid>
+                    <itunes:duration>7:34</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 09 Jun 2014 17:03:24 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 111 04/04/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas0404.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-04-17_mangas0404.m4v" length="62199958" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas0404.m4v</guid>
+                    <itunes:duration>8:40</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 17 Apr 2014 20:18:57 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 110 28/03/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas_2803_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-04-17_mangas_2803_ok.m4v" length="85689478" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas_2803_ok.m4v</guid>
+                    <itunes:duration>6:55</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 17 Apr 2014 19:34:51 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 109 21/03/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas_2103.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-04-17_mangas_2103.m4v" length="64476326" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas_2103.m4v</guid>
+                    <itunes:duration>8:59</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 17 Apr 2014 18:03:10 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 108 14/03/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas14032014.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-04-17_mangas14032014.m4v" length="44593535" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-04-17_mangas14032014.m4v</guid>
+                    <itunes:duration>6:23</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 17 Apr 2014 17:33:49 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 107 28/02/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas_28.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-03-07_mangas_28.m4v" length="76926332" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas_28.m4v</guid>
+                    <itunes:duration>6:13</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Fri, 07 Mar 2014 20:57:34 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 106 21/02/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas_21.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-03-07_mangas_21.m4v" length="54675971" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas_21.m4v</guid>
+                    <itunes:duration>7:37</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Fri, 07 Mar 2014 19:50:10 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 105 14/02/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas14_pepi.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-03-07_mangas14_pepi.m4v" length="62016682" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-03-07_mangas14_pepi.m4v</guid>
+                    <itunes:duration>8:53</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Fri, 07 Mar 2014 19:09:43 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 104 31/01/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-02-04_mangas_pepi_31ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-02-04_mangas_pepi_31ok.m4v" length="58723856" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-02-04_mangas_pepi_31ok.m4v</guid>
+                    <itunes:duration>8:25</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 04 Feb 2014 04:41:55 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 103 24/01/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-02-01_mangas_24_pot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-02-01_mangas_24_pot.m4v" length="86357108" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-02-01_mangas_24_pot.m4v</guid>
+                    <itunes:duration>6:59</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 01 Feb 2014 04:57:13 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 102 17/01/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-23_mangas17ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-01-23_mangas17ok.m4v" length="91466351" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-23_mangas17ok.m4v</guid>
+                    <itunes:duration>7:32</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 23 Jan 2014 22:19:05 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 101 03/01/2014</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-07_pepi.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-01-07_pepi.m4v" length="53973122" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-07_pepi.m4v</guid>
+                    <itunes:duration>7:44</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 07 Jan 2014 04:02:51 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 100 27/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-01_mangaspepi_pot_27_13.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2014-01-01_mangaspepi_pot_27_13.m4v" length="89751863" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2014-01-01_mangaspepi_pot_27_13.m4v</guid>
+                    <itunes:duration>12:51</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Wed, 01 Jan 2014 03:52:40 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 99 20/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-21_mangaspepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-12-21_mangaspepiok.m4v" length="91218489" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-21_mangaspepiok.m4v</guid>
+                    <itunes:duration>12:34</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 21 Dec 2013 04:49:34 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 98 19/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-20_mangas_pepi_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-12-20_mangas_pepi_ok.m4v" length="50810563" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-20_mangas_pepi_ok.m4v</guid>
+                    <itunes:duration>7:19</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Fri, 20 Dec 2013 03:52:23 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 97 12/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-18_mangaspepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-12-18_mangaspepiok.m4v" length="61841273" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-18_mangaspepiok.m4v</guid>
+                    <itunes:duration>8:50</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Wed, 18 Dec 2013 04:26:54 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 96 06/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-07_mangaspepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-12-07_mangaspepiok.m4v" length="62297815" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-07_mangaspepiok.m4v</guid>
+                    <itunes:duration>5:08</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 07 Dec 2013 04:36:19 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 95 22/11/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-03_mangas_pepi_bien_potd.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-12-03_mangas_pepi_bien_potd.m4v" length="82431132" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-12-03_mangas_pepi_bien_potd.m4v</guid>
+                    <itunes:duration>6:47</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 03 Dec 2013 22:10:00 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 94 08/11/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-11-09_mangaspepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-11-09_mangaspepiok.m4v" length="64458093" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-11-09_mangaspepiok.m4v</guid>
+                    <itunes:duration>9:14</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 09 Nov 2013 04:54:26 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 93 25/10/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-11-02_mangaspepiokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-11-02_mangaspepiokok.m4v" length="101124906" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-11-02_mangaspepiokok.m4v</guid>
+                    <itunes:duration>8:19</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 02 Nov 2013 05:00:27 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 92 25/10/201</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-27_mangas_25_ppiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-10-27_mangas_25_ppiok.m4v" length="61123265" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-27_mangas_25_ppiok.m4v</guid>
+                    <itunes:duration>8:45</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sun, 27 Oct 2013 05:44:02 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 91 18/10/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-23_mangas_dvokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-10-23_mangas_dvokok.m4v" length="94075702" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-23_mangas_dvokok.m4v</guid>
+                    <itunes:duration>7:36</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Wed, 23 Oct 2013 03:47:19 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 90 11/10/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-17_las_mangas.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-10-17_las_mangas.m4v" length="55297058" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-17_las_mangas.m4v</guid>
+                    <itunes:duration>7:41</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 17 Oct 2013 00:18:03 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 89 04/10/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-05_mangaspepiokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-10-05_mangaspepiokok.m4v" length="49315155" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-10-05_mangaspepiokok.m4v</guid>
+                    <itunes:duration>4:04</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 05 Oct 2013 03:19:45 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 88 27/09/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-28_mangaspepiokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-09-28_mangaspepiokok.m4v" length="50166551" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-28_mangaspepiokok.m4v</guid>
+                    <itunes:duration>7:11</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 28 Sep 2013 03:58:57 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 87 06/09/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-07_mangaspepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-09-07_mangaspepiok.m4v" length="52570486" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-07_mangaspepiok.m4v</guid>
+                    <itunes:duration>7:31</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 07 Sep 2013 03:26:34 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 86 30/08/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-07_mangas_pot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-09-07_mangas_pot.m4v" length="63462995" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-09-07_mangas_pot.m4v</guid>
+                    <itunes:duration>5:13</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 07 Sep 2013 03:13:51 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 85 26/08/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-26_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-08-26_pepiok.m4v" length="56335041" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-26_pepiok.m4v</guid>
+                    <itunes:duration>7:50</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 26 Aug 2013 21:01:30 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 84 16/08/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-17_mangas_pepi.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-08-17_mangas_pepi.m4v" length="46207884" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-17_mangas_pepi.m4v</guid>
+                    <itunes:duration>6:37</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 17 Aug 2013 04:02:08 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 83 12/08/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-13_mangas_pepiokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-08-13_mangas_pepiokok.m4v" length="58992245" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-13_mangas_pepiokok.m4v</guid>
+                    <itunes:duration>8:26</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 13 Aug 2013 01:46:43 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 82 02/08/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-05_pepi_mangasok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-08-05_pepi_mangasok.m4v" length="80113970" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-08-05_pepi_mangasok.m4v</guid>
+                    <itunes:duration>6:36</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 05 Aug 2013 22:28:23 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 81 26/07/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-27_pepi_okok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-07-27_pepi_okok.m4v" length="81995664" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-27_pepi_okok.m4v</guid>
+                    <itunes:duration>6:45</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 27 Jul 2013 04:10:09 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 80 19/07/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-20_mangas_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-07-20_mangas_pepiok.m4v" length="80429184" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-20_mangas_pepiok.m4v</guid>
+                    <itunes:duration>6:39</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 20 Jul 2013 04:03:00 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 79 12/07/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-13_pepi_mangasok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-07-13_pepi_mangasok.m4v" length="83962174" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-13_pepi_mangasok.m4v</guid>
+                    <itunes:duration>6:55</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 13 Jul 2013 04:21:03 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 78 09/07/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-09_pepipot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-07-09_pepipot.m4v" length="67034587" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-07-09_pepipot.m4v</guid>
+                    <itunes:duration>9:36</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 09 Jul 2013 21:18:15 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 77 28/06/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-29_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-06-29_pepiok.m4v" length="66653779" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-29_pepiok.m4v</guid>
+                    <itunes:duration>5:29</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 29 Jun 2013 04:21:21 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 76 21/06/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-22_mangas_21_pod.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-06-22_mangas_21_pod.m4v" length="57226585" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-22_mangas_21_pod.m4v</guid>
+                    <itunes:duration>8:12</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 22 Jun 2013 03:49:15 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 75 1/06/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-15_mangas_hoy.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-06-15_mangas_hoy.m4v" length="47533328" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-15_mangas_hoy.m4v</guid>
+                    <itunes:duration>6:48</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 15 Jun 2013 04:11:00 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capitulo 74 07/06/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-08_mangas_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-06-08_mangas_pepiok.m4v" length="63109844" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-08_mangas_pepiok.m4v</guid>
+                    <itunes:duration>9:03</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 08 Jun 2013 04:41:01 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capitulo 73 31/05/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-06_mangas_pepi_01.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-06-06_mangas_pepi_01.m4v" length="64043969" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-06-06_mangas_pepi_01.m4v</guid>
+                    <itunes:duration>9:12</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 06 Jun 2013 22:39:34 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 72 24/05/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-25_mangas_pepi.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-05-25_mangas_pepi.m4v" length="48537975" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-25_mangas_pepi.m4v</guid>
+                    <itunes:duration>3:59</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 25 May 2013 04:11:52 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 71 20/05/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-21_mangas_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-05-21_mangas_pepiok.m4v" length="49439048" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-21_mangas_pepiok.m4v</guid>
+                    <itunes:duration>7:06</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 21 May 2013 03:48:59 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 70 10/05/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-11_pepipot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-05-11_pepipot.m4v" length="78920189" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-11_pepipot.m4v</guid>
+                    <itunes:duration>6:29</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 11 May 2013 04:03:46 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 69 03/05/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-04_pepi_podcast_okok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-05-04_pepi_podcast_okok.m4v" length="44983307" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-04_pepi_podcast_okok.m4v</guid>
+                    <itunes:duration>6:29</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 04 May 2013 04:25:24 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 68 26/04/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-02_pepi_podcast_68.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-05-02_pepi_podcast_68.m4v" length="85277902" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-05-02_pepi_podcast_68.m4v</guid>
+                    <itunes:duration>4:37</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Thu, 02 May 2013 03:54:43 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 67 19/04/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-19_pepi_pot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-04-19_pepi_pot.m4v" length="51081292" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-19_pepi_pot.m4v</guid>
+                    <itunes:duration>7:20</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 20 Apr 2013 04:15:35 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 66 12/04/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-12_pepi_podcast_ok_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-04-12_pepi_podcast_ok_ok.m4v" length="82681251" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-12_pepi_podcast_ok_ok.m4v</guid>
+                    <itunes:duration>6:48</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 13 Apr 2013 04:42:07 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 65 05/04/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-06_pepi_potokok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-04-06_pepi_potokok.m4v" length="60863337" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-04-06_pepi_potokok.m4v</guid>
+                    <itunes:duration>8:43</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 06 Apr 2013 05:03:40 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capitulo 64 29/03/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Fraces de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-29_pepi_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-03-29_pepi_ok.m4v" length="49857575" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-29_pepi_ok.m4v</guid>
+                    <itunes:duration>7:07</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 30 Mar 2013 04:52:03 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 63 22/03/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-22_pepi_mangasok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-03-22_pepi_mangasok.m4v" length="81343398" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-22_pepi_mangasok.m4v</guid>
+                    <itunes:duration>6:41</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 23 Mar 2013 04:43:16 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capitulo 62 15/03/2013</title>
+                    <itunes:subtitle>Las Fraces de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Fraces de la Semana </itunes:summary>
+                    <description>Las Fraces de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-16_pepi_pot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-03-16_pepi_pot.m4v" length="58080593" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-16_pepi_pot.m4v</guid>
+                    <itunes:duration>8:19</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 16 Mar 2013 06:14:19 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 61 08/03/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-08_pepi_mangas.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-03-08_pepi_mangas.m4v" length="77432956" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-08_pepi_mangas.m4v</guid>
+                    <itunes:duration>6:23</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 09 Mar 2013 05:10:18 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 60 01/03/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-01_pepi_podok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-03-01_pepi_podok.m4v" length="53790251" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-03-01_pepi_podok.m4v</guid>
+                    <itunes:duration>7:41</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 02 Mar 2013 05:00:43 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 59 25/02/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-25_mangas_pepi_pot.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-02-25_mangas_pepi_pot.m4v" length="59701461" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-25_mangas_pepi_pot.m4v</guid>
+                    <itunes:duration>8:33</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Tue, 26 Feb 2013 05:05:18 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 58 15/02/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-15_pepi_mangas_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-02-15_pepi_mangas_ok.m4v" length="56607666" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-15_pepi_mangas_ok.m4v</guid>
+                    <itunes:duration>8:05</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 16 Feb 2013 05:37:25 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 57 08/02/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-08_mangas_pepitito_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-02-08_mangas_pepitito_ok.m4v" length="54290183" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-02-08_mangas_pepitito_ok.m4v</guid>
+                    <itunes:duration>7:46</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 09 Feb 2013 05:15:54 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 56 25/01/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-25_mangas_pepi_pot_okok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-01-25_mangas_pepi_pot_okok.m4v" length="52494726" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-25_mangas_pepi_pot_okok.m4v</guid>
+                    <itunes:duration>7:30</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 26 Jan 2013 05:04:38 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 55 18/01/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-18_mangas_pepiok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-01-18_mangas_pepiok.m4v" length="83790351" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-18_mangas_pepiok.m4v</guid>
+                    <itunes:duration>6:53</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 19 Jan 2013 05:17:14 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 54 11/01/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-14_pepi111.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-01-14_pepi111.m4v" length="50669492" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-14_pepi111.m4v</guid>
+                    <itunes:duration>7:15</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Mon, 14 Jan 2013 22:19:03 +0000</pubDate>
+                </item>
+                <item>
+                    <title>Las Mangas del Chaleco capítulo 53 04/12/2013</title>
+                    <itunes:subtitle>Las Frases de la Semana</itunes:subtitle>
+                    <itunes:summary> Las Frases de la Semana </itunes:summary>
+                    <description>Las Frases de la Semana</description>
+                    <link>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-04_pepi_podcast_ok.m4v</link>
+                    <enclosure url="http://63.99.201.90/lasmangaspodcast/media/2013-01-04_pepi_podcast_ok.m4v" length="45564409" type="video/x-m4v"/>
+                    <guid>http://63.99.201.90/lasmangaspodcast/?p=episode&amp;name=2013-01-04_pepi_podcast_ok.m4v</guid>
+                    <itunes:duration>6:30</itunes:duration>
+                    <author>lasmangasdelchaleco00@gmail.com (Alex Pepi G.)</author>
+                    <itunes:author>Alex Pepi G.</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <pubDate>Sat, 05 Jan 2013 05:08:00 +0000</pubDate>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

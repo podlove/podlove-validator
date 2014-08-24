@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:40 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:40 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=t4cuobdpra1jvjqw4i4ws0fo; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:39 GMT"/>
+        <httpclient:header name="Content-Length" value="135096"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/3989</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/3989" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:40 GMT</lastBuildDate>
+                <image>
+                    <title>Bildoktorn</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=2294</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/2294/2938015_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>I Fråga Bildoktorn svarar Bosse Bildoktorn Andersson på lyssnarfrågor om allt från nackstöd till förgasarstrul. Ständig vapendragare och programledare är Hasse Pettersson. Programmet sänds omväxlande i SR Jönköping P4 och i P4 över hela landet. Vi erbjuder alla programmen som poddradio</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Bildoktorn</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Bildoktorn</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=2294</link>
+                <description>I Fråga Bildoktorn svarar Bosse Bildoktorn Andersson på lyssnarfrågor om allt från nackstöd till förgasarstrul. Ständig vapendragare och programledare är Hasse Pettersson. Programmet sänds omväxlande i SR Jönköping P4 och i P4 över hela landet. Vi erbjuder alla programmen som poddradio</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Bildoktorn 29 maj</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4967586.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140529_1200_2a9595b.mp3</guid>
+                    <pubDate>Thu, 29 May 2014 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,29,maj</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4967586.mp3" length="35709859" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bildoktorn 12 maj</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4953155.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140512_0900_2c3c4e4.mp3</guid>
+                    <pubDate>Mon, 12 May 2014 07:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,12,maj</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4953155.mp3" length="36020403" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bosse Bildoktorn 21 april</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4929666.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140421_1200_2a1d395.mp3</guid>
+                    <pubDate>Mon, 21 Apr 2014 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBosse,Bildoktorn,21,april</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4929666.mp3" length="40449533" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bosse Bildoktorn i P4 Jönköping</title>
+                    <description>Bosse Bildoktorn Andersson svarar på lyssnarnas frågor i P4 Förmiddag, sverigesradio.se/jonkoping 14 april 2014. Programledare Hasse Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4919625.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140414_0900_28977e6.mp3</guid>
+                    <pubDate>Mon, 14 Apr 2014 07:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn Andersson svarar på lyssnarnas frågor i P4 Förmiddag, sverigesradio.se/jonkoping 14 april 2014. Programledare Hasse Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBosse,Bildoktorn,i,P4,Jönköping</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4919625.mp3" length="25733092" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bildoktorn 17 mars</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4890120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140317_0900_23ab89a.mp3</guid>
+                    <pubDate>Mon, 17 Mar 2014 07:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,17,mars</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4890120.mp3" length="39690505" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn</title>
+                    <description> </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4864005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140217_0900_25aa4f9.mp3</guid>
+                    <pubDate>Mon, 17 Feb 2014 07:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary> </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4864005.mp3" length="33255601" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 6 januari</title>
+                    <description>Bildoktorn svarar på dina frågor om bilen. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4815390.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20140106_1200_261cad8.mp3</guid>
+                    <pubDate>Mon, 06 Jan 2014 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bildoktorn svarar på dina frågor om bilen. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,6,januari</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4815390.mp3" length="40009564" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 26 dec</title>
+                    <description>Hasse och Bosse finns i studion denna annandagen för att hjälpa dig med dina bilfrågor. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4815389.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20131226_1200_2605502.mp3</guid>
+                    <pubDate>Thu, 26 Dec 2013 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bosse finns i studion denna annandagen för att hjälpa dig med dina bilfrågor. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,26,dec</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4815389.mp3" length="36502970" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"Jag blev så förbannad. Först kom det ett stenskott, sen kom det ett till..."</title>
+                    <description>Bosse "Bildoktorn" Andersson svarar på lyssnarfrågor om bilar i P4 Förmiddag med Hasse Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4781272.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20131202_1200_28d39bf.mp3</guid>
+                    <pubDate>Mon, 02 Dec 2013 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse "Bildoktorn" Andersson svarar på lyssnarfrågor om bilar i P4 Förmiddag med Hasse Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bildoktorn"Jag,blev,så,förbannad.,Först,kom,det,ett,stenskott,,sen,kom,det,ett,till..."</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4781272.mp3" length="39651551" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bildoktorn 4 november</title>
+                    <description>Bosse "Bildoktorn" Andersson i P4 Jönköping svarar på frågor om bilar, tillsammans med Hasse  Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4773329.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20131104_1000_26f546e.mp3</guid>
+                    <pubDate>Mon, 04 Nov 2013 08:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse "Bildoktorn" Andersson i P4 Jönköping svarar på frågor om bilar, tillsammans med Hasse  Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,4,november</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4773329.mp3" length="37356857" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"Jag har ett tickande ljud i min Polo"</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4687026.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130909_1300_29d6fbb.mp3</guid>
+                    <pubDate>Mon, 09 Sep 2013 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bildoktorn"Jag,har,ett,tickande,ljud,i,min,Polo"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4687026.mp3" length="40335038" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vindrutetorkarna lever sitt eget liv</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4679366.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130902_1300_2b67308.mp3</guid>
+                    <pubDate>Mon, 02 Sep 2013 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornVindrutetorkarna,lever,sitt,eget,liv</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4679366.mp3" length="35581166" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"Jag får inte loss ett av mina tändstift!"</title>
+                    <description> </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4606003.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130626_1300_2c17536.mp3</guid>
+                    <pubDate>Sat, 22 Jun 2013 10:03:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary> </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bildoktorn"Jag,får,inte,loss,ett,av,mina,tändstift!"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4606003.mp3" length="37220524" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jag får ånglås i valpen. Hur "låser" jag upp detta?</title>
+                    <description> </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4590591.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130612_1300_2c51da0.mp3</guid>
+                    <pubDate>Thu, 06 Jun 2013 10:03:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary> </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornJag,får,ånglås,i,valpen.,Hur,"låser",jag,upp,detta?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4590591.mp3" length="38245796" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kan man ta bort airbagen tillfällig?</title>
+                    <description> </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4554676.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130513_1300_2bdcb97.mp3</guid>
+                    <pubDate>Thu, 09 May 2013 10:03:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary> </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornKan,man,ta,bort,airbagen,tillfällig?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4554676.mp3" length="38538755" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Veteranbilar får bara köra 80 mil om året</title>
+                    <description>Programmet sändes den 1 april, med Hasse och Bosse i studion. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4501145.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130402_1400_2cb5179.mp3</guid>
+                    <pubDate>Mon, 01 Apr 2013 10:03:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Programmet sändes den 1 april, med Hasse och Bosse i studion. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornVeteranbilar,får,bara,köra,80,mil,om,året</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4501145.mp3" length="37558815" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ventilerna gick rakt ner i kolvarna</title>
+                    <description>Hasse och Bosse i studion för att svara på lyssnarnas frågor. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4468110.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p4_bildoktorn_20130312_1400_2d3c6ce.mp3</guid>
+                    <pubDate>Tue, 12 Mar 2013 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bosse i studion för att svara på lyssnarnas frågor. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornVentilerna,gick,rakt,ner,i,kolvarna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4468110.mp3" length="38725341" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>En smörkniv av plast är ett bra verktyg</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4415331.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_130211_ab58.mp3</guid>
+                    <pubDate>Mon, 11 Feb 2013 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornEn,smörkniv,av,plast,är,ett,bra,verktyg</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4415331.mp3" length="40552489" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Varför finns det inte dubbdäck till min rullator?</title>
+                    <description> </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4341842.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_130102_9e24.mp3</guid>
+                    <pubDate>Tue, 01 Jan 2013 10:03:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary> </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornVarför,finns,det,inte,dubbdäck,till,min,rullator?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4341842.mp3" length="37575386" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Efter däckbytet så började  det gnissla och tjuta när man svänger åt höger</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4334407.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_121227_bb2b.mp3</guid>
+                    <pubDate>Thu, 27 Dec 2012 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornEfter,däckbytet,så,började,,det,gnissla,och,tjuta,när,man,svänger,åt,höger</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4334407.mp3" length="41968187" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>- Det är elbroms på husvagnen...</title>
+                    <description>Bosse sitter redo i studion för dina frågor, i en samsändning mellan P4 Värmland och P4 Jönköping! Programledare är Hasse Pettersson. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4265681.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_121119_aa7b.mp3</guid>
+                    <pubDate>Mon, 19 Nov 2012 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse sitter redo i studion för dina frågor, i en samsändning mellan P4 Värmland och P4 Jönköping! Programledare är Hasse Pettersson. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bildoktorn-,Det,är,elbroms,på,husvagnen...</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4265681.mp3" length="40397830" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>-Min Ford Fiesta går inte upp i värmen</title>
+                    <description>Lyssna här när Bosse Bildoktorn löser problemen för många bilägare. Progamledare är Hasse Pettersson. Detta är en samsändning mellan P4 Värmland och P4 Jönköping</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4182958.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_121004_ccf1.mp3</guid>
+                    <pubDate>Thu, 04 Oct 2012 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Lyssna här när Bosse Bildoktorn löser problemen för många bilägare. Progamledare är Hasse Pettersson. Detta är en samsändning mellan P4 Värmland och P4 Jönköping</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Bildoktorn-Min,Ford,Fiesta,går,inte,upp,i,värmen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4182958.mp3" length="34122945" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gardinstång, dagstidningar och en krita</title>
+                    <description>Hasse och Bosse i studion redo att besvara lyssnarnas frågor. P4 Sveriges Radio</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3973075.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120606_bad1.mp3</guid>
+                    <pubDate>Wed, 06 Jun 2012 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bosse i studion redo att besvara lyssnarnas frågor. P4 Sveriges Radio</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornGardinstång,,dagstidningar,och,en,krita</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3973075.mp3" length="40062151" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kabeln till pulsgivaren var upptorkad</title>
+                    <description>Bosse Bildoktorn och Hasse P löser bilproblemen för smålänningar och värmlänningar. P4 Sveriges Radio</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3973138.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120604_bc83.mp3</guid>
+                    <pubDate>Mon, 04 Jun 2012 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P löser bilproblemen för smålänningar och värmlänningar. P4 Sveriges Radio</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornKabeln,till,pulsgivaren,var,upptorkad</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3973138.mp3" length="36321039" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120517</title>
+                    <description>Ett rikssänt Bosse Bildoktorn med Hasse Pettersson som programledare. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3940130.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120518_aa46.mp3</guid>
+                    <pubDate>Fri, 18 May 2012 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Ett rikssänt Bosse Bildoktorn med Hasse Pettersson som programledare. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120517</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3940130.mp3" length="39939353" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120507</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3919757.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120507_ac6d.mp3</guid>
+                    <pubDate>Mon, 07 May 2012 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120507</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3919757.mp3" length="37963574" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120409</title>
+                    <description>Hasse och Bildoktorn i studion. Sverige Radio P4.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3871642.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120410_c01c.mp3</guid>
+                    <pubDate>Tue, 10 Apr 2012 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bildoktorn i studion. Sverige Radio P4.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120409</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3871642.mp3" length="39228367" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120312</title>
+                    <description>Bosse och Hasse P i studion. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3822703.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120313_a352.mp3</guid>
+                    <pubDate>Tue, 13 Mar 2012 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse och Hasse P i studion. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120312</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3822703.mp3" length="39356677" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120213</title>
+                    <description>Hasse P och Bosse Bildoktorn i en samsändning mellan P4 Jönköping och P4 Värmland. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3768597.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120214_a564.mp3</guid>
+                    <pubDate>Tue, 14 Feb 2012 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse P och Bosse Bildoktorn i en samsändning mellan P4 Jönköping och P4 Värmland. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120213</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3768597.mp3" length="38298876" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20120106</title>
+                    <description>Bosse Bildoktorn och Hasse P, Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3681287.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_120109_9f80.mp3</guid>
+                    <pubDate>Mon, 09 Jan 2012 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P, Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20120106</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3681287.mp3" length="40547871" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20111226</title>
+                    <description>Bosse Bildoktorn och Hasse P i en rikssändning, Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3656353.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_111227_ba94.mp3</guid>
+                    <pubDate>Tue, 27 Dec 2011 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P i en rikssändning, Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20111226</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3656353.mp3" length="38544176" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20111205</title>
+                    <description>Bosse och Hasse P i studion, i en samsändning mellan P4 Jönköping och P4 Värmland. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3616394.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_111205_a1c7.mp3</guid>
+                    <pubDate>Mon, 05 Dec 2011 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse och Hasse P i studion, i en samsändning mellan P4 Jönköping och P4 Värmland. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20111205</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3616394.mp3" length="38835118" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20111107</title>
+                    <description>"Huka er göbber o kärringer för nu laddar han om!"  Bosse bildoktorn svarar på frågor från både värmlänningar och smålänningar. P4 Sveriges Radio.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3568294.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_111109_aeef.mp3</guid>
+                    <pubDate>Wed, 09 Nov 2011 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>"Huka er göbber o kärringer för nu laddar han om!"  Bosse bildoktorn svarar på frågor från både värmlänningar och smålänningar. P4 Sveriges Radio.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20111107</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3568294.mp3" length="38009275" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bildoktorn 10 oktober</title>
+                    <description>Hasse o Bosse i Fråga Bildoktorn besvarar en mängd frågor i en samsändning mellan P4 Jönköping och P4 Värmland.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3510254.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_111010_df23.mp3</guid>
+                    <pubDate>Mon, 10 Oct 2011 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse o Bosse i Fråga Bildoktorn besvarar en mängd frågor i en samsändning mellan P4 Jönköping och P4 Värmland.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,10,oktober</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3510254.mp3" length="33384937" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110912</title>
+                    <description>Hasse och Bosse är i studion igen, redo för lyssnarnas frågor. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3459786.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110913_9dd1.mp3</guid>
+                    <pubDate>Tue, 13 Sep 2011 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bosse är i studion igen, redo för lyssnarnas frågor. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110912</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3459786.mp3" length="36858569" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110815</title>
+                    <description>Hasse och Bosse finns i studion i Jönköping och svarar på lyssnarnas frågor. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3411188.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110817_8d1c.mp3</guid>
+                    <pubDate>Wed, 17 Aug 2011 09:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse och Bosse finns i studion i Jönköping och svarar på lyssnarnas frågor. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110815</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3411188.mp3" length="35798221" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga bildoktorn 20110625</title>
+                    <description>Hasse har nog aldrig hört Bosse sjunga så vackert som han gjorde idag. Men här finns det även plats för många kluriga frågor såklart. Nu har du chansen att höra detta igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3226386.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110627_a318.mp3</guid>
+                    <pubDate>Mon, 27 Jun 2011 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse har nog aldrig hört Bosse sjunga så vackert som han gjorde idag. Men här finns det även plats för många kluriga frågor såklart. Nu har du chansen att höra detta igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,bildoktorn,20110625</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3226386.mp3" length="40963856" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110625</title>
+                    <description>Hasse har nog aldrig hört Bosse sjunga så vackert som han gjorde idag. Men här finns det även plats för många kluriga frågor såklart. Nu har du chansen att höra detta igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3221907.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110625_bd50.mp3</guid>
+                    <pubDate>Sat, 25 Jun 2011 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse har nog aldrig hört Bosse sjunga så vackert som han gjorde idag. Men här finns det även plats för många kluriga frågor såklart. Nu har du chansen att höra detta igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110625</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3221907.mp3" length="20536101" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110613</title>
+                    <description>Bosse Bildoktorn svarar på lyssnarnas frågor. Hasse P är programledare. Sveriges Radio P4.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3180327.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110613030017.mp3</guid>
+                    <pubDate>Mon, 13 Jun 2011 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn svarar på lyssnarnas frågor. Hasse P är programledare. Sveriges Radio P4.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110613</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3180327.mp3" length="39488365" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110606</title>
+                    <description>Är det fel på hjullagret? Varför kokar bilen? Varför läcker den olja? Varför "poffar" det i förgasaren? Frågorna haglar in till Fråga Bildoktorn denna nationaldag. Här är Bosse och Hasse igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3153373.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110606020013.mp3</guid>
+                    <pubDate>Mon, 06 Jun 2011 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Är det fel på hjullagret? Varför kokar bilen? Varför läcker den olja? Varför "poffar" det i förgasaren? Frågorna haglar in till Fråga Bildoktorn denna nationaldag. Här är Bosse och Hasse igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110606</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3153373.mp3" length="35488914" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110602</title>
+                    <description>Kylaren läcker, kopplingspedalen fastnar, signalen är paj och gräsklipparen låter konstigt. Kan Bosse verkligen svara på allt? Här är radarparet Bosse &amp; Hasse igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3141756.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110602020055.mp3</guid>
+                    <pubDate>Thu, 02 Jun 2011 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Kylaren läcker, kopplingspedalen fastnar, signalen är paj och gräsklipparen låter konstigt. Kan Bosse verkligen svara på allt? Här är radarparet Bosse &amp; Hasse igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110602</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3141756.mp3" length="40090644" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110509</title>
+                    <description>Hasse P och Bosse Bildoktorn är redo för lyssnarnas frågor i Sveriges Radio P4.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3079070.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110509120055.mp3</guid>
+                    <pubDate>Mon, 09 May 2011 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse P och Bosse Bildoktorn är redo för lyssnarnas frågor i Sveriges Radio P4.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110509</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3079070.mp3" length="40898560" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110425</title>
+                    <description>Bosse Bildoktorn är redo för alla sorters frågor från Sveriges befolkning. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3052399.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110426110044.mp3</guid>
+                    <pubDate>Tue, 26 Apr 2011 09:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn är redo för alla sorters frågor från Sveriges befolkning. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110425</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3052399.mp3" length="40160444" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110411</title>
+                    <description>Bosse Bildoktorn och Hasse P är som vanligt redo för lyssnarnas frågor från både Jönköping och Värmland. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3020515.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110411040105.mp3</guid>
+                    <pubDate>Mon, 11 Apr 2011 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P är som vanligt redo för lyssnarnas frågor från både Jönköping och Värmland. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110411</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3020515.mp3" length="35595493" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110314</title>
+                    <description>Fråga Bildoktorn handlade idag om den brittiske biltillverkaren Bristol, om en SAAB i Sydfrankrike och om Johans spindelled. Här är Hasse P och Bosse Bildoktorn.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2961818.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110314030057.mp3</guid>
+                    <pubDate>Mon, 14 Mar 2011 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn handlade idag om den brittiske biltillverkaren Bristol, om en SAAB i Sydfrankrike och om Johans spindelled. Här är Hasse P och Bosse Bildoktorn.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110314</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2961818.mp3" length="41641691" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110214</title>
+                    <description>Här kommer nya bilfrågor som Bosse får sätta tänderna i. Detta är en samsändning mellan P4 Jönköping och P4 Värmland. 2011-02-14</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2906301.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110214050023.mp3</guid>
+                    <pubDate>Mon, 14 Feb 2011 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här kommer nya bilfrågor som Bosse får sätta tänderna i. Detta är en samsändning mellan P4 Jönköping och P4 Värmland. 2011-02-14</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110214</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2906301.mp3" length="35805309" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110117</title>
+                    <description>I en samsändning över SR Jönköping och SR Värmland hör du här Bosse och Hasse svara på lyssnarfrågor. Dessutom så sjunger Bosse The Gräsänkling Blues. -Det är kanske inte min stil, tyckte Marina i programmet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2862105.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110121050007.mp3</guid>
+                    <pubDate>Fri, 21 Jan 2011 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>I en samsändning över SR Jönköping och SR Värmland hör du här Bosse och Hasse svara på lyssnarfrågor. Dessutom så sjunger Bosse The Gräsänkling Blues. -Det är kanske inte min stil, tyckte Marina i programmet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110117</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2862105.mp3" length="34336600" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20110108</title>
+                    <description>Kylarvätskan försvinner, bilen går inte att tanka och varningslampan tänds. Frågorna är många till Bildoktorn i detta program den 8 januari 2011. Sveriges Radio P4</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2839764.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_110110041757.mp3</guid>
+                    <pubDate>Mon, 10 Jan 2011 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Kylarvätskan försvinner, bilen går inte att tanka och varningslampan tänds. Frågorna är många till Bildoktorn i detta program den 8 januari 2011. Sveriges Radio P4</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20110108</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2839764.mp3" length="40249469" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101127</title>
+                    <description>Bosse Bildoktorn och Hasse P är beredda för alla varierande frågor i studion i Jönköping. Sveriges Radio P4. 20101127</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2792198.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101214120037.mp3</guid>
+                    <pubDate>Tue, 14 Dec 2010 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P är beredda för alla varierande frågor i studion i Jönköping. Sveriges Radio P4. 20101127</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101127</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2792198.mp3" length="37911823" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101129</title>
+                    <description>Bosse Bildoktorn och Hasse P är redo för en samsändning mellan Sveriges Radio Jönköping och Sveriges Radio Värmland. Sveriges RAdio P4, 20101129</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2792199.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101214120047.mp3</guid>
+                    <pubDate>Tue, 14 Dec 2010 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P är redo för en samsändning mellan Sveriges Radio Jönköping och Sveriges Radio Värmland. Sveriges RAdio P4, 20101129</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101129</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2792199.mp3" length="36785423" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101030</title>
+                    <description>Bosse Bildoktorn är redo att svara på alla de frågor som kommer in från Sveriges befolkning. Hasse P är programledare. Sveriges Radio P4 </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2711417.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101101040108.mp3</guid>
+                    <pubDate>Mon, 01 Nov 2010 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn är redo att svara på alla de frågor som kommer in från Sveriges befolkning. Hasse P är programledare. Sveriges Radio P4 </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101030</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2711417.mp3" length="38695079" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101101</title>
+                    <description>Här är Hasse och Bosse igen med en massa kluriga, svåra, roliga och intressanta frågor. Sveriges Radio P4, 20101101</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2711418.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101101040113.mp3</guid>
+                    <pubDate>Mon, 01 Nov 2010 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Hasse och Bosse igen med en massa kluriga, svåra, roliga och intressanta frågor. Sveriges Radio P4, 20101101</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101101</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2711418.mp3" length="39564016" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101002</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2653406.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101004010044.mp3</guid>
+                    <pubDate>Mon, 04 Oct 2010 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101002</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2653406.mp3" length="39835689" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20101004</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2653407.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_101004010052.mp3</guid>
+                    <pubDate>Mon, 04 Oct 2010 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20101004</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2653407.mp3" length="39184927" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100906</title>
+                    <description>Bildoktorn är redo igen i studion i Jönköping. Hasse P är programledare. Sveriges Radio P4. 20100906</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2588929.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100906120053.mp3</guid>
+                    <pubDate>Mon, 06 Sep 2010 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bildoktorn är redo igen i studion i Jönköping. Hasse P är programledare. Sveriges Radio P4. 20100906</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100906</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2588929.mp3" length="37330442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100904</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2588931.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100906120059.mp3</guid>
+                    <pubDate>Mon, 06 Sep 2010 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100904</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2588931.mp3" length="38041809" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100809</title>
+                    <description>Fråga Bildoktorn i Sveriges Radio P4. En sändning över Jönköpings län. Bosse Bildoktorn Andersson och Hasse Pettersson.. 9 augusti 2010.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2530216.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100810093532.mp3</guid>
+                    <pubDate>Mon, 09 Aug 2010 08:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn i Sveriges Radio P4. En sändning över Jönköpings län. Bosse Bildoktorn Andersson och Hasse Pettersson.. 9 augusti 2010.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100809</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2530216.mp3" length="33688764" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100610</title>
+                    <description>Mitt i sommarvärmen utmanas Bosse av många frågor. Här är Hasse och Bosse igen. Sveriges Radio P4. 20100610</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2484583.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100713010009.mp3</guid>
+                    <pubDate>Tue, 13 Jul 2010 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Mitt i sommarvärmen utmanas Bosse av många frågor. Här är Hasse och Bosse igen. Sveriges Radio P4. 20100610</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100610</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2484583.mp3" length="29321613" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100626</title>
+                    <description>Samtal från Lyon och samtal från Sölvesborg. Den geografiska variationen är stor när samtalen strömmar in till Bildoktorn.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2455489.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100628110046.mp3</guid>
+                    <pubDate>Mon, 28 Jun 2010 09:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Samtal från Lyon och samtal från Sölvesborg. Den geografiska variationen är stor när samtalen strömmar in till Bildoktorn.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100626</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2455489.mp3" length="29096542" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga bildoktorn 20100614</title>
+                    <description>Hasse o Bosse sjunger en sommarpsalm. Dessutom får lyssnarna svar på många märkliga frågor. Programledare är Hasse Pettersson och Bosse Bildoktorn Andersson är experten. Sveriges Radio Jönköping P4. 14 juni 2010.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2435343.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100615040153.mp3</guid>
+                    <pubDate>Tue, 15 Jun 2010 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse o Bosse sjunger en sommarpsalm. Dessutom får lyssnarna svar på många märkliga frågor. Programledare är Hasse Pettersson och Bosse Bildoktorn Andersson är experten. Sveriges Radio Jönköping P4. 14 juni 2010.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,bildoktorn,20100614</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2435343.mp3" length="27688438" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100529</title>
+                    <description>Ur led är tiden, i alla fall för bilägaren där klockan gick baklänges. Här är Hasse och Bosse med många spännande bilfrågor. Sveriges Radio P4 29 maj 2010</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2399888.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100531030028.mp3</guid>
+                    <pubDate>Mon, 31 May 2010 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Ur led är tiden, i alla fall för bilägaren där klockan gick baklänges. Här är Hasse och Bosse med många spännande bilfrågor. Sveriges Radio P4 29 maj 2010</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100529</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2399888.mp3" length="28849528" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100517</title>
+                    <description>På självaste Norges nationaldag kunde man höra Bosse Bildoktorn återigen i mekartagen. Detta är en samsändning mellan SR Värmland och SR Jönköping. Nu kan du höra detta igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2369607.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100517030055.mp3</guid>
+                    <pubDate>Mon, 17 May 2010 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>På självaste Norges nationaldag kunde man höra Bosse Bildoktorn återigen i mekartagen. Detta är en samsändning mellan SR Värmland och SR Jönköping. Nu kan du höra detta igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100517</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2369607.mp3" length="28031687" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100501</title>
+                    <description>Här är Bosse Bildoktorn och Hasse P igen. En sändning från 1 maj 2010 i Sveriges Radio P4.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2347772.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100504050044.mp3</guid>
+                    <pubDate>Tue, 04 May 2010 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn och Hasse P igen. En sändning från 1 maj 2010 i Sveriges Radio P4.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100501</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2347772.mp3" length="29267383" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100403</title>
+                    <description>Hasse, Bosse och tuppen. Fin blandning i Fråga Bildoktorn denna påskafton.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2292652.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100403020035.mp3</guid>
+                    <pubDate>Sat, 03 Apr 2010 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Hasse, Bosse och tuppen. Fin blandning i Fråga Bildoktorn denna påskafton.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100403</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2292652.mp3" length="32876983" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100306</title>
+                    <description>Urladdat batteri, blinkade oljelampa och bilar med startproblem är några av felen som Bosse Bildoktorn fick när Hasse och Bosse öppnade telefonslussen. Sveriges Radio P4. 6 mars 2010</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2243691.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100306020008.mp3</guid>
+                    <pubDate>Sat, 06 Mar 2010 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Urladdat batteri, blinkade oljelampa och bilar med startproblem är några av felen som Bosse Bildoktorn fick när Hasse och Bosse öppnade telefonslussen. Sveriges Radio P4. 6 mars 2010</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100306</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2243691.mp3" length="27870250" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100222</title>
+                    <description>Bosse försöker sig på att sjunga en strof ur "Ack Värmland du sköna" och dessutom läser han en dikt. Frågorna fär svar och Bosse Bildoktorn och Hasse Pettersson är i fin form. Detta är en samsändning mellan SR Jönköping och SR Värmland. Sveriges Radio P4. 22 februari 2010</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2221161.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100222020055.mp3</guid>
+                    <pubDate>Mon, 22 Feb 2010 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse försöker sig på att sjunga en strof ur "Ack Värmland du sköna" och dessutom läser han en dikt. Frågorna fär svar och Bosse Bildoktorn och Hasse Pettersson är i fin form. Detta är en samsändning mellan SR Jönköping och SR Värmland. Sveriges Radio P4. 22 februari 2010</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100222</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2221161.mp3" length="24766276" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100206</title>
+                    <description>Här får du ytterligare ett program från Fråga Bildoktorn. Bosse finns i Västerås och Hasse i Jönköping, men trots detta så blev det ett bra program ändå.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2193185.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100206020102.mp3</guid>
+                    <pubDate>Sat, 06 Feb 2010 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här får du ytterligare ett program från Fråga Bildoktorn. Bosse finns i Västerås och Hasse i Jönköping, men trots detta så blev det ett bra program ändå.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100206</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2193185.mp3" length="28797806" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20100125</title>
+                    <description>Småland möter Värmland. Jo, det är sant. Detta är premiären för samarbetet mellan SR Jönköping och SR Värmland. Bosse får många kluriga frågor från värmlänningarna och dessutom läser han poesi. Var ska detta sluta?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2170958.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_100125020132.mp3</guid>
+                    <pubDate>Mon, 25 Jan 2010 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Småland möter Värmland. Jo, det är sant. Detta är premiären för samarbetet mellan SR Jönköping och SR Värmland. Bosse får många kluriga frågor från värmlänningarna och dessutom läser han poesi. Var ska detta sluta?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20100125</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2170958.mp3" length="25430204" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091228</title>
+                    <description>Här är Bosse Bildoktorn igen med kluriga svar på många svåra frågor. Detta är en sändning från SR Jönköping P4. Producent är Hasse Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2128779.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091229040433.mp3</guid>
+                    <pubDate>Mon, 28 Dec 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn igen med kluriga svar på många svåra frågor. Detta är en sändning från SR Jönköping P4. Producent är Hasse Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091228</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2128779.mp3" length="26832353" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091212</title>
+                    <description>Ratten skakar, vatten tränger in och bilen startar inte när den är varm. Frågorna är många när Bosse Bildoktorn och Hasse P öppnar telefonslussen. Här är Fråga Bildoktorn i en något förkortad sändning.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2101940.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091212020105.mp3</guid>
+                    <pubDate>Sat, 12 Dec 2009 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Ratten skakar, vatten tränger in och bilen startar inte när den är varm. Frågorna är många när Bosse Bildoktorn och Hasse P öppnar telefonslussen. Här är Fråga Bildoktorn i en något förkortad sändning.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091212</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2101940.mp3" length="19733525" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091130</title>
+                    <description>Britt-Marie har möss under motorhuven. Vad ska hon göra? Ja, ibland dyker det upp märkliga frågor som Bosse Bildoktorn snabbt får sätta sig in i. Detta är en sändning från SR Jönköping. 30 november 2009.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2080855.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091130050101.mp3</guid>
+                    <pubDate>Mon, 30 Nov 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Britt-Marie har möss under motorhuven. Vad ska hon göra? Ja, ibland dyker det upp märkliga frågor som Bosse Bildoktorn snabbt får sätta sig in i. Detta är en sändning från SR Jönköping. 30 november 2009.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091130</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2080855.mp3" length="21371716" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091114</title>
+                    <description>Här är Bosse och Hasse igen med många kluriga frågor från lyssnarna. Här får du också höra ljudet av en SAAB 2-taktare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2054058.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091114020008.mp3</guid>
+                    <pubDate>Sat, 14 Nov 2009 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse och Hasse igen med många kluriga frågor från lyssnarna. Här får du också höra ljudet av en SAAB 2-taktare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091114</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2054058.mp3" length="29976451" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091102</title>
+                    <description>Här är Bosse o Hasse igen. En sändning från 2 november i SR Jönköping P4. Vad är en dieselbakterie? Det får du reda på här.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/2045266.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091109100100.mp3</guid>
+                    <pubDate>Mon, 09 Nov 2009 20:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse o Hasse igen. En sändning från 2 november i SR Jönköping P4. Vad är en dieselbakterie? Det får du reda på här.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091102</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/2045266.mp3" length="18015399" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20091010</title>
+                    <description>Här är Fråga Bildoktorn med Bosse &amp; Hasse. Här finns också Ivan Renlidens grabb med på ett hörn. Vilket kanonprogram det blev!!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1993033.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_091010020413.mp3</guid>
+                    <pubDate>Sat, 10 Oct 2009 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Fråga Bildoktorn med Bosse &amp; Hasse. Här finns också Ivan Renlidens grabb med på ett hörn. Vilket kanonprogram det blev!!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20091010</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1993033.mp3" length="28731350" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20090912</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1948521.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090914050038.mp3</guid>
+                    <pubDate>Mon, 14 Sep 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20090912</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1948521.mp3" length="28760189" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20090907</title>
+                    <description>Här är Bosse Bildoktorn igen med kluriga svar på lyssnarnas svåra frågor i en sändning över Jönköpings Län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1939045.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090908070022.mp3</guid>
+                    <pubDate>Tue, 08 Sep 2009 17:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn igen med kluriga svar på lyssnarnas svåra frågor i en sändning över Jönköpings Län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20090907</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1939045.mp3" length="24615184" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20090822</title>
+                    <description>Här är Hasse och Bosse i en direktsändning från Norrköping. Här finns en stor och trevlig publik, en skällande hund och många intressanta frågor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1915949.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090825040053.mp3</guid>
+                    <pubDate>Tue, 25 Aug 2009 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Hasse och Bosse i en direktsändning från Norrköping. Här finns en stor och trevlig publik, en skällande hund och många intressanta frågor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20090822</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1915949.mp3" length="27153972" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20090810</title>
+                    <description>-Är dom här nu igen? Det kom ju nyss ett program. Jo då. Här är vi produktiva. Bosse Bildoktorn svarar på lyssnarnas frågor i en sändning från SR Jönköping 10 augusti 2009.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1891498.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090810040103.mp3</guid>
+                    <pubDate>Mon, 10 Aug 2009 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>-Är dom här nu igen? Det kom ju nyss ett program. Jo då. Här är vi produktiva. Bosse Bildoktorn svarar på lyssnarnas frågor i en sändning från SR Jönköping 10 augusti 2009.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20090810</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1891498.mp3" length="27815393" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 20090808</title>
+                    <description>ÄNTLIGEN!! Här är Bosse och Hasse i Fråga Bildoktorn med ett nytt program.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1891353.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090810030136.mp3</guid>
+                    <pubDate>Mon, 10 Aug 2009 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>ÄNTLIGEN!! Här är Bosse och Hasse i Fråga Bildoktorn med ett nytt program.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,20090808</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1891353.mp3" length="30450103" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bildoktorn 20090516</title>
+                    <description>Här är radarparet igen, Bosse Bildoktorn och Hasse P.Här finns frågor om det mesta mellan kamrem och dragkula. Maria från Glimåkra är sändningens sista gäst, med många problem dessutom.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1751314.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090516020029.mp3</guid>
+                    <pubDate>Sat, 16 May 2009 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är radarparet igen, Bosse Bildoktorn och Hasse P.Här finns frågor om det mesta mellan kamrem och dragkula. Maria från Glimåkra är sändningens sista gäst, med många problem dessutom.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornBildoktorn,20090516</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1751314.mp3" length="27587500" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-05-04</title>
+                    <description>Nu strular bilarna igen. Här ger Bosse Bildoktorn nya tips till lyssnarna.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1748309.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090514050021.mp3</guid>
+                    <pubDate>Thu, 14 May 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Nu strular bilarna igen. Här ger Bosse Bildoktorn nya tips till lyssnarna.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-05-04</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1748309.mp3" length="25719223" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-04-11 (påskafton)</title>
+                    <description>Bosse Bildoktorn och Hasse P hjälper lyssnarna med bilproblem denna påskafton.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1694033.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090411020053.mp3</guid>
+                    <pubDate>Sat, 11 Apr 2009 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn och Hasse P hjälper lyssnarna med bilproblem denna påskafton.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-04-11,(påskafton)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1694033.mp3" length="27460859" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga bildoktorn 2009-04-06</title>
+                    <description>Bosse Bildoktorn ger nya analyser och diagnoser på dom fel som lyssnarna kommer med.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1686310.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090406070035.mp3</guid>
+                    <pubDate>Mon, 06 Apr 2009 17:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn ger nya analyser och diagnoser på dom fel som lyssnarna kommer med.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,bildoktorn,2009-04-06</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1686310.mp3" length="27985920" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-03-14</title>
+                    <description>Nu strular visst lyssnarnas bilar igen. Här är Bosse Bildoktorn och Hasse P igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1650176.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090316030058.mp3</guid>
+                    <pubDate>Mon, 16 Mar 2009 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Nu strular visst lyssnarnas bilar igen. Här är Bosse Bildoktorn och Hasse P igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-03-14</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1650176.mp3" length="29443239" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-03-09</title>
+                    <description>Här är Bosse och Hasse igen, och Bosse verkar vara på ett härligt humör.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1644658.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090312050101.mp3</guid>
+                    <pubDate>Thu, 12 Mar 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse och Hasse igen, och Bosse verkar vara på ett härligt humör.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-03-09</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1644658.mp3" length="27344875" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-01-19</title>
+                    <description>Fråga Bildoktorn med en mycket förkyld Bosse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1562509.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090123100006.mp3</guid>
+                    <pubDate>Fri, 23 Jan 2009 08:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med en mycket förkyld Bosse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-01-19</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1562509.mp3" length="26856176" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-01-10</title>
+                    <description>Bosses version på "Han hade seglat förr om masten" blev väl ingen succé, men frågornas svar blev desto bättre. Här är Hasse P och Bosse Bildoktorn.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1543740.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090112030037.mp3</guid>
+                    <pubDate>Mon, 12 Jan 2009 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosses version på "Han hade seglat förr om masten" blev väl ingen succé, men frågornas svar blev desto bättre. Här är Hasse P och Bosse Bildoktorn.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-01-10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1543740.mp3" length="26573427" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2009-01-01</title>
+                    <description>Här är Hasse P och Bosse Bildoktorn på årets första dag. Idag verkar dom vara ganska oense om en del saker. Särskilt i slutet av programmet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1536604.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_090107050110.mp3</guid>
+                    <pubDate>Wed, 07 Jan 2009 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Hasse P och Bosse Bildoktorn på årets första dag. Idag verkar dom vara ganska oense om en del saker. Särskilt i slutet av programmet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2009-01-01</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1536604.mp3" length="25733016" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-12-26</title>
+                    <description>Fråga Bildoktorn med Bosse Bildoktorn och programledare Hasse P denna Annandag Hjul!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1523826.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_081229010035.mp3</guid>
+                    <pubDate>Mon, 29 Dec 2008 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Bildoktorn och programledare Hasse P denna Annandag Hjul!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-12-26</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1523826.mp3" length="28756741" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-12-15</title>
+                    <description>Med entusiasm i rösten svarar Bosse Bildoktorn på lyssnarnas frågor i en sändning från SR Jönköping P4.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1507801.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_081217030021.mp3</guid>
+                    <pubDate>Wed, 17 Dec 2008 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Med entusiasm i rösten svarar Bosse Bildoktorn på lyssnarnas frågor i en sändning från SR Jönköping P4.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-12-15</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1507801.mp3" length="24682266" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-11-29</title>
+                    <description>Här är Bosse Bildoktorn igen med nya svar på lyssnarnas frågor. Han försöker sig dessutom på att joddla, vilket inte låter speciellt likt en joddling.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1482755.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_081202050104.mp3</guid>
+                    <pubDate>Tue, 02 Dec 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn igen med nya svar på lyssnarnas frågor. Han försöker sig dessutom på att joddla, vilket inte låter speciellt likt en joddling.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-11-29</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1482755.mp3" length="30777678" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-10-20</title>
+                    <description>Här är Bosse Bildoktorn och Hasse P igen från en sändning över Jönköpings län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1414103.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_081022040030.mp3</guid>
+                    <pubDate>Wed, 22 Oct 2008 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn och Hasse P igen från en sändning över Jönköpings län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-10-20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1414103.mp3" length="24703896" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-09-27</title>
+                    <description>Tänk att få höra Bosse sjunga "Möte i Monsunen" direkt från Bok &amp; Bibliotekmässan i Göteborg. Det kan du få om du lyssnar här, där du också får höra frågorna som kom in till programmet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1378747.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_081001030044.mp3</guid>
+                    <pubDate>Wed, 01 Oct 2008 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Tänk att få höra Bosse sjunga "Möte i Monsunen" direkt från Bok &amp; Bibliotekmässan i Göteborg. Det kan du få om du lyssnar här, där du också får höra frågorna som kom in till programmet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-09-27</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1378747.mp3" length="31246002" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-98-22</title>
+                    <description>Bosse o Hasse svarar på lyssnarnas frågor. Dessutom har Bosse sett något fantastiskt på väg till studion.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1365375.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080923050103.mp3</guid>
+                    <pubDate>Tue, 23 Sep 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse o Hasse svarar på lyssnarnas frågor. Dessutom har Bosse sett något fantastiskt på väg till studion.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-98-22</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1365375.mp3" length="29893068" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-08-25</title>
+                    <description>Bosse svarar på frågor från lyssnarna. Dessutom försöker han sig på en Lill-Babs låt. Hur låter det då?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1319264.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080826014238.mp3</guid>
+                    <pubDate>Mon, 25 Aug 2008 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse svarar på frågor från lyssnarna. Dessutom försöker han sig på en Lill-Babs låt. Hur låter det då?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-08-25</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1319264.mp3" length="21028153" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-06-28</title>
+                    <description>Här är Hasse P och Bosse Bildoktorn där Midnattssolsrallyt får en liten del av dagens program. Men frågorna och svaren är naturligtvis det centrala.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1228782.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080628040004.mp3</guid>
+                    <pubDate>Sat, 28 Jun 2008 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Hasse P och Bosse Bildoktorn där Midnattssolsrallyt får en liten del av dagens program. Men frågorna och svaren är naturligtvis det centrala.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-06-28</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1228782.mp3" length="30530038" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-06-02</title>
+                    <description>Här är Bosse Bildoktorn och många kluriga frågor från radiopubliken i Jönköpings Län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1190357.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080603080051.mp3</guid>
+                    <pubDate>Tue, 03 Jun 2008 18:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn och många kluriga frågor från radiopubliken i Jönköpings Län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-06-02</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1190357.mp3" length="25515154" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn Riks 31 maj - Pettsson</title>
+                    <description>Fråga Bildoktorn sänds idag från Nässjö. Här finns blandade frågor från publiken på plats och från radions lyssnare. Här är Hasse o Bosse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1190255.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080603062952.mp3</guid>
+                    <pubDate>Sat, 31 May 2008 17:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn sänds idag från Nässjö. Här finns blandade frågor från publiken på plats och från radions lyssnare. Här är Hasse o Bosse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,Riks,31,maj,-,Pettsson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1190255.mp3" length="27567752" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-05-03</title>
+                    <description>Bosse o Hasse i högform! Våren är här och vårkänslorna flödar hos Bildoktorn.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1142393.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080505010018.mp3</guid>
+                    <pubDate>Mon, 05 May 2008 11:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse o Hasse i högform! Våren är här och vårkänslorna flödar hos Bildoktorn.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-05-03</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1142393.mp3" length="31772944" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-05-05</title>
+                    <description>Bättre sent än aldrig. Här finns nu Fråga Bildoktorn från femte maj.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1172460.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080523111327.mp3</guid>
+                    <pubDate>Mon, 05 May 2008 10:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bättre sent än aldrig. Här finns nu Fråga Bildoktorn från femte maj.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-05-05</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1172460.mp3" length="36878733" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-04-07</title>
+                    <description>Här är Hasse och Bosse i högform igen. I denna sändning får du även veta mer om "Toppoljor".</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1093823.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080407050033.mp3</guid>
+                    <pubDate>Mon, 07 Apr 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Hasse och Bosse i högform igen. I denna sändning får du även veta mer om "Toppoljor".</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-04-07</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1093823.mp3" length="38760490" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-03-10</title>
+                    <description>Bättre sänt än aldrig, skulle man kunna säga. Nu är det äntligen möjligt att lyssna til Fråga Bildoktorn från 10/3. Här är Hasse o Bosse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1078741.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080328040012.mp3</guid>
+                    <pubDate>Fri, 28 Mar 2008 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bättre sänt än aldrig, skulle man kunna säga. Nu är det äntligen möjligt att lyssna til Fråga Bildoktorn från 10/3. Här är Hasse o Bosse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-03-10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1078741.mp3" length="28953913" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-03-01</title>
+                    <description>Bosse Bildoktorn svarar på lyssnarnas möjliga och omöjliga problem.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1039828.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080303050020.mp3</guid>
+                    <pubDate>Mon, 03 Mar 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn svarar på lyssnarnas möjliga och omöjliga problem.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-03-01</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1039828.mp3" length="28788088" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-02-11</title>
+                    <description>Det är alltid en stor utmaning för Bosse att släppa loss lyssnarnas bilfrågor rakt ut i etern. Betänketiden finns inte utan det är bara att ge sig in i leken. Här är Hasse och Bosse igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/1006107.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080211050051.mp3</guid>
+                    <pubDate>Mon, 11 Feb 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Det är alltid en stor utmaning för Bosse att släppa loss lyssnarnas bilfrågor rakt ut i etern. Betänketiden finns inte utan det är bara att ge sig in i leken. Här är Hasse och Bosse igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-02-11</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/1006107.mp3" length="38048287" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-01-19</title>
+                    <description>Detta är första gången som Bosse och Hasse inte kan se varandra i ögonen. Det blåsar hårda vindar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/976268.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080123030009.mp3</guid>
+                    <pubDate>Wed, 23 Jan 2008 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Detta är första gången som Bosse och Hasse inte kan se varandra i ögonen. Det blåsar hårda vindar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-01-19</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/976268.mp3" length="32013061" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2008-01-14</title>
+                    <description>Bosse Bildoktorn får återigen knugga sina geniknölar, för det är inte alla frågor som är så enkla att besvara. Här är Hasse och Bosse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/963805.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_080115050033.mp3</guid>
+                    <pubDate>Tue, 15 Jan 2008 15:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn får återigen knugga sina geniknölar, för det är inte alla frågor som är så enkla att besvara. Här är Hasse och Bosse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2008-01-14</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/963805.mp3" length="22641894" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-12-22</title>
+                    <description>Bosse Bildoktorn överraskar Hasse och lyssnarna med en dikt, men det är bara en liten del av dagens Fråga Bildoktorn. Många frågor besvarades såklart i sedvanlig ordning. Här är Hasse o Bosse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/937892.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071228100033.mp3</guid>
+                    <pubDate>Fri, 28 Dec 2007 08:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn överraskar Hasse och lyssnarna med en dikt, men det är bara en liten del av dagens Fråga Bildoktorn. Många frågor besvarades såklart i sedvanlig ordning. Här är Hasse o Bosse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-12-22</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/937892.mp3" length="30126916" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-12-18</title>
+                    <description>Återigen ges prov på all den kunskap som Bosse Bildoktorn besitter. Lyssnarnas frågor väller in igen. Här är Hasse o Bosse från en lokal sändning över Jönköpings län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/925073.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071218040022.mp3</guid>
+                    <pubDate>Tue, 18 Dec 2007 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Återigen ges prov på all den kunskap som Bosse Bildoktorn besitter. Lyssnarnas frågor väller in igen. Här är Hasse o Bosse från en lokal sändning över Jönköpings län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-12-18</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/925073.mp3" length="24963762" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-11-24</title>
+                    <description>Bosse och Hasse bytte studion i Jönköping mot studion i Örebro. Det gjorde dom så gärna så. Hör här när Bosse Bildoktorn ger goda råd till lyssnarna.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/884993.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071126040058.mp3</guid>
+                    <pubDate>Mon, 26 Nov 2007 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse och Hasse bytte studion i Jönköping mot studion i Örebro. Det gjorde dom så gärna så. Hör här när Bosse Bildoktorn ger goda råd till lyssnarna.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-11-24</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/884993.mp3" length="30246348" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-11-20</title>
+                    <description>Vilka frågor haglar in idag? Ja det vet vi inte innan programmet. Men nu vet vi. Lyssna och lär! Hälsningar Hasse o Bosse</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/875768.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071120030032.mp3</guid>
+                    <pubDate>Tue, 20 Nov 2007 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Vilka frågor haglar in idag? Ja det vet vi inte innan programmet. Men nu vet vi. Lyssna och lär! Hälsningar Hasse o Bosse</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-11-20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/875768.mp3" length="29842599" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-10-22</title>
+                    <description>Missa INTE detta! Bosse Bildoktorn sjunger "Violer till Mor". Tror vi iallafall. Hasse och Bosse svarar dessutom på frågor från radiopubliken över Jönköpings län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/830043.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071022040006.mp3</guid>
+                    <pubDate>Mon, 22 Oct 2007 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Missa INTE detta! Bosse Bildoktorn sjunger "Violer till Mor". Tror vi iallafall. Hasse och Bosse svarar dessutom på frågor från radiopubliken över Jönköpings län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-10-22</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/830043.mp3" length="32538749" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-10-20</title>
+                    <description>Nu är Bosse och Hasse tillbaka igen efter några veckors väntan. Detta är en sändning över hela landet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/829786.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_071022020006.mp3</guid>
+                    <pubDate>Mon, 22 Oct 2007 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Nu är Bosse och Hasse tillbaka igen efter några veckors väntan. Detta är en sändning över hela landet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-10-20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/829786.mp3" length="31074847" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga bildoktorn 2007-08-27</title>
+                    <description>Nu är Hasse o Bosse tillbaka igen. Detta är en sändning över Jönköpings län från 2007-08-27.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920829.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070905020038.mp3</guid>
+                    <pubDate>Wed, 05 Sep 2007 14:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Nu är Hasse o Bosse tillbaka igen. Detta är en sändning över Jönköpings län från 2007-08-27.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,bildoktorn,2007-08-27</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920829.mp3" length="23342185" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-08-11</title>
+                    <description>Bosse och Hasse lämnade studion i Jönköping och drog till Söderhamn. Där fanns inte bara en stor och varm publik, utan också ett stort antal fina veteranbilar och motorcyklar. Här pågick nämligen Hälsingesvängen. Radiopublikens frågor strömmade dessutom in till slussen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919708.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070814050045.mp3</guid>
+                    <pubDate>Tue, 14 Aug 2007 17:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse och Hasse lämnade studion i Jönköping och drog till Söderhamn. Där fanns inte bara en stor och varm publik, utan också ett stort antal fina veteranbilar och motorcyklar. Här pågick nämligen Hälsingesvängen. Radiopublikens frågor strömmade dessutom in till slussen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-08-11</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919708.mp3" length="29206570" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-06-04</title>
+                    <description>Här är Bosse Bildoktorn igen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922737.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070604010046.mp3</guid>
+                    <pubDate>Mon, 04 Jun 2007 13:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Bosse Bildoktorn igen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-06-04</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922737.mp3" length="21959471" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-05-26</title>
+                    <description>Här är Fråga Bildoktorn med Bosse &amp; Hasse i en sändning från 26 maj i P4. Nu får du inte bara frågor och svar, utan även en signatur till programmet. Det du!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921820.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070529010052.mp3</guid>
+                    <pubDate>Tue, 29 May 2007 13:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Fråga Bildoktorn med Bosse &amp; Hasse i en sändning från 26 maj i P4. Nu får du inte bara frågor och svar, utan även en signatur till programmet. Det du!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-05-26</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921820.mp3" length="29845734" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-05-07</title>
+                    <description>Vad hände med Bosse idag? Han tände snett på alla onödiga detaljer i en bil. Han blev riktigt irriterad. Hasse har aldrig sett honom sådan. Här är Hasse o Bosse i en sändning över SR Jönköping.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921803.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070507050006.mp3</guid>
+                    <pubDate>Mon, 07 May 2007 17:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Vad hände med Bosse idag? Han tände snett på alla onödiga detaljer i en bil. Han blev riktigt irriterad. Hasse har aldrig sett honom sådan. Här är Hasse o Bosse i en sändning över SR Jönköping.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-05-07</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921803.mp3" length="24163161" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-04-28</title>
+                    <description>Idag ska det endast handla om bilar som börjar på "M". Iallafall om Bosse Bildoktorn får bestämma. Här är Hasse och Bosse i Fråga Bildoktorn.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919059.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070430010003.mp3</guid>
+                    <pubDate>Mon, 30 Apr 2007 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Idag ska det endast handla om bilar som börjar på "M". Iallafall om Bosse Bildoktorn får bestämma. Här är Hasse och Bosse i Fråga Bildoktorn.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-04-28</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919059.mp3" length="31898645" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-04-16</title>
+                    <description>Här är Fråga Bildoktorn, en sändning från SR Jönköping P4. Ska Bildoktorn sjunga idag också?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/918758.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070418040050.mp3</guid>
+                    <pubDate>Wed, 18 Apr 2007 16:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är Fråga Bildoktorn, en sändning från SR Jönköping P4. Ska Bildoktorn sjunga idag också?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-04-16</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/918758.mp3" length="23157238" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-04-14</title>
+                    <description>Vårsolen bränner, fåglarna sjunger och fläktremmen skriker. Det är då som manringer till Bosse Bildoktorn. Här är Hasse och Bosse i en sändning över hela landet från Jönköping.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919766.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070416020042.mp3</guid>
+                    <pubDate>Mon, 16 Apr 2007 14:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Vårsolen bränner, fåglarna sjunger och fläktremmen skriker. Det är då som manringer till Bosse Bildoktorn. Här är Hasse och Bosse i en sändning över hela landet från Jönköping.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-04-14</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919766.mp3" length="31144124" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-03-31</title>
+                    <description>"Konstiga ljud, snedslitna däck och läckande bensin." Frågorna till Bosse Bildoktorn är variationsrika. Så även idag. Här är Hasse o Bosse i en sändning från 31 mars över hela landet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920881.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070402050039.mp3</guid>
+                    <pubDate>Mon, 02 Apr 2007 17:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>"Konstiga ljud, snedslitna däck och läckande bensin." Frågorna till Bosse Bildoktorn är variationsrika. Så även idag. Här är Hasse o Bosse i en sändning från 31 mars över hela landet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-03-31</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920881.mp3" length="31995193" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-03-12</title>
+                    <description>Frågorna haglar in till Fråga Bildoktorn. Detta är en sändning lokalt över SR Jönköpings sändningsområde. Här är Bosse Bildoktorn och Hasse Pettersson!!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922158.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070312030017.mp3</guid>
+                    <pubDate>Mon, 12 Mar 2007 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Frågorna haglar in till Fråga Bildoktorn. Detta är en sändning lokalt över SR Jönköpings sändningsområde. Här är Bosse Bildoktorn och Hasse Pettersson!!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-03-12</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922158.mp3" length="22519954" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-03-10</title>
+                    <description>Här är återigen Bosse Bildoktorn med sina finurliga svar på lyssnarnas, ibland smått svåra frågor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920537.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070312020019.mp3</guid>
+                    <pubDate>Mon, 12 Mar 2007 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är återigen Bosse Bildoktorn med sina finurliga svar på lyssnarnas, ibland smått svåra frågor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-03-10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920537.mp3" length="29787742" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-02-24</title>
+                    <description>Här är radarparet Bosse och Hasse igen. Här dyker många intressanta problem upp. Programmet sänds från Stockholm.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919400.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070306040059.mp3</guid>
+                    <pubDate>Tue, 06 Mar 2007 15:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Här är radarparet Bosse och Hasse igen. Här dyker många intressanta problem upp. Programmet sänds från Stockholm.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-02-24</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919400.mp3" length="30120020" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-02-12</title>
+                    <description>Så är dom här igen då, radararet Bosse &amp; Hasse i Fråga Bildoktorn. Detta är en sändning lokalt över Jönköpings län.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921902.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070212050047.mp3</guid>
+                    <pubDate>Mon, 12 Feb 2007 16:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Så är dom här igen då, radararet Bosse &amp; Hasse i Fråga Bildoktorn. Detta är en sändning lokalt över Jönköpings län.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-02-12</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921902.mp3" length="23618978" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-01-27</title>
+                    <description>Detta är ett lite annorlunda Fråga Bildoktorn. Hasse och Bosse har ett "Ljud-tema" idag. Missa inte Carl-Anders som imiterar motorer.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922324.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070130030028.mp3</guid>
+                    <pubDate>Tue, 30 Jan 2007 14:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Detta är ett lite annorlunda Fråga Bildoktorn. Hasse och Bosse har ett "Ljud-tema" idag. Missa inte Carl-Anders som imiterar motorer.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-01-27</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922324.mp3" length="27263373" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-01-20</title>
+                    <description>Från ett snörikt Jönköping sänds Fråga Bildoktorn med Bosse och Hasse.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922846.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070122020008.mp3</guid>
+                    <pubDate>Mon, 22 Jan 2007 13:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Från ett snörikt Jönköping sänds Fråga Bildoktorn med Bosse och Hasse.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-01-20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922846.mp3" length="22076395" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2007-01-06</title>
+                    <description>Fråga Bildoktorn med Hasse Pettersson och Bosse "Bildoktorn" Andersson, i en  direktsändning från Jönköping, över hela landet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921416.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_070109010005.mp3</guid>
+                    <pubDate>Tue, 09 Jan 2007 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Hasse Pettersson och Bosse "Bildoktorn" Andersson, i en  direktsändning från Jönköping, över hela landet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2007-01-06</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921416.mp3" length="22314005" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-12-18</title>
+                    <description>Då var det dags igen. Ytterligare bilfrågor från lyssnarna i Jönköpings län. Bosse svarar och Hasse presenterar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920868.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061219070036.mp3</guid>
+                    <pubDate>Tue, 19 Dec 2006 06:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Då var det dags igen. Ytterligare bilfrågor från lyssnarna i Jönköpings län. Bosse svarar och Hasse presenterar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-12-18</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920868.mp3" length="22880758" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-12-09</title>
+                    <description>Fråga Bildoktorn med Bosse Bildoktorn och Hasse Pettersson i en direktsändning i P4 från Jönköping.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921347.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061218120036.mp3</guid>
+                    <pubDate>Mon, 18 Dec 2006 11:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Bildoktorn och Hasse Pettersson i en direktsändning i P4 från Jönköping.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-12-09</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921347.mp3" length="26933290" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-11-20</title>
+                    <description>Fråga Bildoktorn i en lokal sändning över Jönköpings län. Bosse Bildoktorn svarar och Hasse Pettersson är programledare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922538.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061214010004.mp3</guid>
+                    <pubDate>Thu, 14 Dec 2006 12:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn i en lokal sändning över Jönköpings län. Bosse Bildoktorn svarar och Hasse Pettersson är programledare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-11-20</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922538.mp3" length="27439229" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga bildoktorn 2006-11-11</title>
+                    <description>Fråga Bildoktorn i en direktsändning från nya radiohuset i Kalmar. Programledare är Hasse Pettersson och svarar gör Bosse "Bildoktorn" Andersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/918575.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061115090043.mp3</guid>
+                    <pubDate>Wed, 15 Nov 2006 20:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn i en direktsändning från nya radiohuset i Kalmar. Programledare är Hasse Pettersson och svarar gör Bosse "Bildoktorn" Andersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,bildoktorn,2006-11-11</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/918575.mp3" length="21976398" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-10-23</title>
+                    <description>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson. En sändning från SR Jönköping.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920053.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061023040052.mp3</guid>
+                    <pubDate>Mon, 23 Oct 2006 16:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson. En sändning från SR Jönköping.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-10-23</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920053.mp3" length="27314469" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-10-14</title>
+                    <description>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/922680.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_061016020052.mp3</guid>
+                    <pubDate>Mon, 16 Oct 2006 14:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-10-14</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/922680.mp3" length="26982191" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-09-25</title>
+                    <description>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/920469.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_060925050040.mp3</guid>
+                    <pubDate>Mon, 25 Sep 2006 17:01:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-09-25</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/920469.mp3" length="26827964" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-09-16</title>
+                    <description>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/923077.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_060919050021.mp3</guid>
+                    <pubDate>Tue, 19 Sep 2006 17:00:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn med Bosse Andersson och Hasse Pettersson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-09-16</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/923077.mp3" length="28536686" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-08-26</title>
+                    <description>Fråga Bildoktorn från Skövde Matfestival. Programledare Hasse Pettersson. Bildoktor Bosse Andersson. Tekniker Andreas Crona.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919877.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_060828012712.mp3</guid>
+                    <pubDate>Mon, 28 Aug 2006 13:27:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Fråga Bildoktorn från Skövde Matfestival. Programledare Hasse Pettersson. Bildoktor Bosse Andersson. Tekniker Andreas Crona.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-08-26</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919877.mp3" length="29234782" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn 2006-06-24</title>
+                    <description>Bildoktorn svarar! På Midsommarafton svarade Bosse Andersson på lyssnarfrågor i ett bandat program. Som vanligt tillsammans med programledaren Hasse Pettersson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/921768.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_060625095850.mp3</guid>
+                    <pubDate>Sun, 25 Jun 2006 09:59:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bildoktorn svarar! På Midsommarafton svarade Bosse Andersson på lyssnarfrågor i ett bandat program. Som vanligt tillsammans med programledaren Hasse Pettersson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,2006-06-24</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/921768.mp3" length="29510949" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fråga Bildoktorn P4 riks 2006-05-27</title>
+                    <description>Bosse Bildoktorn svarar på lyssnarnas frågor. I huvudsak så handlar det om fel på "älsklingsbilen". Hasse Pettersson är programledare och programmet sänds från Jönköping.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/919460.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p4_bildoktorn_060622022918.mp3</guid>
+                    <pubDate>Thu, 22 Jun 2006 14:29:00 GMT</pubDate>
+                    <programid>2294</programid>
+                    <poddid>3989</poddid>
+                    <itunes:summary>Bosse Bildoktorn svarar på lyssnarnas frågor. I huvudsak så handlar det om fel på "älsklingsbilen". Hasse Pettersson är programledare och programmet sänds från Jönköping.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>BildoktornFråga,Bildoktorn,P4,riks,2006-05-27</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/919460.mp3" length="29483050" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

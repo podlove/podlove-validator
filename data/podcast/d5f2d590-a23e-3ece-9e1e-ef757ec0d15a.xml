@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine2.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Sun, 17 Aug 2014 20:01:40 GMT"/>
+        <httpclient:header name="Content-Length" value="53923"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:46:43 GMT"/>
+        <httpclient:header name="X-Varnish" value="3094126474 3070968057"/>
+        <httpclient:header name="Age" value="221856"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://anxietyguru.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+                <title>The Anxiety Guru Show</title>
+                <pubDate>Sun, 17 Aug 2014 19:50:55 +0000</pubDate>
+                <lastBuildDate>Sun, 17 Aug 2014 20:01:40 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://anxietyguru.net</link>
+                <language>en-us</language>
+                <copyright>info@anxietyguru.net</copyright>
+                <docs>http://anxietyguru.net</docs>
+                <managingEditor>info@anxietyguru.net (info@anxietyguru.net)</managingEditor>
+                <description>If you've ever thought you were dying for no reason, felt worried on most days, hate crowds, or simply feel uncomfortable in your own skin, then this podcast is for you. I will teach you exactly how you can overcome abnormal stress and anxiety. </description>
+                <image>
+                    <url>http://assets.libsyn.com/content/7080739.jpg</url>
+                    <title>The Anxiety Guru Show</title>
+                    <link>http://anxietyguru.net</link>
+                </image>
+                <itunes:author>Paul Dooley</itunes:author>
+                <itunes:keywords>anxiety,anxietyblog,anxietytreatment,panic,podcast</itunes:keywords>
+                <itunes:category text="Health"/>
+                <itunes:category text="Health">
+                    <itunes:category text="Self-Help"/>
+                </itunes:category>
+                <itunes:image href="http://assets.libsyn.com/content/7080739.jpg"/>
+                <itunes:explicit>clean</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Paul Dooley</itunes:name>
+                    <itunes:email>info@anxietyguru.net</itunes:email>
+                </itunes:owner>
+                <itunes:summary>Have you ever felt like you were dying for no reason? Ever had palpitations, daily worry, problems with being around people? If this sounds like you then you've come to the right place. I'll teach you exactly how to overcome abnormal stress and anxiety.</itunes:summary>
+                <itunes:subtitle>The Anxiety Guru Show</itunes:subtitle>
+                <item>
+                    <title>Suicide Survival Guide</title>
+                    <pubDate>Sun, 17 Aug 2014 19:50:55 +0000</pubDate>
+                    <guid isPermaLink="false">2851b8b2caf611a57596ed565b3d72cc</guid>
+                    <link>http://anxietyguru.libsyn.com/suicide-survival-guide</link>
+                    <itunes:image href="http://assets.libsyn.com/item/3016501"/>
+                    <description>&lt;p&gt;In this week's episode of The Anxiety Guru Show I explore suicide and suicide prevention. Share it!&lt;/p&gt;</description>
+                    <enclosure length="65997653" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/suicide_info.mp3"/>
+                    <itunes:duration>39:18</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>williams,suicide,robin,prevention,anxiety</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of The Anxiety Guru Show I explore suicide and suicide prevention. Share it!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>You Know Everything About Anxiety, So Why Are You Still Anxious?</title>
+                    <pubDate>Thu, 31 Jul 2014 05:58:12 +0000</pubDate>
+                    <guid isPermaLink="false">59c483913f4900a40e01257ecdf48fbf</guid>
+                    <link>http://anxietyguru.libsyn.com/you-know-everything-about-anxiety-so-why-are-you-still-anxious</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2984223"/>
+                    <description>&lt;p&gt;In this week's episode of The Anxiety Guru Show I explore why most people stay anxious and what you can do to overcome this pitfall.&lt;/p&gt;</description>
+                    <enclosure length="61753210" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/ambiguity_tolerance.mp3"/>
+                    <itunes:duration>36:46</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,worry</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of The Anxiety Guru Show I explore why most people stay anxious and what you can do to overcome this pitfall.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>7 Things to Remember When You Feel Worried</title>
+                    <pubDate>Fri, 25 Jul 2014 05:19:57 +0000</pubDate>
+                    <guid isPermaLink="false">dfcf37715169ce796c63437387bcfc77</guid>
+                    <link>http://anxietyguru.libsyn.com/7-things-to-remember-when-you-feel-worried</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2968148"/>
+                    <description>In this week's episode of the Anxiety Guru Show I explore 7 steps you can take to make sure worry doesn't get the best of you.</description>
+                    <enclosure length="35122637" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/worry2014.mp3"/>
+                    <itunes:duration>20:55</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,worry</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of the Anxiety Guru Show I explore 7 steps you can take to make sure worry doesn't get the best of you.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>This Is How A Solid Anti-Anxiety Plan Will Change Your Life</title>
+                    <pubDate>Sun, 13 Jul 2014 02:19:49 +0000</pubDate>
+                    <guid isPermaLink="false">d5138c63778179bc9df26790fb561176</guid>
+                    <link>http://anxietyguru.libsyn.com/this-is-how-a-solid-anti-anxiety-plan-will-change-your-life</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2941344"/>
+                    <description>&lt;p&gt;In this week's episode of The Anxiety Guru Show I explore why it is so hard to change and what steps you can take to actually make it happen.&lt;/p&gt;</description>
+                    <enclosure length="64681872" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/change-anxiety.mp3"/>
+                    <itunes:duration>38:31</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,stress,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of The Anxiety Guru Show I explore why it is so hard to change and what steps you can take to actually make it happen.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Manage Everyday Stress</title>
+                    <pubDate>Mon, 07 Jul 2014 00:19:45 +0000</pubDate>
+                    <guid isPermaLink="false">403967c33ff4338e2fb73e1f354e357a</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-manage-everyday-stress</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2930122"/>
+                    <description>&lt;p&gt;In this week's episode of the Anxiety Guru I explore how you can manage everyday stress.&lt;/p&gt;</description>
+                    <enclosure length="52559887" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/life-stress.mp3"/>
+                    <itunes:duration>31:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>podcast,stress,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of the Anxiety Guru I explore how you can manage everyday stress.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Link Between Personality and High Anxiety</title>
+                    <pubDate>Wed, 25 Jun 2014 19:18:33 +0000</pubDate>
+                    <guid isPermaLink="false">847f89cdc037ec87c4f344b8371a5548</guid>
+                    <link>http://anxietyguru.libsyn.com/the-link-between-personality-and-high-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2909636"/>
+                    <description>&lt;p&gt;In this week's episode of the Anxiety Guru Show I discuss how your personality is linked to how you develop, experience and resolve anxiety problems.&lt;/p&gt;</description>
+                    <enclosure length="73102075" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/adaptation-anxiety.mp3"/>
+                    <itunes:duration>43:31</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In this week's episode of the Anxiety Guru Show I discuss how your personality is linked to how you develop, experience and resolve anxiety problems.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Is Your Health Phobia Just a Way to Cope With Reality?</title>
+                    <pubDate>Sun, 15 Jun 2014 00:53:10 +0000</pubDate>
+                    <guid isPermaLink="false">1f5fe1b24559a0d31b6c4bdeaf8335e9</guid>
+                    <link>http://anxietyguru.libsyn.com/is-your-health-phobia-just-a-way-to-cope-with-reality</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2891840"/>
+                    <description>&lt;p&gt;In this week's episode of The Anxiety Guru Show I discuss why some people are obsessed with their anxiety symptoms and the possibility of being sick.&lt;/p&gt;</description>
+                    <enclosure length="57118134" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/health-phobia.mp3"/>
+                    <itunes:duration>34:00</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,health,anxiety,panic,phobia,hypchondria</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of The Anxiety Guru Show I discuss why some people are obsessed with their anxiety symptoms and the possibility of being sick.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Can Anxiety Cause Depression?</title>
+                    <pubDate>Sun, 08 Jun 2014 01:59:40 +0000</pubDate>
+                    <guid isPermaLink="false">4806fff461e2c2aaa9120922a49bcd59</guid>
+                    <link>http://anxietyguru.libsyn.com/can-anxiety-cause-depression</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2878474"/>
+                    <description>&lt;p&gt;In this week's episode of The Anxiety Guru Show, I discuss the connection between anxiety and depression.&lt;/p&gt;</description>
+                    <enclosure length="44198197" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/depression-anxiety.mp3"/>
+                    <itunes:duration>26:19</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,depression,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of The Anxiety Guru Show, I discuss the connection between anxiety and depression.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>6 Non-Cheesy Ways to Get Rid of Fear and Self-Doubt</title>
+                    <pubDate>Wed, 04 Jun 2014 18:35:59 +0000</pubDate>
+                    <guid isPermaLink="false">e9e4c9060673b5d5d61e77a6587e5596</guid>
+                    <link>http://anxietyguru.libsyn.com/6-non-cheesy-ways-to-get-rid-of-fear-and-self-doubt</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2872890"/>
+                    <description>&lt;p&gt;In today's episode of the Anxiety Guru Show I discuss how you can reduce the impact of fear and build confidence in your ability to overcome anxiety.&lt;/p&gt;</description>
+                    <enclosure length="70711041" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/self-trust.mp3"/>
+                    <itunes:duration>42:06</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,selfimprovement,selfdoubt,selftrust</itunes:keywords>
+                    <itunes:subtitle>In today's episode of the Anxiety Guru Show I discuss how you can reduce the impact of fear and build confidence in your ability to overcome anxiety.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Overcome Your Fear of People</title>
+                    <pubDate>Mon, 26 May 2014 02:48:11 +0000</pubDate>
+                    <guid isPermaLink="false">b43aeb25ca496852c184f0f47a1663b1</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-overcome-your-fear-of-people</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7215706"/>
+                    <description>&lt;p&gt;In today's episode of The Anxiety Guru Show I explore social phobia and how you can overcome it.&lt;/p&gt;</description>
+                    <enclosure length="59121533" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/socialphobia.mp3"/>
+                    <itunes:duration>35:12</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,social,anxiety,panic,phobia</itunes:keywords>
+                    <itunes:subtitle>Solutions For People with Social Phobia</itunes:subtitle>
+                </item>
+                <item>
+                    <title>When Should You Stop Taking Your Antidepressant?</title>
+                    <pubDate>Mon, 19 May 2014 20:06:40 +0000</pubDate>
+                    <guid isPermaLink="false">3b14c14588652e48b517ed8a3a92756c</guid>
+                    <link>http://anxietyguru.libsyn.com/when-should-you-stop-taking-your-antidepressant</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7195683"/>
+                    <description>&lt;p&gt;In today's episode of The Anxiety Guru Show we explore when you should stop taking your SSRI antipressant, which include drugs like prozac, zoloft, paxil and celexa.&lt;/p&gt;</description>
+                    <enclosure length="41976118" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/meds.mp3"/>
+                    <itunes:duration>25:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>stress,anxiety,antidepressants,ssri,meds</itunes:keywords>
+                    <itunes:subtitle>In today's episode of The Anxiety Guru Show we explore when you should stop taking your SSRI antipressant, which include drugs like prozac, zoloft, paxil and celexa.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How You Tricked Yourself Into Becoming Anxious</title>
+                    <pubDate>Sun, 11 May 2014 19:45:43 +0000</pubDate>
+                    <guid isPermaLink="false">be0b35e7b3796a6b03e2abe41755c1e1</guid>
+                    <link>http://anxietyguru.libsyn.com/using-words-to-beat-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7167714"/>
+                    <description>&lt;p&gt;In today's podcast I explore the power of words and how they can be used to beat abnormal stress and anxiety.&lt;/p&gt;</description>
+                    <enclosure length="33604059" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/words14.mp3"/>
+                    <itunes:duration>17:31</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,stress,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>In today's podcast I explore the power of words and how they can be used to beat abnormal stress and anxiety.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Most Important Anti-Anxiety Advice in the World</title>
+                    <pubDate>Mon, 05 May 2014 03:27:26 +0000</pubDate>
+                    <guid isPermaLink="false">185566592438500fb87dbcdeb189532c</guid>
+                    <link>http://anxietyguru.libsyn.com/the-most-important-anti-anxiety-advice-in-the-world</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7144912"/>
+                    <description>&lt;p&gt;In this installment of the Anxiety Guru Show I explore how you can be a better anxious parent, death, and the most important anti-anxiety advice in the world.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+                    <enclosure length="40304018" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/3topics.mp3"/>
+                    <itunes:duration>24:00</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>death,parenting,anxiety,panic,treatment</itunes:keywords>
+                    <itunes:subtitle>In this installment of the Anxiety Guru Show I explore how you can be a better anxious parent, death, and the most important anti-anxiety advice in the world.
+&amp;nbsp;
+&amp;nbsp;</itunes:subtitle>
+                </item>
+                <item>
+                    <title>What To Do When Your Anxiety Comes Back</title>
+                    <pubDate>Sun, 27 Apr 2014 22:06:48 +0000</pubDate>
+                    <guid isPermaLink="false">718a9edd02acf9b281da7535620825a6</guid>
+                    <link>http://anxietyguru.libsyn.com/what-to-do-when-your-anxiety-comes-back</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2805794"/>
+                    <description>&lt;p&gt;In this week's episode of the Anxiety Guru Show I explore anxiety relapse and what steps you can take to prevent, manage, and overcome it.&lt;/p&gt;</description>
+                    <enclosure length="31920429" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/relapse2014.mp3"/>
+                    <itunes:duration>19:00</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>stress,anxiety,panic,relapse</itunes:keywords>
+                    <itunes:subtitle>In this week's episode of the Anxiety Guru Show I explore anxiety relapse and what steps you can take to prevent, manage, and overcome it.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Get the Most Out of Therapy</title>
+                    <pubDate>Sun, 20 Apr 2014 21:03:58 +0000</pubDate>
+                    <guid isPermaLink="false">101bbb82e3f2488cd5294ed9d5963726</guid>
+                    <link>http://traffic.libsyn.com/anxietyguru/therapy-tips2014.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7095044"/>
+                    <description>&lt;p&gt;This episode of the Anxiety Guru Show discusses four solid steps you can take to make sure you the get the most out of your therapy sessions.&lt;/p&gt;</description>
+                    <enclosure length="32059367" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/therapy-tips2014.mp3"/>
+                    <itunes:duration>19:05</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>psychotherapy,anxiety,therapy,panic,cbt</itunes:keywords>
+                    <itunes:subtitle>This episode of the Anxiety Guru Show discusses four solid steps you can take to make sure you the get the most out of your therapy sessions.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Why I Never Took Psych Meds</title>
+                    <pubDate>Mon, 17 Feb 2014 21:15:19 +0000</pubDate>
+                    <guid isPermaLink="false">e02e58077f11ae5883ee7ded737d0197</guid>
+                    <link>http://anxietyguru.libsyn.com/why-i-never-took-psych-meds</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2687880"/>
+                    <description>&lt;p&gt;Visit Anxietyguru.net for details.&lt;/p&gt;</description>
+                    <enclosure length="15382068" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Med-fear1.mp3"/>
+                    <itunes:duration>10:41</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>fear,prozac,anxiety,panic,xanax,medications</itunes:keywords>
+                    <itunes:subtitle>Visit Anxietyguru.net for details.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Story Behind the Anxiety</title>
+                    <pubDate>Sun, 10 Nov 2013 21:39:33 +0000</pubDate>
+                    <guid isPermaLink="false">467c67223b1c47d915fd47841a7d39fb</guid>
+                    <link>http://anxietyguru.libsyn.com/the-story-behind-the-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2545354"/>
+                    <description>&lt;p&gt;For more details please visit anxietyguru.net.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</description>
+                    <enclosure length="29230154" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/jess2013.mp3"/>
+                    <itunes:duration>24:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>health,stress,attack,mental,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>For more details please visit anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Bouncing Back From Panic</title>
+                    <pubDate>Mon, 05 Aug 2013 03:02:20 +0000</pubDate>
+                    <guid isPermaLink="false">bf71a74c1c027414dbdfad4af3578062</guid>
+                    <link>http://anxietyguru.libsyn.com/bouncing-back-from-panic</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2423522"/>
+                    <description>&lt;p&gt;To more details visit &lt;a href="http://www.anxietyguru.net/"&gt;Anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="31388900" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/AG-Interview.mp3"/>
+                    <itunes:duration>26:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>disorder,attack,anxiety,panic,treatment</itunes:keywords>
+                    <itunes:subtitle>To more details visit Anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Deal With Low Level Anxiety</title>
+                    <pubDate>Tue, 28 May 2013 02:22:43 +0000</pubDate>
+                    <guid isPermaLink="false">ade23d0725b57d56da0e968935ac6b92</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-deal-with-low-level-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2338529"/>
+                    <description>&lt;p&gt;To read more go to anxietyguru.net.&lt;/p&gt;</description>
+                    <enclosure length="16983381" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/vague-anxiety.mp3"/>
+                    <itunes:duration>14:10</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>stress,attack,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>To read more go to anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Insanely Easy Way to Stop Anxiety</title>
+                    <pubDate>Sun, 28 Apr 2013 01:47:36 +0000</pubDate>
+                    <guid isPermaLink="false">a6ca5dfbeb09bcaa85787239e3396257</guid>
+                    <link>http://anxietyguru.libsyn.com/insanely-easy-way-to-stop-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2303225"/>
+                    <description>&lt;p&gt;See Anxetyguru.net for full article.&lt;/p&gt;</description>
+                    <enclosure length="16945302" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/info123.mp3"/>
+                    <itunes:duration>14:08</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>attacks,anxiety,panic,treatment</itunes:keywords>
+                    <itunes:subtitle>See Anxetyguru.net for full article.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Dinner With Panic</title>
+                    <pubDate>Mon, 15 Apr 2013 02:06:32 +0000</pubDate>
+                    <guid isPermaLink="false">b9b6f807f858ded9b53743eeb2ed0fc8</guid>
+                    <link>http://anxietyguru.libsyn.com/dinner-with-panic</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2287149"/>
+                    <description>&lt;p&gt;Go to &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;Anxietyguru.net&lt;/a&gt; to read the full article.&lt;/p&gt;</description>
+                    <enclosure length="13066062" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/dinner.mp3"/>
+                    <itunes:duration>10:54</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,attack,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>Go to Anxietyguru.net to read the full article.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Why Is Anxiety So Hard to Overcome.</title>
+                    <pubDate>Mon, 11 Feb 2013 22:07:59 +0000</pubDate>
+                    <guid isPermaLink="false">16d943287cea80448a3cebcf1032cbfb</guid>
+                    <link>http://anxietyguru.libsyn.com/why-is-anxiety-so-hard-to-overcome</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2215314"/>
+                    <description/>
+                    <enclosure length="15832519" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/toohard01.mp3"/>
+                    <itunes:duration>13:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,treatment,phobia</itunes:keywords>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>How to Cope with Grief and Loss</title>
+                    <pubDate>Fri, 18 Jan 2013 12:44:35 +0000</pubDate>
+                    <guid isPermaLink="false">97377b4d88ddc33237b4d0e9d1ae7ccb</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-cope-with-grief-and-loss</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2188152"/>
+                    <description>&lt;p&gt;To read the full article go to &lt;a target="_self" title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="18010650" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/grief-loss.mp3"/>
+                    <itunes:duration>15:01</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>loss,depression,anxiety,grief</itunes:keywords>
+                    <itunes:subtitle>To read the full article go to anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Cope with Isolation</title>
+                    <pubDate>Sat, 29 Dec 2012 23:54:29 +0000</pubDate>
+                    <guid isPermaLink="false">5b496b2bfdf35c539754ac2338425992</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-cope-with-isolation</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2170313"/>
+                    <description>&lt;p&gt;Visit anxietyguru.net to read the full article.&lt;/p&gt;</description>
+                    <enclosure length="14799677" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/iso.mp3"/>
+                    <itunes:duration>12:20</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>depression,anxiety,panic,isolation</itunes:keywords>
+                    <itunes:subtitle>Visit anxietyguru.net to read the full article.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Conquer Your Fear of Flying</title>
+                    <pubDate>Wed, 21 Nov 2012 07:02:06 +0000</pubDate>
+                    <guid isPermaLink="false">4f486b9f313a66aeae9d392df6acedaa</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-conquer-your-fear-of-flying</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2134524"/>
+                    <description>&lt;p&gt;Visit anxietyguru.net for the full article...&lt;/p&gt;</description>
+                    <enclosure length="27123069" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/flight12.mp3"/>
+                    <itunes:duration>18:49</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>of,fear,flying,anxiety</itunes:keywords>
+                    <itunes:subtitle>Visit anxietyguru.net for the full article...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Conquer Your Fear of the Future</title>
+                    <pubDate>Mon, 08 Oct 2012 23:34:11 +0000</pubDate>
+                    <guid isPermaLink="false">539985fca1e6fa9558213566cd0231a2</guid>
+                    <link>http://anxietyguru.libsyn.com/conquer-your-fear-of-the-future</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2090245"/>
+                    <description>&lt;p&gt;To read the full article go to &lt;a title="anxiety guru" href="http://www.anxietyguru.net"&gt;anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="20395582" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/uncertainty.mp3"/>
+                    <itunes:duration>17:00</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>future,anxiety,worry,uncertainty</itunes:keywords>
+                    <itunes:subtitle>To read the full article go to anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Should You Take Antipsychotic Drugs for Anxiety?</title>
+                    <pubDate>Fri, 05 Oct 2012 03:05:03 +0000</pubDate>
+                    <guid isPermaLink="false">fe95d7b4467fceb5414bcb7745403de4</guid>
+                    <link>http://anxietyguru.libsyn.com/should-you-take-antipsychotic-drugs-for-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2086667"/>
+                    <description>&lt;p&gt;Visit &lt;a title="Anxiety Free" href="http://www.anxietyguru.net/"&gt;anxietyguru.net&lt;/a&gt; to read the full article.&lt;/p&gt;</description>
+                    <enclosure length="12951169" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Antipsychotics.mp3"/>
+                    <itunes:duration>10:48</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,medications,antipsychotics</itunes:keywords>
+                    <itunes:subtitle>Visit anxietyguru.net to read the full article.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Is Anxiety a Life Sentence?</title>
+                    <pubDate>Sat, 07 Apr 2012 22:14:40 +0000</pubDate>
+                    <guid isPermaLink="false">48ef3d059fa2e528a5a56b84f441549f</guid>
+                    <link>http://anxietyguru.libsyn.com/is-anxiety-a-life-sentence-</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1910559"/>
+                    <description>&lt;p&gt;Read the full article at &lt;a target="_self" title="The AG Show" href="http://www.anxietyguru.net/"&gt;anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="30147124" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/DNA2.mp3"/>
+                    <itunes:duration>25:08</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>stop,anxiety,personality,anxious,shyness</itunes:keywords>
+                    <itunes:subtitle>Read the full article at anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Accept Your Anxiety</title>
+                    <pubDate>Thu, 08 Mar 2012 06:01:24 +0000</pubDate>
+                    <guid isPermaLink="false">654e2bf080d5d3521a87e97064d24d5d</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-accept-your-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1881175"/>
+                    <description>&lt;p&gt;Visit Anxietyguru.net to learn more.&lt;/p&gt;</description>
+                    <enclosure length="19502718" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/ebook.mp3"/>
+                    <itunes:duration>16:16</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>ebook,help,self,anxiety,cure,anxiey</itunes:keywords>
+                    <itunes:subtitle>Visit Anxietyguru.net to learn more.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Control Anxiety Symptoms</title>
+                    <pubDate>Sat, 14 Jan 2012 23:12:55 +0000</pubDate>
+                    <guid isPermaLink="false">b0522d6c0bc87e0216f4b0b6bd84c835</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-control-anxiety-symptoms</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1819095"/>
+                    <description>&lt;p&gt;Please visit anxietyguru.net to read the full article.&lt;/p&gt;</description>
+                    <enclosure length="20047669" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/symptoms-final.mp3"/>
+                    <itunes:duration>16:43</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>pain,attack,anxiety,chest,panic,symptoms</itunes:keywords>
+                    <itunes:subtitle>Please visit anxietyguru.net to read the full article.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to be Happy</title>
+                    <pubDate>Sat, 12 Nov 2011 20:25:37 +0000</pubDate>
+                    <guid isPermaLink="false">66f8e3d53ad35fd131281bc2b5f21188</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-be-happy</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1754920"/>
+                    <description>&lt;p&gt;To read the full article go &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="25818056" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/happiness.mp3"/>
+                    <itunes:duration>21:31</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>how,to,happiness,happy,be</itunes:keywords>
+                    <itunes:subtitle>To read the full article go anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>White Coat Syndrome</title>
+                    <pubDate>Mon, 26 Sep 2011 00:51:29 +0000</pubDate>
+                    <guid isPermaLink="false">787e726c8918bf257a611f638fc47876</guid>
+                    <link>http://anxietyguru.libsyn.com/white-coat-syndrome</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1718370"/>
+                    <description>&lt;p&gt;Visit &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;Anxietyguru.net &lt;/a&gt;to see the whole story.&lt;/p&gt;</description>
+                    <enclosure length="32340317" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/white-coat.mp3"/>
+                    <itunes:duration>26:57</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>blood,high,health,white,pressure,anxiety,syndrome,coat</itunes:keywords>
+                    <itunes:subtitle>Visit Anxietyguru.net to see the whole story.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Perimenopause, Anxiety, and Depression</title>
+                    <pubDate>Mon, 29 Aug 2011 02:12:00 +0000</pubDate>
+                    <guid isPermaLink="false">5113b22714915069a00ca2566edd13c8</guid>
+                    <link>http://anxietyguru.libsyn.com/perimenopause-</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1697608"/>
+                    <description>&lt;p&gt;Read the article at &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;anxietyguru.net.&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="38777414" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/perimenopause.mp3"/>
+                    <itunes:duration>32:19</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>of,is,early,what,symptoms,menopause,perimenopause</itunes:keywords>
+                    <itunes:subtitle>Read the article at anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Stop Morning Anxiety</title>
+                    <pubDate>Mon, 01 Aug 2011 00:54:18 +0000</pubDate>
+                    <guid isPermaLink="false">7fa1b0de92344e5d2a9c05e81a4b7bc2</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-stop-morning-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1677046"/>
+                    <description>&lt;p&gt;To read the full article go to &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;Anxietyguru.net&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="38569452" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/morning_anxiety.mp3"/>
+                    <itunes:duration>32:09</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>morning,fear,attack,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>To read the full article go to Anxietyguru.net</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Anxiety in Pregnancy</title>
+                    <pubDate>Sun, 03 Jul 2011 00:12:59 +0000</pubDate>
+                    <guid isPermaLink="false">6fb689d3287662374f20d35bfe13e9e8</guid>
+                    <link>http://anxietyguru.libsyn.com/anxiety-in-pregnancy</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1655671"/>
+                    <description>&lt;p&gt;To read the full article go to &lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/"&gt;anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="31362261" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/anxiety_pregnancy.mp3"/>
+                    <itunes:duration>26:09</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>pregnancy,postpartum,depression,anxiety,preganant,risks</itunes:keywords>
+                    <itunes:subtitle>To read the full article go to anxietyguru.net.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Do You Make This Mistake When Anxious?</title>
+                    <pubDate>Tue, 03 May 2011 07:22:22 +0000</pubDate>
+                    <guid isPermaLink="false">aa198f9382e3576bb80edcc61505d6a6</guid>
+                    <link>http://anxietyguru.libsyn.com/do-you-make-this-mistake-when-anxious-</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1583708"/>
+                    <description>&lt;p&gt;Visit &lt;a title="anxiety" href="http://www.anxietyguru.net"&gt;Anxiety Guru Dot Net&lt;/a&gt; for the full story.&lt;/p&gt;</description>
+                    <enclosure length="48483978" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/emoreason.mp3"/>
+                    <itunes:duration>40:25</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>social,attacks,anxiety,cure,emotions,panic,shy,phobias</itunes:keywords>
+                    <itunes:subtitle>Visit Anxiety Guru Dot Net for the full story.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Why Alcohol Causes Anxiety</title>
+                    <pubDate>Mon, 11 Apr 2011 04:42:49 +0000</pubDate>
+                    <guid isPermaLink="false">e5d05612a01029f94ea8bb24edbbbbde</guid>
+                    <link>http://anxietyguru.libsyn.com/why-alcohol-causes-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1568040"/>
+                    <description>&lt;p&gt;I want to tell you how alcohol causes anxiety and what you can do to prevent it.&lt;/p&gt;
+&lt;p&gt;&lt;a title="why alcohol causes anxiety" href="http://www.anxietyguru.net/why-alcohol-causes-anxiety/" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="34936379" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/alcohol.mp3"/>
+                    <itunes:duration>29:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>social,alcohol,attack,anxiety,panic,symptoms</itunes:keywords>
+                    <itunes:subtitle>I want to tell you how alcohol causes anxiety and what you can do to prevent it.
+Read more...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>What are the Best Options for Treating Anxiety and Depression?</title>
+                    <pubDate>Sun, 27 Mar 2011 02:43:24 +0000</pubDate>
+                    <guid isPermaLink="false">f2ba5a9d37e8ab7806ccfbf09398d2de</guid>
+                    <link>http://anxietyguru.libsyn.com/what-are-the-best-options-for-treating-anxiety-and-depression-</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1557430"/>
+                    <description>&lt;p&gt;Today I want to chat a bit about treatment options for anxiety and depression because I'd like to clarify a few things.&lt;/p&gt;
+&lt;p&gt;And in case you're strapped for time here is what I want to say: &lt;strong&gt;Curing abnormal anxiety and depression has nothing to do with magic, voodoo, or instant anything.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Instead, treating abnormal anxiety and depression involves finding  the right mix of remedies that work for you, committing to that  treatment, and a little time.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety" href="http://www.anxietyguru.net/how-to-cure-abnormal-anxiety/" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="48523181" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Options.mp3"/>
+                    <itunes:duration>40:26</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>depression,anxiety,panic,treatment,symptoms</itunes:keywords>
+                    <itunes:subtitle>Today I want to chat a bit about treatment options for anxiety and depression because I'd like to clarify a few things.
+And in case you're strapped for time here is what I want to say: Curing abnormal anxiety and depression has nothing to do with...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>10 Ways to Strengthen Your Relationships</title>
+                    <pubDate>Sat, 12 Mar 2011 19:16:00 +0000</pubDate>
+                    <guid isPermaLink="false">225508a736218dd7a01358cbcde60776</guid>
+                    <link>http://anxietyguru.libsyn.com/10-ways-to-strengthen-your-relationships</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1546441"/>
+                    <description>&lt;p&gt;Today, I get personal.&lt;/p&gt;
+&lt;p&gt;But it's not because I'm looking for undue attention, it's because I thought it was the best way to describe how &lt;a title="anxiety" href="http://www.anxietyguru.net/how-to-cure-abnormal-anxiety/" target="_self"&gt;&lt;strong&gt;anxiety&lt;/strong&gt;&lt;/a&gt; can come between you and the people you love. I also wanted to show you how you can overcome this phenomenon.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety" href="http://www.anxietyguru.net" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="52980695" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Relationships1.mp3"/>
+                    <itunes:duration>00</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>fear,relationships,depression,anxiety,panic,worry,symptoms</itunes:keywords>
+                    <itunes:subtitle>Today, I get personal.
+But it's not because I'm looking for undue attention, it's because I thought it was the best way to describe how anxiety can come between you and the people you love. I also wanted to show you how you can overcome this...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Power of Perseverance</title>
+                    <pubDate>Sun, 06 Mar 2011 04:57:42 +0000</pubDate>
+                    <guid isPermaLink="false">f44bab38888a3c63a77ed5a42c452b2b</guid>
+                    <link>http://anxietyguru.libsyn.com/the-power-of-perseverance</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1541974"/>
+                    <description>&lt;p&gt;In this podcast I discuss:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The importance of persistence and goals.&lt;/li&gt;
+&lt;li&gt;How to apply perseverance intelligently&lt;/li&gt;
+&lt;li&gt;How to change your frame of mind&lt;/li&gt;
+&lt;li&gt;And tons of real world examples.&lt;/li&gt;
+&lt;/ol&gt;</description>
+                    <enclosure length="41964305" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/perseverance2.mp3"/>
+                    <itunes:duration>34:58</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>hope,motivation,anxiety,panic,perseverance</itunes:keywords>
+                    <itunes:subtitle>In this podcast I discuss:
+
+The importance of persistence and goals.
+How to apply perseverance intelligently
+How to change your frame of mind
+And tons of real world examples.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Move Forward in the Face of Change</title>
+                    <pubDate>Sun, 20 Feb 2011 08:37:48 +0000</pubDate>
+                    <guid isPermaLink="false">f19bf3aaf8e58c17f8c09f34ff0ca82d</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-move-forward-in-the-face-of-change</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1531920"/>
+                    <description>&lt;p&gt;Becoming an &lt;strong&gt;anxious&lt;/strong&gt; person is a shocking proposition.&lt;/p&gt;
+&lt;p&gt;No part of becoming or staying anxious is easy.&lt;/p&gt;
+&lt;p&gt;A lot of that has to do with the great amount of change that you undergo when your life is turned upside down by anxiety.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Anxiety Guru" href="http://www.anxietyguru.net" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="41042148" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/goodchange.mp3"/>
+                    <itunes:duration>34:12</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>change,selfhelp,anxiety,adaptation,symptoms</itunes:keywords>
+                    <itunes:subtitle>Becoming an anxious person is a shocking proposition.
+No part of becoming or staying anxious is easy.
+A lot of that has to do with the great amount of change that you undergo when your life is turned upside down by anxiety.
+Read more...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Attention: Anxiety Does Not Cause Insanity</title>
+                    <pubDate>Mon, 31 Jan 2011 01:54:38 +0000</pubDate>
+                    <guid isPermaLink="false">c816703605d955e23052232f6bf58189</guid>
+                    <link>http://anxietyguru.libsyn.com/attention-anxiety-does-not-cause-insanity</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1465308"/>
+                    <description>&lt;p&gt;The Fear of going crazy is common among &lt;a title="anxiety" href="http://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml" target="_self"&gt;&lt;strong&gt;anxiety&lt;/strong&gt;&lt;/a&gt; sufferers.&lt;/p&gt;
+&lt;p&gt;Actually, and unfortunately, this fear is almost universal among the nervous. However, this fear is unjustified because anxiety does not cause insanity, period.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety guru" href="anxietyguru.net" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="32737446" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Phrenophobia.mp3"/>
+                    <itunes:duration>27:16</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>fear,anxiety,relaxation,panic,symptoms,phrenophobia</itunes:keywords>
+                    <itunes:subtitle>The Fear of going crazy is common among anxiety sufferers.
+Actually, and unfortunately, this fear is almost universal among the nervous. However, this fear is unjustified because anxiety does not cause insanity, period.
+Read more...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Four Critical Things Every Anxiety Sufferer Should Know</title>
+                    <pubDate>Tue, 18 Jan 2011 03:52:10 +0000</pubDate>
+                    <guid isPermaLink="false">f03b4d6938599d5b863e8f23e03ec006</guid>
+                    <link>http://anxietyguru.libsyn.com/-four-critical-things-every-anxiety-sufferer-should-know</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1456546"/>
+                    <description>&lt;p&gt;Remember way back when you were a kid and life was simple, or at least simple&amp;ndash;er? The good ole days, right? Well, unlike your days as a young&amp;rsquo;un, today your faced with lots of distractions. Nothing is simple anymore.&lt;/p&gt;
+&lt;p&gt;In fact, I&amp;rsquo;d say that much of your life&amp;rsquo;s simplicity has been taken away by all the distractions that &lt;a title="anxiety" href="http://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml" target="_self"&gt;&lt;strong&gt;anxiety&lt;/strong&gt;&lt;/a&gt; throws at you.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety guru" href="anxietyguru.net" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="49142559" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/4_Critical_Things.mp3"/>
+                    <itunes:duration>40:57</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>podcast,depression,anxiety,panic,symptoms</itunes:keywords>
+                    <itunes:subtitle>Remember way back when you were a kid and life was simple, or at least simple&amp;ndash;er? The good ole days, right? Well, unlike your days as a young&amp;rsquo;un, today your faced with lots of distractions. Nothing is simple anymore.
+In fact, I&amp;rsquo;d say...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Cope with the Fear of Fear</title>
+                    <pubDate>Mon, 10 Jan 2011 04:37:08 +0000</pubDate>
+                    <guid isPermaLink="false">f194816ae8078937bd094b1ed0329a56</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-cope-with-the-fear-of-fear</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1449028"/>
+                    <description>&lt;p&gt;In today's podcast I give you advice about how to cope with the fear of fear. In addition, I also offer a few tips about how to handle agoraphobia.&lt;/p&gt;</description>
+                    <enclosure length="38489474" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Fear_of_Fear.mp3"/>
+                    <itunes:duration>32:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fear,depression,anxiety,panic,agoraphobia</itunes:keywords>
+                    <itunes:subtitle>In today's podcast I give you advice about how to cope with the fear of fear. In addition, I also offer a few tips about how to handle agoraphobia.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Connection Between Anxiety and Depression</title>
+                    <pubDate>Mon, 03 Jan 2011 03:12:25 +0000</pubDate>
+                    <guid isPermaLink="false">1dd6efdae8f33a13bee5c127d2d12d67</guid>
+                    <link>http://anxietyguru.libsyn.com/the-connection-between-anxiety-and-depression</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1444095"/>
+                    <description>&lt;p&gt;In this episode of the Anxiety Guru Show I explore the connection between &lt;strong&gt;&lt;a title="anxiety" href="http://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml" target="_self"&gt;anxiety&lt;/a&gt; &lt;/strong&gt;and &lt;a href="http://www.nimh.nih.gov/health/topics/depression/index.shtml" target="_self"&gt;&lt;strong&gt;depression&lt;/strong&gt;&lt;/a&gt;, and what you can do to cope effectively with both.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety guru" href="anxietyguru.net" target="_self"&gt;Read more... &lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="34653071" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Anxiety__Depression.mp3"/>
+                    <itunes:duration>36:05</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>guru,drugs,depression,anxiety,antidepressants,panic</itunes:keywords>
+                    <itunes:subtitle>In this episode of the Anxiety Guru Show I explore the connection between anxiety and depression, and what you can do to cope effectively with both.
+Read more...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Speaking of Anxiety</title>
+                    <pubDate>Sun, 26 Dec 2010 20:01:00 +0000</pubDate>
+                    <guid isPermaLink="false">4a026dcc853f5b52c2a836b4b2d62a0a</guid>
+                    <link>http://anxietyguru.libsyn.com/speaking-of-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1438074"/>
+                    <description>&lt;p&gt;What's the secret recipe to curing &lt;strong&gt;abnormal anxiety&lt;/strong&gt;?&lt;/p&gt;
+&lt;p&gt;Well. If you've spent anytime on this site than you probably already have a good idea. But given that its taken me almost three years to amass that information, it could take you awhile to dig into it all.&lt;/p&gt;
+&lt;p&gt;So today I got a time saver for you. On December, 7 2010 I gave my first interview and during the interview I detailed what I think are the most effective ways to overcome abnormal anxiety.&lt;/p&gt;
+&lt;p&gt;&lt;a title="anxiety guru" href="http://anxietyguru.net" target="_self"&gt;Read more...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="70630391" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/12._AUDIO__Speaking_of_Anxiety.mp3"/>
+                    <itunes:duration>01:13:34</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,panic,symptoms,antianxiety</itunes:keywords>
+                    <itunes:subtitle>Interview with the Anxiety Guru</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Anti-Anxiety Competition Giveaway</title>
+                    <pubDate>Mon, 20 Dec 2010 01:00:24 +0000</pubDate>
+                    <guid isPermaLink="false">02d77b50007811aa3b0f5ed9ab4b1362</guid>
+                    <link>http://anxietyguru.libsyn.com/anti-anxiety-competition-giveaway</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1427984"/>
+                    <description>&lt;p&gt;Are you ready to win a prize?&lt;/p&gt;
+&lt;p&gt;Hope so, because between December 20th and December 28th I'll be hosting what I'm calling the Anti-Anxiety Competition Giveaway.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Anxiety Guru" href="http://anxietyguru.net" target="_self"&gt;READ MORE...&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="9666949" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/competition.mp3"/>
+                    <itunes:duration>10:04</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>panic,giveaway,selphelp,antianxiety</itunes:keywords>
+                    <itunes:subtitle>Are you ready to win a prize?
+Hope so, because between December 20th and December 28th I'll be hosting what I'm calling the Anti-Anxiety Competition Giveaway.
+READ MORE...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Panic Attack Survival Guide</title>
+                    <pubDate>Tue, 07 Dec 2010 23:34:41 +0000</pubDate>
+                    <guid isPermaLink="false">060133b5ff37afee88332f1873c9099d</guid>
+                    <link>http://anxietyguru.libsyn.com/panic-attack-survival-guide</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1414217"/>
+                    <description>&lt;p&gt;Every time that you've had a &lt;strong&gt;panic attack&lt;/strong&gt; you've probably felt like you were going to die.&lt;/p&gt;
+&lt;p&gt;Maybe you've thought that panic was going to cause you to go crazy. But, it hasn't happened.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/" target="_self"&gt;Read more at anxietyguru.net&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="11577002" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Panicguide.mp3"/>
+                    <itunes:duration>12:03</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>disorder,attack,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>Every time that you've had a panic attack you've probably felt like you were going to die.
+Maybe you've thought that panic was going to cause you to go crazy. But, it hasn't happened.
+Read more at anxietyguru.net</itunes:subtitle>
+                </item>
+                <item>
+                    <title>How to Cure Abnormal Anxiety</title>
+                    <pubDate>Sun, 21 Nov 2010 02:03:33 +0000</pubDate>
+                    <guid isPermaLink="false">a116e2511538a17085c44a0e668bb582</guid>
+                    <link>http://anxietyguru.libsyn.com/how-to-cure-abnormal-anxiety</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1375938"/>
+                    <description>&lt;p&gt;&lt;img style="float: left; padding-right: 10px; padding-bottom: 10px;" src="http://www.anxietyguru.net/wp-content/gallery/screenshots/flowchart.jpg" alt="flowchart" /&gt;&lt;/p&gt;
+&lt;p&gt;Some time ago, you set out on a journey to cure your abnormal anxiety. And up to this point that journey has been a miserable failure.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s not your fault. It just takes time. It takes time to find the thing that&amp;rsquo;s keeping you anxious.&lt;/p&gt;
+&lt;p&gt;Today, I want to help you bring your long&amp;nbsp; journey to an end.&lt;/p&gt;
+&lt;p&gt;So to start, let&amp;rsquo;s go way back. Back to when this all got started. Do you remember your first panic attack? And what about those long days filled with nervousness? I know I do.&lt;/p&gt;
+&lt;p&gt;&lt;a title="Anxiety Guru" href="http://www.anxietyguru.net/" target="_self"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+                    <enclosure length="29667200" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Beliefs.mp3"/>
+                    <itunes:duration>30:54</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>anxiety,cure,panic,beliefs</itunes:keywords>
+                    <itunes:subtitle>Some time ago, you set out on a journey to cure your abnormal anxiety. And up to this point that journey has been a miserable failure.
+But that&amp;rsquo;s not your fault. It just takes time. It takes time to find the thing that&amp;rsquo;s keeping you...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Is Marijuana Good for Anxiety?</title>
+                    <pubDate>Sun, 07 Nov 2010 01:47:00 +0000</pubDate>
+                    <guid isPermaLink="false">b01ae9ac916629fe030a89e9a6050825</guid>
+                    <link>http://anxietyguru.libsyn.com/is-marijuana-good-for-anxiety-</link>
+                    <itunes:image href="http://assets.libsyn.com/item/1330261"/>
+                    <description>&lt;p&gt;Find out if marijuana helps or hurts anxiety at &lt;a href="http://www.anxietyguru.net/"&gt;Anxietyguru.net&lt;/a&gt;.&lt;/p&gt;</description>
+                    <enclosure length="22352002" type="audio/mpeg" url="http://traffic.libsyn.com/anxietyguru/Marijuana.mp3"/>
+                    <itunes:duration>23:17</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:keywords>weed,marijuana,anxiety,panic</itunes:keywords>
+                    <itunes:subtitle>marijuana</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

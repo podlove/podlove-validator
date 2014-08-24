@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:29:19 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="X-Runtime" value="6"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="Last-Modified" value="Fri, 13 Dec 2013 12:25:46 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=531fd8c66761aabab6881213955d60f4; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 12:29:19 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="7728"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>3quartos</title>
+                <link>http://59618.podomatic.com</link>
+                <description>O futuro melhor podcast da atualidade.</description>
+                <language>pt-br</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Fri, 13 Dec 2013 12:25:46 GMT</pubDate>
+                <itunes:keywords>3qcast,Comedy</itunes:keywords>
+                <itunes:subtitle/>
+                <itunes:explicit>clean</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8636587.jpg"/>
+                <itunes:author>3quartos</itunes:author>
+                <itunes:summary>O futuro melhor podcast da atualidade.</itunes:summary>
+                <itunes:category text="Comedy"/>
+                <atom:link type="application/rss+xml" href="http://59618.podomatic.com/rss2.xml" rel="self"/>
+                <item>
+                    <title>Episódio Extra - Sobre muitas músicas</title>
+                    <description>
+        &lt;img src="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg" alt="itunes pic" /&gt;&lt;br /&gt;
+      </description>
+                    <guid isPermaLink="true">http://59618.podomatic.com/entry/2013-09-24T13_54_37-07_00</guid>
+                    <comments>http://59618.podomatic.com/entry/2013-09-24T13_54_37-07_00</comments>
+                    <pubDate>Tue, 24 Sep 2013 20:54:37 GMT</pubDate>
+                    <dcterms:modified>2013-09-24</dcterms:modified>
+                    <dcterms:created>2013-09-24</dcterms:created>
+                    <link>http://59618.podomatic.com</link>
+                    <dc:creator>3quartos</dc:creator>
+                    <itunes:keywords/>
+                    <enclosure url="http://59618.podomatic.com/enclosure/2013-09-24T13_54_37-07_00.mp3" type="audio/mpeg" length="21679460"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg"/>
+                    <itunes:duration>1355</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>#4 Sobre Izzy Nobre, Psy e os limites do humor</title>
+                    <description>
+        &lt;img src="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg" alt="itunes pic" /&gt;&lt;br /&gt;
+      </description>
+                    <guid isPermaLink="true">http://59618.podomatic.com/entry/2013-09-15T14_58_18-07_00</guid>
+                    <comments>http://59618.podomatic.com/entry/2013-09-15T14_58_18-07_00</comments>
+                    <pubDate>Sun, 15 Sep 2013 21:58:18 GMT</pubDate>
+                    <dcterms:modified>2013-09-15</dcterms:modified>
+                    <dcterms:created>2013-09-15</dcterms:created>
+                    <link>http://59618.podomatic.com</link>
+                    <dc:creator>3quartos</dc:creator>
+                    <itunes:keywords>3quartos,3qcast</itunes:keywords>
+                    <enclosure url="http://59618.podomatic.com/enclosure/2013-09-15T14_58_18-07_00.mp3" type="audio/mpeg" length="24730449"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg"/>
+                    <itunes:duration>1545</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>#3 Sobre Jennifer Lawrence, Quadradinho de Borboleta, Cachorros e Barbas.</title>
+                    <description>
+        &lt;img src="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg" alt="itunes pic" /&gt;&lt;br /&gt;
+      </description>
+                    <guid isPermaLink="true">http://59618.podomatic.com/entry/2013-09-01T08_43_11-07_00</guid>
+                    <comments>http://59618.podomatic.com/entry/2013-09-01T08_43_11-07_00</comments>
+                    <pubDate>Sun, 01 Sep 2013 15:43:11 GMT</pubDate>
+                    <dcterms:modified>2013-09-01</dcterms:modified>
+                    <dcterms:created>2013-09-01</dcterms:created>
+                    <link>http://59618.podomatic.com</link>
+                    <dc:creator>3quartos</dc:creator>
+                    <itunes:keywords/>
+                    <enclosure url="http://59618.podomatic.com/enclosure/2013-09-01T08_43_11-07_00.mp3" type="audio/mpeg" length="35748269"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8689805.jpg"/>
+                    <itunes:duration>2234</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary/>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>#2 Sobre muitos filmes, Hannah vadia e a influência dos games.</title>
+                    <description>
+        &lt;img src="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8636587.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Trailers: 
+1- Gravidade: http://www.youtube.com/watch?v=nLtjGN2KMyA 
+
+2- Romeu e Julieta: http://www.youtube.com/watch?v=jTGWNHa1wIQ 
+
+3- Jobs: http://www.youtube.com/watch?v=Lx-PC1KZS3Y 
+
+
+Miley Cyrus - We can't Stop: http://www.youtube.com/watch?v=LrUvu1mlWco
+      </description>
+                    <guid isPermaLink="true">http://59618.podomatic.com/entry/2013-08-18T07_53_08-07_00</guid>
+                    <comments>http://59618.podomatic.com/entry/2013-08-18T07_53_08-07_00</comments>
+                    <pubDate>Sun, 18 Aug 2013 14:53:08 GMT</pubDate>
+                    <dcterms:modified>2013-08-18</dcterms:modified>
+                    <dcterms:created>2013-08-18</dcterms:created>
+                    <link>http://59618.podomatic.com</link>
+                    <dc:creator>3quartos</dc:creator>
+                    <itunes:keywords/>
+                    <enclosure url="http://59618.podomatic.com/enclosure/2013-08-18T07_53_08-07_00.mp3" type="audio/mpeg" length="22566674"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8636587.jpg"/>
+                    <itunes:duration>1411</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>Trailers: 
+1- Gravidade: http://www.youtube.com/watch?v=nLtjGN2KMyA 
+
+2- Romeu e Julieta: http://www.youtube.com/watch?v=jTGWNHa1wIQ 
+
+3- Jobs: http://www.youtube.com/watch?v=Lx-PC1KZS3Y 
+
+
+Miley Cyrus - We can't Stop: http://www.youtube.com/watch?v=LrUvu1mlWco</itunes:summary>
+                    <itunes:subtitle>Trailers: 
+1- Gravidade: http://www.youtube.com/watch?v=nLtjGN2KMyA 
+
+2- Romeu e Julieta: http...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>#1 Sobre alguns trailers, Justin e seu macaco e Ostentação</title>
+                    <description>
+        &lt;img src="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8636582.jpg" alt="itunes pic" /&gt;&lt;br /&gt;
+      </description>
+                    <guid isPermaLink="true">http://59618.podomatic.com/entry/2013-08-08T18_43_31-07_00</guid>
+                    <comments>http://59618.podomatic.com/entry/2013-08-08T18_43_31-07_00</comments>
+                    <pubDate>Fri, 09 Aug 2013 01:43:31 GMT</pubDate>
+                    <dcterms:modified>2013-08-18</dcterms:modified>
+                    <dcterms:created>2013-08-09</dcterms:created>
+                    <link>http://59618.podomatic.com</link>
+                    <dc:creator>3quartos</dc:creator>
+                    <itunes:keywords/>
+                    <enclosure url="http://59618.podomatic.com/enclosure/2013-08-08T18_43_31-07_00.mp3" type="audio/mpeg" length="24477359"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/74/9d/24/59618/1400x1400_8636582.jpg"/>
+                    <itunes:duration>1528</itunes:duration>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary/>
+                    <itunes:subtitle/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

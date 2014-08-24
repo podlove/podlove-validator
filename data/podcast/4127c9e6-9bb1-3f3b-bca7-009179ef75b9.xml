@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Last-Modified" value="Sat, 16 Aug 2014 13:12:36 GMT"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.0"/>
+        <httpclient:header name="X-Pingback" value="http://a9far.net/xmlrpc.php"/>
+        <httpclient:header name="X-W3TC-Minify" value="On"/>
+        <httpclient:header name="X-Robots-Tag" value="noindex,follow"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:38:33 GMT"/>
+        <httpclient:header name="Content-Length" value="158818"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>أصفار » بودكاست | أصفار</title>
+                <atom:link href="http://a9far.net/category/podcast/feed/" rel="self" type="application/rss+xml"/>
+                <link>http://a9far.net</link>
+                <description>معاً لمجتمع علمي</description>
+                <lastBuildDate>Sat, 16 Aug 2014 13:12:36 +0000</lastBuildDate>
+                <language>en-US</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.8.4</generator>
+                <copyright>Copyright © أصفار 2013 </copyright>
+                <managingEditor>info@a9far.net (فريق أصفار)</managingEditor>
+                <webMaster>info@a9far.net (فريق أصفار)</webMaster>
+                <category>http://feeds.feedburner.com/a9farcast</category>
+                <ttl>1440</ttl>
+                <image>
+                    <url>http://a9far.net/wp-content/uploads/2013/07/itunes-logosmall.jpg</url>
+                    <title>أصفار</title>
+                    <link>http://a9far.net</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <itunes:subtitle>أصفار</itunes:subtitle>
+                <itunes:summary>يهدف مشروع أصفار إلى المساهمة في غرس الوعي بأهمية العلوم والتقنية وتنمية الحس التحليلي والنقدي لدى المجتمع، كما يطمح إلى تغيير الصورة النمطية للعلوم المرتبطة بالتلقين، إضافة إلى أن يكون حلقة وصل بين المهتمين بالعلوم في العالم العربي وبين النتاج العلمي المتجدد. إنه محاولة شبابية بسيطة لسد ثغرة في المحتوى العلمي في العالم العربي على الإنترنت ولإثراء المحتوى العربي بشكل عام.
+
+زورونا على 
+http://A9far.net
+https://www.youtube.com/user/a9farchannel
+https://twitter.com/a9fartweets</itunes:summary>
+                <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                <itunes:category text="Science &amp; Medicine">
+                    <itunes:category text="Natural Sciences"/>
+                </itunes:category>
+                <itunes:category text="Science &amp; Medicine">
+                    <itunes:category text="Medicine"/>
+                </itunes:category>
+                <itunes:category text="Science &amp; Medicine">
+                    <itunes:category text="Social Sciences"/>
+                </itunes:category>
+                <itunes:author>فريق أصفار</itunes:author>
+                <itunes:owner>
+                    <itunes:name>فريق أصفار</itunes:name>
+                    <itunes:email>info@a9far.net</itunes:email>
+                </itunes:owner>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://a9far.net/wp-content/uploads/2013/07/itunes-logo.jpg"/>
+                <item>
+                    <title>الخلية المتمردة: ماذا نعرف عن السرطان؟</title>
+                    <link>http://a9far.net/podcast/the-rebellious-cell-what-do-we-know-about-cancer</link>
+                    <comments>http://a9far.net/podcast/the-rebellious-cell-what-do-we-know-about-cancer#comments</comments>
+                    <pubDate>Sat, 16 Aug 2014 08:52:15 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>طب</category>
+                    <category>علم أحياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1777</guid>
+                    <description>&lt;p&gt;يعمل جسم الإنسان تماما كالمجتمع أو النظام البيئي، وأفراده هم الخلايا، يتكاثرون بالإنقسام، نجدهم متعاونين في تجمعات تسمى بالأنسجة. ولكي نفهم كيف يقوم الجسد بتنظيم هذه الأنسجة والعلاقات فيما بينها فقد يجوز أن نستخدم ذات العوامل التي توثر على أفراد أي مجموعة تأخذ شكل النظام الإجتماعي، مثل دراسة ولادة الخلية &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/the-rebellious-cell-what-do-we-know-about-cancer"&gt;الخلية المتمردة: ماذا نعرف عن السرطان؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-1778 alignnone" alt="الخلية المتمردة: ماذا نعرف عن السرطان؟" src="http://i0.wp.com/a9far.net/wp-content/uploads/2014/08/episode21.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يعمل جسم الإنسان تماما كالمجتمع أو النظام البيئي، وأفراده هم الخلايا، يتكاثرون بالإنقسام، نجدهم متعاونين في تجمعات تسمى بالأنسجة. ولكي نفهم كيف يقوم الجسد بتنظيم هذه الأنسجة والعلاقات فيما بينها فقد يجوز أن نستخدم ذات العوامل التي توثر على أفراد أي مجموعة تأخذ شكل النظام الإجتماعي، مثل دراسة ولادة الخلية ووفاتها وموطنها في الجسد وحدودها الجغرافية والتغير في حجم الأنسجة الخلوية داخل جسم الإنسان، وأخيرا التنافس فيما بينها -الإنتخاب الطبيعي-. عامل التنافس بين الخلايا في النسيج الواحد عادة ما يغيب عن أذهاننا لأننا نرى التعاون الشديد فيما بينهم ولدرجة أن القاعدة في التعامل مع الخلايا الأخرى هي التضحية وليس التنافس. تقسم خلايا الجسم إلى نوعين، خلايا جنسية -الأمشاج التي تدخل عملية التلقيح لغرض التكاثر- وخلايا جسدية &amp;#8211; كل الخلايا سوى الخلايا الجنسية- وهذه الأخيرة لا تترك أي نسل، فهي بالكامل تعيش وتتكاثر وتموت من أجل المحافظة على الخلايا الجنسية التي ستتنتقل للأجيال القادمة.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;نستطيع أن نعرف السرطان بأنه مجموعة من الأمراض التي تتميز خلاياها بالعدائية (وهو النمو والانقسام من غير حدود)، وقدرة هذه الخلايا المنقسمة على غزو أنسجة مجاورة وتدميرها، أو الانتقال إلى أنسجة بعيدة في عملية نطلق عليها اسم النقيلة. وهذه القدرات هي صفات الورم الخبيث على عكس الورم الحميد، والذي يتميز بنمو محدد وعدم القدرة على الغزو وليس لهُ القدرة على الأنتقال أوالنقيلة.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;في هذه الحلقة من بودكاست أصفار سنتحدث عن مرض السرطان. تم إعداد الحلقة من مقالة لمحمد الحمراني نشرت في &lt;a title="مجلة القافلة" href="http://qafilah.com/ar/" target="_blank"&gt;مجلة القافلة&lt;/a&gt; &#160;(عدد&#160;مايو &amp;#8211; يونيو 2014)&#160;بعنوان: &lt;a href="http://qafilah.com/ar/flipbook/?ids=12477" target="_blank"&gt;ماذا نعرف عن السرطان&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;&lt;a href="https://docs.google.com/forms/d/1pZmb-1E7ol2jsjT0su-dRZ3eED3L8hM6QToYQb33BaI/viewform"&gt;استبيان مستمعي بودكاست أصفار&lt;/a&gt;&lt;/h4&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/the-rebellious-cell-what-do-we-know-about-cancer"&gt;الخلية المتمردة: ماذا نعرف عن السرطان؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/the-rebellious-cell-what-do-we-know-about-cancer/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode21.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+يعمل جسم الإنسان تماما كالمجتمع أو النظام البيئي، وأفراده هم الخلايا، يتكاثرون بالإنقسام، نجدهم متعاونين في تجمعات تسمى بالأنسجة. ولكي نفهم كيف يقوم الجسد بتنظيم هذه الأنسجة والعلاقات فيما بينها فقد يجوز أن نستخدم ذات العوامل التي توثر على أفراد أي[...]</itunes:subtitle>
+                    <itunes:summary>
+يعمل جسم الإنسان تماما كالمجتمع أو النظام البيئي، وأفراده هم الخلايا، يتكاثرون بالإنقسام، نجدهم متعاونين في تجمعات تسمى بالأنسجة. ولكي نفهم كيف يقوم الجسد بتنظيم هذه الأنسجة والعلاقات فيما بينها فقد يجوز أن نستخدم ذات العوامل التي توثر على أفراد أي مجموعة تأخذ شكل النظام الإجتماعي، مثل دراسة ولادة الخلية ووفاتها وموطنها في الجسد وحدودها الجغرافية والتغير في حجم الأنسجة الخلوية داخل جسم الإنسان، وأخيرا التنافس فيما بينها -الإنتخاب الطبيعي-. عامل التنافس بين الخلايا في النسيج الواحد عادة ما يغيب عن أذهاننا لأننا نرى التعاون الشديد فيما بينهم ولدرجة أن القاعدة في التعامل مع الخلايا الأخرى هي التضحية وليس التنافس. تقسم خلايا الجسم إلى نوعين، خلايا جنسية -الأمشاج التي تدخل عملية التلقيح لغرض التكاثر- وخلايا جسدية – كل الخلايا سوى الخلايا الجنسية- وهذه الأخيرة لا تترك أي نسل، فهي بالكامل تعيش وتتكاثر وتموت من أجل المحافظة على الخلايا الجنسية التي ستتنتقل للأجيال القادمة.
+نستطيع أن نعرف السرطان بأنه مجموعة من الأمراض التي تتميز خلاياها بالعدائية (وهو النمو والانقسام من غير حدود)، وقدرة هذه الخلايا المنقسمة على غزو أنسجة مجاورة وتدميرها، أو الانتقال إلى أنسجة بعيدة في عملية نطلق عليها اسم النقيلة. وهذه القدرات هي صفات الورم الخبيث على عكس الورم الحميد، والذي يتميز بنمو محدد وعدم القدرة على الغزو وليس لهُ القدرة على الأنتقال أوالنقيلة.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن مرض السرطان. تم إعداد الحلقة من مقالة لمحمد الحمراني نشرت في مجلة القافلة &#160;(عدد&#160;مايو – يونيو 2014)&#160;بعنوان: ماذا نعرف عن السرطان.
+استبيان مستمعي بودكاست أصفار
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+
+The post الخلية المتمردة: ماذا نعرف عن السرطان؟ appeared first on أصفار.The post الخلية المتمردة: ماذا نعرف عن السرطان؟ appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>الموتى الأحياء : العلم وراء الزومبي</title>
+                    <link>http://a9far.net/podcast/undead-the-science-behind-zombies</link>
+                    <comments>http://a9far.net/podcast/undead-the-science-behind-zombies#comments</comments>
+                    <pubDate>Tue, 22 Jul 2014 23:50:25 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>خيال علمي</category>
+                    <category>طب</category>
+                    <category>علم أحياء</category>
+                    <category>نظرية التطور</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1748</guid>
+                    <description>&lt;p&gt;هل الزومبي حقيقة؟ هل من الممكن للجثث أن تعود للحياة مرة أخرى لتطارد الأحياء؟ لطالما ظننا أن مفهوم الزوبي خيالي بحت ومن الأشياء التي يستحيل وجودها في الطبيعة، لكن أبحاثاً جديدة تقول العكس. الفكرة ليست بعيدة جداً عن الواقع! خمس حالات تزمبك في الطبيعة: &#160;السعار (داء الكلب) هو مرض فيروسي &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/undead-the-science-behind-zombies"&gt;الموتى الأحياء : العلم وراء الزومبي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="aligncenter size-full wp-image-1749" alt="الموتى الأحياء: العلم وراء الزومبي" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/07/episode20.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;h3 style="direction: rtl;"&gt;&lt;/h3&gt;
+&lt;p style="direction: rtl;"&gt;هل الزومبي حقيقة؟ هل من الممكن للجثث أن تعود للحياة مرة أخرى لتطارد الأحياء؟ لطالما ظننا أن مفهوم الزوبي خيالي بحت ومن الأشياء التي يستحيل وجودها في الطبيعة، لكن أبحاثاً جديدة تقول العكس. الفكرة ليست بعيدة جداً عن الواقع!&lt;/p&gt;
+&lt;h3 style="direction: rtl;"&gt;&lt;/h3&gt;
+&lt;h3 style="direction: rtl;"&gt;خمس حالات تزمبك في الطبيعة:&lt;/h3&gt;
+&lt;div id="attachment_1760" style="width: 240px" class="wp-caption aligncenter"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/384px-Dog_with_rabies.jpg"&gt;&lt;img class=" wp-image-1760 " title="كلب مصاب بالسعار" alt="كلب مصاب بالسعار" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/384px-Dog_with_rabies.jpg?resize=230%2C288" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;كلب مصاب بالسعار&lt;/p&gt;&lt;/div&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;&lt;span style="font-family: Oswald, sans-serif; font-size: 18px; letter-spacing: 1px; line-height: 1.62em;"&gt;&#160;السعار (داء الكلب)&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هو مرض فيروسي يصيب الجهاز العصبي المركزي ويسبب إلتهاب حاد وسريع في الدماغ.&#160;الفايروس، الذي ينتمي لعائلة الفيروسات الكلبية (Lyssavirus)، من الفيروسات التي تستهدف الدماغ وتسبب أعراض قريبة من أعراض الزومبي.&#160;تحصل العدوى عن طريق عضة من الحيوان المصاب، فينتقل الفايروس من اللعاب إلى الأعصاب ومن ثم الدماغ.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;من الأعراض المبكرة لداء الكلب هي الشعور بالضيق والاكتئاب، وتغيرات في الوعي، وتغيرات في الشخصيه، ومشاكل في الذاكرة، وحركات عنيفة، وتهيّج لا إرادي، ورهاب من الماء، وينتاب المريض في النهاية نوبات من الجنون والهلوسة.&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;&lt;/h4&gt;
+&lt;div id="attachment_1758" style="width: 279px" class="wp-caption aligncenter"&gt;&lt;a href="http://i0.wp.com/a9far.net/wp-content/uploads/2014/07/640px-Spinochordodes_in_Meconema.jpg"&gt;&lt;img class=" wp-image-1758   " alt="دودة شعرية تستوطن جندب" src="http://i0.wp.com/a9far.net/wp-content/uploads/2014/07/640px-Spinochordodes_in_Meconema.jpg?resize=269%2C202" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;دودة شعرية تستوطن جندب&lt;/p&gt;&lt;/div&gt;
+&lt;h4 style="direction: rtl;"&gt;الجنادب والديدان الشعرية الطفيلية (Nematomorpha)&lt;/h4&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;الديدان الشعرية كما تسمى هي ديدان طفيلية تستوطن أجسام الجراد والجنادب والصراصير.&#160;يبتلع الجندب يرقات هذه الدودة مع الماء فتعيش داخله وتكبر حتى تبلغ.&#160;عندما تصبح الدودة جاهزة للتزاوج، تقوم بإفراز بروتينات تؤثر على الجهاز العصبي المركزي الخاص بالجنادب، مما يؤثر على الإشارات الكيميائية لأدمغة هذه الحشرات وبالتالي تسيطر على تصرفاتها (أو جزء من تصرفاتها).&#160;بهذه الطريقة تقوم الدودة بدفع الجندب إلى البحث عن أقرب بركة مياه ليقفز فيها ويلقى حتفه (فيما يعرف بانتحار الجنادب)، لتخرج من جسد الجندب وتتكاثر مع ديدان أخرى في المياه.&lt;/p&gt;
+&lt;h4 style="direction: rtl; text-align: justify;"&gt;&lt;/h4&gt;
+&lt;div id="attachment_1761" style="width: 270px" class="wp-caption aligncenter"&gt;&lt;a href="http://i1.wp.com/a9far.net/wp-content/uploads/2014/07/para-albus.jpg"&gt;&lt;img class=" wp-image-1761   " alt="حلزونة مصابة بديدان مفلطحة" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/07/para-albus.jpg?resize=260%2C151" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;حلزونة مصابة بديدان مفلطحة&lt;/p&gt;&lt;/div&gt;
+&lt;h4 style="direction: rtl; text-align: justify;"&gt;الحلزونات والديدان المفلطحة (Leucochloridium paradoxum)&lt;/h4&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هذه الديدان المفلطحة شبيهة في سلوكها بسلوك الديدان الشعيرية لكنها تستهدف الحلزونات.&#160;يقوم الحلزون بأكل فضلات الطيور المصابة ببيض هذه الدودة.&#160;تقوم الدودة بعدها باستيطان الضحية (الحلزون) وتنمو داخله حتى تبلغ.&#160;عندما تصل الدودة إلى طور النشاط من حياتها، تقوم بالتحرك صعوداً لتستقر في أعين الحلزون.&#160;في هذا الوقت تتورم أعين الحلزون وتنتفخ وتنبض بألوان مقلمة ظاهرة للعيان تحاكي فيها شكل ولون اليُسروع (الطعام المفضل للطيور!).&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/Go_LIz7kTok?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;الحلزونات بطبعها تخشى الأماكن النيرة وتعيش في الظل لكي تتجنب الحيوانات المفترسة، لكن التورم في أعين الحلزون يجعلها عاجزة عن تحديد شدة الضوء وبالتالي تصعد أعالي الأشجار حيث النور العالي.&#160;هذا التعرض للمناطق المفتوحة والمضيئة بالإضافة إلى وجود الدودة المفلطحة التي تحاكي سلوك اليُسروع يجعل الحلزون فريسة مؤكدة للطيور.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;تعود الدودة إلى الطائر لتكمل دورة حياتها وتضع بيضها في شرج الطائر لتنزل هي الأخرى مع فضلاته لتصيب حلزون أخر.&#160;سلوك الدودة المفلطحة الطفيلي هذا شبيه بمرض الزومبي من ناحية تلاعب الدودة بسلوك الضحية، لكنه تلاعب بطريقة غير مباشرة.&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;&lt;/h4&gt;
+&lt;div id="attachment_1756" style="width: 278px" class="wp-caption aligncenter"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/zombie-fungus-infects-insects-mind-control-mature-ant_32855_600x450.jpg"&gt;&lt;img class=" wp-image-1756  " alt="فطر مستوطن جسد نملة" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/zombie-fungus-infects-insects-mind-control-mature-ant_32855_600x450.jpg?resize=268%2C216" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;فطر مستوطن جسد نملة&lt;/p&gt;&lt;/div&gt;
+&lt;h4 style="direction: rtl;"&gt;النمل وفطر الزومبي (Ophiocordyceps unilateralis)&lt;/h4&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;ربما قد لعب بعضكم لعبة&#160;ذا لاست أوف أس (The Last of Us) واستغرب وجود تلميحات عن نوع من الفطريات يسبب التزمبك وعلاقتها بالنمل.&#160;هذا جنس من الفطريات يضم تحته الكثير من الانواع، و تم اكتشافه مؤخرا في غابات البرازيل المطرية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;تصاب النملة عندما تلامس خلاياها خلايا الفطر (البَوغ) ، فيسيطر الفطر بشكل كامل على دماغ النملة ويقوم بالتحكم بها بشكل دقيق. بعد الاصابة تقوم النملة بالتحرك وتسلق النباتات لتصل الى ارتفاع يقدر بـ ٢٥ سم عن الارض، ثم تتشبث اسفل اقرب ورقة.&#160;اكتشف الباحثون أن المكان المحدد هذا هو البيئة المناسبة لنمو وتكاثر الفطر من ناحية درجة الحرارة والرطوبة وضوء الشمس.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/2irXpAMBHkE?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;عندما تصل النملة الى هذه النقطة يقوم الفطر بقتلها وتحويلها الى مصنع للفطريات عن طريق استنزاف احشاء النملة واستخدامه كغذاء بعد تحويله الى سكر، ما عدا عضلات الاقدام لكي تحافظ على مكانها ولا تسقط.&#160;بعد ان يصبح الفطر قادراً على الانتشار يقوم بارسال خلاياه مرة اخرى لكي يصيب ضحايا جدد.&#160;لا يعرف العلماء بعد كيفية سيطرة الفطر على جهاز النملة العصبي لكن الابحاث في هذا المجال ما زالت قائمة.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;لدى مستعمرات النمل طرق كثيرة للتغلب على هذا الفطر. إحدى الاستراتيجيات هي أن النمل يتنبأ&#160;(عن طريق روائح واشارات معينة) بالنملات المصابة وبالتالي يقومون بتجنب هذه النملة وتحاشي الأماكن التي أتت منها. استراتيجية أخرى هي أن النمل عادة يبني مستعمراته في المستويات الأعلى من ٢٥ سم ليتجنبوا البيئة التي تعيش فيها هذه الفطريات.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;بعض&#160;الاكتشافات الحديثة تدلل على توسع دائرة الضحايا لتشمل حشرات اخرى غير النمل، كالجراد والجنادب.&lt;/p&gt;
+&lt;div id="attachment_1759" style="width: 297px" class="wp-caption aligncenter"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/cat-mouse-4.jpg"&gt;&lt;img class=" wp-image-1759  " alt="سلوك غير متوقع لفأر وقط " src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/cat-mouse-4.jpg?resize=287%2C242" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;سلوك غير متوقع لفأر وقط&lt;/p&gt;&lt;/div&gt;
+&lt;h4 style="direction: rtl;"&gt;القطط وداء المقوصات (Toxoplasma gondii)&lt;/h4&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;التكسوبلازما (تكسو) هي حيوانات أولية وحيدة الخلية تتكاثر في أمعاء القطط المنزلية.&#160;ولكي تصل هذه الكائنات الطفيلية إلى أمعاء القطط تقوم بالسيطرة على دماغ الفئران.&#160;الفئران بطبعها تخاف من القطط، وخاصة بولها. لكن التكسو يقوم بالتأثير على دماغ الفأر، بعد إصابته، ويغير من سلوكه.&#160;التغييرات التي يحفزها التكسو في الفأر هي الخمول والبطئ في ردة الفعل، والحد من الخوف، وفي أحيان كثيرة تغيير سلوك الفأر تجاه بول القطط من الخوف إلى الانجذاب الجنسي.&#160;هذه التغيرات السلوكية لدى الفأر تجعله عرضة للالتهام من قبل القطط، وبالتالي تعود هذه الكائنات الطفيلية إلى مستضيفها الأصلي، القطط، لتتكاثر مرة أخرى في أمعائها.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;مجموعة التغيرات السلوكية هذه تسمى داء المقوسات (Toxoplasmosis) وهو الداء الذي تسببه هذه الكائنات التطفيلية.&#160;داء المقوسات لا يقتصر فقط على الفئران بل ينتقل أيضا إلى البشر. ويقدر بأن ثلث سكان الكرة الأرضية مصابون بهذا الداء.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;توصل عالم أحياء شيكي مؤخراً إلى أن المصابين بهذا الداء يعانون من أعراض مشابهة لأعراض الفئران كردة الفعل البطيئة وقلة الخوف اتجاه المخاطر ويرجح أن حب أغلبنا للقطط ربما يكون سببه هو هذه الطفيليات.&#160;بعض الأبحاث غير المؤكدة تدلل أيضاً على وجود علاقة بين بداية إنتشار تربية القطط المنزلية كحيوانات أليفة في اوروبا وبين نسبة انتشار مرض الفصام (السكيتسوفرينيا).&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;كيف تستعد لاجتياح الزومبي ؟&lt;/h4&gt;
+&lt;h4 style="direction: rtl;"&gt;&lt;/h4&gt;
+&lt;h4 style="direction: rtl;"&gt;&lt;strong&gt;&lt;a href="https://docs.google.com/forms/d/1pZmb-1E7ol2jsjT0su-dRZ3eED3L8hM6QToYQb33BaI/viewform"&gt;استبيان مستمعي بودكاست أصفار&lt;/a&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;للاستزادة:&lt;/h4&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://news.nationalgeographic.com/news/2005/09/0901_050901_wormparasite.html" target="_blank"&gt;Suicide Grasshoppers Brainwashed by Parasite Worms&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://news.nationalgeographic.com/news/2013/01/220113-sneaky-cat-parasite-takes-over-human-brains-science/#" target="_blank"&gt;Invasion Of The Mind-Controlling Zombie Parasites.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://www.sciencedaily.com/releases/2009/08/090811161345.htm" target="_blank"&gt;Parasite Causes Zombie Ants To Die In An Ideal Spot.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://www.cnn.com/2011/HEALTH/04/25/zombie.virus.zombies.book/index.html" target="_blank"&gt;Inside zombie brains: Sci-fi teaches science.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://phenomena.nationalgeographic.com/2008/10/05/toxoplasma-the-brain-parasite-that-influences-human-culture/" target="_blank"&gt;Toxoplasma – the brain parasite that influences human culture.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://news.nationalgeographic.com/news/2013/01/220113-sneaky-cat-parasite-takes-over-human-brains-science/" target="_blank"&gt;How a Cat-Borne Parasite Infects Humans.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: ltr; text-align: left;"&gt;&lt;a href="http://blogs.cdc.gov/publichealthmatters/2011/05/preparedness-101-zombie-apocalypse/" target="_blank"&gt;Preparedness 101: Zombie Apocalypse.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/undead-the-science-behind-zombies"&gt;الموتى الأحياء : العلم وراء الزومبي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/undead-the-science-behind-zombies/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode_20.mp3" length="45722125" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+
+هل الزومبي حقيقة؟ هل من الممكن للجثث أن تعود للحياة مرة أخرى لتطارد الأحياء؟ لطالما ظننا أن مفهوم الزوبي خيالي بحت ومن الأشياء التي يستحيل وجودها في الطبيعة، لكن أبحاثاً جديدة تقول العكس. الفكرة ليست بعيدة جداً عن الواقع!
+
+خمس حالات تزمبك في الطبي[...]</itunes:subtitle>
+                    <itunes:summary>
+
+هل الزومبي حقيقة؟ هل من الممكن للجثث أن تعود للحياة مرة أخرى لتطارد الأحياء؟ لطالما ظننا أن مفهوم الزوبي خيالي بحت ومن الأشياء التي يستحيل وجودها في الطبيعة، لكن أبحاثاً جديدة تقول العكس. الفكرة ليست بعيدة جداً عن الواقع!
+
+خمس حالات تزمبك في الطبيعة:
+كلب مصاب بالسعار
+&#160;السعار (داء الكلب)
+هو مرض فيروسي يصيب الجهاز العصبي المركزي ويسبب إلتهاب حاد وسريع في الدماغ.&#160;الفايروس، الذي ينتمي لعائلة الفيروسات الكلبية (Lyssavirus)، من الفيروسات التي تستهدف الدماغ وتسبب أعراض قريبة من أعراض الزومبي.&#160;تحصل العدوى عن طريق عضة من الحيوان المصاب، فينتقل الفايروس من اللعاب إلى الأعصاب ومن ثم الدماغ.
+من الأعراض المبكرة لداء الكلب هي الشعور بالضيق والاكتئاب، وتغيرات في الوعي، وتغيرات في الشخصيه، ومشاكل في الذاكرة، وحركات عنيفة، وتهيّج لا إرادي، ورهاب من الماء، وينتاب المريض في النهاية نوبات من الجنون والهلوسة.
+
+دودة شعرية تستوطن جندب
+الجنادب والديدان الشعرية الطفيلية (Nematomorpha)
+الديدان الشعرية كما تسمى هي ديدان طفيلية تستوطن أجسام الجراد والجنادب والصراصير.&#160;يبتلع الجندب يرقات هذه الدودة مع الماء فتعيش داخله وتكبر حتى تبلغ.&#160;عندما تصبح الدودة جاهزة للتزاوج، تقوم بإفراز بروتينات تؤثر على الجهاز العصبي المركزي الخاص بالجنادب، مما يؤثر على الإشارات الكيميائية لأدمغة هذه الحشرات وبالتالي تسيطر على تصرفاتها (أو جزء من تصرفاتها).&#160;بهذه الطريقة تقوم الدودة بدفع الجندب إلى البحث عن أقرب بركة مياه ليقفز فيها ويلقى حتفه (فيما يعرف بانتحار الجنادب)، لتخرج من جسد الجندب وتتكاثر مع ديدان أخرى في المياه.
+
+حلزونة مصابة بديدان مفلطحة
+الحلزونات والديدان المفلطحة (Leucochloridium paradoxum)
+هذه الديدان المفلطحة شبيهة في سلوكها بسلوك الديدان الشعيرية لكنها تستهدف الحلزونات.&#160;يقوم الحلزون بأكل فضلات الطيور المصابة ببيض هذه الدودة.&#160;تقوم الدودة بعدها باستيطان الضحية (الحلزون) وتنمو داخله حتى تبلغ.&#160;عندما تصل الدودة إلى طور النشاط من حياتها، تقوم بالتحرك صعوداً لتستقر في أعين الحلزون.&#160;في هذا الوقت تتورم أعين الحلزون وتنتفخ وتنبض بألوان مقلمة ظاهرة للعيان تحاكي فيها شكل ولون اليُسروع (الطعام المفضل للطيور!).
+
+الحلزونات بطبعها تخشى الأماكن النيرة وتعيش في الظل لكي تتجنب الحيوانات المفترسة، لكن التورم في أعين الحلزون يجعلها عاجزة عن تحديد شدة الضوء وبالتالي تصعد أعالي الأشجار حيث النور العالي.&#160;هذا التعرض للمناطق المفتوحة والمضيئة بالإضافة إلى وجود الدودة المفلطحة التي تحاكي سلوك اليُسروع يجعل الحلزون فريسة مؤكدة للطيور.
+تعود الدودة إلى الطائر لتكمل دورة حياتها وتضع بيضها في شرج الطائر لتنزل هي الأخرى مع فضلاته لتصيب حلزون أخر.&#160;سلوك الدودة المفلطحة الطفيلي هذا شبيه بمرض الزومبي من ناحية تلاعب الدودة بسلوك الضحية، لكنه تلاعب بطريقة غير مباشرة.
+
+فطر مستوطن جسد نملة
+النمل وفطر الزومبي (Ophiocordyceps unilateralis)
+ربما قد لعب بعضكم لعبة&#160;ذا لاست أوف أس (The Last of Us) واستغرب وجود تلميحات عن نوع من الفطريات يسبب التزمبك وعلاقتها بالنمل.&#160;هذا جنس من الفطريات يضم تحته الكثير من الانواع، و تم اكتشافه مؤخرا في غابات البرازيل المطرية.
+تصاب النملة عندما تلامس خلاياها خلايا الفطر (البَوغ) ، فيسيطر الفطر بشكل كامل على دماغ النملة ويقوم بالتحكم بها بشكل دقيق. بعد الاصابة تقوم النملة بالتحرك وتسلق النباتات لتصل الى ارتفاع يقدر بـ ٢٥ سم عن الارض، ثم تتشبث اسفل اقرب ورقة.&#160;اكتشف الباحثون أن المكان المحدد هذا هو البيئة المناسبة لنمو وتكاثر الفطر من ناحية درجة الحرارة والرطوبة وضوء الشمس.
+
+عندما تصل النملة الى هذه النقطة يقوم الفطر بقتلها وتحويلها الى مصنع للفطريات عن طريق استنزاف احشاء النملة واستخدامه كغذاء بعد تحويله الى سكر، ما عدا عضلات الاقدام لكي تحافظ على مكانها ولا تسقط.&#160;بعد ان يصبح الفطر قادراً على الانتشار يقوم بارسال خلاياه مرة اخرى لكي يصيب ضحايا جدد.&#160;لا يعرف العلماء بعد كيفية سيطرة الفطر على جهاز النملة العصبي لكن الابحاث في هذا المجال ما زالت قائمة.
+لدى مستعمرات النمل طرق كثيرة للتغلب على هذا الفطر. إحدى الاستراتيجيات هي أن النمل يتنبأ&#160;(عن طريق روائح واشارات معينة) بالنملات المصابة وبالتالي يقومون بتجنب هذه النملة وتحاشي الأماكن التي أتت منها. استراتيجية أخرى هي أن النمل عادة يبني مستعمراته في المستويات الأعلى من ٢٥ سم ليتجنبوا البيئة التي تعيش فيها هذه الفطريات.
+بعض&#160;الاكتشافات الحديثة تدلل على توسع دائرة الضحايا لتشمل حشرات اخرى غير النمل، كالجراد والجنادب.
+سلوك غير متوقع لفأر وقط
+القطط وداء المقوصات (Toxoplasma gondii)
+التكسوبلازما (تكسو) هي حيوانات أولية وحيدة الخلية تت[...]</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>العلم و الحس العام</title>
+                    <link>http://a9far.net/podcast/science-and-common-sense</link>
+                    <comments>http://a9far.net/podcast/science-and-common-sense#comments</comments>
+                    <pubDate>Mon, 14 Jul 2014 14:57:15 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1730</guid>
+                    <description>&lt;p&gt;العلاقة بين العلم و الحس العام (الفطرة السليمة) عادة ما تختزل بشكل مخل، مثلا ينظر الناس للعلم كمعرفة مجردة، والحس العام كمعرفة أقرب للواقع، سنتحدث عن أربع محاور توضح العلاقة بين العلم والحس العام. طبيعة المعرفة\التفكير العلمي. أهمية العلوم ودورها في تطوير العقلانية. طبيعة المعرفة\التفكير الحسي العام. الاختلافات والتشابهات بين &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/science-and-common-sense"&gt;العلم و الحس العام&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="aligncenter size-full wp-image-1733" alt="episode19" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/07/episode19.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;العلاقة بين العلم و الحس العام (الفطرة السليمة) عادة ما تختزل بشكل مخل، مثلا ينظر الناس للعلم كمعرفة مجردة، والحس العام كمعرفة أقرب للواقع، سنتحدث عن أربع محاور توضح العلاقة بين العلم والحس العام.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&lt;span id="more-1730"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="direction: rtl;"&gt;طبيعة المعرفة\التفكير العلمي.&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;أهمية العلوم ودورها في تطوير العقلانية.&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;طبيعة المعرفة\التفكير الحسي العام.&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;الاختلافات والتشابهات بين العلم والحس العام.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/science-and-common-sense"&gt;العلم و الحس العام&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/science-and-common-sense/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode19.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:45:15</itunes:duration>
+                    <itunes:subtitle>
+العلاقة بين العلم و الحس العام (الفطرة السليمة) عادة ما تختزل بشكل مخل، مثلا ينظر الناس للعلم كمعرفة مجردة، والحس العام كمعرفة أقرب للواقع، سنتحدث عن أربع محاور توضح العلاقة بين العلم والحس العام.
+
+
+طبيعة المعرفةالتفكير العلمي.
+أهمية العلوم ودورها [...]</itunes:subtitle>
+                    <itunes:summary>
+العلاقة بين العلم و الحس العام (الفطرة السليمة) عادة ما تختزل بشكل مخل، مثلا ينظر الناس للعلم كمعرفة مجردة، والحس العام كمعرفة أقرب للواقع، سنتحدث عن أربع محاور توضح العلاقة بين العلم والحس العام.
+
+
+طبيعة المعرفةالتفكير العلمي.
+أهمية العلوم ودورها في تطوير العقلانية.
+طبيعة المعرفةالتفكير الحسي العام.
+الاختلافات والتشابهات بين العلم والحس العام.
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post العلم و الحس العام appeared first on أصفار.The post العلم و الحس العام appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>حيوانك المنقرض المفضل؟</title>
+                    <link>http://a9far.net/podcast/your-favorite-extinct-animal</link>
+                    <comments>http://a9far.net/podcast/your-favorite-extinct-animal#comments</comments>
+                    <pubDate>Fri, 13 Jun 2014 15:41:34 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <category>نظرية التطور</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1713</guid>
+                    <description>&lt;p&gt;الانقراض ليس ظاهرة غريبة على كوكبنا. الحياة على كوكب الأرض مرت بكثير من فترات&#160;الازدهار والانحدار.&#160;تشير التقديرات إلى أن 99.9٪ من جميع الأنواع التي وجدت من أي وقت مضى هي الآن منقرضة. سألنا متابعي أصفار وفريق العمل عن الكائنات المنقرضة التي يفضلونها ويودون رؤيتها اليوم على قيد الحياة. الحيوانات المذكورة في &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/your-favorite-extinct-animal"&gt;حيوانك المنقرض المفضل؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter  wp-image-1715" title="الانقراض" alt="حيوانك المنقرض المفضل؟" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/06/episode181.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;الانقراض ليس ظاهرة غريبة على كوكبنا. الحياة على كوكب الأرض مرت بكثير من فترات&#160;الازدهار والانحدار.&#160;تشير التقديرات إلى أن 99.9٪ من جميع الأنواع التي وجدت من أي وقت مضى هي الآن منقرضة.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;سألنا متابعي أصفار وفريق العمل عن الكائنات المنقرضة التي يفضلونها ويودون رؤيتها اليوم على قيد الحياة.&lt;/p&gt;
+&lt;h4 style="direction: rtl; text-align: right;"&gt;الحيوانات المذكورة في الحلقة:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li style="direction: rtl;"&gt;طائر الأركيوبتركس (Archeopteryx)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;وعل جبال البرانس (Pyrenean ibex)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;وحش بلوشستان (Paraceratherium)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;سلحفاة البحر (Archelon)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;التيروصور (Pterosaurs)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;النياندرثال (Neanderthal)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;الطاعون (Yersinia pestis)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;التيرانوصور (Tyrannosaurus)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;البهضم (Megatherium)&lt;/li&gt;
+&lt;li style="direction: rtl;"&gt;الغزال العربي/السعودي (Gazela Arabia/Saudia)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/your-favorite-extinct-animal"&gt;حيوانك المنقرض المفضل؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/your-favorite-extinct-animal/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode18.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+الانقراض ليس ظاهرة غريبة على كوكبنا. الحياة على كوكب الأرض مرت بكثير من فترات&#160;الازدهار والانحدار.&#160;تشير التقديرات إلى أن 99.9٪ من جميع الأنواع التي وجدت من أي وقت مضى هي الآن منقرضة.
+سألنا متابعي أصفار وفريق العمل عن الكائنات المنقرضة التي يفضلونها [...]</itunes:subtitle>
+                    <itunes:summary>
+الانقراض ليس ظاهرة غريبة على كوكبنا. الحياة على كوكب الأرض مرت بكثير من فترات&#160;الازدهار والانحدار.&#160;تشير التقديرات إلى أن 99.9٪ من جميع الأنواع التي وجدت من أي وقت مضى هي الآن منقرضة.
+سألنا متابعي أصفار وفريق العمل عن الكائنات المنقرضة التي يفضلونها ويودون رؤيتها اليوم على قيد الحياة.
+الحيوانات المذكورة في الحلقة:
+
+طائر الأركيوبتركس (Archeopteryx)
+وعل جبال البرانس (Pyrenean ibex)
+وحش بلوشستان (Paraceratherium)
+سلحفاة البحر (Archelon)
+التيروصور (Pterosaurs)
+النياندرثال (Neanderthal)
+الطاعون (Yersinia pestis)
+التيرانوصور (Tyrannosaurus)
+البهضم (Megatherium)
+الغزال العربي/السعودي (Gazela Arabia/Saudia)
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post حيوانك المنقرض المفضل؟ appeared first on أصفار.The post حيوانك المنقرض المفضل؟ appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>قصة الجاذبية</title>
+                    <link>http://a9far.net/podcast/the-story-of-gravity</link>
+                    <comments>http://a9far.net/podcast/the-story-of-gravity#comments</comments>
+                    <pubDate>Tue, 27 May 2014 22:25:38 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>فلك</category>
+                    <category>فيزياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1671</guid>
+                    <description>&lt;p&gt;الجاذبية هي القوة التي تُسقط التفاح من غصون الأشجار، والتي تجعلك والتفاحة متشبثين بالأرض، وتجعل الأرض منتظمة في مدارها حول الشمس، والتي تسببت في ولادة الشمس قبل أكثر من 4.5 بليون سنة. في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;تاريخ نظرية الجاذبية&#160;وعن مراحل تطورها منذ أيام&#160;الفيلسوف الإغريقي أرسطو&#160;ومروراً بأعمال إسحاق &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/the-story-of-gravity"&gt;قصة الجاذبية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter  wp-image-1670" title="قصة الجاذبية" alt="قصة الجاذبية" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/05/episode17.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;الجاذبية هي القوة التي تُسقط التفاح من غصون الأشجار، والتي تجعلك والتفاحة متشبثين بالأرض، وتجعل الأرض منتظمة في مدارها حول الشمس، والتي تسببت في ولادة الشمس قبل أكثر من 4.5 بليون سنة.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;تاريخ نظرية الجاذبية&#160;وعن مراحل تطورها منذ أيام&#160;الفيلسوف الإغريقي أرسطو&#160;ومروراً بأعمال إسحاق نيوتن وألبرت أينشتاين وحتى وقتنا الحاضر. سنرى سوياً كيف اختلف تصورنا عن الكون في كل مرة يتم فيها التعديل على النظرية وكيف نجحت الاكتشافات الجديدة في تشكيل تصورنا لهذه القوة الخفية.&#160;&lt;span id="more-1671"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;محاور الحلقة&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;القوى الأساسية الأربعة.&lt;/li&gt;
+&lt;li&gt;الفيزياء الأرسطية وإسهامات العلماء العرب.&lt;/li&gt;
+&lt;li&gt;نيوتن وقانون الجذب.&lt;/li&gt;
+&lt;li&gt;نظريات الأثير.&lt;/li&gt;
+&lt;li&gt;آينشتاين والنسبية العامة.&lt;/li&gt;
+&lt;li&gt;عالم الكم.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style="direction: rtl;"&gt;معلم فيزياء يقوم بتمثيل نسيج الزمكان من أجل محاكاة أثر الجاذبية&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/MTY1Kje0yLg?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;الفرق بين نموذجي نيوتن وأينشتاين للفضاء والكون&lt;/h4&gt;
+&lt;p style="direction: rtl;"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2014/05/newton-vs-einstein.jpg"&gt;&lt;img class="aligncenter size-full wp-image-1679" alt="newton vs einstein" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/05/newton-vs-einstein.jpg?resize=495%2C215" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;سلسلة&#160;أساسيات الزمكان من تيد-إد&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/ScdLqAA_64E?list=PLZISZ7bGHFvnSOxbtBpd1Krj61TAsVA0m" height="315" width="560" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&#160;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/the-story-of-gravity"&gt;قصة الجاذبية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/the-story-of-gravity/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode17.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:53:52</itunes:duration>
+                    <itunes:subtitle>
+الجاذبية هي القوة التي تُسقط التفاح من غصون الأشجار، والتي تجعلك والتفاحة متشبثين بالأرض، وتجعل الأرض منتظمة في مدارها حول الشمس، والتي تسببت في ولادة الشمس قبل أكثر من 4.5 بليون سنة.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;تاريخ نظرية الجاذبية&#160;وع[...]</itunes:subtitle>
+                    <itunes:summary>
+الجاذبية هي القوة التي تُسقط التفاح من غصون الأشجار، والتي تجعلك والتفاحة متشبثين بالأرض، وتجعل الأرض منتظمة في مدارها حول الشمس، والتي تسببت في ولادة الشمس قبل أكثر من 4.5 بليون سنة.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;تاريخ نظرية الجاذبية&#160;وعن مراحل تطورها منذ أيام&#160;الفيلسوف الإغريقي أرسطو&#160;ومروراً بأعمال إسحاق نيوتن وألبرت أينشتاين وحتى وقتنا الحاضر. سنرى سوياً كيف اختلف تصورنا عن الكون في كل مرة يتم فيها التعديل على النظرية وكيف نجحت الاكتشافات الجديدة في تشكيل تصورنا لهذه القوة الخفية.&#160;
+محاور الحلقة
+
+القوى الأساسية الأربعة.
+الفيزياء الأرسطية وإسهامات العلماء العرب.
+نيوتن وقانون الجذب.
+نظريات الأثير.
+آينشتاين والنسبية العامة.
+عالم الكم.
+
+معلم فيزياء يقوم بتمثيل نسيج الزمكان من أجل محاكاة أثر الجاذبية
+
+&#160;
+الفرق بين نموذجي نيوتن وأينشتاين للفضاء والكون
+
+سلسلة&#160;أساسيات الزمكان من تيد-إد
+
+&#160;يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post قصة الجاذبية appeared first on أصفار.The post قصة الجاذبية appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>العلم وراء الموسيقى</title>
+                    <link>http://a9far.net/podcast/science-of-music</link>
+                    <comments>http://a9far.net/podcast/science-of-music#comments</comments>
+                    <pubDate>Thu, 01 May 2014 12:14:11 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم نفس</category>
+                    <category>فيزياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1599</guid>
+                    <description>&lt;p&gt;لطالما كانت الموسيقى&#160;جزءاً لا يتجزأ من حضارتنا الإنسانية.&#160;&#160;فلا تكاد تخلو ثقافة في مشرق الارض أو مغربها من وجود نوع من أنواع الموسيقى، إبتداءاً من&#160;الألعاب الشعبية وأغاني الحروب إلى الأوركسترا التي نعرفها اليوم. في هذه الحلقة من بودكاست أصفار سنتحدث عن العلم وراء الموسيقى. ستتعرف على بعض المصطلحات المهمة كالنوتة بمكوناتها &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/science-of-music"&gt;العلم وراء الموسيقى&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter size-full wp-image-1603" alt="العلم وراء الموسيقى" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/05/episode16.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;لطالما كانت الموسيقى&#160;جزءاً لا يتجزأ من حضارتنا الإنسانية.&#160;&#160;فلا تكاد تخلو ثقافة في مشرق الارض أو مغربها من وجود نوع من أنواع الموسيقى، إبتداءاً من&#160;الألعاب الشعبية وأغاني الحروب إلى الأوركسترا التي نعرفها اليوم.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;في هذه الحلقة من بودكاست أصفار سنتحدث عن العلم وراء الموسيقى. ستتعرف على بعض المصطلحات المهمة كالنوتة بمكوناتها الأربعة والإيقاع والتناغم والمقام وغيرها والتي تجتمع سوية لتكون لنا المعزوفة أو المقطوعة الموسيقية. كما ستتعرف على الطريقة التي تعمل بها الموسيقى وعن بعض أنواع الآلات الموسيقية وخصائصها الفيزيائية.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;والموسيقى كغيرها من الظواهر البشرية تحتاج إلى نظريات تفسر وجودها ونشأتها، لذلك ستتعرف على أشهر هذه النظريات وأكثرها تداولاً في الأوساط العلمية وخاصةً عند علماء الأعصاب المعرفية. &#160;كما&#160;سنبحث طبيعة العلاقة الوثيقة بين الموسيقى واللغة في الدماغ والتي حيرت الكثير من العلماء حتى يومنا هذا.&lt;/p&gt;
+&lt;h4 style="direction: rtl;"&gt;بعض ما ذكر في الحلقة&lt;/h4&gt;
+&lt;p style="direction: rtl;"&gt;محاضرة لعالم الأعصاب المعرفي نيرود باتِل يتحدث فيها عن العلاقة بين الموسيقى، والبناء اللغوي، وتركيب الجمل&#160;من خلال أبحاث علم الأعصاب الإدراكي.&lt;/p&gt;
+&lt;p&gt;&lt;span class='embed-youtube' style='text-align:center; display: block;'&gt;&lt;iframe class='youtube-player' type='text/html' width='660' height='402' src='http://www.youtube.com/embed/bjJ6ZsRmGgk?version=3&amp;#038;rel=1&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=1&amp;#038;iv_load_policy=1&amp;#038;wmode=transparent' frameborder='0'&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;محاضرة أخرى لباتِل بعنوان &lt;em&gt;الموسيقى والتطور البيولوجي&lt;/em&gt;&#160;يتحدث فيها عن وظيفة الموسيقى البيولوجية، وتطور دورها في حياتنا كبشر. المحاضرة جزء من ندوة عن الموسيقى والدماغ من جامعة ستانفورد.&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="//player.vimeo.com/video/12834636" height="281" width="500" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;(&lt;a href="https://itunes.apple.com/us/itunes-u/music-and-the-brain-symposium/id480026138?mt=10" target="_blank"&gt;رابط المحاضرة على الآيتونز&lt;/a&gt;)&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&lt;a title="how music works" href="https://www.goodreads.com/book/show/8463375-how-music-works" target="_blank"&gt;كتاب كيف تعمل الموسيقى لجون بويل.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;الفلم الوثائقي&lt;a href="http://www.channel4.com/programmes/how-music-works-with-howard-goodall" target="_blank"&gt;&#160;&lt;em&gt;كيف تعمل الموسيقى&lt;/em&gt;&lt;/a&gt; متوفر على اليوتوب بأجزائه الأربعة. هذا أول جزء:&lt;/p&gt;
+&lt;p&gt;&lt;span class='embed-youtube' style='text-align:center; display: block;'&gt;&lt;iframe class='youtube-player' type='text/html' width='660' height='402' src='http://www.youtube.com/embed/xw9eef99aSI?version=3&amp;#038;rel=1&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=1&amp;#038;iv_load_policy=1&amp;#038;wmode=transparent' frameborder='0'&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/science-of-music"&gt;العلم وراء الموسيقى&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/science-of-music/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode16.mp3" length="45920342" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+لطالما كانت الموسيقى&#160;جزءاً لا يتجزأ من حضارتنا الإنسانية.&#160;&#160;فلا تكاد تخلو ثقافة في مشرق الارض أو مغربها من وجود نوع من أنواع الموسيقى، إبتداءاً من&#160;الألعاب الشعبية وأغاني الحروب إلى الأوركسترا التي نعرفها اليوم.
+في هذه الحلقة من بودكاست أصفار سنتحدث [...]</itunes:subtitle>
+                    <itunes:summary>
+لطالما كانت الموسيقى&#160;جزءاً لا يتجزأ من حضارتنا الإنسانية.&#160;&#160;فلا تكاد تخلو ثقافة في مشرق الارض أو مغربها من وجود نوع من أنواع الموسيقى، إبتداءاً من&#160;الألعاب الشعبية وأغاني الحروب إلى الأوركسترا التي نعرفها اليوم.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن العلم وراء الموسيقى. ستتعرف على بعض المصطلحات المهمة كالنوتة بمكوناتها الأربعة والإيقاع والتناغم والمقام وغيرها والتي تجتمع سوية لتكون لنا المعزوفة أو المقطوعة الموسيقية. كما ستتعرف على الطريقة التي تعمل بها الموسيقى وعن بعض أنواع الآلات الموسيقية وخصائصها الفيزيائية.
+والموسيقى كغيرها من الظواهر البشرية تحتاج إلى نظريات تفسر وجودها ونشأتها، لذلك ستتعرف على أشهر هذه النظريات وأكثرها تداولاً في الأوساط العلمية وخاصةً عند علماء الأعصاب المعرفية. &#160;كما&#160;سنبحث طبيعة العلاقة الوثيقة بين الموسيقى واللغة في الدماغ والتي حيرت الكثير من العلماء حتى يومنا هذا.
+بعض ما ذكر في الحلقة
+محاضرة لعالم الأعصاب المعرفي نيرود باتِل يتحدث فيها عن العلاقة بين الموسيقى، والبناء اللغوي، وتركيب الجمل&#160;من خلال أبحاث علم الأعصاب الإدراكي.
+
+محاضرة أخرى لباتِل بعنوان الموسيقى والتطور البيولوجي&#160;يتحدث فيها عن وظيفة الموسيقى البيولوجية، وتطور دورها في حياتنا كبشر. المحاضرة جزء من ندوة عن الموسيقى والدماغ من جامعة ستانفورد.
+
+(رابط المحاضرة على الآيتونز)
+كتاب كيف تعمل الموسيقى لجون بويل.
+الفلم الوثائقي&#160;كيف تعمل الموسيقى متوفر على اليوتوب بأجزائه الأربعة. هذا أول جزء:
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post العلم وراء الموسيقى appeared first on أصفار.The post العلم وراء الموسيقى appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>نقاش حول الذكاء الاصطناعي</title>
+                    <link>http://a9far.net/podcast/artificial-intelligence</link>
+                    <comments>http://a9far.net/podcast/artificial-intelligence#comments</comments>
+                    <pubDate>Fri, 11 Apr 2014 13:17:09 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>تقنية</category>
+                    <category>خيال علمي</category>
+                    <category>كمبيوتر</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1546</guid>
+                    <description>&lt;p&gt;حلقة نقاش جديدة عن الذكاء الاصطناعي. بعض ما ذكر في الحلقة: Gödel, Escher, Bach: An Eternal Golden Braid The Man Who Would Teach Machines to Think روبوت يتعلم المشي بالتجربة جزء من محاضرة عن هذا النوع من الروبوتات يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/artificial-intelligence"&gt;نقاش حول الذكاء الاصطناعي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter size-full wp-image-1547" alt="الذكاء الاصطناعي" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/04/episode15.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;حلقة نقاش جديدة عن الذكاء الاصطناعي.&lt;/p&gt;
+&lt;h4 style="direction: rtl; text-align: right;"&gt;بعض ما ذكر في الحلقة:&lt;/h4&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href="http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567"&gt;Gödel, Escher, Bach: An Eternal Golden Braid&lt;br /&gt;
+&lt;/a&gt;&lt;a href="http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/"&gt;The Man Who Would Teach Machines to Think&lt;/a&gt;&lt;/p&gt;
+&lt;h4 style="direction: rtl; text-align: right;"&gt;روبوت يتعلم المشي بالتجربة&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/ehno85yI-sA?rel=0" height="315" width="420" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h4 style="direction: rtl; text-align: right;"&gt;جزء من محاضرة عن هذا النوع من الروبوتات&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src="//www.youtube.com/embed/iNL5-0_T1D0?rel=0" height="315" width="560" allowfullscreen="" frameborder="0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/artificial-intelligence"&gt;نقاش حول الذكاء الاصطناعي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/artificial-intelligence/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode15.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+حلقة نقاش جديدة عن الذكاء الاصطناعي.
+بعض ما ذكر في الحلقة:
+Gödel, Escher, Bach: An Eternal Golden Braid
+The Man Who Would Teach Machines to Think
+روبوت يتعلم المشي بالتجربة
+
+جزء من محاضرة عن هذا النوع من الروبوتات
+
+يمكنك الاستماع إلى الحلقة على&#160;الآ[...]</itunes:subtitle>
+                    <itunes:summary>
+حلقة نقاش جديدة عن الذكاء الاصطناعي.
+بعض ما ذكر في الحلقة:
+Gödel, Escher, Bach: An Eternal Golden Braid
+The Man Who Would Teach Machines to Think
+روبوت يتعلم المشي بالتجربة
+
+جزء من محاضرة عن هذا النوع من الروبوتات
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post نقاش حول الذكاء الاصطناعي appeared first on أصفار.The post نقاش حول الذكاء الاصطناعي appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>أمراض الكلى: الوقاية والعلاج</title>
+                    <link>http://a9far.net/podcast/kidney-diseases-prevention-and-treatment</link>
+                    <comments>http://a9far.net/podcast/kidney-diseases-prevention-and-treatment#comments</comments>
+                    <pubDate>Fri, 28 Mar 2014 12:11:46 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>طب</category>
+                    <category>علم أحياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1498</guid>
+                    <description>&lt;p&gt;تلعب الكلى دوراً مهماً في صحة أجسادنا. وبمناسة شهر مارس (شهر التوعية بأمراض الكلى) أحببنا أن نقدم لكم حلقة خاصة من الأستاذ الدكتور سعد الشهيب، أستاذ واستشاري أمراض الكلى بجامعه الملك عبدالعزيز. في هذه الحلقة من بودكاست أصفار سنتحدث عن الكلى وتركيبها ووظائفها المتعددة. كما سنتحدث عن أكثر أمراض الكلى &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/kidney-diseases-prevention-and-treatment"&gt;أمراض الكلى: الوقاية والعلاج&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter size-full wp-image-1499" alt="أمراض الكلى الوقاية والعلاج" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/03/episode14.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;تلعب الكلى دوراً مهماً في صحة أجسادنا. وبمناسة شهر مارس (&lt;a href="http://nkdep.nih.gov/get-involved/kidney-month.shtml?ref=nih-carousel"&gt;شهر التوعية بأمراض الكلى&lt;/a&gt;) أحببنا أن نقدم لكم حلقة خاصة من الأستاذ الدكتور &lt;a title="@SaadAlshohaib" href="https://twitter.com/SaadAlshohaib" target="_blank"&gt;سعد الشهيب&lt;/a&gt;، أستاذ واستشاري أمراض الكلى بجامعه الملك عبدالعزيز.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;في هذه الحلقة من بودكاست أصفار سنتحدث عن الكلى وتركيبها ووظائفها المتعددة. كما سنتحدث عن أكثر أمراض الكلى المزمنة انتشاراً في السعودية وفي العالم. بعدها سيذكر الدكتور سعد الأسباب والعوامل الرئيسية خلف هذه النسب والإحصائيات المرتفعة، كارتفاع نسبة المصابين بداء السكري وارتفاع &#160;ضغط الدم، بالإضافة إلى تأثير العوامل البيئية الأخرى كالتلوث والعادات الغذائية ونمط الحياة. بعدها سنفصل في الخيارات المتاحة للمصابين بقصور وفشل كلوي كالغسيل الدموي،&#160;أوالبريتوني، أو الزراعة. وأخيرا سنختم الحلقة بالحديث عن ثقافة التبرع بالأعضاء والمفاهيم الخاطئة المنتشرة والمتعلقة بالوفاة الدماغية، كما سنشير إلى سبل التبرع &lt;a href="https://www.scot.org.sa/ar/2010-05-28-10-00-25/2010-05-28-10-01-05.html"&gt;كبطاقة&#160;التبرع بالأعضاء&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;وهنا يعرض&#160;الجراح &lt;a href="https://en.wikipedia.org/wiki/Anthony_Atala"&gt;أنتوني أتالا&lt;/a&gt;&#160;في تيد أول كلية تم طباعتها من&#160;الخلايا الحية وباستخدام تقنية الطباعة ثلاثية الأبعاد، أمامه مشوار شاق كما ذكرنا في الحلقة فالكلية أكثر تعقيداً بمراحل من المثانة في الصنع والزراعة. (&lt;span style="color: #ff0000;"&gt;الفيديو مترجم للعربية&lt;/span&gt;)&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&lt;iframe src="http://embed.ted.com/talks/anthony_atala_printing_a_human_kidney.html" width="660" height="371" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;رسوم &lt;a href="http://a9far.net/infographics-bank/"&gt;الإنفوجرافيك &lt;/a&gt;التالية خفيفة وممتعة وتلخص الكثير من المعلومات المتعلقة بوظائف الكلية وأمراضها المزمنة، وأحد هذه الأمراض والمعروف بمرض الكلية متعددة الكيسات (تكيس الكلية).&lt;/p&gt;
+&lt;div id="attachment_1474" style="width: 376px" class="wp-caption aligncenter"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2013/12/kidney.jpg"&gt;&lt;img class=" wp-image-1474  " alt="معلومات عن الكلى" src="http://i2.wp.com/a9far.net/wp-content/uploads/2013/12/kidney.jpg?resize=366%2C1080" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;معلومات عن الكلى&lt;/p&gt;&lt;/div&gt;
+&lt;div id="attachment_1455" style="width: 334px" class="wp-caption aligncenter"&gt;&lt;a href="http://i2.wp.com/a9far.net/wp-content/uploads/2013/12/PKD01.png"&gt;&lt;img class=" wp-image-1455  " alt="مرض الكلية متعددة الكيسات PKD" src="http://i2.wp.com/a9far.net/wp-content/uploads/2013/12/PKD01.png?resize=324%2C419" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;p class="wp-caption-text"&gt;مرض الكلية متعددة الكيسات PKD&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/kidney-diseases-prevention-and-treatment"&gt;أمراض الكلى: الوقاية والعلاج&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/kidney-diseases-prevention-and-treatment/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode14.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>1:04:59</itunes:duration>
+                    <itunes:subtitle>
+تلعب الكلى دوراً مهماً في صحة أجسادنا. وبمناسة شهر مارس (شهر التوعية بأمراض الكلى) أحببنا أن نقدم لكم حلقة خاصة من الأستاذ الدكتور سعد الشهيب، أستاذ واستشاري أمراض الكلى بجامعه الملك عبدالعزيز.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن الكلى وتركيبه[...]</itunes:subtitle>
+                    <itunes:summary>
+تلعب الكلى دوراً مهماً في صحة أجسادنا. وبمناسة شهر مارس (شهر التوعية بأمراض الكلى) أحببنا أن نقدم لكم حلقة خاصة من الأستاذ الدكتور سعد الشهيب، أستاذ واستشاري أمراض الكلى بجامعه الملك عبدالعزيز.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن الكلى وتركيبها ووظائفها المتعددة. كما سنتحدث عن أكثر أمراض الكلى المزمنة انتشاراً في السعودية وفي العالم. بعدها سيذكر الدكتور سعد الأسباب والعوامل الرئيسية خلف هذه النسب والإحصائيات المرتفعة، كارتفاع نسبة المصابين بداء السكري وارتفاع &#160;ضغط الدم، بالإضافة إلى تأثير العوامل البيئية الأخرى كالتلوث والعادات الغذائية ونمط الحياة. بعدها سنفصل في الخيارات المتاحة للمصابين بقصور وفشل كلوي كالغسيل الدموي،&#160;أوالبريتوني، أو الزراعة. وأخيرا سنختم الحلقة بالحديث عن ثقافة التبرع بالأعضاء والمفاهيم الخاطئة المنتشرة والمتعلقة بالوفاة الدماغية، كما سنشير إلى سبل التبرع كبطاقة&#160;التبرع بالأعضاء.
+وهنا يعرض&#160;الجراح أنتوني أتالا&#160;في تيد أول كلية تم طباعتها من&#160;الخلايا الحية وباستخدام تقنية الطباعة ثلاثية الأبعاد، أمامه مشوار شاق كما ذكرنا في الحلقة فالكلية أكثر تعقيداً بمراحل من المثانة في الصنع والزراعة. (الفيديو مترجم للعربية)
+
+رسوم الإنفوجرافيك التالية خفيفة وممتعة وتلخص الكثير من المعلومات المتعلقة بوظائف الكلية وأمراضها المزمنة، وأحد هذه الأمراض والمعروف بمرض الكلية متعددة الكيسات (تكيس الكلية).
+معلومات عن الكلى
+مرض الكلية متعددة الكيسات PKD
+&#160;
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post أمراض الكلى: الوقاية والعلاج appeared first on أصفار.The post أمراض الكلى: الوقاية والعلاج appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>الرياضة والجسد: فسيولوجية التمرين الرياضي</title>
+                    <link>http://a9far.net/podcast/sports-and-the-body-the-physiology-of-exercise</link>
+                    <comments>http://a9far.net/podcast/sports-and-the-body-the-physiology-of-exercise#comments</comments>
+                    <pubDate>Fri, 14 Mar 2014 13:58:42 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>طب</category>
+                    <category>علم أحياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1461</guid>
+                    <description>&lt;p&gt;الرياضة هي من أكثر النشاطات الجسدية أهمية لصحتنا الجسمية، نظراً لفوائدها الجمة والتي لا تحصى. ومع هذا فنحن نجهل الكثير عن العمليات العضوية التي تحدث داخل أجسادنا عند قيامنا بنشاط رياضي ما. في هذه الحلقة من بودكاست أصفار سنقوم بالتعرف على عملة الطاقة في الجسم &amp;#8220;ثلاثي فوسفات الأدينوسين&amp;#8221; (ATP)، وعن &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/sports-and-the-body-the-physiology-of-exercise"&gt;الرياضة والجسد: فسيولوجية التمرين الرياضي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="size-full wp-image-1462" title="الرياضة والجسد" alt="الرياضة والجسد" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/03/episode13.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;الرياضة هي من أكثر النشاطات الجسدية أهمية لصحتنا الجسمية، نظراً لفوائدها الجمة والتي لا تحصى. ومع هذا فنحن نجهل الكثير عن العمليات العضوية التي تحدث داخل أجسادنا عند قيامنا بنشاط رياضي ما.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;في هذه الحلقة من بودكاست أصفار سنقوم بالتعرف على عملة الطاقة في الجسم&lt;strong&gt; &amp;#8220;&lt;em&gt;ثلاثي فوسفات الأدينوسين&lt;/em&gt;&lt;/strong&gt;&amp;#8221; (ATP)، وعن مصادرها الأساسية من الغذاء. بعدها سنلقي الضوء على أنظمة الطاقة الأساسية في جسم الإنسان:&#160;&lt;em&gt;النظام اللاهوائي الفوري&lt;/em&gt;،&#160;&lt;em&gt;والنظام&#160;اللاهوائي&#160;قصير المدى&lt;/em&gt;، &lt;em&gt;والنظام الهوائي طويل المدى&lt;/em&gt;. بعدها سنقوم بالتحدث عن الجهود التي يبذلها الرياضيون من أجل التغلب على عتبة&#160;حمض اللاكتيك، ورفع مستواهم الرياضي وقدرة تحملهم. وفي النهاية سنقوم بتصحيح بعض المفاهيم الخاطئة المتعلقة بالرياضة، كبناء العضلات، وتخفيف الوزن وغيرها.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/sports-and-the-body-the-physiology-of-exercise"&gt;الرياضة والجسد: فسيولوجية التمرين الرياضي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/sports-and-the-body-the-physiology-of-exercise/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode13.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+الرياضة هي من أكثر النشاطات الجسدية أهمية لصحتنا الجسمية، نظراً لفوائدها الجمة والتي لا تحصى. ومع هذا فنحن نجهل الكثير عن العمليات العضوية التي تحدث داخل أجسادنا عند قيامنا بنشاط رياضي ما.
+في هذه الحلقة من بودكاست أصفار سنقوم بالتعرف على عملة الطاق[...]</itunes:subtitle>
+                    <itunes:summary>
+الرياضة هي من أكثر النشاطات الجسدية أهمية لصحتنا الجسمية، نظراً لفوائدها الجمة والتي لا تحصى. ومع هذا فنحن نجهل الكثير عن العمليات العضوية التي تحدث داخل أجسادنا عند قيامنا بنشاط رياضي ما.
+في هذه الحلقة من بودكاست أصفار سنقوم بالتعرف على عملة الطاقة في الجسم “ثلاثي فوسفات الأدينوسين” (ATP)، وعن مصادرها الأساسية من الغذاء. بعدها سنلقي الضوء على أنظمة الطاقة الأساسية في جسم الإنسان:&#160;النظام اللاهوائي الفوري،&#160;والنظام&#160;اللاهوائي&#160;قصير المدى، والنظام الهوائي طويل المدى. بعدها سنقوم بالتحدث عن الجهود التي يبذلها الرياضيون من أجل التغلب على عتبة&#160;حمض اللاكتيك، ورفع مستواهم الرياضي وقدرة تحملهم. وفي النهاية سنقوم بتصحيح بعض المفاهيم الخاطئة المتعلقة بالرياضة، كبناء العضلات، وتخفيف الوزن وغيرها.
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post الرياضة والجسد: فسيولوجية التمرين الرياضي appeared first on أصفار.The post الرياضة والجسد: فسيولوجية التمرين الرياضي appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>الحياة في الفضاء</title>
+                    <link>http://a9far.net/podcast/life-in-space</link>
+                    <comments>http://a9far.net/podcast/life-in-space#comments</comments>
+                    <pubDate>Tue, 25 Feb 2014 20:41:19 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>تقنية</category>
+                    <category>طب</category>
+                    <category>علم نفس</category>
+                    <category>فلك</category>
+                    <category>فيزياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1340</guid>
+                    <description>&lt;p&gt;&#160;من منا لم يحلم يوماً بالتحليق في الفضاء بحرية والتحرر من قيود الجاذبية الأرضية؟ إن حلم الحياة في الفضاء يعتبر من أكثر الأحلام المستحيلة&#160;التي راودت البشرية منذ عصور. يختلف الوضع هناك عنه على سطح الأرض، ففي الأعلى تنعدم الجاذبية والهواء الضروري للتنفس والضغط والكثير من مقومات الحياة الموجودة لدينا على &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/life-in-space"&gt;الحياة في الفضاء&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="aligncenter size-full wp-image-1342" alt="" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/02/episode12.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;&#160;من منا لم يحلم يوماً بالتحليق في الفضاء بحرية والتحرر من قيود الجاذبية الأرضية؟ إن حلم الحياة في الفضاء يعتبر من أكثر الأحلام المستحيلة&#160;التي راودت البشرية منذ عصور. يختلف الوضع هناك عنه على سطح الأرض، ففي الأعلى تنعدم الجاذبية والهواء الضروري للتنفس والضغط والكثير من مقومات الحياة الموجودة لدينا على الأرض.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;في هذه الحلقة من بودكاست أصفار سنتحدث عن حياة البشر في الفضاء، وعن كيفية تأقلم رواد الفضاء مع هذا العالم الجديد الغريب. سنتطرق إلى أربعة محاور رئيسية تتعلق بقوانين الفيزياء والحركة والإختلافات التي يضطر الرواد إلى التأقلم معها على متن المركبات والمحطات الفضائية. ثم سنذكر بعض المخاطر التي تترتب عليها الحياة هنالك، وجوانب أخرى تتعلق بالحياة العامة كالأكل والشرب وإخراج الفضلات، والصحة الجسدية والنفسية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هذا فيديو لرائد الفضاء الكندي&#160;&lt;a title="Chris Hadfield" href="https://ar.wikipedia.org/wiki/%D9%83%D8%B1%D9%8A%D8%B3_%D9%87%D8%A7%D8%AF%D9%81%D9%8A%D9%84%D8%AF" target="_blank"&gt;كريس هادفيلد&lt;/a&gt;&#160;حيث يقوم بتجربة&#160;&lt;a href="http://youtu.be/P36xhtpw0Lg"&gt;البكاء على متن المحطة الدولية&lt;/a&gt;&#160;بالإضافة إلى المزيد من التجارب المثيرة للإهتمام والتي&#160;يمكنكم رؤيتها على قناة &lt;a href="https://www.youtube.com/user/canadianspaceagency/videos"&gt;الوكالة الكندية&lt;/a&gt; على اليوتوب.&lt;/p&gt;
+&lt;p&gt;&lt;span class='embed-youtube' style='text-align:center; display: block;'&gt;&lt;iframe class='youtube-player' type='text/html' width='660' height='402' src='http://www.youtube.com/embed/P36xhtpw0Lg?version=3&amp;#038;rel=1&amp;#038;fs=1&amp;#038;showsearch=0&amp;#038;showinfo=1&amp;#038;iv_load_policy=1&amp;#038;wmode=transparent' frameborder='0'&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/life-in-space"&gt;الحياة في الفضاء&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/life-in-space/feed/</wfw:commentRss>
+                    <slash:comments>11</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode12.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+&#160;من منا لم يحلم يوماً بالتحليق في الفضاء بحرية والتحرر من قيود الجاذبية الأرضية؟ إن حلم الحياة في الفضاء يعتبر من أكثر الأحلام المستحيلة&#160;التي راودت البشرية منذ عصور. يختلف الوضع هناك عنه على سطح الأرض، ففي الأعلى تنعدم الجاذبية والهواء الضروري للتن[...]</itunes:subtitle>
+                    <itunes:summary>
+&#160;من منا لم يحلم يوماً بالتحليق في الفضاء بحرية والتحرر من قيود الجاذبية الأرضية؟ إن حلم الحياة في الفضاء يعتبر من أكثر الأحلام المستحيلة&#160;التي راودت البشرية منذ عصور. يختلف الوضع هناك عنه على سطح الأرض، ففي الأعلى تنعدم الجاذبية والهواء الضروري للتنفس والضغط والكثير من مقومات الحياة الموجودة لدينا على الأرض.
+في هذه الحلقة من بودكاست أصفار سنتحدث عن حياة البشر في الفضاء، وعن كيفية تأقلم رواد الفضاء مع هذا العالم الجديد الغريب. سنتطرق إلى أربعة محاور رئيسية تتعلق بقوانين الفيزياء والحركة والإختلافات التي يضطر الرواد إلى التأقلم معها على متن المركبات والمحطات الفضائية. ثم سنذكر بعض المخاطر التي تترتب عليها الحياة هنالك، وجوانب أخرى تتعلق بالحياة العامة كالأكل والشرب وإخراج الفضلات، والصحة الجسدية والنفسية.
+هذا فيديو لرائد الفضاء الكندي&#160;كريس هادفيلد&#160;حيث يقوم بتجربة&#160;البكاء على متن المحطة الدولية&#160;بالإضافة إلى المزيد من التجارب المثيرة للإهتمام والتي&#160;يمكنكم رؤيتها على قناة الوكالة الكندية على اليوتوب.
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post الحياة في الفضاء appeared first on أصفار.The post الحياة في الفضاء appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>سيرة الحب: الإعجاب وعلم النفس</title>
+                    <link>http://a9far.net/podcast/love-attraction-and-human-psychology</link>
+                    <comments>http://a9far.net/podcast/love-attraction-and-human-psychology#comments</comments>
+                    <pubDate>Wed, 05 Feb 2014 21:10:27 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم نفس</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1302</guid>
+                    <description>&lt;p&gt;&amp;#8221; الحب أعمى&amp;#8221; مقولة&#160;أصبحت مثلاً يردده الملايين عبر العالم منذ أن&#160;قالها أحد أبطال مسرحية تاجر البندقية (لويليام&#160;شكسبير)&#160;قبل قرون، وإلى اليوم. هل الحب كذلك فعلاً؟ في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;النظريات النفسية المهيمنة على علم النفس في تفسير الحب والإعجاب. في بداية الحلقة سنتحدث عن نظرية عالم النفس الأمريكي&#160;روبرت &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/love-attraction-and-human-psychology"&gt;سيرة الحب: الإعجاب وعلم النفس&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="size-full wp-image-1304 aligncenter" alt="سيرة الحب الإعجاب وعلم النفس" src="http://i0.wp.com/a9far.net/wp-content/uploads/2014/02/episode11.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;&amp;#8221; الحب أعمى&amp;#8221; مقولة&#160;أصبحت مثلاً يردده الملايين عبر العالم منذ أن&#160;قالها أحد أبطال مسرحية تاجر البندقية (لويليام&#160;شكسبير)&#160;قبل قرون، وإلى اليوم. هل الحب كذلك فعلاً؟ في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;النظريات النفسية المهيمنة على علم النفس في تفسير الحب والإعجاب.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;في بداية الحلقة سنتحدث عن نظرية عالم النفس الأمريكي&#160;&lt;a title="Robert Sternberg" href="https://en.wikipedia.org/wiki/Robert_Sternberg" target="_blank"&gt;روبرت ستيرنبرج&lt;/a&gt;&#160;المثلثية في تعريف الحب، والتي تعتمد على تداخل ثلاثة عناصر أساسية هي الحميمية، والشغف، والالتزام، وعلى ما ينتجه هذا التداخل من أنواع حب مختلفة. بعدها سنتطرق إلى الظروف التي يمكن لنا منها التنبؤ بحدوث الإعجاب. كما سنرى كيف يمكن لنا بسهولة أن&#160;نسيء فهم أعراض الإثارة والتهيج ونعزوها للحب والإعجاب.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;ملخص الحلقة:&#160;&lt;a href="http://a9far.net/wp-content/uploads/2014/02/episode11.pdf"&gt;سيرة الحب : الإعجاب وعلم النفس.&#160;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;المادة مأخوذة بشكل أساسي من محاضرة لمادة&#160;ﻣﺪﺧﻞ ﺇﻟﻰ ﻋﻠﻢ ﺍﻟﻨﻔﺲ ﺍﻟﻤﻘﺪمة ﻣﻦ ﺟﺎﻣﻌﺔ ﻳﻴﻞ ﻭالتي يقدمها ﻋﺎﻟﻢ ﺍﻟﻨﻔﺲ ﺍﻹﺟﺘﻤﺎﻋﻲ ﻭﺭﺋﻴﺲ ﺍﻟﺠﺎﻣﻌﺔ &lt;a title="salovey" href="http://www.eiconsortium.org/members/salovey.htm" target="_blank"&gt;ﺑﻴﺘﺮ ﺳﺎﻟﻔﻲ&lt;/a&gt;، ﺃﺣﺪ ﺭﻭﺍﺩ ﻣﺎ ﻳﻌﺮﻑ ﺍﻟﻴﻮﻡ ﺑﻤﺠﺎﻝ ﺍﻟﺬﻛﺎء ﺍﻟﻌﺎﻃﻔﻲ.&#160;بإمكانكم الإطلاع على الحاضرة كاملة على موقع جلمعة ييل&#160;&lt;a title="Lecture 9 - Evolution, Emotion, and Reason: Love (Guest Lecture by Professor Peter Salovey" href="http://oyc.yale.edu/psychology/psyc-110/lecture-9" target="_blank"&gt;للكورسات المفتوحة&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/love-attraction-and-human-psychology"&gt;سيرة الحب: الإعجاب وعلم النفس&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/love-attraction-and-human-psychology/feed/</wfw:commentRss>
+                    <slash:comments>10</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode11.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>1:03:26</itunes:duration>
+                    <itunes:subtitle>
+” الحب أعمى” مقولة&#160;أصبحت مثلاً يردده الملايين عبر العالم منذ أن&#160;قالها أحد أبطال مسرحية تاجر البندقية (لويليام&#160;شكسبير)&#160;قبل قرون، وإلى اليوم. هل الحب كذلك فعلاً؟ في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;النظريات النفسية المهيمنة على علم ا[...]</itunes:subtitle>
+                    <itunes:summary>
+” الحب أعمى” مقولة&#160;أصبحت مثلاً يردده الملايين عبر العالم منذ أن&#160;قالها أحد أبطال مسرحية تاجر البندقية (لويليام&#160;شكسبير)&#160;قبل قرون، وإلى اليوم. هل الحب كذلك فعلاً؟ في هذه الحلقة من بودكاست أصفار سنتحدث عن&#160;النظريات النفسية المهيمنة على علم النفس في تفسير الحب والإعجاب.
+في بداية الحلقة سنتحدث عن نظرية عالم النفس الأمريكي&#160;روبرت ستيرنبرج&#160;المثلثية في تعريف الحب، والتي تعتمد على تداخل ثلاثة عناصر أساسية هي الحميمية، والشغف، والالتزام، وعلى ما ينتجه هذا التداخل من أنواع حب مختلفة. بعدها سنتطرق إلى الظروف التي يمكن لنا منها التنبؤ بحدوث الإعجاب. كما سنرى كيف يمكن لنا بسهولة أن&#160;نسيء فهم أعراض الإثارة والتهيج ونعزوها للحب والإعجاب.
+ملخص الحلقة:&#160;سيرة الحب : الإعجاب وعلم النفس.&#160;
+المادة مأخوذة بشكل أساسي من محاضرة لمادة&#160;ﻣﺪﺧﻞ ﺇﻟﻰ ﻋﻠﻢ ﺍﻟﻨﻔﺲ ﺍﻟﻤﻘﺪمة ﻣﻦ ﺟﺎﻣﻌﺔ ﻳﻴﻞ ﻭالتي يقدمها ﻋﺎﻟﻢ ﺍﻟﻨﻔﺲ ﺍﻹﺟﺘﻤﺎﻋﻲ ﻭﺭﺋﻴﺲ ﺍﻟﺠﺎﻣﻌﺔ ﺑﻴﺘﺮ ﺳﺎﻟﻔﻲ، ﺃﺣﺪ ﺭﻭﺍﺩ ﻣﺎ ﻳﻌﺮﻑ ﺍﻟﻴﻮﻡ ﺑﻤﺠﺎﻝ ﺍﻟﺬﻛﺎء ﺍﻟﻌﺎﻃﻔﻲ.&#160;بإمكانكم الإطلاع على الحاضرة كاملة على موقع جلمعة ييل&#160;للكورسات المفتوحة.
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post سيرة الحب: الإعجاب وعلم النفس appeared first on أصفار.The post سيرة الحب: الإعجاب وعلم النفس appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>النظام الرقمي و نهاية العالم</title>
+                    <link>http://a9far.net/podcast/digital-system-and-the-end-of-the-world</link>
+                    <comments>http://a9far.net/podcast/digital-system-and-the-end-of-the-world#comments</comments>
+                    <pubDate>Fri, 24 Jan 2014 12:13:14 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>تقنية</category>
+                    <category>كمبيوتر</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1178</guid>
+                    <description>&lt;p&gt;حلقة جديدة من بودكاست أصفار نتحدث فيها النظم الرقمية للكمبيوتر، كالنظام الثنائي المعروف والذي سيجرنا إلى نهاية&#160;الوقت.. و نهاية العالم. مواد إضافية: النظام الرقمي الثنائي، وتوقيت يونيكس. كيف تفكر الآلات؟ مقدمة في تقنيات الحوسبة -&#160;د. أشرف فقيه.&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/digital-system-and-the-end-of-the-world"&gt;النظام الرقمي و نهاية العالم&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="size-full wp-image-1179 aligncenter" alt="النظام الرقمي ونهاية العالم" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/01/episode10.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;حلقة جديدة من بودكاست أصفار نتحدث فيها النظم الرقمية للكمبيوتر، كالنظام الثنائي المعروف والذي سيجرنا إلى نهاية&#160;الوقت.. و نهاية العالم.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;مواد إضافية:&lt;br /&gt;
+&lt;a href="http://a9far.net/podcast/digital-system-and-the-end-of-the-world/attachment/%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a-%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d8%a6%d9%8a%d8%8c-%d9%88%d8%aa%d9%88%d9%82%d9%8a%d8%aa-%d9%8a%d9%88%d9%86%d9%8a%d9%83%d8%b3" rel="attachment wp-att-1180"&gt;النظام الرقمي الثنائي، وتوقيت يونيكس.&lt;br /&gt;
+&lt;/a&gt;&lt;a title="كيف تفكر الآلات" href="http://www.rwaq.org/courses/how-machines-think" target="_blank"&gt;كيف تفكر الآلات؟ مقدمة في تقنيات الحوسبة -&#160;د. أشرف فقيه.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/digital-system-and-the-end-of-the-world"&gt;النظام الرقمي و نهاية العالم&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/digital-system-and-the-end-of-the-world/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode10.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:37:57</itunes:duration>
+                    <itunes:subtitle>
+حلقة جديدة من بودكاست أصفار نتحدث فيها النظم الرقمية للكمبيوتر، كالنظام الثنائي المعروف والذي سيجرنا إلى نهاية&#160;الوقت.. و نهاية العالم.
+مواد إضافية:
+النظام الرقمي الثنائي، وتوقيت يونيكس.
+كيف تفكر الآلات؟ مقدمة في تقنيات الحوسبة -&#160;د. أشرف فقيه.
+
+The [...]</itunes:subtitle>
+                    <itunes:summary>
+حلقة جديدة من بودكاست أصفار نتحدث فيها النظم الرقمية للكمبيوتر، كالنظام الثنائي المعروف والذي سيجرنا إلى نهاية&#160;الوقت.. و نهاية العالم.
+مواد إضافية:
+النظام الرقمي الثنائي، وتوقيت يونيكس.
+كيف تفكر الآلات؟ مقدمة في تقنيات الحوسبة -&#160;د. أشرف فقيه.
+
+The post النظام الرقمي و نهاية العالم appeared first on أصفار.The post النظام الرقمي و نهاية العالم appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>كيف نتواصل: اللغة والدماغ</title>
+                    <link>http://a9far.net/podcast/how-do-we-communicate-language-and-the-brain</link>
+                    <comments>http://a9far.net/podcast/how-do-we-communicate-language-and-the-brain#comments</comments>
+                    <pubDate>Wed, 08 Jan 2014 13:59:35 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم نفس</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=1113</guid>
+                    <description>&lt;p&gt;هل يمكن تصور إنسان بلا لغة؟ إن القدرة على خلق واكتساب وفهم اللغة هي واحدة من أكثر القدرات البشرية قيمة، وهي التي تميزه عن غيره من الأجناس والأنواع. في هذه الحلقة من بودكاست أصفار سنتحدث عن اللغة، وعن نشأتها، وعن النظريات التي تفسر ظهورها وتطورها لدى الإنسان. كما سنتعرف سوية &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/how-do-we-communicate-language-and-the-brain"&gt;كيف نتواصل: اللغة والدماغ&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p&gt;&lt;img class="size-full wp-image-1114 aligncenter" alt="كيف نتواصل: اللغة والدماغ" src="http://i1.wp.com/a9far.net/wp-content/uploads/2014/01/episode09.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هل يمكن تصور إنسان بلا لغة؟ إن القدرة على خلق واكتساب وفهم اللغة هي واحدة من أكثر القدرات البشرية قيمة، وهي التي تميزه عن غيره من الأجناس والأنواع. في هذه الحلقة من بودكاست أصفار سنتحدث عن اللغة، وعن نشأتها، وعن النظريات التي تفسر ظهورها وتطورها لدى الإنسان. كما سنتعرف سوية على الموضوعات الرئيسية في دراسة اللغة: كعلم ​​الأصوات، وأشكال الكلمة (الصرف)، وتكوين الجملة (النحو) والاستدعاء ذاتي. ثم سنتطرق بعدها إلى نظم التواصل الأخرى غير البشرية في الحيوانات المختلفة كالنحل والطيور والقردة العليا.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;المادة مأخوذة بشكل أساسي من محاضرة &lt;a title="Paul Bloom" href="https://en.wikipedia.org/wiki/Paul_Bloom_(psychologist)" target="_blank"&gt;لبول&#160;بلوم&lt;/a&gt;، أستاذ&#160;علم النفس والعلوم المعرفية في جامعة ييل. بإمكانكم الإطلاع على المادة كاملة على موقع ييل &lt;a title="Lecture 6 - How Do We Communicate?: Language in the Brain, Mouth and the Hands" href="http://oyc.yale.edu/psychology/psyc-110/lecture-6#ch5" target="_blank"&gt;للكورسات المفتوحة&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;أصدقاؤنا&#160;في &lt;a title="تعرف دي؟" href="http://t3rfde.com/" target="_blank"&gt;تعرف دي&lt;/a&gt;&#160;تحدثوا عن&#160;علاقة &lt;a href="http://t3rfde.com/brain-language" target="_blank"&gt;الدماغ بالإجادة اللغوية&lt;/a&gt;، أنصحكم بمتابعتهم.&lt;br /&gt;
+&lt;a title="Brain and Language | الدماغ واللغة" href="http://t3rfde.com/brain-language" target="_blank"&gt;&lt;img class="alignnone size-full wp-image-1131" alt="t3rfde" src="http://i2.wp.com/a9far.net/wp-content/uploads/2014/01/t3rfde.png?resize=162%2C50" data-recalc-dims="1" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/how-do-we-communicate-language-and-the-brain"&gt;كيف نتواصل: اللغة والدماغ&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/how-do-we-communicate-language-and-the-brain/feed/</wfw:commentRss>
+                    <slash:comments>4</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode09.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>1:07:50</itunes:duration>
+                    <itunes:subtitle>
+هل يمكن تصور إنسان بلا لغة؟ إن القدرة على خلق واكتساب وفهم اللغة هي واحدة من أكثر القدرات البشرية قيمة، وهي التي تميزه عن غيره من الأجناس والأنواع. في هذه الحلقة من بودكاست أصفار سنتحدث عن اللغة، وعن نشأتها، وعن النظريات التي تفسر ظهورها وتطورها لد[...]</itunes:subtitle>
+                    <itunes:summary>
+هل يمكن تصور إنسان بلا لغة؟ إن القدرة على خلق واكتساب وفهم اللغة هي واحدة من أكثر القدرات البشرية قيمة، وهي التي تميزه عن غيره من الأجناس والأنواع. في هذه الحلقة من بودكاست أصفار سنتحدث عن اللغة، وعن نشأتها، وعن النظريات التي تفسر ظهورها وتطورها لدى الإنسان. كما سنتعرف سوية على الموضوعات الرئيسية في دراسة اللغة: كعلم ​​الأصوات، وأشكال الكلمة (الصرف)، وتكوين الجملة (النحو) والاستدعاء ذاتي. ثم سنتطرق بعدها إلى نظم التواصل الأخرى غير البشرية في الحيوانات المختلفة كالنحل والطيور والقردة العليا.
+المادة مأخوذة بشكل أساسي من محاضرة لبول&#160;بلوم، أستاذ&#160;علم النفس والعلوم المعرفية في جامعة ييل. بإمكانكم الإطلاع على المادة كاملة على موقع ييل للكورسات المفتوحة.
+أصدقاؤنا&#160;في تعرف دي&#160;تحدثوا عن&#160;علاقة الدماغ بالإجادة اللغوية، أنصحكم بمتابعتهم.
+
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post كيف نتواصل: اللغة والدماغ appeared first on أصفار.The post كيف نتواصل: اللغة والدماغ appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>نقاش حول الخيال العلمي</title>
+                    <link>http://a9far.net/podcast/discussion-on-science-fiction</link>
+                    <comments>http://a9far.net/podcast/discussion-on-science-fiction#comments</comments>
+                    <pubDate>Tue, 24 Dec 2013 13:00:22 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>خيال علمي</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=920</guid>
+                    <description>&lt;p&gt;لا علم بلا خيال. حلقة نقاش جديدة من بودكاست أصفار فيها نتحدث عن أدب الخيال العلمي ، وعن أبرز الأعمال التي أثرت في فريق العمل. أعمال روائية: -&amp;#8220;آلة الزمن&amp;#8221; لهربرت جورج ويلز. -&amp;#8220;حوريات تايتان&amp;#8221; لكورت فونجيت. -&amp;#8220;نيف وعشرون حياة&amp;#8221; لأشرف إحسان فقيه. -سلسلة &amp;#8220;الأساس&amp;#8243; لإسحاق أسيموف. -&amp;#8220;أنا، روبوت&amp;#8221; لإسحاق أسيموف. &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/discussion-on-science-fiction"&gt;نقاش حول الخيال العلمي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl; text-align: center;"&gt;&lt;img class="size-full wp-image-936 aligncenter" alt="الخيال العلمي" src="http://i1.wp.com/a9far.net/wp-content/uploads/2013/12/episode081.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;لا علم بلا خيال. حلقة نقاش جديدة من بودكاست أصفار فيها نتحدث عن أدب الخيال العلمي ، وعن أبرز الأعمال التي أثرت في فريق العمل.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;أعمال روائية:&lt;br /&gt;
+-&lt;a title="آلة الزمن" href="https://ar.wikipedia.org/wiki/%D8%A2%D9%84%D8%A9_%D8%A7%D9%84%D8%B2%D9%85%D9%86_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)" target="_blank"&gt;&amp;#8220;آلة الزمن&amp;#8221; لهربرت جورج ويلز.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="حوريات تيتان" href="https://en.wikipedia.org/wiki/The_Sirens_of_Titan" target="_blank"&gt;&amp;#8220;حوريات تايتان&amp;#8221; لكورت فونجيت.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="نيف وعشرون حياة" href="https://www.goodreads.com/book/show/3111707" target="_blank"&gt;&amp;#8220;نيف وعشرون حياة&amp;#8221; لأشرف إحسان فقيه.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="سلسلة الأساس" href="https://en.wikipedia.org/wiki/Foundation_series" target="_blank"&gt;سلسلة &amp;#8220;الأساس&amp;#8243; لإسحاق أسيموف.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="أنا، روبوت" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%A7%D8%8C_%D8%B1%D9%88%D8%A8%D9%88%D8%AA" target="_blank"&gt;&amp;#8220;أنا، روبوت&amp;#8221; لإسحاق أسيموف.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;مسلسلات وأفلام:&lt;br /&gt;
+-&lt;a title="ستار تريك" href="https://ar.wikipedia.org/wiki/%D8%B3%D8%AA%D8%A7%D8%B1_%D8%AA%D8%B1%D9%8A%D9%83" target="_blank"&gt;ستار تريك&lt;/a&gt;.&lt;br /&gt;
+-&lt;a title="أنا ، روبوت" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%A7_%D8%8C_%D8%B1%D9%88%D8%A8%D9%88%D8%AA_(%D9%81%D9%8A%D9%84%D9%85)" target="_blank"&gt;أنا ، روبوت.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="الحديقة الجوارسية" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9_(%D9%81%D9%8A%D9%84%D9%85)" target="_blank"&gt;الحديقة الجوارسية.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="اتصال (كونتاكت)" href="https://en.wikipedia.org/wiki/Contact_(1997_film)" target="_blank"&gt;اتصال.&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;ألعاب:&lt;br /&gt;
+-&lt;a title="ماس إفكت" href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D8%B3_%D8%A5%D9%81%D9%83%D8%AA" target="_blank"&gt;ماس إفكت.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="إيف أونلاين" href="https://en.wikipedia.org/wiki/Eve_Online" target="_blank"&gt;إيف أونلاين.&lt;/a&gt;&lt;br /&gt;
+-&lt;a title="أساسنز كريد" href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%A7%D8%B3%D9%86%D8%B2_%D9%83%D8%B1%D9%8A%D8%AF_(%D8%B3%D9%84%D8%B3%D9%84%D8%A9)" target="_blank"&gt;أساسنز كريد.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/discussion-on-science-fiction"&gt;نقاش حول الخيال العلمي&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/discussion-on-science-fiction/feed/</wfw:commentRss>
+                    <slash:comments>9</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode08.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:54:07</itunes:duration>
+                    <itunes:subtitle>
+لا علم بلا خيال. حلقة نقاش جديدة من بودكاست أصفار فيها نتحدث عن أدب الخيال العلمي ، وعن أبرز الأعمال التي أثرت في فريق العمل.
+أعمال روائية:
+-“آلة الزمن” لهربرت جورج ويلز.
+-“حوريات تايتان” لكورت فونجيت.
+-“نيف وعشرون حيا[...]</itunes:subtitle>
+                    <itunes:summary>
+لا علم بلا خيال. حلقة نقاش جديدة من بودكاست أصفار فيها نتحدث عن أدب الخيال العلمي ، وعن أبرز الأعمال التي أثرت في فريق العمل.
+أعمال روائية:
+-“آلة الزمن” لهربرت جورج ويلز.
+-“حوريات تايتان” لكورت فونجيت.
+-“نيف وعشرون حياة” لأشرف إحسان فقيه.
+-سلسلة “الأساس″ لإسحاق أسيموف.
+-“أنا، روبوت” لإسحاق أسيموف.
+مسلسلات وأفلام:
+-ستار تريك.
+-أنا ، روبوت.
+-الحديقة الجوارسية.
+-اتصال.
+ألعاب:
+-ماس إفكت.
+-إيف أونلاين.
+-أساسنز كريد.
+The post نقاش حول الخيال العلمي appeared first on أصفار.The post نقاش حول الخيال العلمي appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>التطور (الجزء الثالث): أشباه البشر</title>
+                    <link>http://a9far.net/podcast/evolution-part-iii-hominini</link>
+                    <comments>http://a9far.net/podcast/evolution-part-iii-hominini#comments</comments>
+                    <pubDate>Tue, 10 Dec 2013 08:28:42 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <category>نظرية التطور</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=871</guid>
+                    <description>&lt;p&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية. هذه الحلقة الثالثة من سلسلة تتحدث &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-iii-hominini"&gt;التطور (الجزء الثالث): أشباه البشر&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl; text-align: center;"&gt;&lt;img class="size-full wp-image-941 aligncenter" alt="التطور أشباه البشر" src="http://i0.wp.com/a9far.net/wp-content/uploads/2013/12/episode071.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هذه الحلقة الثالثة من &lt;a title="سلسلة نظرية التطور" href="http://a9far.net/tag/evolution/" target="_blank"&gt;سلسلة &lt;/a&gt;تتحدث عن نظرية التطور. في &lt;a title="التطور (الجزء الأول)، مفاهيم أساسية" href="http://a9far.net/evolution-part-i-basic-concepts" target="_blank"&gt;الحلقة الأولى&lt;/a&gt; من هذه السلسلة&#160;تحدثنا عن مفهوم التطور البيولوجي، وعن القوى الأساسية التي تدفع الكائن الحي إلى التطور، والمتمثلة في عملية الطفرات والانتقاء الطبيعي.&#160;أما في &lt;a title="التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور" href="http://a9far.net/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution" target="_blank"&gt;الحلقة الثانية&lt;/a&gt; فتحدثنا عن محرك أساسي آخر، يلعب دوراً مهما في عملية التطور وهو الانتخاب الجنسي. كما تطرقنا إلى أدلة التطور والمشاكل التي اعتلتها وآخر الأبحاث في هذا المجال. ذكرنا أيضاً بشكل موجز شجرة الحياة الجينية والأحفورية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هذه الحلقة هي الحلقة الثالثة والأخيرة من هذه السلسلة. فيها سنتحدث بداية عن التصنيف الحيوي للكائنات الحية،&#160;وعن&#160;التسمية الثنائية للحيوانات والتي وضعها كارلوس لينيوس. بعدها سنتطرق إلى&#160;أشباه البشر المنقرضين، وعن أكثر الأنواع البشرية شهرة ووفرة في الأحافير، وأبرز الفرضيات في تفسير تطورهم.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;نفضل استخدام &lt;a title="أصفار - التطور: أشباه البشر" href="http://a9far.net/wp-content/uploads/2013/12/Episode07.pdf" target="_blank"&gt;هذا الملف&lt;/a&gt; وقت سماع الحلقة للتسهيل.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-iii-hominini"&gt;التطور (الجزء الثالث): أشباه البشر&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/evolution-part-iii-hominini/feed/</wfw:commentRss>
+                    <slash:comments>4</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode07.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:53:42</itunes:duration>
+                    <itunes:subtitle>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات[...]</itunes:subtitle>
+                    <itunes:summary>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية.
+هذه الحلقة الثالثة من سلسلة تتحدث عن نظرية التطور. في الحلقة الأولى من هذه السلسلة&#160;تحدثنا عن مفهوم التطور البيولوجي، وعن القوى الأساسية التي تدفع الكائن الحي إلى التطور، والمتمثلة في عملية الطفرات والانتقاء الطبيعي.&#160;أما في الحلقة الثانية فتحدثنا عن محرك أساسي آخر، يلعب دوراً مهما في عملية التطور وهو الانتخاب الجنسي. كما تطرقنا إلى أدلة التطور والمشاكل التي اعتلتها وآخر الأبحاث في هذا المجال. ذكرنا أيضاً بشكل موجز شجرة الحياة الجينية والأحفورية.
+هذه الحلقة هي الحلقة الثالثة والأخيرة من هذه السلسلة. فيها سنتحدث بداية عن التصنيف الحيوي للكائنات الحية،&#160;وعن&#160;التسمية الثنائية للحيوانات والتي وضعها كارلوس لينيوس. بعدها سنتطرق إلى&#160;أشباه البشر المنقرضين، وعن أكثر الأنواع البشرية شهرة ووفرة في الأحافير، وأبرز الفرضيات في تفسير تطورهم.
+نفضل استخدام هذا الملف وقت سماع الحلقة للتسهيل.
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز.
+The post التطور (الجزء الثالث): أشباه البشر appeared first on أصفار.The post التطور (الجزء الثالث): أشباه البشر appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور</title>
+                    <link>http://a9far.net/podcast/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution</link>
+                    <comments>http://a9far.net/podcast/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution#comments</comments>
+                    <pubDate>Tue, 26 Nov 2013 14:38:45 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <category>نظرية التطور</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=821</guid>
+                    <description>&lt;p&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية. هذه الحلقة الثانية من سلسلة تتحدث &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution"&gt;التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-945 aligncenter" alt="الانتخاب الجنسي وأدلة التطور" src="http://i1.wp.com/a9far.net/wp-content/uploads/2013/11/episode061.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هذه الحلقة الثانية من &lt;a title="سلسلة نظرية التطور" href="http://a9far.net/tag/evolution/" target="_blank"&gt;سلسلة&lt;/a&gt; تتحدث عن نظرية التطور. في &lt;a title="التطور (الجزء الأول)، مفاهيم أساسية" href="http://a9far.net/evolution-part-i-basic-concepts" target="_blank"&gt;الحلقة الماضية&lt;/a&gt;&#160;تحدثنا عن مفهوم التطور البيولوجي، وعن القوى الأساسية التي تدفع الكائن الحي إلى التطور، والمتمثلة في عملية الطفرات والانتقاء الطبيعي.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;في هذه الحلقة سنتحدث عن محرك أساسي آخر، يلعب دوراً مهما في عملية التطور وهو الانتخاب الجنسي. كما سنتطرق إلى أدلة التطور والمشاكل التي اعتلتها وآخر الأبحاث في هذا المجال. وفي النهاية سنتعرف على &lt;a href="http://206.130.100.179/images/Evo_large.gif" target="_blank"&gt;شجرة الحياة&lt;/a&gt; الجينية والأحفورية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;يمكنك الاستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution"&gt;التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/evolution-part-ii-sexual-selection-and-the-evidence-of-evolution/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode06.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:49:49</itunes:duration>
+                    <itunes:subtitle>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات[...]</itunes:subtitle>
+                    <itunes:summary>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية.
+هذه الحلقة الثانية من سلسلة تتحدث عن نظرية التطور. في الحلقة الماضية&#160;تحدثنا عن مفهوم التطور البيولوجي، وعن القوى الأساسية التي تدفع الكائن الحي إلى التطور، والمتمثلة في عملية الطفرات والانتقاء الطبيعي.
+في هذه الحلقة سنتحدث عن محرك أساسي آخر، يلعب دوراً مهما في عملية التطور وهو الانتخاب الجنسي. كما سنتطرق إلى أدلة التطور والمشاكل التي اعتلتها وآخر الأبحاث في هذا المجال. وفي النهاية سنتعرف على شجرة الحياة الجينية والأحفورية.
+يمكنك الاستماع إلى الحلقة على&#160;الآيتونز
+&#160;
+The post التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور appeared first on أصفار.The post التطور (الجزء الثاني): الانتخاب الجنسي وأدلة التطور appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>التطور (الجزء الأول): مفاهيم أساسية</title>
+                    <link>http://a9far.net/podcast/evolution-part-i-basic-concepts</link>
+                    <comments>http://a9far.net/podcast/evolution-part-i-basic-concepts#comments</comments>
+                    <pubDate>Wed, 13 Nov 2013 14:00:31 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <category>نظرية التطور</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=691</guid>
+                    <description>&lt;p&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية. ويعتبر التطور موضوعاً شائكاً جداً ومثيراً &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-i-basic-concepts"&gt;التطور (الجزء الأول): مفاهيم أساسية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-949 aligncenter" alt="التطور مفاهيم أساسية" src="http://i2.wp.com/a9far.net/wp-content/uploads/2013/11/episode051.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية. ويعتبر التطور موضوعاً شائكاً جداً ومثيراً للجدل رغم بساطته في الواقع، لذلك سنقوم بتخصيص &lt;a title="سلسلة نظرية التطور" href="http://a9far.net/tag/evolution/" target="_blank"&gt;سلسلة&lt;/a&gt; من 3 حلقات نتطرق فيها لهذا المفهوم وللقوى والمحركات التي تدفع الكائن الحي إلى التطور، كما سنتطرق إلى أصل الإنسان وشجرة تطوره، ثم إلى الأدلة الداعمة للنظرية.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;في هذه الحلقة من بودكاست أصفار سنقوم بعرض المفاهيم الأساسية للتطور. (الانتخاب الطبيعي والطفارات)&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;&lt;span style="color: #800000;"&gt;&lt;strong&gt;ملاحظة: جودة الصوت&#160;متدنية بعض الشيء في أول خمس دقائق من الحلقة، نأسف لذلك.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;يمكنك الإستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/evolution-part-i-basic-concepts"&gt;التطور (الجزء الأول): مفاهيم أساسية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/evolution-part-i-basic-concepts/feed/</wfw:commentRss>
+                    <slash:comments>7</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode_05.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:47:24</itunes:duration>
+                    <itunes:subtitle>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات[...]</itunes:subtitle>
+                    <itunes:summary>
+التنوع الهائل الذي نراه اليوم في الكائنات الحية هو نتاج تغيرات بسيطة متراكمة على مدى ملايين السنين. هذه العملية تسمى التطور، وتقول بأن الحياة على هذا الكوكب تطورت تدريجياً بدءا من فصيلة واحدة أولية تفرعت مع الوقت لتنتج أصناف أخرى متنوعة من الكائنات الحية. ويعتبر التطور موضوعاً شائكاً جداً ومثيراً للجدل رغم بساطته في الواقع، لذلك سنقوم بتخصيص سلسلة من 3 حلقات نتطرق فيها لهذا المفهوم وللقوى والمحركات التي تدفع الكائن الحي إلى التطور، كما سنتطرق إلى أصل الإنسان وشجرة تطوره، ثم إلى الأدلة الداعمة للنظرية.
+في هذه الحلقة من بودكاست أصفار سنقوم بعرض المفاهيم الأساسية للتطور. (الانتخاب الطبيعي والطفارات)
+ملاحظة: جودة الصوت&#160;متدنية بعض الشيء في أول خمس دقائق من الحلقة، نأسف لذلك.
+يمكنك الإستماع إلى الحلقة على&#160;الآيتونز
+The post التطور (الجزء الأول): مفاهيم أساسية appeared first on أصفار.The post التطور (الجزء الأول): مفاهيم أساسية appeared first on أصفار.</itunes:summary>
+                    <itunes:keywords>science, podcast, Saudi, بودكاست, علم, علوم, سعودي, تقنية, فلسفة, طب, أحياء, رياضيات</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>نقاش عن الإيثار</title>
+                    <link>http://a9far.net/podcast/pod4-altruism</link>
+                    <comments>http://a9far.net/podcast/pod4-altruism#comments</comments>
+                    <pubDate>Wed, 30 Oct 2013 17:21:39 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=637</guid>
+                    <description>&lt;p&gt;الإيثار ليس حكراً على بني البشر، الحيوانات أيضاً تؤثر على نفسها!&#160;هذه حلقة إرتجالية نتناول فيها السلوك الإيثاري لدى البشر والحيوانات. يمكنك الإستماع إلى الحلقة على&#160;الآيتونز&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod4-altruism"&gt;نقاش عن الإيثار&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-955 aligncenter" alt="اللإيثار" src="http://i2.wp.com/a9far.net/wp-content/uploads/2013/10/episode041.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;الإيثار ليس حكراً على بني البشر، الحيوانات أيضاً تؤثر على نفسها!&#160;هذه حلقة إرتجالية نتناول فيها السلوك الإيثاري لدى البشر والحيوانات.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الإستماع إلى الحلقة على&#160;&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod4-altruism"&gt;نقاش عن الإيثار&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/pod4-altruism/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode04.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:34:18</itunes:duration>
+                    <itunes:subtitle>
+الإيثار ليس حكراً على بني البشر، الحيوانات أيضاً تؤثر على نفسها!&#160;هذه حلقة إرتجالية نتناول فيها السلوك الإيثاري لدى البشر والحيوانات.
+يمكنك الإستماع إلى الحلقة على&#160;الآيتونز
+The post نقاش عن الإيثار appeared first on أصفار.The post نقاش عن الإيثار ap[...]</itunes:subtitle>
+                    <itunes:summary>الإيثار ليس حكراً على بني البشر، الحيوانات أيضاً تؤثر على نفسها! هذه حلقة إرتجالية نتناول فيها السلوك الإيثاري لدى البشر والحيوانات.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>أدوية بدون وصفة</title>
+                    <link>http://a9far.net/podcast/over-the-counter-drugs</link>
+                    <comments>http://a9far.net/podcast/over-the-counter-drugs#comments</comments>
+                    <pubDate>Tue, 15 Oct 2013 03:00:44 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>طب</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=575</guid>
+                    <description>&lt;p&gt;المضادات الحيوية، مسكنات الصداع والآلام، ومضادات الإلتهابات والحكة تشترك في كونها أدوية يمكن صرفها بدون وصفة من قبل الطبيب.&#160;هناك الكثير من الأدوية التي تُباع من غير وصفة طبية، لكن الاستعمال الجائر والجاهل لهذه الأدوية قد يسبب الكثير من المشاكل الصحية. في هذه الحلقة سنقوم بالتعرف على أهم هذه الأدوية وعن &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/over-the-counter-drugs"&gt;أدوية بدون وصفة&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl; text-align: right;"&gt;&lt;img class="size-full wp-image-951 aligncenter" alt="أدوية دون وصفة" src="http://i1.wp.com/a9far.net/wp-content/uploads/2013/10/episode031.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;المضادات الحيوية، مسكنات الصداع والآلام، ومضادات الإلتهابات والحكة تشترك في كونها أدوية يمكن صرفها بدون وصفة من قبل الطبيب.&#160;هناك الكثير من الأدوية التي تُباع من غير وصفة طبية، لكن الاستعمال الجائر والجاهل لهذه الأدوية قد يسبب الكثير من المشاكل الصحية. في هذه الحلقة سنقوم بالتعرف على أهم هذه الأدوية وعن الفروق بينها.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href="http://a9far.net/wp-content/uploads/2013/10/Episode03.pdf" target="_blank"&gt;ملخص الحلقة&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;يمكنك الإستماع إلى الحلقة على&#160;&lt;del&gt;ساوند كلاود&lt;/del&gt;&#160;و&lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/over-the-counter-drugs"&gt;أدوية بدون وصفة&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/over-the-counter-drugs/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode03.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:29:36</itunes:duration>
+                    <itunes:subtitle>
+المضادات الحيوية، مسكنات الصداع والآلام، ومضادات الإلتهابات والحكة تشترك في كونها أدوية يمكن صرفها بدون وصفة من قبل الطبيب.&#160;هناك الكثير من الأدوية التي تُباع من غير وصفة طبية، لكن الاستعمال الجائر والجاهل لهذه الأدوية قد يسبب الكثير من المشاكل الصح[...]</itunes:subtitle>
+                    <itunes:summary>هناك الكثير من الأدوية التي تُباع بدون وصفة طبية، لكن الاستعمال الجائر والجاهل لهذه الأدوية قد يسبب الكثير من المشاكل الصحية. أدوية بلا وصفة</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>الوراثة ومفهوم الجين</title>
+                    <link>http://a9far.net/podcast/pod02-heredity-and-the-concept-of-genes</link>
+                    <comments>http://a9far.net/podcast/pod02-heredity-and-the-concept-of-genes#comments</comments>
+                    <pubDate>Tue, 01 Oct 2013 12:51:49 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم أحياء</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=439</guid>
+                    <description>&lt;p&gt;هل الجين المتحكم باللعاب لدى الإنسان هو ذاته الموجود لدى حيوانات أخرى كالكلاب؟ وهل من الممكن أن تتشابه الجينات المسؤولة عن صفات متشابهة في أكثر من كائن؟ في هذه الحلقة سنستعرض&#160;مصطلح الجين والتغييرات التي حدثت عليه على مر التاريخ، وسنتعرف كذلك على المفهوم الحديث للجين. وفي النهاية سنناقش سلوك الكائن &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod02-heredity-and-the-concept-of-genes"&gt;الوراثة ومفهوم الجين&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-965 aligncenter" alt="الوراثة ومفهوم الجين" src="http://i2.wp.com/a9far.net/wp-content/uploads/2013/10/episode02.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;هل الجين المتحكم باللعاب لدى الإنسان هو ذاته الموجود لدى حيوانات أخرى كالكلاب؟ وهل من الممكن أن تتشابه الجينات المسؤولة عن صفات متشابهة في أكثر من كائن؟ في هذه الحلقة سنستعرض&#160;مصطلح الجين والتغييرات التي حدثت عليه على مر التاريخ، وسنتعرف كذلك على المفهوم الحديث للجين. وفي النهاية سنناقش سلوك الكائن الحي وعلاقته بالجينات أو ما يعرف بثنائية الطبيعة والتطبع.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;&lt;a href="http://a9far.net/wp-content/uploads/2013/09/Episode02.pdf"&gt;ملخص الحلقة&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;يمكنك الإستماع إلى الحلقة على &lt;a href="https://soundcloud.com/a9far"&gt;ساوند كلاود&lt;/a&gt; و &lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod02-heredity-and-the-concept-of-genes"&gt;الوراثة ومفهوم الجين&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/pod02-heredity-and-the-concept-of-genes/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode02.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+هل الجين المتحكم باللعاب لدى الإنسان هو ذاته الموجود لدى حيوانات أخرى كالكلاب؟ وهل من الممكن أن تتشابه الجينات المسؤولة عن صفات متشابهة في أكثر من كائن؟ في هذه الحلقة سنستعرض&#160;مصطلح الجين والتغييرات التي حدثت عليه على مر التاريخ، وسنتعرف كذلك على ال[...]</itunes:subtitle>
+                    <itunes:summary>هل الجين المتحكم باللعاب لدى الإنسان هو ذاته الموجود لدى حيوانات أخرى كالكلاب؟ وهل من الممكن أن تتشابه الجينات المسؤولة عن صفات متشابهة في أكثر من كائن؟ في هذه الحلقة سنستعرض مصطلح الجين والتغييرات التي حدثت عليه على مر التاريخ، وسنتعرف كذلك على المفهوم الحديث للجين. وفي النهاية سنناقش سلوك الكائن الحي وعلاقته بالجينات أو ما يعرف بثنائية الطبيعة والتطبع.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>ما هو العلم ؟</title>
+                    <link>http://a9far.net/podcast/pod01-what-is-science</link>
+                    <comments>http://a9far.net/podcast/pod01-what-is-science#comments</comments>
+                    <pubDate>Tue, 17 Sep 2013 04:23:15 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=318</guid>
+                    <description>&lt;p&gt;كتاب ضخم، حصة مملة، معطف مختبرات، مواد كيميائية، أجهزة حواسيب والكثير من المعادلات غير المفهومة. هذا ما يتبادر إلى أذهاننا عندما يُذكر العلم. كل تلك الصور تعكس جوانب من العلم، لكنها لا تقدم تصوراً كاملاً عنه. في هذه الحلقة ستتعرف على مفهوم العلم وكيفية عمله. ملخص الحلقة مواد إضافية: النظرة &amp;#8230;&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod01-what-is-science"&gt;ما هو العلم ؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="direction: rtl;"&gt;&lt;img class="size-full wp-image-966 aligncenter" alt="ما هو العلم ؟" src="http://i0.wp.com/a9far.net/wp-content/uploads/2013/09/episode01.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;كتاب ضخم، حصة مملة، معطف مختبرات، مواد كيميائية، أجهزة حواسيب والكثير من المعادلات غير المفهومة. هذا ما يتبادر إلى أذهاننا عندما يُذكر العلم. كل تلك الصور تعكس جوانب من العلم، لكنها لا تقدم تصوراً كاملاً عنه. في هذه الحلقة ستتعرف على مفهوم العلم وكيفية عمله.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href="http://a9far.net/wp-content/uploads/2013/07/Episode01.pdf"&gt;ملخص الحلقة&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;مواد إضافية: &lt;a href="http://a9far.net/wp-content/uploads/2013/07/النظرة-العلمية-برتراند-راسل.pdf"&gt;النظرة العلمية &amp;#8211; برتراند راسل&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;يمكنك الإستماع إلى الحلقة على ساوند كلاود و الآيتونز&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/pod01-what-is-science"&gt;ما هو العلم ؟&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/pod01-what-is-science/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/episode01.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:00:01</itunes:duration>
+                    <itunes:subtitle>
+كتاب ضخم، حصة مملة، معطف مختبرات، مواد كيميائية، أجهزة حواسيب والكثير من المعادلات غير المفهومة. هذا ما يتبادر إلى أذهاننا عندما يُذكر العلم. كل تلك الصور تعكس جوانب من العلم، لكنها لا تقدم تصوراً كاملاً عنه. في هذه الحلقة ستتعرف على مفهوم العلم وك[...]</itunes:subtitle>
+                    <itunes:summary>كتاب ضخم، حصة مملة، معطف مختبرات، مواد كيميائية، أجهزة حواسيب والكثير من المعادلات غير المفهومة. هذا ما يتبادر إلى أذهاننا عندما يُذكر العلم. كل تلك الصور تعكس جوانب من العلم، لكنها لا تقدم تصوراً كاملاً عنه. في هذه الحلقة ستتعرف على مفهوم العلم وكيفية عمله.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>بودكاست أصفار: حلقة تعريفية</title>
+                    <link>http://a9far.net/podcast/podcast00</link>
+                    <comments>http://a9far.net/podcast/podcast00#comments</comments>
+                    <pubDate>Tue, 23 Jul 2013 11:00:26 +0000</pubDate>
+                    <dc:creator>أصفار</dc:creator>
+                    <category>بودكاست</category>
+                    <category>علم</category>
+                    <guid isPermaLink="false">http://a9far.net/?p=189</guid>
+                    <description>&lt;p&gt;مرحباً بكم في أول حلقة من حلقات بودكاست أصفار، بودكاست مهتم بالعلوم وبنشر ثقافة التفكير العلمي. يمكنكم التعرف أكثر على مشروع أصفار عن طريق زيارة هذه الصفحة. يمكنك الإستماع إلى الحلقة على ساوند كلاود و الآيتونز&lt;/p&gt;&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/podcast00"&gt;بودكاست أصفار: حلقة تعريفية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</description>
+                    <content:encoded>&lt;p style="text-align: center;"&gt;&lt;img class="size-full wp-image-271  aligncenter" title="أصفار" alt="ما هو مشروع أصفار؟" src="http://i1.wp.com/a9far.net/wp-content/uploads/2013/07/podcastzeros.jpg?resize=616%2C270" data-recalc-dims="1" /&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;مرحباً بكم في أول حلقة من حلقات بودكاست أصفار، بودكاست مهتم بالعلوم وبنشر ثقافة التفكير العلمي. يمكنكم التعرف أكثر على مشروع أصفار عن طريق زيارة &lt;a href="http://a9far.net/?page_id=9"&gt;هذه الصفحة&lt;/a&gt;.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;يمكنك الإستماع إلى الحلقة على &lt;a href="https://soundcloud.com/a9far" target="_blank"&gt;ساوند كلاود&lt;/a&gt; و &lt;a href="https://itunes.apple.com/us/podcast/bwdkast-asfar/id677802182?mt=2" target="_blank"&gt;الآيتونز&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: justify;"&gt;
+&lt;p&gt;The post &lt;a rel="nofollow" href="http://a9far.net/podcast/podcast00"&gt;بودكاست أصفار: حلقة تعريفية&lt;/a&gt; appeared first on &lt;a rel="nofollow" href="http://a9far.net"&gt;أصفار&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://a9far.net/podcast/podcast00/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://traffic.libsyn.com/a9far/a9farepisodezeros.mp3" length="1" type="audio/mpeg"/>
+                    <itunes:duration>0:21:43</itunes:duration>
+                    <itunes:subtitle>
+مرحباً بكم في أول حلقة من حلقات بودكاست أصفار، بودكاست مهتم بالعلوم وبنشر ثقافة التفكير العلمي. يمكنكم التعرف أكثر على مشروع أصفار عن طريق زيارة هذه الصفحة.
+يمكنك الإستماع إلى الحلقة على ساوند كلاود و الآيتونز
+
+The post بودكاست أصفار: حلقة تعريفية [...]</itunes:subtitle>
+                    <itunes:summary>مرحباً بكم في أول حلقة من حلقات بودكاست أصفار، بودكاست مهتم بالعلوم وبنشر ثقافة التفكير العلمي. يمكنكم التعرف أكثر على مشروع أصفار عن طريق زيارة هذه الصفحة.</itunes:summary>
+                    <itunes:keywords>بودكاست</itunes:keywords>
+                    <itunes:author>فريق أصفار</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

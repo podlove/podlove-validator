@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:28:20 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="X-Pingback" value="http://agentesdolivro.com/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;191002118ee479228dba886b7f5e6187&#34;"/>
+        <httpclient:header name="Last-Modified" value="Mon, 18 Aug 2014 06:57:05 GMT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+            <channel>
+                <title>Agentes do L.I.V.R.O.</title>
+                <atom:link href="http://agentesdolivro.com/feed/podcast" rel="self" type="application/rss+xml"/>
+                <link>http://agentesdolivro.com</link>
+                <description>Um bate papo semanal sobre livros e afins</description>
+                <lastBuildDate>Mon, 18 Aug 2014 06:57:05 +0000</lastBuildDate>
+                <language>pt-BR</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.9" mode="advanced" -->
+                <itunes:summary>Um bate-papo descontraído sobre tudo relacionado a livros. Histórias, autores, livros, eventos e o que mais vier em nossa cabeça!</itunes:summary>
+                <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:image href="http://www.agentesdolivro.com/wp-content/uploads/2014/06/AdL.jpg"/>
+                <itunes:owner>
+                    <itunes:name>Melanie Yee &amp; Thiago Alves</itunes:name>
+                    <itunes:email>contato@agentesdolivro.com</itunes:email>
+                </itunes:owner>
+                <managingEditor>contato@agentesdolivro.com (Melanie Yee &amp; Thiago Alves)</managingEditor>
+                <copyright>Copyright © Agentes do L.I.V.R.O. 2014</copyright>
+                <itunes:subtitle>Leitores Inveterados e Viciados por Razões Ocultas</itunes:subtitle>
+                <itunes:keywords>livro, livros, book, books, book, club</itunes:keywords>
+                <image>
+                    <title>Agentes do L.I.V.R.O.</title>
+                    <url>http://www.agentesdolivro.com/wp-content/uploads/2014/06/AdL.jpg</url>
+                    <link>http://agentesdolivro.com</link>
+                </image>
+                <itunes:category text="Arts">
+                    <itunes:category text="Literature"/>
+                </itunes:category>
+                <rawvoice:location>Curitiba, PR, Brasil</rawvoice:location>
+                <rawvoice:frequency>Weekly</rawvoice:frequency>
+                <item>
+                    <title>Episódio 11: Hábitos de Leitura</title>
+                    <link>http://agentesdolivro.com/archives/116</link>
+                    <comments>http://agentesdolivro.com/archives/116#comments</comments>
+                    <pubDate>Mon, 18 Aug 2014 06:57:05 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>tag</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=116</guid>
+                    <description>Neste episódio Melanie e Thiago discutem um pouco sobre seus hábitos de leitura!</description>
+                    <content:encoded>&lt;p&gt;Neste episódio Melanie e Thiago discutem um pouco sobre seus hábitos de leitura!&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-116"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Melanie
+&lt;ul&gt;
+&lt;li&gt;If These Trees Could Talk, Brian W. Smith
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/13163103-if-these-trees-could-talk"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/These-Trees-Could-Talk-English-ebook/dp/B006I10ZYG"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/If-These-Trees-Could-Talk-ebook/dp/B006I10ZYG"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thiago
+&lt;ul&gt;
+&lt;li&gt;Deuses Americanos (American Gods), Neil Gaiman
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.neilgaiman.com/works/Books/American+Gods/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/9464129-american-gods"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/American-Gods-Neil-Gaiman-ebook/dp/B000FC10MU"&gt;Amazon BR (em inglês)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/American-Gods-Authors-Preferred-Paperback/dp/B00BP0NS2G"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariasaraiva.com.br/produto/3435271/deuses-americanos-3-ed-2011/"&gt;Saraiva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;O Quê os Chineses não Comem, Xinran
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/194710.What_the_Chinese_Don_t_Eat"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=2464496"&gt;Livraria Cultura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/What-Chinese-Dont-Eat-Xinran/dp/009950152X/"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Hábitos de Leitura&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tag criada pela &lt;a href="http://www.youtube.com/user/bookowl90/"&gt;bookowl90&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Respondida pela &lt;a href="https://www.youtube.com/channel/UCGSMF2-fCPBl5xjsAS4h1TQ"&gt;Heyheybooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;E vista por nós no site &lt;a href="http://www.borboletasnacarteira.com.br/tutorial/tag-meus-habitos-de-leitura/"&gt;Borboletas na Carteira&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Tag:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Quando você lê? (manhã, tarde, noite, o dia inteiro ou quando tem tempo)&lt;/li&gt;
+&lt;li&gt;Você lê apenas um livro de cada vez?&lt;/li&gt;
+&lt;li&gt;Qual seu lugar favorito para ler?&lt;/li&gt;
+&lt;li&gt;O que você faz primeiro: lê o livro ou assiste ao filme?&lt;/li&gt;
+&lt;li&gt;Qual formato de livro você prefere? (áudio-livro, e-book ou livro físico)&lt;/li&gt;
+&lt;li&gt;Você tem algum hábito exclusivo ao ler?&lt;/li&gt;
+&lt;li&gt;Você julga o livro pela capa dele?&lt;/li&gt;
+&lt;li&gt;As capas de uma série tem que combinar ou não importa?&lt;/li&gt;
+&lt;/ol&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/116/feed</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e11.mp3" length="44847533" type="audio/mpeg"/>
+                    <itunes:keywords>tag</itunes:keywords>
+                    <itunes:subtitle>Neste episódio Melanie e Thiago discutem um pouco sobre seus hábitos de leitura!</itunes:subtitle>
+                    <itunes:summary>Neste episódio Melanie e Thiago discutem um pouco sobre seus hábitos de leitura!</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>46:43</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 10: Unspoken Abandonment</title>
+                    <link>http://agentesdolivro.com/archives/107</link>
+                    <comments>http://agentesdolivro.com/archives/107#comments</comments>
+                    <pubDate>Mon, 11 Aug 2014 08:30:39 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>cross-reading</category>
+                    <category>war</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=107</guid>
+                    <description>"Eu ainda não estou certo do que a vida guarda pra mim, mas desta vez, não importa onde minha próxima jornada me leve, eu vou sempre ter a força e a coragem de nunca mais sentir a dor paralizante do meu próprio abandono silencioso."</description>
+                    <content:encoded>&lt;blockquote&gt;&lt;p&gt;
+  &amp;#8220;Eu ainda não estou certo do que a vida guarda pra mim, mas desta vez, não importa onde minha próxima jornada me leve, eu vou sempre ter a força e a coragem de nunca mais sentir a dor paralizante do meu próprio abandono silencioso.&amp;#8221;&lt;br /&gt;
+  &amp;#8211; Bryan A. Wood
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;span id="more-107"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Leitura de Emails&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=64-iSYVmMVY"&gt;Trailer Maze Runner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.makeawish.org.br"&gt;Make a Wish Brasil&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A Monster Calls, Patrick Ness
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.patrickness.com/books.html"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/8621462-a-monster-calls"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Monster-Calls-Patrick-Ness-ebook/dp/B006P0MWJQ"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Monster-Calls-0-Patrick-Ness-ebook/dp/B00A9U9J6C"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariasaraiva.com.br/produto/3681826"&gt;Livraria Saraiva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lanterna Verde: A Noite Mais Densa
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dcheroesrpg.wikia.com/wiki/A_Noite_Mais_Densa"&gt;DC Wikia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=22343665"&gt;Livraria Cultura&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Reading Challenges
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.listchallenges.com/rory-gilmore-reading-challenge"&gt;The Rory Gilmore Reading Challenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://books1001.livejournal.com/348.html"&gt;1001 Books to Read Before You Die&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Cross-Reading Parte 2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/13503574-unspoken-abandonment"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bryanwoodbooks.com/"&gt;Página do Autor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Artigo sobre Dissonância Cognitiva (em &lt;a href="http://en.wikipedia.org/wiki/Cognitive_dissonance"&gt;inglês&lt;/a&gt; e em &lt;a href="http://pt.wikipedia.org/wiki/Disson%C3%A2ncia_cognitiva"&gt;português&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/107/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e10.mp3" length="78577507" type="audio/mpeg"/>
+                    <itunes:keywords>cross-reading,war</itunes:keywords>
+                    <itunes:subtitle>"Eu ainda não estou certo do que a vida guarda pra mim, mas desta vez, não importa onde minha próxima jornada me leve, eu vou sempre ter a força e a coragem de nunca mais sentir a dor paralizante do meu próprio abandono silencioso."</itunes:subtitle>
+                    <itunes:summary>"Eu ainda não estou certo do que a vida guarda pra mim, mas desta vez, não importa onde minha próxima jornada me leve, eu vou sempre ter a força e a coragem de nunca mais sentir a dor paralizante do meu próprio abandono silencioso."</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>1:21:51</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 9: Calendário dos Livros</title>
+                    <link>http://agentesdolivro.com/archives/105</link>
+                    <comments>http://agentesdolivro.com/archives/105#comments</comments>
+                    <pubDate>Wed, 06 Aug 2014 06:05:10 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>tag</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=105</guid>
+                    <description>Neste episódio, Melanie e Thiago fazem mais uma tag marota aonde tentam associar seus livros preferidos com os dias da semana! E tudo isso com um porém... não podem mencionar os livros citados em outros episódios! Será que dá?</description>
+                    <content:encoded>&lt;p&gt;Neste episódio, Melanie e Thiago fazem mais uma tag marota aonde tentam associar seus livros preferidos com os dias da semana! E tudo isso com um porém&amp;#8230; não podem mencionar os livros citados em outros episódios! Será que dá?&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-105"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Leitura de emails&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.dominiopublico.gov.br"&gt;Site do governo&lt;/a&gt; com livros de domínio público enviado por Jefferson Palú.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Melanie
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/10634436-death-by-sarcasm"&gt;Death by Sarcasm, Dani Amore&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/B00KV0HGFG"&gt;Leadership: Inspirational Quotes to Create a Wise Leader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariasaraiva.com.br/produto/2587969/batman-o-longo-dia-das-bruxas/"&gt;Batman: The Long Halloween&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thiago
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=5098558"&gt;Dune, Frank Herbert&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;News&lt;/h2&gt;
+&lt;p&gt;(tudo bem, eu sei que já não é mais notícia, mas dá um desconto :P)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.amazon.com/Kindle-eBooks/b/ref=ARRAY(0xa7f69fc0)?_encoding=UTF8&amp;amp;ie=UTF8&amp;amp;node=9578129011&amp;amp;pfShowFeatures=&amp;amp;ref_=nav_sap_kc_KU&amp;amp;ref_=nav_sap_kc_KU"&gt;Kindle Unlimited&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.oysterbooks.com"&gt;Oyster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.scribd.com"&gt;Scribd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Comentado neste episódio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.borboletasnacarteira.com.br/tutorial/tag-dia-da-semana-em-livros/"&gt;Blog Borboletas na Carteira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Os dias
+&lt;ul&gt;
+&lt;li&gt;Domingo
+&lt;ul&gt;
+&lt;li&gt;Ponto de Impacto, Dan Brown
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.danbrown.com/deception-point/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/976.Deception_Point"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Ponto-impacto-Dan-Brown-ebook/dp/B00A3D9K28"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Deception-Point-Dan-Brown-ebook/dp/B000FBJHZS"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/5469860/livro-ponto-de-impacto"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sandman &amp;#8211; The Dream Hunters, Neil Gaiman
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.neilgaiman.com/works/Comics/Sandman%3A+The+Dream+Hunters/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/166580.The_Sandman"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Sandman-Dream-Hunters-Neil-Gaiman-ebook/dp/B0064W63JK"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Segunda-feira
+&lt;ul&gt;
+&lt;li&gt;O Homem que não Amava as Mulheres
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.stieglarsson.com/The-Girl-With-The-Dragon-Tattoo"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/2429135.The_Girl_with_the_Dragon_Tattoo"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/homens-que-n%C3%A3o-amavam-mulheres-ebook/dp/B009WWDK7W"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Girl-Dragon-Tattoo-Millennium-Trilogy-ebook/dp/B0015DROBO"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Crônicas de DragonLance
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Dragonlance"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/68380.Dragonlance_Chronicles"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Dragons-Autumn-Twilight-Chronicles-Dragonlance-ebook/dp/B004G606K8"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Terça-feira
+&lt;ul&gt;
+&lt;li&gt;Terras do Sem Fim, Jorge Amado
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://pt.wikipedia.org/wiki/Terras_do_Sem-Fim"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Terras-do-sem-fim-Jorge-Amado-ebook/dp/B00B0XJ084"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vagabundo (Crônicas do Graal)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/68530.Vagabond"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Vagabond-Grail-Quest-Book-2-ebook/dp/B000OYEWME"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Quarta-feira
+&lt;ul&gt;
+&lt;li&gt;War and Peace, Leo Tolstoy
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/War_and_Peace"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/656.War_and_Peace"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Guerra-e-Paz-Lev-Tolstoi-ebook/dp/B00CQWOFU6"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/War-Peace-Leo-Tolstoy-ebook/dp/B00JVST5LM"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dança da Morte de Stephen King
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://stephenking.com/library/novel/stand:_the_complete__uncut_edition_the.html"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/149267.The_Stand"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/dan%C3%A7a-da-morte-Stephen-King-ebook/dp/B00E9ALT20"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Stand-Stephen-King-ebook/dp/B001C4NXKM"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Quinta-feira
+&lt;ul&gt;
+&lt;li&gt;Cinqüenta Tons de Cinza, E. L. James
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=bkvXCYkWSg0"&gt;Marcelinho lendo 50 Tons de Cinza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=5K1RcKJVbHA"&gt;Gilbert Gottfried lendo 50 Tons de Cinza&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/13609836-fifty-shades-of-grey"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Cinquenta-tons-cinza-E-L-James-ebook/dp/B009M84NN6"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy-ebook/dp/B007J4T2G8"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Atlantis, David Gibbins
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://davidgibbins.com/books/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/1149593.Atlantis"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Atlantis-Jack-Howard-David-Gibbins/dp/0553587927"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sexta-feira
+&lt;ul&gt;
+&lt;li&gt;Winds of Winter, George R.R. Martin
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/12111823-the-winds-of-winter"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pandorax, C.Z. Dunn
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.blacklibrary.com/warhammer-40000/pandorax.html"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/18741581-pandorax"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Pandorax-Space-Marine-Battles-Dunn/dp/1849707561"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sábado
+&lt;ul&gt;
+&lt;li&gt;Killing is Harmless: A Critical Reading of Spec Ops: The Line, Brendan Keogh
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/16162864-killing-is-harmless"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Killing-Harmless-Critical-Reading-Spec-ebook/dp/B00B9P2WP6"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Killing-Harmless-Critical-Reading-Spec-ebook/dp/B00B9P2WP6"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Parque dos Dinossauros, Michael Crichton
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.crichton-official.com/books-jurassicpark.html"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/7677.Jurassic_Park"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Jurassic-Park-Novel-Michael-Crichton-ebook/dp/B007UH4D3G"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Jurassic-Park-Novel-Michael-Crichton/dp/0345538986"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/105/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e09.mp3" length="57003161" type="audio/mpeg"/>
+                    <itunes:keywords>tag</itunes:keywords>
+                    <itunes:subtitle>Neste episódio, Melanie e Thiago fazem mais uma tag marota aonde tentam associar seus livros preferidos com os dias da semana! E tudo isso com um porém... não podem mencionar os livros citados em outros episódios! Será que dá?</itunes:subtitle>
+                    <itunes:summary>Neste episódio, Melanie e Thiago fazem mais uma tag marota aonde tentam associar seus livros preferidos com os dias da semana! E tudo isso com um porém... não podem mencionar os livros citados em outros episódios! Será que dá?</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>59:23</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 8: Os Olhos do Dragão</title>
+                    <link>http://agentesdolivro.com/archives/101</link>
+                    <comments>http://agentesdolivro.com/archives/101#comments</comments>
+                    <pubDate>Tue, 29 Jul 2014 00:36:50 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>review</category>
+                    <category>stephen king</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=101</guid>
+                    <description>Neste episódio Melanie e Thiago comentam sobre a obra "Os Olhos do Dragão" do excelente Stephen King (sem ser tendencioso é claro). Se você quer ler algo do King mas teme as histórias do nosso querido autor, conheça uma alternativa bem diferente pra molhar os seus pés!</description>
+                    <content:encoded>&lt;p&gt;Neste episódio Melanie e Thiago comentam sobre a obra &amp;#8220;Os Olhos do Dragão&amp;#8221; do excelente Stephen King (sem ser tendencioso é claro). Se você quer ler algo do King mas teme as histórias do nosso querido autor, conheça uma alternativa bem diferente pra molhar os seus pés!&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-101"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Leitura de emails&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Livros gratuitos no Brasil: http://www.dominiopublico.gov.br&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contatos&lt;/h2&gt;
+&lt;p&gt;Não deixem de comentar no episódio, mandar mensagem ou pombo-correio, a opinião de vocês é muito importante pra nós.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="mailto:contato@agentesdolivro.com"&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.twitter.com/agentesdolivro"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.facebook.com/agentesdolivro"&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/101/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e08.mp3" length="56936196" type="audio/mpeg"/>
+                    <itunes:keywords>review,stephen king</itunes:keywords>
+                    <itunes:subtitle>Neste episódio Melanie e Thiago comentam sobre a obra "Os Olhos do Dragão" do excelente Stephen King (sem ser tendencioso é claro). Se você quer ler algo do King mas teme as histórias do nosso querido autor,</itunes:subtitle>
+                    <itunes:summary>Neste episódio Melanie e Thiago comentam sobre a obra "Os Olhos do Dragão" do excelente Stephen King (sem ser tendencioso é claro). Se você quer ler algo do King mas teme as histórias do nosso querido autor, conheça uma alternativa bem diferente pra molhar os seus pés!</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>59:18</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 7: A Culpa é das Estrelas</title>
+                    <link>http://agentesdolivro.com/archives/96</link>
+                    <comments>http://agentesdolivro.com/archives/96#comments</comments>
+                    <pubDate>Mon, 21 Jul 2014 07:26:33 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>review</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=96</guid>
+                    <description>Neste episódio Melanie e Thiago falam um pouco das suas leituras da semana e comentam (com muito spoilers) sobre o livro "A Culpa é das Estrelas" de John Green.</description>
+                    <content:encoded>&lt;p&gt;Neste episódio Melanie e Thiago falam um pouco das suas leituras da semana e comentam (com muito spoilers) sobre o livro &amp;#8220;A Culpa é das Estrelas&amp;#8221; de John Green.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-96"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;h4&gt;Melanie&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;The Chinese Fairy Book
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/11545519-the-chinese-fairy-book"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Chinese-Fairy-Book-DR-WILHELM-ebook/dp/B004TQHEPA"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/author/show/3878.Adeline_Yen_Mah"&gt;Recomendação&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Interessado em conto de fadas chineses? De uma olhada em &lt;a href="http://www.adelineyenmah.com"&gt;Adeline Yen Mah&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Justice League: The Villain’s Journey
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/Justice-League-2011-Vol-2-The-Villains-Journey/digital-comic/48420"&gt;Comixology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Quer uma história boa da Liga da Justiça: &lt;a href="https://www.comixology.com/Identity-Crisis/digital-comic/48416"&gt;Identity Crisis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Women Who Kill
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/17332986-women-who-kill"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Thiago&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Injustice
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/Injustice-Gods-Among-Us-Year-Two-2014-1/digital-comic/63302"&gt;Comixology&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;John Constantine, Hellblazer Vol. 1: Original Sins
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/John-Constantine-Hellblazer-Vol-1-Original-Sins/digital-comic/50780"&gt;Comixology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Nova Série de TV: &lt;a href="http://www.imdb.com/title/tt3489184/"&gt;IMDB&lt;/a&gt;, &lt;a href="http://www.nbc.com/constantine"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0360486"&gt;Filme de 2005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Lançamentos de Julho&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Four: A Divergent Collection
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/18126198-four"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Four-Divergent-Collection-Series/dp/0062345214"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Landline, Rainbow Rowell
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rainbowrowell.com/blog/book/landline/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/18081809-landline"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Landline-Rainbow-Rowell/dp/1250049377"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Comentado durante o review&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://johngreenbooks.com/"&gt;Página do autor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sf.wish.org"&gt;Make a Wish Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sf.wish.org/wishes/wish-stories/i-wish-to-be/wish-to-be-batkid"&gt;Batkid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=86CKsczBdu0"&gt;Cena da homenagem&lt;/a&gt; no filme &lt;a href="http://www.imdb.com/title/tt0268978"&gt;Uma Mente Brilhante&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Se você chegou até aqui, veja o &lt;a href="https://www.youtube.com/watch?v=AuVjGbncgQE"&gt;trailer&lt;/a&gt; do filme.&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/96/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e07.mp3" length="92095409" type="audio/mpeg"/>
+                    <itunes:keywords>review</itunes:keywords>
+                    <itunes:subtitle>Neste episódio Melanie e Thiago falam um pouco das suas leituras da semana e comentam (com muito spoilers) sobre o livro "A Culpa é das Estrelas" de John Green.</itunes:subtitle>
+                    <itunes:summary>Neste episódio Melanie e Thiago falam um pouco das suas leituras da semana e comentam (com muito spoilers) sobre o livro "A Culpa é das Estrelas" de John Green.</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>1:35:56</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 6: Filmes de livros, uma opinião baseada em absolutamente nada!</title>
+                    <link>http://agentesdolivro.com/archives/78</link>
+                    <comments>http://agentesdolivro.com/archives/78#comments</comments>
+                    <pubDate>Mon, 14 Jul 2014 05:12:07 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>crossmidia</category>
+                    <category>filmes</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=78</guid>
+                    <description>Neste episódio Melanie e Thiago dão dicas de leitura gratuita e falam sobre filmes baseados em livros! O que é bom e o que e ruim? Um episódio baseado 100% em absolutamente nada!</description>
+                    <content:encoded>&lt;p&gt;Neste episódio Melanie e Thiago dão dicas de leitura gratuita e falam sobre filmes baseados em livros! O que é bom e o que e ruim? Um episódio baseado 100% em absolutamente nada!&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-78"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;h4&gt;Melanie&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Garra
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/Talon-2012-Vol-1-Scourge-of-the-Owls/digital-comic/87820"&gt;Comixology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.paninicomics.com.br/web/guest/productDetail?viewItem=746929"&gt;Panini&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A Menina que Roubava Livros
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Book_Thief"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0816442/"&gt;Filme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=1859015"&gt;Livraria Cultura&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Book-Thief-Markus-Zusak/dp/0375842209/"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Flash Tips&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pulseit.com"&gt;Pulseit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.freebooksifter.com"&gt;Freebook Sifter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/freedailybooks"&gt;Free Daily Books&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Ddigital-text&amp;amp;field-keywords=0.00"&gt;Busca na Amazon por 0.00&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vidaorganizada.com/minha-vida/como-eu-me-organizo/duvida-leitor-como-voce-consegue-ler-tanto"&gt;Como ler mais&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Crossmídias&lt;/h2&gt;
+&lt;h4&gt;Filmes que são melhores que o livro&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A Hospedeira (The Host), Stephenie Meyer
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://thehostthefilm.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt1517260/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thehostnovel.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/1656001.The_Host"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Hospedeira-Stephenie-Meyer-ebook/dp/B009M84ZXE/"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Host-Novel-Stephenie-Meyer/dp/0316218510"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/112922368/livro-a-hospedeira"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Jogos Patrióticos (Patriot Games), Tom Clancy
+&lt;ul&gt;
+&lt;li&gt;Filme:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0105112/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/32682.Patriot_Games"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Patriot-Games-Jack-Ryan-Novel-ebook/dp/B001QEAQQM"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Patriot-Games-Jack-Ryan-Clancy/dp/0425109720"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariasaraiva.com.br/produto/653383?PAC_ID=127108"&gt;Saraiva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Orgulho e Preconceito (Pride and Prejudice), Jane Austen
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.focusfeatures.com/pride_and_prejudice"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0112130"&gt;IMDB 1994&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0414387"&gt;IMDB 2005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Orgulho-e-Preconceito-Edição-Bil%C3%ADngue-ebook/dp/B00AMOONKC/"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Pride-Prejudice-Jane-Austen-ebook/dp/B008476HBM"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/111689242/livro-orgulho-e-preconceito"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=5Nm61IoNdHg"&gt;Thug Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;O Clube da Luta (Fight Club), Chuck Palahniuk
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0137523/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/5759.Fight_Club"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Clube-da-Luta-Chuck-Palahniuk-ebook/dp/B00AC7C9LE"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Fight-Club-Chuck-Palahniuk-ebook/dp/B000U0O9FM/"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/110764191/livro-clube-da-luta"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Meu Namorado é um Zumbi (Warm Bodies), Isaac Marion
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://warmbodiesmovie.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt1588173/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/7619057-warm-bodies"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Warm-Bodies-Isaac-Marion-ebook/dp/B0043D2D8M"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Warm-Bodies-Novel-Isaac-Marion-ebook/dp/B0043RSK3U"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/7437545/livro-sangue-quente"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Livros cujo filme são uma porcaria&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A Bússola Dourada
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0385752/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.randomhouse.com/features/pullman/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/119322.The_Golden_Compass"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/A-Bússola-Ouro-Philip-Pullman-ebook/dp/B00A3CNX72"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Golden-Compass-His-Dark-Materials-ebook/dp/B000FC1ICM"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/116459059/livro-a-bussola-de-ouro-edicao-economica"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Percy Jackson
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.percyjacksonthemovie.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt1854564/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.percyjacksonbooks.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/monstros-Percy-Jackson-Olimpianos-Livro-ebook/dp/B009M8COVO"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Percy-Jackson-Olympians-Book-Two-ebook/dp/B00CJ05DYM"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/6864786/livro-o-mar-de-monstros-colecao-percy-jackson-e-os-olimpianos-livro-2"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Eragon
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0449010/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.alagaesia.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/113436.Eragon"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Eragon-Ciclo-Herança-Christopher-Paolini-ebook/dp/B00A3D9FEG"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Eragon-Inheritance-Cycle-Christopher-Paolini-ebook/dp/B000FBJCK8"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/5446828/livro-eragon-trilogia-da-heranca-vol.-1"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;O Último Dançarino de Mao (Mao’s Last Dancer), Li Cunxin
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt1071812/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.licunxin.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/298137.Mao_s_Last_Dancer"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Maos-Last-Dancer-Li-Cunxin-ebook/dp/B002RI9DZG"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Maos-Last-Dancer-Li-Cunxin-ebook/dp/B005PWMFT2"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Filmes que são tão bons quanto seus respectivos livros&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;O Senhor dos Anéis
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.lordoftherings.net"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0120737/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.tolkienlibrary.com/booksbytolkien/lotr/description.htm"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Senhor-dos-Anéis-vol-único-ebook/dp/B00CDRPTWW"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Lord-Rings-One-J-R-R-Tolkien-ebook/dp/B007978OY6"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/112738270/livro-the-lord-of-the-rings-3-books-"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Série Hunger Games (Suzanne Collins)
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.thehungergamesexplorer.com/us/epk/hunger-games/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt1392170/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.scholastic.com/thehungergames/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Trilogia-Jogos-Vorazes-Suzanne-Collins-ebook/dp/B00GIM75J8/"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Hunger-Games-Trilogy-Suzanne-Collins-ebook/dp/B004XJRQUQ"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/110636085/livro-box-trilogia-jogos-vorazes"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Série Harry Potter
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.harrypotterwizardscollection.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0241527/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pottermore.com"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/862041.Harry_Potter_Boxset"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.pottermore.com/is-bin/INTERSHOP.enfinity/WFS/Pottermore-Store-Site/pt_BR/-/USD/ViewStandardCatalog-Interstitial?CategoryDomainName=Pottermore-Store-intp&amp;amp;CategoryName=Amazon&amp;amp;ProgramUUID=qPQKMgYLIFwAAAFAkrkZoBZ8&amp;amp;sku=hpbundle1-7-ebook-portuguese-br1-usd&amp;amp;utm_campaign=amazon_br_generic&amp;amp;utm_medium=amazon_br"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.pottermore.com/is-bin/INTERSHOP.enfinity/WFS/Pottermore-Store-Site/en_US/-/-/ViewStandardCatalog-Interstitial?CategoryDomainName=Pottermore-Store-intp&amp;amp;CategoryName=Amazon&amp;amp;ProgramUUID=WXoKMgYPlBwAAAE2c2ZwrzD0&amp;amp;sku=hp1-ebook-english-us1-usd&amp;amp;utm_campaign=amazon_com_generic&amp;amp;utm_medium=amazon_com&amp;amp;utm_source=WXoKMgYPlBwAAAE2c2ZwrzD0"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/111771772/colecao-harry-potter-edicao-limitada-7-volumes-"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A Abadia de Northanger (Northanger Abbey), Jane Austen
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.pbs.org/wgbh/masterpiece/northangerabbey/"&gt;Hotsite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0844794/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/50398.Northanger_Abbey"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Abadia-Northanger-Edição-Bil%C3%ADngue-ebook/dp/B00AMOOYF6"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Northanger-Abbey-Illustrated-Jane-Austen-ebook/dp/B00ET8XCOU"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.submarino.com.br/produto/110311660/livro-abadia-de-northanger-a"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Entrevista com o Vampiro (Interview With the Vampire), Anne Rice
+&lt;ul&gt;
+&lt;li&gt;Filme
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.imdb.com/title/tt0110148/"&gt;IMDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Livro
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/43763.Interview_With_The_Vampire"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com.br/Interview-Vampire-Chronicles-Anne-Rice-ebook/dp/B004AM5R20/"&gt;Amazon BR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Interview-Vampire-Chronicles-Anne-Rice-ebook/dp/B004AM5R20/"&gt;Amazon US&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.livrariasaraiva.com.br/produto/320591?PAC_ID=127108"&gt;Saraiva&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Livros que merecem filmes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dark Tower&lt;/li&gt;
+&lt;li&gt;Ready Player One&lt;/li&gt;
+&lt;li&gt;Proxy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Eu não sabia que era livro e vi o filme primeiro&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Dia do Pagamento (Pay Day)&lt;/li&gt;
+&lt;li&gt;Minority Report&lt;/li&gt;
+&lt;li&gt;A Espera de Um Milagre (The Green Mile)&lt;/li&gt;
+&lt;li&gt;Um Sonho de Liberdade (The Shawshank Redemption)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Livros e filmes que precisamos ler/assistir&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;A Culpa é das Estrelas (The Fault in Our Stars), John Green&lt;/li&gt;
+&lt;li&gt;Lone Survivor, Marcus Luttrel&lt;/li&gt;
+&lt;li&gt;O Caçador de Pipas (The Kite Runner), Khaled Rosseini&lt;/li&gt;
+&lt;li&gt;A Menina que Roubava Livros (The Book Thief), Markus Zusak&lt;/li&gt;
+&lt;li&gt;Querido John (Dear John), Nicholas Sparks&lt;/li&gt;
+&lt;li&gt;O Lado Bom da Vida (The Silver Linings Playbook), Matthew Quick&lt;/li&gt;
+&lt;li&gt;Divergente (Divergent), Veronica Roth&lt;/li&gt;
+&lt;li&gt;Sob a Redoma (Under the Dome), Stephen King&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contato&lt;/h2&gt;
+&lt;p&gt;Envie seu email ou tweet con sugestões ou críticas para:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href="mailto:contato@agentesdolivro.com"&gt;contato@agentesdolivro.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href="http://www.twitter.com/agentesdolivro"&gt;@agentesdolivro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/78/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e06.mp3" length="71830715" type="audio/mpeg"/>
+                    <itunes:keywords>crossmidia,filmes</itunes:keywords>
+                    <itunes:subtitle>Neste episódio Melanie e Thiago dão dicas de leitura gratuita e falam sobre filmes baseados em livros! O que é bom e o que e ruim? Um episódio baseado 100% em absolutamente nada!</itunes:subtitle>
+                    <itunes:summary>Neste episódio Melanie e Thiago dão dicas de leitura gratuita e falam sobre filmes baseados em livros! O que é bom e o que e ruim? Um episódio baseado 100% em absolutamente nada!</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>1:14:49</itunes:duration>
+                </item>
+                <item>
+                    <title>Episódio 5: A coxinha recém frita, em promoção e com recheio de catupiry.</title>
+                    <link>http://agentesdolivro.com/archives/37</link>
+                    <comments>http://agentesdolivro.com/archives/37#comments</comments>
+                    <pubDate>Wed, 25 Jun 2014 06:47:12 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>computer</category>
+                    <category>coxinha</category>
+                    <category>scify</category>
+                    <category>steampunk</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=37</guid>
+                    <description>Neste episódio os Melanie e Thiago falam, sem spoilers, sobre os livros da vez: Daemon e Proxy.</description>
+                    <content:encoded>&lt;p&gt;Neste episódio os Melanie e Thiago falam, sem spoilers, sobre os livros da vez: Daemon e Proxy.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-37"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Emails e Comentários&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Artemis Fowl &amp;#8211; Eoin Colfer
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.artemisfowl.com"&gt;Hot Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Artemis_Fowl_(series)"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/series/42742-artemis-fowl"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Artemis-Fowl-Book-One-Quality-ebook/dp/B002KP6DXQ"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://busca.submarino.com.br/busca.php?q=artemis+fowl"&gt;Submarino&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Proxy &amp;#8211; Alex London
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.calexanderlondon.com/books/proxy"&gt;Hot Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/16101023-proxy"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Proxy-Alex-London-ebook/dp/B00AFPVNXI"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Daemon &amp;#8211; Daniel Suarez
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://thedaemon.com"&gt;Hot Site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Daemon_(book_series)"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/4699575-daemon"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Daemon-Daniel-Suarez-ebook/dp/B003QP4NPE"&gt;Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contato&lt;/h2&gt;
+&lt;p&gt;Envie seu email ou tweet con sugestões ou críticas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: &lt;a href="mailto:contato@agentesdolivro.com"&gt;contato@agentesdolivro.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a href="http://www.twitter.com/agentesdolivro"&gt;@agentesdolivro&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/37/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e05.mp3" length="27276915" type="audio/mpeg"/>
+                    <itunes:keywords>computer,coxinha,scify,steampunk</itunes:keywords>
+                    <itunes:subtitle>Neste episódio os Melanie e Thiago falam, sem spoilers, sobre os livros da vez: Daemon e Proxy.</itunes:subtitle>
+                    <itunes:summary>Neste episódio os Melanie e Thiago falam, sem spoilers, sobre os livros da vez: Daemon e Proxy.</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>28:25</itunes:duration>
+                    <rawvoice:poster url="http://agentesdolivro.com/wp-content/plugins/podpress/images/vpreview_center.png"/>
+                </item>
+                <item>
+                    <title>Episódio 4: “Reading Progress” e “Cross Reading”</title>
+                    <link>http://agentesdolivro.com/archives/24</link>
+                    <comments>http://agentesdolivro.com/archives/24#comments</comments>
+                    <pubDate>Sun, 22 Jun 2014 06:28:51 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>batman</category>
+                    <category>stephen king</category>
+                    <category>warhammer</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=24</guid>
+                    <description>Neste episódio Melanie e Thiago fazem um update das suas leituras semanais e tentam criar o "Cross Reading"!</description>
+                    <content:encoded>&lt;p&gt;Neste episódio Melanie e Thiago fazem um update das suas leituras semanais e tentam criar o &amp;#8220;Cross Reading&amp;#8221;!&lt;br /&gt;
+&lt;span id="more-24"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h2&gt;Reading Progress&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Melanie:
+&lt;ul&gt;
+&lt;li&gt;Comics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dc.wikia.com/wiki/New_Teen_Titans:_Games"&gt;Novos Titãs (The New Teen Titans Games)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.dccomics.com/graphic-novels/batman-earth-one"&gt;Batman Terra 1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Books:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/5526.Dear_John"&gt;Querido John&lt;/a&gt; &amp;#8211; Nicholas Sparks&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/13602390-alone"&gt;Alone (The Girl in the Box)&lt;/a&gt; &amp;#8211; Robert J. Crane &amp;#8211; &lt;a href="http://www.livrariacultura.com.br/scripts/resenha/resenha.asp?nitem=82202432"&gt;Link Livraria Cultura&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Thiago:
+&lt;ul&gt;
+&lt;li&gt;Livros Técnicos:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://members.nerdgap.com/order-evernote-essentials/"&gt;Evernote Essentials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11"&gt;Swift&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Comics:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/Doctor-Who-Vol-1-Fugitive/digital-comic/21041"&gt;Doctor Who Volume Um&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.comixology.com/Letter-44/comics-series/11762"&gt;Letter 44&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Book:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.games-workshop.com/en-US/Warhammer-40-000-US"&gt;Warhammer 40000&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Lançamentos de Junho&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/20168816-rogues"&gt;Rogues&lt;/a&gt; &amp;#8211; George R. R. Martin&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/18775152-mr-mercedes"&gt;Mr. Mercedes&lt;/a&gt; &amp;#8211; Stephen King&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stephenking.com/promo/dark_tower_drawing_of_the_three_prisoner_1_cover_reveal/"&gt;Continuação dos comics de Dark Tower&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Cross Reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Indicação da Melanie para o Thiago: &lt;a href="https://www.goodreads.com/book/show/13503574-unspoken-abandonment"&gt;Unspoken Abandonment&lt;/a&gt; &amp;#8211; Bryan A. Wood&lt;/li&gt;
+&lt;li&gt;Indicação do Thiago para a Melanie: &lt;a href="https://www.goodreads.com/book/show/10611.The_Eyes_of_the_Dragon?from_search=true"&gt;The Eyes of the Dragon&lt;/a&gt; &amp;#8211; Stephen King&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/24/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e04.mp3" length="53940314" type="audio/mpeg"/>
+                    <itunes:keywords>batman,stephen king,warhammer</itunes:keywords>
+                    <itunes:subtitle>Neste episódio Melanie e Thiago fazem um update das suas leituras semanais e tentam criar o "Cross Reading"!</itunes:subtitle>
+                    <itunes:summary>Neste episódio Melanie e Thiago fazem um update das suas leituras semanais e tentam criar o "Cross Reading"!</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>56:11</itunes:duration>
+                    <rawvoice:poster url="http://agentesdolivro.com/wp-content/plugins/podpress/images/vpreview_center.png"/>
+                </item>
+                <item>
+                    <title>Episódio 3: Top 5 … do primeiro semestre de 2014</title>
+                    <link>http://agentesdolivro.com/archives/22</link>
+                    <comments>http://agentesdolivro.com/archives/22#comments</comments>
+                    <pubDate>Sun, 08 Jun 2014 06:06:41 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <category>dark tower</category>
+                    <category>harry potter</category>
+                    <category>ready player one</category>
+                    <category>three kingdoms</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=22</guid>
+                    <description>Neste episódio, Melanie e Thiago listam seus top 5 livros do primeiro semestre de 2014. Não esqueça de apontar todas as gafes cometidas aqui, mandar suas opiniões e sugestões!</description>
+                    <content:encoded>&lt;p&gt;Neste episódio, Melanie e Thiago listam seus top 5 livros do primeiro semestre de 2014. Não esqueça de apontar todas as gafes cometidas aqui, mandar suas opiniões e sugestões!&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-22"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Comentados nessa episódio:&lt;/p&gt;
+&lt;h2&gt;Harry Potter&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Harry_Potter"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/series/45175-harry-potter"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Everything’s Eventual&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Everything's_Eventual"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/10579.Everything_s_Eventual"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Warlord Chronicles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Warlord_Chronicles"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/series/40914-the-arthur-books"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Kite Runner&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Kite_Runner"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/77203.The_Kite_Runner"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Romance of the Three Kingdoms&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/172012.Romance_of_the_Three_Kingdoms"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Movie Trailers:
+&lt;ul&gt;
+&lt;li&gt;Romance of the Three Kingdoms &lt;a href="https://www.youtube.com/watch?v=G2ku02H7W8Q"&gt;1994&lt;/a&gt; &lt;a href="https://www.youtube.com/watch?v=KXiE4HsofRU"&gt;2010&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zJHY6jr46A4"&gt;Red Cliff&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9UzQrvwPsMg"&gt;Three Kingdoms: Ressurrection of the Dragon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Lord of the Rings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Lord_of_the_Rings"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/series/66175-the-lord-of-the-rings"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Ready Player One&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Ready_Player_One"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/book/show/9969571-ready-player-one"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Dark Tower&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Dark_Tower_(series)"&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.goodreads.com/series/40750-the-dark-tower"&gt;Goodreads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/22/feed</wfw:commentRss>
+                    <slash:comments>7</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e03.mp3" length="45019663" type="audio/mpeg"/>
+                    <itunes:keywords>dark tower,harry potter,ready player one,three kingdoms</itunes:keywords>
+                    <itunes:subtitle>Neste episódio, Melanie e Thiago listam seus top 5 livros do primeiro semestre de 2014. Não esqueça de apontar todas as gafes cometidas aqui, mandar suas opiniões e sugestões!</itunes:subtitle>
+                    <itunes:summary>Neste episódio, Melanie e Thiago listam seus top 5 livros do primeiro semestre de 2014. Não esqueça de apontar todas as gafes cometidas aqui, mandar suas opiniões e sugestões!</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>46:54</itunes:duration>
+                    <rawvoice:poster url="http://agentesdolivro.com/wp-content/plugins/podpress/images/vpreview_center.png"/>
+                </item>
+                <item>
+                    <title>Episódio 2: Os Autores da Nova Geração</title>
+                    <link>http://agentesdolivro.com/archives/15</link>
+                    <comments>http://agentesdolivro.com/archives/15#comments</comments>
+                    <pubDate>Sun, 01 Jun 2014 05:45:08 +0000</pubDate>
+                    <dc:creator>Thiago Alves</dc:creator>
+                    <category>Podcast</category>
+                    <guid isPermaLink="false">http://agentesdolivro.com/?p=15</guid>
+                    <description>Neste episódio, Melanie e Thiago falam um pouco sobre os autores da nova geração e o que mudou no relacionamento com os leitores nas últimas décadas.</description>
+                    <content:encoded>&lt;p&gt;Neste episódio, Melanie e Thiago falam um pouco sobre os autores da nova geração e o que mudou no relacionamento com os leitores nas últimas décadas.&lt;/p&gt;
+&lt;p&gt;&lt;span id="more-15"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Mencionados neste episódio:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Link](My link)&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+                    <wfw:commentRss>http://agentesdolivro.com/archives/15/feed</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://media.blubrry.com/agentesdolivro/agentesdolivro.com/wp-content/podcast/s01e02.mp3" length="64616957" type="audio/mpeg"/>
+                    <itunes:subtitle>Neste episódio, Melanie e Thiago falam um pouco sobre os autores da nova geração e o que mudou no relacionamento com os leitores nas últimas décadas.</itunes:subtitle>
+                    <itunes:summary>Neste episódio, Melanie e Thiago falam um pouco sobre os autores da nova geração e o que mudou no relacionamento com os leitores nas últimas décadas.</itunes:summary>
+                    <itunes:author>Melanie Yee &amp; Thiago Alves</itunes:author>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:duration>1:07:19</itunes:duration>
+                    <rawvoice:poster url="http://agentesdolivro.com/wp-content/plugins/podpress/images/vpreview_center.png"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

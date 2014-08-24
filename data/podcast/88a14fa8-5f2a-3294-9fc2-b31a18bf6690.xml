@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:39:45 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Pingback" value="http://abendsinderkreativwirtschaft.de/xmlrpc.php"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" version="2.0">
+            <channel>
+                <title>Abends in der Kreativwirtschaft</title>
+                <link>http://abendsinderkreativwirtschaft.de</link>
+                <description>Ein audio Podcast aus der wunderbaren Kreativwirtschaft</description>
+                <lastBuildDate>Sat, 09 Aug 2014 08:55:12 +0000</lastBuildDate>
+                <atom:link rel="self" type="application/rss+xml" title="Abends in der Kreativwirtschaft (MP3 Audio Feed)" href="http://abendsinderkreativwirtschaft.de/feed/mp3/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="Abends in der Kreativwirtschaft (MP4 Audio Feed)" href="http://abendsinderkreativwirtschaft.de/feed/mp4/"/>
+                <generator>Podlove Podcast Publisher v1.3.22-alpha</generator>
+                <itunes:author>Jan Jursa</itunes:author>
+                <itunes:summary>Dieser Podcast befasst sich mit Themen wie User Experience, Informationsarchitektur, Design Thinking, Usability, Konzept und Qualität ... und so weiter.</itunes:summary>
+                <itunes:category text="Arts">
+                    <itunes:category text="Design"/>
+                </itunes:category>
+                <itunes:category text="Technology"/>
+                <itunes:category text="Business"/>
+                <itunes:owner>
+                    <itunes:name>Jan Jursa</itunes:name>
+                    <itunes:email>jan.jursa@gmail.com</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW_iTunes_Cover.jpg"/>
+                <itunes:subtitle>Der audio Podcast rund um Design, Innovation, User Experience.</itunes:subtitle>
+                <itunes:keywords>Design, Kreation, Berlin, User Experience, Informationsarchitektur, UX, IA, Interaktionsdesign, Agentur, Innovation, IxD, Usability, Web</itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <language>de</language>
+                <item>
+                    <title>AKW072 Markenbildung und UX Design</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw072-markenbildung-und-ux-design/</link>
+                    <pubDate>Sat, 09 Aug 2014 08:55:12 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-08-09t08:11:55+00:00-cd58d7475259018</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw072-markenbildung-und-ux-design/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW072.mp3" length="35932099" type="audio/mpeg"/>
+                    <itunes:duration>00:42:26</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>User Experience und Brand Experience</itunes:subtitle>
+                    <itunes:summary>AKW072 Markenbildung und UX Design - Wir hören eine Aufzeichnung der IA Konferenz 2014 (http://iakonferenz.org). Rupert Platz (Berlin) ist freier UX Designer und Informationsarchitekt. In seiner Präsentation spricht er über die Wechselwirkungen zwischen Marken, User Experience und Brand Experience. Dazu gibt es Musik von Maria Daines und Amer Diab.</itunes:summary>
+                    <description>AKW072 Markenbildung und UX Design - Wir hören eine Aufzeichnung der IA Konferenz 2014 (http://iakonferenz.org). Rupert Platz (Berlin) ist freier UX Designer und Informationsarchitekt. In seiner Präsentation spricht er über die Wechselwirkungen zwischen Marken, User Experience und Brand Experience. Dazu gibt es Musik von Maria Daines und Amer Diab.</description>
+                </item>
+                <item>
+                    <title>AKW071 Design Thinking</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw071-design-thinking/</link>
+                    <pubDate>Fri, 18 Jul 2014 07:59:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-07-18t07:13:22+00:00-f68e067683bd23f</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw071-design-thinking/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW071.mp3" length="26925752" type="audio/mpeg"/>
+                    <itunes:duration>00:31:43</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Ein Prozess, eine Denkhaltung, ein Workshop-Format</itunes:subtitle>
+                    <itunes:summary>AKW071 Design Thinking - Zu Gast in der Kreativwirtschaft ist Design Thinking Experte Claus Steinau (online zu finden unter www.d-thinking.de). Wir plaudern über das Wann, Wo und Wie von Design Thinking.</itunes:summary>
+                    <description>AKW071 Design Thinking - Zu Gast in der Kreativwirtschaft ist Design Thinking Experte Claus Steinau (online zu finden unter www.d-thinking.de). Wir plaudern über das Wann, Wo und Wie von Design Thinking.</description>
+                </item>
+                <item>
+                    <title>AKW070 Connected Reality 2025</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw070-connected-reality-2025/</link>
+                    <pubDate>Tue, 17 Jun 2014 00:01:05 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-10t05:00:57+00:00-51b192c4fd838ce</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw070-connected-reality-2025/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW070.mp3" length="27951161" type="audio/mpeg"/>
+                    <itunes:duration>00:33:34</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Cyber-physikalische Systeme und Intelligence as a Service</itunes:subtitle>
+                    <itunes:summary>AKW070 Connected Reality 2025 - Ich spreche mit dem Berliner Foresight Experten Willi Schroll über den Report Connected Reality 2025 (veröffentlicht von Z_punkt The Foresight Company aus Köln). Wir reden über erweiterte Datenräume und die Supernova der Informationsstruktur.</itunes:summary>
+                    <description>AKW070 Connected Reality 2025 - Ich spreche mit dem Berliner Foresight Experten Willi Schroll über den Report Connected Reality 2025 (veröffentlicht von Z_punkt The Foresight Company aus Köln). Wir reden über erweiterte Datenräume und die Supernova der Informationsstruktur.</description>
+                </item>
+                <item>
+                    <title>AKW069 IA Konferenz 2014 Opening Keynote</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw069-ia-konferenz-opening-keynote/</link>
+                    <pubDate>Tue, 03 Jun 2014 06:08:46 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-05-28t05:26:07+00:00-4fa50def717ff34</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw069-ia-konferenz-opening-keynote/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW069.mp3" length="40546007" type="audio/mpeg"/>
+                    <itunes:duration>00:26:02</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Mr. Media Thomas Koch spricht über Brand Experience</itunes:subtitle>
+                    <itunes:summary>AKW069 IA Konferenz 2014 Opening Keynote - In der Opening Keynote der IA Konferenz 2014 spricht Thomas Koch über Marketing, Markenführung, Storytelling, Big Data und Brand Experience.</itunes:summary>
+                    <description>AKW069 IA Konferenz 2014 Opening Keynote - In der Opening Keynote der IA Konferenz 2014 spricht Thomas Koch über Marketing, Markenführung, Storytelling, Big Data und Brand Experience.</description>
+                </item>
+                <item>
+                    <title>AKW068 Crowdsourcing Design</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw068-crowdsourcing-design/</link>
+                    <pubDate>Fri, 16 May 2014 16:15:27 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-05-16t15:50:09+00:00-2e914815061087f</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw068-crowdsourcing-design/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW068.mp3" length="35331468" type="audio/mpeg"/>
+                    <itunes:duration>00:41:43</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Wenn Hobbygestalter nach Feierabend Logos klicken</itunes:subtitle>
+                    <itunes:summary>AKW068 Crowdsourcing Design - Ich spreche mit Researcher, Journalist und Kommunikationsdesigner Florian Alexander Schmidt über Design Crowdsourcing, artificial Artificial Intelligence und die Amateurbewegung im Design. Wir plaudern über Menschen die wie Prozessoren behandelt werden und die dystopische Seite von Crowdsourcing.</itunes:summary>
+                    <description>AKW068 Crowdsourcing Design - Ich spreche mit Researcher, Journalist und Kommunikationsdesigner Florian Alexander Schmidt über Design Crowdsourcing, artificial Artificial Intelligence und die Amateurbewegung im Design. Wir plaudern über Menschen die wie Prozessoren behandelt werden und die dystopische Seite von Crowdsourcing.</description>
+                </item>
+                <item>
+                    <title>AKW067 Zwei Bücherwürmer im Gespräch</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw067-zwei-bucherwurmer-im-gesprach/</link>
+                    <pubDate>Sat, 03 May 2014 05:50:31 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-30t04:26:35+00:00-95a1855d713ff43</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw067-zwei-bucherwurmer-im-gesprach/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW067.mp3" length="52013897" type="audio/mpeg"/>
+                    <itunes:duration>01:01:35</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>UX Bücher: was wir gelesen haben, lesen und lesen werden.</itunes:subtitle>
+                    <itunes:summary>AKW067 Zwei Bücherwürmer im Gespräch - Ich spreche mit Senior-Konzepter Stefan Freimark über UX Bücher und Bücher die uns über den Tellerrand blicken lassen. Wir reden über Einsteigerbücher und Bücher für erfahrene UX Designer. Wir plaudern auch über wunderbare Eigenschaften von Konzeptern und das Schöne an Konzeption.</itunes:summary>
+                    <description>AKW067 Zwei Bücherwürmer im Gespräch - Ich spreche mit Senior-Konzepter Stefan Freimark über UX Bücher und Bücher die uns über den Tellerrand blicken lassen. Wir reden über Einsteigerbücher und Bücher für erfahrene UX Designer. Wir plaudern auch über wunderbare Eigenschaften von Konzeptern und das Schöne an Konzeption.</description>
+                </item>
+                <item>
+                    <title>AKW066 Jazz, Lean UX und IA Summit</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw066-jazz-lean-ux-und-ia-summit/</link>
+                    <pubDate>Wed, 23 Apr 2014 07:34:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-23t07:24:47+00:00-a8979eb97a18eef</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw066-jazz-lean-ux-und-ia-summit/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW066.mp3" length="32134363" type="audio/mpeg"/>
+                    <itunes:duration>00:37:56</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Von UX Strategy zu Business Strategy</itunes:subtitle>
+                    <itunes:summary>AKW066 Jazz, Lean UX und IA Summit - Ich spreche mit Principal UX Designer James Kalbach über den neuen Lean UX Trend und über die Beziehung zwischen UX Strategy und Business Strategie. Wir reden über den amerikanischen IA Summit, der neulich statt gefunden hat und über Scrum und Agile und was uns sonst noch so einfällt.</itunes:summary>
+                    <description>AKW066 Jazz, Lean UX und IA Summit - Ich spreche mit Principal UX Designer James Kalbach über den neuen Lean UX Trend und über die Beziehung zwischen UX Strategy und Business Strategie. Wir reden über den amerikanischen IA Summit, der neulich statt gefunden hat und über Scrum und Agile und was uns sonst noch so einfällt.</description>
+                </item>
+                <item>
+                    <title>AKW065 Brand Experience und Content Strategy</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw065-brand-experience-und-content-strategy/</link>
+                    <pubDate>Wed, 16 Apr 2014 04:48:33 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-16t04:37:46+00:00-cec4c6530de89bb</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw065-brand-experience-und-content-strategy/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW065.mp3" length="25366762" type="audio/mpeg"/>
+                    <itunes:duration>00:29:51</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Eine Präsentation von der IA Konferenz 2012</itunes:subtitle>
+                    <itunes:summary>AKW065 Brand Experience und Content Strategy - Wir hören Margot Bloomstein (USA) zum Thema Content Strategy, Design und Brand Experience. Eine Aufzeichnung der IA Konferenz (die Konzepter-Konferenz) in Essen.</itunes:summary>
+                    <description>AKW065 Brand Experience und Content Strategy - Wir hören Margot Bloomstein (USA) zum Thema Content Strategy, Design und Brand Experience. Eine Aufzeichnung der IA Konferenz (die Konzepter-Konferenz) in Essen.</description>
+                </item>
+                <item>
+                    <title>AKW064 Content Strategy</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw064-content-strategy/</link>
+                    <pubDate>Tue, 08 Apr 2014 07:08:58 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-04-08t06:51:56+00:00-d24ceed1e12c8c9</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw064-content-strategy/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW064.mp3" length="53185775" type="audio/mpeg"/>
+                    <itunes:duration>01:02:59</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Eine Präsentation von der IA Konferenz 2012</itunes:subtitle>
+                    <itunes:summary>AKW064 Content Strategy - Wir hören Colleen Jones (USA) zum Thema Content Strategy, Design und Digital Strategy. Eine Aufzeichnung der IA Konferenz (die Konzepter-Konferenz) in Essen.</itunes:summary>
+                    <description>AKW064 Content Strategy - Wir hören Colleen Jones (USA) zum Thema Content Strategy, Design und Digital Strategy. Eine Aufzeichnung der IA Konferenz (die Konzepter-Konferenz) in Essen.</description>
+                </item>
+                <item>
+                    <title>AKW063 Eine Berlinerin in Sydney</title>
+                    <link>http://abendsinderkreativwirtschaft.de/akw063-eine-berlinerin-in-sydney/</link>
+                    <pubDate>Mon, 31 Mar 2014 08:45:58 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-30t22:48:27+00:00-3422e9d39e90ff6</guid>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://abendsinderkreativwirtschaft.de/akw063-eine-berlinerin-in-sydney/#"/>
+                    <enclosure url="http://abendsinderkreativwirtschaft.de/podcast/akw/AKW063.mp3" length="24577035" type="audio/mpeg"/>
+                    <itunes:duration>00:28:55</itunes:duration>
+                    <itunes:author>Jan Jursa</itunes:author>
+                    <itunes:subtitle>Auslandserfahrung. Arbeiten in Australien.</itunes:subtitle>
+                    <itunes:summary>AKW063 Eine Berlinerin in Sydney - Ich spreche mit Stefanie Elsholz, Mobile UX Designerin bei TUI, über Arbeiten im Ausland, Wohnungssuche in Sydney und das Leben in Australien.</itunes:summary>
+                    <description>AKW063 Eine Berlinerin in Sydney - Ich spreche mit Stefanie Elsholz, Mobile UX Designerin bei TUI, über Arbeiten im Ausland, Wohnungssuche in Sydney und das Leben in Australien.</description>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

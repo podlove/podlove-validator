@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:13 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:13 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=p1wgftoc3y0s0yikgt1px3rh; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:13 GMT"/>
+        <httpclient:header name="Content-Length" value="37557"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/3783</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/3783" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:13 GMT</lastBuildDate>
+                <image>
+                    <title>Nyheter från Stockholm</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=103</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/103/2949589_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Nyheter från Stockholm</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Nyheter från Stockholm</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Nyheter från Stockholm</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=103</link>
+                <description>Nyheter från Stockholm</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Stockholmsnytt 20140820 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049142.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140820_0730.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140820,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049142.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140819 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048669.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140819_1630.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140819,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048669.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140819 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047786.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140819_0730.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140819,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047786.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140818 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047319.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140818_1630.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140818,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047319.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140818 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046477.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140818_0730.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140818,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046477.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140817 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045944.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140817_0930.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140817,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045944.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140816 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045486.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140816_0930.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140816,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045486.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140815 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045172.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140815_1630.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140815,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045172.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140815 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044319.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140815_0730.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140815,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044319.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140814 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043884.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140814_1630.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140814,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043884.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140814 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043055.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140814_0730.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140814,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043055.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140813 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042648.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140813_1630.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140813,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042648.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140813 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041795.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140813_0730.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140813,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041795.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140812 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041371.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140812_1630.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140812,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041371.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140812 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040586.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140812_0730.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140812,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040586.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140811 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040146.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140811_1630.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140811,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040146.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140811 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039364.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140811_0730.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140811,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039364.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140810 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038892.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140810_0930.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140810,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038892.mp3" length="2882336" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140809 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038474.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140809_0930.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140809,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038474.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140808 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038116.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140808_1630.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140808,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038116.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140808 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037301.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140808_0730.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140808,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037301.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140807 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036858.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140807_1630.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140807,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036858.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140807 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036042.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140807_0730.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140807,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036042.mp3" length="4802441" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140806 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035632.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140806_1630.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140806,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035632.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140806 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034815.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140806_0730.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140806,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034815.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140805 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034388.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140805_1630.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140805,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034388.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140805 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033608.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140805_0730.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140805,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033608.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140804 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033190.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140804_1630.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140804,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033190.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140804 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032446.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140804_0730.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140804,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032446.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140803 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031982.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140803_0930.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140803,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031982.mp3" length="3173423" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140802 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031547.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140802_0930.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140802,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031547.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140801 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031175.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140801_1630.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140801,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031175.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140801 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030409.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140801_0730.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140801,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030409.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140731 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029989.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140731_1630.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140731,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029989.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140731 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029224.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140731_0730.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140731,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029224.mp3" length="4802441" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140730 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028760.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140730_1630.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140730,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028760.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140730 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027950.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140730_0730.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140730,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027950.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140729 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027543.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140729_1630.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140729,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027543.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140729 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026783.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140729_0730.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140729,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026783.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140728 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026355.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140728_1630.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140728,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026355.mp3" length="5078063" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140728 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025575.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140728_0730.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140728,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025575.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140727 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025090.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140727_0930.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140727,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025090.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140726 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024687.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140726_0930.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 07:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140726,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024687.mp3" length="3174259" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140725 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024298.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140725_1630.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140725,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024298.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140725 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023485.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140725_0730.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140725,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023485.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140724 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023071.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140724_1630.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140724,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023071.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140724 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022256.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140724_0730.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140724,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022256.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140723 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021841.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140723_1630.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140723,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021841.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140723 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021053.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140723_0730.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140723,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021053.mp3" length="4802441" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140722 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020629.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140722_1630.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140722,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020629.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140722 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019926.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140722_0730.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140722,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019926.mp3" length="5094364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Stockholmsnytt 20140721 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019516.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/stockholmsnytt_20140721_1630.mp3</guid>
+                    <pubDate>Mon, 21 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>103</programid>
+                    <poddid>3783</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,StockholmStockholmsnytt,20140721,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019516.mp3" length="4802441" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

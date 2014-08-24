@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="404">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:33:04 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.15 (CentOS)"/>
+        <httpclient:header name="Content-Length" value="299"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="text/html; charset=iso-8859-1"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/html; charset=iso-8859-1" type="xhtml">
+        <html>
+            <head>
+                <title>404 Not Found</title>
+            </head>
+            <body>
+                <h1>Not Found</h1>
+                <p>The requested URL /feed/ac/ was not found on this server.</p>
+                <hr/>
+                <address>Apache/2.2.15 (CentOS) Server at anekdot.crater.uberspace.de Port 80</address>
+            </body>
+        </html>
+    </httpclient:body>
+</httpclient:response>

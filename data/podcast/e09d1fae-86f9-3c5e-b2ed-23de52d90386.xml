@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine2.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Sat, 16 Aug 2014 17:26:59 GMT"/>
+        <httpclient:header name="Content-Length" value="9975"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:38:07 GMT"/>
+        <httpclient:header name="X-Varnish" value="3094079906 3061998100"/>
+        <httpclient:header name="Age" value="317022"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://alchemy01.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+                <title>Alchemy Podcast</title>
+                <pubDate>Sat, 02 Aug 2014 14:58:22 +0000</pubDate>
+                <lastBuildDate>Sat, 16 Aug 2014 17:26:59 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://alchemy.libsyn.com</link>
+                <language>en</language>
+                <copyright>2014</copyright>
+                <docs>http://alchemy.libsyn.com</docs>
+                <description>Alchemy Podcast, monthly radio show by Mauro Picotto.</description>
+                <image>
+                    <url>http://assets.libsyn.com/content/7466473.jpg</url>
+                    <title>Alchemy Podcast</title>
+                    <link>http://alchemy.libsyn.com</link>
+                </image>
+                <itunes:author>Mauro Picotto</itunes:author>
+                <itunes:keywords>alchemy,edm,mauro,music,picotto,techno</itunes:keywords>
+                <itunes:category text="Music"/>
+                <itunes:image href="http://assets.libsyn.com/content/7466473.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Mauro Picotto</itunes:name>
+                    <itunes:email>mauro@mauropicotto.dj</itunes:email>
+                </itunes:owner>
+                <itunes:summary>Alchemy Podcast, monthly radio show by Mauro Picotto.</itunes:summary>
+                <itunes:subtitle/>
+                <item>
+                    <title>006 - Alchemy Podcast</title>
+                    <pubDate>Sat, 02 Aug 2014 14:58:22 +0000</pubDate>
+                    <guid isPermaLink="false">c231a27a21a58810f66e2ef98675db55</guid>
+                    <link>http://alchemy01.libsyn.com/006-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7466469"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 6&lt;/p&gt;
+&lt;p&gt;The Advent guestmix&lt;/p&gt;</description>
+                    <enclosure length="58977353" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Presents_Alchemy_Podcast_Episode_6_-_The_Advent.m4a"/>
+                    <itunes:duration>01:00:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 6
+The Advent guestmix</itunes:subtitle>
+                </item>
+                <item>
+                    <title>005 - Alchemy Podcast</title>
+                    <pubDate>Thu, 03 Jul 2014 09:43:00 +0000</pubDate>
+                    <guid isPermaLink="false">d59ef10266369d90543bf5e784b77234</guid>
+                    <link>http://alchemy01.libsyn.com/005-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7347759"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 5&lt;/p&gt;
+&lt;p&gt;01) Alchemy - Intro&lt;/p&gt;
+&lt;p&gt;02) Alchemy - Promo&lt;/p&gt;
+&lt;p&gt;03) Sawlin &amp;amp; Subjected - Texture 1.1&lt;/p&gt;
+&lt;p&gt;04) Alchemy - Promo&lt;/p&gt;
+&lt;p&gt;05) The Organ Grinder &amp;amp; le Horn - Spanner in the Works&lt;/p&gt;
+&lt;p&gt;06) Alchemy - Promo&lt;/p&gt;
+&lt;p&gt;07) Mauro Picotto &amp;amp; Riccardo Ferri - From Heart to Techno&lt;/p&gt;
+&lt;p&gt;08) Tomy DeClerque - Do You...&lt;/p&gt;
+&lt;p&gt;09) Alchemy - promo&lt;/p&gt;
+&lt;p&gt;10) Roger Martinez - Altijd Her En Nu&lt;/p&gt;
+&lt;p&gt;11) Matteo Gatti &amp;amp; Riccardo Ferri - Promo&lt;/p&gt;
+&lt;p&gt;12) Benjamin Damage - Acid Bath&lt;/p&gt;
+&lt;p&gt;13) Igor Vicente - Mystericordia - Ryan Crosson rmx&lt;/p&gt;</description>
+                    <enclosure length="58827710" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Alchemy_Podcast_Episode_5.m4a"/>
+                    <itunes:duration>01:00:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 5
+01) Alchemy - Intro
+02) Alchemy - Promo
+03) Sawlin &amp;amp; Subjected - Texture 1.1
+04) Alchemy - Promo
+05) The Organ Grinder &amp;amp; le Horn - Spanner in the Works
+06) Alchemy - Promo
+07) Mauro Picotto &amp;amp;...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>004 - Alchemy Podcast</title>
+                    <pubDate>Wed, 04 Jun 2014 08:09:38 +0000</pubDate>
+                    <guid isPermaLink="false">0e80365ef72392e1ba4ae83652b2076c</guid>
+                    <link>http://alchemy01.libsyn.com/004-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7247685"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 4&lt;/p&gt;
+&lt;p&gt;Yousef guestmix&lt;/p&gt;</description>
+                    <enclosure length="58612047" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Alchemy_Podcast_Episode_4.m4a"/>
+                    <itunes:duration>01:00:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 4
+Yousef guestmix</itunes:subtitle>
+                </item>
+                <item>
+                    <title>003 - Alchemy Podcast</title>
+                    <pubDate>Thu, 01 May 2014 19:13:52 +0000</pubDate>
+                    <guid isPermaLink="false">8bfe3a4990e3497c334d4ebcce5e038f</guid>
+                    <link>http://alchemy01.libsyn.com/003-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7134811"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 3&lt;/p&gt;
+&lt;p&gt;01) Alchemy Intro&lt;/p&gt;
+&lt;p&gt;02) Mauro Picotto presents Adam B - Illusion&lt;/p&gt;
+&lt;p&gt;03) Dosem - Message&lt;/p&gt;
+&lt;p&gt;04) Alchemy - Promo&lt;/p&gt;
+&lt;p&gt;05) Maceo Plex - Conjure Balearia&lt;/p&gt;
+&lt;p&gt;06) Jason Fernandez - Dutch Courage&lt;/p&gt;
+&lt;p&gt;07) 04 LM - M Place - James Ruskin rmx&lt;/p&gt;
+&lt;p&gt;08) Hans Bouffmyhre - Bring it Back - Oscar Mulero rmx&lt;/p&gt;
+&lt;p&gt;09) Alchemy - Promo&lt;/p&gt;
+&lt;p&gt;10) Matteo Gatti &amp;amp; Riccardo Ferri - Alchemy Promo&lt;/p&gt;
+&lt;p&gt;11) Answer Code Request - The 4th Verdict&lt;/p&gt;
+&lt;p&gt;12) Kyle Geiger - Fortify&lt;/p&gt;
+&lt;p&gt;13) Adriana Lopez - Indicie&lt;/p&gt;
+&lt;p&gt;14) Subjected - Nastes&lt;/p&gt;
+&lt;p&gt;15) David August - Epikur&lt;/p&gt;
+&lt;p&gt;16) Mauro Picotto &amp;amp; Riccardo Ferri - My Friend Tesla&lt;/p&gt;
+&lt;p&gt;17) Dubspeeka - Usk&lt;/p&gt;
+&lt;p&gt;18) Alchemy - Promo&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;</description>
+                    <enclosure length="59268492" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Alchemy_Podcast_Episode_3.m4a"/>
+                    <itunes:duration>01:00:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 3
+01) Alchemy Intro
+02) Mauro Picotto presents Adam B - Illusion
+03) Dosem - Message
+04) Alchemy - Promo
+05) Maceo Plex - Conjure Balearia
+06) Jason Fernandez - Dutch Courage
+07) 04 LM - M Place - James Ruskin...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>002 - Alchemy Podcast</title>
+                    <pubDate>Wed, 02 Apr 2014 16:57:00 +0000</pubDate>
+                    <guid isPermaLink="false">098704c140a5db85f19fbf84656a9817</guid>
+                    <link>http://alchemy01.libsyn.com/002-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7035819"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 2&lt;/p&gt;
+&lt;p&gt;1 - Gabry Fasano &amp;amp; Riccardo Ferri - Snare City&lt;/p&gt;
+&lt;p&gt;2 - Mauro Picotto &amp;amp; Riccardo Ferri - The Riff&lt;/p&gt;
+&lt;p&gt;3 - Mladen Tomic - Tolerance (Mauro Picotto &amp;amp; Riccardo Ferri remix)&lt;/p&gt;
+&lt;p&gt;4 - Jewel Kid - Kukz (Mauro Picotto &amp;amp; Riccardo Ferri Remix)&lt;/p&gt;
+&lt;p&gt;5 - Mauro Picotto &amp;amp; Riccardo Ferri - World Tour&lt;/p&gt;
+&lt;p&gt;6 - Matteo Gatti &amp;amp; Riccardo Ferri - Promo Untitled&lt;/p&gt;
+&lt;p&gt;7 - Luigi Madonna - Loverdose (Mauro Picotto &amp;amp; Riccardo Ferri Remix)&lt;/p&gt;
+&lt;p&gt;8 - Mauro Picotto &amp;amp; Riccardo Ferri - My Friend Tesla&lt;/p&gt;
+&lt;p&gt;9 - Mennie - Ashtray (Bespoke Live Mix)&lt;/p&gt;
+&lt;p&gt;10 - Mauro Picotto &amp;amp; Riccardo Ferri - Tuttomelo&lt;/p&gt;
+&lt;p&gt;11 - Mauro Picotto &amp;amp; Riccardo Ferri - EMP&lt;/p&gt;</description>
+                    <enclosure length="58673867" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Alchemy_Podcast_Episode_2_-_Riccardo_Ferri_Live.m4a"/>
+                    <itunes:duration>01:00:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 2
+1 - Gabry Fasano &amp;amp; Riccardo Ferri - Snare City
+2 - Mauro Picotto &amp;amp; Riccardo Ferri - The Riff
+3 - Mladen Tomic - Tolerance (Mauro Picotto &amp;amp; Riccardo Ferri remix)
+4 - Jewel Kid - Kukz (Mauro Picotto...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>001 - Alchemy Podcast</title>
+                    <pubDate>Sun, 02 Mar 2014 19:08:00 +0000</pubDate>
+                    <guid isPermaLink="false">e9bd74d7fb25762f815ffc4ca556c027</guid>
+                    <link>http://alchemy01.libsyn.com/001-alchemy-podcast</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7035824"/>
+                    <description>&lt;p&gt;Mauro Picotto - Alchemy Podcast Episode 1&lt;/p&gt;
+&lt;p&gt;01) Alchemy intro&lt;/p&gt;
+&lt;p&gt;02) Village - Promo&lt;/p&gt;
+&lt;p&gt;03) Bad Kingdom - Moderat - Marcel Dettmann rmx&lt;/p&gt;
+&lt;p&gt;04) Mystic - Promo&lt;/p&gt;
+&lt;p&gt;05) Bipolar - Truncate&lt;/p&gt;
+&lt;p&gt;06) Marble - Roberto Clementi&lt;/p&gt;
+&lt;p&gt;07) World Tour - Promo&lt;/p&gt;
+&lt;p&gt;08) Speaker Attack - Alexander Kowalski - Cristian Smith rmx&lt;/p&gt;
+&lt;p&gt;09) Illusion - Picotto presents Adam - Alex Costa rmx&lt;/p&gt;
+&lt;p&gt;10) Feel On You - Andrea Oliva &amp;amp; Dj Le Roi&lt;/p&gt;
+&lt;p&gt;11) She can Reach - Wollion &amp;amp; Harada - Marc Miroir rmx&lt;/p&gt;
+&lt;p&gt;12) Sonora - Bollen &amp;amp; Fichtner&lt;/p&gt;
+&lt;p&gt;13) Give Yourself - Jay Lumen &amp;amp; Sasha Carassi&lt;/p&gt;
+&lt;p&gt;14) Smoke Signal - Woo York&lt;/p&gt;
+&lt;p&gt;15) My Friend Tesla - Promo&lt;/p&gt;
+&lt;p&gt;16) Insatiable Hunger - Dustin Zahn&lt;/p&gt;
+&lt;p&gt;17) Interrupter - Locomatica&lt;/p&gt;
+&lt;p&gt;18) EMP - Mauro Picotto &amp;amp; Riccardo Ferri - Popof rmx&lt;/p&gt;
+&lt;div&gt;&lt;/div&gt;</description>
+                    <enclosure length="119928503" type="audio/x-m4a" url="http://traffic.libsyn.com/alchemy01/Mauro_Picotto_Alchemy_Podcast_Episode_1.m4a"/>
+                    <itunes:duration>01:00:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>Mauro Picotto - Alchemy Podcast Episode 1
+01) Alchemy intro
+02) Village - Promo
+03) Bad Kingdom - Moderat - Marcel Dettmann rmx
+04) Mystic - Promo
+05) Bipolar - Truncate
+06) Marble - Roberto Clementi
+07) World Tour - Promo
+08) Speaker Attack -...</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="404">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:38:56 GMT"/>
+        <httpclient:header name="X-ServedBy" value="ny1-prod6-web008"/>
+        <httpclient:header name="Set-Cookie" value="JSESSIONID=e77sruiyaz5g907ur23g319p;Path=/"/>
+        <httpclient:header name="Expires" value="Thu, 01 Jan 1970 00:00:00 GMT"/>
+        <httpclient:header name="Set-Cookie" value="crumb=f1be7bff65;Path=/"/>
+        <httpclient:header name="Set-Cookie" value="SS_MID=311ef7ad-0f6c-47f3-9403-c141a5649755hz2gxeoa;Path=/;Domain=.squarespace.com;Expires=Sat, 17-Aug-2024 09:38:56 GMT"/>
+        <httpclient:header name="Content-Type" value="text/html; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="X-ContextId" value="dIPxRhrZ/JtLfCLGx"/>
+        <httpclient:header name="X-Via" value="1.1 nyc-echo09.int.peer1.squarespace.net"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/html; charset=UTF-8" type="xhtml">
+        <html>
+            <head>
+                <title>Squarespace - Website Expired</title>
+                <meta http-equiv="X-UA-Compatible" content="chrome=1"/>
+                <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/common-8a251718e0ad225bbe24cd7667d81e23-min.js"/>
+                <link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/common-f107a64a3ca6334e98c18f50eb19b14e-min.css"/>
+                <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/dialog-361ce3c7c7851c413781e9b794f85495-min.js"/>
+                <link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/dialog-5f7c4f8f8f11de4059458b66d4dfe789-min.css"/>
+                <script type="text/javascript" src="//static.squarespace.com/universal/scripts-compressed/system-page-b59ae7aa80fe2a4c654188f88c0b3403-min.js"/>
+                <link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/system-page-4f15a7d7a36f1f715f357af6cc03af12-min.css"/>
+                <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on("domready", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '&lt;div class="bigtext"&gt;&lt;div class="title"&gt;Website Expired&lt;/div&gt;&lt;div class="description"&gt;This account has expired.  If you are the site owner, click below to login.&lt;/div&gt;&lt;div class="buttons"&gt;&lt;input type="button" class="login-button" name="login" value="Owner Login"/&gt;&lt;/div&gt;&lt;/div&gt;',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on("click", function(e) {
+          if (e.target.ancestor(".login-button", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script>
+            </head>
+            <body class="squarespace-config squarespace-system-page">
+                <div class="minimal-logo">&#160;</div>
+            </body>
+        </html>
+    </httpclient:body>
+</httpclient:response>

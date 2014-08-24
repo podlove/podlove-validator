@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:30:17 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Last-Modified" value="Mon, 18 Aug 2014 03:00:59 GMT"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Length" value="161486"/>
+        <httpclient:header name="Content-Type" value="application/xml"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>A Jesus Church Video Podcast</title>
+                <link>http://www.ajesuschurch.org/teachings/sunday-teachings</link>
+                <language>en-us</language>
+                <copyright>℗ &amp; © 2010 A Jesus Church</copyright>
+                <itunes:subtitle>Video teachings from the word of God</itunes:subtitle>
+                <itunes:author>A Jesus Church</itunes:author>
+                <itunes:summary>We are A Jesus Church. We are a family of churches living out the gospel. We gathering every weekend and then scattering all over the Portland area in missional communities, to love, serve, and share the gospel with our city.</itunes:summary>
+                <description>We are A Jesus Church. We are a family of churches living out the gospel. We gathering every weekend and then scattering all over the Portland area in missional communities, to love, serve, and share the gospel with our city.</description>
+                <itunes:owner>
+                    <itunes:name>A Jesus Church</itunes:name>
+                    <itunes:email>info@ajesuschurch.org</itunes:email>
+                </itunes:owner>
+        <!-- SRF podcast ID: 84246334 -->
+        <!-- iTunes prefers square images 300x300 pixels or larger -->
+        <!--<itunes:image href="http://www.srfchurch.org/teachings/images/srf_800.jpg"/>-->
+                <image>
+                    <url>http://ajesuschurch.org/images/itunes-videopodcast.jpg</url>
+                    <title>A Jesus Church</title>
+                    <link>http://www.ajesuschurch.org/</link>
+                </image>
+        <!-- iTunes Browse Podcasts Category -->
+                <itunes:category text="Religion &amp; Spirituality">
+            <!-- iTunes Browse Podcasts Subcategory -->
+                    <itunes:category text="Christianity"/>
+                </itunes:category>
+        <!-- Start Sermon Information -->
+                <item>
+                    <title>The Gospel of Mark / The crucified God</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Mark 15v33-39</itunes:subtitle>
+                    <itunes:summary>Mark 15v33-39</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-17-2014.mp4" length="452878494" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-17-2014.mp4</guid>
+                    <pubDate>Sun, 17 Aug 2014 10:00:11 -0700</pubDate>
+                    <itunes:duration>00:45:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 15v33-39</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / His cross, our shame</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Mark 15v15-32</itunes:subtitle>
+                    <itunes:summary>Mark 15v15-32</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-10-2014.mp4" length="444869483" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-10-2014.mp4</guid>
+                    <pubDate>Sun, 10 Aug 2014 12:00:01 -0700</pubDate>
+                    <itunes:duration>00:44:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 15v15-32</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Give me barabbas</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Mark 15v1-15</itunes:subtitle>
+                    <itunes:summary>Mark 15v1-15</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-03-2014.mp4" length="431004207" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-03-2014.mp4</guid>
+                    <pubDate>Sun, 03 Aug 2014 12:00:22 -0700</pubDate>
+                    <itunes:duration>00:43:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 15v1-15</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The judge who was judged</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 14v53-72</itunes:subtitle>
+                    <itunes:summary>Mark 14v53-72</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-27-2014.mp4" length="456284502" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-27-2014.mp4</guid>
+                    <pubDate>Sun, 27 Jul 2014 10:00:14 -0700</pubDate>
+                    <itunes:duration>00:45:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v53-72</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Swords and clubs</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 14v43-52</itunes:subtitle>
+                    <itunes:summary>Mark 14v43-52</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-20-2014.mp4" length="472929697" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-20-2014.mp4</guid>
+                    <pubDate>Sun, 20 Jul 2014 10:00:15 -0700</pubDate>
+                    <itunes:duration>00:47:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v43-52</description>
+                </item>
+                <item>
+                    <title>A new song</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Psalm 40</itunes:subtitle>
+                    <itunes:summary>Psalm 40</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-13-2014.mp4" length="453071277" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-13-2014.mp4</guid>
+                    <pubDate>Sun, 13 Jul 2014 10:00:47 -0700</pubDate>
+                    <itunes:duration>00:45:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 40</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Gethsemane</title>
+                    <author>Carl Palmer</author>
+                    <itunes:subtitle>Mark 14v32-42</itunes:subtitle>
+                    <itunes:summary>Mark 14v32-42</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-06-2014.mp4" length="426393837" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-06-2014.mp4</guid>
+                    <pubDate>Sun, 06 Jul 2014 10:00:53 -0700</pubDate>
+                    <itunes:duration>00:42:31</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v32-42</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The end of shame</title>
+                    <author>Bryan Fowler</author>
+                    <itunes:subtitle>Mark 14v27-31</itunes:subtitle>
+                    <itunes:summary>Mark 14v27-31</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-29-2014.mp4" length="381487490" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-29-2014.mp4</guid>
+                    <pubDate>Sun, 29 Jun 2014 12:00:46 -0700</pubDate>
+                    <itunes:duration>00:38:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v27-31</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The table</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 14v12-26</itunes:subtitle>
+                    <itunes:summary>Mark 14v12-26</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-22-2014.mp4" length="421370998" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-22-2014.mp4</guid>
+                    <pubDate>Sun, 22 Jun 2014 10:00:17 -0700</pubDate>
+                    <itunes:duration>00:41:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v12-26</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / I am Judas</title>
+                    <author>Evan Wickham</author>
+                    <itunes:subtitle>Mark 14v1-11</itunes:subtitle>
+                    <itunes:summary>Mark 14v1-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-15-2014.mp4" length="438928600" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-15-2014.mp4</guid>
+                    <pubDate>Sun, 15 Jun 2014 10:00:51 -0700</pubDate>
+                    <itunes:duration>00:43:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 14v1-11</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Future Living</title>
+                    <author>Gerry Breshears &amp;amp; Ian Nelson</author>
+                    <itunes:subtitle>Mark 13</itunes:subtitle>
+                    <itunes:summary>Mark 13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-08-2014.mp4" length="459494352" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-08-2014.mp4</guid>
+                    <pubDate>Sun, 08 Jun 2014 20:36:21 -0700</pubDate>
+                    <itunes:duration>00:45:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 13</description>
+                </item>
+                <item>
+                    <title>Into the deep</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Luke 5v1-11</itunes:subtitle>
+                    <itunes:summary>Luke 5v1-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-01-2014.mp4" length="427577179" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-01-2014.mp4</guid>
+                    <pubDate>Sun, 01 Jun 2014 12:00:13 -0700</pubDate>
+                    <itunes:duration>00:42:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 5v1-11</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Bios</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 12v35-44</itunes:subtitle>
+                    <itunes:summary>Mark 12v35-44</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-25-2014.mp4" length="314886526" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-25-2014.mp4</guid>
+                    <pubDate>Sun, 25 May 2014 10:00:06 -0700</pubDate>
+                    <itunes:duration>00:31:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 12v35-44</description>
+                </item>
+                <item>
+                    <title>The call of together</title>
+                    <author>Todd Proctor</author>
+                    <itunes:subtitle>Psalm 34</itunes:subtitle>
+                    <itunes:summary>Psalm 34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-18-2014.mp4" length="333527973" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-18-2014.mp4</guid>
+                    <pubDate>Sun, 18 May 2014 12:00:51 -0700</pubDate>
+                    <itunes:duration>00:33:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 34</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Standing on one foot</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 12v28-34</itunes:subtitle>
+                    <itunes:summary>Mark 12v28-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-11-2014.mp4" length="402199933" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-11-2014.mp4</guid>
+                    <pubDate>Sun, 11 May 2014 10:00:19 -0700</pubDate>
+                    <itunes:duration>00:40:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 12v28-34</description>
+                </item>
+                <item>
+                    <title>Live a life worthy</title>
+                    <author>Mike Erre</author>
+                    <itunes:subtitle>Ephesians 4v1</itunes:subtitle>
+                    <itunes:summary>Ephesians 4v1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-04-2014.mp4" length="411078147" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-04-2014.mp4</guid>
+                    <pubDate>Sun, 04 May 2014 10:00:41 -0700</pubDate>
+                    <itunes:duration>00:41:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Ephesians 4v1</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / God of the living</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 12v18-27</itunes:subtitle>
+                    <itunes:summary>Mark 12v18-27</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-27-2014.mp4" length="432904341" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-27-2014.mp4</guid>
+                    <pubDate>Sun, 27 Apr 2014 08:00:28 -0700</pubDate>
+                    <itunes:duration>00:43:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 12v18-27</description>
+                </item>
+                <item>
+                    <title>The defeat of death</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 15</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 15</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-20-2014.mp4" length="364745226" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-20-2014.mp4</guid>
+                    <pubDate>Sun, 20 Apr 2014 10:00:03 -0700</pubDate>
+                    <itunes:duration>00:36:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 15</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / I pledge allegiance to the...</title>
+                    <author>Evan Wickham</author>
+                    <itunes:subtitle>Mark 12v13-17</itunes:subtitle>
+                    <itunes:summary>Mark 12v13-17</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-13-2014.mp4" length="438684799" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-13-2014.mp4</guid>
+                    <pubDate>Sun, 13 Apr 2014 10:00:47 -0700</pubDate>
+                    <itunes:duration>00:43:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 12v13-17</description>
+                </item>
+                <item>
+                    <title>Loveology / Q&amp;A</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/04-09-2014.mp4" length="776634612" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-09-2014.mp4</guid>
+                    <pubDate>Wed, 09 Apr 2014 13:34:01 -0700</pubDate>
+                    <itunes:duration>01:21:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>Loveology / Sex Part II</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/04-09-2014.mp4" length="320570221" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-09-2014.mp4</guid>
+                    <pubDate>Wed, 09 Apr 2014 13:20:21 -0700</pubDate>
+                    <itunes:duration>00:31:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>Loveology / Sex Part I</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/04-09-2014.mp4" length="347551220" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-09-2014.mp4</guid>
+                    <pubDate>Wed, 09 Apr 2014 13:11:54 -0700</pubDate>
+                    <itunes:duration>00:34:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Nietzsche and the owners son</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Mark 11v27-12v12</itunes:subtitle>
+                    <itunes:summary>Mark 11v27-12v12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-06-2014.mp4" length="424024063" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-06-2014.mp4</guid>
+                    <pubDate>Sun, 06 Apr 2014 10:00:09 -0700</pubDate>
+                    <itunes:duration>00:42:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 11v27-12v12</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Jesus and the temple</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 11v12-25</itunes:subtitle>
+                    <itunes:summary>Mark 11v12-25</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-30-2014.mp4" length="450017764" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-30-2014.mp4</guid>
+                    <pubDate>Sun, 30 Mar 2014 10:00:26 -0700</pubDate>
+                    <itunes:duration>00:44:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 11v12-25</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The way</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 10v46-11v11</itunes:subtitle>
+                    <itunes:summary>Mark 10v46-11v11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-23-2014.mp4" length="390681342" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-23-2014.mp4</guid>
+                    <pubDate>Sun, 23 Mar 2014 10:00:00 -0700</pubDate>
+                    <itunes:duration>00:38:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v46-11v11</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Not so with you</title>
+                    <author>Carl Palmer</author>
+                    <itunes:subtitle>Mark 10v32-45</itunes:subtitle>
+                    <itunes:summary>Mark 10v32-45</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-16-2014.mp4" length="465265087" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-16-2014.mp4</guid>
+                    <pubDate>Sun, 16 Mar 2014 10:00:30 -0700</pubDate>
+                    <itunes:duration>00:46:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v32-45</description>
+                </item>
+                <item>
+                    <title>Loveology / Identity</title>
+                    <author>Dave Lomas</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-16-2014.mp4" length="318197442" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-16-2014.mp4</guid>
+                    <pubDate>Sun, 24 Feb 2014 08:00:18 -0800</pubDate>
+                    <itunes:duration>00:32:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Eye of a needle</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 10v17-31</itunes:subtitle>
+                    <itunes:summary>Mark 10v17-31</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-09-2014.mp4" length="417301368" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-09-2014.mp4</guid>
+                    <pubDate>Sun, 09 Mar 2014 12:00:03 -0700</pubDate>
+                    <itunes:duration>00:41:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v17-31</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Like a little child</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 10v13-16</itunes:subtitle>
+                    <itunes:summary>Mark 10v13-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-02-2014.mp4" length="383521487" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-02-2014.mp4</guid>
+                    <pubDate>Sun, 02 Mar 2014 10:00:25 -0800</pubDate>
+                    <itunes:duration>00:38:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v13-16</description>
+                </item>
+                <item>
+                    <title>Loveology / Family</title>
+                    <author>Dr. Emerson Eggerichs</author>
+                    <itunes:subtitle>Exodus 20v12; Titus 2v4</itunes:subtitle>
+                    <itunes:summary>Exodus 20v12; Titus 2v4</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-23-2014.mp4" length="522210226" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-23-2014.mp4</guid>
+                    <pubDate>Sun, 23 Feb 2014 10:00:16 -0800</pubDate>
+                    <itunes:duration>00:52:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 20v12; Titus 2v4</description>
+                </item>
+                <item>
+                    <title>Loveology / Marriage</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Genesis 2v5-7,15-25</itunes:subtitle>
+                    <itunes:summary>Genesis 2v5-7,15-25</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-02-2014.mp4" length="484605467" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-02-2014.mp4</guid>
+                    <pubDate>Sun, 02 Feb 2014 12:00:46 -0800</pubDate>
+                    <itunes:duration>00:42:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 2v5-7,15-25</description>
+                </item>
+                <item>
+                    <title>Loveology / Divorce</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 10v1-12</itunes:subtitle>
+                    <itunes:summary>Mark 10v1-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-27-2014.mp4" length="484605467" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-27-2014.mp4</guid>
+                    <pubDate>Mon, 27 Jan 2014 13:56:21 -0800</pubDate>
+                    <itunes:duration>00:47:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v1-12</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Be at peace with each other</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 9v42-50</itunes:subtitle>
+                    <itunes:summary>Mark 9v42-50</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-19-2014.mp4" length="428304934" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-19-2014.mp4</guid>
+                    <pubDate>Sun, 19 Jan 2014 10:00:17 -0800</pubDate>
+                    <itunes:duration>00:42:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 9v42-50</description>
+                </item>
+                <item>
+                    <title>Presence</title>
+                    <author>Jonny Hughes</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-12-2014.mp4" length="395427570" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-12-2014.mp4</guid>
+                    <pubDate>Sun, 12 Jan 2014 10:00:27 -0800</pubDate>
+                    <itunes:duration>00:39:23</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / One glass of water at a time</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 9v30-41</itunes:subtitle>
+                    <itunes:summary>Mark 9v30-41</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-05-2014.mp4" length="404248562" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-05-2014.mp4</guid>
+                    <pubDate>Sun, 05 Jan 2014 12:00:43 -0800</pubDate>
+                    <itunes:duration>00:40:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 9v30-41</description>
+                </item>
+                <item>
+                    <title>Three things to remember in 2014</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Thessalonians 1v1-4</itunes:subtitle>
+                    <itunes:summary>1 Thessalonians 1v1-4</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-29-2013.mp4" length="435216007" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-29-2013.mp4</guid>
+                    <pubDate>Sun, 29 Dec 2013 10:00:16 -0800</pubDate>
+                    <itunes:duration>00:43:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Thessalonians 1v1-4</description>
+                </item>
+                <item>
+                    <title>With</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 1v18-25</itunes:subtitle>
+                    <itunes:summary>Matthew 1v18-25</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-23-2013.mp4" length="419940796" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-23-2013.mp4</guid>
+                    <pubDate>Mon, 23 Dec 2013 15:56:24 -0800</pubDate>
+                    <itunes:duration>00:41:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 1v18-25</description>
+                </item>
+                <item>
+                    <title>Our Amazing Father</title>
+                    <author>Mark Strong</author>
+                    <itunes:subtitle>Matthew 6v5-15</itunes:subtitle>
+                    <itunes:summary>Matthew 6v5-15</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-15-2013.mp4" length="421818170" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-15-2013.mp4</guid>
+                    <pubDate>Sun, 15 Dec 2013 08:00:21 -0800</pubDate>
+                    <itunes:duration>00:42:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 6v5-15</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Down the mountain</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 9v14-29</itunes:subtitle>
+                    <itunes:summary>Mark 9v14-29</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-08-2013.mp4" length="427646868" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-08-2013.mp4</guid>
+                    <pubDate>Sun, 08 Dec 2013 08:00:55 -0800</pubDate>
+                    <itunes:duration>00:42:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 9v14-29</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / A glimpse of His glory</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Mark 9v1-13</itunes:subtitle>
+                    <itunes:summary>Mark 9v1-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-01-2013.mp4" length="459181994" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-01-2013.mp4</guid>
+                    <pubDate>Sun, 01 Dec 2013 10:00:10 -0800</pubDate>
+                    <itunes:duration>00:45:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 9v1-13</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / I see people; they look like trees walking around</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 8v22-38</itunes:subtitle>
+                    <itunes:summary>Mark 8v22-38</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-24-2013.mp4" length="416003598" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-24-2013.mp4</guid>
+                    <pubDate>Sun, 24 Nov 2013 10:00:58 -0800</pubDate>
+                    <itunes:duration>00:41:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 8v22-38</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Déjà Vu</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 8v1-21</itunes:subtitle>
+                    <itunes:summary>Mark 8v1-21</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-17-2013.mp4" length="407285755" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-17-2013.mp4</guid>
+                    <pubDate>Sun, 17 Nov 2013 10:00:16 -0800</pubDate>
+                    <itunes:duration>00:40:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 8v1-21</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / He does all things wel</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Mark 7v24-37</itunes:subtitle>
+                    <itunes:summary>Mark 7v24-37</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-10-2013.mp4" length="383665376" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-10-2013.mp4</guid>
+                    <pubDate>Sun, 10 Nov 2013 10:00:07 -0800</pubDate>
+                    <itunes:duration>00:38:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 7v24-37</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Heart</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 7v1-23</itunes:subtitle>
+                    <itunes:summary>Mark 7v1-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-03-2013.mp4" length="433196977" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-03-2013.mp4</guid>
+                    <pubDate>Sun, 03 Nov 2013 08:00:37 -0800</pubDate>
+                    <itunes:duration>00:42:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 7v1-23</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 6 / Disciple </title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-27-2013.mp4" length="501603836" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-27-2013.mp4</guid>
+                    <pubDate>Sun, 27 Oct 2013 10:00:48 -0700</pubDate>
+                    <itunes:duration>00:50:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 4 / Family </title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-13-2013.mp4" length="483873618" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-13-2013.mp4</guid>
+                    <pubDate>Sun, 13 Oct 2013 10:00:42 -0700</pubDate>
+                    <itunes:duration>00:48:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 5/ Missionary</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-20-2013.mp4" length="617155744" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-20-2013.mp4</guid>
+                    <pubDate>Sun, 20 Oct 2013 12:00:47 -0700</pubDate>
+                    <itunes:duration>01:01:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 4 / Family </title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-20-2013.mp4" length="483873618" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-20-2013.mp4</guid>
+                    <pubDate>Sun, 20 Oct 2013 10:00:00 -0700</pubDate>
+                    <itunes:duration>00:48:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 3 / Praise Him everywhere, everyone </title>
+                    <author>Jeff Vanderstelt</author>
+                    <itunes:subtitle>Ephesians 1v3-23</itunes:subtitle>
+                    <itunes:summary>Ephesians 1v3-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-06-2013.mp4" length="477928308" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-06-2013.mp4</guid>
+                    <pubDate>Sun, 06 Oct 2013 08:00:11 -0700</pubDate>
+                    <itunes:duration>00:47:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Ephesians 1v3-23</description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 2 / Theography</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various </itunes:subtitle>
+                    <itunes:summary>Various </itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-29-2013.mp4" length="468471625" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-29-2013.mp4</guid>
+                    <pubDate>Sun, 29 Sep 2013 10:00:02 -0700</pubDate>
+                    <itunes:duration>00:46:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various </description>
+                </item>
+                <item>
+                    <title>Vision Series 2013 / Part 1 / Vision Day</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-22-2013.mp4" length="563390665" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-22-2013.mp4</guid>
+                    <pubDate>Sun, 22 Sep 2013 10:00:19 -0700</pubDate>
+                    <itunes:duration>00:56:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Ghost</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>mark 6v45-56</itunes:subtitle>
+                    <itunes:summary>mark 6v45-56</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-15-2013.mp4" length="430560419" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-15-2013.mp4</guid>
+                    <pubDate>Sun, 15 Sep 2013 10:00:35 -0700</pubDate>
+                    <itunes:duration>00:42:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>mark 6v45-56</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / 5000 hungry, 5000 fed</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 6v31-44</itunes:subtitle>
+                    <itunes:summary>Mark 6v31-44</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-08-2013.mp4" length="465478213" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-08-2013.mp4</guid>
+                    <pubDate>Sun, 08 Sep 2013 10:00:03 -0700</pubDate>
+                    <itunes:duration>00:46:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 6v31-44</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The sandwich</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 6v6b-30</itunes:subtitle>
+                    <itunes:summary>Mark 6v6b-30</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-01-2013.mp4" length="451391541" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-01-2013.mp4</guid>
+                    <pubDate>Sun, 01 Sep 2013 10:00:33 -0700</pubDate>
+                    <itunes:duration>00:44:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 6v6b-30</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The painful homecoming</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 6v1-6a</itunes:subtitle>
+                    <itunes:summary>Mark 6v1-6a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-25-2013.mp4" length="471950146" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-25-2013.mp4</guid>
+                    <pubDate>Sun, 25 Aug 2013 10:00:09 -0700</pubDate>
+                    <itunes:duration>00:46:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 6v1-6a</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Daughter</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 5v21-43</itunes:subtitle>
+                    <itunes:summary>Mark 5v21-43</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-18-2013.mp4" length="427872405" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-18-2013.mp4</guid>
+                    <pubDate>Sun, 18 Aug 2013 08:00:41 -0700</pubDate>
+                    <itunes:duration>00:42:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 5v21-43</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Drive the pigs into the sea</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 5v1-20</itunes:subtitle>
+                    <itunes:summary>Mark 5v1-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-11-2013.mp4" length="374402644" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-11-2013.mp4</guid>
+                    <pubDate>Sun, 11 Aug 2013 10:00:13 -0700</pubDate>
+                    <itunes:duration>00:37:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 5v1-20</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Quiet!</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 4v35-41</itunes:subtitle>
+                    <itunes:summary>Mark 4v35-41</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-05-2013.mp4" length="411441913" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-05-2013.mp4</guid>
+                    <pubDate>Mon, 05 Aug 2013 23:54:30 -0700</pubDate>
+                    <itunes:duration>00:40:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 4v35-41</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Kingdom stories</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 4v21-34</itunes:subtitle>
+                    <itunes:summary>Mark 4v21-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-28-2013.mp4" length="449461750" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-28-2013.mp4</guid>
+                    <pubDate>Sun, 28 Jul 2013 10:10:52 -0700</pubDate>
+                    <itunes:duration>00:44:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 4v21-34</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The kingdom seed</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 4v1-20</itunes:subtitle>
+                    <itunes:summary>Mark 4v1-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-21-2013.mp4" length="485549774" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-21-2013.mp4</guid>
+                    <pubDate>Sun, 21 Jul 2013 10:00:41 -0700</pubDate>
+                    <itunes:duration>00:48:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 4v1-20</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / A House Divided</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Mark 3v20-35</itunes:subtitle>
+                    <itunes:summary>Mark 3v20-35</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-14-2013.mp4" length="479346169" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-14-2013.mp4</guid>
+                    <pubDate>Sun, 14 Jul 2013 10:00:06 -0700</pubDate>
+                    <itunes:duration>00:47:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 3v20-35</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The many and the few</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Mark 3v7-19</itunes:subtitle>
+                    <itunes:summary>Mark 3v7-19</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-07-2013.mp4" length="464700851" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-07-2013.mp4</guid>
+                    <pubDate>Sun, 07 Jul 2013 08:00:36 -0700</pubDate>
+                    <itunes:duration>00:46:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 3v7-19</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The Sabbath was made for man</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 2v23-3v-6</itunes:subtitle>
+                    <itunes:summary>Mark 2v23-3v-6</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-30-2013.mp4" length="396334338" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-30-2013.mp4</guid>
+                    <pubDate>Sun, 30 Jun 2013 10:00:32 -0700</pubDate>
+                    <itunes:duration>00:39:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 2v23-3v-6</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Eating and drinking</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 2v13-22</itunes:subtitle>
+                    <itunes:summary>Mark 2v13-22</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-23-2013.mp4" length="450037088" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-23-2013.mp4</guid>
+                    <pubDate>Sun, 23 Jun 2013 12:00:08 -0700</pubDate>
+                    <itunes:duration>00:44:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 2v13-22</description>
+                </item>
+                <item>
+                    <title>Like a mother, as a father</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Thessalonians 2:7-12</itunes:subtitle>
+                    <itunes:summary>1 Thessalonians 2:7-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-16-2013.mp4" length="381438221" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-16-2013.mp4</guid>
+                    <pubDate>Sun, 16 Jun 2013 10:00:13 -0700</pubDate>
+                    <itunes:duration>00:37:53</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Thessalonians 2:7-12</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Jesus and the scribes</title>
+                    <author>Chris Wienland</author>
+                    <itunes:subtitle>Mark 2v1-12</itunes:subtitle>
+                    <itunes:summary>Mark 2v1-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-09-2013.mp4" length="439904038" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-09-2013.mp4</guid>
+                    <pubDate>Sun, 09 Jun 2013 08:00:00 -0700</pubDate>
+                    <itunes:duration>00:43:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 2v1-12</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / A day in the life of Jesus of Nazareth</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v21-45</itunes:subtitle>
+                    <itunes:summary>Mark 1v21-45</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-02-2013.mp4" length="401331146" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-02-2013.mp4</guid>
+                    <pubDate>Sun, 02 Jun 2013 12:00:31 -0700</pubDate>
+                    <itunes:duration>00:39:50</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v21-45</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Follow (Part 2)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v16-20</itunes:subtitle>
+                    <itunes:summary>Mark 1v16-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-26-2013.mp4" length="437097058" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-26-2013.mp4</guid>
+                    <pubDate>Sun, 26 May 2013 08:00:28 -0700</pubDate>
+                    <itunes:duration>00:43:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v16-20</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Follow (Part 1)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v16-20</itunes:subtitle>
+                    <itunes:summary>Mark 1v16-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-19-2013.mp4" length="324112769" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-19-2013.mp4</guid>
+                    <pubDate>Sun, 19 May 2013 10:00:39 -0700</pubDate>
+                    <itunes:duration>00:32:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v16-20</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The Kingdom (Part 2)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v14-15</itunes:subtitle>
+                    <itunes:summary>Mark 1v14-15</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-12-2013.mp4" length="409904765" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-12-2013.mp4</guid>
+                    <pubDate>Sun, 12 May 2013 10:00:45 -0700</pubDate>
+                    <itunes:duration>00:41:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v14-15</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The Kingdom (Part 1)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v14-15</itunes:subtitle>
+                    <itunes:summary>Mark 1v14-15</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-05-2013.mp4" length="451443639" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-05-2013.mp4</guid>
+                    <pubDate>Sun, 05 May 2013 10:00:15 -0700</pubDate>
+                    <itunes:duration>00:45:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v14-15</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / Spirit and wildernes</title>
+                    <author>Johnny Hughes</author>
+                    <itunes:subtitle>Mark 1v12-13</itunes:subtitle>
+                    <itunes:summary>Mark 1v12-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-28-2013.mp4" length="437834358" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-28-2013.mp4</guid>
+                    <pubDate>Sun, 28 Apr 2013 19:00:17 -0700</pubDate>
+                    <itunes:duration>00:43:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v12-13</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / In The Beloved</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Mark 1v9-11</itunes:subtitle>
+                    <itunes:summary>Mark 1v9-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-21-2013.mp4" length="408927412" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-21-2013.mp4</guid>
+                    <pubDate>Sun, 21 Apr 2013 20:42:44 -0700</pubDate>
+                    <itunes:duration>00:40:50</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v9-11</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / New exodus</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v2-8</itunes:subtitle>
+                    <itunes:summary>Mark 1v2-8</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-14-2013.mp4" length="467116631" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-14-2013.mp4</guid>
+                    <pubDate>Sun, 14 Apr 2013 12:00:36 -0700</pubDate>
+                    <itunes:duration>00:46:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v2-8</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The center of the story</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v1-16</itunes:subtitle>
+                    <itunes:summary>Mark 1v1-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-07-2013.mp4" length="426217990" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-07-2013.mp4</guid>
+                    <pubDate>Sun, 07 Apr 2013 10:00:44 -0700</pubDate>
+                    <itunes:duration>00:42:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v1-16</description>
+                </item>
+                <item>
+                    <title>The Gospel of Mark / The beginning</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 1v1</itunes:subtitle>
+                    <itunes:summary>Mark 1v1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-31-2013.mp4" length="426953525" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-31-2013.mp4</guid>
+                    <pubDate>Sun, 31 Mar 2013 10:00:13 -0700</pubDate>
+                    <itunes:duration>00:42:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 1v1</description>
+                </item>
+                <item>
+                    <title>Be who you are</title>
+                    <author>Dave Lomas</author>
+                    <itunes:subtitle>Colossians 3v1-10</itunes:subtitle>
+                    <itunes:summary>Colossians 3v1-10</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-24-2013.mp4" length="393829028" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-24-2013.mp4</guid>
+                    <pubDate>Sun, 24 Mar 2013 10:00:05 -0700</pubDate>
+                    <itunes:duration>00:39:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Colossians 3v1-10</description>
+                </item>
+                <item>
+                    <title>The Good Fight / Tactics</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Genesis 3v1-9 + 1 Peter 5v6-11</itunes:subtitle>
+                    <itunes:summary>Genesis 3v1-9 + 1 Peter 5v6-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-17-2013.mp4" length="476158235" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-17-2013.mp4</guid>
+                    <pubDate>Sun, 17 Mar 2013 10:00:16 -0700</pubDate>
+                    <itunes:duration>00:47:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 3v1-9 + 1 Peter 5v6-11</description>
+                </item>
+                <item>
+                    <title>The Good Fight / Q &amp; A</title>
+                    <author>Dr. Gerry Breshears &amp; Ian Nelson</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/03-10-2013.mp4" length="448255459" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-10-2013.mp4</guid>
+                    <pubDate>Sun, 10 Mar 2013 10:00:42 -0700</pubDate>
+                    <itunes:duration>00:44:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>The Good Fight / Open your eyes</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/03-03-2013.mp4" length="480750726" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-03-2013.mp4</guid>
+                    <pubDate>Sun, 03 Mar 2013 20:47:52 -0800</pubDate>
+                    <itunes:duration>00:48:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>God has a name / Carry the name</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-14</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-14</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-24-2013.mp4" length="473111591" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-24-2013.mp4</guid>
+                    <pubDate>Sun, 24 Feb 2013 12:00:15 -0800</pubDate>
+                    <itunes:duration>00:47:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-14</description>
+                </item>
+                <item>
+                    <title>God has a name / Forgiving wickedness, rebellion, and sin...</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-17-2013.mp4" length="452539406" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-17-2013.mp4</guid>
+                    <pubDate>Sun, 17 Feb 2013 10:00:41 -0800</pubDate>
+                    <itunes:duration>00:45:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>God has a name / Abounding in love and faithfulness</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-10-2013.mp4" length="434769536" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-10-2013.mp4</guid>
+                    <pubDate>Sun, 10 Feb 2013 12:00:27 -0800</pubDate>
+                    <itunes:duration>00:43:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>God has a name / Slow to anger</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-03-2013.mp4" length="486145825" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-03-2013.mp4</guid>
+                    <pubDate>Sun, 03 Feb 2013 12:00:33 -0800</pubDate>
+                    <itunes:duration>00:48:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>God has a name / The Name has a story</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>Exodus 32</itunes:subtitle>
+                    <itunes:summary>Exodus 32</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-27-2013.mp4" length="426764257" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-27-2013.mp4</guid>
+                    <pubDate>Sun, 27 Jan 2013 10:00:13 -0800</pubDate>
+                    <itunes:duration>00:42:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 32</description>
+                </item>
+                <item>
+                    <title>God has a name / Compassionate and gracious</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-20-2013.mp4" length="458134563" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-20-2013.mp4</guid>
+                    <pubDate>Sun, 20 Jan 2013 10:00:24 -0800</pubDate>
+                    <itunes:duration>00:45:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>God has a name / Yahweh Elohim</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-13-2013.mp4" length="499637466" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-13-2013.mp4</guid>
+                    <pubDate>Sun, 13 Jan 2013 10:00:15 -0800</pubDate>
+                    <itunes:duration>00:49:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>God has a name / Yahweh</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Exodus 34v6-7</itunes:subtitle>
+                    <itunes:summary>Exodus 34v6-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-06-2013.mp4" length="458537331" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-06-2013.mp4</guid>
+                    <pubDate>Sun, 06 Jan 2013 10:00:40 -0800</pubDate>
+                    <itunes:duration>00:45:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Exodus 34v6-7</description>
+                </item>
+                <item>
+                    <title>What's the Lord been teaching you?</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Psalm 25v4-5</itunes:subtitle>
+                    <itunes:summary>Psalm 25v4-5</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-30-2012.mp4" length="503006385" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-30-2012.mp4</guid>
+                    <pubDate>Sun, 30 Dec 2012 10:00:56 -0800</pubDate>
+                    <itunes:duration>00:50:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 25v4-5</description>
+                </item>
+                <item>
+                    <title>Peace on Earth / Moved into the neighborhood</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John</itunes:subtitle>
+                    <itunes:summary>John</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-23-2012.mp4" length="393337619" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-23-2012.mp4</guid>
+                    <pubDate>Sun, 23 Dec 2012 10:00:35 -0800</pubDate>
+                    <itunes:duration>00:39:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John</description>
+                </item>
+                <item>
+                    <title>Peace on Earth / Wanted</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/12-16-2012.mp4" length="429215251" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-16-2012.mp4</guid>
+                    <pubDate>Sun, 16 Dec 2012 12:00:08 -0800</pubDate>
+                    <itunes:duration>00:42:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>Peace on Earth / Love Does</title>
+                    <author>Bob Goff</author>
+                    <itunes:subtitle>1 John 3v16-18</itunes:subtitle>
+                    <itunes:summary>1 John 3v16-18</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-09-2012.mp4" length="432868806" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-09-2012.mp4</guid>
+                    <pubDate>Sun, 09 Dec 2012 12:00:00 -0800</pubDate>
+                    <itunes:duration>00:43:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 John 3v16-18</description>
+                </item>
+                <item>
+                    <title>Peace on Earth / Righteousness + Justice</title>
+                    <author>John Mark Comer + Gerry Breshears</author>
+                    <itunes:subtitle/>
+                    <itunes:summary/>
+                    <enclosure url="http://ajesuschurch.org/videos/11-25-2012.mp4" length="462918449" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-25-2012.mp4</guid>
+                    <pubDate>Sun, 25 Nov 2012 10:00:12 -0800</pubDate>
+                    <itunes:duration>00:45:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description/>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Portlanders</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians</itunes:subtitle>
+                    <itunes:summary>Philippians</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-18-2012.mp4" length="82766977" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-18-2012.mp4</guid>
+                    <pubDate>Sun, 18 Nov 2012 10:00:17 -0800</pubDate>
+                    <itunes:duration>00:08:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Caeser's household says hey</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Philippians 4v21-23</itunes:subtitle>
+                    <itunes:summary>Philippians 4v21-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-11-2012.mp4" length="457257850" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-11-2012.mp4</guid>
+                    <pubDate>Sun, 11 Nov 2012 10:00:05 -0800</pubDate>
+                    <itunes:duration>00:45:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v21-23</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / You're missing out on something good</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 4v14-20</itunes:subtitle>
+                    <itunes:summary>Philippians 4v14-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-04-2012.mp4" length="490701625" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-04-2012.mp4</guid>
+                    <pubDate>Sun, 04 Nov 2012 10:00:43 -0800</pubDate>
+                    <itunes:duration>00:48:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v14-20</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / The secret</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 4v10-13</itunes:subtitle>
+                    <itunes:summary>Philippians 4v10-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-28-2012.mp4" length="371377073" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-28-2012.mp4</guid>
+                    <pubDate>Sun, 28 Oct 2012 10:00:51 -0700</pubDate>
+                    <itunes:duration>00:36:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v10-13</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Think</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 4v8-9</itunes:subtitle>
+                    <itunes:summary>Philippians 4v8-9</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-21-2012.mp4" length="381068190" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-21-2012.mp4</guid>
+                    <pubDate>Sun, 21 Oct 2012 12:00:48 -0700</pubDate>
+                    <itunes:duration>00:37:39</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v8-9</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Be anxious for nothing</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Philippians 4v4-7</itunes:subtitle>
+                    <itunes:summary>Philippians 4v4-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-14-2012.mp4" length="401779710" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-14-2012.mp4</guid>
+                    <pubDate>Sun, 14 Oct 2012 08:00:46 -0700</pubDate>
+                    <itunes:duration>00:39:53</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v4-7</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Stand firm</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 4v1-3</itunes:subtitle>
+                    <itunes:summary>Philippians 4v1-3</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-07-2012.mp4" length="344274056" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-07-2012.mp4</guid>
+                    <pubDate>Sun, 07 Oct 2012 08:00:25 -0700</pubDate>
+                    <itunes:duration>00:34:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 4v1-3</description>
+                </item>
+                <item>
+                    <title>Seven / Part 3 / Sodom and Gomorrah</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Genesis 12-19</itunes:subtitle>
+                    <itunes:summary>Genesis 12-19</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-30-2012.mp4" length="446808535" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-30-2012.mp4</guid>
+                    <pubDate>Sun, 30 Sep 2012 12:00:21 -0700</pubDate>
+                    <itunes:duration>00:44:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 12-19</description>
+                </item>
+                <item>
+                    <title>Seven / Part 2 / Detriment of shame</title>
+                    <author>Chuch Bomar</author>
+                    <itunes:subtitle>Genesis 3v7-8</itunes:subtitle>
+                    <itunes:summary>Genesis 3v7-8</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-23-2012.mp4" length="446870318" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-23-2012.mp4</guid>
+                    <pubDate>Sun, 23 Sep 2012 08:00:07 -0700</pubDate>
+                    <itunes:duration>00:44:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 3v7-8</description>
+                </item>
+                <item>
+                    <title>Seven / Part 1 / Prayer in pain</title>
+                    <author>Mike Tatlock</author>
+                    <itunes:subtitle>Job 1v20-22</itunes:subtitle>
+                    <itunes:summary>Job 1v20-22</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-16-2012.mp4" length="468140587" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-16-2012.mp4</guid>
+                    <pubDate>Sun, 16 Sep 2012 10:00:02 -0700</pubDate>
+                    <itunes:duration>00:46:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Job 1v20-22</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / A colony of heaven</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 3v17-21</itunes:subtitle>
+                    <itunes:summary>Philippians 3v17-21</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-09-2012.mp4" length="430147219" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-09-2012.mp4</guid>
+                    <pubDate>Sun, 09 Sep 2012 22:59:03 -0700</pubDate>
+                    <itunes:duration>00:42:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 3v17-21</description>
+                </item>
+                <item>
+                    <title>Skeleton at the feast</title>
+                    <author>Dominic Done</author>
+                    <itunes:subtitle>Colossians 3v8, 12-14</itunes:subtitle>
+                    <itunes:summary>Colossians 3v8, 12-14</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-03-2012.mp4" length="340865916" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-03-2012.mp4</guid>
+                    <pubDate>Mon, 03 Sep 2012 10:30:08 -0700</pubDate>
+                    <itunes:duration>00:33:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Colossians 3v8, 12-14</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / To win the prize</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 3v12-16</itunes:subtitle>
+                    <itunes:summary>Philippians 3v12-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-27-2012.mp4" length="406539326" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-27-2012.mp4</guid>
+                    <pubDate>Mon, 27 Aug 2012 11:52:23 -0700</pubDate>
+                    <itunes:duration>00:40:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 3v12-16</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Skubalon</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 3v4b-11</itunes:subtitle>
+                    <itunes:summary>Philippians 3v4b-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-20-2012.mp4" length="456010455" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-20-2012.mp4</guid>
+                    <pubDate>Mon, 20 Aug 2012 15:40:48 -0700</pubDate>
+                    <itunes:duration>00:45:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 3v4b-11</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Watch out for those dogs</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Philippians 3v2-4a</itunes:subtitle>
+                    <itunes:summary>Philippians 3v2-4a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-13-2012.mp4" length="438067467" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-13-2012.mp4</guid>
+                    <pubDate>Mon, 13 Aug 2012 17:13:57 -0700</pubDate>
+                    <itunes:duration>00:43:26</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 3v2-4a</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Reasons to rejoice</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Philippians 3v1</itunes:subtitle>
+                    <itunes:summary>Philippians 3v1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-06-2012.mp4" length="418304551" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-06-2012.mp4</guid>
+                    <pubDate>Mon, 06 Aug 2012 21:07:27 -0700</pubDate>
+                    <itunes:duration>00:41:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 3v1</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Flesh and blood</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 2v19-30</itunes:subtitle>
+                    <itunes:summary>Philippians 2v19-30</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-01-2012.mp4" length="492029614" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-01-2012.mp4</guid>
+                    <pubDate>Wed, 01 Aug 2012 21:37:05 -0700</pubDate>
+                    <itunes:duration>00:48:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 2v19-30</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Shine like stars</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 2v14-18</itunes:subtitle>
+                    <itunes:summary>Philippians 2v14-18</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-24-2012.mp4" length="481278364" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-24-2012.mp4</guid>
+                    <pubDate>Tue, 24 Jul 2012 16:25:11 -0700</pubDate>
+                    <itunes:duration>00:48:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 2v14-18</description>
+                </item>
+                <item>
+                    <title>The worship God wants</title>
+                    <author>Todd Proctor</author>
+                    <itunes:subtitle>Psalm 95</itunes:subtitle>
+                    <itunes:summary>Psalm 95</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-16-2012.mp4" length="335275532" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-16-2012.mp4</guid>
+                    <pubDate>Mon, 16 Jul 2012 21:10:47 -0700</pubDate>
+                    <itunes:duration>00:33:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 95</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Fear and trembling</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 2v12-13</itunes:subtitle>
+                    <itunes:summary>Philippians 2v12-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-09-2012.mp4" length="471779213" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-09-2012.mp4</guid>
+                    <pubDate>Mon, 09 Jul 2012 18:13:08 -0700</pubDate>
+                    <itunes:duration>00:47:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 2v12-13</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Kenosis</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 2v5-11</itunes:subtitle>
+                    <itunes:summary>Philippians 2v5-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-02-2012.mp4" length="436633467" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-02-2012.mp4</guid>
+                    <pubDate>Mon, 02 Jul 2012 21:36:31 -0700</pubDate>
+                    <itunes:duration>00:43:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 2v5-11</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / The redemptive edge</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 1v12-18a</itunes:subtitle>
+                    <itunes:summary>Philippians 1v12-18a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-26-2012.mp4" length="394750054" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-26-2012.mp4</guid>
+                    <pubDate>Tue, 26 Jun 2012 13:25:21 -0700</pubDate>
+                    <itunes:duration>00:39:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 1v12-18a</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Part 5 / All of you</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>Philippians 1v7-11</itunes:subtitle>
+                    <itunes:summary>Philippians 1v7-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-26-2012.mp4" length="430669983" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-26-2012.mp4</guid>
+                    <pubDate>Tue, 26 Jun 2012 11:58:02 -0700</pubDate>
+                    <itunes:duration>00:42:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 1v7-11</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Fill up my joy to overflowing</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 2v1-4</itunes:subtitle>
+                    <itunes:summary>Philippians 2v1-4</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-26-2012.mp4" length="427757368" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-26-2012.mp4</guid>
+                    <pubDate>Tue, 26 Jun 2012 10:57:55 -0700</pubDate>
+                    <itunes:duration>00:42:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 2v1-4</description>
+                </item>
+                <item>
+                    <title>Philippians: a colony of heaven / Part 7 / Torn in two</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 1v18b-26</itunes:subtitle>
+                    <itunes:summary>Philippians 1v18b-26</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-24-2012.mp4" length="386933150" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-24-2012.mp4</guid>
+                    <pubDate>Sun, 24 Jun 2012 06:39:16 -0700</pubDate>
+                    <itunes:duration>00:42:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 1v18b-26</description>
+                </item>
+                <item>
+                    <title>Father like the Father</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Ephesians 6v1-4</itunes:subtitle>
+                    <itunes:summary>Ephesians 6v1-4</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-20-2012.mp4" length="436164652" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-20-2012.mp4</guid>
+                    <pubDate>Wed, 20 Jun 2012 16:53:52 -0700</pubDate>
+                    <itunes:duration>00:48:42</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Ephesians 6v1-4</description>
+                </item>
+                <item>
+                    <title>Wounded healer</title>
+                    <author>Dr. Emerson Eggerichs</author>
+                    <itunes:subtitle>Ephesians 5</itunes:subtitle>
+                    <itunes:summary>Ephesians 5</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-17-2012.mp4" length="434093305" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-17-2012.mp4</guid>
+                    <pubDate>Sun, 17 Jun 2012 17:33:39 -0700</pubDate>
+                    <itunes:duration>00:48:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Ephesians 5</description>
+                </item>
+                <item>
+                    <title>Rest from your stress</title>
+                    <author>Carl Palmer</author>
+                    <itunes:subtitle>Matthew 11v28-30</itunes:subtitle>
+                    <itunes:summary>Matthew 11v28-30</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-14-2012.mp4" length="394400237" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-14-2012.mp4</guid>
+                    <pubDate>Thu, 14 Jun 2012 15:41:45 -0700</pubDate>
+                    <itunes:duration>00:44:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 11v28-30</description>
+                </item>
+                <item>
+                    <title/>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Philippians 1</itunes:subtitle>
+                    <itunes:summary>Philippians 1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-15-2012.mp4" length="409228476" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-15-2012.mp4</guid>
+                    <pubDate>Sun, 15 Apr 2012 10:00:18 -0700</pubDate>
+                    <itunes:duration>00:46:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Philippians 1</description>
+                </item>
+                <item>
+                    <title>Jesus is Lord</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 28</itunes:subtitle>
+                    <itunes:summary>Matthew 28</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-08-2012.mp4" length="394216557" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-08-2012.mp4</guid>
+                    <pubDate>Sun, 08 Apr 2012 08:00:36 -0700</pubDate>
+                    <itunes:duration>00:42:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 28</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 8 / Case studies: Nehemiah, Esther, + Joseph</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-01-2012.mp4" length="430931869" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-01-2012.mp4</guid>
+                    <pubDate>Sun, 01 Apr 2012 10:00:49 -0700</pubDate>
+                    <itunes:duration>00:46:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 7 / Case studies: Daniel</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Jeremiah 29v4-7, Daniel</itunes:subtitle>
+                    <itunes:summary>Jeremiah 29v4-7, Daniel</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-25-2012.mp4" length="457107819" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-25-2012.mp4</guid>
+                    <pubDate>Sun, 25 Mar 2012 18:00:21 -0700</pubDate>
+                    <itunes:duration>00:49:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Jeremiah 29v4-7, Daniel</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 6 / Generous</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-18-2012.mp4" length="522738368" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-18-2012.mp4</guid>
+                    <pubDate>Sun, 18 Mar 2012 10:00:45 -0700</pubDate>
+                    <itunes:duration>00:57:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Missional living in community</title>
+                    <author>Jeff Vanderstelt</author>
+                    <itunes:subtitle>1 Peter 2v9-12</itunes:subtitle>
+                    <itunes:summary>1 Peter 2v9-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-11-2012.mp4" length="468166690" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-11-2012.mp4</guid>
+                    <pubDate>Sun, 11 Mar 2012 12:00:18 -0700</pubDate>
+                    <itunes:duration>00:50:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Peter 2v9-12</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 5 / It's hard to find good people</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-04-2012.mp4" length="434764677" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-04-2012.mp4</guid>
+                    <pubDate>Sun, 04 Mar 2012 16:53:48 -0800</pubDate>
+                    <itunes:duration>00:47:06</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 4 / The sabbath (I am not a machine)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-26-2012.mp4" length="407380045" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-26-2012.mp4</guid>
+                    <pubDate>Sun, 26 Feb 2012 10:00:24 -0800</pubDate>
+                    <itunes:duration>00:43:55</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 3 / The art of yes + no</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-19-2012.mp4" length="473109216" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-19-2012.mp4</guid>
+                    <pubDate>Sun, 19 Feb 2012 10:00:26 -0800</pubDate>
+                    <itunes:duration>00:51:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 2 / The garden-city</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-12-2012.mp4" length="446420242" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-12-2012.mp4</guid>
+                    <pubDate>Sun, 12 Feb 2012 12:00:29 -0800</pubDate>
+                    <itunes:duration>00:48:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The Work Series / Part 1 / The blessing, the curse, the calling</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Genesis 1-3 + Ephesians 2v8-10</itunes:subtitle>
+                    <itunes:summary>Genesis 1-3 + Ephesians 2v8-10</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-05-2012.mp4" length="472815041" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-05-2012.mp4</guid>
+                    <pubDate>Sun, 05 Feb 2012 10:00:06 -0800</pubDate>
+                    <itunes:duration>00:49:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 1-3 + Ephesians 2v8-10</description>
+                </item>
+                <item>
+                    <title>My name is Hope / Part 3</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Psalm 42 - 43</itunes:subtitle>
+                    <itunes:summary>Psalm 42 - 43</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-29-2012.mp4" length="428556841" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-29-2012.mp4</guid>
+                    <pubDate>Sun, 29 Jan 2012 10:00:53 -0800</pubDate>
+                    <itunes:duration>00:45:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 42 - 43</description>
+                </item>
+                <item>
+                    <title>My name is Hope / Part 2</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Psalm 42</itunes:subtitle>
+                    <itunes:summary>Psalm 42</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-22-2012.mp4" length="469108554" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-22-2012.mp4</guid>
+                    <pubDate>Sun, 22 Jan 2012 10:00:29 -0800</pubDate>
+                    <itunes:duration>00:50:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 42</description>
+                </item>
+                <item>
+                    <title/>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Psalm 42</itunes:subtitle>
+                    <itunes:summary>Psalm 42</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-15-2012.mp4" length="439218905" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-15-2012.mp4</guid>
+                    <pubDate>Sun, 15 Jan 2012 10:00:20 -0800</pubDate>
+                    <itunes:duration>00:47:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 42</description>
+                </item>
+                <item>
+                    <title>That it may go well with you</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Deuteronomy 4v39-40</itunes:subtitle>
+                    <itunes:summary>Deuteronomy 4v39-40</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-08-2012.mp4" length="435833773" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-08-2012.mp4</guid>
+                    <pubDate>Sun, 08 Jan 2012 08:00:29 -0800</pubDate>
+                    <itunes:duration>00:47:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Deuteronomy 4v39-40</description>
+                </item>
+                <item>
+                    <title>Hiding behind locked doors</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John 20v19-23</itunes:subtitle>
+                    <itunes:summary>John 20v19-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-01-2012.mp4" length="370106810" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-01-2012.mp4</guid>
+                    <pubDate>Sun, 01 Jan 2012 10:00:57 -0800</pubDate>
+                    <itunes:duration>00:40:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 20v19-23</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 14 / The way</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 7v13-29</itunes:subtitle>
+                    <itunes:summary>Matthew 7v13-29</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-18-2011.mp4" length="554097753" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-18-2011.mp4</guid>
+                    <pubDate>Sun, 18 Dec 2011 18:00:45 -0800</pubDate>
+                    <itunes:duration>00:59:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 7v13-29</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 13 / Planks, pigs, dogs + pearls</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>Matthew 7v1-12</itunes:subtitle>
+                    <itunes:summary>Matthew 7v1-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-11-2011.mp4" length="431236278" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-11-2011.mp4</guid>
+                    <pubDate>Sun, 11 Dec 2011 10:00:02 -0800</pubDate>
+                    <itunes:duration>00:46:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 7v1-12</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 12 / Worry has a name</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 6v19-34</itunes:subtitle>
+                    <itunes:summary>Matthew 6v19-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-04-2011.mp4" length="407642405" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-04-2011.mp4</guid>
+                    <pubDate>Sun, 04 Dec 2011 10:00:23 -0800</pubDate>
+                    <itunes:duration>00:44:17</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 6v19-34</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 11 / The God Who Sees</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Matthew 6v1-18</itunes:subtitle>
+                    <itunes:summary>Matthew 6v1-18</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-27-2011.mp4" length="382190802" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-27-2011.mp4</guid>
+                    <pubDate>Sun, 27 Nov 2011 18:36:52 -0800</pubDate>
+                    <itunes:duration>00:41:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 6v1-18</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 10 / Enemy</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 5v38-48</itunes:subtitle>
+                    <itunes:summary>Matthew 5v38-48</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-20-2011.mp4" length="432306939" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-20-2011.mp4</guid>
+                    <pubDate>Sun, 20 Nov 2011 10:00:29 -0800</pubDate>
+                    <itunes:duration>00:46:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5v38-48</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 9 / The downward spiral</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Matthew 5v27-37</itunes:subtitle>
+                    <itunes:summary>Matthew 5v27-37</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-13-2011.mp4" length="449512292" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-13-2011.mp4</guid>
+                    <pubDate>Sun, 13 Nov 2011 10:00:26 -0800</pubDate>
+                    <itunes:duration>00:48:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5v27-37</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 8 / "Do not murder" - check.</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 5v20-26</itunes:subtitle>
+                    <itunes:summary>Matthew 5v20-26</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-06-2011.mp4" length="520426026" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-06-2011.mp4</guid>
+                    <pubDate>Sun, 06 Nov 2011 18:00:18 -0800</pubDate>
+                    <itunes:duration>00:56:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5v20-26</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 7 / The law + the prophets</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 5v17-20</itunes:subtitle>
+                    <itunes:summary>Matthew 5v17-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-30-2011.mp4" length="535757843" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-30-2011.mp4</guid>
+                    <pubDate>Sun, 30 Oct 2011 10:00:35 -0700</pubDate>
+                    <itunes:duration>00:56:15</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5v17-20</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 6 / The God who comes down the ladder</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 5v3-12</itunes:subtitle>
+                    <itunes:summary>Matthew 5v3-12</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-23-2011.mp4" length="473805207" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-23-2011.mp4</guid>
+                    <pubDate>Sun, 23 Oct 2011 18:00:17 -0700</pubDate>
+                    <itunes:duration>00:50:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5v3-12</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 5 / The man by the side of the road</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Luke 10v25-37</itunes:subtitle>
+                    <itunes:summary>Luke 10v25-37</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-16-2011.mp4" length="399849311" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-16-2011.mp4</guid>
+                    <pubDate>Sun, 16 Oct 2011 10:00:08 -0700</pubDate>
+                    <itunes:duration>00:41:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 10v25-37</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 4 / House to house</title>
+                    <author>John Mark Comer and Tim McDonald</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-09-2011.mp4" length="519187951" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-09-2011.mp4</guid>
+                    <pubDate>Sun, 09 Oct 2011 10:00:54 -0700</pubDate>
+                    <itunes:duration>00:55:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 3 / Go</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-02-2011.mp4" length="463152316" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-02-2011.mp4</guid>
+                    <pubDate>Sun, 02 Oct 2011 10:00:10 -0700</pubDate>
+                    <itunes:duration>00:49:08</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 2 / Salt + Light</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 4v23-5v16</itunes:subtitle>
+                    <itunes:summary>Matthew 4v23-5v16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-25-2011.mp4" length="541680625" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-25-2011.mp4</guid>
+                    <pubDate>Sun, 25 Sep 2011 12:04:06 -0700</pubDate>
+                    <itunes:duration>00:58:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 4v23-5v16</description>
+                </item>
+                <item>
+                    <title>Salt + light / Part 1 / Pray</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 4v17, 6v9-13</itunes:subtitle>
+                    <itunes:summary>Matthew 4v17, 6v9-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-18-2011.mp4" length="397697431" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-18-2011.mp4</guid>
+                    <pubDate>Sun, 18 Sep 2011 10:00:09 -0700</pubDate>
+                    <itunes:duration>00:42:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 4v17, 6v9-13</description>
+                </item>
+                <item>
+                    <title>Passages / When you look back (Part 2)</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Psalm 37v1-7a</itunes:subtitle>
+                    <itunes:summary>Psalm 37v1-7a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-11-2011.mp4" length="352325553" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-11-2011.mp4</guid>
+                    <pubDate>Sun, 11 Sep 2011 10:00:16 -0700</pubDate>
+                    <itunes:duration>00:37:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 37v1-7a</description>
+                </item>
+                <item>
+                    <title>Passages / Don't be surprised</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>1 Peter 4v12-19</itunes:subtitle>
+                    <itunes:summary>1 Peter 4v12-19</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-04-2011.mp4" length="471704980" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-04-2011.mp4</guid>
+                    <pubDate>Sun, 04 Sep 2011 18:00:00 -0700</pubDate>
+                    <itunes:duration>00:51:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Peter 4v12-19</description>
+                </item>
+                <item>
+                    <title>Passages / When you look back (Part 1)</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Psalm 37v1-7a</itunes:subtitle>
+                    <itunes:summary>Psalm 37v1-7a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-28-2011.mp4" length="379325964" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-28-2011.mp4</guid>
+                    <pubDate>Sun, 28 Aug 2011 08:00:56 -0700</pubDate>
+                    <itunes:duration>00:39:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Psalm 37v1-7a</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Shotguns + salutations</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 16</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-21-2011.mp4" length="490569172" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-21-2011.mp4</guid>
+                    <pubDate>Sun, 21 Aug 2011 18:00:04 -0700</pubDate>
+                    <itunes:duration>00:54:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 16</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Resurrection: the defeat of death (and all his friends)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 15v35-58</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 15v35-58</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-14-2011.mp4" length="513589684" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-14-2011.mp4</guid>
+                    <pubDate>Sun, 14 Aug 2011 08:00:16 -0700</pubDate>
+                    <itunes:duration>00:55:18</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 15v35-58</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Resurrection: the shape of the end</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 15v24-34</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 15v24-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-07-2011.mp4" length="518080210" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-07-2011.mp4</guid>
+                    <pubDate>Sun, 07 Aug 2011 10:00:23 -0700</pubDate>
+                    <itunes:duration>00:54:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 15v24-34</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Resurrection: life after heaven</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 15v12-23</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 15v12-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-31-2011.mp4" length="537023348" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-31-2011.mp4</guid>
+                    <pubDate>Sun, 31 Jul 2011 10:00:57 -0700</pubDate>
+                    <itunes:duration>00:58:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 15v12-23</description>
+                </item>
+                <item>
+                    <title>Into the waters</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-24-2011.mp4" length="451706191" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-24-2011.mp4</guid>
+                    <pubDate>Sun, 24 Jul 2011 18:00:31 -0700</pubDate>
+                    <itunes:duration>00:47:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The gospel</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>1 Corinthians 15v1-11</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 15v1-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-17-2011.mp4" length="406834287" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-17-2011.mp4</guid>
+                    <pubDate>Sun, 17 Jul 2011 10:00:10 -0700</pubDate>
+                    <itunes:duration>00:43:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 15v1-11</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Tongues + Prophecy (Part 2)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 14v29-40</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 14v29-40</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-10-2011.mp4" length="567184611" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-10-2011.mp4</guid>
+                    <pubDate>Sun, 10 Jul 2011 18:00:36 -0700</pubDate>
+                    <itunes:duration>01:01:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 14v29-40</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Tongues + Prophecy (Part 1)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 14v1-28</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 14v1-28</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-03-2011.mp4" length="523942647" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-03-2011.mp4</guid>
+                    <pubDate>Sun, 03 Jul 2011 12:00:52 -0700</pubDate>
+                    <itunes:duration>00:58:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 14v1-28</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The greatest of these</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>1 Corinthians 13v8-13</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 13v8-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-26-2011.mp4" length="385894761" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-26-2011.mp4</guid>
+                    <pubDate>Sun, 26 Jun 2011 18:00:06 -0700</pubDate>
+                    <itunes:duration>00:41:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 13v8-13</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Agape</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Corinthians 12v31b-13v8a</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 12v31b-13v8a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-19-2011.mp4" length="431461148" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-19-2011.mp4</guid>
+                    <pubDate>Sun, 19 Jun 2011 10:00:23 -0700</pubDate>
+                    <itunes:duration>00:46:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 12v31b-13v8a</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The body</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>1 Corinthians 12v12-31a</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 12v12-31a</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-12-2011.mp4" length="446562584" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-12-2011.mp4</guid>
+                    <pubDate>Sun, 12 Jun 2011 18:00:46 -0700</pubDate>
+                    <itunes:duration>00:47:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 12v12-31a</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Stuff The Spirit Does</title>
+                    <author/>
+                    <itunes:subtitle>1 Corinthians 12v8-11</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 12v8-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-05-2011.mp4" length="588479558" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-05-2011.mp4</guid>
+                    <pubDate>Sun, 05 Jun 2011 16:19:16 -0700</pubDate>
+                    <itunes:duration>01:01:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 12v8-11</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Stuff The Spirit Does</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 12v8-11</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 12v8-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-08-2011.mp4" length="588479558" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-08-2011.mp4</guid>
+                    <pubDate>Wed, 08 Jun 2011 12:16:57 -0700</pubDate>
+                    <itunes:duration>01:01:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 12v8-11</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The common good</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 12v1-7</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 12v1-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-29-2011.mp4" length="516885985" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-29-2011.mp4</guid>
+                    <pubDate>Sun, 29 May 2011 10:00:24 -0700</pubDate>
+                    <itunes:duration>00:56:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 12v1-7</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The bread + the cup (Part 2)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 11v17-34</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 11v17-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-22-2011.mp4" length="451411473" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-22-2011.mp4</guid>
+                    <pubDate>Sun, 22 May 2011 10:00:22 -0700</pubDate>
+                    <itunes:duration>00:49:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 11v17-34</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The bread + the cup (Part 1)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 11v17-34</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 11v17-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-15-2011.mp4" length="456377329" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-15-2011.mp4</guid>
+                    <pubDate>Sun, 15 May 2011 18:00:19 -0700</pubDate>
+                    <itunes:duration>00:51:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 11v17-34</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Image</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 11v2-16</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 11v2-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-08-2011.mp4" length="582514342" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-08-2011.mp4</guid>
+                    <pubDate>Sun, 08 May 2011 10:00:52 -0700</pubDate>
+                    <itunes:duration>01:03:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 11v2-16</description>
+                </item>
+                <item>
+                    <title>Resurrection / Part 3 / Just like Peter</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>John 21v1-19</itunes:subtitle>
+                    <itunes:summary>John 21v1-19</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-30-2011.mp4" length="422507758" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-30-2011.mp4</guid>
+                    <pubDate>Sat, 30 Apr 2011 10:00:27 -0700</pubDate>
+                    <itunes:duration>00:44:27</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 21v1-19</description>
+                </item>
+                <item>
+                    <title>Resurrection / Part 4 / Thomas, doubt, + faith</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John 20v19-31</itunes:subtitle>
+                    <itunes:summary>John 20v19-31</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-01-2011.mp4" length="416303711" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-01-2011.mp4</guid>
+                    <pubDate>Sun, 01 May 2011 12:00:04 -0700</pubDate>
+                    <itunes:duration>00:45:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 20v19-31</description>
+                </item>
+                <item>
+                    <title>Resurrection / Part 2 / Saul on the road to Damascus</title>
+                    <author>Luis Palau</author>
+                    <itunes:subtitle>Acts 9v1-22</itunes:subtitle>
+                    <itunes:summary>Acts 9v1-22</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-24-2011.mp4" length="480226847" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-24-2011.mp4</guid>
+                    <pubDate>Sun, 24 Apr 2011 10:00:58 -0700</pubDate>
+                    <itunes:duration>00:51:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Acts 9v1-22</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Black, white, + gray</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 10v15-11v1</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 10v15-11v1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-17-2011.mp4" length="454040516" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-17-2011.mp4</guid>
+                    <pubDate>Sun, 17 Apr 2011 12:00:05 -0700</pubDate>
+                    <itunes:duration>00:50:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 10v15-11v1</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Fall</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 10v1-14</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 10v1-14</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-10-2011.mp4" length="536788511" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-10-2011.mp4</guid>
+                    <pubDate>Sun, 10 Apr 2011 18:00:02 -0700</pubDate>
+                    <itunes:duration>00:59:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 10v1-14</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Running + fighting</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 9v24-27</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 9v24-27</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-03-2011.mp4" length="514062664" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-03-2011.mp4</guid>
+                    <pubDate>Sun, 03 Apr 2011 10:00:03 -0700</pubDate>
+                    <itunes:duration>00:55:41</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 9v24-27</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Whatever it takes</title>
+                    <author>Ian Nelson</author>
+                    <itunes:subtitle>1 Corinthians 9v1-23</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 9v1-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-27-2011.mp4" length="429961291" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-27-2011.mp4</guid>
+                    <pubDate>Sun, 27 Mar 2011 10:00:48 -0700</pubDate>
+                    <itunes:duration>00:46:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 9v1-23</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The gods</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 8</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 8</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-20-2011.mp4" length="452163372" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-20-2011.mp4</guid>
+                    <pubDate>Sun, 20 Mar 2011 08:00:34 -0700</pubDate>
+                    <itunes:duration>00:46:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 8</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Undivided devotion</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 7v25-40</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 7v25-40</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-13-2011.mp4" length="468173712" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-13-2011.mp4</guid>
+                    <pubDate>Sun, 13 Mar 2011 12:00:22 -0700</pubDate>
+                    <itunes:duration>00:49:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 7v25-40</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Divorce + the heart of God</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Corinthians 7v10-24</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 7v10-24</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-06-2011.mp4" length="458502850" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-06-2011.mp4</guid>
+                    <pubDate>Sun, 06 Mar 2011 18:00:14 -0800</pubDate>
+                    <itunes:duration>00:49:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 7v10-24</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Better to marry than to burn</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 7v7-9</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 7v7-9</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-27-2011.mp4" length="560470324" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-27-2011.mp4</guid>
+                    <pubDate>Sun, 27 Feb 2011 08:00:40 -0800</pubDate>
+                    <itunes:duration>00:55:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 7v7-9</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Sex is...</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 7v1-6</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 7v1-6</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-20-2011.mp4" length="518241761" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-20-2011.mp4</guid>
+                    <pubDate>Sun, 20 Feb 2011 18:00:24 -0800</pubDate>
+                    <itunes:duration>00:52:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 7v1-6</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Plato + the prostitutes</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 6v12-20</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 6v12-20</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-13-2011.mp4" length="527021066" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-13-2011.mp4</guid>
+                    <pubDate>Sun, 13 Feb 2011 18:00:40 -0800</pubDate>
+                    <itunes:duration>00:53:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 6v12-20</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Washed</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 6v9-11</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 6v9-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-06-2011.mp4" length="591118313" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-06-2011.mp4</guid>
+                    <pubDate>Sun, 06 Feb 2011 10:00:03 -0800</pubDate>
+                    <itunes:duration>00:58:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 6v9-11</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Why not rather be cheated?</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Corinthians 6v1-8</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 6v1-8</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-30-2011.mp4" length="327835283" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-30-2011.mp4</guid>
+                    <pubDate>Sun, 30 Jan 2011 08:00:16 -0800</pubDate>
+                    <itunes:duration>00:32:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 6v1-8</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Hand this man over to Satan?</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 5</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 5</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-23-2011.mp4" length="583368587" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-23-2011.mp4</guid>
+                    <pubDate>Sun, 23 Jan 2011 18:00:18 -0800</pubDate>
+                    <itunes:duration>00:59:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 5</description>
+                </item>
+                <item>
+                    <title>If the stones could tell stories</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John 10v22-42</itunes:subtitle>
+                    <itunes:summary>John 10v22-42</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/01-02-2011.mp4" length="480520830" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/01-02-2011.mp4</guid>
+                    <pubDate>Sun, 02 Jan 2011 10:00:59 -0800</pubDate>
+                    <itunes:duration>00:48:23</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 10v22-42</description>
+                </item>
+                <item>
+                    <title>Immanuel / Joseph</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-19-2010.mp4" length="437691427" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-19-2010.mp4</guid>
+                    <pubDate>Sun, 19 Dec 2010 12:00:20 -0800</pubDate>
+                    <itunes:duration>00:43:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Immanuel / Mary</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Luke 1v26-49</itunes:subtitle>
+                    <itunes:summary>Luke 1v26-49</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-12-2010.mp4" length="432339902" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-12-2010.mp4</guid>
+                    <pubDate>Sun, 12 Dec 2010 12:00:17 -0800</pubDate>
+                    <itunes:duration>00:43:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 1v26-49</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Judgement</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 4v1-5</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 4v1-5</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/12-05-2010.mp4" length="569927418" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/12-05-2010.mp4</guid>
+                    <pubDate>Sun, 05 Dec 2010 10:00:20 -0800</pubDate>
+                    <itunes:duration>00:57:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 4v1-5</description>
+                </item>
+                <item>
+                    <title>The one who came back</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Luke 17v11-19</itunes:subtitle>
+                    <itunes:summary>Luke 17v11-19</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-28-2010.mp4" length="439861833" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-28-2010.mp4</guid>
+                    <pubDate>Sun, 28 Nov 2010 10:10:45 -0800</pubDate>
+                    <itunes:duration>00:44:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 17v11-19</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Farmers + builders</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 3v5-23</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 3v5-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-21-2010.mp4" length="399472374" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-21-2010.mp4</guid>
+                    <pubDate>Sun, 21 Nov 2010 18:00:08 -0800</pubDate>
+                    <itunes:duration>00:40:02</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 3v5-23</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Infants</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 3v1-4</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 3v1-4</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-14-2010.mp4" length="360242661" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-14-2010.mp4</guid>
+                    <pubDate>Sun, 14 Nov 2010 08:00:43 -0800</pubDate>
+                    <itunes:duration>00:35:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 3v1-4</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Spiritual</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 2v6-16</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 2v6-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/11-07-2010.mp4" length="613819095" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/11-07-2010.mp4</guid>
+                    <pubDate>Sun, 07 Nov 2010 10:00:35 -0800</pubDate>
+                    <itunes:duration>00:58:52</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 2v6-16</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The foolishness of God (preaching)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 2v1-5</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 2v1-5</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-31-2010.mp4" length="448917232" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-31-2010.mp4</guid>
+                    <pubDate>Sun, 31 Oct 2010 18:00:46 -0700</pubDate>
+                    <itunes:duration>00:45:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 2v1-5</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The foolishness of God (the church)</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>1 Corinthians 1v26-31</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 1v26-31</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-24-2010.mp4" length="416039397" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-24-2010.mp4</guid>
+                    <pubDate>Sun, 24 Oct 2010 10:00:19 -0700</pubDate>
+                    <itunes:duration>00:40:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 1v26-31</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / The foolishness of God (the cross)</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 1v18-25</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 1v18-25</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-17-2010.mp4" length="475204878" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-17-2010.mp4</guid>
+                    <pubDate>Sun, 17 Oct 2010 08:00:30 -0700</pubDate>
+                    <itunes:duration>00:47:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 1v18-25</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Factions</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1v10-17</itunes:subtitle>
+                    <itunes:summary>1v10-17</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-10-2010.mp4" length="546023964" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-10-2010.mp4</guid>
+                    <pubDate>Sun, 10 Oct 2010 12:00:14 -0700</pubDate>
+                    <itunes:duration>00:56:04</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1v10-17</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / Grace + Peace</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>1 Corinthians 1v3-9</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 1v3-9</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/10-03-2010.mp4" length="523055640" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/10-03-2010.mp4</guid>
+                    <pubDate>Sun, 03 Oct 2010 18:00:17 -0700</pubDate>
+                    <itunes:duration>00:54:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 1v3-9</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / To the church of God in Corinth...</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 1v2</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 1v2</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-26-2010.mp4" length="507049748" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-26-2010.mp4</guid>
+                    <pubDate>Sun, 26 Sep 2010 22:00:09 -0700</pubDate>
+                    <itunes:duration>00:50:38</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 1v2</description>
+                </item>
+                <item>
+                    <title>1 Corinthians / I am Paul</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>1 Corinthians 1v1</itunes:subtitle>
+                    <itunes:summary>1 Corinthians 1v1</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-19-2010.mp4" length="546558275" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-19-2010.mp4</guid>
+                    <pubDate>Sun, 19 Sep 2010 10:00:21 -0700</pubDate>
+                    <itunes:duration>00:55:36</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>1 Corinthians 1v1</description>
+                </item>
+                <item>
+                    <title>Waiting well</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Titus 2v11-14</itunes:subtitle>
+                    <itunes:summary>Titus 2v11-14</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/09-05-2010.mp4" length="508394357" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/09-05-2010.mp4</guid>
+                    <pubDate>Sun, 05 Sep 2010 09:00:14 -0700</pubDate>
+                    <itunes:duration>00:48:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Titus 2v11-14</description>
+                </item>
+                <item>
+                    <title>Second chances</title>
+                    <author>Andrew Palau</author>
+                    <itunes:subtitle>Jonah 1v1-3, Jonah 3v1-3</itunes:subtitle>
+                    <itunes:summary>Jonah 1v1-3, Jonah 3v1-3</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-29-2010.mp4" length="616052644" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-29-2010.mp4</guid>
+                    <pubDate>Sun, 29 Aug 2010 21:21:06 -0700</pubDate>
+                    <itunes:duration>01:01:45</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Jonah 1v1-3, Jonah 3v1-3</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 27 / The story isn't over</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>John 14v1-3</itunes:subtitle>
+                    <itunes:summary>John 14v1-3</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-15-2010.mp4" length="427315266" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-15-2010.mp4</guid>
+                    <pubDate>Sun, 15 Aug 2010 21:10:15 -0700</pubDate>
+                    <itunes:duration>00:43:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 14v1-3</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 26 / Resurrection.</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-08-2010.mp4" length="494750212" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-08-2010.mp4</guid>
+                    <pubDate>Sun, 08 Aug 2010 21:08:05 -0700</pubDate>
+                    <itunes:duration>00:49:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 25 / Bread + wine</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/08-01-2010.mp4" length="489593874" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/08-01-2010.mp4</guid>
+                    <pubDate>Sun, 01 Aug 2010 13:42:49 -0700</pubDate>
+                    <itunes:duration>00:50:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 24 / Living water</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John 7v37-38</itunes:subtitle>
+                    <itunes:summary>John 7v37-38</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-25-2010.mp4" length="491355980" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-25-2010.mp4</guid>
+                    <pubDate>Sun, 25 Jul 2010 21:02:38 -0700</pubDate>
+                    <itunes:duration>00:49:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 7v37-38</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 23 / Feasting + preaching</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>Luke 14</itunes:subtitle>
+                    <itunes:summary>Luke 14</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-18-2010.mp4" length="511352709" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-18-2010.mp4</guid>
+                    <pubDate>Sun, 18 Jul 2010 17:31:30 -0700</pubDate>
+                    <itunes:duration>00:52:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 14</description>
+                </item>
+                <item>
+                    <title>Water from your own well</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Proverbs 5-7 + Luke 7</itunes:subtitle>
+                    <itunes:summary>Proverbs 5-7 + Luke 7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-11-2010.mp4" length="495735328" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-11-2010.mp4</guid>
+                    <pubDate>Sun, 11 Jul 2010 14:58:44 -0700</pubDate>
+                    <itunes:duration>00:49:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Proverbs 5-7 + Luke 7</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 22 / Free indeed</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>John 8v30-36</itunes:subtitle>
+                    <itunes:summary>John 8v30-36</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/07-04-2010.mp4" length="364489272" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/07-04-2010.mp4</guid>
+                    <pubDate>Sun, 04 Jul 2010 16:42:50 -0700</pubDate>
+                    <itunes:duration>00:36:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 8v30-36</description>
+                </item>
+                <item>
+                    <title>The unfamiliar passions of God</title>
+                    <author>Gary Haugen</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-27-2010.mp4" length="417341478" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-27-2010.mp4</guid>
+                    <pubDate>Sun, 27 Jun 2010 12:20:31 -0700</pubDate>
+                    <itunes:duration>00:43:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Bedouins + blessings</title>
+                    <author>John Mark Comer + Phil Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-20-2010.mp4" length="520042855" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-20-2010.mp4</guid>
+                    <pubDate>Sun, 20 Jun 2010 20:47:12 -0700</pubDate>
+                    <itunes:duration>00:51:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 21 / Teach us to pray</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Luke 11v1-13</itunes:subtitle>
+                    <itunes:summary>Luke 11v1-13</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-13-2010.mp4" length="483845529" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-13-2010.mp4</guid>
+                    <pubDate>Sun, 13 Jun 2010 19:56:22 -0700</pubDate>
+                    <itunes:duration>00:49:33</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 11v1-13</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 20 / To forgive or not to forgive?</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Matthew 18v21-35</itunes:subtitle>
+                    <itunes:summary>Matthew 18v21-35</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/06-06-2010.mp4" length="444854858" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/06-06-2010.mp4</guid>
+                    <pubDate>Sun, 06 Jun 2010 20:02:03 -0700</pubDate>
+                    <itunes:duration>00:44:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 18v21-35</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 19 / Becoming a disciple</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>Luke 14v25-35</itunes:subtitle>
+                    <itunes:summary>Luke 14v25-35</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-30-2010.mp4" length="336415501" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-30-2010.mp4</guid>
+                    <pubDate>Sun, 30 May 2010 20:02:30 -0700</pubDate>
+                    <itunes:duration>00:39:23</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 14v25-35</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 18 / How much stuff is enough?</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Luke 12v13-21</itunes:subtitle>
+                    <itunes:summary>Luke 12v13-21</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-23-2010.mp4" length="400144907" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-23-2010.mp4</guid>
+                    <pubDate>Sun, 23 May 2010 20:04:18 -0700</pubDate>
+                    <itunes:duration>00:49:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 12v13-21</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 17 / Children and servants</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-16-2010.mp4" length="388751464" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-16-2010.mp4</guid>
+                    <pubDate>Sun, 16 May 2010 13:42:25 -0700</pubDate>
+                    <itunes:duration>00:46:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>Alive + thirsty</title>
+                    <author>Mike Erre</author>
+                    <itunes:subtitle>Genesis 1-3</itunes:subtitle>
+                    <itunes:summary>Genesis 1-3</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-09-2010.mp4" length="326342526" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-09-2010.mp4</guid>
+                    <pubDate>Sun, 09 May 2010 20:04:34 -0700</pubDate>
+                    <itunes:duration>00:39:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Genesis 1-3</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 16 / Good Sam</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Luke 10v25-37</itunes:subtitle>
+                    <itunes:summary>Luke 10v25-37</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/05-02-2010.mp4" length="408553723" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/05-02-2010.mp4</guid>
+                    <pubDate>Sun, 02 May 2010 21:16:52 -0700</pubDate>
+                    <itunes:duration>00:48:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Luke 10v25-37</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 15 / The question</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 12v28-34</itunes:subtitle>
+                    <itunes:summary>Mark 12v28-34</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-25-2010.mp4" length="408660108" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-25-2010.mp4</guid>
+                    <pubDate>Sun, 25 Apr 2010 20:16:34 -0700</pubDate>
+                    <itunes:duration>00:47:58</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 12v28-34</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 14 / Seed and soil</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Matthew 13v1-23</itunes:subtitle>
+                    <itunes:summary>Matthew 13v1-23</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-18-2010.mp4" length="376531361" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-18-2010.mp4</guid>
+                    <pubDate>Sun, 18 Apr 2010 12:41:37 -0700</pubDate>
+                    <itunes:duration>00:44:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 13v1-23</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 13 / Shovels, sweat, and flash floods</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 5-7</itunes:subtitle>
+                    <itunes:summary>Matthew 5-7</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-11-2010.mp4" length="349851536" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-11-2010.mp4</guid>
+                    <pubDate>Sun, 11 Apr 2010 20:06:06 -0700</pubDate>
+                    <itunes:duration>00:41:28</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 5-7</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 12 / Hope is risen</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Mark 16v1-16</itunes:subtitle>
+                    <itunes:summary>Mark 16v1-16</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/04-04-2010.mp4" length="382408257" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/04-04-2010.mp4</guid>
+                    <pubDate>Sun, 04 Apr 2010 11:45:13 -0700</pubDate>
+                    <itunes:duration>00:45:34</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 16v1-16</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 11 / Jesus enters from the East</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Matthew 21v1-11</itunes:subtitle>
+                    <itunes:summary>Matthew 21v1-11</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-28-2010.mp4" length="380681511" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-28-2010.mp4</guid>
+                    <pubDate>Sun, 28 Mar 2010 19:43:39 -0700</pubDate>
+                    <itunes:duration>00:44:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Matthew 21v1-11</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 10 / Touch</title>
+                    <author>Jose Zayas</author>
+                    <itunes:subtitle>Mark 5v21-43</itunes:subtitle>
+                    <itunes:summary>Mark 5v21-43</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-21-2010.mp4" length="357613315" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-21-2010.mp4</guid>
+                    <pubDate>Sun, 21 Mar 2010 11:09:07 -0700</pubDate>
+                    <itunes:duration>00:48:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 5v21-43</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 9 / Lazarus is dead</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>John 11v1-45</itunes:subtitle>
+                    <itunes:summary>John 11v1-45</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-14-2010.mp4" length="366922901" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-14-2010.mp4</guid>
+                    <pubDate>Sun, 14 Mar 2010 13:33:22 -0700</pubDate>
+                    <itunes:duration>00:45:25</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>John 11v1-45</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 8 / Life's most important question</title>
+                    <author>Phil Comer</author>
+                    <itunes:subtitle>Mark 10v17-31</itunes:subtitle>
+                    <itunes:summary>Mark 10v17-31</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/03-07-2010.mp4" length="385770887" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/03-07-2010.mp4</guid>
+                    <pubDate>Sun, 07 Mar 2010 20:14:20 -0800</pubDate>
+                    <itunes:duration>00:46:49</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Mark 10v17-31</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 7 / Temples, whips, and wrath</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://ajesuschurch.org/videos/02-28-2010.mp4" length="403249843" type="video/mp4"/>
+                    <guid>http://ajesuschurch.org/videos/02-28-2010.mp4</guid>
+                    <pubDate>Sun, 28 Feb 2010 12:40:41 -0800</pubDate>
+                    <itunes:duration>00:44:56</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 6 / Grace + truth</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/02-21-2010.mp4" length="429555194" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/02-21-2010.mp4</guid>
+                    <pubDate>Sun, 21 Feb 2010 19:46:01 -0800</pubDate>
+                    <itunes:duration>00:50:13</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 5 / Demons, pigs, and you</title>
+                    <author>Mike Erre</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/02-14-2010.mp4" length="301763806" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/02-14-2010.mp4</guid>
+                    <pubDate>Sun, 14 Feb 2010 10:34:22 -0800</pubDate>
+                    <itunes:duration>00:35:09</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 4 / The divinity of Jesus</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/02-07-2010.mp4" length="536054652" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/02-07-2010.mp4</guid>
+                    <pubDate>Sun, 07 Feb 2010 19:37:05 -0800</pubDate>
+                    <itunes:duration>01:03:30</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 3 / The humanity of Jesus</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/01-31-2010.mp4" length="290877198" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/01-31-2010.mp4</guid>
+                    <pubDate>Sun, 31 Jan 2010 19:52:21 -0800</pubDate>
+                    <itunes:duration>00:52:29</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 2 / The God in the cave</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/01-24-2010.mp4" length="461871764" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/01-24-2010.mp4</guid>
+                    <pubDate>Sun, 24 Jan 2010 19:58:37 -0800</pubDate>
+                    <itunes:duration>00:54:01</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+                <item>
+                    <title>The story of Jesus / Part 1 / Plan A</title>
+                    <author>John Mark Comer</author>
+                    <itunes:subtitle>Various</itunes:subtitle>
+                    <itunes:summary>Various</itunes:summary>
+                    <enclosure url="http://www.ajesuschurch.org/videos/01-17-2010.mp4" length="315150014" type="video/mp4"/>
+                    <guid>http://www.ajesuschurch.org/videos/01-17-2010.mp4</guid>
+                    <pubDate>Sun, 17 Jan 2010 10:04:29 -0800</pubDate>
+                    <itunes:duration>00:52:32</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <description>Various</description>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

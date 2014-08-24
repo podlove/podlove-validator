@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml;charset=utf-8"/>
+        <httpclient:header name="X-VG-WebCache" value="25"/>
+        <httpclient:header name="Cache-Control" value="max-age=30"/>
+        <httpclient:header name="Content-Length" value="9151"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:39:43 GMT"/>
+        <httpclient:header name="X-Varnish" value="873828911 873825735"/>
+        <httpclient:header name="Age" value="24"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="From" value="n7abchwc04.starwave.com"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml;charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <ttl>60</ttl>
+                <title>ABC News - This Week - Podcast</title>
+                <itunes:author>ABC News</itunes:author>
+                <link>http://abcnews.go.com/ThisWeek/</link>
+                <description>Sunday morning news program which features newsmaker interviews and panel debates on a wide range of issues and commentary.</description>
+                <itunes:subtitle>Audio-only edition.  ABC 'This Week' features newsmaker interviews and panel debates on a wide range of issues and commentary. Brought to you by ABCNews.com.</itunes:subtitle>
+                <itunes:summary>Audio-only edition.  ABC 'This Week' features newsmaker interviews and panel debates on a wide range of issues and commentary. Brought to you by ABCNews.com.</itunes:summary>
+                <itunes:keywords>abc news This Week, Christiane, Amanpour, george, stephanopoulos, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                <language>en</language>
+                <copyright>Copyright (c) 2014 ABC News Internet Ventures</copyright>
+                <itunes:owner>
+                    <itunes:name>ABC News</itunes:name>
+                    <itunes:email>technical@abcnews.com</itunes:email>
+                </itunes:owner>
+                <image>
+                    <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                    <title>ABC News - This Week - Podcast</title>
+                    <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                </image>
+                <category>Politics</category>
+        <!-- iTunes prefers square images 300x300 pixels or larger and the image must be a jpeg or png -->
+                <itunes:image href="http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg"/>
+                <item>
+                    <title>This Week - AUDIO - 08.17.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Chaos In Ferguson; ISIS in Iraq; Texas Governor Rick Perry</description>
+                    <itunes:subtitle>Chaos In Ferguson; ISIS in Iraq; Texas Governor Rick Perry</itunes:subtitle>
+                    <itunes:summary>Chaos In Ferguson; ISIS in Iraq; Texas Governor Rick Perry</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2289902/2289902_2014-08-17-125102.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2289902/2289902_2014-08-17-125102.96.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 12:45:35 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news This Week, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                        <title>ABC News - This Week - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>This Week - AUDIO - 08.10.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Iraqi Refugee Crisis; Ebola Worries In America; College Athletes Win in Court</description>
+                    <itunes:subtitle>Iraqi Refugee Crisis; Ebola Worries In America; College Athletes Win in Court</itunes:subtitle>
+                    <itunes:summary>Iraqi Refugee Crisis; Ebola Worries In America; College Athletes Win in Court</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2281234/2281234_2014-08-10-140034.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2281234/2281234_2014-08-10-140034.96.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 13:37:54 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news This Week, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                        <title>ABC News - This Week - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>This Week - AUDIO - 08.03.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Ebola Outbreak; CIA Mess; Border Crisis</description>
+                    <itunes:subtitle>Ebola Outbreak; CIA Mess; Border Crisis</itunes:subtitle>
+                    <itunes:summary>Ebola Outbreak; CIA Mess; Border Crisis</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2273004/2273004_2014-08-03-132004.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2273004/2273004_2014-08-03-132004.96.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 12:39:27 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news This Week, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                        <title>ABC News - This Week - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>This Week - Audio - 07.27.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>US Embassy In Libya Evacuated; Israel-Palestine Conflict; Marijuana Debate</description>
+                    <itunes:subtitle>US Embassy In Libya Evacuated; Israel-Palestine Conflict; Marijuana Debate</itunes:subtitle>
+                    <itunes:summary>US Embassy In Libya Evacuated; Israel-Palestine Conflict; Marijuana Debate</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2264366/2264366_2014-07-27-104606.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2264366/2264366_2014-07-27-104606.96.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 11:14:40 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news This Week, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                        <title>ABC News - This Week - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+                <item>
+                    <title>This Week - AUDIO - 07.20.14</title>
+                    <itunes:author>ABC News</itunes:author>
+                    <description>Israel/Hamas Conflict; MH17 Plane; 45th Anniversary Of Moon Landing</description>
+                    <itunes:subtitle>Israel/Hamas Conflict; MH17 Plane; 45th Anniversary Of Moon Landing</itunes:subtitle>
+                    <itunes:summary>Israel/Hamas Conflict; MH17 Plane; 45th Anniversary Of Moon Landing</itunes:summary>
+                    <enclosure url="http://c.abcnewsradio.com/audio/2257144/2257144_2014-07-20-124644.96.mp3" length="" type="audio/mpeg"/>
+                    <guid>http://c.abcnewsradio.com/audio/2257144/2257144_2014-07-20-124644.96.mp3</guid>
+                    <pubDate>Sun, 20 Jul 2014 12:06:59 EST</pubDate>
+                    <category>News</category>
+                    <itunes:explicit>No</itunes:explicit>
+                    <itunes:duration>00:00</itunes:duration>
+                    <itunes:keywords>abc news This Week, politics, roundtable, Washington, governement, ABC News, ABC News Radio, radio, podcast, Stephanopoulos, DC, Washington DC, TV, Television, talk, talk show, show, news, White House</itunes:keywords>
+                    <image>
+                        <url>http://a.abcnews.com/assets/images/podcast/This_Week_podcast_062614_600x600.jpg</url>
+                        <title>ABC News - This Week - Podcast</title>
+                        <link>http://www.abcnews.com/Technology/Podcasting/</link>
+                    </image>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

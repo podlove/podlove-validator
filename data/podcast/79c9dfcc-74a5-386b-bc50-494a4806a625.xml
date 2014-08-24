@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:09 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=xp5v0tbwc0hhpwzgs1iuc0bd; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Content-Length" value="105969"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/19243</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/19243" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:09 GMT</lastBuildDate>
+                <image>
+                    <title>Lantzkampen</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4469</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4469/3281039_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Lantzkampen är ett frågeprogram om den senaste veckans nyheter. Ett lag består av två Sveriges Radio-medarbetare, det andra laget består av två människor som kommer från världen utanför Sveriges Radio. Programledare är Annika Lantz.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Lantzkampen</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Lantzkampen</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4469</link>
+                <description>Lantzkampen är ett frågeprogram om den senaste veckans nyheter. Ett lag består av två Sveriges Radio-medarbetare, det andra laget består av två människor som kommer från världen utanför Sveriges Radio. Programledare är Annika Lantz.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Lantzkampen Midsommarspecial</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4982663.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140620_0000_435f2ba.mp3</guid>
+                    <pubDate>Thu, 19 Jun 2014 22:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,Midsommarspecial</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4982663.mp3" length="42909617" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Johan Hilton och Kristin Lundell mot Jenny Strömstedt och Henrik Johnsson</title>
+                    <description>Säsongens sista ordinarie Lantzkampen går av stapeln på Kulturhuset i Stockholm denna fredag. Tävlar gör två riktiga veteranlag: Henrik Johnsson och Jenny Strömstedt möter Kristin Lundell och Johan Hilton i en fartfylld match om veckans nyheter. Programledare: Annika Lantz Domare: Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4982662.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140613_1900_43261bc.mp3</guid>
+                    <pubDate>Fri, 13 Jun 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Säsongens sista ordinarie Lantzkampen går av stapeln på Kulturhuset i Stockholm denna fredag. Tävlar gör två riktiga veteranlag: Henrik Johnsson och Jenny Strömstedt möter Kristin Lundell och Johan Hilton i en fartfylld match om veckans nyheter. Programledare: Annika Lantz Domare: Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenJohan,Hilton,och,Kristin,Lundell,mot,Jenny,Strömstedt,och,Henrik,Johnsson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4982662.mp3" length="42668323" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Moa Svan och Anna Åkerlund mot Josefin Johansson och Moa Lundqvist</title>
+                    <description>Det är komiker och radiopratare i kubik i den Lantzkamp som utkämpas på Kulturhuset i Stockholm denna fredag!  I det ena laget har vi Moa Lundqvist känd från P3:s Tankesmedjan och Josefin Johansson, komiker och humorkollo-ledare. Mot dem tävlar Moa Svan som inte bara är humorist utan också sportjournalist, aktuell med nya radioprogrammet Pokal, tillsammans med Anna Åkerlund, producent och reporter på Stil i P1. Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4975142.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140606_1900_42fb86a.mp3</guid>
+                    <pubDate>Fri, 06 Jun 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Det är komiker och radiopratare i kubik i den Lantzkamp som utkämpas på Kulturhuset i Stockholm denna fredag!  I det ena laget har vi Moa Lundqvist känd från P3:s Tankesmedjan och Josefin Johansson, komiker och humorkollo-ledare. Mot dem tävlar Moa Svan som inte bara är humorist utan också sportjournalist, aktuell med nya radioprogrammet Pokal, tillsammans med Anna Åkerlund, producent och reporter på Stil i P1. Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenMoa,Svan,och,Anna,Åkerlund,mot,Josefin,Johansson,och,Moa,Lundqvist</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4975142.mp3" length="42705425" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Richard Herrey och Ginna Lindberg mot Melody Farshin och Gurgin Bakircioglu</title>
+                    <description>Också denna veckas Lantzkamp går av stapeln på Kulturhuset i Stockholm! Tävlar gör komikern Melody Farshin och Metropols egen morgonsol Gurgin Bakircioglu, som möter schlagerlegenden Richard Herrey och Ginna Lindberg, programchef på Ekot och tidigare USA-korrespondent. Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4968264.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140530_1900_4279773.mp3</guid>
+                    <pubDate>Fri, 30 May 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Också denna veckas Lantzkamp går av stapeln på Kulturhuset i Stockholm! Tävlar gör komikern Melody Farshin och Metropols egen morgonsol Gurgin Bakircioglu, som möter schlagerlegenden Richard Herrey och Ginna Lindberg, programchef på Ekot och tidigare USA-korrespondent. Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenRichard,Herrey,och,Ginna,Lindberg,mot,Melody,Farshin,och,Gurgin,Bakircioglu</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4968264.mp3" length="42935031" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Carina Berg och Filip Stiller mot Musse Hasselvall och Soraya Hashim</title>
+                    <description>En repris av gårdagens Lantzkampen från Kulturhuset i Stockholm P1. Tävlande är lag Livrädd, bestående av kampsportaren och programledaren Musse Hasselvall och journalisten Soraya Hashim, och lag Skräckblandad förtjusning, med TV-profilen Carina Berg och Filip Stiller, journalist och konståkaress.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4961476.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140523_1900_4346064.mp3</guid>
+                    <pubDate>Fri, 23 May 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>En repris av gårdagens Lantzkampen från Kulturhuset i Stockholm P1. Tävlande är lag Livrädd, bestående av kampsportaren och programledaren Musse Hasselvall och journalisten Soraya Hashim, och lag Skräckblandad förtjusning, med TV-profilen Carina Berg och Filip Stiller, journalist och konståkaress.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenCarina,Berg,och,Filip,Stiller,mot,Musse,Hasselvall,och,Soraya,Hashim</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4961476.mp3" length="42653270" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Litteratur, schlager, skägg och konstitutionellt tungvrickande</title>
+                    <description>Lag Schlager möter Lag Litteratur i en oändligt spännande match om skägg, visenter och konstitutionella tungvrickningar. I lag litteratur hittar vi författarna Katarina Wennstam och Augustin Erba, och i lag Schlager hörs Sveriges Radios schlagerkorrespondenter Carolina Norén och Kris Boswell. Domare är Sara Lövestam, och lekledare är som alltid Annika Lantz</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4953675.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140516_1800_3acdaa0.mp3</guid>
+                    <pubDate>Fri, 16 May 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Lag Schlager möter Lag Litteratur i en oändligt spännande match om skägg, visenter och konstitutionella tungvrickningar. I lag litteratur hittar vi författarna Katarina Wennstam och Augustin Erba, och i lag Schlager hörs Sveriges Radios schlagerkorrespondenter Carolina Norén och Kris Boswell. Domare är Sara Lövestam, och lekledare är som alltid Annika Lantz</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLitteratur,,schlager,,skägg,och,konstitutionellt,tungvrickande</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4953675.mp3" length="42389138" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Monica Saarinen och Tomas Ramberg mot Gunilla Brodrej och Maja Aase</title>
+                    <description>I veckans Lantzkamp möts två vassa journalist-duos.   I det ena laget hittar vi Lördagsintervjuns utfrågare Monica Saarinen och Ekots inrikespolitiska kommentator Tomas Ramberg. I motståndarlaget tävlar också två redaktörer med radiobakgrund, som idag har pennan som vapen: Frilansjournalisten Maja Aase och Expressens kulturkritiker Gunilla Brodrej.   Vi gissar på en jämn kamp om både poäng och talutrymme!   Programledare: Annika Lantz   Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4946216.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140509_1900_433fa5f.mp3</guid>
+                    <pubDate>Fri, 09 May 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans Lantzkamp möts två vassa journalist-duos.   I det ena laget hittar vi Lördagsintervjuns utfrågare Monica Saarinen och Ekots inrikespolitiska kommentator Tomas Ramberg. I motståndarlaget tävlar också två redaktörer med radiobakgrund, som idag har pennan som vapen: Frilansjournalisten Maja Aase och Expressens kulturkritiker Gunilla Brodrej.   Vi gissar på en jämn kamp om både poäng och talutrymme!   Programledare: Annika Lantz   Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenMonica,Saarinen,och,Tomas,Ramberg,mot,Gunilla,Brodrej,och,Maja,Aase</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4946216.mp3" length="42480049" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Simon Norrthon och Jenny Teleman mot Malou von Sivers och Sigge Eklund</title>
+                    <description>I veckans Lantzkamp utmanar två förstagångstävlande, författaren Sigge Eklund och TV4-profilen Malou von Sivers, ett lag av mer härdat slag, skådespelaren Simon Norrthon och Jenny Teleman från radions egen kulturredaktion. Blir det drama eller blir det drama! Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4938577.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140502_1900_42d85de.mp3</guid>
+                    <pubDate>Fri, 02 May 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans Lantzkamp utmanar två förstagångstävlande, författaren Sigge Eklund och TV4-profilen Malou von Sivers, ett lag av mer härdat slag, skådespelaren Simon Norrthon och Jenny Teleman från radions egen kulturredaktion. Blir det drama eller blir det drama! Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenSimon,Norrthon,och,Jenny,Teleman,mot,Malou,von,Sivers,och,Sigge,Eklund</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4938577.mp3" length="42453835" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Dilsa Demirbag-Sten och Erik Helmerson mot Erik Blix och Staffan Dopping</title>
+                    <description>I Lantzkampen ikväll introduceras två nykomlingar i detta program, lag Debutant, bestående av radioveteranerna Staffan Dopping och Erik Blix. De ställs mot de lite mer erfararna deltagarna i lag Dominant, skribenterna Dilsa Demirbag-Sten och Erik Helmerson, som vann sist de var med och är redo att kämpa för ytterligare en seger. Men kommer det att klara det? Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4931711.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140425_1900_4370983.mp3</guid>
+                    <pubDate>Fri, 25 Apr 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I Lantzkampen ikväll introduceras två nykomlingar i detta program, lag Debutant, bestående av radioveteranerna Staffan Dopping och Erik Blix. De ställs mot de lite mer erfararna deltagarna i lag Dominant, skribenterna Dilsa Demirbag-Sten och Erik Helmerson, som vann sist de var med och är redo att kämpa för ytterligare en seger. Men kommer det att klara det? Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenDilsa,Demirbag-Sten,och,Erik,Helmerson,mot,Erik,Blix,och,Staffan,Dopping</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4931711.mp3" length="42533036" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Linnea Wikblad och Jesper Rönndahl mot Christer Sturmark och Annika Borg</title>
+                    <description>I Lantzkampen denna långfredag blir det comeback för laget med de vassa andliga diskussionerna: Prästen Annika Borg och religionskritikern Christer Sturmark.   Tillsammans möter de P3-programledarna Linnea Wikblad och Jesper Rönndahl.   Vem vinner veckans Lantzkamp?   Programledare: Annika Lantz   Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4925020.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140418_1900_438eb9f.mp3</guid>
+                    <pubDate>Fri, 18 Apr 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I Lantzkampen denna långfredag blir det comeback för laget med de vassa andliga diskussionerna: Prästen Annika Borg och religionskritikern Christer Sturmark.   Tillsammans möter de P3-programledarna Linnea Wikblad och Jesper Rönndahl.   Vem vinner veckans Lantzkamp?   Programledare: Annika Lantz   Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLinnea,Wikblad,och,Jesper,Rönndahl,mot,Christer,Sturmark,och,Annika,Borg</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4925020.mp3" length="42534110" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pekka Heino och Pererik Åberg mot Susanna Andrén och Olle Palmlöf</title>
+                    <description>I veckans Lantzkamp möts två lag med passande namn för den stundande helgen: Lag Sport mot lag Fritid! I Lag Sport hittar vi programledarna för radions nya satsning Sportfredag i P4, Olle Palmlöf och Susanna Andrén. I lag Fritid hittar vi två SVT-profiler, programledaren Pekka Heino och Pererik Åberg, meteorolog. Vem har snappat upp de rätta nyheterna ur veckans flöde? Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4918131.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140411_1900_4329f5e.mp3</guid>
+                    <pubDate>Fri, 11 Apr 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans Lantzkamp möts två lag med passande namn för den stundande helgen: Lag Sport mot lag Fritid! I Lag Sport hittar vi programledarna för radions nya satsning Sportfredag i P4, Olle Palmlöf och Susanna Andrén. I lag Fritid hittar vi två SVT-profiler, programledaren Pekka Heino och Pererik Åberg, meteorolog. Vem har snappat upp de rätta nyheterna ur veckans flöde? Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenPekka,Heino,och,Pererik,Åberg,mot,Susanna,Andrén,och,Olle,Palmlöf</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4918131.mp3" length="42422284" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sissela Kyle, Per Naroskin, Britta Lejon och Elaine Eksvärd!</title>
+                    <description>Vilken vecka vi har haft! Natoövningar, tårtningsdom, misstänkta ericssonmutor och cannabis i Colorado. Annika Lantz är inte den som missar en nyhet och nu sätts tre nykomlingar och en mer erfaren lantzkampare på prov. Elaine Eksvärd, retorikkonsult och Britta Lejon, förbundsordförande för ST tävlar i laget Narnia mot  Sissela Kyle och Per Naroskin som bildar laget Tramptass. Hur lagen har fått sina namn redogörs för i inledningen av programmet. Så missa inte det! Domare som alltid är Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4910459.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140404_1800_44198aa.mp3</guid>
+                    <pubDate>Fri, 04 Apr 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Vilken vecka vi har haft! Natoövningar, tårtningsdom, misstänkta ericssonmutor och cannabis i Colorado. Annika Lantz är inte den som missar en nyhet och nu sätts tre nykomlingar och en mer erfaren lantzkampare på prov. Elaine Eksvärd, retorikkonsult och Britta Lejon, förbundsordförande för ST tävlar i laget Narnia mot  Sissela Kyle och Per Naroskin som bildar laget Tramptass. Hur lagen har fått sina namn redogörs för i inledningen av programmet. Så missa inte det! Domare som alltid är Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenSissela,Kyle,,Per,Naroskin,,Britta,Lejon,och,Elaine,Eksvärd!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4910459.mp3" length="42560785" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jenny Strömstedt och Henrik Johnsson mot Martina Thun och Ulf Danielsson</title>
+                    <description>Denna vecka gästas Lantzkampen av TV4-programledaren Jenny Strömstedt och hennes producent Henrik Johnsson som är med för andra gången och därför bildar lag Comeback. De möter ett annat tävlingsvant par, lag På spår - Morgonpassets Martina Thun och fysikprofessorn Ulf Danielsson som tidigare delat bur i SVT. Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4902819.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140328_1900_435ae06.mp3</guid>
+                    <pubDate>Fri, 28 Mar 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Denna vecka gästas Lantzkampen av TV4-programledaren Jenny Strömstedt och hennes producent Henrik Johnsson som är med för andra gången och därför bildar lag Comeback. De möter ett annat tävlingsvant par, lag På spår - Morgonpassets Martina Thun och fysikprofessorn Ulf Danielsson som tidigare delat bur i SVT. Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenJenny,Strömstedt,och,Henrik,Johnsson,mot,Martina,Thun,och,Ulf,Danielsson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4902819.mp3" length="42611510" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Qaisar Mahmood och Ivar Arpi mot Alexandra Pascalidou och Anneli Carnelid</title>
+                    <description>I veckans omgång av nyhetsfrågesporten Lantzkampen tävlar journalisterna Alexandra Pascalidou och Anneli Carnelid mot två personer som också har pennan som vapen, Qaisar Mahmood, författare och enhetschef på Riksantikvarieämbetet och frilansskribenten Ivar Arpi. Hur bra har de följt med i veckans händelser? Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4895102.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140321_1900_435329a.mp3</guid>
+                    <pubDate>Fri, 21 Mar 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans omgång av nyhetsfrågesporten Lantzkampen tävlar journalisterna Alexandra Pascalidou och Anneli Carnelid mot två personer som också har pennan som vapen, Qaisar Mahmood, författare och enhetschef på Riksantikvarieämbetet och frilansskribenten Ivar Arpi. Hur bra har de följt med i veckans händelser? Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenQaisar,Mahmood,och,Ivar,Arpi,mot,Alexandra,Pascalidou,och,Anneli,Carnelid</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4895102.mp3" length="42477763" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tarik Saleh och Doreen Månsson mot Kristin Lundell och Johan Hilton</title>
+                    <description>I veckans omgång av Lantzkampen blir det en ny chans för lag Kultur, bestående av nöjesjournalisten Kristin Lundell och förlagschefen Johan Hilton. De möter två förstagångstävlande i lag Premiär, nämligen filmaren Tarik Saleh och programledaren Doreen Månsson. Vem lyckas övertyga domaren ikväll? Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4887354.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140314_1900_42d201e.mp3</guid>
+                    <pubDate>Fri, 14 Mar 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans omgång av Lantzkampen blir det en ny chans för lag Kultur, bestående av nöjesjournalisten Kristin Lundell och förlagschefen Johan Hilton. De möter två förstagångstävlande i lag Premiär, nämligen filmaren Tarik Saleh och programledaren Doreen Månsson. Vem lyckas övertyga domaren ikväll? Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenTarik,Saleh,och,Doreen,Månsson,mot,Kristin,Lundell,och,Johan,Hilton</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4887354.mp3" length="42441365" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Anders Wejryd och Melody Farshin möter Katarina Wennstam och Gustav Fridolin</title>
+                    <description>I veckans omgång av Lantzkampen tävlar lag Jenka, författaren Katarina Wennstam och Miljöpartiets språkrör Gustav Fridolin, mot lag Höga visan, komikern Melody Farshin och ärkebiskop Anders Wejryd.  Vem har haft bäst koll på nyhetsflödet, och vem kammar hem veckans stilpoäng?   Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4872075.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140228_1900_43c4bf1.mp3</guid>
+                    <pubDate>Fri, 28 Feb 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans omgång av Lantzkampen tävlar lag Jenka, författaren Katarina Wennstam och Miljöpartiets språkrör Gustav Fridolin, mot lag Höga visan, komikern Melody Farshin och ärkebiskop Anders Wejryd.  Vem har haft bäst koll på nyhetsflödet, och vem kammar hem veckans stilpoäng?   Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenAnders,Wejryd,och,Melody,Farshin,möter,Katarina,Wennstam,och,Gustav,Fridolin</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4872075.mp3" length="42565480" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Erik Ullenhag och Anna Kinberg-Batra mot Henrik Torehammar och Emanuel Karlsten</title>
+                    <description>I veckans omgång av Lantzkampen är det både nya och mer erfarna medverkande som sätts på prov om det senaste i nyhetsflödet. Det är P3-programledarna Henrik Torehammar och Emanuel Karlsten som möter två toppolitiker, moderaten och gruppledaren i riksdagen Anna Kinberg-Batra och integrationsminister Erik Ullenhag.  Programledare är som vanligt Annika Lantz och domare är Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4864618.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140221_1900_43898db.mp3</guid>
+                    <pubDate>Fri, 21 Feb 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I veckans omgång av Lantzkampen är det både nya och mer erfarna medverkande som sätts på prov om det senaste i nyhetsflödet. Det är P3-programledarna Henrik Torehammar och Emanuel Karlsten som möter två toppolitiker, moderaten och gruppledaren i riksdagen Anna Kinberg-Batra och integrationsminister Erik Ullenhag.  Programledare är som vanligt Annika Lantz och domare är Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenErik,Ullenhag,och,Anna,Kinberg-Batra,mot,Henrik,Torehammar,och,Emanuel,Karlsten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4864618.mp3" length="42572290" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lekander-Huitfeldt mot Räisänen-Olsson</title>
+                    <description>En vecka har gått och det betyder ny omgång av Lantzkampen med nya tävlande! Tillåt oss presentera lag Korgossarna med artisten Timo Räisänen och barnradiochefen och tidigare Lantzkampen-producenten Fredrik Olsson. Bägge började tidigt odla sina sångröster i gosskör. Lyckas de skrika högst ikväll? På motståndarsidan finner vi lag Ur spår: Jörgen Huitfeldt, programledare i Studio Ett och längdskidåkare och Nina Lekander, kulturskribent på Expressen och stolt hästägare. Eftersom ridning i skidspåret inte uppskattas, och knappast skidåkning på ridvägen heller, hoppas vi att de istället finner varandra i ivern att vinna kvällens match. Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4858067.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140214_1900_4399dc6.mp3</guid>
+                    <pubDate>Fri, 14 Feb 2014 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>En vecka har gått och det betyder ny omgång av Lantzkampen med nya tävlande! Tillåt oss presentera lag Korgossarna med artisten Timo Räisänen och barnradiochefen och tidigare Lantzkampen-producenten Fredrik Olsson. Bägge började tidigt odla sina sångröster i gosskör. Lyckas de skrika högst ikväll? På motståndarsidan finner vi lag Ur spår: Jörgen Huitfeldt, programledare i Studio Ett och längdskidåkare och Nina Lekander, kulturskribent på Expressen och stolt hästägare. Eftersom ridning i skidspåret inte uppskattas, och knappast skidåkning på ridvägen heller, hoppas vi att de istället finner varandra i ivern att vinna kvällens match. Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLekander-Huitfeldt,mot,Räisänen-Olsson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4858067.mp3" length="42449516" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Denna vecka: Sveriges Radio mot Världen</title>
+                    <description>Två lag av den klassiska sorten "Sveriges Radio mot Världen" möts i veckans omgång av Lantzkampen. Författarna och DN-skribenterna Erik Helmerson och Dilsa Demirbag-Sten tävlar mot eterns tryggaste morgonröster, P1-Morgons Katherine Zimmerman och Johar Bendjelloul.   Vilket lag har bäst koll på veckan som gått?   Programledare: Annika Lantz   Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4851560.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140207_2000_457bdc3.mp3</guid>
+                    <pubDate>Fri, 07 Feb 2014 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Två lag av den klassiska sorten "Sveriges Radio mot Världen" möts i veckans omgång av Lantzkampen. Författarna och DN-skribenterna Erik Helmerson och Dilsa Demirbag-Sten tävlar mot eterns tryggaste morgonröster, P1-Morgons Katherine Zimmerman och Johar Bendjelloul.   Vilket lag har bäst koll på veckan som gått?   Programledare: Annika Lantz   Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenDenna,vecka:,Sveriges,Radio,mot,Världen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4851560.mp3" length="42212725" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Cirkus Ekot v/s Cirkus Kiev</title>
+                    <description>Så var det dags för en omgång av Lantzkampen där Ekots stringenta Marianne Hasslow kommer att finna sig omgiven av idel komiker. Vid sin sida har hon Özz Nûjen och tillsammans bildar de lag Cirkus Ekot där det är tänkt att Özz står för cirkusen och Marianne för Ekot. Kanske blir det tvärtom. Både Özz och Marianne är återvändare, de har alltså varit med och tävlat i Lantzkampen förr. Och vunnit. Motståndarlaget består av bröderna Juhlin, Per och Nils, som är delar av humorgruppen Cirkus Kiev från P3 Humor. Och vad kommer Annika Lantz att fråga om denna vecka när rapportfloden är igång, det har varit ett litet litet framsteg i samtalen om Syrien och nyheten om en hamster som offentlig handling i Kalmar visade sig vara en anka? Lyssna på Lantzkampen. Domare som alltid: Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4843710.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140131_1800_433a810.mp3</guid>
+                    <pubDate>Fri, 31 Jan 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Så var det dags för en omgång av Lantzkampen där Ekots stringenta Marianne Hasslow kommer att finna sig omgiven av idel komiker. Vid sin sida har hon Özz Nûjen och tillsammans bildar de lag Cirkus Ekot där det är tänkt att Özz står för cirkusen och Marianne för Ekot. Kanske blir det tvärtom. Både Özz och Marianne är återvändare, de har alltså varit med och tävlat i Lantzkampen förr. Och vunnit. Motståndarlaget består av bröderna Juhlin, Per och Nils, som är delar av humorgruppen Cirkus Kiev från P3 Humor. Och vad kommer Annika Lantz att fråga om denna vecka när rapportfloden är igång, det har varit ett litet litet framsteg i samtalen om Syrien och nyheten om en hamster som offentlig handling i Kalmar visade sig vara en anka? Lyssna på Lantzkampen. Domare som alltid: Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenCirkus,Ekot,v/s,Cirkus,Kiev</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4843710.mp3" length="42324310" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jämställd match mellan Parhästarna och Feministrarna</title>
+                    <description>Till denna veckas Lantzkamp har vi lyckats få två ministrar till studion, en nuvarande jämställdhetsminister och hennes företrädare. Maria Arnholm och Nyamko Sabuni möter Parhästarna från TV4 där Henrik Johnsson jobbar som producent för Jenny Strömstedts talkshow. Och inte minst var Henrik producent för Jennys Sommar-program 2013. Nu bildar de team mot Feministrarna och ämnet är som alltid: Veckans nyheter. Programledare är förstås Annika Lantz och vid hennes sida finns domaren Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4835761.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140125_1800_443724c.mp3</guid>
+                    <pubDate>Sat, 25 Jan 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Till denna veckas Lantzkamp har vi lyckats få två ministrar till studion, en nuvarande jämställdhetsminister och hennes företrädare. Maria Arnholm och Nyamko Sabuni möter Parhästarna från TV4 där Henrik Johnsson jobbar som producent för Jenny Strömstedts talkshow. Och inte minst var Henrik producent för Jennys Sommar-program 2013. Nu bildar de team mot Feministrarna och ämnet är som alltid: Veckans nyheter. Programledare är förstås Annika Lantz och vid hennes sida finns domaren Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenJämställd,match,mellan,Parhästarna,och,Feministrarna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4835761.mp3" length="42327116" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jämställd match mellan Parhästarna och Feministrarna</title>
+                    <description>Till denna veckas Lantzkamp har vi lyckats få två ministrar till studion, en nuvarande jämställdhetsminister och hennes företrädare. Maria Arnholm och Nyamko Sabuni möter Parhästarna från TV4 där Henrik Johnsson jobbar som producent för Jenny Strömstedts talkshow. Och inte minst var Henrik producent för Jennys Sommar-program 2013. Nu bildar de team mot Feministrarna och ämnet är som alltid: Veckans nyheter. Programledare är förstås Annika Lantz och vid hennes sida finns domaren Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4835771.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140124_1800_4522f09.mp3</guid>
+                    <pubDate>Fri, 24 Jan 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Till denna veckas Lantzkamp har vi lyckats få två ministrar till studion, en nuvarande jämställdhetsminister och hennes företrädare. Maria Arnholm och Nyamko Sabuni möter Parhästarna från TV4 där Henrik Johnsson jobbar som producent för Jenny Strömstedts talkshow. Och inte minst var Henrik producent för Jennys Sommar-program 2013. Nu bildar de team mot Feministrarna och ämnet är som alltid: Veckans nyheter. Programledare är förstås Annika Lantz och vid hennes sida finns domaren Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenJämställd,match,mellan,Parhästarna,och,Feministrarna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4835771.mp3" length="42327116" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Saarinen och Ramberg v/s Ahlström och Tempelman</title>
+                    <description>Lördag hela veckan mot Kattis och Co i veckans Lantzkamp! Alltså Ekots Monica Saarinen och Tomas Ramberg mot Bris generalsekreterare Kattis Ahlström och kommunikations- och manuskonsulten Anders Tempelman. Hur ska det gå denna vecka när det har varit Partiledardebatt? Tänk om Annika bara ställer frågor om debatten, då hamnar Lördag hela veckan i ett överläge eftersom Ramberg  är Ekots inrikespolitiske kommentator och har som jobb att ha stenkoll på riksdagen. Men tack och lov för spänningen så har nyhetsveckan innehållit så mycket mer än partiledardebatt så allt är upplagt för en rafflande kamp. Programledare: Annika Lantz. Domare: Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4827883.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140117_1800_43cf4ca.mp3</guid>
+                    <pubDate>Fri, 17 Jan 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Lördag hela veckan mot Kattis och Co i veckans Lantzkamp! Alltså Ekots Monica Saarinen och Tomas Ramberg mot Bris generalsekreterare Kattis Ahlström och kommunikations- och manuskonsulten Anders Tempelman. Hur ska det gå denna vecka när det har varit Partiledardebatt? Tänk om Annika bara ställer frågor om debatten, då hamnar Lördag hela veckan i ett överläge eftersom Ramberg  är Ekots inrikespolitiske kommentator och har som jobb att ha stenkoll på riksdagen. Men tack och lov för spänningen så har nyhetsveckan innehållit så mycket mer än partiledardebatt så allt är upplagt för en rafflande kamp. Programledare: Annika Lantz. Domare: Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenSaarinen,och,Ramberg,v/s,Ahlström,och,Tempelman</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4827883.mp3" length="42528458" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sveriges radio mot SVT i årets första Lantzkamp</title>
+                    <description>I årets första Lantzkamp möter vi två erfarna lantzkampare och två som gör Lantzkampsdebut. I lag SR är det Ekots Mari Forssblad och Studio Etts Pontus Mattsson som kamperar och i lag SVT är det Anna Hedenmo och Karin Hübinette som ska försvara grannhuset på Gärdet i Stockholm. Karin Hübinette har också en gammal Lantzkampstitel att försvara medan Mari Forssblad säkert är sugen på en seger den här gången eftersom hon förlorade sin förra Lantzkamp. Programledare som vanligt: Annika Lantz och domaren är också densamma: Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4820067.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20140110_1800_43ab175.mp3</guid>
+                    <pubDate>Fri, 10 Jan 2014 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I årets första Lantzkamp möter vi två erfarna lantzkampare och två som gör Lantzkampsdebut. I lag SR är det Ekots Mari Forssblad och Studio Etts Pontus Mattsson som kamperar och i lag SVT är det Anna Hedenmo och Karin Hübinette som ska försvara grannhuset på Gärdet i Stockholm. Karin Hübinette har också en gammal Lantzkampstitel att försvara medan Mari Forssblad säkert är sugen på en seger den här gången eftersom hon förlorade sin förra Lantzkamp. Programledare som vanligt: Annika Lantz och domaren är också densamma: Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenSveriges,radio,mot,SVT,i,årets,första,Lantzkamp</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4820067.mp3" length="42460515" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Obama, Obama, Obama! På självaste tredjedan!</title>
+                    <description>Det absolut viktigaste som hände under 2013, om man ska tro vår Statsminister, den samlade medierapporteringen och kanske framförallt Lantzkampen, var ju att president Obama besökte Sverige. Detta är ett program om denna händelse. En frågelek om allt som hände under de där glittrande gyllene timmarna då världens mäktigaste man lät sin bil "Besten" rulla fram på Stockholms gator. I lag Sverige hörs Özz Nüjen och Alexandra Pascalidou, och i lag USA hörs Richard Herrey och Kelly Smith. Domare är som alltid Sara Lövestam, och lekledare är Annika Lantz. (Den uppmärksamme kommer för övrigt märka att detta är en repris av sändningen den 6:e september 2013)</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4801627.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131227_1800_34e127d.mp3</guid>
+                    <pubDate>Fri, 27 Dec 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Det absolut viktigaste som hände under 2013, om man ska tro vår Statsminister, den samlade medierapporteringen och kanske framförallt Lantzkampen, var ju att president Obama besökte Sverige. Detta är ett program om denna händelse. En frågelek om allt som hände under de där glittrande gyllene timmarna då världens mäktigaste man lät sin bil "Besten" rulla fram på Stockholms gator. I lag Sverige hörs Özz Nüjen och Alexandra Pascalidou, och i lag USA hörs Richard Herrey och Kelly Smith. Domare är som alltid Sara Lövestam, och lekledare är Annika Lantz. (Den uppmärksamme kommer för övrigt märka att detta är en repris av sändningen den 6:e september 2013)</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenObama,,Obama,,Obama!,På,självaste,tredjedan!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4801627.mp3" length="42476213" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"13 cm sjunker en kvinnas stjärt på en livstid" - Amelia Adamo</title>
+                    <description>GOD JUL alla kära Lantzkampenlyssnare! I den här veckans program har vi en ståtlig uppställning när lag "Carmelia" bestående av Carin Jämtin och Amelia Adamo möter lag "Niklas" där vi finner Niklas Ekdal och Niklas Källner. Vem har mest koll på veckans nyheter? Vem har det inte? Vem har koll på något annat och kan få stilpoäng i form av en blomma eller en liten tecknad vagina av domaren Sara Lövestam? Svaret på allt detta får vi i veckans LANTZKAMP! Programledaren är Annika Lantz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4803474.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131220_1800_43b178e.mp3</guid>
+                    <pubDate>Fri, 20 Dec 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>GOD JUL alla kära Lantzkampenlyssnare! I den här veckans program har vi en ståtlig uppställning när lag "Carmelia" bestående av Carin Jämtin och Amelia Adamo möter lag "Niklas" där vi finner Niklas Ekdal och Niklas Källner. Vem har mest koll på veckans nyheter? Vem har det inte? Vem har koll på något annat och kan få stilpoäng i form av en blomma eller en liten tecknad vagina av domaren Sara Lövestam? Svaret på allt detta får vi i veckans LANTZKAMP! Programledaren är Annika Lantz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Lantzkampen"13,cm,sjunker,en,kvinnas,stjärt,på,en,livstid",-,Amelia,Adamo</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4803474.mp3" length="42490952" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fotbollsarenan i Al Wakrah, Qatar, liknar en vulva!</title>
+                    <description>Lantzkampen sänder inför publik på Bio Rio i Stockholm, i ett luciasammarbete med Kino och Musikhjälpen. Ett antal givmilda företag och organisationer har lovat 100 kronor för varje rätt svar i programmet! Just idag möts lag Bonnläppar och lag 08:or, och i lag Bonnläppar finner vi centerledaren och näringsministern Annie Lööf, i sällskap med radioprofilen Henrik Torehammar. I lag 08:or hörs författaren och sexualupplysaren Inti Chavez Perez och retorikexperten Elaine Eksvärd. Domare är Sara Lövestam, och programledare är naturligtvis Annika Lantz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4795511.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131214_1800_44533ae.mp3</guid>
+                    <pubDate>Fri, 13 Dec 2013 16:15:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Lantzkampen sänder inför publik på Bio Rio i Stockholm, i ett luciasammarbete med Kino och Musikhjälpen. Ett antal givmilda företag och organisationer har lovat 100 kronor för varje rätt svar i programmet! Just idag möts lag Bonnläppar och lag 08:or, och i lag Bonnläppar finner vi centerledaren och näringsministern Annie Lööf, i sällskap med radioprofilen Henrik Torehammar. I lag 08:or hörs författaren och sexualupplysaren Inti Chavez Perez och retorikexperten Elaine Eksvärd. Domare är Sara Lövestam, och programledare är naturligtvis Annika Lantz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenFotbollsarenan,i,Al,Wakrah,,Qatar,,liknar,en,vulva!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4795511.mp3" length="42512800" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lars Norén är inte släkt med lag Norén, och Reinfeldt har svårt med språket</title>
+                    <description>I år kommer nobelfesten att programledas av (bland andra) dom pigga Ebba von Sydow och Victoria Dyring. Det är snällt av dom tycker vi, och vi har därför gett dom chansen att försvara sin ära mot lag Norén, där vi hittar Svensktoppens programledare Carolina Norén tillsamans med sin bror, Gomorron Sveriges egen Alexander Norén. Har de som i dagarna ska leda TV:s största kunskapsfest mest koll på veckans nyheter? Eller har syskonen Norén kanske dagbokfört allt som hänt i nyhetsväg? Det blir utan tvekan en spännande kamp i veckans Lantzkampen. Annika Lantz är programledare och den helt jävla underbara människan Sara Lövestam är domare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4787609.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131206_1800_43ae233.mp3</guid>
+                    <pubDate>Fri, 06 Dec 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I år kommer nobelfesten att programledas av (bland andra) dom pigga Ebba von Sydow och Victoria Dyring. Det är snällt av dom tycker vi, och vi har därför gett dom chansen att försvara sin ära mot lag Norén, där vi hittar Svensktoppens programledare Carolina Norén tillsamans med sin bror, Gomorron Sveriges egen Alexander Norén. Har de som i dagarna ska leda TV:s största kunskapsfest mest koll på veckans nyheter? Eller har syskonen Norén kanske dagbokfört allt som hänt i nyhetsväg? Det blir utan tvekan en spännande kamp i veckans Lantzkampen. Annika Lantz är programledare och den helt jävla underbara människan Sara Lövestam är domare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLars,Norén,är,inte,släkt,med,lag,Norén,,och,Reinfeldt,har,svårt,med,språket</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4787609.mp3" length="42486690" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Aftonbladet möter äntligen Andligheten i en inre resa</title>
+                    <description>I kvällens Lantzkampen möter ärkebiskop Anders Wejryd och journalisten Eric "djupa brunnen" Schüldt de rappa, snabba, kvicka nyhetsskaparna Karin Magnusson och Jan Helin. Vem är egentligen bäst på veckans nyheter? Kan tänkas vara självklart att det är de gudsfromma deltagarna i lag "Andligt" som får ett försprång, men det kan nog också vara att de profana nyhetsnäsorna i lag Aftonbladet har en chans. Domare är som vanligt den älskade och beundrade författaren och SFI-läraren Sara Lövestam, programledare är Annika Lantz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4779641.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131129_1800_44685f9.mp3</guid>
+                    <pubDate>Fri, 29 Nov 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I kvällens Lantzkampen möter ärkebiskop Anders Wejryd och journalisten Eric "djupa brunnen" Schüldt de rappa, snabba, kvicka nyhetsskaparna Karin Magnusson och Jan Helin. Vem är egentligen bäst på veckans nyheter? Kan tänkas vara självklart att det är de gudsfromma deltagarna i lag "Andligt" som får ett försprång, men det kan nog också vara att de profana nyhetsnäsorna i lag Aftonbladet har en chans. Domare är som vanligt den älskade och beundrade författaren och SFI-läraren Sara Lövestam, programledare är Annika Lantz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenAftonbladet,möter,äntligen,Andligheten,i,en,inre,resa</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4779641.mp3" length="42473042" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>VM-kval mot Bolibompa</title>
+                    <description>I den här veckans Lantzkampen tävlar Lars Ohly och Moa Svan i lag VM-kval och Ylva Hällen och  Nassim al Fakir i lag Bolibompa. Programledare var Annika Lantz, domare var Sara Lövestam. Producent: Anna Emanuelsson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4771829.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131122_1800_42d8c0c.mp3</guid>
+                    <pubDate>Fri, 22 Nov 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I den här veckans Lantzkampen tävlar Lars Ohly och Moa Svan i lag VM-kval och Ylva Hällen och  Nassim al Fakir i lag Bolibompa. Programledare var Annika Lantz, domare var Sara Lövestam. Producent: Anna Emanuelsson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenVM-kval,mot,Bolibompa</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4771829.mp3" length="42272151" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>TeVe möter PeTre</title>
+                    <description>Radiodrottningarna Linnea Wikblad och Martina Thun från systerkanalen P3 (PP3 och Morgonpasset) möter TeVe-personligheterna Pekka Heino och Pererik Åberg. Missa inte det nya tävlingsmomentet "Urspårningen"!  Lekledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4763970.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131115_1800_4620722.mp3</guid>
+                    <pubDate>Fri, 15 Nov 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Radiodrottningarna Linnea Wikblad och Martina Thun från systerkanalen P3 (PP3 och Morgonpasset) möter TeVe-personligheterna Pekka Heino och Pererik Åberg. Missa inte det nya tävlingsmomentet "Urspårningen"!  Lekledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenTeVe,möter,PeTre</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4763970.mp3" length="42461557" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Scenskräcken sätter sina klor i stjärnorna på isen</title>
+                    <description>"Scenskräcken" sätter skräck i "Stjärnor på is", med vidgade ögon och avsmalnande blickar i dagens "Lantzkampen". Hör var man använder sig av tomater, skor, glitter och tårtor för att prostera mot sånt man inte gillar.  Konståkningsexperten, och den flerfaldigt SM-segrande konståkaren Filip Stiller ställer upp tillsammans med programledaren och stjärnan Carina Berg i lag "Stjärnor på is". Skådespelaren, och numer prefekten, Simon Norrthon tillsammans med teaterkritikern och kulturjournalisten Jenny Teleman utgör lag "Scenskräcken".  Lekledare är som alltid Annika Lantz, och domaren heter naturligtvis Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4756119.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131108_1800_4490ef1.mp3</guid>
+                    <pubDate>Fri, 08 Nov 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>"Scenskräcken" sätter skräck i "Stjärnor på is", med vidgade ögon och avsmalnande blickar i dagens "Lantzkampen". Hör var man använder sig av tomater, skor, glitter och tårtor för att prostera mot sånt man inte gillar.  Konståkningsexperten, och den flerfaldigt SM-segrande konståkaren Filip Stiller ställer upp tillsammans med programledaren och stjärnan Carina Berg i lag "Stjärnor på is". Skådespelaren, och numer prefekten, Simon Norrthon tillsammans med teaterkritikern och kulturjournalisten Jenny Teleman utgör lag "Scenskräcken".  Lekledare är som alltid Annika Lantz, och domaren heter naturligtvis Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenScenskräcken,sätter,sina,klor,i,stjärnorna,på,isen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4756119.mp3" length="42438957" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det blir inte jämnt skägg när "Män med skägg" möter "Tecknarna"</title>
+                    <description>Ett hetero i Hägersten, och en människa på sjunde våningen. En polis med hund och tatueringar och en gymägande skäggis fyller burarna i Sveriges Radio P1:s motsvarighet till "På Spåret". Lyssna när lag "Tecknarna" möter lag "Män med skägg", dvs: Sofia Olsson och Åsa Grennvall mot Jonas Leksell och Hans Wiklund, pratar fotboll, avlyssningsskandaler och tyska kön i Lantzkampen. Lekledare är som alltid Annika Lantz, som övervakas av den ständige domaren Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4748437.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131101_1800_43b399c.mp3</guid>
+                    <pubDate>Fri, 01 Nov 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Ett hetero i Hägersten, och en människa på sjunde våningen. En polis med hund och tatueringar och en gymägande skäggis fyller burarna i Sveriges Radio P1:s motsvarighet till "På Spåret". Lyssna när lag "Tecknarna" möter lag "Män med skägg", dvs: Sofia Olsson och Åsa Grennvall mot Jonas Leksell och Hans Wiklund, pratar fotboll, avlyssningsskandaler och tyska kön i Lantzkampen. Lekledare är som alltid Annika Lantz, som övervakas av den ständige domaren Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenDet,blir,inte,jämnt,skägg,när,"Män,med,skägg",möter,"Tecknarna"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4748437.mp3" length="42472950" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Supersnipporna mot Södra Sverige.</title>
+                    <description>Supersnippan möter södra Sverige i Lantzkampen!   Denna veckan bjuder vi på en lyssna på en dräpande, drypande och skorrande Lanzkamp när de anonyma supersnipporna från bloggen Supersnippan möter Thomas Nordegren och Josefin "Josefinito" Johansson i lag södra Sverige.   En supersnippa är ju per definiton oslagbar, men de tuffa programledarna från Sveriges sydliga breddgrader har nog ändå en chans.   Annika Lanz spelar som vanligt rollen som programledare tillsammans med den fabulösa Sara Lövestam i rollen som domare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4740652.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131025_1900_427e5e8.mp3</guid>
+                    <pubDate>Fri, 25 Oct 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Supersnippan möter södra Sverige i Lantzkampen!   Denna veckan bjuder vi på en lyssna på en dräpande, drypande och skorrande Lanzkamp när de anonyma supersnipporna från bloggen Supersnippan möter Thomas Nordegren och Josefin "Josefinito" Johansson i lag södra Sverige.   En supersnippa är ju per definiton oslagbar, men de tuffa programledarna från Sveriges sydliga breddgrader har nog ändå en chans.   Annika Lanz spelar som vanligt rollen som programledare tillsammans med den fabulösa Sara Lövestam i rollen som domare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenSupersnipporna,mot,Södra,Sverige.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4740652.mp3" length="42641851" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tomtekamp på liv och död, och nya härskartekniker.</title>
+                    <description>I Lantzkampen möts äntligen tomtarna från TV-huset mot radions egna nissar. Vem vet mest om veckans nyheter? Nu får vi äntligen svaret när Jonas Hellman Driessen och Per Simonsson från SVT:s julkalender "Tjuvarnas jul" möter Nour el Refai och Camilla van der Meer Söderberg från årets radiojulkalender "Alla barnen firar jul".  Programledare är som vanligt den utmärkta Annika Lantz och den helt sjukt kunniga dommaren Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4732782.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131018_1800_43a8b27.mp3</guid>
+                    <pubDate>Fri, 18 Oct 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I Lantzkampen möts äntligen tomtarna från TV-huset mot radions egna nissar. Vem vet mest om veckans nyheter? Nu får vi äntligen svaret när Jonas Hellman Driessen och Per Simonsson från SVT:s julkalender "Tjuvarnas jul" möter Nour el Refai och Camilla van der Meer Söderberg från årets radiojulkalender "Alla barnen firar jul".  Programledare är som vanligt den utmärkta Annika Lantz och den helt sjukt kunniga dommaren Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenTomtekamp,på,liv,och,död,,och,nya,härskartekniker.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4732782.mp3" length="42373377" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gyttjebrottningsmatch mellan Miley Cyrus och Sinéad O'Connor!</title>
+                    <description>Hanna Fahl och Mange Schmidt representerar Miley Cyrus. Ola Söderholm och Andres Lokko representerar Sinéad O`Connor. Och det blir en riktigt smutsig gyttjebrottningsmatch i studio 8 i Radiohuset i Stockholm. Hör Fredrik Reinfeldt på ett sätt som du inte har gjort tidigare. Hör Ebba Witt-Brattström förklara att feminismen kan bota alla. Hör domare Sara Lövestam döma den mest spännande matchen hittills. Allt i dagens avsnitt av Lantzkampen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4724997.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131011_1800_43537b4.mp3</guid>
+                    <pubDate>Fri, 11 Oct 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Hanna Fahl och Mange Schmidt representerar Miley Cyrus. Ola Söderholm och Andres Lokko representerar Sinéad O`Connor. Och det blir en riktigt smutsig gyttjebrottningsmatch i studio 8 i Radiohuset i Stockholm. Hör Fredrik Reinfeldt på ett sätt som du inte har gjort tidigare. Hör Ebba Witt-Brattström förklara att feminismen kan bota alla. Hör domare Sara Lövestam döma den mest spännande matchen hittills. Allt i dagens avsnitt av Lantzkampen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenGyttjebrottningsmatch,mellan,Miley,Cyrus,och,Sinéad,O'Connor!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4724997.mp3" length="42425246" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kamp mellan generationerna</title>
+                    <description>Mitt i brinnande PPM-debatt tar även Lantzkampen formen av en GENERATIONERNAS KAMP: Unga mot gamla, 80-talister mot 40-talister. Vem vinner ikväll - och vem vinner i längden? För lag Seniorerna tävlar författaren och Expressen-journalisten Cecilia Hagen och Kerstin Brunnberg, ordförande i Statens Kulturråd och tidigare vd för Sveriges Radio. I juniorlaget finner vi ledarna för två politiska ungdomsförbund: SSU:s Gabriel Wikström och CUF:s Hanna Wagenius. Programledare: Annika Lantz Domare: Sara Lövestam</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4717115.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20131004_1900_42d55b0.mp3</guid>
+                    <pubDate>Fri, 04 Oct 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Mitt i brinnande PPM-debatt tar även Lantzkampen formen av en GENERATIONERNAS KAMP: Unga mot gamla, 80-talister mot 40-talister. Vem vinner ikväll - och vem vinner i längden? För lag Seniorerna tävlar författaren och Expressen-journalisten Cecilia Hagen och Kerstin Brunnberg, ordförande i Statens Kulturråd och tidigare vd för Sveriges Radio. I juniorlaget finner vi ledarna för två politiska ungdomsförbund: SSU:s Gabriel Wikström och CUF:s Hanna Wagenius. Programledare: Annika Lantz Domare: Sara Lövestam</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenKamp,mellan,generationerna</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4717115.mp3" length="42301172" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Författare mot förläggare direkt från Bokmässan</title>
+                    <description>P1-lyssnaren kan inte undgå att det pågår en bok- och biblioteksmässa i Göteborg. Lantzkampen sänder direkt från Sveriges Radios monter inför en vetgirig och entusiastisk publik. På scen finns förstås de tävlande lagen Författarna och Förläggarna. I författarlaget kämpar Lena Andersson och Katerina Janouch. De möter förläggarna Svante Weyler och Hans-Olov Öberg. Vem vinner?   Programledare är som vanligt Annika Lantz och domare är Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4709467.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130927_0900_208935d.mp3</guid>
+                    <pubDate>Fri, 27 Sep 2013 07:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>P1-lyssnaren kan inte undgå att det pågår en bok- och biblioteksmässa i Göteborg. Lantzkampen sänder direkt från Sveriges Radios monter inför en vetgirig och entusiastisk publik. På scen finns förstås de tävlande lagen Författarna och Förläggarna. I författarlaget kämpar Lena Andersson och Katerina Janouch. De möter förläggarna Svante Weyler och Hans-Olov Öberg. Vem vinner?   Programledare är som vanligt Annika Lantz och domare är Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenFörfattare,mot,förläggare,direkt,från,Bokmässan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4709467.mp3" length="42430664" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Oheliga allianser när Kyrkan möter Staten</title>
+                    <description>I den här veckans Lantzkampen får NATURLIGA FIENDER äntligen tävla TILLSAMMANS! Prästen Annika Borg leder lag Kyrkan och har tagit med sig den sekulära samhällsdebattören Christer Sturmark. De två tävlar mot lag Staten som utgörs av folkpartisten och integrationsministern Erik Ullenhag och den ledande socialdemokraten Veronica Palm.  Som vanligt är den fantastiska Annika Lantz programledare och den enväldige Sara Lövestam programmets domare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4701289.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130920_1900_441bd76.mp3</guid>
+                    <pubDate>Fri, 20 Sep 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>I den här veckans Lantzkampen får NATURLIGA FIENDER äntligen tävla TILLSAMMANS! Prästen Annika Borg leder lag Kyrkan och har tagit med sig den sekulära samhällsdebattören Christer Sturmark. De två tävlar mot lag Staten som utgörs av folkpartisten och integrationsministern Erik Ullenhag och den ledande socialdemokraten Veronica Palm.  Som vanligt är den fantastiska Annika Lantz programledare och den enväldige Sara Lövestam programmets domare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenOheliga,allianser,när,Kyrkan,möter,Staten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4701289.mp3" length="42360844" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen - Natur mot Kultur</title>
+                    <description>Nu är det dags igen för Sveriges Radios mest aktuella frågesportsprogram där den exeptionella Annika Lantz är programledare och författaren Sara Lövestam är domare. I den här veckans program ska vi äntligen få svart på vitt vem som är överlägsen vem - kan kulturen överlista naturen? eller är naturens krafter ostoppbara? Lag natur består av den unge Salomon Abresparr, ordförande för Fältbiologerna och Åsa Romson språkrör för Miljöpartiet de gröna. Mot dessa jordens försvarare tävlar två skyddshelgon för de sköna konsterna: Johan Hilton, chef på bokförlaget Atlas och Kristin Lundell, kulturskribent på Svenska Dagbladet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4693326.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130913_1900_432305a.mp3</guid>
+                    <pubDate>Fri, 13 Sep 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Nu är det dags igen för Sveriges Radios mest aktuella frågesportsprogram där den exeptionella Annika Lantz är programledare och författaren Sara Lövestam är domare. I den här veckans program ska vi äntligen få svart på vitt vem som är överlägsen vem - kan kulturen överlista naturen? eller är naturens krafter ostoppbara? Lag natur består av den unge Salomon Abresparr, ordförande för Fältbiologerna och Åsa Romson språkrör för Miljöpartiet de gröna. Mot dessa jordens försvarare tävlar två skyddshelgon för de sköna konsterna: Johan Hilton, chef på bokförlaget Atlas och Kristin Lundell, kulturskribent på Svenska Dagbladet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,-,Natur,mot,Kultur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4693326.mp3" length="42283442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen - Natur mot Kultur</title>
+                    <description>Nu är det dags igen för Sveriges Radios mest aktuella frågesportsprogram där den exeptionella Annika Lantz är programledare och författaren Sara Lövestam är domare. I den här veckans program ska vi äntligen få svart på vitt vem som är överlägsen vem - kan kulturen överlista naturen? eller är naturens krafter ostoppbara? Lag natur består av den unge Salomon Abresparr, ordförande för Fältbiologerna och Åsa Romson språkrör för Miljöpartiet de gröna. Mot dessa jordens försvarare tävlar två skyddshelgon för de sköna konsterna: Johan Hilton, chef på bokförlaget Atlas och Kristin Lundell, kulturskribent på Svenska Dagbladet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4693330.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130913_1800_44522b9.mp3</guid>
+                    <pubDate>Fri, 13 Sep 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Nu är det dags igen för Sveriges Radios mest aktuella frågesportsprogram där den exeptionella Annika Lantz är programledare och författaren Sara Lövestam är domare. I den här veckans program ska vi äntligen få svart på vitt vem som är överlägsen vem - kan kulturen överlista naturen? eller är naturens krafter ostoppbara? Lag natur består av den unge Salomon Abresparr, ordförande för Fältbiologerna och Åsa Romson språkrör för Miljöpartiet de gröna. Mot dessa jordens försvarare tävlar två skyddshelgon för de sköna konsterna: Johan Hilton, chef på bokförlaget Atlas och Kristin Lundell, kulturskribent på Svenska Dagbladet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,-,Natur,mot,Kultur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4693330.mp3" length="42279680" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I Obamayrans kölvatten: Sverige möter USA</title>
+                    <description>Fortfarande slår svallvågorna efter presidentbesöket upp mot redaktionernas deskar. Lantzkampens programgrupp är ingalunda undantagen och därför låter vi Lag Sverige möta Lag USA i veckans frågesport om de viktigaste eller mest spännande nyheterna. Sverige representeras av komikern, skådespelaren och programledaren Özz Nûjen. Vid sin sida har han kolumnisten, journalisten och programledaren Alexandra Pascalidou. USA-laget består av nattprataren, sångaren och USA-ättlingen Richard Herrey. Det blå/vit/röda banerets färger hedras också av lagkamraten och radiorookien Kelly Smith. Annika Lantz leder programmet. Sara Lövestam dömer. Lyssna!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4685426.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130906_2000_42f7fc9.mp3</guid>
+                    <pubDate>Fri, 06 Sep 2013 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Fortfarande slår svallvågorna efter presidentbesöket upp mot redaktionernas deskar. Lantzkampens programgrupp är ingalunda undantagen och därför låter vi Lag Sverige möta Lag USA i veckans frågesport om de viktigaste eller mest spännande nyheterna. Sverige representeras av komikern, skådespelaren och programledaren Özz Nûjen. Vid sin sida har han kolumnisten, journalisten och programledaren Alexandra Pascalidou. USA-laget består av nattprataren, sångaren och USA-ättlingen Richard Herrey. Det blå/vit/röda banerets färger hedras också av lagkamraten och radiorookien Kelly Smith. Annika Lantz leder programmet. Sara Lövestam dömer. Lyssna!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenI,Obamayrans,kölvatten:,Sverige,möter,USA</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4685426.mp3" length="42352463" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Pajaser och publicister tvingas till latinet</title>
+                    <description>Det är dags för ännu en rafflande nutidsorientering i tävlingsform. Idag mäter komikerna Jonatan Unge och Emma Knyckare sina kunskaper mot publicisterna Kalle Lind och Heidi Avallan. Drabbningen sker inför öppen ridå och en entusiastisk publik på Humorfestivalen i Lund. Programledaren Annika Lantz testar vilket lag som hängt med bäst i veckans nyhetsutbud Naturligtvis handlar det om Angeles Bermudez-Svankvist (ja, men hur uttalas det nu??), Lundsberg och norska underrättelsetjänsten.  Den som avgör vem som har rätt är den visa domaren Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4677795.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130830_1800_47b8a05.mp3</guid>
+                    <pubDate>Fri, 30 Aug 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Det är dags för ännu en rafflande nutidsorientering i tävlingsform. Idag mäter komikerna Jonatan Unge och Emma Knyckare sina kunskaper mot publicisterna Kalle Lind och Heidi Avallan. Drabbningen sker inför öppen ridå och en entusiastisk publik på Humorfestivalen i Lund. Programledaren Annika Lantz testar vilket lag som hängt med bäst i veckans nyhetsutbud Naturligtvis handlar det om Angeles Bermudez-Svankvist (ja, men hur uttalas det nu??), Lundsberg och norska underrättelsetjänsten.  Den som avgör vem som har rätt är den visa domaren Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenPajaser,och,publicister,tvingas,till,latinet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4677795.mp3" length="42320528" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Äntligen en ärlig fajt mellan Knegarna och Kapitalet</title>
+                    <description>Nu är väntan över, nu är spänningen olidlig. Det är äntligen dax för säsongspremiären av Lantzkampen. Som alltid leds programmet av den oförliknelige Annika Lantz, i tyst symbios med programmets domare: Sara Löwestam. Dagens tävlare kommer alla från tydliga samhällsklasser, och klyftan mellan de båda lagen är avgrundsdjup. Vi hittar Karl-Petter Thorwaldsson, LO-ordförande i lag "Knegare" tillsammans med Annelie Nordström, Kommunals ordförande. Karl-Petter - eller Kålle som han kallas av de närmaste - och Annelie har hörts frusta: "Vi kommer inte att slicka uppåt och sparka neråt!" I lag "Kapitalet" hittar vi den forne spionen, bokhandelsägaren och VD:n för Svensk Handel: Dag Klackenberg som tillsammans med moderaten samt Sveriges Kommuner och Landstings förhandlingsdelegations ordförande: Ingela Gardner Sundström tävlar mot Knegarna. Ryktet säger att Kapitalet satsar på att piska lag Knegarna iklädda vita handskar av satin, i denna frågekamp där det är lika svårt att ha rätt, som helt </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4676423.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130823_1800_415f264.mp3</guid>
+                    <pubDate>Fri, 23 Aug 2013 16:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Nu är väntan över, nu är spänningen olidlig. Det är äntligen dax för säsongspremiären av Lantzkampen. Som alltid leds programmet av den oförliknelige Annika Lantz, i tyst symbios med programmets domare: Sara Löwestam. Dagens tävlare kommer alla från tydliga samhällsklasser, och klyftan mellan de båda lagen är avgrundsdjup. Vi hittar Karl-Petter Thorwaldsson, LO-ordförande i lag "Knegare" tillsammans med Annelie Nordström, Kommunals ordförande. Karl-Petter - eller Kålle som han kallas av de närmaste - och Annelie har hörts frusta: "Vi kommer inte att slicka uppåt och sparka neråt!" I lag "Kapitalet" hittar vi den forne spionen, bokhandelsägaren och VD:n för Svensk Handel: Dag Klackenberg som tillsammans med moderaten samt Sveriges Kommuner och Landstings förhandlingsdelegations ordförande: Ingela Gardner Sundström tävlar mot Knegarna. Ryktet säger att Kapitalet satsar på att piska lag Knegarna iklädda vita handskar av satin, i denna frågekamp där det är lika svårt att ha rätt, som helt </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenÄntligen,en,ärlig,fajt,mellan,Knegarna,och,Kapitalet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4676423.mp3" length="42346512" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen 20130614 1816, 20130615 2003</title>
+                    <description>SÄSONGSFINAL! Efter en vår fylld av ädel kunskapskamp, blodfylld leklust och vinnarskallementalitet är vi nu framme vid säsongsfinal. Världen kom ju tillbaka starkt genom en övertygande seger förra veckan - återstår nu att se om Sveriges Radio orkar svara såhär tätt inpå sommaruppehållet. Här är laguppställningarna: Lag Världen: Anna Maria Corazza Bildt, EU-parlamentariker och skådespelaren Björn Kjellman. Lag Sveriges Radio: Hannes Fossbo, programledare för Nya Vågen och Caroline Lagergren, nyhetsankare på P3 Nyheter. Hur påverkas Corazza Bildts form av att hon kommer direkt från Strasbourg? Björn Kjellman är upptagen med inspelningar på dagarna - hinner han ta till sig några nyheter? Kommer Hannes Fossbo att kunna hantera sin övertändning? Eller kan Caroline Lagergrens nyhetstiming fälla avgörandet? Nu räknar vi ned till matchstart...</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4594245.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130614_1900_4366e5a.mp3</guid>
+                    <pubDate>Fri, 14 Jun 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>SÄSONGSFINAL! Efter en vår fylld av ädel kunskapskamp, blodfylld leklust och vinnarskallementalitet är vi nu framme vid säsongsfinal. Världen kom ju tillbaka starkt genom en övertygande seger förra veckan - återstår nu att se om Sveriges Radio orkar svara såhär tätt inpå sommaruppehållet. Här är laguppställningarna: Lag Världen: Anna Maria Corazza Bildt, EU-parlamentariker och skådespelaren Björn Kjellman. Lag Sveriges Radio: Hannes Fossbo, programledare för Nya Vågen och Caroline Lagergren, nyhetsankare på P3 Nyheter. Hur påverkas Corazza Bildts form av att hon kommer direkt från Strasbourg? Björn Kjellman är upptagen med inspelningar på dagarna - hinner han ta till sig några nyheter? Kommer Hannes Fossbo att kunna hantera sin övertändning? Eller kan Caroline Lagergrens nyhetstiming fälla avgörandet? Nu räknar vi ned till matchstart...</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,20130614,1816,,20130615,2003</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4594245.mp3" length="42394667" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Psykkrig i studion</title>
+                    <description>Flera verbala påhopp och psykningar präglade den tionde omgången av Lantzkampen. Stundtals var också försöken att smöra för domaren så genomskinliga att Sara Lövestam fick ryta ifrån och meddela att hon kände sig "oljig" av falska komplimanger. En match med hög densitet. I Lag Världen tävlade Gustav Fridolin, språkrör för miljöpartiet och Dilsa Demirbag-Sten, författare och krönikör. Sveriges Radio representerades av Yasmine El-Rafie, utvecklingsredaktör för sociala medier på avdelningen Digitala Medier och Augustin Erba, producent och huvudförfattare för Radioteaterns "Världshistorien".</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4585899.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130607_1900_437edac.mp3</guid>
+                    <pubDate>Fri, 07 Jun 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Flera verbala påhopp och psykningar präglade den tionde omgången av Lantzkampen. Stundtals var också försöken att smöra för domaren så genomskinliga att Sara Lövestam fick ryta ifrån och meddela att hon kände sig "oljig" av falska komplimanger. En match med hög densitet. I Lag Världen tävlade Gustav Fridolin, språkrör för miljöpartiet och Dilsa Demirbag-Sten, författare och krönikör. Sveriges Radio representerades av Yasmine El-Rafie, utvecklingsredaktör för sociala medier på avdelningen Digitala Medier och Augustin Erba, producent och huvudförfattare för Radioteaterns "Världshistorien".</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenPsykkrig,i,studion</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4585899.mp3" length="42387846" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rafflande in i det sista när Avhopparna möter De Lojala</title>
+                    <description>Det är dags för Lantzkampens hittills mest prestigeladdade match. En match där tidigare arbetspartners möts - men i olika lag. En match där SR möter SVT. En match där alla som medverkar vandrat i Radiohusets korridorer, men där några valt att vandra vidare - ut ur Radiohuset. Nu är de tillbaka, och ett obekräftat rykte säger att de förberett sig för kvällen genom ett träningssläger på hög höjd. Orkar Sveriges Radio stå upp mot avhopparna? Här är laguppställningarna: Lag Världen: Camilla Kvartoft och Anders Holmberg, en gång starka P1-profiler, nu programledare på SVT. Lag Sveriges Radio: Monica Saarinen, programledare för Ekots Lördagsintervju, och Jonatan Unge från Tankesmedjan i P3. Domaren, som ikväll kommer att ställas inför sin kanske svåraste omgång hittills, heter som alltid Sara Lövestam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4578620.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130531_1900_42deef2.mp3</guid>
+                    <pubDate>Fri, 31 May 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Det är dags för Lantzkampens hittills mest prestigeladdade match. En match där tidigare arbetspartners möts - men i olika lag. En match där SR möter SVT. En match där alla som medverkar vandrat i Radiohusets korridorer, men där några valt att vandra vidare - ut ur Radiohuset. Nu är de tillbaka, och ett obekräftat rykte säger att de förberett sig för kvällen genom ett träningssläger på hög höjd. Orkar Sveriges Radio stå upp mot avhopparna? Här är laguppställningarna: Lag Världen: Camilla Kvartoft och Anders Holmberg, en gång starka P1-profiler, nu programledare på SVT. Lag Sveriges Radio: Monica Saarinen, programledare för Ekots Lördagsintervju, och Jonatan Unge från Tankesmedjan i P3. Domaren, som ikväll kommer att ställas inför sin kanske svåraste omgång hittills, heter som alltid Sara Lövestam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenRafflande,in,i,det,sista,när,Avhopparna,möter,De,Lojala</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4578620.mp3" length="42400049" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Debatt om sex-stunt höjde matchtemperaturen</title>
+                    <description>Kan det överhuvudtaget finnas en enda notis ur veckans nyhetsflod som veckans tävlande inte har koll på? Den åttonde omgången av Lantzkampen mönstrar ett gäng tävlande som där man är tveksam om det är blod och inte just nyheter som rinner i ådrorna. En tät drabbning väntar mellan två av den svenska pressens tuffaste pennor och två programledaress från P1 morgon. Känn spänningen. Känn krutröken. Här är laguppsställningarna: Lag Världen: Lena Mellin, politisk kommentator på Aftonbladet, och Elisabet Höglund, frilansjournalist och tidigare mångårig korrespondent på SVT. Lag Sveriges Radio: Katherine Zimmerman och Johar Bendjelloul, båda programledare för P1 Morgon.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4570159.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130524_1900_43c24bf.mp3</guid>
+                    <pubDate>Fri, 24 May 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Kan det överhuvudtaget finnas en enda notis ur veckans nyhetsflod som veckans tävlande inte har koll på? Den åttonde omgången av Lantzkampen mönstrar ett gäng tävlande som där man är tveksam om det är blod och inte just nyheter som rinner i ådrorna. En tät drabbning väntar mellan två av den svenska pressens tuffaste pennor och två programledaress från P1 morgon. Känn spänningen. Känn krutröken. Här är laguppsställningarna: Lag Världen: Lena Mellin, politisk kommentator på Aftonbladet, och Elisabet Höglund, frilansjournalist och tidigare mångårig korrespondent på SVT. Lag Sveriges Radio: Katherine Zimmerman och Johar Bendjelloul, båda programledare för P1 Morgon.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenDebatt,om,sex-stunt,höjde,matchtemperaturen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4570159.mp3" length="42376763" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen - en familjeuppgörelse</title>
+                    <description>Att Lantzkampen är ett program som skär rakt genom samhällslagren är ju väl känt. Ett frågesportprogram som avlyssnas såväl i gistna torparstugor i Västerbottens inland som i Regeringskansliets korridorer. Men den här veckan går vi längre - nu vill vi testa hur programmet påverkar en parrelation. Kan man vinna fördel i vår tävling genom att känna sin motståndare från frukostbordet? Två av våra tävlande, Natalia Kazmierska och Martin Aagård lever ihop. Men ikväll tävlar de i olika lag. Den totala ställningen mellan SR och Världen är 3 - 3. Spänningen är olidlig. Här är laguppställningarna: Lag Världen: Martin Aagård, kulturjournalist på Aftonbladet, och Katarina Barrling, statsvetare och frankofil. Lag Sveriges Radio: Natalia Kazmierska. programledare på P3 Nyheter och Karsten Thurfjell, producent på Kulturradion och gastronom.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4561536.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130517_1900_440b253.mp3</guid>
+                    <pubDate>Fri, 17 May 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Att Lantzkampen är ett program som skär rakt genom samhällslagren är ju väl känt. Ett frågesportprogram som avlyssnas såväl i gistna torparstugor i Västerbottens inland som i Regeringskansliets korridorer. Men den här veckan går vi längre - nu vill vi testa hur programmet påverkar en parrelation. Kan man vinna fördel i vår tävling genom att känna sin motståndare från frukostbordet? Två av våra tävlande, Natalia Kazmierska och Martin Aagård lever ihop. Men ikväll tävlar de i olika lag. Den totala ställningen mellan SR och Världen är 3 - 3. Spänningen är olidlig. Här är laguppställningarna: Lag Världen: Martin Aagård, kulturjournalist på Aftonbladet, och Katarina Barrling, statsvetare och frankofil. Lag Sveriges Radio: Natalia Kazmierska. programledare på P3 Nyheter och Karsten Thurfjell, producent på Kulturradion och gastronom.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,-,en,familjeuppgörelse</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4561536.mp3" length="42339883" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Storseger för SR i Lantzkampen</title>
+                    <description>En knallhård Lantzkampsduell väntar. Men vad är hemligheten bakom ett framgångsrikt lag i Lantzkampen? Är det nyhetsnäsan, den breda allmänbildningen, nördig spetskompetens, snabbheten vid tryckknapparna, eller rentav tur? Och hur mycket betyder lagkänslan, att man hittar en vinnarkänsla med sin lagkamrat? Hur stor roll spelar det hur väl man känner varandra? Idel frågor - men snart har vi de rätta svaren! Här kommer laguppställningarna - på pappret en synnerligen svårbedömd match: Lag Världen: Landsbygdsminister Eskil Erlandsson tävlar tillsammans med förra SSU-orföranden Jytte Guteland, numera projektledare på tankesmedjan Global Utmaning. Lag Sveriges Radio: Emma Knyckare, programledare för Tankesmedjan i P3, och Simon Svensson, komiker och satiriker i P1.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4552890.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130510_1900_436e87a.mp3</guid>
+                    <pubDate>Fri, 10 May 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>En knallhård Lantzkampsduell väntar. Men vad är hemligheten bakom ett framgångsrikt lag i Lantzkampen? Är det nyhetsnäsan, den breda allmänbildningen, nördig spetskompetens, snabbheten vid tryckknapparna, eller rentav tur? Och hur mycket betyder lagkänslan, att man hittar en vinnarkänsla med sin lagkamrat? Hur stor roll spelar det hur väl man känner varandra? Idel frågor - men snart har vi de rätta svaren! Här kommer laguppställningarna - på pappret en synnerligen svårbedömd match: Lag Världen: Landsbygdsminister Eskil Erlandsson tävlar tillsammans med förra SSU-orföranden Jytte Guteland, numera projektledare på tankesmedjan Global Utmaning. Lag Sveriges Radio: Emma Knyckare, programledare för Tankesmedjan i P3, och Simon Svensson, komiker och satiriker i P1.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenStorseger,för,SR,i,Lantzkampen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4552890.mp3" length="42315913" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen - spänning in i det sista</title>
+                    <description>Kungen har fyllt år. Arbetarrörelsens fanor har smattrat i vinden. Segermaskinen Barcelona har åkt på en tysk käftsmäll i den internationella toppfotbollen. Vissa lider av vårtrötthet, medan Malmö förbereder sig för schlager. Där har ni några av veckans händelser. Men hur kommer dessa att märkas i Lantzkampen? Vad kommer upp på bordet när vi nu laddar för den femte matchen mellan Sveriges Radio och Världen? Den som lyssnar får se. Här är i alla fall laguppställningarna: Lag Världen: Karin Hübinette, programledare på SVT, och Edward Blom, näringslivshistoriker och mat- och dryckkonnässör. Lag Sveriges Radio: Louise Epstein, programledare i P1, och Gurgin Bakircioglu, programledare på SR Metropol. Vem är formstarkast? Snart vet vi.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4545366.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130503_1900_4378e58.mp3</guid>
+                    <pubDate>Fri, 03 May 2013 17:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Kungen har fyllt år. Arbetarrörelsens fanor har smattrat i vinden. Segermaskinen Barcelona har åkt på en tysk käftsmäll i den internationella toppfotbollen. Vissa lider av vårtrötthet, medan Malmö förbereder sig för schlager. Där har ni några av veckans händelser. Men hur kommer dessa att märkas i Lantzkampen? Vad kommer upp på bordet när vi nu laddar för den femte matchen mellan Sveriges Radio och Världen? Den som lyssnar får se. Här är i alla fall laguppställningarna: Lag Världen: Karin Hübinette, programledare på SVT, och Edward Blom, näringslivshistoriker och mat- och dryckkonnässör. Lag Sveriges Radio: Louise Epstein, programledare i P1, och Gurgin Bakircioglu, programledare på SR Metropol. Vem är formstarkast? Snart vet vi.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,-,spänning,in,i,det,sista</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4545366.mp3" length="42344706" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen - Språk och Väder möter Nyheter och Musik.</title>
+                    <description>Förra veckans omgång av Lantzkampen blev oerhört rafflande. Först när det återstod 35 sekunder av programmet lyckades Hanna Hellquist och Thomas Nordegren knipa den sista poängen och erövra Sveriges Radios första seger. Världens Margareta Winberg och Fredrick Federley var förstås besvikna, men samlade. Nu stundar en ny omgång, där Lag Världen har specialkompetens när det gäller väder och språk, medan Sveriges Radio har sin spets i nyheter och musik. De aktuella laguppställningarna: Lag Världen: Patrik Hadenius, chefredaktör för bl a Språktidningen, och "Väder-Pererik" Åberg, meterolog på SVT. Lag Sveriges Radio: Marianne Hasslow, studioreporter på Ekot, och Esmeralda Moberg, programledare för Nya Klingan i P2.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4537510.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130426_2000_43d5fb3.mp3</guid>
+                    <pubDate>Fri, 26 Apr 2013 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Förra veckans omgång av Lantzkampen blev oerhört rafflande. Först när det återstod 35 sekunder av programmet lyckades Hanna Hellquist och Thomas Nordegren knipa den sista poängen och erövra Sveriges Radios första seger. Världens Margareta Winberg och Fredrick Federley var förstås besvikna, men samlade. Nu stundar en ny omgång, där Lag Världen har specialkompetens när det gäller väder och språk, medan Sveriges Radio har sin spets i nyheter och musik. De aktuella laguppställningarna: Lag Världen: Patrik Hadenius, chefredaktör för bl a Språktidningen, och "Väder-Pererik" Åberg, meterolog på SVT. Lag Sveriges Radio: Marianne Hasslow, studioreporter på Ekot, och Esmeralda Moberg, programledare för Nya Klingan i P2.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,-,Språk,och,Väder,möter,Nyheter,och,Musik.</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4537510.mp3" length="42414499" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rafflande slutspurt i Lantzkampen</title>
+                    <description>Sveriges Radio har haft en tung inledning av Lantzkampen, med två raka förluster mot Världen. Det här är förstås nåt som diskuteras dagligen i korridorer och fikarum på alla redaktioner. Nu står hoppet till talkshowankaret Thomas Nordegren och P3-stjärnan Hanna Hellquist från Morgonpasset. Kommer de att palla trycket? Kommer de att hitta lagkänslan redan till snabbfrågorna? Och hur är det med självförtroendet? Konsten att snabbt hitta en lagkänsla blir också avgörande för lag Världen, som den här veckan representeras av Margareta Winberg, tidigare mångårig minister i socialdemokratiska regeringar, och Fredrick Federley, föräldraledig riksdagsledamot för Centern. Ett mycket starkt lag på pappret - men hur väl hänger de med i nyhetsflödet? Hur samspelta är dem? Och hur påverkas moralen om de ligger under efter de inledande frågeronderna? Det enda vi med säkerhet vet är att domaren Sara Lövestam inte är rädd för att dela ut minuspoäng - det visade hon tydligt förra veckan, och att Annika </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4528247.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130419_2000_437610b.mp3</guid>
+                    <pubDate>Fri, 19 Apr 2013 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Sveriges Radio har haft en tung inledning av Lantzkampen, med två raka förluster mot Världen. Det här är förstås nåt som diskuteras dagligen i korridorer och fikarum på alla redaktioner. Nu står hoppet till talkshowankaret Thomas Nordegren och P3-stjärnan Hanna Hellquist från Morgonpasset. Kommer de att palla trycket? Kommer de att hitta lagkänslan redan till snabbfrågorna? Och hur är det med självförtroendet? Konsten att snabbt hitta en lagkänsla blir också avgörande för lag Världen, som den här veckan representeras av Margareta Winberg, tidigare mångårig minister i socialdemokratiska regeringar, och Fredrick Federley, föräldraledig riksdagsledamot för Centern. Ett mycket starkt lag på pappret - men hur väl hänger de med i nyhetsflödet? Hur samspelta är dem? Och hur påverkas moralen om de ligger under efter de inledande frågeronderna? Det enda vi med säkerhet vet är att domaren Sara Lövestam inte är rädd för att dela ut minuspoäng - det visade hon tydligt förra veckan, och att Annika </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenRafflande,slutspurt,i,Lantzkampen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4528247.mp3" length="42378657" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lantzkampen, Torehammar/Forssblad - Linde/Szyber</title>
+                    <description>Ny omgång stundar i Lantzkampen. Vem har bäst koll på den världshistoria som skapats de senaste dagarna? Kommer Annika Lantz att sätta Margaret Thatchers hädanfärd i ett helt nytt ljus? Kommer domaren Sara Lövestam den här gången att dela ut några retorikpoäng? Och hur påverkas stämningen av att Världen idag representeras av ett politiskt blandlag? Förra veckan segrade ju Världen över Sveriges Radio med en ynka poäng. Kan Public Service idag få en snabb revansch? Och vad kommer att avgöra - är det Musikfrågan eller Den Inre Resan? Aktuella laguppställningar: Lag Världen: Vänsterpartiets utrikespolitiske talesperson Hans Linde och Kristdemokraternas Caroline Szyber, partiets talesperson i rättsfrågor. Lag Sveriges Radio: Ekots inrikespolitiske specialreporter Mari Forssblad och programledaren Henrik Torehammar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4518214.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130412_2000_44c89d3.mp3</guid>
+                    <pubDate>Fri, 12 Apr 2013 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Ny omgång stundar i Lantzkampen. Vem har bäst koll på den världshistoria som skapats de senaste dagarna? Kommer Annika Lantz att sätta Margaret Thatchers hädanfärd i ett helt nytt ljus? Kommer domaren Sara Lövestam den här gången att dela ut några retorikpoäng? Och hur påverkas stämningen av att Världen idag representeras av ett politiskt blandlag? Förra veckan segrade ju Världen över Sveriges Radio med en ynka poäng. Kan Public Service idag få en snabb revansch? Och vad kommer att avgöra - är det Musikfrågan eller Den Inre Resan? Aktuella laguppställningar: Lag Världen: Vänsterpartiets utrikespolitiske talesperson Hans Linde och Kristdemokraternas Caroline Szyber, partiets talesperson i rättsfrågor. Lag Sveriges Radio: Ekots inrikespolitiske specialreporter Mari Forssblad och programledaren Henrik Torehammar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenLantzkampen,,Torehammar/Forssblad,-,Linde/Szyber</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4518214.mp3" length="42825545" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Premiär för Lantzkampen</title>
+                    <description>Nu är det dags! Nu drar det igång! Den rafflande frågesporten där Sveriges Radio utmanar resten av Världen när det gäller vem som vet mest om veckan som gått. En drabbning som kommer att kräva egenskaper som lagkänsla, vinnarskalle, intellektuell elasticitet, omvärldanalys, nyhetsnäsa, verbal kvickhet, språkkänsla, lite tur och kanske en portion ödmjukhet inför programledaren Annika Lantz. Den allsmäktige Domaren och poängräknaren heter Sara Lövestam, och hon är totalt oemottaglig för smicker, mutor och skäll. Hon är bra på att räkna, och ännu bättre på grammatik. Laguppställningar för premiärsändningen: För Sveriges Radio tävlar Roger Wilson och Lisa Bergström från programmet Kino, och Lag Världen ställer upp med journalisten Hanna Fahl och författaren David Lagercrantz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4507729.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1_lantzkampen_20130405_2000_45256f2.mp3</guid>
+                    <pubDate>Fri, 05 Apr 2013 18:00:00 GMT</pubDate>
+                    <programid>4469</programid>
+                    <poddid>19243</poddid>
+                    <itunes:summary>Nu är det dags! Nu drar det igång! Den rafflande frågesporten där Sveriges Radio utmanar resten av Världen när det gäller vem som vet mest om veckan som gått. En drabbning som kommer att kräva egenskaper som lagkänsla, vinnarskalle, intellektuell elasticitet, omvärldanalys, nyhetsnäsa, verbal kvickhet, språkkänsla, lite tur och kanske en portion ödmjukhet inför programledaren Annika Lantz. Den allsmäktige Domaren och poängräknaren heter Sara Lövestam, och hon är totalt oemottaglig för smicker, mutor och skäll. Hon är bra på att räkna, och ännu bättre på grammatik. Laguppställningar för premiärsändningen: För Sveriges Radio tävlar Roger Wilson och Lisa Bergström från programmet Kino, och Lag Världen ställer upp med journalisten Hanna Fahl och författaren David Lagercrantz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>LantzkampenPremiär,för,Lantzkampen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4507729.mp3" length="42805773" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

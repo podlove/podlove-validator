@@ -1,0 +1,22 @@
+{
+    "name": "poodle",
+    "version": "0.0.1",
+    "authors": [
+        "lasse"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": ">= 3.1.1",
+        "font-awesome": ">= 4.0.3",
+        "animate.css": ">= 3.1.0",
+        "snap.svg": ">= 0.2.0"
+    }
+
+}

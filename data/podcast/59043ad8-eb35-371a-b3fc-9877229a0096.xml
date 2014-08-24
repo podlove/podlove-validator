@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:14 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:14 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=rkp1kfppdoowo3hfte4wcnjv; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:14 GMT"/>
+        <httpclient:header name="Content-Length" value="45651"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/3821</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/3821" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:14 GMT</lastBuildDate>
+                <image>
+                    <title>Ekonomiekot nyheter </title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=178</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/178/2874586_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Nyheter från EkonomiEkot</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Ekonomiekot nyheter </itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Ekonomiekot nyheter </title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=178</link>
+                <description>Nyheter från EkonomiEkot</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Ekonomieko 20140820 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049243.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140820_0832.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140820,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049243.mp3" length="3841966" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140820 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049041.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140820_0632.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140820,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049041.mp3" length="1938162" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140819 18:00</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048862.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140819_1800.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 16:00:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140819,18:00</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048862.mp3" length="6741383" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140819 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047865.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140819_0832.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140819,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047865.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140819 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047663.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140819_0632.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140819,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047663.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140818 18:00</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047507.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140818_1800.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 16:00:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140818,18:00</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047507.mp3" length="6740965" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140818 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046595.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140818_0832.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140818,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046595.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140818 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046395.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140818_0632.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140818,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046395.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140815 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044433.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140815_0832.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140815,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044433.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140815 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044348.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140815_0732.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140815,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044348.mp3" length="3858267" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140815 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044231.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140815_0632.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140815,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044231.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140814 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043186.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140814_0832.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140814,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043186.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140814 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043087.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140814_0732.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140814,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043087.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140814 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042965.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140814_0632.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140814,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042965.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140813 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041898.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140813_0832.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140813,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041898.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140813 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041828.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140813_0732.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140813,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041828.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140813 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041713.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140813_0632.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140813,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041713.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140812 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040682.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140812_0832.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140812,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040682.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140812 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040580.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140812_0732.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140812,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040580.mp3" length="3858267" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140812 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040479.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140812_0632.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140812,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040479.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140811 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039469.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140811_0832.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140811,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039469.mp3" length="3841966" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140811 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039383.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140811_0732.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140811,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039383.mp3" length="3858267" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140811 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039270.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140811_0632.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140811,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039270.mp3" length="1957004" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140808 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037372.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140808_0832.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140808,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037372.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140808 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037272.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140808_0732.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140808,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037272.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140808 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037175.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140808_0632.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140808,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037175.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140807 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036133.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140807_0832.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140807,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036133.mp3" length="3841966" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140807 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036062.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140807_0732.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140807,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036062.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140807 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035944.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140807_0632.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140807,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035944.mp3" length="1938162" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140806 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034923.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140806_0832.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140806,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034923.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140806 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034837.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140806_0732.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140806,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034837.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140806 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034712.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140806_0632.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140806,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034712.mp3" length="1957004" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140805 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033706.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140805_0832.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140805,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033706.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140805 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033637.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140805_0732.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140805,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033637.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140805 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033511.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140805_0632.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140805,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033511.mp3" length="1938162" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140804 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032528.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140804_0832.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140804,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032528.mp3" length="3841966" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140804 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032417.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140804_0732.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140804,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032417.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140804 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032329.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140804_0632.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140804,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032329.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140801 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030491.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140801_0832.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140801,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030491.mp3" length="3861644" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140801 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030405.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140801_0732.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140801,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030405.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140801 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030311.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140801_0632.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140801,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030311.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140731 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029299.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140731_0832.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140731,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029299.mp3" length="3860808" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140731 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029202.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140731_0732.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140731,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029202.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140731 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029110.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140731_0632.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140731,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029110.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140730 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028048.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140730_0832.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140730,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028048.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140730 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027954.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140730_0732.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140730,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027954.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140730 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027854.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140730_0632.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140730,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027854.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140729 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026872.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140729_0832.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140729,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026872.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140729 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026779.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140729_0732.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140729,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026779.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140729 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026679.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140729_0632.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140729,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026679.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140728 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025671.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140728_0832.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140728,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025671.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140728 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025596.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140728_0732.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140728,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025596.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140728 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025476.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140728_0632.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140728,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025476.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140725 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023573.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140725_0832.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140725,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023573.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140725 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023505.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140725_0732.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140725,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023505.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140725 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023381.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140725_0632.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140725,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023381.mp3" length="1938162" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140724 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022359.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140724_0832.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140724,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022359.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140724 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022284.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140724_0732.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140724,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022284.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140724 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022162.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140724_0632.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140724,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022162.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140723 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021155.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140723_0832.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140723,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021155.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140723 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021074.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140723_0732.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140723,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021074.mp3" length="3877527" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140723 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020962.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140723_0632.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140723,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020962.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140722 08:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140722_0832.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 06:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140722,08:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020005.mp3" length="3861226" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140722 07:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019917.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140722_0732.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 05:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140722,07:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019917.mp3" length="3858267" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ekonomieko 20140722 06:32</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019809.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/ekonomieko_20140722_0632.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 04:32:00 GMT</pubDate>
+                    <programid>178</programid>
+                    <poddid>3821</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Ekonomiekot,nyheter,Ekonomieko,20140722,06:32</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019809.mp3" length="1957422" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

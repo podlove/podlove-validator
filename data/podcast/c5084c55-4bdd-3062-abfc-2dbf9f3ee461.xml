@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:32:47 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Debian)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.4.4-14+deb7u12"/>
+        <httpclient:header name="X-Pingback" value="http://anamericanatheist.org/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Tue, 08 Jul 2014 19:24:19 GMT"/>
+        <httpclient:header name="ETag" value="&#34;ae67dd95187ae7b07c3b4551afbd5b72&#34;"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>An American Atheist</title>
+                <atom:link href="http://anamericanatheist.org/?feed=podcast" rel="self" type="application/rss+xml"/>
+                <link>http://anamericanatheist.org</link>
+                <description>A radio show and podcast about atheism and religious criticism</description>
+                <lastBuildDate>Tue, 08 Jul 2014 19:24:19 +0000</lastBuildDate>
+                <language>en-US</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9.2</generator>
+                <copyright>2013 http://creativecommons.org/licenses/by-nc-sa/2.5/</copyright>
+                <managingEditor>chris@anamericanatheist.org (Christopher Thielen)</managingEditor>
+                <webMaster>chris@anamericanatheist.org (Christopher Thielen)</webMaster>
+                <category>News</category>
+                <ttl>1440</ttl>
+                <image>
+                    <url>http://anamericanatheist.org/wp-content/uploads/2010/05/2nd_gen_144.jpg</url>
+                    <title>An American Atheist</title>
+                    <link>http://anamericanatheist.org</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <itunes:subtitle>Atheism and religious criticism</itunes:subtitle>
+                <itunes:summary>A radio show and podcast about atheism and religious criticism</itunes:summary>
+                <itunes:keywords>atheism, religion, religious, criticism, atheists, news, god, no, religion, american</itunes:keywords>
+                <itunes:category text="Religion &amp; Spirituality"/>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:author>Christopher Thielen</itunes:author>
+                <itunes:owner>
+                    <itunes:name>Christopher Thielen</itunes:name>
+                    <itunes:email>chris@anamericanatheist.org</itunes:email>
+                </itunes:owner>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://anamericanatheist.org/wp-content/uploads/2013/04/aaa_1400_1400.png"/>
+                <item>
+                    <title>Burwell v. Hobby Lobby</title>
+                    <link>http://anamericanatheist.org/2014/07/08/burwell-v-hobby-lobby/</link>
+                    <comments>http://anamericanatheist.org/2014/07/08/burwell-v-hobby-lobby/#comments</comments>
+                    <pubDate>Tue, 08 Jul 2014 19:24:19 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>birth control</category>
+                    <category>Burwell v. Hobby Lobby</category>
+                    <category>contraception</category>
+                    <category>corporate personhood</category>
+                    <category>Hobby Lobby</category>
+                    <category>supreme court</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=6885</guid>
+                    <description>Robin Marie, Chris Lazare, and Christopher Thielen discuss the Supreme Court ruling of Burwell v. Hobby Lobby and what its implications are for women, health care, atheism, and corporate personhood. Burwell v. Hobby Lobby [wikipedia.org] Supreme Court Broadens Hobby Lobby Ruling to All Forms of Birth Control [motherjones.com] Danger sign: The Supreme Court has already [&amp;#8230;]</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/07/08/burwell-v-hobby-lobby/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/6885/0/aaa114.wav.mp3" length="9884188" type="audio/mpeg"/>
+                    <itunes:duration>0:31:59</itunes:duration>
+                    <itunes:subtitle>Robin Marie, Chris Lazare, and Christopher Thielen discuss the Supreme Court ruling of Burwell v. Hobby Lobby and what its implications are for women, health care, atheism, and corporate personhood.
+
+Burwell v. Hobby Lobby [wikipedia.org]
+Supreme Co[...]</itunes:subtitle>
+                    <itunes:summary>Robin Marie, Chris Lazare, and Christopher Thielen discuss the Supreme Court ruling of Burwell v. Hobby Lobby and what its implications are for women, health care, atheism, and corporate personhood.
+
+Burwell v. Hobby Lobby [wikipedia.org]
+Supreme Court Broadens Hobby Lobby Ruling to All Forms of Birth Control [motherjones.com]
+Danger sign: The Supreme Court has already expanded Hobby Lobby decision [latimes.com]
+The Supreme Court’s Hobby Lobby Decision [whitehouse.gov]
+</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Interview with ‘The Unbelievers’ Director Gus Holwerda</title>
+                    <link>http://anamericanatheist.org/2014/06/12/interview-with-the-unbelievers-director-gus-holwerda/</link>
+                    <comments>http://anamericanatheist.org/2014/06/12/interview-with-the-unbelievers-director-gus-holwerda/#comments</comments>
+                    <pubDate>Fri, 13 Jun 2014 04:45:13 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>debate</category>
+                    <category>documentary</category>
+                    <category>Gus Holwerda</category>
+                    <category>Lawrence Krauss</category>
+                    <category>Richard Dawkins</category>
+                    <category>the unbelievers</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=6670</guid>
+                    <description>Tom sits down with &amp;#8220;The Unbelievers&amp;#8221; documentary director&#160;Gus Holwerda to discuss the experience of following&#160;Richard Dawkins and&#160;Lawrence Krauss around the world in debate circuits as well as the experience of&#160;interviewing other well-known atheists. Be sure to check out the documentary on iTunes, Amazon, and elsewhere.</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/06/12/interview-with-the-unbelievers-director-gus-holwerda/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/6670/0/aaa113.wav.mp3" length="7230018" type="audio/mpeg"/>
+                    <itunes:duration>0:22:25</itunes:duration>
+                    <itunes:subtitle>Tom sits down with “The Unbelievers” documentary director&#160;Gus Holwerda to discuss the experience of following&#160;Richard Dawkins and&#160;Lawrence Krauss around the world in debate circuits as well as the experience of&#160;interviewing other well-kn[...]</itunes:subtitle>
+                    <itunes:summary>Tom sits down with “The Unbelievers” documentary director&#160;Gus Holwerda to discuss the experience of following&#160;Richard Dawkins and&#160;Lawrence Krauss around the world in debate circuits as well as the experience of&#160;interviewing other well-known atheists. Be sure to check out the documentary on iTunes, Amazon, and elsewhere.</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Interview with Supreme Court Plaintiff Linda Stephens</title>
+                    <link>http://anamericanatheist.org/2014/05/13/interview-with-supreme-court-plaintiff-linda-stephens/</link>
+                    <comments>http://anamericanatheist.org/2014/05/13/interview-with-supreme-court-plaintiff-linda-stephens/#comments</comments>
+                    <pubDate>Wed, 14 May 2014 02:20:55 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>Greece</category>
+                    <category>Greece v. Galloway</category>
+                    <category>John Auberger</category>
+                    <category>Linda Stephens</category>
+                    <category>New York</category>
+                    <category>prayer</category>
+                    <category>separation of church and state</category>
+                    <category>supreme court</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=6430</guid>
+                    <description>A little more than a week ago, the Supreme Court declared in a 5-4 decision that prayer was&#160;legal at the start of government meetings in the town of Greece, New York. The lawsuit&#160;was filed by residents Linda Stephens and&#160;Susan Galloway, arguing the prayers violated the&#160;Establishment Clause. Tom Beasley spoke with plaintiff Linda Stephens about the [&amp;#8230;]</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/05/13/interview-with-supreme-court-plaintiff-linda-stephens/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/6430/0/aaa112.wav.mp3" length="7822102" type="audio/mpeg"/>
+                    <itunes:duration>0:29:38</itunes:duration>
+                    <itunes:subtitle>A little more than a week ago, the Supreme Court declared in a 5-4 decision that prayer was&#160;legal at the start of government meetings in the town of Greece, New York. The lawsuit&#160;was filed by residents Linda Stephens and&#160;Susan Galloway, arguing the [...]</itunes:subtitle>
+                    <itunes:summary>A little more than a week ago, the Supreme Court declared in a 5-4 decision that prayer was&#160;legal at the start of government meetings in the town of Greece, New York. The lawsuit&#160;was filed by residents Linda Stephens and&#160;Susan Galloway, arguing the prayers violated the&#160;Establishment Clause.
+Tom Beasley spoke with plaintiff Linda Stephens about the history of this lawsuit and her thoughts and feelings about the ruling.
+A transcript of the interview is available at anamericanatheist.org.</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>111: The Phobia of Being Islamophobic</title>
+                    <link>http://anamericanatheist.org/2014/05/06/111-the-phobia-of-being-islamophobic/</link>
+                    <comments>http://anamericanatheist.org/2014/05/06/111-the-phobia-of-being-islamophobic/#comments</comments>
+                    <pubDate>Wed, 07 May 2014 04:36:59 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>Islamophobia</category>
+                    <category>Islamophobic</category>
+                    <category>sam harris</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=6336</guid>
+                    <description>Tom and Robin discuss the phobia of being Islamophobic.</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/05/06/111-the-phobia-of-being-islamophobic/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/6336/0/aaa111.wav.mp3" length="10065823" type="audio/mpeg"/>
+                    <itunes:duration>0:34:18</itunes:duration>
+                    <itunes:subtitle>Tom and Robin discuss the phobia of being Islamophobic.</itunes:subtitle>
+                    <itunes:summary>Tom and Robin discuss the phobia of being Islamophobic.</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>110: But You Said Jehovah</title>
+                    <link>http://anamericanatheist.org/2014/04/28/110-but-you-said-jehovah/</link>
+                    <comments>http://anamericanatheist.org/2014/04/28/110-but-you-said-jehovah/#comments</comments>
+                    <pubDate>Tue, 29 Apr 2014 05:55:53 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>Antisemitism</category>
+                    <category>bible</category>
+                    <category>easter</category>
+                    <category>faith healing</category>
+                    <category>heaven is real</category>
+                    <category>Ishar</category>
+                    <category>louisiana state book</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=6227</guid>
+                    <description>Tom and Chris utter the name Jehovah and avoid a stoning while recalling: The myth of &amp;#8216;Ishar&amp;#8217; and Easter Ukrainian antisemitism (or propaganda) Oregon faith healing Louisiana&amp;#8217;s state book (hint: King James read it) &amp;#8216;Heaven is Real&amp;#8217; film &amp;#160;</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/04/28/110-but-you-said-jehovah/feed/</wfw:commentRss>
+                    <slash:comments>4</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/6227/0/aaa110.wav.mp3" length="9232697" type="audio/mpeg"/>
+                    <itunes:duration>0:29:56</itunes:duration>
+                    <itunes:subtitle>Tom and Chris utter the name Jehovah and avoid a stoning while recalling:
+
+The myth of ‘Ishar’ and Easter
+Ukrainian antisemitism (or propaganda)
+Oregon faith healing
+Louisiana’s state book (hint: King James read it)
+‘Heaven i[...]</itunes:subtitle>
+                    <itunes:summary>Tom and Chris utter the name Jehovah and avoid a stoning while recalling:
+
+The myth of ‘Ishar’ and Easter
+Ukrainian antisemitism (or propaganda)
+Oregon faith healing
+Louisiana’s state book (hint: King James read it)
+‘Heaven is Real’ film
+
+&#160;</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>109: The Case for Faith (Part Two)</title>
+                    <link>http://anamericanatheist.org/2014/04/15/109-the-case-for-faith-part-two/</link>
+                    <comments>http://anamericanatheist.org/2014/04/15/109-the-case-for-faith-part-two/#comments</comments>
+                    <pubDate>Wed, 16 Apr 2014 00:57:16 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=5973</guid>
+                    <description>Tom Beasley and Chris Lazare wrap up our discussion of Lee Strobel&amp;#8217;s infamous book The Case for Faith. Strobel&amp;#8217;s book covers an important selection of faith-altering concerns Christians may have about their beliefs paired with faith-saving arguments from various academics. Needless to say, the atheists on our panel have a few words they&amp;#8217;d like to [&amp;#8230;]</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/04/15/109-the-case-for-faith-part-two/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/5973/0/aaa109.wav.mp3" length="10872209" type="audio/mpeg"/>
+                    <itunes:duration>0:35:45</itunes:duration>
+                    <itunes:subtitle>Tom Beasley and Chris Lazare wrap up our discussion of Lee Strobel’s infamous book The Case for Faith. Strobel’s book covers an important selection of faith-altering concerns Christians may have about their beliefs paired with faith-savi[...]</itunes:subtitle>
+                    <itunes:summary>Tom Beasley and Chris Lazare wrap up our discussion of Lee Strobel’s infamous book The Case for Faith. Strobel’s book covers an important selection of faith-altering concerns Christians may have about their beliefs paired with faith-saving arguments from various academics. Needless to say, the atheists on our panel have a few words they’d like to add.</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>108: The Case for Faith (Part One)</title>
+                    <link>http://anamericanatheist.org/2014/03/17/108-the-case-for-faith-part-one/</link>
+                    <comments>http://anamericanatheist.org/2014/03/17/108-the-case-for-faith-part-one/#comments</comments>
+                    <pubDate>Tue, 18 Mar 2014 03:46:09 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>belief</category>
+                    <category>evil</category>
+                    <category>Lee Strobel</category>
+                    <category>miracles</category>
+                    <category>objections against faith</category>
+                    <category>objections against religion</category>
+                    <category>The Case for Faith</category>
+                    <category>the problem of evil</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=5899</guid>
+                    <description>Tom, Chris Lazare, and Christopher Thielen discuss Lee Strobel&amp;#8217;s book&#160;The Case For Faith, dissecting the eight objections Strobel believes every person of faith should be able to comprehend. References: Sam Harris debates William Lane Craig&#160;[anamericanatheist.org] Lee Strobel [wikipedia.org] Corrections: David Hume lived in the 18th, not 19th, century. It is estimated that billions of humans, [&amp;#8230;]</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/03/17/108-the-case-for-faith-part-one/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/5899/0/aaa108.wav.mp3" length="9636529" type="audio/mpeg"/>
+                    <itunes:duration>0:28:47</itunes:duration>
+                    <itunes:subtitle>Tom, Chris Lazare, and Christopher Thielen discuss Lee Strobel’s book&#160;The Case For Faith, dissecting the eight objections Strobel believes every person of faith should be able to comprehend.
+References:
+
+Sam Harris debates William Lane Craig&#160;[[...]</itunes:subtitle>
+                    <itunes:summary>Tom, Chris Lazare, and Christopher Thielen discuss Lee Strobel’s book&#160;The Case For Faith, dissecting the eight objections Strobel believes every person of faith should be able to comprehend.
+References:
+
+Sam Harris debates William Lane Craig&#160;[anamericanatheist.org]
+Lee Strobel [wikipedia.org]
+
+Corrections:
+
+David Hume lived in the 18th, not 19th, century.
+It is estimated that billions of humans, not trillions, have ever lived.
+</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>107: The Science Delusion</title>
+                    <link>http://anamericanatheist.org/2014/02/17/107-the-science-delusion/</link>
+                    <comments>http://anamericanatheist.org/2014/02/17/107-the-science-delusion/#comments</comments>
+                    <pubDate>Tue, 18 Feb 2014 02:16:31 +0000</pubDate>
+                    <dc:creator>Christopher Thielen</dc:creator>
+                    <category>Broadcasts</category>
+                    <category>books</category>
+                    <category>Curtis White</category>
+                    <category>ideology</category>
+                    <category>Linda Heuman</category>
+                    <category>materialism</category>
+                    <category>mechanical universe</category>
+                    <category>meditation</category>
+                    <category>science delusion</category>
+                    <category>scientism</category>
+                    <category>The Science Delusion: Asking the Big Questions in a Culture of Easy Answers</category>
+                    <guid isPermaLink="false">http://anamericanatheist.org/?p=5838</guid>
+                    <description>Is science an ideology? Does society follow scientism to a fault? Robin, Colin, Chris Lazare, and Christopher Thielen discuss an interview with cultural critic Curtis White, author of a new book The Science Delusion: Asking the Big Questions in a Culture of Easy Answers. References: The Science Delusion: An Interview with cultural critic Curtis White [&amp;#8230;]</description>
+                    <wfw:commentRss>http://anamericanatheist.org/2014/02/17/107-the-science-delusion/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://anamericanatheist.org/podpress_trac/feed/5838/0/aaa107.wav.mp3" length="9527154" type="audio/mpeg"/>
+                    <itunes:duration>0:29:01</itunes:duration>
+                    <itunes:subtitle>Is science an ideology? Does society follow scientism to a fault? Robin, Colin, Chris Lazare, and Christopher Thielen discuss an interview with cultural critic Curtis White, author of a new book The Science Delusion: Asking the Big Questions in a Cu[...]</itunes:subtitle>
+                    <itunes:summary>Is science an ideology? Does society follow scientism to a fault? Robin, Colin, Chris Lazare, and Christopher Thielen discuss an interview with cultural critic Curtis White, author of a new book The Science Delusion: Asking the Big Questions in a Culture of Easy Answers.
+References:
+
+The Science Delusion: An Interview with cultural critic Curtis White [tricycle.com]
+Curtis White [wikipedia.org]
+The Science Delusion [amazon.com]
+</itunes:summary>
+                    <itunes:keywords>Broadcasts</itunes:keywords>
+                    <itunes:author>Christopher Thielen</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

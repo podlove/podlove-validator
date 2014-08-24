@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:37:19 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="accept_ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podfm="http://podfm.ru/RSS/extension" version="2.0">
+            <channel>
+                <atom:link href="http://8march.podfm.ru/rss/rss.xml" type="application/rss+xml" rel="self"/>
+                <itunes:owner>
+                    <itunes:email>info@podfm.ru</itunes:email>
+                </itunes:owner>
+                <language>ru-ru</language>
+                <itunes:explicit>no</itunes:explicit>
+                <image>
+                    <url>http://file2.podfm.ru/14/141/1416/14165/images/lentava_50910_1_21.jpg</url>
+                    <title>8 марта</title>
+                    <link>http://8march.podfm.ru/</link>
+                </image>
+                <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/lent_50910_big_14.jpg">
+                    <itunes:url>http://file2.podfm.ru/14/141/1416/14165/images/lent_50910_big_14.jpg</itunes:url>
+                    <itunes:link>http://8march.podfm.ru/</itunes:link>
+                </itunes:image>
+                <link>http://8march.podfm.ru/</link>
+                <title>8 марта</title>
+                <description>Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</description>
+                <itunes:summary>Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                <itunes:author>PodFM.ru</itunes:author>
+                <category>История</category>
+                <lastBuildDate>Wed, 20 Aug 2014 16:34:27 +0400</lastBuildDate>
+                <item>
+                    <title>Жозефина Богарне (26) </title>
+                    <link>http://8march.podfm.ru/1360/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1360/</guid>
+                    <pubDate>Tue, 29 Jul 2014 11:28:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1360.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;д.и.н., ведущий научный сотрудник Института всеобщей истории РАН, директор Российско-французского УНЦ исторической антропологии им. М. Блока Александр Чудинов в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1360/file/podfm_stillavincom_8march_26.mp3?channel=rss" length="40679549" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>д.и.н., ведущий научный сотрудник Института всеобщей истории РАН, директор Российско-французского УНЦ исторической антропологии им. М. Блока Александр Чудинов в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2542</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1360_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>885</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Эва Перон (25) </title>
+                    <link>http://8march.podfm.ru/1347/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1347/</guid>
+                    <pubDate>Tue, 22 Jul 2014 12:22:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1347.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Первая леди Аргентины, вторая жена 29-го и 41-го президента Хуана Перона.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1347/file/podfm_stillavincom_8march_25.mp3?channel=rss" length="33661597" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Первая леди Аргентины, вторая жена 29-го и 41-го президента Хуана Перона.</itunes:summary>
+                    <itunes:duration>2104</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1347_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>762</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александра Коллонтай (24) </title>
+                    <link>http://8march.podfm.ru/1336/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1336/</guid>
+                    <pubDate>Tue, 15 Jul 2014 11:17:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1336.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Русская революционерка, государственный деятель и дипломат. Чрезвычайный и полномочный посол СССР. Член ВКП с 1915 года&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1336/file/podfm_stillavincom_8march_24.mp3?channel=rss" length="33416673" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Русская революционерка, государственный деятель и дипломат. Чрезвычайный и полномочный посол СССР. Член ВКП с 1915 года</itunes:summary>
+                    <itunes:duration>2089</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1336_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>863</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Маргарет Тэтчер (23) </title>
+                    <link>http://8march.podfm.ru/1257/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1257/</guid>
+                    <pubDate>Tue, 03 Jun 2014 13:13:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1257.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1257/file/podfm_stillavincom_8march_23.mp3?channel=rss" length="38612741" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2413</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1257_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1155</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Екатерина Медичи (22) </title>
+                    <link>http://8march.podfm.ru/1248/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1248/</guid>
+                    <pubDate>Wed, 28 May 2014 12:14:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1248.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк, профессор, завотделом Западноевропейского Средневековья и раннего Нового времени Института всеобщей истории РАН Павел Уваров в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1248/file/podfm_stillavincom_8march_22.mp3?channel=rss" length="41291024" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк, профессор, завотделом Западноевропейского Средневековья и раннего Нового времени Института всеобщей истории РАН Павел Уваров в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2581</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1248_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1110</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Клеопатра (21) </title>
+                    <link>http://8march.podfm.ru/1209/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1209/</guid>
+                    <pubDate>Tue, 08 Apr 2014 12:53:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1209.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Заместитель заведующего кафедрой истории древнего мира исторического факультета МГУ Ольга Томашевич в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1209/file/podfm_stillavincom_8march_21.mp3?channel=rss" length="41459461" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Заместитель заведующего кафедрой истории древнего мира исторического факультета МГУ Ольга Томашевич в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2591</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1209_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1027</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Эдит Пиаф (20) </title>
+                    <link>http://8march.podfm.ru/1197/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1197/</guid>
+                    <pubDate>Tue, 01 Apr 2014 12:56:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1197.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1197/file/podfm_stillavincom_8march_20.mp3?channel=rss" length="41382975" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2586</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1197_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1014</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Айседора Дункан (19) </title>
+                    <link>http://8march.podfm.ru/1185/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1185/</guid>
+                    <pubDate>Tue, 25 Mar 2014 12:33:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1185.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Зам. гендиректора ГЦТМ им. А.А.Бахрушина по научной деятельности Наталья Катонова в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1185/file/podfm_stillavincom_8march_19.mp3?channel=rss" length="31952562" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Зам. гендиректора ГЦТМ им. А.А.Бахрушина по научной деятельности Наталья Катонова в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>1997</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1185_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1022</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Клара Цеткин (18) </title>
+                    <link>http://8march.podfm.ru/1164/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1164/</guid>
+                    <pubDate>Tue, 11 Mar 2014 12:39:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1164.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк, политолог Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1164/file/podfm_stillavincom_8march_18.mp3?channel=rss" length="38093218" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк, политолог Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2381</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1164_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1139</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Мата Хари (17) </title>
+                    <link>http://8march.podfm.ru/1155/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1155/</guid>
+                    <pubDate>Tue, 04 Mar 2014 13:35:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1155.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1155/file/podfm_stillavincom_8march_17.mp3?channel=rss" length="33473097" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2092</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1155_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1097</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Жаклин Кеннеди (16) </title>
+                    <link>http://8march.podfm.ru/1126/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1126/</guid>
+                    <pubDate>Tue, 28 Jan 2014 11:50:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1126.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1126/file/podfm_stillavincom_8march_16.mp3?channel=rss" length="38502400" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2406</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1126_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1283</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Мария-Антуанетта (15) </title>
+                    <link>http://8march.podfm.ru/1114/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1114/</guid>
+                    <pubDate>Wed, 22 Jan 2014 13:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1114.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Королева Франции, младшая дочь императора Франца I и Марии-Терезии. Супруга короля Франции Людовика XVI с 1770 года. После начала Французской революции была объявлена вдохновительницей контрреволюционных заговоров и интервенции.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1114/file/podfm_stillavincom_8march_15.mp3?channel=rss" length="41037322" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Королева Франции, младшая дочь императора Франца I и Марии-Терезии. Супруга короля Франции Людовика XVI с 1770 года. После начала Французской революции была объявлена вдохновительницей контрреволюционных заговоров и интервенции.</itunes:summary>
+                    <itunes:duration>2565</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1114_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1368</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Роксолана (14) </title>
+                    <link>http://8march.podfm.ru/1104/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1104/</guid>
+                    <pubDate>Fri, 17 Jan 2014 13:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1104.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Президент Института стран Азии и Африки Михаил Мейер в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1104/file/podfm_stillavincom_8march_14.mp3?channel=rss" length="39894204" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Президент Института стран Азии и Африки Михаил Мейер в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2493</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1104_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1475</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Екатерина Вторая (13) </title>
+                    <link>http://8march.podfm.ru/1091/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1091/</guid>
+                    <pubDate>Fri, 27 Dec 2013 13:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1091.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Д.и.н., профессор кафедры истории России средневековья и раннего нового времени факультета архивного дела Историко-архивного института РГГУ Игорь Курукин в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1091/file/podfm_stillavincom_8march_13.mp3?channel=rss" length="40103602" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Д.и.н., профессор кафедры истории России средневековья и раннего нового времени факультета архивного дела Историко-архивного института РГГУ Игорь Курукин в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2506</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1091_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1574</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Грейс Келли (12) </title>
+                    <link>http://8march.podfm.ru/1069/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1069/</guid>
+                    <pubDate>Tue, 10 Dec 2013 11:39:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1069.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк моды Галина Иванкина в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1069/file/podfm_stillavincom_8march_12.mp3?channel=rss" length="38042227" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк моды Галина Иванкина в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2378</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1069_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1304</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Гала Дали (11) </title>
+                    <link>http://8march.podfm.ru/1059/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1059/</guid>
+                    <pubDate>Tue, 03 Dec 2013 11:33:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1059.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1059/file/podfm_stillavincom_8march_11.mp3?channel=rss" length="31835533" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист, очеркист, писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>1990</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1059_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1318</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Княгиня Ольга (10) </title>
+                    <link>http://8march.podfm.ru/1049/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1049/</guid>
+                    <pubDate>Thu, 28 Nov 2013 18:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1049.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Доктор исторических наук, профессор ВШЭ Игорь Данилевский в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1049/file/podfm_stillavincom_8march_10.mp3?channel=rss" length="39155670" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Доктор исторических наук, профессор ВШЭ Игорь Данилевский в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2447</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1049_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1436</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Цы&#160;Си (9) </title>
+                    <link>http://8march.podfm.ru/1037/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1037/</guid>
+                    <pubDate>Tue, 19 Nov 2013 14:24:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1037.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Вдовствующая Великая императрица цинского Китая, с 1861 по 1908 сосредоточившая в своих руках верховную власть. Наложница императора Ичжу, потом вторая жена.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1037/file/podfm_stillavincom_8march_9.mp3?channel=rss" length="40991347" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Вдовствующая Великая императрица цинского Китая, с 1861 по 1908 сосредоточившая в своих руках верховную власть. Наложница императора Ичжу, потом вторая жена.</itunes:summary>
+                    <itunes:duration>2562</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1037_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1201</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Роза Люксембург (8) </title>
+                    <link>http://8march.podfm.ru/1028/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1028/</guid>
+                    <pubDate>Tue, 12 Nov 2013 13:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1028.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1028/file/podfm_stillavincom_8march_8.mp3?channel=rss" length="40414145" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2526</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1028_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1605</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Принцесса Диана (7) </title>
+                    <link>http://8march.podfm.ru/1016/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/1016/</guid>
+                    <pubDate>Tue, 22 Oct 2013 11:19:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1016.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1016/file/podfm_stillavincom_8march_7.mp3?channel=rss" length="18282820" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2285</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1016_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1389</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Елизавета Первая (6) </title>
+                    <link>http://8march.podfm.ru/1006/</link>
+                    <guid>http://stillavincom.podfm.ru/brand/1006/</guid>
+                    <pubDate>Tue, 15 Oct 2013 12:10:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_1006.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Доктор исторических наук, заместитель генерального директора государственного историко-культурного музея-заповедника "Московский Кремль" Ольга Дмитриева в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/1006/file/podfm_stillavincom_brand_6.mp3?channel=rss" length="20243676" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Доктор исторических наук, заместитель генерального директора государственного историко-культурного музея-заповедника "Московский Кремль" Ольга Дмитриева в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2530</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_1006_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1765</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Элеонора Рузвельт (5) </title>
+                    <link>http://8march.podfm.ru/993/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/993/</guid>
+                    <pubDate>Tue, 08 Oct 2013 11:31:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_993.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/993/file/podfm_stillavincom_8march_5.mp3?channel=rss" length="18966602" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Журналист и писатель Серафима Чеботарь в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2371</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_993_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1207</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Нефертити (4) </title>
+                    <link>http://8march.podfm.ru/982/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/982/</guid>
+                    <pubDate>Fri, 04 Oct 2013 15:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_982.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк-египтолог Виктор Солкин в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/982/file/podfm_stillavincom_8march_4.mp3?channel=rss" length="40055536" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк-египтолог Виктор Солкин в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2503</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_982_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1605</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Надежда Крупская (3) </title>
+                    <link>http://8march.podfm.ru/971/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/971/</guid>
+                    <pubDate>Thu, 26 Sep 2013 18:30:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_971.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.&lt;br /&gt;
+&lt;br /&gt;
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/971/file/podfm_stillavincom_8march_3.mp3?channel=rss" length="39636323" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк Ярослав Листов в гостях у утреннего шоу Сергея Стиллавина.
+
+Истории жизни великих женщин в новом проекте утреннего шоу радиостанции "Маяк". Каждый вторник новая история и новые неизвестные подробности их биографии.</itunes:summary>
+                    <itunes:duration>2477</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_971_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1368</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Мэрилин Монро (2) </title>
+                    <link>http://8march.podfm.ru/961/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/961/</guid>
+                    <pubDate>Tue, 17 Sep 2013 12:28:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_961.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк моды Галина Иванкина в гостях у утреннего шоу Сергея Стиллавина.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/961/file/podfm_stillavincom_8march_2.mp3?channel=rss" length="38289241" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк моды Галина Иванкина в гостях у утреннего шоу Сергея Стиллавина.</itunes:summary>
+                    <itunes:duration>2393</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_961_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1222</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Жанна Д’Арк (1) </title>
+                    <link>http://8march.podfm.ru/960/</link>
+                    <guid>http://stillavincom.podfm.ru/8march/960/</guid>
+                    <pubDate>Thu, 12 Sep 2013 12:25:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/14/141/1416/14165/images/pod_960.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Историк-медиевист Ольга Тогоева в гостях у утреннего шоу.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://8march.podfm.ru/960/file/podfm_stillavincom_8march_1.mp3?channel=rss" length="40340585" type="audio/mpeg"/>
+                    <itunes:author>Стиллавин.pro</itunes:author>
+                    <itunes:summary>Историк-медиевист Ольга Тогоева в гостях у утреннего шоу.</itunes:summary>
+                    <itunes:duration>2521</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/14/141/1416/14165/images/pod_960_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1273</podfm:downloadCount>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

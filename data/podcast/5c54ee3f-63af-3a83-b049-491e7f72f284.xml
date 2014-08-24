@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:16:33 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="X-Runtime" value="8"/>
+        <httpclient:header name="Last-Modified" value="Tue, 04 Feb 2014 15:28:28 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=9f9c9f3b28ce07af91b3ba4a4f4f9e05; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 12:16:33 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="2670"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Podcast de Russian Red</title>
+                <link>http://181983.podomatic.com</link>
+                <description>Podcast de Russian Red</description>
+                <language>en-us</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Tue, 04 Feb 2014 15:28:28 GMT</pubDate>
+                <itunes:keywords>Music</itunes:keywords>
+                <itunes:subtitle>Podcast de Russian Red</itunes:subtitle>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/13/97/73/roberto-garcia81983/pro/1400x1400-0x0+0+0_9214479.jpg"/>
+                <itunes:author>Podcast Russian Red</itunes:author>
+                <itunes:summary>Podcast de Russian Red</itunes:summary>
+                <itunes:category text="Music"/>
+                <atom:link rel="self" type="application/rss+xml" href="http://181983.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>Podcast de Russian Red</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/13/97/73/roberto-garcia81983/1400x1400-0x0+0+0_9214479.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Podcast en el que Russian Red nos comenta el contenido de su nuevo álbum</description>
+                    <guid isPermaLink="true">http://181983.podomatic.com/entry/2014-01-31T05_20_51-08_00</guid>
+                    <comments>http://181983.podomatic.com/entry/2014-01-31T05_20_51-08_00</comments>
+                    <pubDate>Fri, 31 Jan 2014 13:20:51 GMT</pubDate>
+                    <dcterms:modified>2014-01-31</dcterms:modified>
+                    <dcterms:created>2014-01-31</dcterms:created>
+                    <link>http://181983.podomatic.com</link>
+                    <dc:creator>Podcast Russian Red</dc:creator>
+                    <itunes:keywords>russian,red,podcast,music</itunes:keywords>
+                    <enclosure type="video/mp4" length="12732909" url="http://181983.podomatic.com/enclosure/2014-01-31T05_20_51-08_00.mp4"/>
+                    <itunes:image href="http://assets.podomatic.net/ts/13/97/73/roberto-garcia81983/1400x1400-0x0+0+0_9214479.jpg"/>
+                    <itunes:duration>155</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>Podcast en el que Russian Red nos comenta el contenido de su nuevo álbum</itunes:summary>
+                    <itunes:subtitle>Podcast en el que Russian Red nos comenta el contenido de su nuevo álbum</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

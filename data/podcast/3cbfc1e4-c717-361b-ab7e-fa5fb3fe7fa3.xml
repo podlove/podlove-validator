@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:23:16 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Pingback" value="http://44sek.de/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;47f276cd18c1179ded7078aff9fc83f1&#34;"/>
+        <httpclient:header name="Last-Modified" value="Tue, 25 Feb 2014 19:24:03 GMT"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+            <channel>
+                <title>44sekunden</title>
+                <atom:link href="http://44sek.de/feed/podcast/" rel="self" type="application/rss+xml"/>
+                <link>http://44sek.de</link>
+                <description>SHORTCAST</description>
+                <lastBuildDate>Tue, 25 Feb 2014 19:24:03 +0000</lastBuildDate>
+                <language>de-DE</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.9</generator>
+<!-- podcast_generator="Blubrry PowerPress/5.0.4" mode="advanced" -->
+                <itunes:summary>44SEKUNDEN sind Experimente mit Geräuschen und Stimme.</itunes:summary>
+                <itunes:author>Annekathrin Walther</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://44sek.de/wp-content/uploads/powerpress/44sek_itunes.jpg"/>
+                <itunes:owner>
+                    <itunes:name>Annekathrin Walther</itunes:name>
+                    <itunes:email>walther@44sek.de</itunes:email>
+                </itunes:owner>
+                <managingEditor>walther@44sek.de (Annekathrin Walther)</managingEditor>
+                <itunes:subtitle>Shortcast</itunes:subtitle>
+                <itunes:keywords>hörspiel, geräusche, stimme, experiment, erzählung, kurz</itunes:keywords>
+                <image>
+                    <title>44sekunden</title>
+                    <url>http://44sek.de/wp-content/uploads/powerpress/44sek_itunes.jpg</url>
+                    <link>http://44sek.de</link>
+                </image>
+                <itunes:category text="Arts"/>
+                <rawvoice:location>Berlin, Germany</rawvoice:location>
+                <item>
+                    <title>44sek007 Marsmensch</title>
+                    <link>http://44sek.de/44sek007-marsmensch/</link>
+                    <comments>http://44sek.de/44sek007-marsmensch/#comments</comments>
+                    <pubDate>Tue, 25 Feb 2014 19:24:03 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=159</guid>
+                    <description>Mit: Johanna Malchow, Annekathrin Walther</description>
+                    <content:encoded>&lt;p&gt;Mit: Johanna Malchow, Annekathrin Walther&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=159&amp;amp;md5=aa2f6153b3a1d6c00671c652f2c77017" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek007-marsmensch/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2014/01/Marsmensch.mp3" length="1058920" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek007-marsmensch%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek007+Marsmensch&amp;description=Mit%3A+Johanna+Malchow%2C+Annekathrin+Walther&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:keywords>Marsmensch, Explosion, Hupen, Euro</itunes:keywords>
+                    <itunes:subtitle>Mit: Johanna Malchow, Annekathrin Walther</itunes:subtitle>
+                    <itunes:summary>Mit: Johanna Malchow, Annekathrin Walther</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44sek006 Meisenknödel</title>
+                    <link>http://44sek.de/44sek006meisenknodel/</link>
+                    <comments>http://44sek.de/44sek006meisenknodel/#comments</comments>
+                    <pubDate>Mon, 13 Jan 2014 18:28:38 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=154</guid>
+                    <description>Mit: Johanna Malchow, Annekathrin Walther</description>
+                    <content:encoded>&lt;p&gt;Mit: Johanna Malchow, Annekathrin Walther&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=154&amp;amp;md5=122f22997dbd7f1f6753f405f09e4ce9" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek006meisenknodel/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2014/01/Meisenknodel.mp3" length="618892" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek006meisenknodel%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek006+Meisenkn%C3%B6del&amp;description=Mit%3A+Johanna+Malchow%2C+Annekathrin+Walther&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:keywords>Vögel Winterfutter Shortcast</itunes:keywords>
+                    <itunes:subtitle>Mit: Johanna Malchow, Annekathrin Walther</itunes:subtitle>
+                    <itunes:summary>Mit: Johanna Malchow, Annekathrin Walther</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44sek005 Casting</title>
+                    <link>http://44sek.de/44sek-005-casting/</link>
+                    <comments>http://44sek.de/44sek-005-casting/#comments</comments>
+                    <pubDate>Thu, 01 Aug 2013 21:45:01 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=143</guid>
+                    <description>Mit: Marc C. Behrens, Annekathrin Walther</description>
+                    <content:encoded>&lt;p&gt;Mit: Marc C. Behrens, Annekathrin Walther&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=143&amp;amp;md5=c13520fdf704d0986313eb4c0fe210e2" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek-005-casting/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2013/08/Casting.mp3" length="1058914" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek-005-casting%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek005+Casting&amp;description=Mit%3A+Marc+C.+Behrens%2C+Annekathrin+Walther&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:subtitle>Mit: Marc C. Behrens, Annekathrin Walther</itunes:subtitle>
+                    <itunes:summary>Mit: Marc C. Behrens, Annekathrin Walther</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44sek004 Die Knödel</title>
+                    <link>http://44sek.de/44sek004-die-knodel/</link>
+                    <comments>http://44sek.de/44sek004-die-knodel/#comments</comments>
+                    <pubDate>Fri, 12 Jul 2013 21:31:27 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=137</guid>
+                    <description>Mit: Johanna Malchow, Annekathrin Walther</description>
+                    <content:encoded>&lt;p&gt;Mit: Johanna Malchow, Annekathrin Walther&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=137&amp;amp;md5=a5e5dd462be371b19a8cd248c440b2ba" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek004-die-knodel/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2013/07/Die_Knoedel.mp3" length="1058920" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek004-die-knodel%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek004+Die+Kn%C3%B6del&amp;description=Mit%3A+Johanna+Malchow%2C+Annekathrin+Walther&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:subtitle>Mit: Johanna Malchow, Annekathrin Walther</itunes:subtitle>
+                    <itunes:summary>Mit: Johanna Malchow, Annekathrin Walther</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44SEK003 Eine Bleikirsche</title>
+                    <link>http://44sek.de/44sek-003-bleikirsche/</link>
+                    <comments>http://44sek.de/44sek-003-bleikirsche/#comments</comments>
+                    <pubDate>Mon, 01 Jul 2013 08:50:27 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=130</guid>
+                    <description>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Lena Reinhold</description>
+                    <content:encoded>&lt;p&gt;Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Lena Reinhold&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=130&amp;amp;md5=508220528642c23c007e0f1ca452ff01" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek-003-bleikirsche/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2013/07/Eine-Bleikirsche.mp3" length="1058932" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek-003-bleikirsche%2F&amp;language=de_DE&amp;category=audio&amp;title=44SEK003+Eine+Bleikirsche&amp;description=Mit%3A+Marc+C.+Behrens%2C+Lisa+Conrad%2C+Alexandra+Henn%2C+Lena+Reinhold&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:subtitle>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Lena Reinhold</itunes:subtitle>
+                    <itunes:summary>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Lena Reinhold</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44sek002 Es ist Sommer</title>
+                    <link>http://44sek.de/44sek002/</link>
+                    <comments>http://44sek.de/44sek002/#comments</comments>
+                    <pubDate>Wed, 26 Jun 2013 13:46:58 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=115</guid>
+                    <description>Mit: Annekathrin Walther</description>
+                    <content:encoded>&lt;p&gt;Mit: Annekathrin Walther&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=115&amp;amp;md5=e00994d59de2333c3b00f210f91d67cd" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek002/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2013/06/Es-ist-Sommer.mp3" length="1058926" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek002%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek002+Es+ist+Sommer&amp;description=Mit%3A+Annekathrin+Walther&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:subtitle>Mit: Annekathrin Walther</itunes:subtitle>
+                    <itunes:summary>Mit: Annekathrin Walther</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+                <item>
+                    <title>44sek001 44</title>
+                    <link>http://44sek.de/44sek001/</link>
+                    <comments>http://44sek.de/44sek001/#comments</comments>
+                    <pubDate>Mon, 17 Jun 2013 08:42:43 +0000</pubDate>
+                    <dc:creator>Annekathrin</dc:creator>
+                    <category>Episode</category>
+                    <guid isPermaLink="false">http://44sek.de/?p=103</guid>
+                    <description>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Johanna Malchow, Lena Reinhold</description>
+                    <content:encoded>&lt;p&gt;Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Johanna Malchow, Lena Reinhold&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://44sek.de/?flattrss_redirect&amp;amp;id=103&amp;amp;md5=4d41231e6cc8ecd049f6198828790f0c" title="Flattr" target="_blank"&gt;&lt;img src="http://44sek.de/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://44sek.de/44sek001/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <enclosure url="http://44sek.de/wp-content/uploads/2013/06/44.mp3" length="1058924" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=intalamingo&amp;url=http%3A%2F%2F44sek.de%2F44sek001%2F&amp;language=de_DE&amp;category=audio&amp;title=44sek001+44&amp;description=Mit%3A+Marc+C.+Behrens%2C+Lisa+Conrad%2C+Alexandra+Henn%2C+Johanna+Malchow%2C+Lena+Reinhold&amp;tags=blog%2C+shortcast%2C+audio" type="text/html"/>
+                    <itunes:subtitle>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Johanna Malchow, Lena Reinhold</itunes:subtitle>
+                    <itunes:summary>Mit: Marc C. Behrens, Lisa Conrad, Alexandra Henn, Johanna Malchow, Lena Reinhold</itunes:summary>
+                    <itunes:author>Annekathrin Walther</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>44</itunes:duration>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

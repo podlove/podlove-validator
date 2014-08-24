@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/0.4.13"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 18:11:28 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="22806"/>
+        <httpclient:header name="Last-Modified" value="Tue, 19 Aug 2014 14:56:17 GMT"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Мегадром</title>
+                <description>Новости кино и обзоры компьютерных игр.</description>
+                <link>http://www.obltv.ru</link>
+                <itunes:author>Телекомпания ОТВ</itunes:author>
+                <itunes:summary>Новости киноиндустрии, трейлеры, новинки домашнего видео, а также обзоры компьютерных игр.</itunes:summary>
+                <itunes:category text="Games &amp; Hobbies"/>
+                <itunes:category text="TV &amp; Film"/>
+                <itunes:owner>
+                    <itunes:name>webmaster</itunes:name>
+                    <itunes:email>webmaster@obltv.ru</itunes:email>
+                </itunes:owner>
+                <copyright>Телекомпания ОТВ, 2013-2014</copyright>
+                <language>ru-RU</language>
+                <pubDate>Tue, 11 Dec 2012 12:00:00 +0600</pubDate>
+                <itunes:image href="http://212.23.69.165/media/promo/megadrom_itunes_big.jpg"/>
+                <item>
+                    <title>Скоро в кино: Пингвины Мадагаскара [Penguins of Madagascar], Книга жизни [Book of Life]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_180814.mp4" length="66680526" type="video/mp4"/>
+                    <itunes:duration>03:00</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_180814.jpg"/>
+                    <pubDate>Mon, 18 Aug 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: 50 оттенков серого [Fifty Shades of Grey], Рога [Horns]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_280714.mp4" length="58694135" type="video/mp4"/>
+                    <itunes:duration>02:41</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_280714.jpg"/>
+                    <pubDate>Mon, 28 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Город героев [Big Hero 6], Избави нас от лукавого [Deliver Us from Evil]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_210714.mp4" length="64219352" type="video/mp4"/>
+                    <itunes:duration>03:01</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_210714.jpg"/>
+                    <pubDate>Mon, 21 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Планета обезьян: Революция [Dawn of the Planet of the Apes], Шаг вперед: Все или ничего [Step Up: All In]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_150714.mp4" length="64219352" type="video/mp4"/>
+                    <itunes:duration>02:57</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_150714.jpg"/>
+                    <pubDate>Thu, 15 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Исход: Боги и короли [Exodus: Gods and Kings], Люси [Lucy]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_140714.mp4" length="64219352" type="video/mp4"/>
+                    <itunes:duration>02:50</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_140714.jpg"/>
+                    <pubDate>Mon, 14 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Миллион способов потерять голову [A Million Ways to Die in the West], Превосходство [Transcendence], Поддубный</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_080714.mp4" length="65548683" type="video/mp4"/>
+                    <itunes:duration>03:00</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_080714.jpg"/>
+                    <pubDate>Thu, 08 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Город грехов 2: Женщина, ради которой стоит убивать [Sin City: A Dame to Kill For], Несносные боссы 2 [Horrible Bosses 2]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_070714.mp4" length="55809083" type="video/mp4"/>
+                    <itunes:duration>02:32</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_070714.jpg"/>
+                    <pubDate>Mon, 07 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Мачо и ботан-2 [22 Jump Street], Хоть раз в жизни [Begin again], Прогулка по солнечному свету [Walking on Sunshine]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_020714.mp4" length="74163625" type="video/mp4"/>
+                    <itunes:duration>03:18</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_020714.jpg"/>
+                    <pubDate>Wed, 02 Jul 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Черепашки-ниндзя [Teenage Mutant Ninja Turtles], Навстречу шторму [Into the Storm]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_300614.mp4" length="69770135" type="video/mp4"/>
+                    <itunes:duration>03:06</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_300614.jpg"/>
+                    <pubDate>Mon, 30 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Трансформеры: Эпоха истребления [Transformers: Age of Extinction]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_250614.mp4" length="59865883" type="video/mp4"/>
+                    <itunes:duration>02:40</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_250614.jpg"/>
+                    <pubDate>Wed, 25 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Неудержимые 3 [The Expendables 3], Посвященный [The Giver]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_230614.mp4" length="67593186" type="video/mp4"/>
+                    <itunes:duration>03:01</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_230614.jpg"/>
+                    <pubDate>Mon, 23 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Смешанные [Blended], Оборотень [Wer]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_180614.mp4" length="63350032" type="video/mp4"/>
+                    <itunes:duration>02:46</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_180614.jpg"/>
+                    <pubDate>Thu, 17 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Кавказская пленница!, Тупой и еще тупее-2 [Dumb and Dumber To]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_160614.mp4" length="72823292" type="video/mp4"/>
+                    <itunes:duration>03:14</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_160614.jpg"/>
+                    <pubDate>Mon, 16 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Как приручить дракона 2 [How to Train Your Dragon 2]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_110614.mp4" length="59877998" type="video/mp4"/>
+                    <itunes:duration>01:19</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_110614.jpg"/>
+                    <pubDate>Thu, 11 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Великий уравнитель [The Equalizer], Геракл [Hercules]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_100614.mp4" length="72297921" type="video/mp4"/>
+                    <itunes:duration>03:12</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_100614.jpg"/>
+                    <pubDate>Mon, 10 Jun 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: Джек Райан: Теория хаоса [Jack Ryan: Shadow Recruit], Далласский клуб покупателей [Dallas Buyers Club]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_220514.mp4" length="74679932" type="video/mp4"/>
+                    <itunes:duration>03:18</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_220514.jpg"/>
+                    <pubDate>Thu, 22 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Люди Икс: Дни минувшего будущего [X-Men: Days of Future Past], Подарок с характером</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_210514.mp4" length="68433681" type="video/mp4"/>
+                    <itunes:duration>03:03</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_210514.jpg"/>
+                    <pubDate>Wed, 21 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Трансформеры: Эпоха истребления [Transformers: Age Of Extinction], Монстры-2 [Monsters: Dark Continent]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_190514.mp4" length="67407727" type="video/mp4"/>
+                    <itunes:duration>03:00</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_190514.jpg"/>
+                    <pubDate>Mon, 19 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: Телеведущий: И снова здравствуйте [Anchorman 2: The Legend Continues], Прогулки с динозаврами</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_150514.mp4" length="64095045" type="video/mp4"/>
+                    <itunes:duration>02:50</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_150514.jpg"/>
+                    <pubDate>Thu, 15 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Годзилла [Godzilla]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_140514.mp4" length="54017482" type="video/mp4"/>
+                    <itunes:duration>02:24</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_140514.jpg"/>
+                    <pubDate>Wed, 14 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Планета обезьян: Революция [Dawn of the Planet of the Apes], Грань будущего [Edge of Tomorrow]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_120514.mp4" length="78580031" type="video/mp4"/>
+                    <itunes:duration>02:53</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_120514.jpg"/>
+                    <pubDate>Mon, 12 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Домашнее видео: Только для взрослых [Sex Tape], Мачо и ботан 2 [22 Jump Street]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_050514.mp4" length="65246469" type="video/mp4"/>
+                    <itunes:duration>02:53</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_050514.jpg"/>
+                    <pubDate>Mon, 05 May 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Другая женщина [The Other Woman], Кухня в Париже</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_290414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:40</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_290414.jpg"/>
+                    <pubDate>Tue, 29 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Бегущий в лабиринте [The Maze Runner], Тэмми [Tammy]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_280414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:41</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_280414.jpg"/>
+                    <pubDate>Mon, 28 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: 47 ронинов [47 Ronin], Дубровский</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_240414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:41</itunes:duration>
+                    <itunes:image href="http://212.23.69.165/media/news_video/kino_240414.jpg"/>
+                    <pubDate>Thu, 24 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Новый Человек-паук: Высокое напряжение [The Amazing Spider-Man 2]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_230414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:16</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_230414.jpg"/>
+                    <pubDate>Wed, 23 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Как приручить дракона 2 [How to Train Your Dragon 2], Соседи. На тропе войны [Neighbors]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_210414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>03:08</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_210414.jpg"/>
+                    <pubDate>Mon, 21 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: Хоббит: Пустошь Смауга [The Hobbit: The Desolation of Smaug], Starперцы [Last Vegas]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_170414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_170414.jpg"/>
+                    <pubDate>Thu, 17 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Скорый «Москва–Россия», Саботаж [Sabotage]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_160414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_160414.jpg"/>
+                    <pubDate>Wed, 16 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Люди Икс: Дни минувшего будущего [X-Men: Days of Future Past], Миллион способов потерять голову [A Million Ways to Die in the West]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_140414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_140414.jpg"/>
+                    <pubDate>Mon, 14 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: Холодное сердце [Frozen], Невероятная жизнь Уолтера Митти [The Secret Life of Walter Mitty]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_100414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_100414.jpg"/>
+                    <pubDate>Thu, 10 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Дивергент [Divergent], Три дня на убийство [3 Days to Kill]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_090414.mp4" length="64391926" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_090414.jpg"/>
+                    <pubDate>Wed, 09 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Люси [Lucy], Восхождение Юпитер [Jupiter Ascending]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_080414.mp4" length="64317046" type="video/mp4"/>
+                    <itunes:duration>02:51</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_080414.jpg"/>
+                    <pubDate>Tue, 08 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Новинки DVD: 12 лет рабства [12 Years a Slave], Отец-молодец [Delivery Man]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_030414.mp4" length="57862526" type="video/mp4"/>
+                    <itunes:duration>02:34</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_030414.jpg"/>
+                    <pubDate>Thu, 03 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>В прокате: Первый мститель: Другая война [Captain America: The Winter Soldier], Стартап</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kino_020414.mp4" length="62427193" type="video/mp4"/>
+                    <itunes:duration>02:46</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kino_020414.jpg"/>
+                    <pubDate>Wed, 02 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+                <item>
+                    <title>Скоро в кино: Черепашки-ниндзя [Teenage Mutant Ninja Turtles], Геракл [Hercules], Навстречу шторму [Into the Storm]</title>
+                    <description>Новинки кино и обзор компьютерных игр.</description>
+                    <link>http://www.obltv.ru/</link>
+                    <enclosure url="http://212.23.69.165/media/news_video/kinonews_010414.mp4" length="63247197" type="video/mp4"/>
+                    <itunes:duration>02:46</itunes:duration>
+                    <itunes:image href="http://www.obltv.ru/upload/images/kinonews/kinonews_010414.jpg"/>
+                    <pubDate>Tue, 01 Apr 2014 11:30:00 +0600</pubDate>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

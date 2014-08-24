@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:47:33 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu) mod_ssl/2.2.22 OpenSSL/1.0.1"/>
+        <httpclient:header name="Set-Cookie" value="fe_typo_user=1d02c16a71fae4fab567073b1e18a096; path=/"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml;charset=utf-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml;charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Arche Gemeinde Audio Podcast</title>
+                <link>http://www.arche-gemeinde.de/</link>
+                <description>Die Arche ist eine evangelisch-reformierte Freikirche, deren Glaubensmitte das Evangelium ist, die gute Nachricht von Jesus Christus, dem Sohn Gottes. Er nahm die Sünde der Menschen auf sich und starb stellvertretend für sie am Kreuz, damit alle, die an Ihn glauben, Vergebung, Annahme bei Gott und ewiges Leben empfangen.</description>
+                <itunes:subtitle/>
+                <itunes:author>Arche Gemeinde</itunes:author>
+                <itunes:summary>Die Arche ist eine evangelisch-reformierte Freikirche, deren Glaubensmitte das Evangelium ist, die gute Nachricht von Jesus Christus, dem Sohn Gottes. Er nahm die Sünde der Menschen auf sich und starb stellvertretend für sie am Kreuz, damit alle, die an Ihn glauben, Vergebung, Annahme bei Gott und ewiges Leben empfangen.</itunes:summary>
+                <itunes:owner>
+                    <itunes:name>Arche Gemeinde</itunes:name>
+                    <itunes:email>info@arche-gemeinde.de</itunes:email>
+                </itunes:owner>
+                <language>de-de</language>
+                <image>
+                    <title>Arche Gemeinde Audio Podcast</title>
+                    <url>http://www.arche-gemeinde.de/fileadmin/templates/images/logo-arche.jpg</url>
+                    <link>http://www.arche-gemeinde.de/</link>
+                    <width>125</width>
+                    <height>115</height>
+                    <description/>
+                </image>
+                <itunes:image href="http://www.arche-gemeinde.de/fileadmin/templates/images/logo-arche-itunes.jpg"/>
+                <item>
+                    <title>Meine Seele ist stille zu Gott</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=981</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/08/140817-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=981</guid>
+                    <pubDate>Sun, 17 Aug 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gott ist dennoch gut!</title>
+                    <itunes:author>Titus Vogt</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=978</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/08/140810-GodiSoMrgn.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=978</guid>
+                    <pubDate>Sun, 10 Aug 2014 12:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gepriesen sei der Gott meines Heils</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=975</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/08/140803-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=975</guid>
+                    <pubDate>Sun, 03 Aug 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Hüter Israels</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=928</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/07/140727-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=928</guid>
+                    <pubDate>Sun, 27 Jul 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Seine Gnade währt ewig</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=923</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/07/140720-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=923</guid>
+                    <pubDate>Sun, 20 Jul 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Unter dem Schatten Deiner Flügel</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=922</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/07/140713-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=922</guid>
+                    <pubDate>Sun, 13 Jul 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Jetzt ist die angenehme Zeit/Wie Diener sein sollen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=918</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/07/140706-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=918</guid>
+                    <pubDate>Sun, 06 Jul 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das verlorene Schaf</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=910</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/06/140629-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=910</guid>
+                    <pubDate>Sun, 29 Jun 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Jesus, Herr über Alles</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=907</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/06/140622-GodiSoMrgnJP.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=907</guid>
+                    <pubDate>Sun, 22 Jun 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Mit Gott versöhnt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=904</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/06/140615-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=904</guid>
+                    <pubDate>Sun, 15 Jun 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>(Alp-) Traum-Ehe, wie die Mission mit Gott gelingt</title>
+                    <itunes:author>Björn Gödderz</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=901</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Mens%20Ministry/MaennerTreff/2014/06/140614%20AMT.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=901</guid>
+                    <pubDate>Sat, 14 Jun 2014 11:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Unterpfand des Geistes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=900</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/06/140608-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=900</guid>
+                    <pubDate>Sun, 08 Jun 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Darum lassen wir uns nicht entmutigen</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=896</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/06/140601-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=896</guid>
+                    <pubDate>Sun, 01 Jun 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Schatz im zerbrechlichen Gefäß/Bedrängt, aber nicht bedrückt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=891</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/05/140525-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=891</guid>
+                    <pubDate>Sun, 25 May 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Mit Gott durchs dunkle Tal</title>
+                    <itunes:author>Stephanie Gödderz</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=897</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Womens%20Ministry/Frauenfrühstück/2014/05/140524-FrauenFruehstkSG.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=897</guid>
+                    <pubDate>Sat, 24 May 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das helle Licht des Evangeliums</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=889</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/05/140518-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=889</guid>
+                    <pubDate>Sun, 18 May 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die enge Pforte</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=885</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/05/140511-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=885</guid>
+                    <pubDate>Sun, 11 May 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wo der Geist des Herrn ist, da ist Freiheit</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=880</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/05/140504-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=880</guid>
+                    <pubDate>Sun, 04 May 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Hast Du mich lieb?</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=877</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/04/140427-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=877</guid>
+                    <pubDate>Sun, 27 Apr 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Fußmarsch mit Jesus</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=871</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/04/140420-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=871</guid>
+                    <pubDate>Sun, 20 Apr 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Am Fuß des Kreuzes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=870</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2014/04/140418-GodiKarFrWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=870</guid>
+                    <pubDate>Fri, 18 Apr 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Brief Christi</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=867</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/04/140413-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=867</guid>
+                    <pubDate>Sun, 13 Apr 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Geruch des Lebens zum Leben</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=864</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/04/140406-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=864</guid>
+                    <pubDate>Sun, 06 Apr 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wem ihr vergebt, dem vergebe Ich auch</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=855</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/03/140330-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=855</guid>
+                    <pubDate>Sun, 30 Mar 2014 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Maria und Martha</title>
+                    <itunes:author>Stephanie Gödderz</itunes:author>
+                    <itunes:summary>Bitte entschuldigen sie die schlechte Audioqualität.
+Aufgrund eines Versehens ist nicht der richtige Kanal aufgenommen worden.
+Dennoch haben wir uns entschieden den Vortrag zu veröffentlichen, damit er zumindest zur Verfügung steht.</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=911</link>
+                    <description>Bitte entschuldigen sie die schlechte Audioqualität.
+Aufgrund eines Versehens ist nicht der richtige Kanal aufgenommen worden.
+Dennoch haben wir uns entschieden den Vortrag zu veröffentlichen, damit er zumindest zur Verfügung steht.</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Womens%20Ministry/Frauenfrühstück/2014/03/140329-FrauenFruehstkSG.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=911</guid>
+                    <pubDate>Sat, 29 Mar 2014 11:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Das Ja in Christus</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=849</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/03/140323-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=849</guid>
+                    <pubDate>Sun, 23 Mar 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Trost in der Bedrängnis</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=842</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/03/140316-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=842</guid>
+                    <pubDate>Sun, 16 Mar 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Das Fest der Freude</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=840</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/03/140309-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=840</guid>
+                    <pubDate>Sun, 09 Mar 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Sex: Dein Gott, eine Gefahr oder ein Geschenk?</title>
+                    <itunes:author>Björn Gödderz</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=850</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Mens%20Ministry/MaennerTreff/2014/03/2014-03-08%20-%20Sex%20-%20Dein%20Gott-eine%20Gefahr%20oder%20ein%20Geschenk.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=850</guid>
+                    <pubDate>Sat, 08 Mar 2014 11:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Vergiss nicht das Senfkorn</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=837</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/03/140302-GodiSoMrgnJP.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=837</guid>
+                    <pubDate>Sun, 02 Mar 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Rettung des Volkes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=836</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/02/140223-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=836</guid>
+                    <pubDate>Sun, 23 Feb 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Das Böse entlarvt</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=831</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/02/140216-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=831</guid>
+                    <pubDate>Sun, 16 Feb 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der schlaflose König</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=826</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/02/140209-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=826</guid>
+                    <pubDate>Sun, 09 Feb 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Voneinander lernen, Titus 2 - Ein Ruf an alle Frauen</title>
+                    <itunes:author>Katrin Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=833</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Womens%20Ministry/Frauenfrühstück/2014/02/140208-FrauenFruehstkKK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=833</guid>
+                    <pubDate>Sat, 08 Feb 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Leben und Tod in Gottes Hand</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary>^</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=822</link>
+                    <description>^</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/02/140202-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=822</guid>
+                    <pubDate>Sun, 02 Feb 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Komme ich um, so komme ich um.</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=817</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/01/140126-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=817</guid>
+                    <pubDate>Sun, 26 Jan 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Gottes Volk in Bedrängnis</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=812</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/01/140119-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=812</guid>
+                    <pubDate>Sun, 19 Jan 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Esther – vom Waisenkind zur Königin</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=810</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/01/140112-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=810</guid>
+                    <pubDate>Sun, 12 Jan 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein gottloser König</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary>Was tust du, wenn du das Gefühl hast, Gott ist fern? Was machst du, wenn es scheint, dass Gott abwesend ist? Wie verhältst du dich, wenn deine Überzeugungen von Gott anscheinend im Widerspruch zu den Erfahrungen deines Lebens stehen?
+
+Wir beginnen heute mit einer Predigtreihe über das Buch Esther, dass uns wie kaum ein anderes Buch hilft, Fragen wie diese zu stellen und zu beantworten. 
+</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=805</link>
+                    <description>Was tust du, wenn du das Gefühl hast, Gott ist fern? Was machst du, wenn es scheint, dass Gott abwesend ist? Wie verhältst du dich, wenn deine Überzeugungen von Gott anscheinend im Widerspruch zu den Erfahrungen deines Lebens stehen?
+
+Wir beginnen heute mit einer Predigtreihe über das Buch Esther, dass uns wie kaum ein anderes Buch hilft, Fragen wie diese zu stellen und zu beantworten. 
+</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2014/01/140105-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=805</guid>
+                    <pubDate>Sun, 05 Jan 2014 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Gottes allgenügsame Gnade</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=808</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2014/01/140101-GodiNeujahrMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=808</guid>
+                    <pubDate>Wed, 01 Jan 2014 18:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Glaubenstest!</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary>Am Ende dieses Jahres bzw. vor Beginn des nächsten Jahres ist es eine gute Gelegenheit, um sich selbst auf den geistlichen Prüfstand zu begeben. 
+Dies war auch das Anliegen des Paulus in Bezug auf die junge Gemeinde in Korinth. Er sorgte sich um die Gläubigen und wir sehen gerade in den letzten Kapiteln, so auch in unserem Abschnitt, wie der Apostel Paulus das Glaubensleben der Gemeinde in Korinth schützen und stärken will. Paulus fordert die Gemeinde, die Gläubigen auf, sich zu prüfen, ob denn bei ihnen alles in Ordnung sei. Die Korinther sollten prüfen, ob ihr Glaube und ihre Errettung überhaupt echt sind. Das ist eine entscheidende Frage, der wir uns heute auch stellen wollen. Wo stehst du in deinem Glaubensleben?</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=799</link>
+                    <description>Am Ende dieses Jahres bzw. vor Beginn des nächsten Jahres ist es eine gute Gelegenheit, um sich selbst auf den geistlichen Prüfstand zu begeben. 
+Dies war auch das Anliegen des Paulus in Bezug auf die junge Gemeinde in Korinth. Er sorgte sich um die Gläubigen und wir sehen gerade in den letzten Kapiteln, so auch in unserem Abschnitt, wie der Apostel Paulus das Glaubensleben der Gemeinde in Korinth schützen und stärken will. Paulus fordert die Gemeinde, die Gläubigen auf, sich zu prüfen, ob denn bei ihnen alles in Ordnung sei. Die Korinther sollten prüfen, ob ihr Glaube und ihre Errettung überhaupt echt sind. Das ist eine entscheidende Frage, der wir uns heute auch stellen wollen. Wo stehst du in deinem Glaubensleben?</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/12/131229-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=799</guid>
+                    <pubDate>Sun, 29 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Predigt 1. Weihnachtstag</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=802</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2013/12/131225-GodiWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=802</guid>
+                    <pubDate>Wed, 25 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Heiligabend Gottesdienst</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=801</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2013/12/131224-GodiCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=801</guid>
+                    <pubDate>Tue, 24 Dec 2013 16:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Jesus - Name über allen Namen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=796</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/12/131222-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=796</guid>
+                    <pubDate>Sun, 22 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Dem Wunder geglaubt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=795</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/12/131215-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=795</guid>
+                    <pubDate>Sun, 15 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Das Warten auf den Messias</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=787</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/12/131208-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=787</guid>
+                    <pubDate>Sun, 08 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Eine übernatürliche Speisung</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=784</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/12/131201-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=784</guid>
+                    <pubDate>Sun, 01 Dec 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Gott jubelt über Seine Kinder</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=778</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/11/131124-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=778</guid>
+                    <pubDate>Sun, 24 Nov 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Den Durst gestillt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=772</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/11/131110-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=772</guid>
+                    <pubDate>Sun, 10 Nov 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Gottes Barmherzigkeit kennt keine Grenzen</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=770</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/11/131103-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=770</guid>
+                    <pubDate>Sun, 03 Nov 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Erweckung in Ninive</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=767</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/10/131027-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=767</guid>
+                    <pubDate>Sun, 27 Oct 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ünwürdig und doch von Gott geliebt</title>
+                    <itunes:author>C.J. Mahaney</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=764</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/10/131020-GodiSoMrgnCJM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=764</guid>
+                    <pubDate>Sun, 20 Oct 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 8 - Das Privileg eines Bekenners</title>
+                    <itunes:author>C.J. Mahaney</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=763</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/09_131019_Session-5_Das_Privileg_eines_Bekenners-CJ_Mahaney.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=763</guid>
+                    <pubDate>Sat, 19 Oct 2013 19:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Q&amp;A Podiumsdiskussion mit C.J. Mahaney, Jeff Purswell, Wolfgang Wegert und Christian Wegert</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=762</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/08_131019_Session-4_FAQ.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=762</guid>
+                    <pubDate>Sat, 19 Oct 2013 16:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 7 - Der suchende Retter</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=761</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/07_131019_Session-3_Der_suchende_Retter-Jeff_Purswell.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=761</guid>
+                    <pubDate>Sat, 19 Oct 2013 14:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 6 - Botschafter für Christus</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=760</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/06_131019_Session-2_Botschafter_fuer_Christus_Jeff%20Purswell.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=760</guid>
+                    <pubDate>Sat, 19 Oct 2013 11:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 5 - Sei mutig und fürchte dich nicht!</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=759</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/05_131019_Session-1_Sei_mutig_und_fuerchte_dich_nicht-Christian%20Wegert.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=759</guid>
+                    <pubDate>Sat, 19 Oct 2013 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 4 - Die Gemeinde - Gottes Werkzeug für Evangelisation</title>
+                    <itunes:author>C.J. Mahaney</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=758</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/04_131018_Session-3_Die%20Gemeinde_-_Gottes_Werkzeug_fuer_Evangelisation-CJ_Mahaney.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=758</guid>
+                    <pubDate>Fri, 18 Oct 2013 19:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 3 - Evangelisation in der Familie</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=757</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/03_131018_Session-2_Evangelisation_in_der_Familie-Wolfgang_Wegert.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=757</guid>
+                    <pubDate>Fri, 18 Oct 2013 16:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session 2 - Evangelisation und die Souveränität Gottes</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=756</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/02_131018_Session-1_Evangelisation_und_die_Souveraenitaet_Gottes-Jeff_Purswell.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=756</guid>
+                    <pubDate>Fri, 18 Oct 2013 14:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eckstein 2013 - Session1 - Welche Botschaft bekennen wir?</title>
+                    <itunes:author>C.J. Mahaney</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=755</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Konferenzen/Eckstein/2013/01_131017_Session-1_Welche_Botschaft_bekennen_wir-CJ_Mahaney.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=755</guid>
+                    <pubDate>Thu, 17 Oct 2013 19:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Heil ist des Herrn!</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=746</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/10/131013-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=746</guid>
+                    <pubDate>Sun, 13 Oct 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Warum schläfst Du?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=743</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/10/131006-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=743</guid>
+                    <pubDate>Sun, 06 Oct 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Flucht vor dem Angesicht des Herrn</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=737</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/09/130929-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=737</guid>
+                    <pubDate>Sun, 29 Sep 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Lehren zum christlichen Alltag</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=735</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/09/130922-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=735</guid>
+                    <pubDate>Sun, 22 Sep 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Leib der Auferstehung / Tod, wo ist dein Sieg</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=730</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/09/130915-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=730</guid>
+                    <pubDate>Sun, 15 Sep 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Bedeutung der Auferstehung</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=727</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/09/130908-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=727</guid>
+                    <pubDate>Sun, 08 Sep 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Priorität des Evangeliums</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=725</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/09/130901-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=725</guid>
+                    <pubDate>Sun, 01 Sep 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Prophetische Gaben und ihre Ordnung</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=717</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/08/130825-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=717</guid>
+                    <pubDate>Sun, 25 Aug 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Zur Erbauung der Gemeinde</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=713</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/08/130818-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=713</guid>
+                    <pubDate>Sun, 18 Aug 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Notwendigkeit der Liebe</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=551</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/08/130811-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=551</guid>
+                    <pubDate>Sun, 11 Aug 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wer bin ich? Ich bin ein Diener.</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=316</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/08/130804-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=316</guid>
+                    <pubDate>Sun, 04 Aug 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wer bin ich? Ein Heiliger in der Zurüstung</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=265</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/07/130728-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=265</guid>
+                    <pubDate>Sun, 28 Jul 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wer bin ich? Ich bin in Christus</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=263</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/07/130721-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=263</guid>
+                    <pubDate>Sun, 21 Jul 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wer bin ich? Ich bin ein Sünder!</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=261</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/07/130714-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=261</guid>
+                    <pubDate>Sun, 14 Jul 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wer bin ich? Ein geschaffener Mensch!</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary>Unsere Sommer-Predigtserie haben wir mit
+dem Titel überschrieben: „Wer bin ich?“
+Wer bist du? Was ist deine Antwort auf
+diese Frage? Du sagst vielleicht: „Ich bin
+Krankenschwester.“ Ein anderer klagt: „Ich
+bin ein Versager, denn meine Ehe ist
+kaputt.“ Wieder ein anderer brüstet sich:
+„Ich bin erfolgreich.“ Oder jemand meint:
+„Ich bin arm.“ Antworten wie diese zeigen,
+dass man sich über seine subjektiven
+Erfahrungen oder Lebensumstände definiert.
+Für viele ist ihr Beruf oder ein besonders
+einschneidendes Erlebnis so prägend, dass
+sie davon ihre Identität ableiten. „Mein
+Leben ist der Sport“, heißt es dann.
+In dieser Predigtserie möchten wir die Frage
+stellen, was Gott in Seinem Wort über uns
+als Menschen sagt. Wir werden bald sehen,
+dass unsere Identität in erster Linie mit
+unserer Beziehung zu Jesus Christus und
+nicht mit subjektiven und oft negativen
+Lebenserfahrungen zu tun hat.</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=259</link>
+                    <description>Unsere Sommer-Predigtserie haben wir mit
+dem Titel überschrieben: „Wer bin ich?“
+Wer bist du? Was ist deine Antwort auf
+diese Frage? Du sagst vielleicht: „Ich bin
+Krankenschwester.“ Ein anderer klagt: „Ich
+bin ein Versager, denn meine Ehe ist
+kaputt.“ Wieder ein anderer brüstet sich:
+„Ich bin erfolgreich.“ Oder jemand meint:
+„Ich bin arm.“ Antworten wie diese zeigen,
+dass man sich über seine subjektiven
+Erfahrungen oder Lebensumstände definiert.
+Für viele ist ihr Beruf oder ein besonders
+einschneidendes Erlebnis so prägend, dass
+sie davon ihre Identität ableiten. „Mein
+Leben ist der Sport“, heißt es dann.
+In dieser Predigtserie möchten wir die Frage
+stellen, was Gott in Seinem Wort über uns
+als Menschen sagt. Wir werden bald sehen,
+dass unsere Identität in erster Linie mit
+unserer Beziehung zu Jesus Christus und
+nicht mit subjektiven und oft negativen
+Lebenserfahrungen zu tun hat.</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/07/130707-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=259</guid>
+                    <pubDate>Sun, 07 Jul 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Leib, viele Glieder</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=254</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/06/130630-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=254</guid>
+                    <pubDate>Sun, 30 Jun 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Abendmahl</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary>Das Abendmahl, Erinnerung an das Opfer Jesu Christi mit großer Bedeutung für uns Christen.
+In dieser Predigt erklärt Wolfgang Wegert umfassend die Bedeutung des Abendmahls und wie wir uns darauf vorbereiten sollen.
+Es ist Erinnerung, Unterweisung und Verkündigung zugleich.</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=249</link>
+                    <description>Das Abendmahl, Erinnerung an das Opfer Jesu Christi mit großer Bedeutung für uns Christen.
+In dieser Predigt erklärt Wolfgang Wegert umfassend die Bedeutung des Abendmahls und wie wir uns darauf vorbereiten sollen.
+Es ist Erinnerung, Unterweisung und Verkündigung zugleich.</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/06/130623-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=249</guid>
+                    <pubDate>Sun, 23 Jun 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Auf Fels oder Sand gebaut?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=190</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/06/130616-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=190</guid>
+                    <pubDate>Sun, 16 Jun 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Kopfbedeckungen/Mann und Frau und ihre Aufgaben</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=155</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/06/130609-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=155</guid>
+                    <pubDate>Sun, 09 Jun 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Tut alles zur Ehre Gottes!</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary>1Kor 10:23 Es ist mir alles erlaubt - aber es ist nicht alles nützlich ! Es ist mir alles erlaubt - aber es erbaut nicht alles!
+
+Die Korintherchristen hatten dieses Schlagwort aus der säkularen Welt in die Gemeinde übernommen und damit Sünden der Unzucht gerechtfertigt. Sie sagten: Uns Christen ist doch alles erlaubt, man soll sich nur nicht beherrschen lassen. Also wenn man es nicht übertreibt, kann man als Christ in Maßen auch die Ehe brechen. Aber wie ist die Antwort des Paulus auf diese Behauptung?
+</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=147</link>
+                    <description>1Kor 10:23 Es ist mir alles erlaubt - aber es ist nicht alles nützlich ! Es ist mir alles erlaubt - aber es erbaut nicht alles!
+
+Die Korintherchristen hatten dieses Schlagwort aus der säkularen Welt in die Gemeinde übernommen und damit Sünden der Unzucht gerechtfertigt. Sie sagten: Uns Christen ist doch alles erlaubt, man soll sich nur nicht beherrschen lassen. Also wenn man es nicht übertreibt, kann man als Christ in Maßen auch die Ehe brechen. Aber wie ist die Antwort des Paulus auf diese Behauptung?
+</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/06/130602-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=147</guid>
+                    <pubDate>Sun, 02 Jun 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Triumph der souveränen Gnade</title>
+                    <itunes:author>Pete Greasley</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=144</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/05/130526-GodiSoMrgnPG.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=144</guid>
+                    <pubDate>Sun, 26 May 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Getilgte Sünde hat keine Kraft mehr</title>
+                    <itunes:author>Pete Greasley</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=154</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Arche%20Mens%20Ministry/MännerTreff/2013/130525-AMT_PG.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=154</guid>
+                    <pubDate>Sat, 25 May 2013 15:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Kraft des Heiligen Geistes</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=143</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/05/130519-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=143</guid>
+                    <pubDate>Sun, 19 May 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Flieht vor dem Götzendienst / Das Mahl des Herrn: Gemeinschaft mit Jesus </title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=142</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/05/130512-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=142</guid>
+                    <pubDate>Sun, 12 May 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gott der Hoffnung und Zukunft</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=141</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/05/130505-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=141</guid>
+                    <pubDate>Sun, 05 May 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Traum eines Teenager</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=140</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/04/130428-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=140</guid>
+                    <pubDate>Sun, 28 Apr 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Trost in der Versuchung / Gott aber ist treu</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=139</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/04/130421-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=139</guid>
+                    <pubDate>Sun, 21 Apr 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das warnende Beispiel Israel - Das goldene Kalb</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary>Diesmal geht es, bedingt durch die Bibelstelle um Warnungen, Verantwortung und Strafe Gottes. Zunächst erscheint ein solches Thema nicht sehr erbaulich zu sein.
+Aber so ist es nun mal mit Kritik und Zurechtweisung. Zuerst fühlt es sich nicht so gut an. Wenn es dadurch aber zu guten Früchten kommt oder wir vor bösen Dingen bewahrt wurden, dann erkennen wir, wie kostbar es ist, dass Gott uns diese gibt. Somit soll uns auch diese Predigt rein zu Erbauung dienen, auch wenn es sich erst mal nicht so anhört.
+</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=136</link>
+                    <description>Diesmal geht es, bedingt durch die Bibelstelle um Warnungen, Verantwortung und Strafe Gottes. Zunächst erscheint ein solches Thema nicht sehr erbaulich zu sein.
+Aber so ist es nun mal mit Kritik und Zurechtweisung. Zuerst fühlt es sich nicht so gut an. Wenn es dadurch aber zu guten Früchten kommt oder wir vor bösen Dingen bewahrt wurden, dann erkennen wir, wie kostbar es ist, dass Gott uns diese gibt. Somit soll uns auch diese Predigt rein zu Erbauung dienen, auch wenn es sich erst mal nicht so anhört.
+</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/04/130414-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=136</guid>
+                    <pubDate>Sun, 14 Apr 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Es ist Gottes Schuld. …Wirklich?</title>
+                    <itunes:author>Michael Lawrence</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=119</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/04/130407-GodiSoMrgnML.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=119</guid>
+                    <pubDate>Sun, 07 Apr 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Er ist nicht hier – Er ist auferstanden</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=118</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130331-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=118</guid>
+                    <pubDate>Sun, 31 Mar 2013 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die letzten Worte Jesu am Kreuz</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary>Man hat viel über die letzten Worte von bekannten Persönlichkeiten nachgedacht und ihnen zum Teil große Bedeutung beigemessen. Goethe soll gesagt haben: „Mehr Licht!“
+Von Kaiser Augustus lauten vermutlich die letzten Worte: "Habe ich meine Rolle gut gespielt? Nun, so klatscht Beifall, denn die Komödie ist zu Ende."
+Zu Spurgeons letzten Worten zählt man: „Meine Theologie ist auf vier Worte zusammen geschrumpft, Christus starb für mich.“ 
+Welche Worte werden wir auf unserem Sterbebett wählen und werden sie eine tiefere Bedeutung haben?
+
+Wie der Prophet Jesaja prophezeite, ertrug Jesus seine Leiden still und geduldig wie ein Lamm, was aber nicht hieß, dass er nicht auch währenddessen einige Worte sprach. In allen vier Evangelien zusammen genommen finden wir insgesamt sieben Aussprüche des Sohnes Gottes, während er sterbend am Kreuz hing. Jedes Wort für sich ist eine eindrucksvolle Predigt, die wir jetzt chronologisch der Reihe nach einmal durchgehen wollen…</itunes:summary>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=117</link>
+                    <description>Man hat viel über die letzten Worte von bekannten Persönlichkeiten nachgedacht und ihnen zum Teil große Bedeutung beigemessen. Goethe soll gesagt haben: „Mehr Licht!“
+Von Kaiser Augustus lauten vermutlich die letzten Worte: "Habe ich meine Rolle gut gespielt? Nun, so klatscht Beifall, denn die Komödie ist zu Ende."
+Zu Spurgeons letzten Worten zählt man: „Meine Theologie ist auf vier Worte zusammen geschrumpft, Christus starb für mich.“ 
+Welche Worte werden wir auf unserem Sterbebett wählen und werden sie eine tiefere Bedeutung haben?
+
+Wie der Prophet Jesaja prophezeite, ertrug Jesus seine Leiden still und geduldig wie ein Lamm, was aber nicht hieß, dass er nicht auch währenddessen einige Worte sprach. In allen vier Evangelien zusammen genommen finden wir insgesamt sieben Aussprüche des Sohnes Gottes, während er sterbend am Kreuz hing. Jedes Wort für sich ist eine eindrucksvolle Predigt, die wir jetzt chronologisch der Reihe nach einmal durchgehen wollen…</description>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2013/03/130329-GodiKarFrAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=117</guid>
+                    <pubDate>Fri, 29 Mar 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Laufe um den Preis</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=8</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130324-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=8</guid>
+                    <pubDate>Sun, 24 Mar 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Dem Evangelium verpflichtet / Allen alles geworden</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=6</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130317-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=6</guid>
+                    <pubDate>Sun, 17 Mar 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Segen, Diener Gottes zu versorgen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=5</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130310-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=5</guid>
+                    <pubDate>Sun, 10 Mar 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Nur ein Gott / Kein Anstoß den Schwachen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=4</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130303-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=4</guid>
+                    <pubDate>Sun, 03 Mar 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Liebe erbaut / Von Gott erkannt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=3</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/03/130224-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=3</guid>
+                    <pubDate>Sun, 24 Feb 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Das sage ich zu eurem eigenen Nutzen</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=1</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media2013_02_17_Predigt_FH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=1</guid>
+                    <pubDate>Sun, 17 Feb 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Versöhnung statt Scheidung</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=932</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/02/130203-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=932</guid>
+                    <pubDate>Sun, 03 Feb 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein Mann und eine Frau</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=26</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/01/130127-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=26</guid>
+                    <pubDate>Sun, 27 Jan 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Verherrlicht Gott in eurem Leib</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=27</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/01/130120-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=27</guid>
+                    <pubDate>Sun, 20 Jan 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lasst euch nicht irreführen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=29</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/01/130113-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=29</guid>
+                    <pubDate>Sun, 13 Jan 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lieber Unrecht leiden, als Unrecht tun</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=30</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2013/01/130106-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=30</guid>
+                    <pubDate>Sun, 06 Jan 2013 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Nun lässt du deinen Diener in Frieden fahren</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=31</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/12/121230-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=31</guid>
+                    <pubDate>Sun, 30 Dec 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Unsere Hoffnung ist der Himmel</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=32</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/12/121223-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=32</guid>
+                    <pubDate>Sun, 23 Dec 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Tut das Böse aus eurer Mitte hinweg</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=33</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/12/121216-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=33</guid>
+                    <pubDate>Sun, 16 Dec 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein Vater in Christus</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=34</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/12/121209-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=34</guid>
+                    <pubDate>Sun, 09 Dec 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Abschaum der Menschheit</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=35</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/12/121202-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=35</guid>
+                    <pubDate>Sun, 02 Dec 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Was hast du, dass du nicht empfangen hast?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=36</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media" length="4096" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=36</guid>
+                    <pubDate>Sun, 25 Nov 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Richtet nicht vor der Zeit</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=37</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/11/121118-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=37</guid>
+                    <pubDate>Sun, 18 Nov 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Alles ist euer - ihr aber seid Christi</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=38</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/11/121111-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=38</guid>
+                    <pubDate>Sun, 11 Nov 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ihr seid Gottes Bauwerk</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=39</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/11/121104-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=39</guid>
+                    <pubDate>Sun, 04 Nov 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Fleischlich oder geistlich?</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=40</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/10/121028-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=40</guid>
+                    <pubDate>Sun, 28 Oct 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein überraschender Höhepunkt</title>
+                    <itunes:author>C.J. Mahaney</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=41</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/10/121021-GodiSoMrgnCJM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=41</guid>
+                    <pubDate>Sun, 21 Oct 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Was kein Auge gesehen und kein Ohr gehört </title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=42</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/10/121014-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=42</guid>
+                    <pubDate>Sun, 14 Oct 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Prediger des Kreuzes</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=43</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/10/121007-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=43</guid>
+                    <pubDate>Sun, 07 Oct 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Erwählung - damit sich niemand rühme</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=44</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/09/120930-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=44</guid>
+                    <pubDate>Sun, 30 Sep 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Ärgernis des Kreuzes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=46</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/09/120923-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=46</guid>
+                    <pubDate>Sun, 23 Sep 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Getauft auf den Namen des Herrn</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=47</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/09/120916-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=47</guid>
+                    <pubDate>Sun, 16 Sep 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>An die Geheiligten in Christus/ Die Segnung eines Geheiligten</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=48</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/09/120909-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=48</guid>
+                    <pubDate>Sun, 09 Sep 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Unter Gottes Schutzschirm</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=49</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/09/120902-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=49</guid>
+                    <pubDate>Sun, 02 Sep 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das liebliche Los</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=50</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/08/120826-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=50</guid>
+                    <pubDate>Sun, 26 Aug 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Sein Ruhm wird wachsen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=51</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/08/120819-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=51</guid>
+                    <pubDate>Sun, 19 Aug 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Leite mich in deiner Wahrheit</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=52</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/08/120812-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=52</guid>
+                    <pubDate>Sun, 12 Aug 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Heil für alle Völker</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=53</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/08/120805-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=53</guid>
+                    <pubDate>Sun, 05 Aug 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Offenbarung der Herrlichkeit Gottes am Menschen</title>
+                    <itunes:author>Titus Vogt</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=54</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/07/120729-GodiSoMrgnTV.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=54</guid>
+                    <pubDate>Sun, 29 Jul 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Sehnsucht nach Gott</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=55</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/07/120722-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=55</guid>
+                    <pubDate>Sun, 22 Jul 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Herrlichkeit des Wortes Gottes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=57</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/07/120715-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=57</guid>
+                    <pubDate>Sun, 15 Jul 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Herr, belebe uns neu</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=58</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/07/120708-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=58</guid>
+                    <pubDate>Sun, 08 Jul 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Gefangenen Zions</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=59</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/07/120701-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=59</guid>
+                    <pubDate>Sun, 01 Jul 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Familiensegen und Gottesfurcht</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=60</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/06/120624-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=60</guid>
+                    <pubDate>Sun, 24 Jun 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gott spricht</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=61</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/06/120617-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=61</guid>
+                    <pubDate>Sun, 17 Jun 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Frucht des Gebens/ Die Gnade sei mit euch</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=62</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/06/120610-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=62</guid>
+                    <pubDate>Sun, 10 Jun 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Komm zum Abendmahl</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=63</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/06/120603-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=63</guid>
+                    <pubDate>Sun, 03 Jun 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Glück der Zufriedenheit / Die Kraft, zufrieden zu sein</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=64</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/05/120527-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=64</guid>
+                    <pubDate>Sun, 27 May 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Josef - wenn Träume wahr werden</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=65</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/05/120520-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=65</guid>
+                    <pubDate>Sun, 20 May 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gott ist das Evangelium</title>
+                    <itunes:author>John Piper</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=66</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/05/120513-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=66</guid>
+                    <pubDate>Sun, 13 May 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Freut euch!</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=67</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/05/120506-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=67</guid>
+                    <pubDate>Sun, 06 May 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Haltet euch an mein Vorbild / Feinde des Kreuzes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=68</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/04/120429-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=68</guid>
+                    <pubDate>Sun, 29 Apr 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ich jage ihm aber nach / Das Ziel vor Augen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=69</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/04/120422-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=69</guid>
+                    <pubDate>Sun, 22 Apr 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Judas Ischarioth: Immer dabei - und doch nicht bei Jesus</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=70</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/04/120415-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=70</guid>
+                    <pubDate>Sun, 15 Apr 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Damit ich Jesus gewinne / Die Kraft Seiner Auferstehung </title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=71</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/04/120408-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=71</guid>
+                    <pubDate>Sun, 08 Apr 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>König Jesus</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=72</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/04/120401-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=72</guid>
+                    <pubDate>Sun, 01 Apr 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Leben nicht geschont / Vorbilder im Dienst Jesu Christi</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=73</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/03/120325-Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=73</guid>
+                    <pubDate>Sun, 25 Mar 2012 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Verwirklicht eure Rettung / Wollen und Vollbringen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=75</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/03/120318%20Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=75</guid>
+                    <pubDate>Sun, 18 Mar 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Erst erniedrigt, dann erhöht</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=76</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/03/120311%20Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=76</guid>
+                    <pubDate>Sun, 11 Mar 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Jesus sucht und rettet Verlorene</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=77</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/03/120304%20Predigt.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=77</guid>
+                    <pubDate>Sun, 04 Mar 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Eines Sinnes sein / Freude durch Demut</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=19</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/02/120226-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=19</guid>
+                    <pubDate>Sun, 26 Feb 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Kampf für den Glauben / Nicht nur zu glauben, sondern auch zu leiden</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=22</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/02/120219-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=22</guid>
+                    <pubDate>Sun, 19 Feb 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein für alle Mal</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=23</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/02/120212-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=23</guid>
+                    <pubDate>Sun, 12 Feb 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>...dass mir dies zum Heil ausgehen wird / Lust, abzuscheiden</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=25</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/02/120205-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=25</guid>
+                    <pubDate>Sun, 05 Feb 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>In Fesseln für Christus / Wenn doch nur Christus verkündigt wird</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=10</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/01/120129-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=10</guid>
+                    <pubDate>Sun, 29 Jan 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Solidarität in der Verteidigung des Evangeliums / Liebe im Überfluss</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=12</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/01/120122-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=12</guid>
+                    <pubDate>Sun, 22 Jan 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ich danke meinem Gott für euch / Was Gott beginnt, vollendet er auch</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=15</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/01/120115-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=15</guid>
+                    <pubDate>Sun, 15 Jan 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Herr ist gut</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=17</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/01/120108-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=17</guid>
+                    <pubDate>Sun, 08 Jan 2012 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lehre mich tun nach deinem Wohlgefallen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=18</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2012/01/120101-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=18</guid>
+                    <pubDate>Sun, 01 Jan 2012 18:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Heute habe ich dich gezeugt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=83</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/12/111225-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=83</guid>
+                    <pubDate>Sun, 25 Dec 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lobpreis der Gnade Gottes</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=84</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/12/111218-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=84</guid>
+                    <pubDate>Sun, 18 Dec 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Von Generation zu Generation</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=85</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/12/111211-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=85</guid>
+                    <pubDate>Sun, 11 Dec 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Als aber die Zeit erfüllt war / Gott sandte Seinen Sohn</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=86</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/12/111204-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=86</guid>
+                    <pubDate>Sun, 04 Dec 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Überwinde die Bitterkeit</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=87</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/11/111127-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=87</guid>
+                    <pubDate>Sun, 27 Nov 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Sünde und ihre Folgen / Die Bitte um ein reines Herz</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=88</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/11/111120-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=88</guid>
+                    <pubDate>Sun, 20 Nov 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Kommt, lasst uns anbeten</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=89</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/11/111113-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=89</guid>
+                    <pubDate>Sun, 13 Nov 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Meine Seele dürstet nach Gott / Die zwei Naturen des Psalmisten</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=90</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/11/111106-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=90</guid>
+                    <pubDate>Sun, 06 Nov 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Er zog mich aus der Grube</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=91</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/10/111023-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=91</guid>
+                    <pubDate>Sun, 23 Oct 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>O Gott, sei mir gnädig / ...der die Tränen zählt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=92</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/10/111016-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=92</guid>
+                    <pubDate>Sun, 16 Oct 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Christus verherrlichen im Ausharren / Bewahrung wahrer Gläubiger</title>
+                    <itunes:author>Steve Fernandez</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=93</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/10/111009-GodiSoMrgnSF.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=93</guid>
+                    <pubDate>Sun, 09 Oct 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wie lange, o Herr?</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=94</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/10/111002-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=94</guid>
+                    <pubDate>Sun, 02 Oct 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Glück der Gerechten / Gepflanzt an den Wasserbächen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=95</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/09/110925-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=95</guid>
+                    <pubDate>Sun, 25 Sep 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Geborgen in Gott</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=96</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/09/110918-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=96</guid>
+                    <pubDate>Sun, 18 Sep 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wenn das Fischen nichts bringt / Hast du mich lieb?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=97</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/09/110911-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=97</guid>
+                    <pubDate>Sun, 11 Sep 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Auferstandene und Seine Nachfolger</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=98</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/09/110904-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=98</guid>
+                    <pubDate>Sun, 04 Sep 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Herr über Sterben und Auferstehen / Wie Christus sich Sein Leben wiedergibt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=104</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/08/110828-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=104</guid>
+                    <pubDate>Sun, 28 Aug 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title/>
+                    <itunes:author>Matt Schmucker</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=105</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/08/110821-GodiSoMrgnMS.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=105</guid>
+                    <pubDate>Sun, 21 Aug 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Am Fuß des Kreuzes</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=106</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/08/110814-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=106</guid>
+                    <pubDate>Sun, 14 Aug 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Er trug Sein Kreuz</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=107</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/08/110807-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=107</guid>
+                    <pubDate>Sun, 07 Aug 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Euren König soll ich kreuzigen?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=108</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/07/110731-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=108</guid>
+                    <pubDate>Sun, 31 Jul 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Was ist Wahrheit?</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=109</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/07/110724-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=109</guid>
+                    <pubDate>Sun, 24 Jul 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Verleugnung des Petrus</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=110</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/07/110717-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=110</guid>
+                    <pubDate>Sun, 17 Jul 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Jesu schwerster Wegabschnitt beginnt </title>
+                    <itunes:author>Titus Vogt</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=111</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/07/110710-GodiSoMrgnTV.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=111</guid>
+                    <pubDate>Sun, 10 Jul 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Damit sie eins seien</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=112</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/07/110703-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=112</guid>
+                    <pubDate>Sun, 03 Jul 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Besuchersonntag - Der (un)bekannte Gott</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=113</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/06/110626-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=113</guid>
+                    <pubDate>Sun, 26 Jun 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Fürsprecher für immer</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=114</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/06/110619-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=114</guid>
+                    <pubDate>Sun, 19 Jun 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ihr werdet meine Zeugen sein / Bis an das Ende der Erden</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=115</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/06/110612-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=115</guid>
+                    <pubDate>Sun, 12 Jun 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Von Traurigkeit zur Freude</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=116</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/06/110605-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=116</guid>
+                    <pubDate>Sun, 05 Jun 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Geist der Wahrheit / Der wird euch in allen Wahrheit leiten</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=122</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/05/110529-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=122</guid>
+                    <pubDate>Sun, 29 May 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Gehasst von dieser Welt- Der Preis der Nachfolge Jesu</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=123</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/05/110522-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=123</guid>
+                    <pubDate>Sun, 22 May 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Er gibt den Müden Kraft</title>
+                    <itunes:author>Jeff Purswell</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=124</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/05/110515-GodiSoMrgnJP.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=124</guid>
+                    <pubDate>Sun, 15 May 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der junge Mensch und das Wort Gottes</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=125</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/05/110508-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=125</guid>
+                    <pubDate>Sun, 08 May 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Geistliches Wachstum</title>
+                    <itunes:author>Matthias Lohmann</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=126</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/05/110501-GodiSoMrgnML.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=126</guid>
+                    <pubDate>Sun, 01 May 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Er musste auferstehen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=127</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/04/110424-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=127</guid>
+                    <pubDate>Sun, 24 Apr 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Vater, vergib ihnen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=128</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/04/110422-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=128</guid>
+                    <pubDate>Fri, 22 Apr 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Reben am Weinstock </title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=129</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/04/110417-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=129</guid>
+                    <pubDate>Sun, 17 Apr 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein besonderer Friede</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=130</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/04/110410-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=130</guid>
+                    <pubDate>Sun, 10 Apr 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein anderer Beistand</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=131</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/04/110403-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=131</guid>
+                    <pubDate>Sun, 03 Apr 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Euer Herz erschrecke nicht / Der Weg zum Vater</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=132</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/03/110327-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=132</guid>
+                    <pubDate>Sun, 27 Mar 2011 10:00:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wesentliche Kennzeichen des Christen</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=133</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/03/110320-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=133</guid>
+                    <pubDate>Sun, 20 Mar 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Einer wird mich verraten</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=134</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/03/110313-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=134</guid>
+                    <pubDate>Sun, 13 Mar 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Jesus - unser Vorbild!</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=135</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/03/110306-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=135</guid>
+                    <pubDate>Sun, 06 Mar 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ein heiliger Same</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=960</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/02/110227-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=960</guid>
+                    <pubDate>Sun, 27 Feb 2011 10:50:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Herrlichkeit, die Jesaja sah</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=102</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/02/110227-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=102</guid>
+                    <pubDate>Sun, 27 Feb 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Vater, verherrliche deinen Namen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=101</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/02/110213-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=101</guid>
+                    <pubDate>Sun, 13 Feb 2011 10:50:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Herrlichkeit des Todes Christi</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=100</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/02/110213-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=100</guid>
+                    <pubDate>Sun, 13 Feb 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Siehe dein König kommt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=99</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/02/110206-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=99</guid>
+                    <pubDate>Sun, 06 Feb 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Jesu Füße gesalbt / Kleiner Dienst - große Folgen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=78</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/01/110130-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=78</guid>
+                    <pubDate>Sun, 30 Jan 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ungewollte Prophetie</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=79</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/01/110123-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=79</guid>
+                    <pubDate>Sun, 23 Jan 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Auferstehung und das Leben / Der wird leben, auch wenn er stirbt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=80</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/01/110116-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=80</guid>
+                    <pubDate>Sun, 16 Jan 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der, den du lieb hast, ist krank</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=81</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/01/110109-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=81</guid>
+                    <pubDate>Sun, 09 Jan 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Fürchte Gott und hoffe auf Ihn</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=82</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2011/01/110102-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=82</guid>
+                    <pubDate>Sun, 02 Jan 2011 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Gottesdienst der Gemeinde als begehrenswerteste Zeit und Versammlung auf der Erde</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=283</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20Sonstige/2010/101231.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=283</guid>
+                    <pubDate>Fri, 31 Dec 2010 18:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die schwere Kindheit Jesu</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=295</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/12/101226-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=295</guid>
+                    <pubDate>Sun, 26 Dec 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Christus, der Retter, ist da!</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=287</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/12/101219-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=287</guid>
+                    <pubDate>Sun, 19 Dec 2010 10:00:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Bewahrung der Gläubigen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=299</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/12/101212-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=299</guid>
+                    <pubDate>Sun, 12 Dec 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ich bin der gute Hirte</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=305</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/12/101205-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=305</guid>
+                    <pubDate>Sun, 05 Dec 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ich war blind und kann sehen</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=311</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/11/101128-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=311</guid>
+                    <pubDate>Sun, 28 Nov 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Wer hat gesündigt?</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=318</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/11/101121-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=318</guid>
+                    <pubDate>Sun, 21 Nov 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die aus Gott sind, erkennen ihn als Gott</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=929</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/11/101107-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=929</guid>
+                    <pubDate>Sun, 07 Nov 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Jesus macht frei!</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=328</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/10/101031-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=328</guid>
+                    <pubDate>Sun, 31 Oct 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Wer von euch ohne Sünde ist</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=334</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/10/101017-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=334</guid>
+                    <pubDate>Sun, 17 Oct 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ströme lebendigen Wassers</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=336</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/10/101010-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=336</guid>
+                    <pubDate>Sun, 10 Oct 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Leiden Christi am Kreuz / Fragen zum Sühneopfer Christi</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=340</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/10/101003-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=340</guid>
+                    <pubDate>Sun, 03 Oct 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Viel gewusst, aber nichts erkannt / Suchet, so werdet ihr (nicht) finden</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=352</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/09/100926-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=352</guid>
+                    <pubDate>Sun, 26 Sep 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Gelehrter vom Himmel</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=355</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/09/100919-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=355</guid>
+                    <pubDate>Sun, 19 Sep 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die ungläubigen Brüder Jesu</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=358</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/09/100912-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=358</guid>
+                    <pubDate>Sun, 12 Sep 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>„Eine harte und erbauende Rede“</title>
+                    <itunes:author>Markus Kniesel</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=361</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/09/100905-GodiSoMrgnMK.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=361</guid>
+                    <pubDate>Sun, 05 Sep 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Brot des Lebens</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=376</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/08/100829-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=376</guid>
+                    <pubDate>Sun, 29 Aug 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Eine Speise, die nie verdirbt</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=375</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/08/100822-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=375</guid>
+                    <pubDate>Sun, 22 Aug 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ich bin's, fürchtet Euch nicht! </title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=373</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/08/100815-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=373</guid>
+                    <pubDate>Sun, 15 Aug 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>5 Brote und 2 Fische</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=371</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/08/100808-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=371</guid>
+                    <pubDate>Sun, 08 Aug 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Vierfaches Zeugnis über die Gottheit Christi</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=369</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/08/100801-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=369</guid>
+                    <pubDate>Sun, 01 Aug 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Wenn sogar die Toten hören</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=366</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/07/100725-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=366</guid>
+                    <pubDate>Sun, 25 Jul 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Willst Du gesund werden?</title>
+                    <itunes:author>Titus Vogt</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=365</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/07/100718-GodiSoMrgnTV.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=365</guid>
+                    <pubDate>Sun, 18 Jul 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Dein Sohn lebt</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=363</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/07/100711-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=363</guid>
+                    <pubDate>Sun, 11 Jul 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das weiße Erntefeld</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=348</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/07/100704-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=348</guid>
+                    <pubDate>Sun, 04 Jul 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das lebendige Wasser/Wahre Anbeter</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=341</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/06/100627-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=341</guid>
+                    <pubDate>Sun, 27 Jun 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Er muss wachsen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=338</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/06/100620-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=338</guid>
+                    <pubDate>Sun, 20 Jun 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>So sehr hat Gott die Welt geliebt/Wer nicht glaubt, ist schon gerichtet</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=345</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media" length="4096" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=345</guid>
+                    <pubDate>Sun, 13 Jun 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Von neuem geboren</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=332</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/06/100606-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=332</guid>
+                    <pubDate>Sun, 06 Jun 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der gereinigte Tempel/Das Zeichen Jesu</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=330</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/05/100530-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=330</guid>
+                    <pubDate>Sun, 30 May 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Was Er euch sagt, das tut/Das erste Zeichen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=344</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/05/100523-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=344</guid>
+                    <pubDate>Sun, 23 May 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Jesus folgen</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=326</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/05/100516-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=326</guid>
+                    <pubDate>Sun, 16 May 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Lamm Gottes</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=324</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/05/100509-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=324</guid>
+                    <pubDate>Sun, 09 May 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ebnet den Weg des Herrn</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=322</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/05/100502-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=322</guid>
+                    <pubDate>Sun, 02 May 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Vollmacht, Gottes Kind zu sein/Gnade um Gnade</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=320</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/04/100425-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=320</guid>
+                    <pubDate>Sun, 25 Apr 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das göttliche Wort/Die Finsternis hat's nicht begriffen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=312</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/04/100418-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=312</guid>
+                    <pubDate>Sun, 18 Apr 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Glauben statt zu zweifeln</title>
+                    <itunes:author>Titus Vogt</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=315</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/04/100411.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=315</guid>
+                    <pubDate>Sun, 11 Apr 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ostern, der Tag der Entscheidung</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=309</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/04/100404-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=309</guid>
+                    <pubDate>Sun, 04 Apr 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der Erste und der Letzte</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=300</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/03/100328-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=300</guid>
+                    <pubDate>Sun, 28 Mar 2010 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Der wirksame Ruf Gottes</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=298</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/03/100321-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=298</guid>
+                    <pubDate>Sun, 21 Mar 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lebe im Sieg Jesu</title>
+                    <itunes:author>Berne Lekardal</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=290</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/03/100314-GodiSoMrgnBL.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=290</guid>
+                    <pubDate>Sun, 14 Mar 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Anbetung in der Gemeinde Gottes</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=288</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/03/100307-GodiSoMrgnFH.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=288</guid>
+                    <pubDate>Sun, 07 Mar 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Tut alles zur Ehre Gottes/Gott angebeten durch Leben oder Tod</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=285</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/02/100228-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=285</guid>
+                    <pubDate>Sun, 28 Feb 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Güte und Barmherzigkeit werden mir folgen mein Leben lang</title>
+                    <itunes:author>Pete Greasley</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=281</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/02/100221-GodiSoMrgnPG.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=281</guid>
+                    <pubDate>Sun, 21 Feb 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die größte Einladung/Ruhe für die Seele</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=280</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/02/100214-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=280</guid>
+                    <pubDate>Sun, 14 Feb 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Wer mich bekennt, den will auch ich bekennen</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=278</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/02/100207-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=278</guid>
+                    <pubDate>Sun, 07 Feb 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Glaube ist keine Privatsache</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=276</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/01/100131-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=276</guid>
+                    <pubDate>Sun, 31 Jan 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Bewahre, was dir anvertraut ist</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=273</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/01/100124-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=273</guid>
+                    <pubDate>Sun, 24 Jan 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Du aber, o Mensch Gottes/Pflicht zu unerschütterlicher Treue</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=271</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/01/100117-GodiSoMrgnWW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=271</guid>
+                    <pubDate>Sun, 17 Jan 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die gesunden Worte Jesu/Zufrieden in Gott</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=269</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/01/100110-GodiSoMrgnCW.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=269</guid>
+                    <pubDate>Sun, 10 Jan 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Christliches Verhalten am Arbeitsplatz</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=267</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2010/01/100103-GodiSoMrgnAM.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=267</guid>
+                    <pubDate>Sun, 03 Jan 2010 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Die Anbetung der Maria/Die Treue Gottes von Generation zu Generation</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=421</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/12/15_091206.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=421</guid>
+                    <pubDate>Sun, 06 Dec 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Älteste - doppelter Ehre wert</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=422</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/11/14_091129.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=422</guid>
+                    <pubDate>Sun, 29 Nov 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Fürsorge in der Gemeinde</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=423</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/11/13_091122.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=423</guid>
+                    <pubDate>Sun, 22 Nov 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Lass niemand deine Jugend verachten/Fahre fort mit (Vor)Lesen</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=424</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/11/12_091115.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=424</guid>
+                    <pubDate>Sun, 15 Nov 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Adoptiert vom König</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=425</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/11/11_091108.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=425</guid>
+                    <pubDate>Sun, 08 Nov 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Der Kampf um ein göttliches Leben</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=426</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/11/10_091101.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=426</guid>
+                    <pubDate>Sun, 01 Nov 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Ernährt durch das Wort</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=427</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/10/09_251009.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=427</guid>
+                    <pubDate>Sun, 25 Oct 2009 09:30:00 +0100</pubDate>
+                </item>
+                <item>
+                    <title>Verführerische Geister und Lehren von Dämonen</title>
+                    <itunes:author>Frank Huck</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=428</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/10/08_181009.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=428</guid>
+                    <pubDate>Sun, 18 Oct 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Groß ist das Geheimnis der Gottseligkeit/...aufgenommen in Herrlichkeit</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=429</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/10/07_111009.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=429</guid>
+                    <pubDate>Sun, 11 Oct 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das Haus des lebendigen Gottes</title>
+                    <itunes:author>Andy Mertin</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=430</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/10/06_041009.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=430</guid>
+                    <pubDate>Sun, 04 Oct 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Das hohe Gut glaubwürdiger Leiterschaft/Vorbildliche Leiterschaft und ihre Anerkennung</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=431</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/09/05_270909.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=431</guid>
+                    <pubDate>Sun, 27 Sep 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die edle Berufung, Lebensspenderin zu sein</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=432</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/09/04_200909.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=432</guid>
+                    <pubDate>Sun, 20 Sep 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Mitkämpferinnen für das Evangelium</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=433</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/09/03_130909.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=433</guid>
+                    <pubDate>Sun, 13 Sep 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Die Frau und ihr unvergänglicher Schmuck</title>
+                    <itunes:author>Wolfgang Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=434</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/09/02_060909.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=434</guid>
+                    <pubDate>Sun, 06 Sep 2009 09:30:00 +0200</pubDate>
+                </item>
+                <item>
+                    <title>Ein Mittler zwischen Gott und Mensch/Männer und ihre heiligen Hände</title>
+                    <itunes:author>Christian Wegert</itunes:author>
+                    <itunes:summary/>
+                    <link>http://www.arche-gemeinde.de/predigten/?mid=435</link>
+                    <description/>
+                    <enclosure url="http://www.arche-gemeinde.de/fileadmin/Media/Audio/Godi%20Arche%20So%20Morgen/2009/08/01_300809.mp3" length="" type="audio/mp3"/>
+                    <guid>http://www.arche-gemeinde.de/predigten/?mid=435</guid>
+                    <pubDate>Sun, 30 Aug 2009 09:30:00 +0200</pubDate>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

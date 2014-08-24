@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:31:13 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Last-Modified" value="Mon, 28 Jul 2014 08:11:44 GMT"/>
+        <httpclient:header name="ETag" value="&#34;159a-4ff3c79414334&#34;"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Content-Length" value="5530"/>
+        <httpclient:header name="Content-Type" value="application/xml"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <atom:link href="http://allthegreats.club/podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+                <generator>Webnet77.com Podcast Generator Version 0.2.0</generator>
+&#160;&#160;&#160; <title>Talking on a Mic</title>
+&#160;&#160;&#160; <description>Luke Millar joins with various guests to discuss news, entertainment and tech.</description>
+&#160;&#160;&#160; <link>http://allthegreats.club</link>
+&#160;&#160;&#160; <language>en</language>
+&#160;&#160;&#160; <copyright>Copyright 2014</copyright>
+&#160;&#160;&#160; <lastBuildDate>Thu, 26 Jun 2014 05:17:27 GMT</lastBuildDate>
+&#160;&#160;&#160; <pubDate>Thu, 26 Jun 2014 05:17:27 GMT</pubDate>
+&#160;&#160;&#160; <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+&#160;&#160;&#160; <webMaster>luke@allthegreats.club (Luke Millar)</webMaster>
+                <itunes:subtitle>mediocre opinions on mediocre topics</itunes:subtitle>
+                <itunes:author>Luke Millar</itunes:author>
+                <itunes:summary>Luke Millar joins with various guests to discuss news, entertainment, tech... basically anything interesting that comes up.</itunes:summary>
+                <itunes:owner>
+                    <itunes:name>Luke Millar</itunes:name>
+                    <itunes:email>luke@allthegreats.club</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                <itunes:category text="Entertainment"/>
+                <itunes:explicit>No</itunes:explicit>
+                <itunes:new-feed-url>http://allthegreats.club/podcast/podcast.xml</itunes:new-feed-url>
+                <item>
+                    <title>Summer Movies - Ray and Sam Millar</title>
+                    <itunes:author>Luke Millar</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Breakdown of the biggest movie releases of the summer.</itunes:summary>
+                    <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                    <imageurl>http://allthegreats.club/podcast/talkingonamic.png</imageurl>
+                    <enclosure url="http://allthegreats.club/podcast/20140625_summer_movies.m4a" length="6566444" type="audio/mpeg"/>
+                    <guid>http://allthegreats.club/podcast/20140625_summer_movies.m4a</guid>
+                    <pubDate>Thu, 26 Jun 2014 05:17:27 GMT</pubDate>
+                    <itunes:duration>00:13:22</itunes:duration>
+                    <itunes:explicit>No</itunes:explicit>
+                    <description>Breakdown of the biggest movie releases of the summer.</description>
+                    <category>Podcasts</category>
+                </item>
+                <item>
+                    <title>Google IO - Reyner Crosby</title>
+                    <itunes:author>Luke Millar</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Recap of Google IO 2014</itunes:summary>
+                    <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                    <imageurl>http://allthegreats.club/podcast/talkingonamic.png</imageurl>
+                    <enclosure url="http://allthegreats.club/podcast/20140627_googleio.m4a" length="7683951" type="audio/mpeg"/>
+                    <guid>http://allthegreats.club/podcast/20140627_googleio.m4a</guid>
+                    <pubDate>Sat, 28 Jun 2014 06:31:25 GMT</pubDate>
+                    <itunes:duration>00:30:38</itunes:duration>
+                    <itunes:explicit>No</itunes:explicit>
+                    <description>Recap of Google IO 2014.</description>
+                    <category>Podcasts</category>
+                </item>
+                <item>
+                    <title>The Bachelorette - Lisa Millar</title>
+                    <itunes:author>Luke Millar</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Recap of episode 7 of The Bachelorette.</itunes:summary>
+                    <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                    <imageurl>http://allthegreats.club/podcast/talkingonamic.png</imageurl>
+                    <enclosure url="http://allthegreats.club/podcast/20140701_the_bachelorette.m4a" length="33333589" type="audio/mpeg"/>
+                    <guid>http://allthegreats.club/podcast/20140701_the_bachelorette.m4a</guid>
+                    <pubDate>Sat, 03 Jun 2014 06:31:25 GMT</pubDate>
+                    <itunes:duration>00:30:38</itunes:duration>
+                    <itunes:explicit>No</itunes:explicit>
+                    <description>Recap of episode 7 of The Bachelorette.</description>
+                    <category>Podcasts</category>
+                </item>
+                <item>
+                    <title>Candy - Jim Holman</title>
+                    <itunes:author>Luke Millar</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>We break down the best and worst candy. Hint: Nobody likes Necco Wafers.</itunes:summary>
+                    <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                    <imageurl>http://allthegreats.club/podcast/talkingonamic.png</imageurl>
+                    <enclosure url="http://allthegreats.club/podcast/20140711_candy.m4a" length="17825792" type="audio/mpeg"/>
+                    <guid>http://allthegreats.club/podcast/20140711_candy.m4a</guid>
+                    <pubDate>Tue, 15 Jul 2014 04:44:12 GMT</pubDate>
+                    <itunes:duration>00:34:00</itunes:duration>
+                    <itunes:explicit>No</itunes:explicit>
+                    <description>We break down the best and worst candy. Hint: Nobody likes Necco Wafers.</description>
+                    <category>Podcasts</category>
+                </item>
+                <item>
+                    <title>Exercise - Ray and Sam Millar</title>
+                    <itunes:author>Luke Millar</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ray loses 15 pounds in 5 days. Luke signs up for a triathlon.</itunes:summary>
+                    <itunes:image href="http://allthegreats.club/podcast/talkingonamic.png"/>
+                    <imageurl>http://allthegreats.club/podcast/talkingonamic.png</imageurl>
+                    <enclosure url="http://allthegreats.club/podcast/20140727_triathlon.mp3" length="13369344" type="audio/mpeg"/>
+                    <guid>http://allthegreats.club/podcast/20140727_triathlon.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 08:07:38 GMT</pubDate>
+                    <itunes:duration>00:37:10</itunes:duration>
+                    <itunes:explicit>No</itunes:explicit>
+                    <description>Ray loses 15 pounds in 5 days. Luke signs up for a triathlon.</description>
+                    <category>Podcasts</category>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

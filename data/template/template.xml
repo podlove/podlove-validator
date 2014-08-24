@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <template id="c-copyright">
+        <message lang="en">something about copyright</message>
+        <template>
+            <copyright/>
+        </template>
+    </template>
+    <template id="i-itunes-subtitle-length">
+        <message type="" lang="en">issue with subtitle length</message>
+        <template>
+            <itunes:subtitle/>
+        </template>
+    </template>
+    <template id="i-itunes-summary-length">
+        <message lang="en">something about summary length</message>
+        <template>
+            <itunes:summary/>
+        </template>
+    </template>
+    <template id="i-guid-empty">
+        <message lang="en">empty guid</message>
+        <template>
+            <guid/>
+        </template>
+    </template>
+</rss>

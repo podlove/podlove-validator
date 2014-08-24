@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:12 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:12 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=1fszxamlgva0stl13fo0w34l; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:11 GMT"/>
+        <httpclient:header name="Content-Length" value="9766"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/21148</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/21148" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:12 GMT</lastBuildDate>
+                <image>
+                    <title>Genier och foliehattar</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4703</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4703/3326502_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Programmet Genier och foliehattar berättar om några av världens mest populära konspirationsteorier. Vi möter människor som tror och inte tror. Vi berättar om teorier som aldrig fått något gehör – och om dem som aldrig dör utan lever ett bubblande liv på nätet, på bloggar och i hemliga chattrum.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Genier och foliehattar</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Genier och foliehattar</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4703</link>
+                <description>Programmet Genier och foliehattar berättar om några av världens mest populära konspirationsteorier. Vi möter människor som tror och inte tror. Vi berättar om teorier som aldrig fått något gehör – och om dem som aldrig dör utan lever ett bubblande liv på nätet, på bloggar och i hemliga chattrum.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Älskade broder</title>
+                    <description>Visste du att Sverige är det land i Europa som har flest hemliga sällskap? I sista delen av Genier &amp; foliehattar handlar det om brödraskap, hemliga sällskap och slutna rum för hela licensslanten. Martin Wicklin och Tove Palén guidar dig i ljud och rum. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5017592.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_genier_140719_f3e7e7.mp3</guid>
+                    <pubDate>Sat, 19 Jul 2014 07:03:00 GMT</pubDate>
+                    <programid>4703</programid>
+                    <poddid>21148</poddid>
+                    <itunes:summary>Visste du att Sverige är det land i Europa som har flest hemliga sällskap? I sista delen av Genier &amp; foliehattar handlar det om brödraskap, hemliga sällskap och slutna rum för hela licensslanten. Martin Wicklin och Tove Palén guidar dig i ljud och rum. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Genier,och,foliehattarÄlskade,broder</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5017592.mp3" length="25321578" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Area 51 - tur och retur</title>
+                    <description>Vi fortsätter vår berättelse om Area 51. USA: s mest hemliga militära ökenbas men också platsen där konspirationsteoretiker påstår att man gömmer utomjordingar. Och så berättelsen om mänsklighetens dyraste flaskpost. En farkost på väg ut genom solsystemet i den svarta oceanen; med ett axplock av musik, poesi och förälskade hjärtslag.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5011642.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_genier_140712_fe5753.mp3</guid>
+                    <pubDate>Sat, 12 Jul 2014 07:03:00 GMT</pubDate>
+                    <programid>4703</programid>
+                    <poddid>21148</poddid>
+                    <itunes:summary>Vi fortsätter vår berättelse om Area 51. USA: s mest hemliga militära ökenbas men också platsen där konspirationsteoretiker påstår att man gömmer utomjordingar. Och så berättelsen om mänsklighetens dyraste flaskpost. En farkost på väg ut genom solsystemet i den svarta oceanen; med ett axplock av musik, poesi och förälskade hjärtslag.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Genier,och,foliehattarArea,51,-,tur,och,retur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5011642.mp3" length="24327853" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Area 51 - tur och retur</title>
+                    <description>Vi fortsätter vår berättelse om Area 51. USA:s mest hemliga militära ökenbas men också platsen där konspirationsteoretiker påstår att man gömmer utomjordingar. Och så berättelsen om mänsklighetens dyraste flaskpost. En farkost på väg ut genom solsystemet i den svarta oceanen; med ett axplock av musik, poesi och förälskade hjärtslag.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5016165.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_genier_140712_fda51a.mp3</guid>
+                    <pubDate>Sat, 12 Jul 2014 07:03:00 GMT</pubDate>
+                    <programid>4703</programid>
+                    <poddid>21148</poddid>
+                    <itunes:summary>Vi fortsätter vår berättelse om Area 51. USA:s mest hemliga militära ökenbas men också platsen där konspirationsteoretiker påstår att man gömmer utomjordingar. Och så berättelsen om mänsklighetens dyraste flaskpost. En farkost på väg ut genom solsystemet i den svarta oceanen; med ett axplock av musik, poesi och förälskade hjärtslag.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Genier,och,foliehattarArea,51,-,tur,och,retur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5016165.mp3" length="24327851" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>I öknen kan ingen höra dig skrika</title>
+                    <description>Idagens avsnitt av Genier och Foliehattar åker Martin Wicklin och Tove Palén ut i Nevadaöknen, så nära man kan komma Area 51. Hit har människor rest i decennier för att spana efter Ufon och militära topphemligheter. Rachel heter den sista utposten i öknen innan de berömda skyltarna som varnar för att militären har rätt att använda dödligt våld om man närmar sig stängslen till Area 51. Allt i Rachel kretsar kring den lilla baren Little Ale´in. Här samlas ufologer vid bardisken och delar med sig av sina vittnesmål. Vi berättar om människorna här, historierna om vad som egentligen pågår inne på Area 51 och så ser vi något på natthimlen som får marken att svaja till under våra fötter.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5005731.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_genier_140705_493676.mp3</guid>
+                    <pubDate>Sat, 05 Jul 2014 07:03:00 GMT</pubDate>
+                    <programid>4703</programid>
+                    <poddid>21148</poddid>
+                    <itunes:summary>Idagens avsnitt av Genier och Foliehattar åker Martin Wicklin och Tove Palén ut i Nevadaöknen, så nära man kan komma Area 51. Hit har människor rest i decennier för att spana efter Ufon och militära topphemligheter. Rachel heter den sista utposten i öknen innan de berömda skyltarna som varnar för att militären har rätt att använda dödligt våld om man närmar sig stängslen till Area 51. Allt i Rachel kretsar kring den lilla baren Little Ale´in. Här samlas ufologer vid bardisken och delar med sig av sina vittnesmål. Vi berättar om människorna här, historierna om vad som egentligen pågår inne på Area 51 och så ser vi något på natthimlen som får marken att svaja till under våra fötter.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Genier,och,foliehattarI,öknen,kan,ingen,höra,dig,skrika</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5005731.mp3" length="24100793" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Giftet i luften</title>
+                    <description>En av de snabbast växande konspirationsteorierna kallas chemtrails. Att de där strimmorna på himlen som du trodde var flygplansspår i själva verket är gift som USA sprutar ut över oss. Vi följer chemtrails-spåret upp i skyn och träffar människorna som är övertygade om att SMHI konspirerar mot oss och granskar påståendena. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4996729.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_genier_140628_f205d1.mp3</guid>
+                    <pubDate>Sat, 28 Jun 2014 07:03:00 GMT</pubDate>
+                    <programid>4703</programid>
+                    <poddid>21148</poddid>
+                    <itunes:summary>En av de snabbast växande konspirationsteorierna kallas chemtrails. Att de där strimmorna på himlen som du trodde var flygplansspår i själva verket är gift som USA sprutar ut över oss. Vi följer chemtrails-spåret upp i skyn och träffar människorna som är övertygade om att SMHI konspirerar mot oss och granskar påståendena. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Genier,och,foliehattarGiftet,i,luften</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4996729.mp3" length="27144860" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.2.0"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:41:30 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.15"/>
+        <httpclient:header name="X-Pingback" value="http://anarchobroni.es/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Thu, 03 Apr 2014 09:22:36 GMT"/>
+        <httpclient:header name="ETag" value="&#34;b38affa3992f3bbebff98baa95b6ce68&#34;"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>Anarchobronies</title>
+                <atom:link href="http://anarchobroni.es/feed/" rel="self" type="application/rss+xml"/>
+                <link>http://anarchobroni.es</link>
+                <description>Zwei Anarchisten, eine Partei und das Netz</description>
+                <lastBuildDate>Thu, 03 Apr 2014 09:22:36 +0000</lastBuildDate>
+                <language>en-US</language>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
+                <generator>http://wordpress.org/?v=3.8.4</generator>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F&amp;language=en_US&amp;category=audio&amp;title=Anarchobronies&amp;description=Zwei+Anarchisten%2C+eine+Partei+und+das+Netz&amp;tags=blog" type="text/html"/>
+                <copyright>CreativeCommons Attribution 3.0 Unported http://creativecommons.org/licenses/by/3.0/</copyright>
+                <managingEditor>daniel@anarchobroni.es (Anarchobroni.es)</managingEditor>
+                <webMaster>daniel@anarchobroni.es (Anarchobroni.es)</webMaster>
+                <category>podcast</category>
+                <ttl>1440</ttl>
+                <image>
+                    <url>http://anarchobroni.es/files/RiotPwny.jpg</url>
+                    <title>Anarchobronies</title>
+                    <link>http://anarchobroni.es</link>
+                    <width>144</width>
+                    <height>144</height>
+                </image>
+                <itunes:subtitle>Zwei Anarchisten, eine Partei und das Netz</itunes:subtitle>
+                <itunes:summary>Zwei Anarchisten, eine Partei und das Netz
+
+Die Anarchobronies sind @UrbanP1rate und @netsteward auf dem Weg in eine bessere Gesellschaft.</itunes:summary>
+                <itunes:keywords>Anarchismus, Piratenpartei, Bronies</itunes:keywords>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:author>Anarchobroni.es</itunes:author>
+                <itunes:owner>
+                    <itunes:name>Anarchobroni.es</itunes:name>
+                    <itunes:email>daniel@anarchobroni.es</itunes:email>
+                </itunes:owner>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://anarchobroni.es/files/anarchobronies.png"/>
+                <item>
+                    <title>Von Politik und Richtungsstreit</title>
+                    <link>http://anarchobroni.es/2014/04/von-politik-und-richtungsstreit/</link>
+                    <comments>http://anarchobroni.es/2014/04/von-politik-und-richtungsstreit/#comments</comments>
+                    <pubDate>Thu, 03 Apr 2014 09:22:36 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Aktivismus</category>
+                    <category>Politik</category>
+                    <category>Richtungsstreit</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=66</guid>
+                    <description>Der Olli und der Daniel haben sich über Politik und &amp;#8220;Richtungsstreit&amp;#8221; unterhalten. Viel Spaß beim zuhören!</description>
+                    <content:encoded>&lt;p&gt;Der Olli und der Daniel haben sich über Politik und &amp;#8220;Richtungsstreit&amp;#8221; unterhalten. Viel Spaß beim zuhören!&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=66&amp;amp;md5=b7601c934ace3bf95af29744786c72fc" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2014/04/von-politik-und-richtungsstreit/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2014%2F04%2Fvon-politik-und-richtungsstreit%2F&amp;language=de_DE&amp;category=audio&amp;title=Von+Politik+und+Richtungsstreit&amp;description=Der+Olli+und+der+Daniel+haben+sich+%C3%BCber+Politik+und+%26%238220%3BRichtungsstreit%26%238221%3B+unterhalten.+Viel+Spa%C3%9F+beim+zuh%C3%B6ren%21&amp;tags=Aktivismus%2CPolitik%2CRichtungsstreit%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/66/0/AB_14_001.mp3" length="49466901" type="audio/mpeg"/>
+                    <itunes:duration>1:23:42</itunes:duration>
+                    <itunes:subtitle>Der Olli und der Daniel haben sich über Politik und “Richtungsstreit” unterhalten. Viel Spaß beim zuhören!
+ </itunes:subtitle>
+                    <itunes:summary>Der Olli und der Daniel haben sich über Politik und “Richtungsstreit” unterhalten. Viel Spaß beim zuhören!
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Vom Alltagsrassismus über Piratengedöns zum Rechtsstaat</title>
+                    <link>http://anarchobroni.es/2013/07/vom-alltagsrassismus-uber-piratengedons-zum-rechtsstaat/</link>
+                    <comments>http://anarchobroni.es/2013/07/vom-alltagsrassismus-uber-piratengedons-zum-rechtsstaat/#comments</comments>
+                    <pubDate>Sat, 13 Jul 2013 11:00:54 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Alltagsrassismus</category>
+                    <category>Liquid</category>
+                    <category>Nazis</category>
+                    <category>Piratenpartei</category>
+                    <category>Rechtsstaat</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=61</guid>
+                    <description>Endlich mal wieder! \o/ Wir hatten den &lt;a title="dem Flo sein Twitter" href="https://twitter.com/d1etpunk" target="_blank"&gt;Flo&lt;/a&gt; zu Gast und haben über einiges gesprochen, was gerade anlag. Der Link, von dem der Olli sprach reichen wir noch nach. Anscheinend war beim Mischpult der acid gemutet weshalb ihr den nur leiser hören könnt Nächstes Mal prüfen wir das besser!</description>
+                    <content:encoded>&lt;p&gt;Endlich mal wieder! \o/ Wir hatten den &lt;a title="dem Flo sein Twitter" href="https://twitter.com/d1etpunk" target="_blank"&gt;Flo&lt;/a&gt; zu Gast und haben über einiges gesprochen, was gerade anlag. Der Link, von dem der Olli sprach reichen wir noch nach.&lt;/p&gt;
+&lt;p&gt;Anscheinend war beim Mischpult der acid gemutet weshalb ihr den nur leiser hören könnt &lt;img src="http://anarchobroni.es/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /&gt;  Nächstes Mal prüfen wir das besser!&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=61&amp;amp;md5=47cd1c81f117b6260ae6cf9e26fdf2fe" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2013/07/vom-alltagsrassismus-uber-piratengedons-zum-rechtsstaat/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2013%2F07%2Fvom-alltagsrassismus-uber-piratengedons-zum-rechtsstaat%2F&amp;language=de_DE&amp;category=audio&amp;title=Vom+Alltagsrassismus+%C3%BCber+Piratenged%C3%B6ns+zum+Rechtsstaat&amp;description=Endlich+mal+wieder%21+%5Co%2F+Wir+hatten+den+Flo+zu+Gast+und+haben+%C3%BCber+einiges+gesprochen%2C+was+gerade+anlag.+Der+Link%2C+von+dem+der+Olli+sprach+reichen+wir+noch+nach.+Anscheinend...&amp;tags=Alltagsrassismus%2CLiquid%2CNazis%2CPiratenpartei%2CRechtsstaat%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/61/0/AB_13_003.mp3" length="85117319" type="audio/mpeg"/>
+                    <itunes:duration>1:10:51</itunes:duration>
+                    <itunes:subtitle>Endlich mal wieder! o/ Wir hatten den Flo zu Gast und haben über einiges gesprochen, was gerade anlag. Der Link, von dem der Olli sprach reichen wir noch nach.
+Anscheinend war beim Mischpult der acid gemutet weshalb ihr den nur leiser hören könnt   [...]</itunes:subtitle>
+                    <itunes:summary>Endlich mal wieder! o/ Wir hatten den Flo zu Gast und haben über einiges gesprochen, was gerade anlag. Der Link, von dem der Olli sprach reichen wir noch nach.
+Anscheinend war beim Mischpult der acid gemutet weshalb ihr den nur leiser hören könnt   Nächstes Mal prüfen wir das besser!
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Die Sendung mit dem Frank</title>
+                    <link>http://anarchobroni.es/2013/03/die-sendung-mit-dem-frank/</link>
+                    <comments>http://anarchobroni.es/2013/03/die-sendung-mit-dem-frank/#comments</comments>
+                    <pubDate>Thu, 14 Mar 2013 22:02:25 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Syndikalismus</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=51</guid>
+                    <description>Wir haben es endlich geschafft mit dem &lt;a href="https://twitter.com/syndikalista" target="_blank"&gt;Frank&lt;/a&gt; eine Sendung aufzunehmen! Wir unterhalten uns mit ihm über Anarchismus und Staat und fragten ihn zum Thema Syndikalismus aus. Interessant sind für euch wohl mein Blogpost &lt;a href="http://acidblog.de/index.php/2012/08/warum-ich-als-anarchist-in-einer-partei-aktiv-bin/" target="_blank"&gt;&amp;#8220;warum ich als Anarchist in einer Partei bin&amp;#8221;,&lt;/a&gt; &lt;a href="https://copperanarchist.com/?p=63" target="_blank"&gt;seine Antwort&lt;/a&gt; und &lt;a href="http://acidblog.de/index.php/2012/11/macht-und-muendigkeit/" target="_blank"&gt;meine Erwiederung&lt;/a&gt;. &lt;a href="http://www.edition-av.de/" target="_blank"&gt;Hier geht&amp;#8217;s zur Edition AV&lt;/a&gt;. Außerdem hat der gute euch noch eine ganze Menge Links zu Syndikalismus da gelassen: &lt;ul&gt; &lt;li&gt;&lt;a href="http://www.syndikalismusforschung.info" target="_blank"&gt;Syndikalismusforschung&lt;/a&gt;&lt;/li&gt; [...]</description>
+                    <content:encoded>&lt;p&gt;Wir haben es endlich geschafft mit dem &lt;a href="https://twitter.com/syndikalista" target="_blank"&gt;Frank&lt;/a&gt; eine Sendung aufzunehmen! Wir unterhalten uns mit ihm über Anarchismus und Staat und fragten ihn zum Thema Syndikalismus aus.&lt;/p&gt;
+&lt;p&gt;Interessant sind für euch wohl mein Blogpost &lt;a href="http://acidblog.de/index.php/2012/08/warum-ich-als-anarchist-in-einer-partei-aktiv-bin/" target="_blank"&gt;&amp;#8220;warum ich als Anarchist in einer Partei bin&amp;#8221;,&lt;/a&gt; &lt;a href="https://copperanarchist.com/?p=63" target="_blank"&gt;seine Antwort&lt;/a&gt; und &lt;a href="http://acidblog.de/index.php/2012/11/macht-und-muendigkeit/" target="_blank"&gt;meine Erwiederung&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.edition-av.de/" target="_blank"&gt;Hier geht&amp;#8217;s zur Edition AV&lt;/a&gt;. Außerdem hat der gute euch noch eine ganze Menge Links zu Syndikalismus da gelassen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.syndikalismusforschung.info" target="_blank"&gt;Syndikalismusforschung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://libcom.org/library/history-bourses-du-travail-fernand-pelloutier" target="_blank"&gt;Arbeitsbörsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://copperanarchist.com/?p=83" target="_blank"&gt;Blogpost von ihm zu dem Thema&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ramblas.aries.uberspace.de/wordpress/" target="_blank"&gt;Und ein Labercast von ihm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=51&amp;amp;md5=e1f49ed144c0c29527911cadda7c80d3" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2013/03/die-sendung-mit-dem-frank/feed/</wfw:commentRss>
+                    <slash:comments>0</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2013%2F03%2Fdie-sendung-mit-dem-frank%2F&amp;language=de_DE&amp;category=audio&amp;title=Die+Sendung+mit+dem+Frank&amp;description=Wir+haben+es+endlich+geschafft+mit+dem+Frank+eine+Sendung+aufzunehmen%21+Wir+unterhalten+uns+mit+ihm+%C3%BCber+Anarchismus+und+Staat+und+fragten+ihn+zum+Thema+Syndikalismus+aus.+Interessant+sind+f%C3%BCr...&amp;tags=Syndikalismus%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/51/0/AB_13_002.mp3" length="129925867" type="audio/mpeg"/>
+                    <itunes:duration>1:48:16</itunes:duration>
+                    <itunes:subtitle>Wir haben es endlich geschafft mit dem Frank eine Sendung aufzunehmen! Wir unterhalten uns mit ihm über Anarchismus und Staat und fragten ihn zum Thema Syndikalismus aus.
+Interessant sind für euch wohl mein Blogpost “warum ich als Anarchist in[...]</itunes:subtitle>
+                    <itunes:summary>Wir haben es endlich geschafft mit dem Frank eine Sendung aufzunehmen! Wir unterhalten uns mit ihm über Anarchismus und Staat und fragten ihn zum Thema Syndikalismus aus.
+Interessant sind für euch wohl mein Blogpost “warum ich als Anarchist in einer Partei bin”, seine Antwort und meine Erwiederung.
+Hier geht’s zur Edition AV. Außerdem hat der gute euch noch eine ganze Menge Links zu Syndikalismus da gelassen:
+
+Syndikalismusforschung
+Arbeitsbörsen
+Blogpost von ihm zu dem Thema
+Und ein Labercast von ihm
+
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Asylrecht. SMV, Kontrollverlust und andere Herrschaftsmechanismen</title>
+                    <link>http://anarchobroni.es/2013/03/asylrecht-smv-kontrollverlust-und-andere-herrschaftsmechanismen/</link>
+                    <comments>http://anarchobroni.es/2013/03/asylrecht-smv-kontrollverlust-und-andere-herrschaftsmechanismen/#comments</comments>
+                    <pubDate>Mon, 04 Mar 2013 21:20:52 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Asyl</category>
+                    <category>Herrschaftsmechanismen</category>
+                    <category>SMV</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=43</guid>
+                    <description>Endlich mal wieder ein neuer Podcast! Der Titel sagt eigentlich schon alles, hier noch ein paar erwähnte Links: &lt;ul&gt; &lt;li&gt;&lt;a title="PM zur Razzia" href="http://www.piratenpartei.de/2013/02/06/bundesweite-razzia-bei-fotografen-ausverkauf-von-grundrechten-geht-weiter/" target="_blank"&gt;PM zur Razzia&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://piratenstadt.net/asylkompromiss-ein-rant/" target="_blank"&gt;Ollis Keynote von der Asylkonferenz&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://wiki.piratenpartei.de/AG_Asylkoordination/Bundespolitisches_Plenum_zu_Migration_und_Asyl" target="_blank"&gt;Asylkonferenz&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://lqfb.piratenpartei.de/lf/initiative/show/6068.html" target="_blank"&gt;Frische Ini, bitte unterstützen!&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;</description>
+                    <content:encoded>&lt;p&gt;Endlich mal wieder ein neuer Podcast! Der Titel sagt eigentlich schon alles, hier noch ein paar erwähnte Links:&lt;/p&gt;
+&lt;div id="magicdomid2"&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title="PM zur Razzia" href="http://www.piratenpartei.de/2013/02/06/bundesweite-razzia-bei-fotografen-ausverkauf-von-grundrechten-geht-weiter/" target="_blank"&gt;PM zur Razzia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://piratenstadt.net/asylkompromiss-ein-rant/" target="_blank"&gt;Ollis Keynote von der Asylkonferenz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://wiki.piratenpartei.de/AG_Asylkoordination/Bundespolitisches_Plenum_zu_Migration_und_Asyl" target="_blank"&gt;Asylkonferenz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://lqfb.piratenpartei.de/lf/initiative/show/6068.html" target="_blank"&gt;Frische Ini, bitte unterstützen!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=43&amp;amp;md5=4f3f037a3ccd60205ece67c0535052f1" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2013/03/asylrecht-smv-kontrollverlust-und-andere-herrschaftsmechanismen/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2013%2F03%2Fasylrecht-smv-kontrollverlust-und-andere-herrschaftsmechanismen%2F&amp;language=de_DE&amp;category=audio&amp;title=Asylrecht.+SMV%2C+Kontrollverlust+und+andere+Herrschaftsmechanismen&amp;description=Endlich+mal+wieder+ein+neuer+Podcast%21+Der+Titel+sagt+eigentlich+schon+alles%2C+hier+noch+ein+paar+erw%C3%A4hnte+Links%3A+PM+zur+Razzia+Ollis+Keynote+von+der+Asylkonferenz+Asylkonferenz+Frische+Ini%2C+bitte...&amp;tags=Asyl%2CHerrschaftsmechanismen%2CSMV%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/43/0/AB_13_001.mp3" length="49088671" type="audio/mpeg"/>
+                    <itunes:duration>1:08:11</itunes:duration>
+                    <itunes:subtitle>Endlich mal wieder ein neuer Podcast! Der Titel sagt eigentlich schon alles, hier noch ein paar erwähnte Links:
+
+
+PM zur Razzia
+Ollis Keynote von der Asylkonferenz
+Asylkonferenz
+Frische Ini, bitte unterstützen!
+
+
+ </itunes:subtitle>
+                    <itunes:summary>Endlich mal wieder ein neuer Podcast! Der Titel sagt eigentlich schon alles, hier noch ein paar erwähnte Links:
+
+
+PM zur Razzia
+Ollis Keynote von der Asylkonferenz
+Asylkonferenz
+Frische Ini, bitte unterstützen!
+
+
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Bildet Banden!</title>
+                    <link>http://anarchobroni.es/2012/09/bildet-banden/</link>
+                    <comments>http://anarchobroni.es/2012/09/bildet-banden/#comments</comments>
+                    <pubDate>Thu, 13 Sep 2012 11:23:31 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Basisdemokratie</category>
+                    <category>Flattr</category>
+                    <category>Frustration</category>
+                    <category>Open Data</category>
+                    <category>Piratenpartei</category>
+                    <category>Transparenz</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=40</guid>
+                    <description>In diesem Podcast könnt ihr &lt;ul&gt; &lt;li&gt;erleben, wie wir uns im Podcast beim Thema umentscheiden,&lt;/li&gt; &lt;li&gt;unsere Gedanken zum Thema Frustration in der Piratenpartei mitbekommen,&lt;/li&gt; &lt;li&gt;Kritik an der Piratenpartei hautnah erfahren, sowie&lt;/li&gt; &lt;li&gt;Gedanken zu Lösungsansätzen für die benannten Probleme vernehmen.&lt;/li&gt; &lt;/ul&gt; Zu Gast war &lt;a href="http://twitter.com/carridwen" target="_blank"&gt;@Carridwen&lt;/a&gt; und wir sprachen eingangs die Blogposts von &lt;a href="http://acidblog.de/index.php/2012/08/warum-ich-als-anarchist-in-einer-partei-aktiv-bin/" target="_blank"&gt;acid&lt;/a&gt; und &lt;a href="https://copperanarchist.com/?p=63" target="_blank"&gt;Syndikalista&lt;/a&gt; an, auf die wir aber erst in der nächsten Ausgabe eingehen werden. PS:&lt;br /&gt; Ja, der acid kann nicht zählen. [...]</description>
+                    <content:encoded>&lt;p&gt;In diesem Podcast könnt ihr&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;erleben, wie wir uns im Podcast beim Thema umentscheiden,&lt;/li&gt;
+&lt;li&gt;unsere Gedanken zum Thema Frustration in der Piratenpartei mitbekommen,&lt;/li&gt;
+&lt;li&gt;Kritik an der Piratenpartei hautnah erfahren, sowie&lt;/li&gt;
+&lt;li&gt;Gedanken zu Lösungsansätzen für die benannten Probleme vernehmen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Zu Gast war &lt;a href="http://twitter.com/carridwen" target="_blank"&gt;@Carridwen&lt;/a&gt; und wir sprachen eingangs die Blogposts von &lt;a href="http://acidblog.de/index.php/2012/08/warum-ich-als-anarchist-in-einer-partei-aktiv-bin/" target="_blank"&gt;acid&lt;/a&gt; und &lt;a href="https://copperanarchist.com/?p=63" target="_blank"&gt;Syndikalista&lt;/a&gt; an, auf die wir aber erst in der nächsten Ausgabe eingehen werden.&lt;/p&gt;
+&lt;p&gt;PS:&lt;br /&gt;
+Ja, der acid kann nicht zählen.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=40&amp;amp;md5=6ad20cd5f85d13ac7826fe03b36b1d1e" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2012/09/bildet-banden/feed/</wfw:commentRss>
+                    <slash:comments>1</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2012%2F09%2Fbildet-banden%2F&amp;language=de_DE&amp;category=audio&amp;title=Bildet+Banden%21&amp;description=In+diesem+Podcast+k%C3%B6nnt+ihr+erleben%2C+wie+wir+uns+im+Podcast+beim+Thema+umentscheiden%2C+unsere+Gedanken+zum+Thema+Frustration+in+der+Piratenpartei+mitbekommen%2C+Kritik+an+der+Piratenpartei+hautnah+erfahren%2C+sowie...&amp;tags=Basisdemokratie%2CFlattr%2CFrustration%2COpen+Data%2CPiratenpartei%2CTransparenz%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/40/0/AB_12_004.mp3" length="70058552" type="audio/mpeg"/>
+                    <itunes:duration>1:37:18</itunes:duration>
+                    <itunes:subtitle>In diesem Podcast könnt ihr
+
+erleben, wie wir uns im Podcast beim Thema umentscheiden,
+unsere Gedanken zum Thema Frustration in der Piratenpartei mitbekommen,
+Kritik an der Piratenpartei hautnah erfahren, sowie
+Gedanken zu Lösungsansätzen für die be[...]</itunes:subtitle>
+                    <itunes:summary>In diesem Podcast könnt ihr
+
+erleben, wie wir uns im Podcast beim Thema umentscheiden,
+unsere Gedanken zum Thema Frustration in der Piratenpartei mitbekommen,
+Kritik an der Piratenpartei hautnah erfahren, sowie
+Gedanken zu Lösungsansätzen für die benannten Probleme vernehmen.
+
+Zu Gast war @Carridwen und wir sprachen eingangs die Blogposts von acid und Syndikalista an, auf die wir aber erst in der nächsten Ausgabe eingehen werden.
+PS:
+Ja, der acid kann nicht zählen.
+&#160;
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Urlaub, Nazis und sonstige vermeintliche Einzelfälle</title>
+                    <link>http://anarchobroni.es/2012/08/urlaub-nazis-und-sonstige-vermeintliche-einzelfalle/</link>
+                    <comments>http://anarchobroni.es/2012/08/urlaub-nazis-und-sonstige-vermeintliche-einzelfalle/#comments</comments>
+                    <pubDate>Wed, 01 Aug 2012 23:14:16 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Anonymous</category>
+                    <category>Antifa</category>
+                    <category>Feminismus</category>
+                    <category>Keinzelfall</category>
+                    <category>Nazis</category>
+                    <category>PDV</category>
+                    <category>Sexismus</category>
+                    <category>Urlaub</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=34</guid>
+                    <description>Wir haben lustig drauf los geredet und sind bei einigen interessanten Punkten angekommen. Außerdem stellten wir die Frage über die Weiterentwicklung unseres Podcasts. Was würdet ihr dazu sagen, wenn wir die Aufnahme live streamen würden? &amp;#160;</description>
+                    <content:encoded>&lt;p&gt;Wir haben lustig drauf los geredet und sind bei einigen interessanten Punkten angekommen. Außerdem stellten wir die Frage über die Weiterentwicklung unseres Podcasts. Was würdet ihr dazu sagen, wenn wir die Aufnahme live streamen würden?&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=34&amp;amp;md5=b6f2fd14e6587a5431d1c898de83319a" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2012/08/urlaub-nazis-und-sonstige-vermeintliche-einzelfalle/feed/</wfw:commentRss>
+                    <slash:comments>3</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2012%2F08%2Furlaub-nazis-und-sonstige-vermeintliche-einzelfalle%2F&amp;language=de_DE&amp;category=audio&amp;title=Urlaub%2C+Nazis+und+sonstige+vermeintliche+Einzelf%C3%A4lle&amp;description=Wir+haben+lustig+drauf+los+geredet+und+sind+bei+einigen+interessanten+Punkten+angekommen.+Au%C3%9Ferdem+stellten+wir+die+Frage+%C3%BCber+die+Weiterentwicklung+unseres+Podcasts.+Was+w%C3%BCrdet+ihr+dazu+sagen%2C+wenn+wir...&amp;tags=Anonymous%2CAntifa%2CFeminismus%2CKeinzelfall%2CNazis%2CPDV%2CSexismus%2CUrlaub%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/34/0/AB_12_003.mp3" length="52619564" type="audio/mpeg"/>
+                    <itunes:duration>0:54:43</itunes:duration>
+                    <itunes:subtitle>Wir haben lustig drauf los geredet und sind bei einigen interessanten Punkten angekommen. Außerdem stellten wir die Frage über die Weiterentwicklung unseres Podcasts. Was würdet ihr dazu sagen, wenn wir die Aufnahme live streamen würden?
+&#160;
+ [...]</itunes:subtitle>
+                    <itunes:summary>Wir haben lustig drauf los geredet und sind bei einigen interessanten Punkten angekommen. Außerdem stellten wir die Frage über die Weiterentwicklung unseres Podcasts. Was würdet ihr dazu sagen, wenn wir die Aufnahme live streamen würden?
+&#160;
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Social Evolution</title>
+                    <link>http://anarchobroni.es/2012/05/social-evolution/</link>
+                    <comments>http://anarchobroni.es/2012/05/social-evolution/#comments</comments>
+                    <pubDate>Sun, 06 May 2012 21:29:34 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Anarchie</category>
+                    <category>Anarchismus</category>
+                    <category>Basisdemokratie</category>
+                    <category>Emanzipation</category>
+                    <category>gesellschaftliche Evolution</category>
+                    <category>Piraten</category>
+                    <category>Piratenpartei</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=26</guid>
+                    <description>Wir haben uns darüber unterhalten, weshalb wir denken, dass Basisdemokratie Anarchismus begünstigt. Welche soziale Evolution wir uns wünschen und welche besonderen Aufgaben wir da für Mandatsträger*innen der Piratenpartei sehen. Aber hört selbst Außerdem erzähle ich zwischendurch vom geplanten Nerdanarchistischen Barcamp, besonders über Kommentare dazu würden wir uns sehr freuen!</description>
+                    <content:encoded>&lt;p&gt;Wir haben uns darüber unterhalten, weshalb wir denken, dass Basisdemokratie Anarchismus begünstigt. Welche soziale Evolution wir uns wünschen und welche besonderen Aufgaben wir da für Mandatsträger*innen der Piratenpartei sehen. Aber hört selbst &lt;img src="http://anarchobroni.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /&gt; &lt;/p&gt;
+&lt;p&gt;Außerdem erzähle ich zwischendurch vom geplanten Nerdanarchistischen Barcamp, besonders über Kommentare dazu würden wir uns sehr freuen! &lt;img src="http://anarchobroni.es/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /&gt; &lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=26&amp;amp;md5=bcfeb97aed0797189331e2267e4c116a" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2012/05/social-evolution/feed/</wfw:commentRss>
+                    <slash:comments>8</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2012%2F05%2Fsocial-evolution%2F&amp;language=de_DE&amp;category=audio&amp;title=Social+Evolution&amp;description=Wir+haben+uns+dar%C3%BCber+unterhalten%2C+weshalb+wir+denken%2C+dass+Basisdemokratie+Anarchismus+beg%C3%BCnstigt.+Welche+soziale+Evolution+wir+uns+w%C3%BCnschen+und+welche+besonderen+Aufgaben+wir+da+f%C3%BCr+Mandatstr%C3%A4ger%2Ainnen+der+Piratenpartei+sehen.+Aber...&amp;tags=Anarchie%2CAnarchismus%2CBasisdemokratie%2CEmanzipation%2Cgesellschaftliche+Evolution%2CPiraten%2CPiratenpartei%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/26/0/AB_12_002.mp3" length="44622747" type="audio/mpeg"/>
+                    <itunes:duration>0:46:29</itunes:duration>
+                    <itunes:subtitle>Wir haben uns darüber unterhalten, weshalb wir denken, dass Basisdemokratie Anarchismus begünstigt. Welche soziale Evolution wir uns wünschen und welche besonderen Aufgaben wir da für Mandatsträger*innen der Piratenpartei sehen. Aber hört selbst  
+A[...]</itunes:subtitle>
+                    <itunes:summary>Wir haben uns darüber unterhalten, weshalb wir denken, dass Basisdemokratie Anarchismus begünstigt. Welche soziale Evolution wir uns wünschen und welche besonderen Aufgaben wir da für Mandatsträger*innen der Piratenpartei sehen. Aber hört selbst  
+Außerdem erzähle ich zwischendurch vom geplanten Nerdanarchistischen Barcamp, besonders über Kommentare dazu würden wir uns sehr freuen!  
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>Anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+                <item>
+                    <title>Anarchismus/Parlamentarische Anarchisten/Piratenvolkspartei</title>
+                    <link>http://anarchobroni.es/2012/04/anarchismusparlamentarische-anarchistenpiratenvolkspartei/</link>
+                    <comments>http://anarchobroni.es/2012/04/anarchismusparlamentarische-anarchistenpiratenvolkspartei/#comments</comments>
+                    <pubDate>Tue, 17 Apr 2012 09:34:38 +0000</pubDate>
+                    <dc:creator>acid</dc:creator>
+                    <category>Podcasts</category>
+                    <category>Anarchismus</category>
+                    <category>parlamentarische Demokratie</category>
+                    <category>Piratenpartei</category>
+                    <category>Volkspartei</category>
+                    <guid isPermaLink="false">http://anarchobroni.es/?p=5</guid>
+                    <description>In unserem ersten Podcast haben wir uns unter vielen anderen Dingen darüber unterhalten, wie das so ist als Anarchisten in einer Partei zu sein. Sind wir denn überhaupt richtige Anarchisten, wenn wir im System &amp;#8220;Parteiendemokratie&amp;#8221; mitspielen und sind wir Demokraten, wenn wir uns eigentlich zum Idealbild Anarchie bekennen? Weiterhin gehen wir noch auf unser Verständnis des Begriffs &amp;#8220;Volkspartei&amp;#8221; ein und welche Zukunft wir uns für die Piratenpartei wünschen. Viel Spaß beim Anhören. Benutzt gern die Kommentarfunktion um uns Feedback zu [...]</description>
+                    <content:encoded>&lt;p&gt;In unserem ersten Podcast haben wir uns unter vielen anderen Dingen darüber unterhalten, wie das so ist als Anarchisten in einer Partei zu sein. Sind wir denn überhaupt richtige Anarchisten, wenn wir im System &amp;#8220;Parteiendemokratie&amp;#8221; mitspielen und sind wir Demokraten, wenn wir uns eigentlich zum Idealbild Anarchie bekennen?&lt;/p&gt;
+&lt;p&gt;Weiterhin gehen wir noch auf unser Verständnis des Begriffs &amp;#8220;Volkspartei&amp;#8221; ein und welche Zukunft wir uns für die Piratenpartei wünschen.&lt;/p&gt;
+&lt;p&gt;Viel Spaß beim Anhören. Benutzt gern die Kommentarfunktion um uns Feedback zu geben.&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://anarchobroni.es/?flattrss_redirect&amp;amp;id=5&amp;amp;md5=76f461d0de76dec077a4c5d06da72e11" title="Flattr" target="_blank"&gt;&lt;img src="http://anarchobroni.es/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://anarchobroni.es/2012/04/anarchismusparlamentarische-anarchistenpiratenvolkspartei/feed/</wfw:commentRss>
+                    <slash:comments>6</slash:comments>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=anarchobronies&amp;popout=1&amp;url=http%3A%2F%2Fanarchobroni.es%2F2012%2F04%2Fanarchismusparlamentarische-anarchistenpiratenvolkspartei%2F&amp;language=de_DE&amp;category=audio&amp;title=Anarchismus%2FParlamentarische+Anarchisten%2FPiratenvolkspartei&amp;description=In+unserem+ersten+Podcast+haben+wir+uns+unter+vielen+anderen+Dingen+dar%C3%BCber+unterhalten%2C+wie+das+so+ist+als+Anarchisten+in+einer+Partei+zu+sein.+Sind+wir+denn+%C3%BCberhaupt+richtige+Anarchisten%2C...&amp;tags=Anarchismus%2Cparlamentarische+Demokratie%2CPiratenpartei%2CVolkspartei%2Cblog" type="text/html"/>
+                    <enclosure url="http://anarchobroni.es/podpress_trac/feed/5/0/AB_12_001.mp3" length="109860432" type="audio/mpeg"/>
+                    <itunes:duration>1:16:17</itunes:duration>
+                    <itunes:subtitle>In unserem ersten Podcast haben wir uns unter vielen anderen Dingen darüber unterhalten, wie das so ist als Anarchisten in einer Partei zu sein. Sind wir denn überhaupt richtige Anarchisten, wenn wir im System “Parteiendemokratie” mitspi[...]</itunes:subtitle>
+                    <itunes:summary>In unserem ersten Podcast haben wir uns unter vielen anderen Dingen darüber unterhalten, wie das so ist als Anarchisten in einer Partei zu sein. Sind wir denn überhaupt richtige Anarchisten, wenn wir im System “Parteiendemokratie” mitspielen und sind wir Demokraten, wenn wir uns eigentlich zum Idealbild Anarchie bekennen?
+Weiterhin gehen wir noch auf unser Verständnis des Begriffs “Volkspartei” ein und welche Zukunft wir uns für die Piratenpartei wünschen.
+Viel Spaß beim Anhören. Benutzt gern die Kommentarfunktion um uns Feedback zu geben.
+ </itunes:summary>
+                    <itunes:keywords>Podcasts</itunes:keywords>
+                    <itunes:author>anarchobroni.es</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:block>no</itunes:block>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

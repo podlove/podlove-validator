@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:09 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=d2nmlesk1y1tmt021c1mevkl; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Content-Length" value="23410"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/19417</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/19417" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:09 GMT</lastBuildDate>
+                <image>
+                    <title>Quizza med P3</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4506</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4506/2852825_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Quizza med P3 är Sveriges roligaste radiofrågesport. Samla ihop dina vänner eller tävla mot dig själv när Kringlan Svensson och Nanna Johannson utmanar med frågor om allt från populärkultur och musik till historia och sport. Underhållning och allmänbildning i ett prydligt inslaget radiopaket!</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Quizza med P3</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Quizza med P3</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4506</link>
+                <description>Quizza med P3 är Sveriges roligaste radiofrågesport. Samla ihop dina vänner eller tävla mot dig själv när Kringlan Svensson och Nanna Johannson utmanar med frågor om allt från populärkultur och musik till historia och sport. Underhållning och allmänbildning i ett prydligt inslaget radiopaket!</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>QmP3_Beck_Det sista Quizzet</title>
+                    <description>BECK, DET SISTA QUIZZET – ETT QUIZ OM DECKARE Det här är ett quiz för alla som dubbelklickar på länkar, som opererat sin blindtarm i onödan, röstat blankt och ristat sin älskades namn i gruset på en fotbollsplan. Eller bara råkar gilla deckare. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044895.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140817_c1be91.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>BECK, DET SISTA QUIZZET – ETT QUIZ OM DECKARE Det här är ett quiz för alla som dubbelklickar på länkar, som opererat sin blindtarm i onödan, röstat blankt och ristat sin älskades namn i gruset på en fotbollsplan. Eller bara råkar gilla deckare. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Beck_Det,sista,Quizzet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044895.mp3" length="39959748" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_LOL</title>
+                    <description>LOL – ETT QUIZ OM HUMOR Det här är ett quiz för alla som längtat till våren, som har rätt till gratis tandvård, skyllt ifrån sig, som funderat på att byta till ett mer internationellt klingande namn. Eller bara råkar gilla humor. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037656.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140810_9ebbca.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>LOL – ETT QUIZ OM HUMOR Det här är ett quiz för alla som längtat till våren, som har rätt till gratis tandvård, skyllt ifrån sig, som funderat på att byta till ett mer internationellt klingande namn. Eller bara råkar gilla humor. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_LOL</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037656.mp3" length="38167473" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_Under Ytan</title>
+                    <description>UNDER YTAN – ETT QUIZ OM HAVET Det här är ett quiz för alla som stoppat in en hel kvist från en vinbärsbuske i munnen, dragit ut den mellan tänderna så att blad och bär rivits av och tuggat allt till en smet. Eller bara råkar gilla havet. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030837.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140803_e3b033.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>UNDER YTAN – ETT QUIZ OM HAVET Det här är ett quiz för alla som stoppat in en hel kvist från en vinbärsbuske i munnen, dragit ut den mellan tänderna så att blad och bär rivits av och tuggat allt till en smet. Eller bara råkar gilla havet. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Under,Ytan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030837.mp3" length="38039609" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_Pretto</title>
+                    <description>PRETTO – ETT QUIZ OM KONST Det här är ett quiz för alla som firar namnsdagar, som säger sig lägga in sin egen sill (men bara byter lock och etikett på burkarna), som har en idol i hemlighet. Eller bara råkar gilla konst. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023060.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140727_5c7227.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>PRETTO – ETT QUIZ OM KONST Det här är ett quiz för alla som firar namnsdagar, som säger sig lägga in sin egen sill (men bara byter lock och etikett på burkarna), som har en idol i hemlighet. Eller bara råkar gilla konst. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Pretto</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023060.mp3" length="37815539" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_Vår Medeltid Är Nu</title>
+                    <description>VÅR MEDELTID ÄR NU – ETT QUIZ OM TUSEN MÖRKA ÅR Det här är ett quiz för alla som har sina sladdar i en särskild låda, som pussar mot spegeln i provhytter, har tagit på sig för mycket jobb och älskar elgitarrer. Eller bara råkar gilla medeltiden. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5016489.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140720_322127.mp3</guid>
+                    <pubDate>Sun, 20 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>VÅR MEDELTID ÄR NU – ETT QUIZ OM TUSEN MÖRKA ÅR Det här är ett quiz för alla som har sina sladdar i en särskild låda, som pussar mot spegeln i provhytter, har tagit på sig för mycket jobb och älskar elgitarrer. Eller bara råkar gilla medeltiden. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Vår,Medeltid,Är,Nu</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5016489.mp3" length="38455509" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_Mellan Rött och Vitt</title>
+                    <description>MELLAN RÖTT OCH VITT – ETT QUIZ OM FÄRGEN ROSA Det här är ett quiz för alla som läser noggrant på bipacksedeln, som hatar ett visst fotbollslag, gjort dåliga affärer, som jublar när klockan slår elva minuter över elva. Eller bara råkar gilla färgen rosa. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5011651.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140713_f48de4.mp3</guid>
+                    <pubDate>Sun, 13 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>MELLAN RÖTT OCH VITT – ETT QUIZ OM FÄRGEN ROSA Det här är ett quiz för alla som läser noggrant på bipacksedeln, som hatar ett visst fotbollslag, gjort dåliga affärer, som jublar när klockan slår elva minuter över elva. Eller bara råkar gilla färgen rosa. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Mellan,Rött,och,Vitt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5011651.mp3" length="40151607" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>QmP3_Jag är Döden</title>
+                    <description>JAG ÄR DÖDEN – ETT QUIZ OM DET SOM HÄNDER EFTERÅT Det här är ett quiz för alla som varit hästtjejer, som tittar på nyheterna ironiskt, äger delar av en fabrik, lever för kyssar och drömmer om ett liv utan katt. Eller bara råkar gilla döden. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5002665.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140706_224966.mp3</guid>
+                    <pubDate>Sun, 06 Jul 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>JAG ÄR DÖDEN – ETT QUIZ OM DET SOM HÄNDER EFTERÅT Det här är ett quiz för alla som varit hästtjejer, som tittar på nyheterna ironiskt, äger delar av en fabrik, lever för kyssar och drömmer om ett liv utan katt. Eller bara råkar gilla döden. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3QmP3_Jag,är,Döden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5002665.mp3" length="37031500" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Born In The USA</title>
+                    <description>BORN IN THE USA – ETT QUIZ OM NORDAMERIKA Det här är ett quiz för alla som laddat hem ett stickmönster, som snusar när det är billigt, för alla som samlat på sig en massa papper och/eller är elaka mot djur. Eller bara råkar gilla Nordamerika. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4995420.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140629_18d4de.mp3</guid>
+                    <pubDate>Sun, 29 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>BORN IN THE USA – ETT QUIZ OM NORDAMERIKA Det här är ett quiz för alla som laddat hem ett stickmönster, som snusar när det är billigt, för alla som samlat på sig en massa papper och/eller är elaka mot djur. Eller bara råkar gilla Nordamerika. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Born,In,The,USA</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4995420.mp3" length="36407487" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Trevligt att språkas!</title>
+                    <description>TREVLIGT ATT SPRÅKAS – ETT QUIZ OM SPRÅK Det här är ett quiz för alla som ljuger om pengar, som ätit sig mätta på halstabletter, tappat tron på gener, svimmat på en förlossning och använt mjukvara som ett vapen. Eller bara råkar gilla språk. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4988471.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140622_28e174.mp3</guid>
+                    <pubDate>Sun, 22 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>TREVLIGT ATT SPRÅKAS – ETT QUIZ OM SPRÅK Det här är ett quiz för alla som ljuger om pengar, som ätit sig mätta på halstabletter, tappat tron på gener, svimmat på en förlossning och använt mjukvara som ett vapen. Eller bara råkar gilla språk. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Trevligt,att,språkas!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4988471.mp3" length="37111758" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Spoilervarning!</title>
+                    <description>SPOILERVARNING – ETT QUIZ OM TV-SERIER Det här är ett quiz för alla som klär i päls, har truckkörkort, tänkt döpa sina barn till något unik, som smörjer in sig om kvällen och önskar sig nytt porslin. Eller bara råkar gilla tv-serier. </description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4981352.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_140615_7a4df6.mp3</guid>
+                    <pubDate>Sun, 15 Jun 2014 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>SPOILERVARNING – ETT QUIZ OM TV-SERIER Det här är ett quiz för alla som klär i päls, har truckkörkort, tänkt döpa sina barn till något unik, som smörjer in sig om kvällen och önskar sig nytt porslin. Eller bara råkar gilla tv-serier. </itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Spoilervarning!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4981352.mp3" length="36279573" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Liggande Stolen</title>
+                    <description>Säsongens sista quiz handlar om matematik, men det är inte alls lika tråkigt som det låter!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4660449.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130816_fda401.mp3</guid>
+                    <pubDate>Fri, 16 Aug 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Säsongens sista quiz handlar om matematik, men det är inte alls lika tråkigt som det låter!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Liggande,Stolen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4660449.mp3" length="39479181" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Här är Brudarna!</title>
+                    <description>Kvinnospecial! Om filmkvinnor, sportkvinnor, politikkvinnor och historiska kvinnor! OBS: Garanterat mansfria frågor!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4653060.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130809_7a4a73.mp3</guid>
+                    <pubDate>Fri, 09 Aug 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Kvinnospecial! Om filmkvinnor, sportkvinnor, politikkvinnor och historiska kvinnor! OBS: Garanterat mansfria frågor!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Här,är,Brudarna!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4653060.mp3" length="40759442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tutti Frutti</title>
+                    <description>Tutti frutti är ett quiz om alla frukter! Och alla bär! Och lite, lite annat!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4645785.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130802_cf8869.mp3</guid>
+                    <pubDate>Fri, 02 Aug 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Tutti frutti är ett quiz om alla frukter! Och alla bär! Och lite, lite annat!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Tutti,Frutti</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4645785.mp3" length="38967147" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>På Västkusten Intet Nytt</title>
+                    <description>Vi reser till Sveriges framstjärt och fördjupar oss i goa gubbar, KPML(r) och göteborgspop!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4638330.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130726_13b24d.mp3</guid>
+                    <pubDate>Fri, 26 Jul 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Vi reser till Sveriges framstjärt och fördjupar oss i goa gubbar, KPML(r) och göteborgspop!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3På,Västkusten,Intet,Nytt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4638330.mp3" length="39831538" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Så Jävla King</title>
+                    <description>Här är Quizza med P3:s stora monarki-special för alla blåblodiga med rouge på kinden (men också alla andra)!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4624716.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130719_ecea40.mp3</guid>
+                    <pubDate>Fri, 19 Jul 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Här är Quizza med P3:s stora monarki-special för alla blåblodiga med rouge på kinden (men också alla andra)!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Så,Jävla,King</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4624716.mp3" length="42135341" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fjortis</title>
+                    <description>OMG detta e fjortiz-programmet!! Me frågor om energidryck, Bert-böckerna, Sailor Moon å Kissie!!!!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4622618.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130712_6d9e58.mp3</guid>
+                    <pubDate>Fri, 12 Jul 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>OMG detta e fjortiz-programmet!! Me frågor om energidryck, Bert-böckerna, Sailor Moon å Kissie!!!!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Fjortis</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4622618.mp3" length="40503179" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Livet På Luckan</title>
+                    <description>Ett quiz om lumpen, krig och livet i det militära! Men också om trevliga saker!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4614422.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130705_6797aa.mp3</guid>
+                    <pubDate>Fri, 05 Jul 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Ett quiz om lumpen, krig och livet i det militära! Men också om trevliga saker!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Livet,På,Luckan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4614422.mp3" length="42103522" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kitty Got Claws</title>
+                    <description>Är du en crazy cat lady? Då är det här quizet för dig! Här ställer vi frågor om allt från lodjur till Aristocats.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4606678.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130628_04ecda.mp3</guid>
+                    <pubDate>Fri, 28 Jun 2013 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Är du en crazy cat lady? Då är det här quizet för dig! Här ställer vi frågor om allt från lodjur till Aristocats.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3Kitty,Got,Claws</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4606678.mp3" length="40695486" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>From Russia With Love</title>
+                    <description>Det stora Rysslandsquizet! Här bjuds på frågor om sovjetkommunism, tundra och rysk roulette!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4599454.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130621_43efb8.mp3</guid>
+                    <pubDate>Fri, 21 Jun 2013 14:03:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>Det stora Rysslandsquizet! Här bjuds på frågor om sovjetkommunism, tundra och rysk roulette!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P3From,Russia,With,Love</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4599454.mp3" length="39735404" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>90-Talet kan börja</title>
+                    <description>I första avsnittet av Quizza med P3 reser vi tillbaka till 90-talet och ställer frågor om brittpop, ZTV, och internetmodem!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4592824.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p3_quizza_130614_b34195.mp3</guid>
+                    <pubDate>Fri, 14 Jun 2013 14:06:00 GMT</pubDate>
+                    <programid>4506</programid>
+                    <poddid>19417</poddid>
+                    <itunes:summary>I första avsnittet av Quizza med P3 reser vi tillbaka till 90-talet och ställer frågor om brittpop, ZTV, och internetmodem!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Quizza,med,P390-Talet,kan,börja</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4592824.mp3" length="46455407" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

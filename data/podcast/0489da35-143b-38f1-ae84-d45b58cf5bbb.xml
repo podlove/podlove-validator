@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:39:11 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="accept_ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podfm="http://podfm.ru/RSS/extension" version="2.0">
+            <channel>
+                <atom:link href="http://abachilo.podfm.ru/rss/rss.xml" type="application/rss+xml" rel="self"/>
+                <itunes:owner>
+                    <itunes:email>info@podfm.ru</itunes:email>
+                </itunes:owner>
+                <language>ru-ru</language>
+                <itunes:explicit>no</itunes:explicit>
+                <image>
+                    <url>http://file2.podfm.ru/32/325/3254/32544/images/lentava_38069_1_62.jpg</url>
+                    <title>Аудиобуквы</title>
+                    <link>http://abachilo.podfm.ru/</link>
+                </image>
+                <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/lentava_38069_1_62.jpg">
+                    <itunes:url>http://file2.podfm.ru/32/325/3254/32544/images/lentava_38069_1_62.jpg</itunes:url>
+                    <itunes:link>http://abachilo.podfm.ru/</itunes:link>
+                </itunes:image>
+                <link>http://abachilo.podfm.ru/</link>
+                <title>Аудиобуквы</title>
+                <description>Писатель и сценарист Александр Бачило читает свои произведения. Фантастика, сценарии - все, от  юмора, до хоррора.</description>
+                <itunes:summary>Писатель и сценарист Александр Бачило читает свои произведения. Фантастика, сценарии - все, от  юмора, до хоррора.</itunes:summary>
+                <itunes:author>PodFM.ru</itunes:author>
+                <category>Аудиокниги</category>
+                <lastBuildDate>Wed, 20 Aug 2014 16:36:11 +0400</lastBuildDate>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Не&#160;нужны. Часть 2&#160;из&#160;2 (029) </title>
+                    <link>http://abachilo.podfm.ru/29/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/29/</guid>
+                    <pubDate>Wed, 04 Jun 2014 07:07:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_29.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Одни обитатели подземного бункера считают, что пришельцы засели глубже. Другие - что выше. Кто же прав?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/29/file/podfm_bachilo_abachilo_29.mp3?channel=rss" length="72162324" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Одни обитатели подземного бункера считают, что пришельцы засели глубже. Другие - что выше. Кто же прав?</itunes:summary>
+                    <itunes:duration>1804</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_29_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1408</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Не&#160;нужны. Часть 1&#160;из&#160;2 (028) </title>
+                    <link>http://abachilo.podfm.ru/28/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/28/</guid>
+                    <pubDate>Wed, 04 Jun 2014 06:50:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_28.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Вторжение на Землю произошло, и жизнь человечества полетела под откос. Но не из-за пришельцев. Мы и сами прекрасно умеем усложнять свое существование. А инопланетяне где-то укрылись. Где?&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/28/file/podfm_bachilo_abachilo_28.mp3?channel=rss" length="72010944" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Вторжение на Землю произошло, и жизнь человечества полетела под откос. Но не из-за пришельцев. Мы и сами прекрасно умеем усложнять свое существование. А инопланетяне где-то укрылись. Где?</itunes:summary>
+                    <itunes:duration>1800</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_28_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1441</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Остров (027) </title>
+                    <link>http://abachilo.podfm.ru/27/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/27/</guid>
+                    <pubDate>Thu, 29 May 2014 12:40:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_27.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;С тех пор, как человечеству указана высшая цель, оно идет семимильными шагами, без страха и сомнений... куда прикажут.&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/27/file/podfm_bachilo_abachilo_27.mp3?channel=rss" length="24464951" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>С тех пор, как человечеству указана высшая цель, оно идет семимильными шагами, без страха и сомнений... куда прикажут.
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>1529</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_27_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2017</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Мерцающий (026) </title>
+                    <link>http://abachilo.podfm.ru/26/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/26/</guid>
+                    <pubDate>Thu, 29 May 2014 12:37:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_26.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Оказывается, известный парадокс путешественника во времени, убившего своего дедушку, имеет решение...&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/26/file/podfm_bachilo_abachilo_26.mp3?channel=rss" length="39075449" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Оказывается, известный парадокс путешественника во времени, убившего своего дедушку, имеет решение...
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>2435</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_26_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2578</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Дом на&#160;холме (025) </title>
+                    <link>http://abachilo.podfm.ru/25/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/25/</guid>
+                    <pubDate>Thu, 29 May 2014 12:32:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_25.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Город в окружении зла. Неминуемая гибель ожидает всех жителей, кроме тех, кто поверит в невероятное... &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/25/file/podfm_bachilo_abachilo_25.mp3?channel=rss" length="38270561" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Город в окружении зла. Неминуемая гибель ожидает всех жителей, кроме тех, кто поверит в невероятное... 
+
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>2392</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_25_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2708</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. Ассистент (024) </title>
+                    <link>http://abachilo.podfm.ru/24/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/24/</guid>
+                    <pubDate>Thu, 29 May 2014 12:28:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_24.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Человек, которому подчиняются случайности.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/24/file/podfm_bachilo_abachilo_24.mp3?channel=rss" length="32354766" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Человек, которому подчиняются случайности.
+
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>2022</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_24_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2100</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило, Игорь Ткаченко. До&#160;последней звезды Часть 3&#160;из&#160;3 (023) </title>
+                    <link>http://abachilo.podfm.ru/23/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/23/</guid>
+                    <pubDate>Thu, 29 May 2014 12:24:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_23.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Завершение истории об истребителях звезд.&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/23/file/podfm_bachilo_abachilo_23.mp3?channel=rss" length="29733270" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Завершение истории об истребителях звезд.
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>1857</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_23_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1731</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило, Игорь Ткаченко. До&#160;последней звезды Часть 2&#160;из&#160;3 (022) </title>
+                    <link>http://abachilo.podfm.ru/22/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/22/</guid>
+                    <pubDate>Thu, 29 May 2014 12:19:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_22.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Из подъезда, приволакивая ногу и сипя застуженными легкими, выбрался бомж, обвешанный со всех сторон драными полиэтиленовыми пакетами, набитыми тряпками и стеклотарой. На нем был покрытый ровным слоем слежавшейся грязи плащ без пуговиц. Из-под плаща торчали ватные клочья телогрейки. Одноухая зимняя шапка с полуоторванным козырьком съехала на глаза. Выйдя во двор, бомж остановился, тяжело дыша, и незаметно огляделся. Справа, в песочнице, возилась детвора. Слева, на скамеечке, судачили старухи. Путь через подворотню был свободен. Можно рискнуть...&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/22/file/podfm_bachilo_abachilo_22.mp3?channel=rss" length="30069773" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Из подъезда, приволакивая ногу и сипя застуженными легкими, выбрался бомж, обвешанный со всех сторон драными полиэтиленовыми пакетами, набитыми тряпками и стеклотарой. На нем был покрытый ровным слоем слежавшейся грязи плащ без пуговиц. Из-под плаща торчали ватные клочья телогрейки. Одноухая зимняя шапка с полуоторванным козырьком съехала на глаза. Выйдя во двор, бомж остановился, тяжело дыша, и незаметно огляделся. Справа, в песочнице, возилась детвора. Слева, на скамеечке, судачили старухи. Путь через подворотню был свободен. Можно рискнуть...
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>1878</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_22_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1758</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило, Игорь Ткаченко. До&#160;последней звезды Часть 1&#160;из&#160;3 (021) </title>
+                    <link>http://abachilo.podfm.ru/21/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/21/</guid>
+                    <pubDate>Thu, 29 May 2014 12:13:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_21.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;После убийства Бориса Моисеева наступило затишье. Пугачевой, Агузаровой, Сюткина давно уже не было в живых, стремительно подходили к концу составы всех Фабрик, Блестящих, Виа-Гры и прочих Лицеев. Чай вдвоем пел теперь в один голос, спрятавшись где-то в ракетном бункере под Челябинском, но, судя по унылым песням на сольном диске, понимал, что дни его сочтены. Верка Сердючка пыталась бежать в мужском платье в Австралию, однако, при такой популярности шансов у нее не было. &lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/21/file/podfm_bachilo_abachilo_21.mp3?channel=rss" length="32694898" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>После убийства Бориса Моисеева наступило затишье. Пугачевой, Агузаровой, Сюткина давно уже не было в живых, стремительно подходили к концу составы всех Фабрик, Блестящих, Виа-Гры и прочих Лицеев. Чай вдвоем пел теперь в один голос, спрятавшись где-то в ракетном бункере под Челябинском, но, судя по унылым песням на сольном диске, понимал, что дни его сочтены. Верка Сердючка пыталась бежать в мужском платье в Австралию, однако, при такой популярности шансов у нее не было. 
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>2042</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_21_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2940</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило, Игорь Ткаченко. Блог всемогущий (020) </title>
+                    <link>http://abachilo.podfm.ru/20/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/20/</guid>
+                    <pubDate>Thu, 29 May 2014 11:49:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_20.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Чтобы стать почетным гражданином Мира, нужно не так много...&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/20/file/podfm_bachilo_abachilo_20.mp3?channel=rss" length="30404176" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Чтобы стать почетным гражданином Мира, нужно не так много...
+
+
+С любезного разрешения С. Чекмаева я решил все свои произведения, озвученные "Моделью для сборки", собрать в своем подкасте для пущей сохранности. Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>1900</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_20_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2003</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Модель для сборки. Александр Бачило. "Приправа" (019) </title>
+                    <link>http://abachilo.podfm.ru/19/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/19/</guid>
+                    <pubDate>Tue, 04 Feb 2014 13:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_19.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Люди, добывающие бессмертие, коварны. Но существо, охраняющее залежи - коварнее...&lt;br /&gt;
+&lt;br /&gt;
+Запись сделана программой "Модель для сборки" во время встречи со слушателями &lt;a rel="nofollow" href="http://podfm.ru/goto/58d0967" target="_blank"&gt;ссылка&lt;/a&gt;&lt;br /&gt;
+Читает Влад Копп.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/19/file/podfm_bachilo_abachilo_19.mp3?channel=rss" length="81290971" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Люди, добывающие бессмертие, коварны. Но существо, охраняющее залежи - коварнее...
+
+Запись сделана программой "Модель для сборки" во время встречи со слушателями ссылка
+Читает Влад Копп.</itunes:summary>
+                    <itunes:duration>2032</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_19_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>5041</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>А.&#160;Бачило, И. Ткаченко. Красный гигант. Главы из&#160;романа (018) </title>
+                    <link>http://abachilo.podfm.ru/18/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/18/</guid>
+                    <pubDate>Sun, 09 Jun 2013 17:30:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_18.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Гражданская война не завершилась в Крыму, а лишь перенеслась на оперативный простор, измеряемый теперь не верстами, а световыми годами. В нее были вовлечены не только красные и белые, но и люди, далекие от революционных идей - в частности, последний экипаж орбитальной станции "Мир", которая ошибочно считается затопленной в океане. &lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Другие аудиорассказы А. Бачило и И. Ткаченко см. на http://bachilo.podfm.ru и http://mds.podfm.ru/&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/18/file/podfm_bachilo_abachilo_18.mp3?channel=rss" length="67344090" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Гражданская война не завершилась в Крыму, а лишь перенеслась на оперативный простор, измеряемый теперь не верстами, а световыми годами. В нее были вовлечены не только красные и белые, но и люди, далекие от революционных идей - в частности, последний экипаж орбитальной станции "Мир", которая ошибочно считается затопленной в океане. 
+
+Другие аудиорассказы А. Бачило и И. Ткаченко см. на http://bachilo.podfm.ru и http://mds.podfm.ru/</itunes:summary>
+                    <itunes:duration>4209</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_18_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>5142</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Лесопарк. Часть&#160;2 (017) </title>
+                    <link>http://abachilo.podfm.ru/17/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/17/</guid>
+                    <pubDate>Thu, 18 Apr 2013 16:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_17.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;В игре с дьяволом человек может победить. Но победитель не может остаться человеком. Окончание рассказа "Лесопарк" из цикла "Академонгородок". Читает автор.&lt;br /&gt;
+&lt;br /&gt;
+Другие аудиорассказы А. Бачило см. на http://bachilo.podfm.ru и http://mds.podfm.ru/&lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Те, кто ждал окончания рассказа, могут теперь прослушать обе части сразу и сказать автору все, что думают. Имеет ли, вообще, смысл непрофессиональная запись аудиокниг? Надеюсь на Ваши комментарии.&lt;/i&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/17/file/podfm_bachilo_abachilo_17.mp3?channel=rss" length="57794977" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>В игре с дьяволом человек может победить. Но победитель не может остаться человеком. Окончание рассказа "Лесопарк" из цикла "Академонгородок". Читает автор.
+
+Другие аудиорассказы А. Бачило см. на http://bachilo.podfm.ru и http://mds.podfm.ru/
+
+Те, кто ждал окончания рассказа, могут теперь прослушать обе части сразу и сказать автору все, что думают. Имеет ли, вообще, смысл непрофессиональная запись аудиокниг? Надеюсь на Ваши комментарии.</itunes:summary>
+                    <itunes:duration>3623</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_17_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>5928</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Лесопарк. Часть&#160;1 (016) </title>
+                    <link>http://abachilo.podfm.ru/16/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/16/</guid>
+                    <pubDate>Thu, 18 Apr 2013 16:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_16.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Рассказ из цикла "Академонгородок". Почему инструкции боевого подразделения совпадают с молитвой бомжа? У каждого своя добыча, своя смерть и свой мир. А дело - общее.&lt;br /&gt;
+Читает автор.&lt;br /&gt;
+Другие аудиорассказы А. Бачило см. на http://abachilo.podfm.ru и http://mds.podfm.ru/&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/16/file/podfm_bachilo_abachilo_16.mp3?channel=rss" length="59594291" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Рассказ из цикла "Академонгородок". Почему инструкции боевого подразделения совпадают с молитвой бомжа? У каждого своя добыча, своя смерть и свой мир. А дело - общее.
+Читает автор.
+Другие аудиорассказы А. Бачило см. на http://abachilo.podfm.ru и http://mds.podfm.ru/</itunes:summary>
+                    <itunes:duration>3736</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_16_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>8217</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. "Накхта" (015) </title>
+                    <link>http://abachilo.podfm.ru/15/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/15/</guid>
+                    <pubDate>Tue, 29 Jan 2013 01:35:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_15.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Фантастический рассказ из цикла "Академонгородок". Чужой, которого не отличишь от человека, не менее опасен, чем жуткое членистоногое. А более.&lt;br /&gt;
+Читает автор.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/15/file/podfm_bachilo_abachilo_15.mp3?channel=rss" length="57696756" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Фантастический рассказ из цикла "Академонгородок". Чужой, которого не отличишь от человека, не менее опасен, чем жуткое членистоногое. А более.
+Читает автор.</itunes:summary>
+                    <itunes:duration>3606</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_15_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>7095</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. "Академонгородок". Пролог. Бригадир (014) </title>
+                    <link>http://abachilo.podfm.ru/14/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/14/</guid>
+                    <pubDate>Tue, 22 Jan 2013 17:21:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_14.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Главы из романа в происшествиях "Академонгородок". Как и все в "Академонгородке", вполне самостоятельные рассказы.&lt;br /&gt;
+Текст читает автор.&lt;br /&gt;
+&lt;br /&gt;
+Некоторые главы уже выходили в &lt;a HREF="http://abachilo.podfm.ru/" rel=nofollow target=_blank&gt;"Аудиобуквах"&lt;/a&gt; и будут появляться еще, другие можно найти в подкасте &lt;a HREF="http://mds.podfm.ru/" rel=nofollow target=_blank&gt;"Модели для сборки"&lt;/a&gt;.&lt;br /&gt;
+&lt;br /&gt;
+Кстати, я не записываю те свои произведения, которые озвучены &lt;a HREF="http://mds.podfm.ru/" rel=nofollow target=_blank&gt;"Моделью"&lt;/a&gt;.&lt;br /&gt;
+Не собираюсь даже пытаться конкурировать с Владом Коппом :)&lt;br /&gt;
+Кому интересно, могут услышать их здесь:&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/120/ " rel=nofollow target=_blank&gt;Остров&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/141/ " rel=nofollow target=_blank&gt;Ассистент&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/243/ " rel=nofollow target=_blank&gt;Мерцающий&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/127/ " rel=nofollow target=_blank&gt;Дом на холме&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/231/ " rel=nofollow target=_blank&gt;До последней звезды 1&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/232/" rel=nofollow target=_blank&gt;До последней звезды 2&lt;/a&gt;&lt;br /&gt;
+&lt;a HREF="http://mds.podfm.ru/233/" rel=nofollow target=_blank&gt;До последней звезды 3&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+Приятного прослушивания!&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/14/file/podfm_bachilo_abachilo_14.mp3?channel=rss" length="76303881" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Главы из романа в происшествиях "Академонгородок". Как и все в "Академонгородке", вполне самостоятельные рассказы.
+Текст читает автор.
+
+Некоторые главы уже выходили в "Аудиобуквах" и будут появляться еще, другие можно найти в подкасте "Модели для сборки".
+
+Кстати, я не записываю те свои произведения, которые озвучены "Моделью".
+Не собираюсь даже пытаться конкурировать с Владом Коппом :)
+Кому интересно, могут услышать их здесь:
+Остров
+Ассистент
+Мерцающий
+Дом на холме
+До последней звезды 1
+До последней звезды 2
+До последней звезды 3
+
+Приятного прослушивания!</itunes:summary>
+                    <itunes:duration>4769</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_14_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>6523</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Пятно (013) </title>
+                    <link>http://abachilo.podfm.ru/13/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/13/</guid>
+                    <pubDate>Fri, 23 Nov 2012 19:58:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_13.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Жутик. Рассказ из цикла "Академонгородок".&lt;br /&gt;
+Текст читает автор.&lt;br /&gt;
+В записи использована музыка А. Пушного.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/13/file/podfm_bachilo_abachilo_13.mp3?channel=rss" length="67294771" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Жутик. Рассказ из цикла "Академонгородок".
+Текст читает автор.
+В записи использована музыка А. Пушного.</itunes:summary>
+                    <itunes:duration>4206</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_13_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>4090</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Помочь можно живым. Часть&#160;3 (012) </title>
+                    <link>http://abachilo.podfm.ru/12/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/12/</guid>
+                    <pubDate>Wed, 24 Oct 2012 15:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_12.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Окончание повести. Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/12/file/pomoch-3-4.mp3?channel=rss" length="79004315" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Окончание повести. Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением.</itunes:summary>
+                    <itunes:duration>4938</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_12_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3134</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Помочь можно живым. Часть&#160;2 (011) </title>
+                    <link>http://abachilo.podfm.ru/11/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/11/</guid>
+                    <pubDate>Mon, 15 Oct 2012 18:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_11.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/11/file/pomoch-2-2.mp3?channel=rss" length="42010748" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением.</itunes:summary>
+                    <itunes:duration>2626</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_11_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3125</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило&#160;— Помочь можно живым. Часть&#160;1 (010) </title>
+                    <link>http://abachilo.podfm.ru/10/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/10/</guid>
+                    <pubDate>Fri, 28 Sep 2012 14:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_10.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением. Даже "ЛОСТ" украл из нее сюжетный ход про кнопку:)&lt;br /&gt;
+Но об этом - в следующих частях.&lt;br /&gt;
+&lt;br /&gt;
+Текст читает автор.&lt;br /&gt;
+В записи использована музыка А. Пушного&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/10/file/pomoch-2.mp3?channel=rss" length="45876452" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Прошло сто лет после ядерной войны. Человек из одичавшего и вымирающего племени ищет путь к безопасным землям. Эта повесть, написанная в 1987 году еще юным автором, стала, по необъяснимому капризу судьбы, самым известным моим сочинением. Даже "ЛОСТ" украл из нее сюжетный ход про кнопку:)
+Но об этом - в следующих частях.
+
+Текст читает автор.
+В записи использована музыка А. Пушного</itunes:summary>
+                    <itunes:duration>2867</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_10_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3741</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. "Московский охотник" (008) </title>
+                    <link>http://abachilo.podfm.ru/9/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/9/</guid>
+                    <pubDate>Mon, 17 Sep 2012 14:00:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_9.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Фантастический рассказ в жанре "безумный хоррор". Ужас - это то, что реально. Ловушки большого города подстерегают маленького человека на каждом шагу. Случиться может все, что угодно, не случается только то, о чем расскажешь вслух. Вот так и появляются рассказы в жанре хоррор.&lt;br /&gt;
+&lt;br /&gt;
+Текст читает автор.&lt;br /&gt;
+&lt;br /&gt;
+В записи использована композиция А. Пушного на стихи А. Бачило.&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/9/file/moskowsky_ohotnik-2.mp3?channel=rss" length="53648403" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Фантастический рассказ в жанре "безумный хоррор". Ужас - это то, что реально. Ловушки большого города подстерегают маленького человека на каждом шагу. Случиться может все, что угодно, не случается только то, о чем расскажешь вслух. Вот так и появляются рассказы в жанре хоррор.
+
+Текст читает автор.
+
+В записи использована композиция А. Пушного на стихи А. Бачило.</itunes:summary>
+                    <itunes:duration>3353</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_9_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3272</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>А.&#160;Бачило, Ю. Исаков. 33&#160;квадратных метра. Рэкет (007) </title>
+                    <link>http://abachilo.podfm.ru/8/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/8/</guid>
+                    <pubDate>Mon, 10 Sep 2012 11:32:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_8.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;История этого произведения такова. Когда-то мы с Юрой Исаковым (он начинал, я продолжал) написали очередной сценарий для сериала  "33 кв. метра". Серия была снята (снимал я, будучи тогда режиссером сериала). Позже превратил сценарий в рассказ. Была идея выпустить ряд серий в виде книги рассказов о Звездуновых. Но книжный проект так и не был реализован. А рассказик остался. Интересно ли слушать в таком варианте? &lt;br /&gt; &lt;br /&gt; Сам я с некоторых пор подсел на аудиокниги. Их преимущество перед просто книгами и фильмами в том, что глаза свободны. Можно рулить,стоять в пробке, играть на компе, делать уборку  или вообще с закрытыми глазами лежать на диване. Занятие, кстати, всем знакомое (не лежание на диване, а прослушивание). Сколько мы в детстве впитали сказок с пластинок! До сих пор наизусть.&lt;br /&gt; В записи использована музыка А. Пушного.&lt;br /&gt; Другие аудиорассказы автора в его исполнении - на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/8/file/A_bachilo_reket-2.mp3?channel=rss" length="36060681" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>История этого произведения такова. Когда-то мы с Юрой Исаковым (он начинал, я продолжал) написали очередной сценарий для сериала  "33 кв. метра". Серия была снята (снимал я, будучи тогда режиссером сериала). Позже превратил сценарий в рассказ. Была идея выпустить ряд серий в виде книги рассказов о Звездуновых. Но книжный проект так и не был реализован. А рассказик остался. Интересно ли слушать в таком варианте?  
+ 
+Сам я с некоторых пор подсел на аудиокниги. Их преимущество перед просто книгами и фильмами в том, что глаза свободны. Можно рулить,стоять в пробке, играть на компе, делать уборку  или вообще с закрытыми глазами лежать на диване. Занятие, кстати, всем знакомое (не лежание на диване, а прослушивание). Сколько мы в детстве впитали сказок с пластинок! До сих пор наизусть. 
+В записи использована музыка А. Пушного. 
+Другие аудиорассказы автора в его исполнении - на ссылка</itunes:summary>
+                    <itunes:duration>2254</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_8_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2303</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. "Настоящик" (006) </title>
+                    <link>http://abachilo.podfm.ru/7/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/7/</guid>
+                    <pubDate>Thu, 06 Sep 2012 00:01:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_7.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Артефакт из другого мира порождает  смешные ситуации, от которых порой стынет кровь.  В ближайшее время рассказ выходит в сборнике S.W.A.L.K.E.R. "Байки из бункера"&lt;br /&gt; &lt;br /&gt; Текст читает автор.&lt;br /&gt; В записи использована музыка А. Пушного.&lt;br /&gt; Другие аудиорассказы автора в его исполнении - на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/7/file/7_A_bachilo_nastoiashik-2.mp3?channel=rss" length="46727835" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Артефакт из другого мира порождает  смешные ситуации, от которых порой стынет кровь.  В ближайшее время рассказ выходит в сборнике S.W.A.L.K.E.R. "Байки из бункера" 
+ 
+Текст читает автор. 
+В записи использована музыка А. Пушного. 
+Другие аудиорассказы автора в его исполнении - на ссылка</itunes:summary>
+                    <itunes:duration>2920</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_7_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>3060</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило "Впереди&#160;— вечность". Часть&#160;2 (005) </title>
+                    <link>http://abachilo.podfm.ru/5/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/5/</guid>
+                    <pubDate>Thu, 30 Aug 2012 01:56:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_5.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Окончание фантастического рассказа о приключениях в аду. 1999 г. Читает автор.&lt;br /&gt; В записи использована композиция А. Пушного на слова А. Бачило.&lt;br /&gt; Другие аудиорассказы автора в его исполнении - на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/5/file/A_bachilo_forever-2_2.mp3?channel=rss" length="29785442" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Окончание фантастического рассказа о приключениях в аду. 1999 г. Читает автор. 
+В записи использована композиция А. Пушного на слова А. Бачило. 
+Другие аудиорассказы автора в его исполнении - на ссылка</itunes:summary>
+                    <itunes:duration>1862</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_5_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2165</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Впереди вечность. Часть&#160;1 (004) </title>
+                    <link>http://abachilo.podfm.ru/4/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/4/</guid>
+                    <pubDate>Wed, 29 Aug 2012 00:52:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_4.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Фантастический рассказ о  приключениях в аду.  1999 г. Читает автор.&lt;br /&gt; В записи использована композиция А. Пушного на слова А. Бачило.&lt;br /&gt; Другие аудиорассказы автора в его исполнении - на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/4/file/A_bachilo_forever-1_2.mp3?channel=rss" length="34401801" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Фантастический рассказ о  приключениях в аду.  1999 г. Читает автор. 
+В записи использована композиция А. Пушного на слова А. Бачило. 
+Другие аудиорассказы автора в его исполнении - на ссылка</itunes:summary>
+                    <itunes:duration>2150</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_4_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2816</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило "Фотография" (003) </title>
+                    <link>http://abachilo.podfm.ru/3/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/3/</guid>
+                    <pubDate>Sun, 26 Aug 2012 19:26:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_3.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Рассказ из цикла "Академонгородок". Читает автор. В записи использована музыка А. Пушного&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; Слушайте рассказы на  &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/3/file/A_bachilo_photo-7.mp3?channel=rss" length="9379839" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Рассказ из цикла "Академонгородок". Читает автор. В записи использована музыка А. Пушного 
+ 
+ 
+Слушайте рассказы на  ссылка</itunes:summary>
+                    <itunes:duration>586</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_3_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2326</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>Александр Бачило. Ночной базар (002) </title>
+                    <link>http://abachilo.podfm.ru/2/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/2/</guid>
+                    <pubDate>Fri, 24 Aug 2012 21:24:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_2.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;С чего начинался проект "Ночной Базар". Пародия на финальный рэп фильма "Ночной дозор" в исполнении автора пародии. 2004 г.&lt;br /&gt; Другие аудиорассказы автора в его исполнении - на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/2/file/knizhnoe_obozrenie_bachilo.mp3?channel=rss" length="469177" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>С чего начинался проект "Ночной Базар". Пародия на финальный рэп фильма "Ночной дозор" в исполнении автора пародии. 2004 г. 
+Другие аудиорассказы автора в его исполнении - на ссылка</itunes:summary>
+                    <itunes:duration>78</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_2_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>1771</podfm:downloadCount>
+                </item>
+                <item>
+                    <title>А.&#160;Бачило, И. Ткаченко "Один дома" (001) </title>
+                    <link>http://abachilo.podfm.ru/1/</link>
+                    <guid>http://bachilo.podfm.ru/lenta/1/</guid>
+                    <pubDate>Fri, 24 Aug 2012 17:16:00 +0400</pubDate>
+                    <description>&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt;&lt;div style="float:left;width:235px;"&gt;&lt;table cellpadding=0 cellspacing=0&gt;&lt;tr&gt;&lt;td style="border-bottom:0px;"&gt;&lt;img src="http://file2.podfm.ru/32/325/3254/32544/images/pod_1.jpg?2" &gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;Сочиняя озвучку для мультиков, я заметил, что никакие подробно расписанные на бумаге диалоги не заменят подложенного прямо под видео голоса, хотя бы и чахленького собственного. Сразу становится ясно, что имеет в виду сценарист, поскольку интонация объясняет больше, чем три абзаца ремарок. В общем, пищал, басил, пел - свистел, а потом подумал: а не записать ли на аудио что-нибудь из фантастечки своей? Отбросив ложный стыд вместе с совестью? И отбросил. Я, конечно, не Влад Копп, и эта запись - не конкурент МДС, но, возможно, кто-то прослушает на досуге. Только помните, что блин первый. Зато свой. Музыкальный фрагмент от Пушного. &lt;br /&gt; &lt;br /&gt; Слушайте рассказы на &lt;a rel="nofollow" href="http://bachilo.podfm.ru" target="_blank"&gt;ссылка&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+                    <enclosure url="http://abachilo.podfm.ru/1/file/Bachilo_Tkachenko_Odin_doma-1.mp3?channel=rss" length="10104998" type="audio/mpeg"/>
+                    <itunes:author>bachilo</itunes:author>
+                    <itunes:summary>Сочиняя озвучку для мультиков, я заметил, что никакие подробно расписанные на бумаге диалоги не заменят подложенного прямо под видео голоса, хотя бы и чахленького собственного. Сразу становится ясно, что имеет в виду сценарист, поскольку интонация объясняет больше, чем три абзаца ремарок. В общем, пищал, басил, пел - свистел, а потом подумал: а не записать ли на аудио что-нибудь из фантастечки своей? Отбросив ложный стыд вместе с совестью? И отбросил. Я, конечно, не Влад Копп, и эта запись - не конкурент МДС, но, возможно, кто-то прослушает на досуге. Только помните, что блин первый. Зато свой. Музыкальный фрагмент от Пушного.  
+ 
+Слушайте рассказы на ссылка</itunes:summary>
+                    <itunes:duration>632</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:image href="http://file2.podfm.ru/32/325/3254/32544/images/pod_1_or.jpg"/>
+                    <podfm:nodownload>no</podfm:nodownload>
+                    <podfm:downloadCount>2971</podfm:downloadCount>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:33:03 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="X-Runtime" value="10"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="Last-Modified" value="Sat, 16 Aug 2014 18:41:37 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=db73360d1fff7fb4b7d58499e6c2a1b8; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 09:33:03 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="64212"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>The Android Headlines Show</title>
+                <link>http://androidheadlines.podomatic.com</link>
+                <description>The Android Headlines Show is your weekly source for Android news and rumors.</description>
+                <language>en-us</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Sat, 16 Aug 2014 18:41:37 GMT</pubDate>
+                <itunes:keywords>android,headlines,androidheadlines,google,nexus,technology,samsung,htc,motorola,lg,Technology,Gadgets</itunes:keywords>
+                <itunes:subtitle>Your weekly source for Android news and rumors.</itunes:subtitle>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/pro/1400x1400-1080x1080+418+0_9581132.jpg"/>
+                <itunes:author>Android Headlines</itunes:author>
+                <itunes:summary>The Android Headlines Show is your weekly source for Android news and rumors.</itunes:summary>
+                <itunes:category text="Technology">
+                    <itunes:category text="Gadgets"/>
+                </itunes:category>
+                <atom:link rel="self" type="application/rss+xml" href="http://androidheadlines.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>The Android Headlines Show Episode 72: Back With A Brand New Invention</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 72: Back With A Brand New Invention</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-08-14T21_29_00-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-08-14T21_29_00-07_00</comments>
+                    <pubDate>Fri, 15 Aug 2014 04:29:00 GMT</pubDate>
+                    <dcterms:modified>2014-08-15</dcterms:modified>
+                    <dcterms:created>2014-08-15</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>oneplus,one,oneplusone,android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-08-14T21_29_00-07_00.mp3" length="31754938"/>
+                    <itunes:duration>4789</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 72: Back With A Brand New Invention</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 72: Back With A Brand New Invention</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 71: Jonathan Endicott from Slickwraps, LG G3 and G Watch giveaway</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Jonathan Endicott from Slickwraps, LG G3 and G Watch giveaway; Sprint dumps plans for T-Mobile bid, dumps CEO too.</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-08-07T21_33_32-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-08-07T21_33_32-07_00</comments>
+                    <pubDate>Fri, 08 Aug 2014 04:33:32 GMT</pubDate>
+                    <dcterms:modified>2014-08-08</dcterms:modified>
+                    <dcterms:created>2014-08-08</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,show,samsung,rumors,nexus,news,motorola,lg,g3,gwatch,g,watch,htc,headlines,google,source,technology,weekly,slickwraps,ceo,jonathan,endicott</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-08-07T21_33_32-07_00.mp3" length="37453788"/>
+                    <itunes:duration>5231</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary>Jonathan Endicott from Slickwraps, LG G3 and G Watch giveaway; Sprint dumps plans for T-Mobile bid, dumps CEO too.</itunes:summary>
+                    <itunes:subtitle>Jonathan Endicott from Slickwraps, LG G3 and G Watch giveaway; Sprint dumps plans for T-Mobile bi...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 70: Q2 Reports and Sprint's Terrible Tiered Plans</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 70: Q2 Reports and Sprint's Terrible Tiered Plans</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-07-31T20_58_21-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-07-31T20_58_21-07_00</comments>
+                    <pubDate>Fri, 01 Aug 2014 03:58:21 GMT</pubDate>
+                    <dcterms:modified>2014-08-01</dcterms:modified>
+                    <dcterms:created>2014-08-01</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>sprint,att,verizon,tmobile,android,androidheadlines,oneplus,one,oneplusone,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,technology,weekly,source</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-07-31T20_58_21-07_00.mp3" length="42646379"/>
+                    <itunes:duration>5801</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 70: Q2 Reports and Sprint's Terrible Tiered Plans</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 70: Q2 Reports and Sprint's Terrible Tiered Plans</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 69: Giggity</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;It's episode 69! Giggity. Also, my OnePlus One showed up. </description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-07-24T21_43_26-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-07-24T21_43_26-07_00</comments>
+                    <pubDate>Fri, 25 Jul 2014 04:43:26 GMT</pubDate>
+                    <dcterms:modified>2014-07-25</dcterms:modified>
+                    <dcterms:created>2014-07-25</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>oneplus,one,oneplusone,android,gadgets,headlines,show,androidheadlines,lg,htc,motorola,news,nexus,rumors,samsung,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-07-24T21_43_26-07_00.mp3" length="38190311"/>
+                    <itunes:duration>5303</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>It's episode 69! Giggity. Also, my OnePlus One showed up. </itunes:summary>
+                    <itunes:subtitle>It's episode 69! Giggity. Also, my OnePlus One showed up. </itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 68: Google Earnings, Gmail API, Q&amp;A</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Google earnings, Senate cell phone unlocking law, Verizon prepaid LTE, and new Gmail API. We did some Q&amp;A too. </description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-07-17T20_33_05-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-07-17T20_33_05-07_00</comments>
+                    <pubDate>Fri, 18 Jul 2014 03:33:05 GMT</pubDate>
+                    <dcterms:modified>2014-07-18</dcterms:modified>
+                    <dcterms:created>2014-07-18</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>oneplus,one,oneplusone,android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-07-17T20_33_05-07_00.mp3" length="31575852"/>
+                    <itunes:duration>4494</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary>Google earnings, Senate cell phone unlocking law, Verizon prepaid LTE, and new Gmail API. We did some Q&amp;A too. </itunes:summary>
+                    <itunes:subtitle>Google earnings, Senate cell phone unlocking law, Verizon prepaid LTE, and new Gmail API. We did ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 67: OnePlus One Invite Giveaway</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg" alt="itunes pic" /&gt;&lt;br /&gt;OnePlus One invite giveaway, Sony on Verizon, Avast report, and more</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-07-10T21_20_31-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-07-10T21_20_31-07_00</comments>
+                    <pubDate>Fri, 11 Jul 2014 04:20:31 GMT</pubDate>
+                    <dcterms:modified>2014-07-11</dcterms:modified>
+                    <dcterms:created>2014-07-11</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,source,show,technology,weekly,oneplus,one,oneplusone</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-07-10T21_20_31-07_00.mp3" length="38391365"/>
+                    <itunes:duration>5179</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>6</itunes:order>
+                    <itunes:summary>OnePlus One invite giveaway, Sony on Verizon, Avast report, and more</itunes:summary>
+                    <itunes:subtitle>OnePlus One invite giveaway, Sony on Verizon, Avast report, and more</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 66: OnePlus One is in the house</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;OnePlus One is in the house. HTC is turning a profit. Evleaks gets tricked. LG G3 is coming to T-Mobile and Sprint. </description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-07-03T20_28_47-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-07-03T20_28_47-07_00</comments>
+                    <pubDate>Fri, 04 Jul 2014 03:28:47 GMT</pubDate>
+                    <dcterms:modified>2014-07-04</dcterms:modified>
+                    <dcterms:created>2014-07-04</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,technology,weekly,oneplus,one,oneplusone</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-07-03T20_28_47-07_00.mp3" length="28632099"/>
+                    <itunes:duration>3933</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>7</itunes:order>
+                    <itunes:summary>OnePlus One is in the house. HTC is turning a profit. Evleaks gets tricked. LG G3 is coming to T-Mobile and Sprint. </itunes:summary>
+                    <itunes:subtitle>OnePlus One is in the house. HTC is turning a profit. Evleaks gets tricked. LG G3 is coming to T-...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 65: Google I/O 2014 recap</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Google I/O 2014 recap. Android One, Android Wear, Android TV, Android L release, Material Design</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-06-27T03_27_48-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-06-27T03_27_48-07_00</comments>
+                    <pubDate>Fri, 27 Jun 2014 10:27:48 GMT</pubDate>
+                    <dcterms:modified>2014-06-27</dcterms:modified>
+                    <dcterms:created>2014-06-27</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>googleio,2014,recap,androidone,androidwear,androidtv,androidlrelease,materialdesign,android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-06-27T03_27_48-07_00.mp3" length="41535651"/>
+                    <itunes:duration>5686</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>8</itunes:order>
+                    <itunes:summary>Google I/O 2014 recap. Android One, Android Wear, Android TV, Android L release, Material Design</itunes:summary>
+                    <itunes:subtitle>Google I/O 2014 recap. Android One, Android Wear, Android TV, Android L release, Material Design</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 64: Google I/O Preview, T-Mobile Uncarrier 5.0, Amazon Fire Phone</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 64: Google I/O Preview, T-Mobile Uncarrier 5.0, Amazon Fire Phone</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-06-19T20_30_46-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-06-19T20_30_46-07_00</comments>
+                    <pubDate>Fri, 20 Jun 2014 03:30:46 GMT</pubDate>
+                    <dcterms:modified>2014-06-20</dcterms:modified>
+                    <dcterms:created>2014-06-20</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-06-19T20_30_46-07_00.mp3" length="27573517"/>
+                    <itunes:duration>4035</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>9</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 64: Google I/O Preview, T-Mobile Uncarrier 5.0, Amazon Fire Phone</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 64: Google I/O Preview, T-Mobile Uncarrier 5.0, Amazon Fire Phone</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 63: SwiftKey's Joe Braidwood</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581150.jpg" alt="itunes pic" /&gt;&lt;br /&gt;SwiftKey's Joe Braidwood gives us all the details about the new SwiftKey keyboard update.</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-06-12T20_44_26-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-06-12T20_44_26-07_00</comments>
+                    <pubDate>Fri, 13 Jun 2014 03:44:26 GMT</pubDate>
+                    <dcterms:modified>2014-06-20</dcterms:modified>
+                    <dcterms:created>2014-06-20</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>swiftkey,android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-06-12T20_44_26-07_00.mp3" length="37826032"/>
+                    <itunes:duration>5388</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581150.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>10</itunes:order>
+                    <itunes:summary>SwiftKey's Joe Braidwood gives us all the details about the new SwiftKey keyboard update.</itunes:summary>
+                    <itunes:subtitle>SwiftKey's Joe Braidwood gives us all the details about the new SwiftKey keyboard update.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 62: Android 4.4.3 and WWDC</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 62: Android 4.4.3 and WWDC</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-06-05T21_09_18-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-06-05T21_09_18-07_00</comments>
+                    <pubDate>Fri, 06 Jun 2014 04:09:18 GMT</pubDate>
+                    <dcterms:modified>2014-06-06</dcterms:modified>
+                    <dcterms:created>2014-06-06</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-06-05T21_09_18-07_00.mp3" length="35396445"/>
+                    <itunes:duration>4890</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+413+0_9581151.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>11</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 62: Android 4.4.3 and WWDC</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 62: Android 4.4.3 and WWDC</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 61: LG G3 and Carson Brown from Cliq Cases</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581150.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The LG G3 launched this week, and we had special guest Carson Brown from Cliq Cases with us. </description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-05-29T20_28_07-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-05-29T20_28_07-07_00</comments>
+                    <pubDate>Fri, 30 May 2014 03:28:07 GMT</pubDate>
+                    <dcterms:modified>2014-05-30</dcterms:modified>
+                    <dcterms:created>2014-05-30</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology,show,source,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-05-29T20_28_07-07_00.mp3" length="40426487"/>
+                    <itunes:duration>6016</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581150.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>12</itunes:order>
+                    <itunes:summary>The LG G3 launched this week, and we had special guest Carson Brown from Cliq Cases with us. </itunes:summary>
+                    <itunes:subtitle>The LG G3 launched this week, and we had special guest Carson Brown from Cliq Cases with us. </itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 60: Google I/O and the LG G3</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-0x0+0+0_9581161.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 60: Google I/O and the LG G3</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-05-23T05_55_10-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-05-23T05_55_10-07_00</comments>
+                    <pubDate>Fri, 23 May 2014 12:55:10 GMT</pubDate>
+                    <dcterms:modified>2014-05-23</dcterms:modified>
+                    <dcterms:created>2014-05-23</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-05-23T05_55_10-07_00.mp3" length="37988392"/>
+                    <itunes:duration>5504</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-0x0+0+0_9581161.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>13</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 60: Google I/O and the LG G3</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 60: Google I/O and the LG G3</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 59: Flounder and Molly</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 59: Flounder and Molly</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-05-15T19_50_54-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-05-15T19_50_54-07_00</comments>
+                    <pubDate>Fri, 16 May 2014 02:50:54 GMT</pubDate>
+                    <dcterms:modified>2014-05-16</dcterms:modified>
+                    <dcterms:created>2014-05-16</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,headlines,htc,lg,motorola,news,nexus,rumors,samsung,gadgets,audio,google,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-05-15T19_50_54-07_00.mp3" length="16105472"/>
+                    <itunes:duration>2785</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-1080x1080+418+0_9581132.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>14</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 59: Flounder and Molly</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 59: Flounder and Molly</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 58</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 58: Android Silver</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-05-06T20_57_45-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-05-06T20_57_45-07_00</comments>
+                    <pubDate>Wed, 07 May 2014 03:57:45 GMT</pubDate>
+                    <dcterms:modified>2014-05-07</dcterms:modified>
+                    <dcterms:created>2014-05-07</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-05-06T20_57_45-07_00.mp3" length="29205216"/>
+                    <itunes:duration>4981</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>15</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 58: Android Silver</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 58: Android Silver</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 57</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 57</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-04-30T15_07_39-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-04-30T15_07_39-07_00</comments>
+                    <pubDate>Wed, 30 Apr 2014 22:07:39 GMT</pubDate>
+                    <dcterms:modified>2014-04-30</dcterms:modified>
+                    <dcterms:created>2014-04-30</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology,source,weekly,show</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-04-30T15_07_39-07_00.mp3" length="21733648"/>
+                    <itunes:duration>3607</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>16</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 57</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 57</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 56</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 56: LG G3 Rumors and Project Ara</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-04-22T20_40_43-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-04-22T20_40_43-07_00</comments>
+                    <pubDate>Wed, 23 Apr 2014 03:40:43 GMT</pubDate>
+                    <dcterms:modified>2014-04-23</dcterms:modified>
+                    <dcterms:created>2014-04-23</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-04-22T20_40_43-07_00.mp3" length="34428629"/>
+                    <itunes:duration>5140</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>17</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 56: LG G3 Rumors and Project Ara</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 56: LG G3 Rumors and Project Ara</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 55</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 55</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-04-15T20_02_23-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-04-15T20_02_23-07_00</comments>
+                    <pubDate>Wed, 16 Apr 2014 03:02:23 GMT</pubDate>
+                    <dcterms:modified>2014-04-16</dcterms:modified>
+                    <dcterms:created>2014-04-16</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-04-15T20_02_23-07_00.mp3" length="29751048"/>
+                    <itunes:duration>4423</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>18</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 55</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 55</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 54</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 54</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-04-08T20_32_15-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-04-08T20_32_15-07_00</comments>
+                    <pubDate>Wed, 09 Apr 2014 03:32:15 GMT</pubDate>
+                    <dcterms:modified>2014-04-09</dcterms:modified>
+                    <dcterms:created>2014-04-09</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,source,show,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-04-08T20_32_15-07_00.mp3" length="32879979"/>
+                    <itunes:duration>4926</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>19</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 54</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 54</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 53: April Fools Day</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 53: April Fools Day</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-04-01T19_48_45-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-04-01T19_48_45-07_00</comments>
+                    <pubDate>Wed, 02 Apr 2014 02:48:45 GMT</pubDate>
+                    <dcterms:modified>2014-04-02</dcterms:modified>
+                    <dcterms:created>2014-04-02</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-04-01T19_48_45-07_00.mp3" length="29671161"/>
+                    <itunes:duration>4883</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>20</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 53: April Fools Day</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 53: April Fools Day</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 52: HTC One M8</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 52: HTC One M8</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-03-25T20_13_12-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-03-25T20_13_12-07_00</comments>
+                    <pubDate>Wed, 26 Mar 2014 03:13:12 GMT</pubDate>
+                    <dcterms:modified>2014-03-26</dcterms:modified>
+                    <dcterms:created>2014-03-26</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,show,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-03-25T20_13_12-07_00.mp3" length="24959020"/>
+                    <itunes:duration>4193</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>21</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 52: HTC One M8</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 52: HTC One M8</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 51: Android Wear</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 51: Android Wear</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-03-18T20_10_10-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-03-18T20_10_10-07_00</comments>
+                    <pubDate>Wed, 19 Mar 2014 03:10:10 GMT</pubDate>
+                    <dcterms:modified>2014-03-20</dcterms:modified>
+                    <dcterms:created>2014-03-20</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,headlines,audio,gadgets,google,htc,lg,motorola,news,nexus,rumors,samsung,show,source,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-03-18T20_10_10-07_00.mp3" length="31225507"/>
+                    <itunes:duration>5045</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>22</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 51: Android Wear</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 51: Android Wear</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 50</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 50</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-03-12T07_08_49-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-03-12T07_08_49-07_00</comments>
+                    <pubDate>Wed, 12 Mar 2014 14:08:49 GMT</pubDate>
+                    <dcterms:modified>2014-03-12</dcterms:modified>
+                    <dcterms:created>2014-03-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-03-12T07_08_49-07_00.mp3" length="18516517"/>
+                    <itunes:duration>3324</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>23</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 50</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 50</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 49</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;HTC One M8 leaks, Oppo Find 7, Google Docs update, and more</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-03-05T08_05_41-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-03-05T08_05_41-08_00</comments>
+                    <pubDate>Wed, 05 Mar 2014 16:05:41 GMT</pubDate>
+                    <dcterms:modified>2014-03-05</dcterms:modified>
+                    <dcterms:created>2014-03-05</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-03-05T08_05_41-08_00.mp3" length="27295884"/>
+                    <itunes:duration>4733</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>24</itunes:order>
+                    <itunes:summary>HTC One M8 leaks, Oppo Find 7, Google Docs update, and more</itunes:summary>
+                    <itunes:subtitle>HTC One M8 leaks, Oppo Find 7, Google Docs update, and more</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 48 Mobile World Congress</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 48 Mobile World Congress
+
+Here is the agenda for last nights show, in case you want to follow along. We took some questions, too:
+
+Samsung
+
+Galaxy S5
+
+Gear 2, Gear Neo, and Gear Fit
+
+Sony
+
+Xperi Z2 and Z2 Tablet
+
+Xperia M2
+
+SmartEyeglass and gaming headset
+
+Other stuff
+
+Nokia X phones
+
+Intel’s new 64-bit processors
+
+Qualcomm’s new 64-bit processors
+
+MediaTek’s new 64-bit processors
+
+Snapdragon 801 SoC
+
+SanDisk 128GB microSDXC cards
+
+New Lenovo smartphones</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-02-26T06_19_05-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-02-26T06_19_05-08_00</comments>
+                    <pubDate>Wed, 26 Feb 2014 14:19:05 GMT</pubDate>
+                    <dcterms:modified>2014-02-26</dcterms:modified>
+                    <dcterms:created>2014-02-26</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,htc,lg,motorola,nexus,news,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-02-26T06_19_05-08_00.mp3" length="44786570"/>
+                    <itunes:duration>5598</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400-900x900+270+0_9306013.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>25</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 48 Mobile World Congress
+
+Here is the agenda for last nights show, in case you want to follow along. We took some questions, too:
+
+Samsung
+
+Galaxy S5
+
+Gear 2, Gear Neo, and Gear Fit
+
+Sony
+
+Xperi Z2 and Z2 Tablet
+
+Xperia M2
+
+SmartEyeglass and gaming headset
+
+Other stuff
+
+Nokia X phones
+
+Intel’s new 64-bit processors
+
+Qualcomm’s new 64-bit processors
+
+MediaTek’s new 64-bit processors
+
+Snapdragon 801 SoC
+
+SanDisk 128GB microSDXC cards
+
+New Lenovo smartphones</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 48 Mobile World Congress
+
+Here is the agenda for last nights...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 47</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 47</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-02-11T20_40_06-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-02-11T20_40_06-08_00</comments>
+                    <pubDate>Wed, 12 Feb 2014 04:40:06 GMT</pubDate>
+                    <dcterms:modified>2014-02-12</dcterms:modified>
+                    <dcterms:created>2014-02-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-02-11T20_40_06-08_00.mp3" length="26270190"/>
+                    <itunes:duration>4676</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>26</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 47</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 47</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 46</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 46</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-02-04T19_51_53-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-02-04T19_51_53-08_00</comments>
+                    <pubDate>Wed, 05 Feb 2014 03:51:53 GMT</pubDate>
+                    <dcterms:modified>2014-02-05</dcterms:modified>
+                    <dcterms:created>2014-02-05</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology,weekly</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-02-04T19_51_53-08_00.mp3" length="28723580"/>
+                    <itunes:duration>5091</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>27</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 46</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 46</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 45</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 45</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-01-28T20_24_54-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-01-28T20_24_54-08_00</comments>
+                    <pubDate>Wed, 29 Jan 2014 04:24:54 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2014-01-29</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-01-28T20_24_54-08_00.mp3" length="25290180"/>
+                    <itunes:duration>4497</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>28</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 45</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 45</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 44</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 44</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-01-21T20_04_48-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-01-21T20_04_48-08_00</comments>
+                    <pubDate>Wed, 22 Jan 2014 04:04:48 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2014-01-22</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,audio,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-01-21T20_04_48-08_00.mp3" length="20478300"/>
+                    <itunes:duration>3598</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>29</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 44</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 44</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 43</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 43</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-01-14T21_11_06-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-01-14T21_11_06-08_00</comments>
+                    <pubDate>Wed, 15 Jan 2014 05:11:06 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2014-01-15</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-01-14T21_11_06-08_00.mp3" length="35382203"/>
+                    <itunes:duration>4422</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>30</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 43</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 43</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 42: CES 2014</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 42: CES 2014</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2014-01-09T20_07_02-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2014-01-09T20_07_02-08_00</comments>
+                    <pubDate>Fri, 10 Jan 2014 04:07:02 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2014-01-10</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>ces,android,androidheadlines,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2014-01-09T20_07_02-08_00.mp3" length="40400591"/>
+                    <itunes:duration>5049</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>31</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 42: CES 2014</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 42: CES 2014</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 41: How did you get Android 4.4 KitKat running on your beard?</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 41: How did you get Android 4.4 KitKat running on your beard?</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-12-18T18_34_08-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-12-18T18_34_08-08_00</comments>
+                    <pubDate>Thu, 19 Dec 2013 02:34:08 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-19</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-12-18T18_34_08-08_00.mp3" length="41317041"/>
+                    <itunes:duration>5164</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>32</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 41: How did you get Android 4.4 KitKat running on your beard?</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 41: How did you get Android 4.4 KitKat running on your beard?</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 40</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 40. Sony Z Ultra GPe, white Nexus 7, new Chromecast apps</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-12-11T19_14_42-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-12-11T19_14_42-08_00</comments>
+                    <pubDate>Thu, 12 Dec 2013 03:14:42 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-12-11T19_14_42-08_00.mp3" length="68015124"/>
+                    <itunes:duration>4250</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_9077577.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>33</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 40. Sony Z Ultra GPe, white Nexus 7, new Chromecast apps</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 40. Sony Z Ultra GPe, white Nexus 7, new Chromecast apps</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Ep 39: Moto X Cyber Monday debacle, Huawei exits the US market, Q&amp;A</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Ep 39: Moto X Cyber Monday debacle, Huawei exits the US market, Q&amp;A</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-12-04T18_36_00-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-12-04T18_36_00-08_00</comments>
+                    <pubDate>Thu, 05 Dec 2013 02:36:00 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-05</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,gadgets,android,google,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-12-04T18_36_00-08_00.mp3" length="91951224"/>
+                    <itunes:duration>5746</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>34</itunes:order>
+                    <itunes:summary>Ep 39: Moto X Cyber Monday debacle, Huawei exits the US market, Q&amp;A</itunes:summary>
+                    <itunes:subtitle>Ep 39: Moto X Cyber Monday debacle, Huawei exits the US market, Q&amp;A</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Ep 38</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Ep 38</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-11-20T19_18_27-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-11-20T19_18_27-08_00</comments>
+                    <pubDate>Thu, 21 Nov 2013 03:18:27 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-11-20T19_18_27-08_00.mp3" length="70450150"/>
+                    <itunes:duration>4402</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>35</itunes:order>
+                    <itunes:summary>The Android Headlines Show Ep 38</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Ep 38</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 37</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 37 - Nexus 5 giveaway, Tizen, Dalvik vs ART</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-11-12T21_06_57-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-11-12T21_06_57-08_00</comments>
+                    <pubDate>Wed, 13 Nov 2013 05:06:57 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-11-12T21_06_57-08_00.mp3" length="73539280"/>
+                    <itunes:duration>4596</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>36</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 37 - Nexus 5 giveaway, Tizen, Dalvik vs ART</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 37 - Nexus 5 giveaway, Tizen, Dalvik vs ART</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show Episode 36 - Nexus 5 Special</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show Episode 36 - Nexus 5 Special</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-11-12T21_02_41-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-11-12T21_02_41-08_00</comments>
+                    <pubDate>Wed, 13 Nov 2013 05:02:41 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>android,androidheadlines,audio,gadgets,google,headlines,htc,lg,motorola,news,nexus,rumors,samsung,technology</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-11-12T21_02_41-08_00.mp3" length="102941542"/>
+                    <itunes:duration>6434</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>37</itunes:order>
+                    <itunes:summary>The Android Headlines Show Episode 36 - Nexus 5 Special</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show Episode 36 - Nexus 5 Special</itunes:subtitle>
+                </item>
+                <item>
+                    <title>The Android Headlines Show #35: Nexus 5 and KitKat</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;The Android Headlines Show #35: Nexus 5 and KitKat</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-11-06T18_57_31-08_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-11-06T18_57_31-08_00</comments>
+                    <pubDate>Thu, 07 Nov 2013 02:57:31 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,android,google,htc,lg,motorola,news,nexus,rumors,samsung,technology,gadgets</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-11-06T18_57_31-08_00.mp3" length="72350615"/>
+                    <itunes:duration>4521</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>38</itunes:order>
+                    <itunes:summary>The Android Headlines Show #35: Nexus 5 and KitKat</itunes:summary>
+                    <itunes:subtitle>The Android Headlines Show #35: Nexus 5 and KitKat</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 34: "A Morning With Google+" and Android 4.4 Kit Kat features</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg" alt="itunes pic" /&gt;&lt;br /&gt;"A Morning With Google+" and Android 4.4 Kit Kat features</description>
+                    <guid isPermaLink="true">http://androidheadlines.podomatic.com/entry/2013-10-29T20_24_15-07_00</guid>
+                    <comments>http://androidheadlines.podomatic.com/entry/2013-10-29T20_24_15-07_00</comments>
+                    <pubDate>Wed, 30 Oct 2013 03:24:15 GMT</pubDate>
+                    <dcterms:modified>2014-02-13</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://androidheadlines.podomatic.com</link>
+                    <dc:creator>Android Headlines</dc:creator>
+                    <itunes:keywords>androidheadlines,google,htc,lg,motorola,news,nexus,rumors,samsung,technology,gadgets,android</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://androidheadlines.podomatic.com/enclosure/2013-10-29T20_24_15-07_00.mp3" length="88923104"/>
+                    <itunes:duration>5558</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/42/a5/30/jeremiahlnelson/1400x1400_8848073.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>39</itunes:order>
+                    <itunes:summary>"A Morning With Google+" and Android 4.4 Kit Kat features</itunes:summary>
+                    <itunes:subtitle>"A Morning With Google+" and Android 4.4 Kit Kat features</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

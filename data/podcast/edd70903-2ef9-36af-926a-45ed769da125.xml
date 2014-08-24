@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:18:54 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Pingback" value="http://2cl.rumgelaber.de/wordpress/xmlrpc.php"/>
+        <httpclient:header name="Last-Modified" value="Thu, 05 Jun 2014 08:19:29 GMT"/>
+        <httpclient:header name="ETag" value="&#34;1f9254bd5b128704a9d94d4234fefad7&#34;"/>
+        <httpclient:header name="Set-Cookie" value="slimstat_tracking_code=69664id.26be8811b1a6e53142294a2f93e23340; expires=Sat, 20-Sep-2014 12:18:54 GMT; path=/"/>
+        <httpclient:header name="X-Powered-By" value="PleskLin"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+            <channel>
+                <title>2CL</title>
+                <link>http://2cl.rumgelaber.de</link>
+                <description>Wie ein Blog, nur etwas lauter</description>
+                <lastBuildDate>Thu, 05 Jun 2014 08:19:29 +0000</lastBuildDate>
+                <atom:link rel="self" type="application/rss+xml" title="2CL (MPEG4-Feed)" href="http://2cl.rumgelaber.de/feed/aac/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="2CL (MP3-Feed)" href="http://2cl.rumgelaber.de/feed/mp3/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="2CL (OPUS-Feed)" href="http://2cl.rumgelaber.de/feed/opus/"/>
+                <atom:link rel="first" href="http://2cl.rumgelaber.de/feed/aac/"/>
+                <language>de-DE</language>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2Fwordpress%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL" type="text/html"/>
+                <generator>Podlove Podcast Publisher v1.10.9-alpha</generator>
+                <itunes:author>Lars Reineke</itunes:author>
+                <itunes:summary>So eine Art Audioblog, Tagebuchpodcast, irgendwie sowas, was weiß denn ich.</itunes:summary>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Personal Journals"/>
+                </itunes:category>
+                <itunes:category text="Society &amp; Culture">
+                    <itunes:category text="Philosophy"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>Lars Reineke</itunes:name>
+                    <itunes:email>mail@larsreineke.de</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://2cl.rumgelaber.de/files/static/2cl_logo.png"/>
+                <itunes:subtitle>Wie ein Blog, nur etwas lauter</itunes:subtitle>
+                <itunes:keywords>daily log, rumgelaber, tagebuch, audioblog</itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>yes</itunes:explicit>
+                <item>
+                    <title>2CL0031 – Töten! Zerstören! Motorrad!</title>
+                    <link>http://2cl.rumgelaber.de/2cl0031-toeten-zerstoeren-motorrad/</link>
+                    <pubDate>Thu, 05 Jun 2014 08:19:29 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-05t08:16:19+00:00-0b579d934c43691</guid>
+                    <description>Heieiei, einmal im Schnelldurchlauf durch meine Motorradausbildung, -prüfung und was ich noch so in den letzten Monaten erlebt habe. Hint: Nix. Außer Motorradfahren. Und Abnehmen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0031-toeten-zerstoeren-motorrad%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0031+%26%238211%3B+T%C3%B6ten%21+Zerst%C3%B6ren%21+Motorrad%21&amp;description=Heieiei%2C+einmal+im+Schnelldurchlauf+durch+meine+Motorradausbildung%2C+-pr%C3%BCfung+und+was+ich+noch+so+in+den+letzten+Monaten+erlebt+habe.+Hint%3A+Nix.+Au%C3%9Fer+Motorradfahren.+Und+Abnehmen.+Dauer%3A+00%3A20%3A11+%26nbsp%3B" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0031-toeten-zerstoeren-motorrad/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=328&amp;ptm_source=feed&amp;ptm_context=aac" length="10348450" type="audio/mp4"/>
+                    <itunes:duration>00:20:11</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Heieiei, einmal im Schnelldurchlauf durch meine Motorradausbildung, -prüfung und was ich noch so in den letzten Monaten erlebt habe. Hint: Nix. Außer Motorradfahren. Und Abnehmen.</itunes:summary>
+                    <content:encoded>Heieiei, einmal im Schnelldurchlauf durch meine Motorradausbildung, -prüfung und was ich noch so in den letzten Monaten erlebt habe. Hint: Nix. Außer Motorradfahren. Und Abnehmen.
+&lt;p&gt;
+Dauer: 00:20:11
+&lt;p&gt;
+&lt;br&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/wp-content/uploads/2014/06/lars_gs_500.jpg"&gt;&lt;img class="alignnone size-medium wp-image-132" src="http://2cl.rumgelaber.de/wordpress/wp-content/uploads/2014/06/lars_gs_500-258x300.jpg" alt="lars_gs_500" width="258" height="300" /&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=131&amp;amp;md5=ae0af45a4717100d8d6b17dd3f798942" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0030 – Urlaub!</title>
+                    <link>http://2cl.rumgelaber.de/2cl0030-urlaub/</link>
+                    <pubDate>Sun, 23 Mar 2014 20:46:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-23t20:43:34+00:00-416bbfba0a00987</guid>
+                    <description>Viel zu tun gehabt und daher erst nach 2 Wochen eine neue Folge. Habe wieder einmal eine Ratssitzung überstanden, 2 Kilogramm abgenommen, die theoretische Prüfung beim selben Prüfer wie vor 20 Jahren bestanden und endlich Urlaub. Außerdem: Stützlast, und die Motorradklamotten passen noch, damit ich Dienstag endlich mit Fahrstunden anfangen kann.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0030-urlaub%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0030+%26%238211%3B+Urlaub%21&amp;description=Viel+zu+tun+gehabt+und+daher+erst+nach+2+Wochen+eine+neue+Folge.+Habe+wieder+einmal+eine+Ratssitzung+%C3%BCberstanden%2C+2+Kilogramm+abgenommen%2C+die+theoretische+Pr%C3%BCfung+beim+selben+Pr%C3%BCfer+wie+vor..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0030-urlaub/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=299&amp;ptm_source=feed&amp;ptm_context=aac" length="5987719" type="audio/mp4"/>
+                    <itunes:duration>00:11:33</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Viel zu tun gehabt und daher erst nach 2 Wochen eine neue Folge. Habe wieder einmal eine Ratssitzung überstanden, 2 Kilogramm abgenommen, die theoretische Prüfung beim selben Prüfer wie vor 20 Jahren bestanden und endlich Urlaub. Außerdem: Stützlast, und die Motorradklamotten passen noch, damit ich Dienstag endlich mit Fahrstunden anfangen kann.</itunes:summary>
+                    <content:encoded>Viel zu tun gehabt und daher erst nach 2 Wochen eine neue Folge. Habe wieder einmal eine Ratssitzung überstanden, 2 Kilogramm abgenommen, die theoretische Prüfung beim selben Prüfer wie vor 20 Jahren bestanden und endlich Urlaub. Außerdem: Stützlast, und die Motorradklamotten passen noch, damit ich Dienstag endlich mit Fahrstunden anfangen kann.
+&lt;p&gt;
+Dauer: 00:11:33
+&lt;p&gt;
+&lt;br&gt;
+&lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/wp-content/uploads/2014/03/ritterrost.jpg"&gt;&lt;img class=" wp-image-121  " alt="ritterrost" src="http://2cl.rumgelaber.de/wordpress/wp-content/uploads/2014/03/ritterrost-118x300.jpg" width="118" height="300" /&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=120&amp;amp;md5=b5d60fea9ce9ce368f5302fd92d908a4" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0029 – Grill gut</title>
+                    <link>http://2cl.rumgelaber.de/2cl0029-grill-gut/</link>
+                    <pubDate>Mon, 10 Mar 2014 10:00:02 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-10t09:59:39+00:00-229504396566d04</guid>
+                    <description>Steuer gut, Wetter gut, Freunde gut, Grill gut, Bier gut, Spaziergang gut, alles gut</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0029-grill-gut%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0029+%26%238211%3B+Grill+gut&amp;description=Steuer+gut%2C+Wetter+gut%2C+Freunde+gut%2C+Grill+gut%2C+Bier+gut%2C+Spaziergang+gut%2C+alles+gut+Dauer%3A+00%3A07%3A26" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0029-grill-gut/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=284&amp;ptm_source=feed&amp;ptm_context=aac" length="3898069" type="audio/mp4"/>
+                    <itunes:duration>00:07:26</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Steuer gut, Wetter gut, Freunde gut, Grill gut, Bier gut, Spaziergang gut, alles gut</itunes:summary>
+                    <content:encoded>Steuer gut, Wetter gut, Freunde gut, Grill gut, Bier gut, Spaziergang gut, alles gut
+&lt;p&gt;
+Dauer: 00:07:26
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=115&amp;amp;md5=6f5725c9433d6619ed4255ce45399441" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0028 – Fettverbrennungsmotor</title>
+                    <link>http://2cl.rumgelaber.de/2cl0028-fettverbrennungsmotor/</link>
+                    <pubDate>Sat, 08 Mar 2014 12:33:04 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-08t12:29:50+00:00-b0b9c6c9918cf76</guid>
+                    <description>Große Empörung über Herrn Markus Becker, unfassbar hässliche Motorräder, und ich versuche, Gewicht abzunehmen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0028-fettverbrennungsmotor%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0028+%26%238211%3B+Fettverbrennungsmotor&amp;description=Gro%C3%9Fe+Emp%C3%B6rung+%C3%BCber+Herrn+Markus+Becker%2C+unfassbar+h%C3%A4ssliche+Motorr%C3%A4der%2C+und+ich+versuche%2C+Gewicht+abzunehmen.+Dauer%3A+00%3A11%3A06" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0028-fettverbrennungsmotor/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=275&amp;ptm_source=feed&amp;ptm_context=aac" length="5751241" type="audio/mp4"/>
+                    <itunes:duration>00:11:06</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Große Empörung über Herrn Markus Becker, unfassbar hässliche Motorräder, und ich versuche, Gewicht abzunehmen.</itunes:summary>
+                    <content:encoded>Große Empörung über Herrn Markus Becker, unfassbar hässliche Motorräder, und ich versuche, Gewicht abzunehmen.
+&lt;p&gt;
+Dauer: 00:11:06
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=112&amp;amp;md5=be82fe5ee1f0c56e7b56f517bdb68de4" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0027 – Labern statt Machen</title>
+                    <link>http://2cl.rumgelaber.de/2cl0027-labern-statt-machen/</link>
+                    <pubDate>Sun, 02 Mar 2014 13:15:06 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-03-02t13:05:08+00:00-9ccd1d3b647b369</guid>
+                    <description>Eine Episode, die leider nur aus Politik besteht, weil mich das in der vergangenen Woche am meisten beschäftigt hat. Für diejenigen, die es trotzdem interessiert: Ich habe meinen Landesverband gewechselt, wir haben Pfandringe beantragt und Mitstreiter gefunden und haben außerdem eine Bürgerversammlung abgehalten. 
+
+Beim nächsten Mal wieder mehr Unterhaltung, versprochen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0027-labern-statt-machen%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0027+%26%238211%3B+Labern+statt+Machen&amp;description=Eine+Episode%2C+die+leider+nur+aus+Politik+besteht%2C+weil+mich+das+in+der+vergangenen+Woche+am+meisten+besch%C3%A4ftigt+hat.+F%C3%BCr+diejenigen%2C+die+es+trotzdem+interessiert%3A+Ich+habe+meinen+Landesverband+gewechselt%2C..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0027-labern-statt-machen/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=265&amp;ptm_source=feed&amp;ptm_context=aac" length="5682492" type="audio/mp4"/>
+                    <itunes:duration>00:10:57</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Eine Episode, die leider nur aus Politik besteht, weil mich das in der vergangenen Woche am meisten beschäftigt hat. Für diejenigen, die es trotzdem interessiert: Ich habe meinen Landesverband gewechselt, wir haben Pfandringe beantragt und Mitstreiter gefunden und haben außerdem eine Bürgerversammlung abgehalten. 
+
+Beim nächsten Mal wieder mehr Unterhaltung, versprochen.</itunes:summary>
+                    <content:encoded>Eine Episode, die leider nur aus Politik besteht, weil mich das in der vergangenen Woche am meisten beschäftigt hat. Für diejenigen, die es trotzdem interessiert: Ich habe meinen Landesverband gewechselt, wir haben Pfandringe beantragt und Mitstreiter gefunden und haben außerdem eine Bürgerversammlung abgehalten. &lt;br /&gt;
+&lt;br /&gt;
+Beim nächsten Mal wieder mehr Unterhaltung, versprochen.
+&lt;p&gt;
+Dauer: 00:10:57
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=109&amp;amp;md5=bb5b7227afe192b73a27af95aa62221b" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0026 – Bremsweg = (Geschwindigkeit / 10) ^ 2</title>
+                    <link>http://2cl.rumgelaber.de/2cl0026-bremsweg-geschwindigkeit-10-2/</link>
+                    <pubDate>Mon, 24 Feb 2014 20:29:56 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-24t20:28:28+00:00-9973354fcbf3d03</guid>
+                    <description>Stimme wieder da, genervt von den Piraten, Podunion, ein Etui für das DR-40, Gravity ist auf einer kleinen Gaffe nicht so toll, und mein Theorieunterricht ist fast vorbei.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0026-bremsweg-geschwindigkeit-10-2%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0026+%26%238211%3B+Bremsweg+%3D+%28Geschwindigkeit+%2F+10%29+%5E+2&amp;description=Stimme+wieder+da%2C+genervt+von+den+Piraten%2C+Podunion%2C+ein+Etui+f%C3%BCr+das+DR-40%2C+Gravity+ist+auf+einer+kleinen+Gaffe+nicht+so+toll%2C+und+mein+Theorieunterricht+ist+fast+vorbei.+Dauer%3A+00%3A09%3A58..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0026-bremsweg-geschwindigkeit-10-2/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=258&amp;ptm_source=feed&amp;ptm_context=aac" length="5183937" type="audio/mp4"/>
+                    <itunes:duration>00:09:58</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Stimme wieder da, genervt von den Piraten, Podunion, ein Etui für das DR-40, Gravity ist auf einer kleinen Gaffe nicht so toll, und mein Theorieunterricht ist fast vorbei.</itunes:summary>
+                    <content:encoded>Stimme wieder da, genervt von den Piraten, Podunion, ein Etui für das DR-40, Gravity ist auf einer kleinen Gaffe nicht so toll, und mein Theorieunterricht ist fast vorbei.
+&lt;p&gt;
+Dauer: 00:09:58
+&lt;p&gt;
+&lt;br&gt;
+&lt;p&gt;Link(s):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.podunion.com/"&gt;PodUnion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=105&amp;amp;md5=08893d92c7d1d05d139e1f373fb5f15c" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0025 – The Voice</title>
+                    <link>http://2cl.rumgelaber.de/2cl0025-the-voice/</link>
+                    <pubDate>Tue, 18 Feb 2014 10:11:16 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-18t10:06:51+00:00-b4843370f9ec49e</guid>
+                    <description>Die Stimme ist weg, darum nur eine kurze Meldung. Bis die Tage.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0025-the-voice%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0025+%26%238211%3B+The+Voice&amp;description=Die+Stimme+ist+weg%2C+darum+nur+eine+kurze+Meldung.+Bis+die+Tage.+Dauer%3A+00%3A01%3A16" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0025-the-voice/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=250&amp;ptm_source=feed&amp;ptm_context=aac" length="785077" type="audio/mp4"/>
+                    <itunes:duration>00:01:16</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Die Stimme ist weg, darum nur eine kurze Meldung. Bis die Tage.</itunes:summary>
+                    <content:encoded>Die Stimme ist weg, darum nur eine kurze Meldung. Bis die Tage.
+&lt;p&gt;
+Dauer: 00:01:16
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=101&amp;amp;md5=19363ab35065eaa43aac2581491f178b" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0024 – Nudeliteration</title>
+                    <link>http://2cl.rumgelaber.de/2cl0024-nudeliteration/</link>
+                    <pubDate>Sun, 16 Feb 2014 11:24:40 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-16t11:24:17+00:00-4cff00e5ca3d0ef</guid>
+                    <description>Ich habe mich für den Motorradführerschein angemeldet, die Frontschürze setzt manchmal auf, und der Thai-Imbiss kriegt seine Bestellung nicht voreinander.
+
+Außerdem habe ich vergessen, das Mobiltelefon auszuschalten, was man an zwei Stellen hört. Ich gelobe Besserung.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0024-nudeliteration%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0024+%26%238211%3B+Nudeliteration&amp;description=Ich+habe+mich+f%C3%BCr+den+Motorradf%C3%BChrerschein+angemeldet%2C+die+Frontsch%C3%BCrze+setzt+manchmal+auf%2C+und+der+Thai-Imbiss+kriegt+seine+Bestellung+nicht+voreinander.+Au%C3%9Ferdem+habe+ich+vergessen%2C+das+Mobiltelefon+auszuschalten%2C+was+man+an..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0024-nudeliteration/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=243&amp;ptm_source=feed&amp;ptm_context=aac" length="11580174" type="audio/mp4"/>
+                    <itunes:duration>00:22:38</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ich habe mich für den Motorradführerschein angemeldet, die Frontschürze setzt manchmal auf, und der Thai-Imbiss kriegt seine Bestellung nicht voreinander.
+
+Außerdem habe ich vergessen, das Mobiltelefon auszuschalten, was man an zwei Stellen hört. Ich gelobe Besserung.</itunes:summary>
+                    <content:encoded>Ich habe mich für den Motorradführerschein angemeldet, die Frontschürze setzt manchmal auf, und der Thai-Imbiss kriegt seine Bestellung nicht voreinander.&lt;br /&gt;
+&lt;br /&gt;
+Außerdem habe ich vergessen, das Mobiltelefon auszuschalten, was man an zwei Stellen hört. Ich gelobe Besserung.
+&lt;p&gt;
+Dauer: 00:22:38
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=99&amp;amp;md5=1c44af84ab77f833c1126e2d14cad534" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0023 – Europäisches Tubaspielen</title>
+                    <link>http://2cl.rumgelaber.de/2cl0023-europaeisches-tubaspielen/</link>
+                    <pubDate>Sun, 09 Feb 2014 16:48:24 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-09t16:46:18+00:00-ffff2642c4a7b02</guid>
+                    <description>Schluss mit diesem Foursquare-Schwachsinn, nachlässig gekleidete Hundebesitzer und afrikanisches Trommeln.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0023-europaeisches-tubaspielen%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0023+%26%238211%3B+Europ%C3%A4isches+Tubaspielen&amp;description=Schluss+mit+diesem+Foursquare-Schwachsinn%2C+nachl%C3%A4ssig+gekleidete+Hundebesitzer+und+afrikanisches+Trommeln.+Dauer%3A+00%3A05%3A30" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0023-europaeisches-tubaspielen/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=234&amp;ptm_source=feed&amp;ptm_context=aac" length="2928375" type="audio/mp4"/>
+                    <itunes:duration>00:05:30</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Schluss mit diesem Foursquare-Schwachsinn, nachlässig gekleidete Hundebesitzer und afrikanisches Trommeln.</itunes:summary>
+                    <content:encoded>Schluss mit diesem Foursquare-Schwachsinn, nachlässig gekleidete Hundebesitzer und afrikanisches Trommeln.
+&lt;p&gt;
+Dauer: 00:05:30
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=95&amp;amp;md5=a36f6d95da26ac772391f2c13100e3aa" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0022- Sternfrucht-Jalapeno-Litschi</title>
+                    <link>http://2cl.rumgelaber.de/2cl0022-sternfrucht-jalapeno-litschi/</link>
+                    <pubDate>Sat, 08 Feb 2014 20:15:00 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-08t20:14:25+00:00-e5784e7ea27875a</guid>
+                    <description>Wo ist der Scheiß-Pikador hin? Warum schmecken manche Knabberartikel wie Verpackungsmaterial? Und wieso fühlen sich so viele auf Twitter genötigt, mir ungebeten ihre Meinung zu übermitteln?</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0022-sternfrucht-jalapeno-litschi%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0022-+Sternfrucht-Jalapeno-Litschi&amp;description=Wo+ist+der+Schei%C3%9F-Pikador+hin%3F+Warum+schmecken+manche+Knabberartikel+wie+Verpackungsmaterial%3F+Und+wieso+f%C3%BChlen+sich+so+viele+auf+Twitter+gen%C3%B6tigt%2C+mir+ungebeten+ihre+Meinung+zu+%C3%BCbermitteln%3F+Dauer%3A+00%3A17%3A43" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0022-sternfrucht-jalapeno-litschi/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=225&amp;ptm_source=feed&amp;ptm_context=aac" length="9096182" type="audio/mp4"/>
+                    <itunes:duration>00:17:43</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Wo ist der Scheiß-Pikador hin? Warum schmecken manche Knabberartikel wie Verpackungsmaterial? Und wieso fühlen sich so viele auf Twitter genötigt, mir ungebeten ihre Meinung zu übermitteln?</itunes:summary>
+                    <content:encoded>Wo ist der Scheiß-Pikador hin? Warum schmecken manche Knabberartikel wie Verpackungsmaterial? Und wieso fühlen sich so viele auf Twitter genötigt, mir ungebeten ihre Meinung zu übermitteln?
+&lt;p&gt;
+Dauer: 00:17:43
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=93&amp;amp;md5=1214339a80614b848e2d94ed7749b15f" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0021 – Audiozeug</title>
+                    <link>http://2cl.rumgelaber.de/2cl0021-audiozeug/</link>
+                    <pubDate>Fri, 07 Feb 2014 21:21:07 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-07t21:19:15+00:00-8e86cccc7e3755f</guid>
+                    <description>Neue Audiohardware, es hat ordentlich gestürmt, gebrauchte Audiohardware, und der Toilettensitz ist da.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0021-audiozeug%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0021+%26%238211%3B+Audiozeug&amp;description=Neue+Audiohardware%2C+es+hat+ordentlich+gest%C3%BCrmt%2C+gebrauchte+Audiohardware%2C+und+der+Toilettensitz+ist+da.+Dauer%3A+00%3A05%3A55+Links+audiozeug.de" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0021-audiozeug/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=217&amp;ptm_source=feed&amp;ptm_context=aac" length="3135237" type="audio/mp4"/>
+                    <itunes:duration>00:05:55</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Neue Audiohardware, es hat ordentlich gestürmt, gebrauchte Audiohardware, und der Toilettensitz ist da.</itunes:summary>
+                    <content:encoded>Neue Audiohardware, es hat ordentlich gestürmt, gebrauchte Audiohardware, und der Toilettensitz ist da.
+&lt;p&gt;
+Dauer: 00:05:55
+&lt;p&gt;
+&lt;br&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://audiozeug.de"&gt;audiozeug.de&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=91&amp;amp;md5=9989a6e9cffb49b9a44c9ad9e616c317" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0020 – Alles für das Hörvergnügen</title>
+                    <link>http://2cl.rumgelaber.de/2cl0020-alles-fuer-das-hoervergnuegen/</link>
+                    <pubDate>Wed, 05 Feb 2014 21:19:45 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-05t21:15:53+00:00-ea1ab2d68b291a1</guid>
+                    <description>Ich habe eingekauft. Neue Hosen (für's Protokoll: W40L32) von C&amp;A, neue Hardware (kommt bald) und dazu noch etwas Headspace.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0020-alles-fuer-das-hoervergnuegen%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0020+%26%238211%3B+Alles+f%C3%BCr+das+H%C3%B6rvergn%C3%BCgen&amp;description=Ich+habe+eingekauft.+Neue+Hosen+%28f%C3%BCr%27s+Protokoll%3A+W40L32%29+von+C%26A%2C+neue+Hardware+%28kommt+bald%29+und+dazu+noch+etwas+Headspace.+Dauer%3A+00%3A08%3A38+Links+Tascam+DR-40+Zoom+H2N+Headspace" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0020-alles-fuer-das-hoervergnuegen/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=210&amp;ptm_source=feed&amp;ptm_context=aac" length="4510880" type="audio/mp4"/>
+                    <itunes:duration>00:08:38</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ich habe eingekauft. Neue Hosen (für's Protokoll: W40L32) von C&amp;A, neue Hardware (kommt bald) und dazu noch etwas Headspace.</itunes:summary>
+                    <content:encoded>Ich habe eingekauft. Neue Hosen (für's Protokoll: W40L32) von C&amp;A, neue Hardware (kommt bald) und dazu noch etwas Headspace. 
+&lt;p&gt;
+Dauer: 00:08:38
+&lt;p&gt;
+&lt;br&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.de/dp/B005NACC6M?tag=larsreineke-21"&gt;Tascam DR-40&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.de/dp/B005KS0CI2?tag=larsreineke-21"&gt;Zoom H2N&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.getsomeheadspace.com/"&gt;Headspace&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=89&amp;amp;md5=d5036211ba51eaac2c9f24a56df76fb7" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0019 – Alice Schwarzgeld</title>
+                    <link>http://2cl.rumgelaber.de/2cl0019-alice-schwarzgeld/</link>
+                    <pubDate>Tue, 04 Feb 2014 17:53:19 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-04t19:08:44+00:00-677bcb68905255b</guid>
+                    <description>Ich will ein Wunderauto, Heroin ist nicht so meins, Hautkrebs muss nicht sein, und Steuerhinterzieher sind Asoziale.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0019-alice-schwarzgeld%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0019+%26%238211%3B+Alice+Schwarzgeld&amp;description=Ich+will+ein+Wunderauto%2C+Heroin+ist+nicht+so+meins%2C+Hautkrebs+muss+nicht+sein%2C+und+Steuerhinterzieher+sind+Asoziale.+Dauer%3A+00%3A10%3A03" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0019-alice-schwarzgeld/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=201&amp;ptm_source=feed&amp;ptm_context=aac" length="5223657" type="audio/mp4"/>
+                    <itunes:duration>00:10:03</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ich will ein Wunderauto, Heroin ist nicht so meins, Hautkrebs muss nicht sein, und Steuerhinterzieher sind Asoziale.</itunes:summary>
+                    <content:encoded>Ich will ein Wunderauto, Heroin ist nicht so meins, Hautkrebs muss nicht sein, und Steuerhinterzieher sind Asoziale. 
+&lt;p&gt;
+Dauer: 00:10:03
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=87&amp;amp;md5=3402c2f34a947a5941c3fda695bb7f23" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0018 – Für jeden Arsch geeignet</title>
+                    <link>http://2cl.rumgelaber.de/2cl0018-fuer-jeden-arsch-geeignet/</link>
+                    <pubDate>Mon, 03 Feb 2014 19:05:11 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-03t19:04:29+00:00-ed3ef73119f82d2</guid>
+                    <description>Kinderklobrille bei Amazon bestellt und nicht im Clubhaus für gelangweilte Hausfrauen gekauft. Hamse davon.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0018-fuer-jeden-arsch-geeignet%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0018+%26%238211%3B+F%C3%BCr+jeden+Arsch+geeignet&amp;description=Kinderklobrille+bei+Amazon+bestellt+und+nicht+im+Clubhaus+f%C3%BCr+gelangweilte+Hausfrauen+gekauft.+Hamse+davon.+Dauer%3A+00%3A05%3A21" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0018-fuer-jeden-arsch-geeignet/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=193&amp;ptm_source=feed&amp;ptm_context=aac" length="2850555" type="audio/mp4"/>
+                    <itunes:duration>00:05:21</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Kinderklobrille bei Amazon bestellt und nicht im Clubhaus für gelangweilte Hausfrauen gekauft. Hamse davon.</itunes:summary>
+                    <content:encoded>Kinderklobrille bei Amazon bestellt und nicht im Clubhaus für gelangweilte Hausfrauen gekauft. Hamse davon.
+&lt;p&gt;
+Dauer: 00:05:21
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=85&amp;amp;md5=d8147af429a89254685c0bfdfe3c75d7" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0017  – Gestern war rot, heute ist orange und morgen ist gelb</title>
+                    <link>http://2cl.rumgelaber.de/2cl0017-gestern-war-rot-heute-ist-orange-und-morgen-ist-gelb/</link>
+                    <pubDate>Sun, 02 Feb 2014 12:13:34 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-02-02t12:10:09+00:00-d922b435adcb11f</guid>
+                    <description>Trinkflasche von Klean Kanteen, Eierkochapp, Nachtrag zur Homöopathiedebatte und was das mit den Tafeln zu tun hat, über Städte lästern, und welche Farben die Wochentage haben.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0017-gestern-war-rot-heute-ist-orange-und-morgen-ist-gelb%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0017++%26%238211%3B+Gestern+war+rot%2C+heute+ist+orange+und+morgen+ist+gelb&amp;description=Trinkflasche+von+Klean+Kanteen%2C+Eierkochapp%2C+Nachtrag+zur+Hom%C3%B6opathiedebatte+und+was+das+mit+den+Tafeln+zu+tun+hat%2C+%C3%BCber+St%C3%A4dte+l%C3%A4stern%2C+und+welche+Farben+die+Wochentage+haben.+Dauer%3A+00%3A10%3A58+Links+Flasche..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0017-gestern-war-rot-heute-ist-orange-und-morgen-ist-gelb/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=180&amp;ptm_source=feed&amp;ptm_context=aac" length="5684941" type="audio/mp4"/>
+                    <itunes:duration>00:10:58</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Trinkflasche von Klean Kanteen, Eierkochapp, Nachtrag zur Homöopathiedebatte und was das mit den Tafeln zu tun hat, über Städte lästern, und welche Farben die Wochentage haben.</itunes:summary>
+                    <content:encoded>Trinkflasche von Klean Kanteen, Eierkochapp, Nachtrag zur Homöopathiedebatte und was das mit den Tafeln zu tun hat, über Städte lästern, und welche Farben die Wochentage haben.
+&lt;p&gt;
+Dauer: 00:10:58
+&lt;p&gt;
+&lt;br&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.de/dp/B0093IR79C?tag=larsreineke-21"&gt;Flasche von Klean Kanteen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://itunes.apple.com/de/app/die-perfekte-eieruhr/id331004675?mt=8"&gt;Eierkoch-App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rumgelaber.de/rg038-aufgeschnittene-huehner-auf-rezept/"&gt;Rum.Gelaber 038 &amp;#8211; Aufgeschnittene Hühner auf Rezept&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=81&amp;amp;md5=13f1cf689f1c3d9277ed3b559ad525f4" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0016 – Kein Wasser</title>
+                    <link>http://2cl.rumgelaber.de/2cl0016-kein-wasser/</link>
+                    <pubDate>Fri, 31 Jan 2014 18:34:29 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-31t18:34:09+00:00-2894b00003162f6</guid>
+                    <description>Neue Trinkflasche ohne Wasser. Aufmerksame Kassiererinnen ohne Kasse. Außerdem: Türen aufhalten oder lieber nicht?</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0016-kein-wasser%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0016+%26%238211%3B+Kein+Wasser&amp;description=Neue+Trinkflasche+ohne+Wasser.+Aufmerksame+Kassiererinnen+ohne+Kasse.+Au%C3%9Ferdem%3A+T%C3%BCren+aufhalten+oder+lieber+nicht%3F+Dauer%3A+00%3A09%3A39" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0016-kein-wasser/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=171&amp;ptm_source=feed&amp;ptm_context=aac" length="5020272" type="audio/mp4"/>
+                    <itunes:duration>00:09:39</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Neue Trinkflasche ohne Wasser. Aufmerksame Kassiererinnen ohne Kasse. Außerdem: Türen aufhalten oder lieber nicht?</itunes:summary>
+                    <content:encoded>Neue Trinkflasche ohne Wasser. Aufmerksame Kassiererinnen ohne Kasse. Außerdem: Türen aufhalten oder lieber nicht?
+&lt;p&gt;
+Dauer: 00:09:39
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=79&amp;amp;md5=2a3426d19146f46a211970e7b213a2d7" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0015 – Genussrauchen bei minus 3,5 Grad</title>
+                    <link>http://2cl.rumgelaber.de/2cl0015-genussrauchen-bei-minus-35-grad/</link>
+                    <pubDate>Wed, 29 Jan 2014 17:34:08 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-29t18:42:58+00:00-2aaf7f53e90f416</guid>
+                    <description>Saukälte, arme Raucher, Ruhetag beim Griechen und Lernresistenz</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0015-genussrauchen-bei-minus-35-grad%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0015+%26%238211%3B+Genussrauchen+bei+minus+3%2C5+Grad&amp;description=Sauk%C3%A4lte%2C+arme+Raucher%2C+Ruhetag+beim+Griechen+und+Lernresistenz+Dauer%3A+00%3A10%3A22" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0015-genussrauchen-bei-minus-35-grad/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=162&amp;ptm_source=feed&amp;ptm_context=aac" length="5380436" type="audio/mp4"/>
+                    <itunes:duration>00:10:22</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Saukälte, arme Raucher, Ruhetag beim Griechen und Lernresistenz</itunes:summary>
+                    <content:encoded>Saukälte, arme Raucher, Ruhetag beim Griechen und Lernresistenz
+&lt;p&gt;
+Dauer: 00:10:22
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=76&amp;amp;md5=05346b03aa2502cfb4a04ae0e3f80e26" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0014 – Scheißkatze</title>
+                    <link>http://2cl.rumgelaber.de/2cl0014-scheisskatze/</link>
+                    <pubDate>Tue, 28 Jan 2014 18:49:33 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-28t18:48:34+00:00-1dd66ccf7eaa623</guid>
+                    <description>Ankündigung eines Desasters, Grüße zurück an Herrn Kowalski, die Katze scheißt und scheißt, habe den Jupiter und seine Kumpels gesehen, und die Letzte macht das Licht aus.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0014-scheisskatze%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0014+%26%238211%3B+Schei%C3%9Fkatze&amp;description=Ank%C3%BCndigung+eines+Desasters%2C+Gr%C3%BC%C3%9Fe+zur%C3%BCck+an+Herrn+Kowalski%2C+die+Katze+schei%C3%9Ft+und+schei%C3%9Ft%2C+habe+den+Jupiter+und+seine+Kumpels+gesehen%2C+und+die+Letzte+macht+das+Licht+aus.+Dauer%3A+00%3A11%3A27" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0014-scheisskatze/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=154&amp;ptm_source=feed&amp;ptm_context=aac" length="5935825" type="audio/mp4"/>
+                    <itunes:duration>00:11:27</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ankündigung eines Desasters, Grüße zurück an Herrn Kowalski, die Katze scheißt und scheißt, habe den Jupiter und seine Kumpels gesehen, und die Letzte macht das Licht aus.</itunes:summary>
+                    <content:encoded>Ankündigung eines Desasters, Grüße zurück an Herrn Kowalski, die Katze scheißt und scheißt, habe den Jupiter und seine Kumpels gesehen, und die Letzte macht das Licht aus. 
+&lt;p&gt;
+Dauer: 00:11:27
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=74&amp;amp;md5=fd9877e174e041eda24a0a28fdd09a9b" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0013 – Oh, wie entzückend, mein lieber Herr Jauch</title>
+                    <link>http://2cl.rumgelaber.de/2cl0013-oh-wie-entzueckend-mein-lieber-herr-jauch/</link>
+                    <pubDate>Mon, 27 Jan 2014 16:31:07 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-27t16:21:48+00:00-9b03f978b44ba10</guid>
+                    <description>Nervige Apps, die um Bewertungen betteln und Mary Poppins bei Günther Jauch</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0013-oh-wie-entzueckend-mein-lieber-herr-jauch%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0013+%26%238211%3B+Oh%2C+wie+entz%C3%BCckend%2C+mein+lieber+Herr+Jauch&amp;description=Nervige+Apps%2C+die+um+Bewertungen+betteln+und+Mary+Poppins+bei+G%C3%BCnther+Jauch+Dauer%3A+00%3A09%3A41" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0013-oh-wie-entzueckend-mein-lieber-herr-jauch/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=145&amp;ptm_source=feed&amp;ptm_context=aac" length="5042200" type="audio/mp4"/>
+                    <itunes:duration>00:09:41</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Nervige Apps, die um Bewertungen betteln und Mary Poppins bei Günther Jauch</itunes:summary>
+                    <content:encoded>Nervige Apps, die um Bewertungen betteln und Mary Poppins bei Günther Jauch
+&lt;p&gt;
+Dauer: 00:09:41
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=72&amp;amp;md5=485586ec8531cc5053be03eda1719aca" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0012 – Schneemeditation</title>
+                    <link>http://2cl.rumgelaber.de/2cl0012-schneemeditation/</link>
+                    <pubDate>Sun, 26 Jan 2014 19:45:57 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-26t19:42:32+00:00-7f1eeb024f0a0e5</guid>
+                    <description>Es hat geschneit, aber ich muss keinen Schnee schieben, muss keine Fenster putzen und kann mir stattdessen die Eier schaukeln und Meditieren lernen. Das ist doch was.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0012-schneemeditation%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0012+%26%238211%3B+Schneemeditation&amp;description=Es+hat+geschneit%2C+aber+ich+muss+keinen+Schnee+schieben%2C+muss+keine+Fenster+putzen+und+kann+mir+stattdessen+die+Eier+schaukeln+und+Meditieren+lernen.+Das+ist+doch+was.+Dauer%3A+00%3A14%3A28+Links..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0012-schneemeditation/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=137&amp;ptm_source=feed&amp;ptm_context=aac" length="7476589" type="audio/mp4"/>
+                    <itunes:duration>00:14:28</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Es hat geschneit, aber ich muss keinen Schnee schieben, muss keine Fenster putzen und kann mir stattdessen die Eier schaukeln und Meditieren lernen. Das ist doch was.</itunes:summary>
+                    <content:encoded>Es hat geschneit, aber ich muss keinen Schnee schieben, muss keine Fenster putzen und kann mir stattdessen die Eier schaukeln und Meditieren lernen. Das ist doch was.
+&lt;p&gt;
+Dauer: 00:14:28
+&lt;p&gt;
+&lt;br&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a style="line-height: 1.5em;" href="http://www.getsomeheadspace.com/"&gt;Headspace&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.de/dp/B0050C863G?tag=larsreineke-21"&gt;Get Some Headspace (das Buch)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=70&amp;amp;md5=d3b746362dfa692e0699506acd676d42" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0011 – Nicht lächeln, Hipstermädchen!</title>
+                    <link>http://2cl.rumgelaber.de/2cl0011-nicht-laecheln-hipstermaedchen/</link>
+                    <pubDate>Sat, 25 Jan 2014 21:30:19 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-25t21:24:27+00:00-389eaa06943ffdc</guid>
+                    <description>Keine Lust auf Metalabend, Hipstermädchen lächeln nicht, Brot balancieren ist gar nicht so einfach, aber Kioskbetreiber wäre auch nichts für mich.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0011-nicht-laecheln-hipstermaedchen%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0011+%26%238211%3B+Nicht+l%C3%A4cheln%2C+Hipsterm%C3%A4dchen%21&amp;description=Keine+Lust+auf+Metalabend%2C+Hipsterm%C3%A4dchen+l%C3%A4cheln+nicht%2C+Brot+balancieren+ist+gar+nicht+so+einfach%2C+aber+Kioskbetreiber+w%C3%A4re+auch+nichts+f%C3%BCr+mich.+Dauer%3A+00%3A10%3A19" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0011-nicht-laecheln-hipstermaedchen/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=129&amp;ptm_source=feed&amp;ptm_context=aac" length="5382932" type="audio/mp4"/>
+                    <itunes:duration>00:10:19</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Keine Lust auf Metalabend, Hipstermädchen lächeln nicht, Brot balancieren ist gar nicht so einfach, aber Kioskbetreiber wäre auch nichts für mich.</itunes:summary>
+                    <content:encoded>Keine Lust auf Metalabend, Hipstermädchen lächeln nicht, Brot balancieren ist gar nicht so einfach, aber Kioskbetreiber wäre auch nichts für mich. 
+&lt;p&gt;
+Dauer: 00:10:19
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=67&amp;amp;md5=76f53e170670e05e8cd4ee8f6dd125af" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0010 – U-kra-i-ne</title>
+                    <link>http://2cl.rumgelaber.de/2cl0010-u-kra-i-ne/</link>
+                    <pubDate>Fri, 24 Jan 2014 15:44:38 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-24t15:42:56+00:00-b64fd8530e4f9bc</guid>
+                    <description>Noch ein Nachtrag zur Piratenpartei und der Arbeitsagentur und ein wenig zur U-kra-i-ne. Oder doch U-krai-ne?</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0010-u-kra-i-ne%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0010+%26%238211%3B+U-kra-i-ne&amp;description=Noch+ein+Nachtrag+zur+Piratenpartei+und+der+Arbeitsagentur+und+ein+wenig+zur+U-kra-i-ne.+Oder+doch+U-krai-ne%3F+Dauer%3A+00%3A07%3A31" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0010-u-kra-i-ne/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=121&amp;ptm_source=feed&amp;ptm_context=aac" length="3961311" type="audio/mp4"/>
+                    <itunes:duration>00:07:31</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Noch ein Nachtrag zur Piratenpartei und der Arbeitsagentur und ein wenig zur U-kra-i-ne. Oder doch U-krai-ne?</itunes:summary>
+                    <content:encoded>Noch ein Nachtrag zur Piratenpartei und der Arbeitsagentur und ein wenig zur U-kra-i-ne. Oder doch U-krai-ne?
+&lt;p&gt;
+Dauer: 00:07:31
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=65&amp;amp;md5=570e2fbe0acdd0f39af60557caa3f106" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0009 – Lanz muss weg</title>
+                    <link>http://2cl.rumgelaber.de/2cl0009-lanz-muss-weg/</link>
+                    <pubDate>Thu, 23 Jan 2014 19:42:20 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-23t19:41:46+00:00-9e67c88c37cdada</guid>
+                    <description>Krank zu Hause, Lanz muss weg, und die Piraten brauchen dringend einen Realitätsabgleich</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0009-lanz-muss-weg%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0009+%26%238211%3B+Lanz+muss+weg&amp;description=Krank+zu+Hause%2C+Lanz+muss+weg%2C+und+die+Piraten+brauchen+dringend+einen+Realit%C3%A4tsabgleich+Dauer%3A+00%3A12%3A10" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0009-lanz-muss-weg/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=115&amp;ptm_source=feed&amp;ptm_context=aac" length="6315824" type="audio/mp4"/>
+                    <itunes:duration>00:12:10</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Krank zu Hause, Lanz muss weg, und die Piraten brauchen dringend einen Realitätsabgleich</itunes:summary>
+                    <content:encoded>Krank zu Hause, Lanz muss weg, und die Piraten brauchen dringend einen Realitätsabgleich
+&lt;p&gt;
+Dauer: 00:12:10
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=63&amp;amp;md5=afed4291f955c86a220006e5e56b2708" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0008 – Rutschbetta Chrome</title>
+                    <link>http://2cl.rumgelaber.de/2cl0008-rutschbetta-chrome/</link>
+                    <pubDate>Wed, 22 Jan 2014 20:22:56 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-22t20:19:59+00:00-352996b0279a6bb</guid>
+                    <description>Ein Bett mit Rutsche, dämliche Chrome-User und Rosetta. 
+
+Entschuldigt das lahme Wortspiel. Ich bin nicht ganz auf der Höhe.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0008-rutschbetta-chrome%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0008+%26%238211%3B+Rutschbetta+Chrome&amp;description=Ein+Bett+mit+Rutsche%2C+d%C3%A4mliche+Chrome-User+und+Rosetta.+Entschuldigt+das+lahme+Wortspiel.+Ich+bin+nicht+ganz+auf+der+H%C3%B6he.+Dauer%3A+00%3A12%3A15+Links+Rosettas+Reise" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0008-rutschbetta-chrome/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=99&amp;ptm_source=feed&amp;ptm_context=aac" length="6357466" type="audio/mp4"/>
+                    <itunes:duration>00:12:15</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Ein Bett mit Rutsche, dämliche Chrome-User und Rosetta. 
+
+Entschuldigt das lahme Wortspiel. Ich bin nicht ganz auf der Höhe.</itunes:summary>
+                    <content:encoded>Ein Bett mit Rutsche, dämliche Chrome-User und Rosetta. &lt;br /&gt;
+&lt;br /&gt;
+Entschuldigt das lahme Wortspiel. Ich bin nicht ganz auf der Höhe. 
+&lt;p&gt;
+Dauer: 00:12:15
+&lt;p&gt;
+&lt;br&gt;
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a title="Rosettas Reise" href="http://www.esa.int/spaceinvideos/Videos/2013/10/Rosetta_s_twelve-year_journey_in_space"&gt;Rosettas Reise&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=58&amp;amp;md5=fcba82092d2cfe65003620a66e2bf9e3" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0007 – Einmal mit Profis</title>
+                    <link>http://2cl.rumgelaber.de/2cl0007-einmal-mit-profis/</link>
+                    <pubDate>Tue, 21 Jan 2014 20:14:52 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-21t19:58:14+00:00-8104593bf10ab55</guid>
+                    <description>Heute im Ragemode: SPD verpeilt 'ne Abstimmung, alle nerven mich mit Julia Engelmann, die Toten Hosen sind 'ne Schlagerband, und der ADAC ist nicht die NSA.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0007-einmal-mit-profis%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0007+%26%238211%3B+Einmal+mit+Profis&amp;description=Heute+im+Ragemode%3A+SPD+verpeilt+%27ne+Abstimmung%2C+alle+nerven+mich+mit+Julia+Engelmann%2C+die+Toten+Hosen+sind+%27ne+Schlagerband%2C+und+der+ADAC+ist+nicht+die+NSA.+Dauer%3A+00%3A14%3A40" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0007-einmal-mit-profis/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=91&amp;ptm_source=feed&amp;ptm_context=aac" length="7579438" type="audio/mp4"/>
+                    <itunes:duration>00:14:40</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Heute im Ragemode: SPD verpeilt 'ne Abstimmung, alle nerven mich mit Julia Engelmann, die Toten Hosen sind 'ne Schlagerband, und der ADAC ist nicht die NSA.</itunes:summary>
+                    <content:encoded>Heute im Ragemode: SPD verpeilt 'ne Abstimmung, alle nerven mich mit Julia Engelmann, die Toten Hosen sind 'ne Schlagerband, und der ADAC ist nicht die NSA. 
+&lt;p&gt;
+Dauer: 00:14:40
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=56&amp;amp;md5=6bfe52955fa15d4a2f9d5a113f06242b" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0006 – Frauen! Halt!</title>
+                    <link>http://2cl.rumgelaber.de/2cl0006-frauen-halt/</link>
+                    <pubDate>Mon, 20 Jan 2014 17:22:02 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-20t17:21:02+00:00-765b71af6cc8f8d</guid>
+                    <description>Heute mal etwas ernster, weil Chauvinismus auch dann doof ist, wenn's der eigene ist. Außerdem: Arschlochkünstler.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0006-frauen-halt%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0006+%26%238211%3B+Frauen%21+Halt%21&amp;description=Heute+mal+etwas+ernster%2C+weil+Chauvinismus+auch+dann+doof+ist%2C+wenn%27s+der+eigene+ist.+Au%C3%9Ferdem%3A+Arschlochk%C3%BCnstler.+Dauer%3A+00%3A10%3A03" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0006-frauen-halt/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=83&amp;ptm_source=feed&amp;ptm_context=aac" length="5240930" type="audio/mp4"/>
+                    <itunes:duration>00:10:03</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Heute mal etwas ernster, weil Chauvinismus auch dann doof ist, wenn's der eigene ist. Außerdem: Arschlochkünstler.</itunes:summary>
+                    <content:encoded>Heute mal etwas ernster, weil Chauvinismus auch dann doof ist, wenn's der eigene ist. Außerdem: Arschlochkünstler. 
+&lt;p&gt;
+Dauer: 00:10:03
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=54&amp;amp;md5=32ff97c5cd8cf05ff5093734f486261a" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0005 – Parallaxe</title>
+                    <link>http://2cl.rumgelaber.de/2cl0005-parallaxe/</link>
+                    <pubDate>Sun, 19 Jan 2014 19:26:48 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-19t19:25:53+00:00-59e40d6cdb4cde8</guid>
+                    <description>Der Mond hat Krater (ach was?), GoreTex macht Fußgeruch, und Katzen mögen keine Hubschrauber</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0005-parallaxe%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0005+%26%238211%3B+Parallaxe&amp;description=Der+Mond+hat+Krater+%28ach+was%3F%29%2C+GoreTex+macht+Fu%C3%9Fgeruch%2C+und+Katzen+m%C3%B6gen+keine+Hubschrauber+Dauer%3A+00%3A06%3A11" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0005-parallaxe/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=76&amp;ptm_source=feed&amp;ptm_context=aac" length="3286479" type="audio/mp4"/>
+                    <itunes:duration>00:06:11</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Der Mond hat Krater (ach was?), GoreTex macht Fußgeruch, und Katzen mögen keine Hubschrauber</itunes:summary>
+                    <content:encoded>Der Mond hat Krater (ach was?), GoreTex macht Fußgeruch, und Katzen mögen keine Hubschrauber
+&lt;p&gt;
+Dauer: 00:06:11
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=52&amp;amp;md5=b12e4f3560a4c0c029a4cdcf50f9be55" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0004 – Astronerds</title>
+                    <link>http://2cl.rumgelaber.de/2cl0004-astronerds/</link>
+                    <pubDate>Sat, 18 Jan 2014 22:44:08 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-18t22:43:06+00:00-2ea265916ad22cf</guid>
+                    <description>Familie Reineke hat ihr Nerdtum zur Perfektion gebracht. Danach gab's geshredderte Hähnchen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0004-astronerds%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0004+%26%238211%3B+Astronerds&amp;description=Familie+Reineke+hat+ihr+Nerdtum+zur+Perfektion+gebracht.+Danach+gab%27s+geshredderte+H%C3%A4hnchen.+Dauer%3A+00%3A14%3A03" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0004-astronerds/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=66&amp;ptm_source=feed&amp;ptm_context=aac" length="7263636" type="audio/mp4"/>
+                    <itunes:duration>00:14:03</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Familie Reineke hat ihr Nerdtum zur Perfektion gebracht. Danach gab's geshredderte Hähnchen.</itunes:summary>
+                    <content:encoded>Familie Reineke hat ihr Nerdtum zur Perfektion gebracht. Danach gab's geshredderte Hähnchen. 
+&lt;p&gt;
+Dauer: 00:14:03
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=50&amp;amp;md5=2d17041c4e116514a683b902296315ca" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0003 – Rotzestau</title>
+                    <link>http://2cl.rumgelaber.de/2cl0003-rotzestau/</link>
+                    <pubDate>Fri, 17 Jan 2014 20:51:28 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-17t20:44:28+00:00-a6b886a9910cd96</guid>
+                    <description>Spaß mit der Nasendusche, neues Equipment und aggressive Bettelei. 
+
+Aber sonst ist alles ok.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0003-rotzestau%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0003+%26%238211%3B+Rotzestau&amp;description=Spa%C3%9F+mit+der+Nasendusche%2C+neues+Equipment+und+aggressive+Bettelei.+Aber+sonst+ist+alles+ok.+Dauer%3A+00%3A06%3A18+Links%3A+Emser+Nasendusche+Deuter+Giga+Bike" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0003-rotzestau/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=55&amp;ptm_source=feed&amp;ptm_context=aac" length="3351197" type="audio/mp4"/>
+                    <itunes:duration>00:06:18</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Spaß mit der Nasendusche, neues Equipment und aggressive Bettelei. 
+
+Aber sonst ist alles ok.</itunes:summary>
+                    <content:encoded>Spaß mit der Nasendusche, neues Equipment und aggressive Bettelei. &lt;br /&gt;
+&lt;br /&gt;
+Aber sonst ist alles ok. 
+&lt;p&gt;
+Dauer: 00:06:18
+&lt;p&gt;
+&lt;br&gt;
+&lt;h2&gt;Links:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.de/dp/B009I7CMNE?tag=larsreineke-21"&gt;Emser Nasendusche&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.deuter.com/de/DE/product/1-72/80444/GigaBike.html"&gt;Deuter Giga Bike&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=47&amp;amp;md5=0fc6a75dfe45ac87a95a6a8f6aaadc3d" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0002 – Stereotype</title>
+                    <link>http://2cl.rumgelaber.de/2cl0002-stereotype/</link>
+                    <pubDate>Thu, 16 Jan 2014 16:14:15 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-16t16:13:19+00:00-012c361e2ede720</guid>
+                    <description>Da schneidet einem seit über 30 Jahren wieder ein Mann namens Detlef die Haare, und dann ist der nichtmal schwul. Stereotype sind auch nicht mehr das, was sie mal waren.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0002-stereotype%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0002+%26%238211%3B+Stereotype&amp;description=Da+schneidet+einem+seit+%C3%BCber+30+Jahren+wieder+ein+Mann+namens+Detlef+die+Haare%2C+und+dann+ist+der+nichtmal+schwul.+Stereotype+sind+auch+nicht+mehr+das%2C+was+sie+mal+waren...." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0002-stereotype/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=46&amp;ptm_source=feed&amp;ptm_context=aac" length="2592697" type="audio/mp4"/>
+                    <itunes:duration>00:04:48</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Da schneidet einem seit über 30 Jahren wieder ein Mann namens Detlef die Haare, und dann ist der nichtmal schwul. Stereotype sind auch nicht mehr das, was sie mal waren.</itunes:summary>
+                    <content:encoded>Da schneidet einem seit über 30 Jahren wieder ein Mann namens Detlef die Haare, und dann ist der nichtmal schwul. Stereotype sind auch nicht mehr das, was sie mal waren. 
+&lt;p&gt;
+Dauer: 00:04:48
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=40&amp;amp;md5=8ba4db017f3c93c596c02f12f55948e1" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0001 – Morgenstund hat Mikro vorm Mund</title>
+                    <link>http://2cl.rumgelaber.de/2cl0001-morgenstund-hat-mikro-vorm-mund/</link>
+                    <pubDate>Thu, 16 Jan 2014 06:39:54 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-16t06:38:54+00:00-231971b3b5c9c8f</guid>
+                    <description>Eine gute Brotmaschine ist super, sanft geweckt werden auch. Schnee nicht so, aber wenigstens kann man dann wieder mehr zu Fuß gehen.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0001-morgenstund-hat-mikro-vorm-mund%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0001+%26%238211%3B+Morgenstund+hat+Mikro+vorm+Mund&amp;description=Eine+gute+Brotmaschine+ist+super%2C+sanft+geweckt+werden+auch.+Schnee+nicht+so%2C+aber+wenigstens+kann+man+dann+wieder+mehr+zu+Fu%C3%9F+gehen.+Dauer%3A+00%3A04%3A23" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0001-morgenstund-hat-mikro-vorm-mund/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=37&amp;ptm_source=feed&amp;ptm_context=aac" length="2255954" type="audio/mp4"/>
+                    <itunes:duration>00:04:23</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle/>
+                    <itunes:summary>Eine gute Brotmaschine ist super, sanft geweckt werden auch. Schnee nicht so, aber wenigstens kann man dann wieder mehr zu Fuß gehen.</itunes:summary>
+                    <content:encoded>Eine gute Brotmaschine ist super, sanft geweckt werden auch. Schnee nicht so, aber wenigstens kann man dann wieder mehr zu Fuß gehen. 
+&lt;p&gt;
+Dauer: 00:04:23
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=35&amp;amp;md5=89e2ec4fd485d7f03bcec8509ed1853b" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+                <item>
+                    <title>2CL0000 – Die Nullnummer</title>
+                    <link>http://2cl.rumgelaber.de/2cl0000-die-nullnummer/</link>
+                    <pubDate>Wed, 15 Jan 2014 21:18:42 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-01-15t21:16:53+00:00-93defef39f5e873</guid>
+                    <description>Was ist 2CL, von wem habe ich das abgekupfert, wie wird das ganze produziert, und wo wird man das abonnieren können?
+
+Mit besten Grüßen an @der_sema, @DerBastard und natürlich Markus Becker.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=larsreineke&amp;url=http%3A%2F%2F2cl.rumgelaber.de%2F2cl0000-die-nullnummer%2F&amp;language=de_DE&amp;category=audio&amp;title=2CL0000+%26%238211%3B+Die+Nullnummer&amp;description=Was+ist+2CL%2C+von+wem+habe+ich+das+abgekupfert%2C+wie+wird+das+ganze+produziert%2C+und+wo+wird+man+das+abonnieren+k%C3%B6nnen%3F+Mit+besten+Gr%C3%BC%C3%9Fen+an+%40der_sema%2C+%40DerBastard+und+nat%C3%BCrlich+Markus..." type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://2cl.rumgelaber.de/2cl0000-die-nullnummer/#"/>
+                    <enclosure url="http://2cl.rumgelaber.de/wordpress/?download_media_file=25&amp;ptm_source=feed&amp;ptm_context=aac" length="3262779" type="audio/mp4"/>
+                    <itunes:duration>00:06:23</itunes:duration>
+                    <itunes:author>Lars Reineke</itunes:author>
+                    <itunes:subtitle>Die Nullnummer</itunes:subtitle>
+                    <itunes:summary>Was ist 2CL, von wem habe ich das abgekupfert, wie wird das ganze produziert, und wo wird man das abonnieren können?
+
+Mit besten Grüßen an @der_sema, @DerBastard und natürlich Markus Becker.</itunes:summary>
+                    <content:encoded>Was ist 2CL, von wem habe ich das abgekupfert, wie wird das ganze produziert, und wo wird man das abonnieren können?&lt;br /&gt;
+&lt;br /&gt;
+Mit besten Grüßen an @der_sema, @DerBastard und natürlich Markus Becker.
+&lt;p&gt;
+Dauer: 00:06:23
+&lt;p&gt;
+&lt;br&gt;
+ &lt;p&gt;&lt;a href="http://2cl.rumgelaber.de/wordpress/?flattrss_redirect&amp;amp;id=30&amp;amp;md5=83435707ba05430f069a9d420bccb3ff" title="Flattr" target="_blank"&gt;&lt;img src="http://2cl.rumgelaber.de/wordpress/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

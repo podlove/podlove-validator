@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:27:27 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="X-Runtime" value="7"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="Last-Modified" value="Sun, 17 Aug 2014 19:16:52 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=b3a01c8355202b996856a01a5b804d60; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 09:27:27 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="8485"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>TURN:ED ON</title>
+                <link>http://adamturnermusic.podomatic.com</link>
+                <description>Broadcast weekly on numerous radio stations around the world, TURN:ED ON is the radio show from DJ and Producer Adam Turner. Head to adamturnermusic.co.uk/turnedon for more info.</description>
+                <language>en-gb</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Sun, 17 Aug 2014 19:16:52 GMT</pubDate>
+                <itunes:keywords>house,music,adam,turner,dj,london,turned,on,Music,Electronic,Progressive House</itunes:keywords>
+                <itunes:subtitle>Adam Turner's TURN:ED ON Radio Show</itunes:subtitle>
+                <itunes:owner>
+                    <itunes:name>Adam Turner</itunes:name>
+                    <itunes:email>adam@adamturnermusic.co.uk</itunes:email>
+                </itunes:owner>
+                <itunes:explicit>clean</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9665812.jpg"/>
+                <itunes:author>Adam Turner</itunes:author>
+                <itunes:summary>Broadcast weekly on numerous radio stations around the world, TURN:ED ON is the radio show from DJ and Producer Adam Turner. Head to adamturnermusic.co.uk/turnedon for more info.</itunes:summary>
+                <itunes:category text="Music"/>
+                <atom:link rel="self" type="application/rss+xml" href="http://adamturnermusic.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>TURN:ED ON 009</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg" alt="itunes pic" /&gt;&lt;br /&gt;adamturnermusic.co.uk/turnedon</description>
+                    <guid isPermaLink="true">http://adamturnermusic.podomatic.com/entry/2014-08-17T01_00_00-07_00</guid>
+                    <comments>http://adamturnermusic.podomatic.com/entry/2014-08-17T01_00_00-07_00</comments>
+                    <pubDate>Sun, 17 Aug 2014 08:00:00 GMT</pubDate>
+                    <dcterms:modified>2014-08-17</dcterms:modified>
+                    <dcterms:created>2014-08-17</dcterms:created>
+                    <link>http://adamturnermusic.podomatic.com</link>
+                    <dc:creator>Adam Turner</dc:creator>
+                    <itunes:keywords>adam,turner,progressive,house,radio,show,turned,on,dj,london</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://adamturnermusic.podomatic.com/enclosure/2014-08-17T01_00_00-07_00.mp3" length="173230307"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>adamturnermusic.co.uk/turnedon</itunes:summary>
+                    <itunes:subtitle>adamturnermusic.co.uk/turnedon</itunes:subtitle>
+                </item>
+                <item>
+                    <title>TURN:ED ON 008</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg" alt="itunes pic" /&gt;&lt;br /&gt;adamturnermusic.co.uk/turnedon</description>
+                    <guid isPermaLink="true">http://adamturnermusic.podomatic.com/entry/2014-08-10T01_00_00-07_00</guid>
+                    <comments>http://adamturnermusic.podomatic.com/entry/2014-08-10T01_00_00-07_00</comments>
+                    <pubDate>Sun, 10 Aug 2014 08:00:00 GMT</pubDate>
+                    <dcterms:modified>2014-08-16</dcterms:modified>
+                    <dcterms:created>2014-08-10</dcterms:created>
+                    <link>http://adamturnermusic.podomatic.com</link>
+                    <dc:creator>Adam Turner</dc:creator>
+                    <itunes:keywords>adam,london,house,turner,turned,on,music,progressive,radio,show</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://adamturnermusic.podomatic.com/enclosure/2014-08-10T01_00_00-07_00.mp3" length="173421523"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary>adamturnermusic.co.uk/turnedon</itunes:summary>
+                    <itunes:subtitle>adamturnermusic.co.uk/turnedon</itunes:subtitle>
+                </item>
+                <item>
+                    <title>TURN:ED ON 007</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg" alt="itunes pic" /&gt;&lt;br /&gt;adamturnermusic.co.uk/turnedon</description>
+                    <guid isPermaLink="true">http://adamturnermusic.podomatic.com/entry/2014-08-03T11_51_50-07_00</guid>
+                    <comments>http://adamturnermusic.podomatic.com/entry/2014-08-03T11_51_50-07_00</comments>
+                    <pubDate>Sun, 03 Aug 2014 18:51:50 GMT</pubDate>
+                    <dcterms:modified>2014-08-16</dcterms:modified>
+                    <dcterms:created>2014-08-04</dcterms:created>
+                    <link>http://adamturnermusic.podomatic.com</link>
+                    <dc:creator>Adam Turner</dc:creator>
+                    <itunes:keywords>adam,progressive,house,turned,on,radio,show,dj,london,music,turner</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://adamturnermusic.podomatic.com/enclosure/2014-08-03T11_51_50-07_00.mp3" length="173995799"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary>adamturnermusic.co.uk/turnedon</itunes:summary>
+                    <itunes:subtitle>adamturnermusic.co.uk/turnedon</itunes:subtitle>
+                </item>
+                <item>
+                    <title>TURN:ED ON 006</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg" alt="itunes pic" /&gt;&lt;br /&gt;adamturnermusic.co.uk/turnedon</description>
+                    <guid isPermaLink="true">http://adamturnermusic.podomatic.com/entry/2014-07-27T11_32_49-07_00</guid>
+                    <comments>http://adamturnermusic.podomatic.com/entry/2014-07-27T11_32_49-07_00</comments>
+                    <pubDate>Sun, 27 Jul 2014 18:32:49 GMT</pubDate>
+                    <dcterms:modified>2014-08-16</dcterms:modified>
+                    <dcterms:created>2014-07-29</dcterms:created>
+                    <link>http://adamturnermusic.podomatic.com</link>
+                    <dc:creator>Adam Turner</dc:creator>
+                    <itunes:keywords>progressive,house,radio,show,turned,on,adam,turners,dj,music</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://adamturnermusic.podomatic.com/enclosure/2014-07-27T11_32_49-07_00.mp3" length="174113652"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9796130.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>adamturnermusic.co.uk/turnedon</itunes:summary>
+                    <itunes:subtitle>adamturnermusic.co.uk/turnedon</itunes:subtitle>
+                </item>
+                <item>
+                    <title>TURN:ED ON 005</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9778450.jpg" alt="itunes pic" /&gt;&lt;br /&gt;adamturnermusic.co.uk/turneon</description>
+                    <guid isPermaLink="true">http://adamturnermusic.podomatic.com/entry/2014-07-21T03_33_53-07_00</guid>
+                    <comments>http://adamturnermusic.podomatic.com/entry/2014-07-21T03_33_53-07_00</comments>
+                    <pubDate>Mon, 21 Jul 2014 10:33:53 GMT</pubDate>
+                    <dcterms:modified>2014-08-16</dcterms:modified>
+                    <dcterms:created>2014-07-21</dcterms:created>
+                    <link>http://adamturnermusic.podomatic.com</link>
+                    <dc:creator>Adam Turner</dc:creator>
+                    <itunes:keywords>adam,progressive,house,radio,turned,on,show,dj,london,music,turner</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://adamturnermusic.podomatic.com/enclosure/2014-07-21T03_33_53-07_00.mp3" length="174268517"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/d9/e2/a2/adamturnermusic/1400x1400_9778450.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary>adamturnermusic.co.uk/turneon</itunes:summary>
+                    <itunes:subtitle>adamturnermusic.co.uk/turneon</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

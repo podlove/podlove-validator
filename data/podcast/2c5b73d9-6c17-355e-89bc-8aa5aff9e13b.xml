@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="2346"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:49:11 GMT"/>
+        <httpclient:header name="X-Varnish" value="2068507841 2068505586"/>
+        <httpclient:header name="Age" value="94"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Aristoteleen kantapää</title>
+                <link>http://areena.yle.fi/api/search.rss?id=a2928171&amp;ladattavat=1</link>
+                <pubDate>Wed, 20 Aug 2014 12:47:15 +0300</pubDate>
+                <description>Pasi Heikuran isännöimä Aristoteleen kantapää on YLE Radio 1:n hiuksiahalkova pilkun viilaus- ja höyläysohjelma sitaattien, lentävien lauseiden ja sananparsien maailmasta.
+
+Aristoteleen kantapää kuullaan Kulttuuritunnilla keskiviikkoisin klo 17.20 - 17.45, ja uusintana lauantaisin klo 8.35.
+
+Aristoteleen kantapää odottaa sinunkin vihjettäsi Viikon sitaatiksi, Viikon sitaattivihjeeksi ja/tai Viikon fraasirikokseksi.</description>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary>Pasi Heikuran isännöimä Aristoteleen kantapää on YLE Radio 1:n hiuksiahalkova pilkun viilaus- ja höyläysohjelma sitaattien, lentävien lauseiden ja sananparsien maailmasta.
+
+Aristoteleen kantapää kuullaan Kulttuuritunnilla keskiviikkoisin klo 17.20 - 17.45, ja uusintana lauantaisin klo 8.35.
+
+Aristoteleen kantapää odottaa sinunkin vihjettäsi Viikon sitaatiksi, Viikon sitaattivihjeeksi ja/tai Viikon fraasirikokseksi.</itunes:summary>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/areena/series/2928171_284_aristoteleen-kantapaa_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/areena/series/2928171_284_aristoteleen-kantapaa_65.jpg</url>
+                    <title>Aristoteleen kantapää</title>
+                    <link>http://areena.yle.fi/api/search.rss?id=a2928171&amp;ladattavat=1</link>
+                </image>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

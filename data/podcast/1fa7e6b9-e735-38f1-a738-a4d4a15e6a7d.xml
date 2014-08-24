@@ -1,0 +1,1158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx/1.4.0"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Last-Modified" value="Mon, 04 Aug 2014 14:44:29 GMT"/>
+        <httpclient:header name="ETag" value="&#34;53df9c4d-1961c&#34;"/>
+        <httpclient:header name="Content-Length" value="103964"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:29:40 GMT"/>
+        <httpclient:header name="X-Varnish" value="526091487"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+            <channel>
+                <title>Marco Arment's Appearances on 5by5</title>
+                <link>http://5by5.tv/people/marco-arment</link>
+                <pubDate>Wed, 19 Jun 2013 23:00:00 GMT</pubDate>
+                <description>All of Marco Arment's Appearances on 5by5 </description>
+                <language>en-us</language>
+                <itunes:subtitle>Every show that features Marco Arment.</itunes:subtitle>
+                <itunes:author>5by5</itunes:author>
+                <itunes:summary>Marco Arment's appearances on 5by5.</itunes:summary>
+                <itunes:image href="http://icebox.5by5.tv/images/people/64/avatar.jpg"/>
+                <itunes:keywords>Marco Arment</itunes:keywords>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:owner>
+                    <itunes:name>Dan Benjamin and 5by5</itunes:name>
+                    <itunes:email>itunes@5by5.tv</itunes:email>
+                </itunes:owner>
+                <itunes:category text="Technology"/>
+                <item>
+                    <title>The East Wing 59: Marco Arment</title>
+                    <link>http://5by5.tv/eastwing/59</link>
+                    <guid>http://5by5.tv/eastwing/59</guid>
+                    <pubDate>Wed, 19 Jun 2013 23:00:00 GMT</pubDate>
+                    <author>Tim Smith</author>
+                    <description>Tim talks with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.
+</description>
+                    <enclosure url="http://fdlyr.co/d/eastwing/cdn.5by5.tv/audio/broadcasts/eastwing/2013/eastwing-059.mp3" length="45659032" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Tim talks with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.marco.org/" class="link" target="_blank"&gt;Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://twitter.com/marcoarment" class="link" target="_blank"&gt;Marco Arment (marcoarment) on Twitter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/06/01/my-2006-resume" class="link" target="_blank"&gt;My 2006 resume (PDF) – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/06/11/fertile-ground" class="link" target="_blank"&gt;Fertile Ground – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/05/29/sold-the-magazine" class="link" target="_blank"&gt;I Sold The Magazine, Too – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/04/25/instapaper-next-generation" class="link" target="_blank"&gt;The next generation of Instapaper – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://atp.fm/" class="link" target="_blank"&gt;Accidental Tech Podcast&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Tim Smith</itunes:author>
+                    <itunes:duration>60:38</itunes:duration>
+                    <itunes:subtitle>Tim talks with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.</itunes:subtitle>
+                    <itunes:summary>Tim talks with Marco Arment about how he got started, getting the job at Tumblr, Instapaper, The Magazine, and the future.
+</itunes:summary>
+                    <itunes:keywords>design, developer, entrepreneurs, interview</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/61/cover.jpg"/>
+                </item>
+                <item>
+                    <title>CMD+Space 48: A Fresh Start, with Marco Arment</title>
+                    <link>http://5by5.tv/cmdspace/48</link>
+                    <guid>http://5by5.tv/cmdspace/48</guid>
+                    <pubDate>Wed, 19 Jun 2013 16:30:00 GMT</pubDate>
+                    <author>Myke Hurley</author>
+                    <description>This week Myke is joined by Marco Arment. They discuss how the sales of Instapaper, The Magazine and Tumblr are affecting his current decisions and how WWDC has helped shape his next project.
+</description>
+                    <enclosure url="http://fdlyr.co/d/cmdspace/cdn.5by5.tv/audio/broadcasts/cmdspace/2013/cmdspace-048.mp3" length="44471823" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;This week Myke is joined by Marco Arment. They discuss how the sales of Instapaper, The Magazine and Tumblr are affecting his current decisions and how WWDC has helped shape his next project.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://5by5.tv/cmdspace/25" class="link" target="_blank"&gt;5by5 | CMD+Space #25: Discussing The Magazine, with Marco Arment&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/" class="link" target="_blank"&gt;Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/quit/21" class="link" target="_blank"&gt;5by5 | Quit! #21: Quit &amp;amp; Analyze&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/05/20/one-person-product" class="link" target="_blank"&gt;The One-Person Product – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.theverge.com/2013/6/18/4439084/inside-pocket-how-read-it-later-beat-rivals-to-build-dvr-for-everything" class="link" target="_blank"&gt;Inside Pocket: how a startup beat its rivals to build the &amp;#x27;DVR for everything&amp;#x27; | The Verge&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2013/06/11/fertile-ground" class="link" target="_blank"&gt;Fertile Ground – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://vemedio.com/blog/posts/instacast-roadmap-for-ios-7-and-os-x-10-9-mavericks" class="link" target="_blank"&gt;Blog - Instacast Roadmap for iOS 7 and OS X 10.9 Mavericks - Vemedio&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/prompt" class="link" target="_blank"&gt;5by5 | The Prompt&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://atp.fm/" class="link" target="_blank"&gt;Accidental Tech Podcast&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://twitter.com/marcoarment" class="link" target="_blank"&gt;Marco Arment (marcoarment) on Twitter&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://squarespace.com/"&gt;Squarespace&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Myke Hurley</itunes:author>
+                    <itunes:duration>1:01:03</itunes:duration>
+                    <itunes:subtitle>This week Myke is joined by Marco Arment.</itunes:subtitle>
+                    <itunes:summary>This week Myke is joined by Marco Arment. They discuss how the sales of Instapaper, The Magazine and Tumblr are affecting his current decisions and how WWDC has helped shape his next project.
+</itunes:summary>
+                    <itunes:keywords>Myke, hurley, command, space, cmd, tech, talk, interview, show, geek</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/49/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Quit! 21: Quit &amp; Analyze</title>
+                    <link>http://5by5.tv/quit/21</link>
+                    <guid>http://5by5.tv/quit/21</guid>
+                    <pubDate>Fri, 26 Apr 2013 23:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan is joined by a familiar guest, Marco Arment, to take calls and discuss Marco's very recent sale of Instapaper. They delve deeper and discuss when to hire, outsourcing, feeling burnt out, when to sell, and being selective about which company gets to buy what you've built. They take some listener calls and answer questions about job-seeking in a new town, how to come up with the next great idea, the reinvention of the corporate stooge, what to consider when you're desperate for freelance work, and what to do when you get let go from your job.
+</description>
+                    <enclosure url="http://fdlyr.co/d/quit/cdn.5by5.tv/audio/broadcasts/quit/2013/quit-021.mp3" length="48776928" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan is joined by a familiar guest, Marco Arment, to take calls and discuss Marco's very recent sale of Instapaper. They delve deeper and discuss when to hire, outsourcing, feeling burnt out, when to sell, and being selective about which company gets to buy what you've built. They take some listener calls and answer questions about job-seeking in a new town, how to come up with the next great idea, the reinvention of the corporate stooge, what to consider when you're desperate for freelance work, and what to do when you get let go from your job.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.marco.org/2013/04/25/instapaper-next-generation" class="link" target="_blank"&gt;The next generation of Instapaper – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/buildanalyze" class="link" target="_blank"&gt;5by5 | Build and Analyze&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://blog.betaworks.com/post/27070595530/digg" class="link" target="_blank"&gt;betaworks digg&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://twitter.com/marcoarment" class="link" target="_blank"&gt;Marco Arment (marcoarment) on Twitter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://alpha.app.net/marco" class="link" target="_blank"&gt;marco on App.net&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME4 for 30% off) and &lt;a href="http://squarespace.com"&gt;Squarespace&lt;/a&gt; (use code STOOGE4 for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>1:41:04</itunes:duration>
+                    <itunes:subtitle>Dan is joined by a familiar guest, Marco Arment, to take calls and discuss Marco's very recent sale of Instapaper.</itunes:subtitle>
+                    <itunes:summary>Dan is joined by a familiar guest, Marco Arment, to take calls and discuss Marco's very recent sale of Instapaper. They delve deeper and discuss when to hire, outsourcing, feeling burnt out, when to sell, and being selective about which company gets to buy what you've built. They take some listener calls and answer questions about job-seeking in a new town, how to come up with the next great idea, the reinvention of the corporate stooge, what to consider when you're desperate for freelance work, and what to do when you get let go from your job.
+</itunes:summary>
+                    <itunes:keywords>quit, work, job, awesome</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/44/cover.jpg"/>
+                </item>
+                <item>
+                    <title>CMD+Space 25: Discussing The Magazine, with Marco Arment</title>
+                    <link>http://5by5.tv/cmdspace/25</link>
+                    <guid>http://5by5.tv/cmdspace/25</guid>
+                    <pubDate>Wed, 16 Jan 2013 23:00:00 GMT</pubDate>
+                    <author>Myke Hurley</author>
+                    <description>This week Myke talks to Marco Arment about The Magazine. They talk about the success the app has seen since launch, some of the changes made and its future. They also talk briefly about Marco's next Podcasting venture.
+</description>
+                    <enclosure url="http://fdlyr.co/d/cmdspace/cdn.5by5.tv/audio/broadcasts/cmdspace/2013/cmdspace-025.mp3" length="37718755" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;This week Myke talks to Marco Arment about The Magazine. They talk about the success the app has seen since launch, some of the changes made and its future. They also talk briefly about Marco's next Podcasting venture.&lt;/p&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Myke Hurley</itunes:author>
+                    <itunes:duration>1:13:06</itunes:duration>
+                    <itunes:subtitle>This week Myke talks to Marco Arment about The Magazine. They talk about the success the app has seen since launch, some of the changes made and its future. They also talk briefly about Marco's next Podcasting venture.</itunes:subtitle>
+                    <itunes:summary>This week Myke talks to Marco Arment about The Magazine. They talk about the success the app has seen since launch, some of the changes made and its future. They also talk briefly about Marco's next Podcasting venture.
+</itunes:summary>
+                    <itunes:keywords>Myke, hurley, command, space, cmd, tech, talk, interview, show, geek</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/49/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 108: Succeeded</title>
+                    <link>http://5by5.tv/buildanalyze/108</link>
+                    <guid>http://5by5.tv/buildanalyze/108</guid>
+                    <pubDate>Mon, 17 Dec 2012 18:45:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Our series finale.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-108.mp3" length="46045459" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Our series finale.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/020161622X/5by5-20" class="link" target="_blank"&gt;The Pragmatic Programmer: From Journeyman to Master: Andrew Hunt, David Thomas: 9780201616224: Amazon.com: Books&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.coreint.org/" class="link" target="_blank"&gt;Core Intuition&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/crossover/2" class="link" target="_blank"&gt;5by5 | The Crossover #2: The Fight for Attention&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Itunes" class="link" target="_blank"&gt;iTunes - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2009/02/14/sirius-satellite-radio-sound-quality-test-sirius" class="link" target="_blank"&gt;Sirius Satellite Radio sound quality test Sirius’ satellite-broadcast audio quality has really… – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://twitter.com/tiffanyarment/status/280720875504939008/photo/1" class="link" target="_blank"&gt;Twitter / tiffanyarment: Final Build &amp;amp; Analyze. ...&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME12 for 30% off), and &lt;a href="http://sourcebits.com"&gt;Sourcebits&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:35:21</itunes:duration>
+                    <itunes:subtitle>Our series finale.</itunes:subtitle>
+                    <itunes:summary>Our series finale.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 107: The Eldest Programmer</title>
+                    <link>http://5by5.tv/buildanalyze/107</link>
+                    <guid>http://5by5.tv/buildanalyze/107</guid>
+                    <pubDate>Tue, 11 Dec 2012 01:15:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss testing and logging, formal programming, Core Data versus other datastore techniques, and developers knowing basic terminal operation and server administration.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-107.mp3" length="40417441" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss testing and logging, formal programming, Core Data versus other datastore techniques, and developers knowing basic terminal operation and server administration.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B006MLQHRG/5by5-20" class="link" target="_blank"&gt;Amazon.com: Baratza Virtuoso Coffee Grinder 586: Home &amp;amp; Kitchen&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.amazon.com/exec/obidos/ASIN/B007F183LK/5by5-20" class="link" target="_blank"&gt;Baratza Encore Conical Burr Coffee Grinder: Amazon.com: Home &amp;amp; Kitchen&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Core_Data" class="link" target="_blank"&gt;Core Data - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://developer.apple.com/library/mac/#documentation/cocoa/Conceptual/CoreData/cdProgrammingGuide.html" class="link" target="_blank"&gt;Core Data Programming Guide: Introduction to Core Data Programming Guide&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://inessential.com/2010/02/26/on_switching_away_from_core_data" class="link" target="_blank"&gt;inessential.com: On switching away from Core Data&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Create,_read,_update_and_delete" class="link" target="_blank"&gt;Create, read, update and delete - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://peepcode.com/products/meet-the-command-line" class="link" target="_blank"&gt;Unix Command Line Tutorial | PeepCode Screencast&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://peepcode.com/products/advanced-command-line" class="link" target="_blank"&gt;Advanced Command Line | PeepCode Screencasts&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.linode.com/" class="link" target="_blank"&gt;Linode - Xen VPS Hosting&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.acqualia.com/soulver/" class="link" target="_blank"&gt;Soulver | Acqualia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.iterm2.com/#/section/home" class="link" target="_blank"&gt;iTerm2 - Mac OS Terminal Replacement&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://mxcl.github.com/homebrew/" class="link" target="_blank"&gt;Homebrew — MacPorts driving you to drink? Try Homebrew!&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME12 for 30% off), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt; (and get 3 months free), and &lt;a href="http://mailgun.com"&gt;MailGun&lt;/a&gt; (use code 5BY5 for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:23:38</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss testing and logging, formal programming, Core Data versus other datastore techniques, and developers knowing basic terminal operation and server administration.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss testing and logging, formal programming, Core Data versus other datastore techniques, and developers knowing basic terminal operation and server administration.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 106: Outlasted The Daily</title>
+                    <link>http://5by5.tv/buildanalyze/106</link>
+                    <guid>http://5by5.tv/buildanalyze/106</guid>
+                    <pubDate>Mon, 03 Dec 2012 18:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss the Mac Pro's relevance, the effects of RAM and FileVault on performance, the App Store Volume Purchase discount, how well Instapaper for Android is doing, why The Daily failed, deciding whether articles belong on blogs or in The Magazine, and how to collaborate with a designer when you don't agree with all of their choices.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-106.mp3" length="41557632" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss the Mac Pro's relevance, the effects of RAM and FileVault on performance, the App Store Volume Purchase discount, how well Instapaper for Android is doing, why The Daily failed, deciding whether articles belong on blogs or in The Magazine, and how to collaborate with a designer when you don't agree with all of their choices.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/108_(number)" class="link" target="_blank"&gt;108 (number) - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.ifixit.com/Teardown/iMac+Intel+21.5-Inch+EMC+2544+Teardown/11936/1" class="link" target="_blank"&gt;iMac Intel 21.5&amp;quot; EMC 2544 Teardown - iFixit&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://david-smith.org/blog/2011/07/06/a-tale-of-three-app-stores/" class="link" target="_blank"&gt;A Tale of Three App Stores - David Smith&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://livewire.talkingpointsmemo.com/entry/news-corp-to-shut-down-daily-on-dec" class="link" target="_blank"&gt;News Corp. To Shut Down The Daily On Dec. 15 | TPM LiveWire&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://twitter.com/rupertmurdoch" class="link" target="_blank"&gt;Rupert Murdoch (rupertmurdoch) on Twitter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.businessinsider.com/murdoch-the-daily-will-cost-56-million-to-run-in-year-one-2011-2" class="link" target="_blank"&gt;Murdoch: The Daily Will Cost ~$56 Million To Run In Year One - Business Insider&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/buildanalyze/11" class="link" target="_blank"&gt;5by5 | Build and Analyze #11: The Mustache Guy&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://themagazine.wufoo.com/forms/the-magazine-pitch-submission/" class="link" target="_blank"&gt;The Magazine Pitch Submission&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME12 for 30% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use code DANSENTME12 for 10% off), &lt;a href="http://hover.com"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), and &lt;a href="http://propngo.com"&gt;Prop 'n Go&lt;/a&gt; (use the code DANSENTME for 17% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:26:00</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss the Mac Pro's relevance, the effects of RAM and FileVault on performance, the App Store Volume Purchase discount, how well Instapaper for Android is doing, why The Daily failed, deciding whether articles belong on blogs or in The Mag</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss the Mac Pro's relevance, the effects of RAM and FileVault on performance, the App Store Volume Purchase discount, how well Instapaper for Android is doing, why The Daily failed, deciding whether articles belong on blogs or in The Magazine, and how to collaborate with a designer when you don't agree with all of their choices.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 105: Service Plans for Cables</title>
+                    <link>http://5by5.tv/buildanalyze/105</link>
+                    <guid>http://5by5.tv/buildanalyze/105</guid>
+                    <pubDate>Mon, 26 Nov 2012 18:00:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>On this happy Cyber Monday, Dan and Marco discuss journalists mangling quotes, the decline of upgradeable hardware, how to tell if a price is negotiable, why many publications don't take full advantage of Newsstand, protecting assets inside app bundles, and deciding whether to burn an expedited review.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-105.mp3" length="32105490" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;On this happy Cyber Monday, Dan and Marco discuss journalists mangling quotes, the decline of upgradeable hardware, how to tell if a price is negotiable, why many publications don't take full advantage of Newsstand, protecting assets inside app bundles, and deciding whether to burn an expedited review.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.bizjournals.com/pittsburgh/stories/2005/12/05/story3.html?page=all" class="link" target="_blank"&gt;Shopping @ Work - Pittsburgh Business Times&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://macsales.com/" class="link" target="_blank"&gt;Performance Upgrades; FireWire USB SATA Storage; Memory, more at OWC&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME11 for 30% off), &lt;a href="http://kokuapp.com"&gt;Koku&lt;/a&gt;, and &lt;a href="http://sourcebits.com"&gt;Sourcebits&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:06:19</itunes:duration>
+                    <itunes:subtitle>On this happy Cyber Monday, Dan and Marco discuss journalists mangling quotes, the decline of upgradeable hardware, how to tell if a price is negotiable, why many publications don't take full advantage of Newsstand, protecting assets inside app bundles, a</itunes:subtitle>
+                    <itunes:summary>On this happy Cyber Monday, Dan and Marco discuss journalists mangling quotes, the decline of upgradeable hardware, how to tell if a price is negotiable, why many publications don't take full advantage of Newsstand, protecting assets inside app bundles, and deciding whether to burn an expedited review.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>The Crossover 1: You Just Got Curated</title>
+                    <link>http://5by5.tv/crossover/1</link>
+                    <guid>http://5by5.tv/crossover/1</guid>
+                    <pubDate>Wed, 21 Nov 2012 01:00:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>This week Dan is joined by Merlin Mann and Marco Arment to discuss living on forums, what is the best way for a site to handle comments, being part of an online community, losing control of that community, the valuable discussions to be had, online curating, and the pros and cons of ranking and up voting.
+</description>
+                    <enclosure url="http://fdlyr.co/d/crossover/cdn.5by5.tv/audio/broadcasts/crossover/2012/crossover-001.mp3" length="42652258" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;This week Dan is joined by Merlin Mann and Marco Arment to discuss living on forums, what is the best way for a site to handle comments, being part of an online community, losing control of that community, the valuable discussions to be had, online curating, and the pros and cons of ranking and up voting.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.somethingawful.com/" class="link" target="_blank"&gt;Something Awful: The Internet Makes You Stupid&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://pinboard.in/" class="link" target="_blank"&gt;Pinboard: social bookmarking for introverts&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://pinboard.in/popular" class="link" target="_blank"&gt;Pinboard: popular bookmarks&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.bhphotovideo.com/" class="link" target="_blank"&gt;B&amp;amp;H Photo Video Digital Cameras, Photography, Camcorders&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.rei.com/" class="link" target="_blank"&gt;Save Up to 30% at the REI Winter Sale thru November 26&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.zappos.com/index0.zml" class="link" target="_blank"&gt;Shoes, Clothing&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.onefoottsunami.com/" class="link" target="_blank"&gt;One Foot Tsunami by Paul Kafasis&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.onefoottsunami.com/2012/11/19/limited-time-offer/" class="link" target="_blank"&gt;One Foot Tsunami: Limited-Time Offer&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.google.com/reader/view/#trends-page" class="link" target="_blank"&gt;Google Reader (1000+)&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://itunes.apple.com/us/podcast/the-crossover/id580793064" class="link" target="_blank"&gt;The Crossover on iTunes&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://mailgun.com"&gt;Mailgun&lt;/a&gt; use code 5BY5 for 10% off, &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt;, &lt;a href="http://hover.com/5by5"&gt;Hover&lt;/a&gt; use the code DANSENTME for 10% off, and &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; use code DANSENTME11 for 30% off.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>1:28:16</itunes:duration>
+                    <itunes:subtitle/>
+                    <itunes:summary>This week Dan is joined by Merlin Mann and Marco Arment to discuss living on forums, what is the best way for a site to handle comments, being part of an online community, losing control of that community, the valuable discussions to be had, online curating, and the pros and cons of ranking and up voting.
+</itunes:summary>
+                    <itunes:keywords>conversation, discussion, technology, geek, entertainment, tv, movies, comics, music</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/47/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 104: Hammertime</title>
+                    <link>http://5by5.tv/buildanalyze/104</link>
+                    <guid>http://5by5.tv/buildanalyze/104</guid>
+                    <pubDate>Mon, 19 Nov 2012 18:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss the upcoming end of the show, Scott Forstall and MC Hammer, Passbook apps and promotion, how to decide when to start a new project, PayPal's subscription problems, and the economics of one-time app payments.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-104.mp3" length="37313456" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss the upcoming end of the show, Scott Forstall and MC Hammer, Passbook apps and promotion, how to decide when to start a new project, PayPal's subscription problems, and the economics of one-time app payments.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.marco.org/2012/11/18/build-analyze-ending" class="link" target="_blank"&gt;Build and Analyze ending December 17 – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://areyouahuman.com/?utm_expid=44670397-1" class="link" target="_blank"&gt;PlayThru: the ultimate CAPTCHA alternative | Are You a Human&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.google.com/wallet/why/security.html" class="link" target="_blank"&gt;Security – Google Wallet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://www.paypal.com/" class="link" target="_blank"&gt;Merchant Services from PayPal - Payment Solutions for Your Business&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://payments.amazon.com/sdui/sdui/index.htm" class="link" target="_blank"&gt;Send Money, Online Payment, Credit Card Processing - Amazon Payments&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://stripe.com/" class="link" target="_blank"&gt;Stripe: Payments for developers&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://mailgun.com"&gt;Mailgun&lt;/a&gt; (use code 5BY5 for 10% off), &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt;, &lt;a href="http://hover.com/5by5"&gt;Hover&lt;/a&gt; (use the code DANSENTME for 10% off), and &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME11 for 30% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:17:10</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss the upcoming end of the show, Scott Forstall and MC Hammer, Passbook apps and promotion, how to decide when to start a new project, PayPal's subscription problems, and the economics of one-time app payments.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss the upcoming end of the show, Scott Forstall and MC Hammer, Passbook apps and promotion, how to decide when to start a new project, PayPal's subscription problems, and the economics of one-time app payments.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 103: Denial Haircut</title>
+                    <link>http://5by5.tv/buildanalyze/103</link>
+                    <guid>http://5by5.tv/buildanalyze/103</guid>
+                    <pubDate>Mon, 12 Nov 2012 18:15:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss music under podcast ads, TextMate 2 activity, the costs of pagination in Instapaper and The Magazine, scientific support of "low-acid" coffee benefits, every cure for male hair loss and baldness, and affiliate-marketing spam.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-103.mp3" length="35540896" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss music under podcast ads, TextMate 2 activity, the costs of pagination in Instapaper and The Magazine, scientific support of "low-acid" coffee benefits, every cure for male hair loss and baldness, and affiliate-marketing spam.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="https://twitter.com/DentedMeat/statuses/265939793823805440" class="link" target="_blank"&gt;Twitter / DentedMeat: @hotdogsladies @danbenjamin ...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.leancrew.com/all-this/2012/11/scrolling-or-paging/" class="link" target="_blank"&gt;Scrolling or paging? - All this&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.reuters.com/article/2010/02/23/idUS235339+23-Feb-2010+PRN20100223" class="link" target="_blank"&gt;PR: Science Behind Low Acid Coffee Claims&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.puroast.com/healthy-living/attachments/EulerOverview.pdf" class="link" target="_blank"&gt;The Puroast-cited study (overview PDF)&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://twitter.com/tiffanyarment/status/260788050521628673" class="link" target="_blank"&gt;Twitter / tiffanyarment: Family time watching the Apple ...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://blog.macromates.com/" class="link" target="_blank"&gt;TextMate Blog&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use code DANSENTME11 for 10% off), &lt;a href="http://lynda.com/5by5"&gt;Lynda&lt;/a&gt;, and &lt;a href="http://careers.mutualmobile.com/5by5"&gt;Mutual Mobile&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:13:28</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss music under podcast ads, TextMate 2, pagination, "low-acid" coffee, baldness, and affiliate-marketing spam.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss music under podcast ads, TextMate 2 activity, the costs of pagination in Instapaper and The Magazine, scientific support of "low-acid" coffee benefits, every cure for male hair loss and baldness, and affiliate-marketing spam.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 102: My Quotes Are Curly And My Dashes Are Solid</title>
+                    <link>http://5by5.tv/buildanalyze/102</link>
+                    <guid>http://5by5.tv/buildanalyze/102</guid>
+                    <pubDate>Mon, 05 Nov 2012 18:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss settings in the Settings app, full-screen modes, text adjustment options in Instapaper and The Magazine, choosing fonts for apps, building a custom CMS versus customizing an existing one, white-labeling The Magazine, and over-roasted coffee.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-102.mp3" length="37601672" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss settings in the Settings app, full-screen modes, text adjustment options in Instapaper and The Magazine, choosing fonts for apps, building a custom CMS versus customizing an existing one, white-labeling The Magazine, and over-roasted coffee.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.inappsettingskit.com/" class="link" target="_blank"&gt;InAppSettingsKit - Put settings in your iPhone apps easily&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://commercialtype.com/typefaces/lyon/lyon_text" class="link" target="_blank"&gt;Lyon Text&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Stout" class="link" target="_blank"&gt;Stout - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use code DANSENTME11 for 10% off), &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;, and &lt;a href="http://symbolicons.com"&gt;Symbolicons&lt;/a&gt; (use code DANLOVESICONS for 15% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:17:46</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss settings in the Settings app, full-screen modes, text adjustment options in Instapaper and The Magazine, choosing fonts for apps, building a custom CMS versus customizing an existing one, and more.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss settings in the Settings app, full-screen modes, text adjustment options in Instapaper and The Magazine, choosing fonts for apps, building a custom CMS versus customizing an existing one, white-labeling The Magazine, and over-roasted coffee.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 101: Looting Siracusa County</title>
+                    <link>http://5by5.tv/buildanalyze/101</link>
+                    <guid>http://5by5.tv/buildanalyze/101</guid>
+                    <pubDate>Fri, 02 Nov 2012 20:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss "Superstorm" Sandy aftermath, Scott Forstall's forced exit from Apple, the iPad Mini and iPad "4", the Microsoft Surface and Windows RT, Disney's plans for Lucasfilm, and hosting servers in natural-disaster-prone datacenters.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-101.mp3" length="29391889" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss "Superstorm" Sandy aftermath, Scott Forstall's forced exit from Apple, the iPad Mini and iPad "4", the Microsoft Surface and Windows RT, Disney's plans for Lucasfilm, and hosting servers in natural-disaster-prone datacenters.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.marco.org/2012/10/26/an-alternate-universe" class="link" target="_blank"&gt;An alternate universe – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.streetinsider.com/Press+Releases/Disney+to+Acquire+Lucasfilm+Ltd./7828436.html" class="link" target="_blank"&gt;StreetInsider.com - Disney to Acquire Lucasfilm Ltd.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2012/10/29/ipad-air" class="link" target="_blank"&gt;The iPad Air – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://status.squarespace.com/" class="link" target="_blank"&gt;Squarespace - Sandy Updates&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://lynda.com/5by5"&gt;Lynda&lt;/a&gt;, &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code "dansentme10" for 30% off), and &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt; (use code "5by5" and get 3 months free).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>60:39</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss "Superstorm" Sandy aftermath, Scott Forstall's forced exit from Apple, the iPad Mini and iPad "4", the Microsoft Surface and Windows RT, Disney's plans for Lucasfilm, and hosting servers in natural-disaster-prone datacenters.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss "Superstorm" Sandy aftermath, Scott Forstall's forced exit from Apple, the iPad Mini and iPad "4", the Microsoft Surface and Windows RT, Disney's plans for Lucasfilm, and hosting servers in natural-disaster-prone datacenters.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 100: The Hostage Star</title>
+                    <link>http://5by5.tv/buildanalyze/100</link>
+                    <guid>http://5by5.tv/buildanalyze/100</guid>
+                    <pubDate>Mon, 22 Oct 2012 16:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss the Microsoft Surface commercial and its likely launch challenges, writing apps that align with Apple's incentives, The Magazine's naming and design decisions, and recognizing and fixing a poor design choice.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-100.mp3" length="36402733" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss the Microsoft Surface commercial and its likely launch challenges, writing apps that align with Apple's incentives, The Magazine's naming and design decisions, and recognizing and fixing a poor design choice.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.youtube.com/watch?v=U7UlE-o8DQQ" class="link" target="_blank"&gt;Microsoft Surface - Commercial HD - YouTube&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/amplified/27" class="link" target="_blank"&gt;5by5 | Amplified #27: Real Trouble&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME10 for 30% off), &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;, &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:15:16</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss the Microsoft Surface commercial and its likely launch challenges, writing apps that align with Apple's incentives, The Magazine's naming and design decisions, and recognizing and fixing a poor design choice.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss the Microsoft Surface commercial and its likely launch challenges, writing apps that align with Apple's incentives, The Magazine's naming and design decisions, and recognizing and fixing a poor design choice.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 99: The Podcast</title>
+                    <link>http://5by5.tv/buildanalyze/99</link>
+                    <guid>http://5by5.tv/buildanalyze/99</guid>
+                    <pubDate>Tue, 16 Oct 2012 00:45:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss Marco's new app, The Magazine.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-099.mp3" length="43892764" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss Marco's new app, The Magazine.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://the-magazine.org/" class="link" target="_blank"&gt;The Magazine&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2012/10/11/the-magazine" class="link" target="_blank"&gt;The Magazine – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://thefeature.net/" class="link" target="_blank"&gt;The Feature&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://thebrief.io/" class="link" target="_blank"&gt;The Brief&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (Use promo code 5by5 for 50% off first month), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (Use code DANSENTME for 10% off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (Use code DANSENTME10 for 10% off), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:30:52</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss Marco's new app, The Magazine.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss Marco's new app, The Magazine.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 98: It's Part of Me Now</title>
+                    <link>http://5by5.tv/buildanalyze/98</link>
+                    <guid>http://5by5.tv/buildanalyze/98</guid>
+                    <pubDate>Mon, 08 Oct 2012 19:15:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss non-U.S. universities on CVs, which old iOS devices to keep for testing, prototyping new ideas, why Marco's still not using storyboards, ARC, Core Data, or autolayout, and the boom of relevance and activity on App.net since Netbot's release.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-098.mp3" length="39680788" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss non-U.S. universities on CVs, which old iOS devices to keep for testing, prototyping new ideas, why Marco's still not using storyboards, ARC, Core Data, or autolayout, and the boom of relevance and activity on App.net since Netbot's release.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard" class="link" target="_blank"&gt;Payment Card Industry Data Security Standard - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://helpspot.com/5by5"&gt;HelpSpot&lt;/a&gt; (use offer code 5by5 for $100 off), &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use code DANSENTME for 10% off), &lt;a href="http://sourcebits.com"&gt;Sourcebits&lt;/a&gt;, and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:22:06</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss non-U.S. universities on CVs, which old iOS devices to keep for testing, prototyping new ideas, why Marco's still not using storyboards, ARC, Core Data, or autolayout, and the boom of relevance and activity on App.net.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss non-U.S. universities on CVs, which old iOS devices to keep for testing, prototyping new ideas, why Marco's still not using storyboards, ARC, Core Data, or autolayout, and the boom of relevance and activity on App.net since Netbot's release.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 97: Grapefruits Everywhere</title>
+                    <link>http://5by5.tv/buildanalyze/97</link>
+                    <guid>http://5by5.tv/buildanalyze/97</guid>
+                    <pubDate>Mon, 01 Oct 2012 16:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-097.mp3" length="36298457" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://reviewtimes.shinydevelopment.com/" class="link" target="_blank"&gt;Average App Store Review Times&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://itunes.apple.com/us/app/5by5-radio/id553498407?mt=12&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A" class="link" target="_blank"&gt;Mac App Store - 5by5 Radio&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use code DANSENTME10 for 30% off any package), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use code DANSENTME10 for 10% off), &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt; (three months free on signup), and &lt;a href="http://cachefly.com"&gt;CacheFly&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:15:03</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss Nests, Mac App Store review times, iOS 6 upgrades, non-Retina support, managing servers for app back-ends, and whether perpetual app maintenance is necessary.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 96: Sandwich With A Slot</title>
+                    <link>http://5by5.tv/buildanalyze/96</link>
+                    <guid>http://5by5.tv/buildanalyze/96</guid>
+                    <pubDate>Mon, 24 Sep 2012 16:45:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-096.mp3" length="35213432" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://david-smith.org/iosversionstats/" class="link" target="_blank"&gt;iOS Version Stats - David Smith&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.theverge.com/2012/9/21/3367602/iphone-5-lte-markets-cities" class="link" target="_blank"&gt;Here&amp;#x27;s where to get LTE on your iPhone 5 | The Verge&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.macrumors.com/2012/09/21/verizon-iphone-5-confirmed-to-be-unlocked-on-gsm-3g-networks/" class="link" target="_blank"&gt;Verizon iPhone 5 Confirmed to Be Unlocked on GSM 3G Networks - Mac Rumors&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://allthingsd.com/20120921/iphone-5-a-hit-based-on-key-line-length-metric/" class="link" target="_blank"&gt;Longer Lines Outside Apple Stores Show iPhone 5 Is a Hit - John Paczkowski - Mobile - AllThingsD&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, &lt;a href="http://getharvest.com/5by5"&gt;Harvest&lt;/a&gt; (use code 5by5 for 50% off first month), &lt;a href="http://gazelle.com/"&gt;Gazelle&lt;/a&gt;, and &lt;a href="http://mailchimp.com/5by5"&gt;MailChimp&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:12:47</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees, and the economics of limited-edition apps.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss initial impressions of the iPhone 5, rapid iOS 6 adoption and when it may be safe to require it, Feedburner's demise, B.S. in Computer Science degrees versus related degrees with lower math and theory requirements, and the economics of limited-edition apps.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 95: This Unicorn Doesn't Support NFC</title>
+                    <link>http://5by5.tv/buildanalyze/95</link>
+                    <guid>http://5by5.tv/buildanalyze/95</guid>
+                    <pubDate>Thu, 20 Sep 2012 17:00:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss iOS 6 for users and developers, adding iPhone 5 compatibility, the iPhone 5's name, unreasonable press reactions, Google's J2ObjC compiler, how embarrassingly easy it is to support VoiceOver (yet so many apps still mess it up), and why paid app-review priority upgrades would backfire.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-095.mp3" length="41121298" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss iOS 6 for users and developers, adding iPhone 5 compatibility, the iPhone 5's name, unreasonable press reactions, Google's J2ObjC compiler, how embarrassingly easy it is to support VoiceOver (yet so many apps still mess it up), and why paid app-review priority upgrades would backfire.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://code.google.com/p/j2objc/" class="link" target="_blank"&gt;j2objc - A Java to iOS Objective-C translation tool and runtime. - Google Project Hosting&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers" class="link" target="_blank"&gt;iPhone 5 and iOS 6 for HTML5 developers, a big step forward: web inspector, new APIs and more | Breaking the Mobile Web&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.apple.com/ios/whats-new/" class="link" target="_blank"&gt;Apple - iOS 6 - iPhone, iPad, and iPod touch get 200+ new features.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.zdnet.com/hello-ios-6-goodbye-ipad-1-inject-new-life-by-jailbreaking-it-7000004072/" class="link" target="_blank"&gt;Hello iOS 6, goodbye iPad 1: Inject new life by jailbreaking it | ZDNet&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://discussions.apple.com/thread/4021938?start=0&amp;amp;tstart=0" class="link" target="_blank"&gt;ios 6 not compatible for ipad 1?, ios 6...: Apple Support Communities&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://david-smith.org/blog/2012/09/20/implementing-smart-app-banners/" class="link" target="_blank"&gt;Implementing Smart App Banners - David Smith&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/inbeta/16" class="link" target="_blank"&gt;5by5 | In Beta #16: Vampires Nesting&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://teamtreehouse.com/join/5by5"&gt;Treehouse&lt;/a&gt;, &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt;, &lt;a href="http://hover.com/dansentme"&gt;Hover.com&lt;/a&gt; (coupon code DANSENTME for 10% off), and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace.com&lt;/a&gt; (coupon code DANSENTME9 for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:25:06</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss iOS 6, adding iPhone 5 compatibility, the iPhone 5's name, unreasonable press reactions, Google's J2ObjC compiler, how easy it is to support VoiceOver, and why paid app-review priority upgrades would backfire.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss iOS 6 for users and developers, adding iPhone 5 compatibility, the iPhone 5's name, unreasonable press reactions, Google's J2ObjC compiler, how embarrassingly easy it is to support VoiceOver (yet so many apps still mess it up), and why paid app-review priority upgrades would backfire.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 94: Everything Would Cut You</title>
+                    <link>http://5by5.tv/buildanalyze/94</link>
+                    <guid>http://5by5.tv/buildanalyze/94</guid>
+                    <pubDate>Mon, 10 Sep 2012 17:00:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss Amazon's new Kindles, the differing goals of Apple and Amazon, why the tablet market is so different from the PC market and who stands to win and lose, the Enlight 7237, and the longevity of open APIs.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-094.mp3" length="46049029" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss Amazon's new Kindles, the differing goals of Apple and Amazon, why the tablet market is so different from the PC market and who stands to win and lose, the Enlight 7237, and the longevity of open APIs.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.neima.com/en7237mod01.shtml" class="link" target="_blank"&gt;Neima.com&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.readwriteweb.com/archives/twitter_open_platform_advantage.php" class="link" target="_blank"&gt;Twitter&amp;#x27;s Open Platform Advantage&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://gazelle.com"&gt;Gazelle&lt;/a&gt;, &lt;a href="http://www.shutterstock.com"&gt;Shutterstock&lt;/a&gt; (use coupon DANSENTME9 for 30% off), and &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use coupon DANSENTME for 10% off)&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:35:22</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss Amazon's new Kindles, the differing goals of Apple and Amazon, why the tablet market is so different from the PC market and who stands to win and lose, the Enlight 7237, and the longevity of open APIs.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss Amazon's new Kindles, the differing goals of Apple and Amazon, why the tablet market is so different from the PC market and who stands to win and lose, the Enlight 7237, and the longevity of open APIs.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 93: One Donkey Walking In A Circle</title>
+                    <link>http://5by5.tv/buildanalyze/93</link>
+                    <guid>http://5by5.tv/buildanalyze/93</guid>
+                    <pubDate>Mon, 03 Sep 2012 17:15:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>In this episode of the longest-running 5by5 show, Dan and Marco discuss TextMate (of course), business developer account migrations and DUNS numbers, the immense value of Apple's retail stores, creating a brand before its apps, healthcare and taxes, and Instapaper browser extensions.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-093.mp3" length="47698720" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;In this episode of the longest-running 5by5 show, Dan and Marco discuss TextMate (of course), business developer account migrations and DUNS numbers, the immense value of Apple's retail stores, creating a brand before its apps, healthcare and taxes, and Instapaper browser extensions.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://marcorumors.com/" class="link" target="_blank"&gt;MarcoRumors&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Apple_Store" class="link" target="_blank"&gt;Apple Store - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.youtube.com/watch?v=OJtQeMHGrgc" class="link" target="_blank"&gt;Apple - Steve Jobs introduces the first Apple Store Retail 2001 - YouTube&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.bbc.co.uk/news/business-14584428" class="link" target="_blank"&gt;BBC News - Hewlett Packard to exit computing and buy Autonomy&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.smh.com.au/digital-life/digital-life-news/store-wars-samsung-apple-gadgets-at-10-paces-20120823-24njn.html" class="link" target="_blank"&gt;Samsung store looks like Apple store&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://questions.medicare.gov/faq.php?id=5007&amp;amp;faqId=3967" class="link" target="_blank"&gt;Medicare: FAQs&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.mightydeals.com/?5by5"&gt;Mighty Deals&lt;/a&gt;, &lt;a href="http://www.sourcebits.com"&gt;Sourcebits&lt;/a&gt;, &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use coupon DANSENTME9 for 10% off), and &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use coupon DANSENTME for 10% off)&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:38:48</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss TextMate, business developer account migrations and DUNS numbers, the value of Apple's retail stores, creating a brand before its apps, healthcare and taxes, and Instapaper browser extensions.</itunes:subtitle>
+                    <itunes:summary>In this episode of the longest-running 5by5 show, Dan and Marco discuss TextMate (of course), business developer account migrations and DUNS numbers, the immense value of Apple's retail stores, creating a brand before its apps, healthcare and taxes, and Instapaper browser extensions.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 92: The Risk Of Broken Promises</title>
+                    <link>http://5by5.tv/buildanalyze/92</link>
+                    <guid>http://5by5.tv/buildanalyze/92</guid>
+                    <pubDate>Mon, 27 Aug 2012 16:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss abandoned software, Twitter's 100,000-token limit in practice, how Twitter and Dropbox would need to change to become $40 billion companies, revealing development plans in advance, Instapaper's operating-cost breakdown, and home network wiring.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-092.mp3" length="38148767" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss abandoned software, Twitter's 100,000-token limit in practice, how Twitter and Dropbox would need to change to become $40 billion companies, revealing development plans in advance, Instapaper's operating-cost breakdown, and home network wiring.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://5by5.tv/b2w/80" class="link" target="_blank"&gt;Back to Work #80: Cascading Wave of Bad&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://muleradio.net/thetalkshow/14/" class="link" target="_blank"&gt;The Talk Show #14: You’re Not Gonna Name Him Fuzzbutt&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.coreint.org/2012/08/episode-54-we-need-something-like-twitter/" class="link" target="_blank"&gt;Core Intuition #54: We Need Something Like Twitter&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://textastic.com"&gt;Textastic&lt;/a&gt; (50% off introductory price), &lt;a href="http://shopify.com/5by5"&gt;Shopify&lt;/a&gt;, and &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use coupon DANSENTME8 for 10% off)&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:18:54</itunes:duration>
+                    <itunes:subtitle>Dan and marco discuss abandoned software, Twitter's token limit and how they should change to become a $40 billion company, revealing development plans, Instapaper's operating costs, and home network wiring.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss abandoned software, Twitter's 100,000-token limit in practice, how Twitter and Dropbox would need to change to become $40 billion companies, revealing development plans in advance, Instapaper's operating-cost breakdown, and home network wiring.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 91: Quadrants</title>
+                    <link>http://5by5.tv/buildanalyze/91</link>
+                    <guid>http://5by5.tv/buildanalyze/91</guid>
+                    <pubDate>Mon, 20 Aug 2012 16:30:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss Twitter's controversial API-policy changes, why they want (and need) to enforce them, their incentives and motivations, why this is different from the App Store, decentralized solutions, and worms.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-091.mp3" length="41540070" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss Twitter's controversial API-policy changes, why they want (and need) to enforce them, their incentives and motivations, why this is different from the App Store, decentralized solutions, and worms.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.businessweek.com/ap/2012-08-20/facebook-stock-drops-below-19-half-of-ipo-price" class="link" target="_blank"&gt;Facebook stock drops below $19, half of IPO price - Businessweek&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Justin_Frankel" class="link" target="_blank"&gt;Justin Frankel - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Nullsoft" class="link" target="_blank"&gt;Nullsoft - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://support.verizonwireless.com/terms/products/getitnow.html" class="link" target="_blank"&gt;Get It Now® - Terms &amp;amp; Conditions - Verizon Wireless Support&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.kickstarter.com/projects/eallam/try-ios-iphone-app-development-course" class="link" target="_blank"&gt;Try iOS: iPhone App Development Course by Eric Allam — Kickstarter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2012/08/16/twitter-api-changes" class="link" target="_blank"&gt;Interpreting some of Twitter’s API changes – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://finance.yahoo.com/q?s=AAPL" class="link" target="_blank"&gt;AAPL: 662.69 +14.58 (+2.25%) : Apple Inc. - Yahoo! Finance&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://alpha.app.net/marco" class="link" target="_blank"&gt;marco on App.net&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://alpha.app.net/dan" class="link" target="_blank"&gt;dan on App.net&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://www.sourcebits.com"&gt;Sourcebits&lt;/a&gt;, &lt;a href="http://codeschool.com"&gt;Code School&lt;/a&gt;, &lt;a href="http://igloosoftware.com/5by5"&gt;Igloo Software&lt;/a&gt;, and &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use coupon DANSENTME for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:25:58</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss Twitter's controversial API-policy changes, why they want (and need) to enforce them, their incentives and motivations, why this is different from the App Store, decentralized solutions, and worms.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss Twitter's controversial API-policy changes, why they want (and need) to enforce them, their incentives and motivations, why this is different from the App Store, decentralized solutions, and worms.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Mac Power Users 99: Workflows with Marco Arment</title>
+                    <link>http://5by5.tv/mpu/99</link>
+                    <guid>http://5by5.tv/mpu/99</guid>
+                    <pubDate>Mon, 20 Aug 2012 02:30:00 GMT</pubDate>
+                    <author>David Sparks &amp; Katie Floyd</author>
+                    <description>David and Katie sit down with Marco Arment to discuss developing Instapaper, his Mac setup, development workflows and more.
+</description>
+                    <enclosure url="http://fdlyr.co/d/mpu/cdn.5by5.tv/audio/broadcasts/mpu/2012/mpu-099.mp3" length="54313731" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;David and Katie sit down with Marco Arment to discuss developing Instapaper, his Mac setup, development workflows and more.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.marco.org" class="link" target="_blank"&gt;Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.instapaper.com/" class="link" target="_blank"&gt;Instapaper&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://twitter.com/marcoarment" class="link" target="_blank"&gt;Marco on Twitter&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.news.me/" class="link" target="_blank"&gt;News.me&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.downcastapp.com/" class="link" target="_blank"&gt;Downcast&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://pinboard.in/" class="link" target="_blank"&gt;Pinboard&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/buildanalyze" class="link" target="_blank"&gt;Build and Analyze&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://5by5.tv/hypercritical/79" class="link" target="_blank"&gt;Hypercritical #79: Grandpa Uncle Joe]&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://www.dropbox.com/home" class="link" target="_blank"&gt;Dropbox&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.haystacksoftware.com/arq/" class="link" target="_blank"&gt;Arq | Haystack Software&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://www.crashplan.com/" class="link" target="_blank"&gt;Crashplan&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.backblaze.com" class="link" target="_blank"&gt;Backblaze&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2012/08/10/next-text-editor" class="link" target="_blank"&gt;My next text editor – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.sublimetext.com/" class="link" target="_blank"&gt;Sublime Text&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.chocolatapp.com/" class="link" target="_blank"&gt;Chocolat ‹ Text Editor for Mac&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.barebones.com/products/bbedit/" class="link" target="_blank"&gt;BBEdit 10&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://bywordapp.com/" class="link" target="_blank"&gt;Byword&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://informationarchitects.net/blog/writer-for-ipad/" class="link" target="_blank"&gt;iaWriter for iPad&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.noodlesoft.com/hazel.php" class="link" target="_blank"&gt;Hazel&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.acqualia.com/soulver/" class="link" target="_blank"&gt;Soulver&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.hogbaysoftware.com/products/taskpaper" class="link" target="_blank"&gt;Taskpaper&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Please Support our Sponsors:&lt;/p&gt;
+
+&lt;p&gt;The&#160;Omni Group
+&lt;a href="http://www.omnigroup.com/powerusers"&gt;We're passionate about productivity for Mac,&#160;iPhone&#160;and iPad&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fujitsu ScanSnap
+&lt;a href="http://www.ez.com/ssmpu"&gt; ScanSnap: Your productive, mobile, efficient, paperless life starts here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Drobo
+&lt;a href="http://www.drobo.com"&gt; Redefine your personal storage. &lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>David Sparks &amp; Katie Floyd</itunes:author>
+                    <itunes:duration>1:52:34</itunes:duration>
+                    <itunes:subtitle>David and Katie sit down with Marco Arment to discuss developing Instapaper, his Mac setup, development workflows and more. </itunes:subtitle>
+                    <itunes:summary>David and Katie sit down with Marco Arment to discuss developing Instapaper, his Mac setup, development workflows and more.
+</itunes:summary>
+                    <itunes:keywords>mac, apple, power user, productivity, workflows</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/25/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 90: This Person Isn't Really Here</title>
+                    <link>http://5by5.tv/buildanalyze/90</link>
+                    <guid>http://5by5.tv/buildanalyze/90</guid>
+                    <pubDate>Mon, 13 Aug 2012 17:45:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco discuss Sublime Text 2, TextMate 2's open-sourcing, App.net's funding and why Kickstarter-like campaigns can get a huge boost of funding at the end, the difficulty of having good presences on multiple social services and the effects of cross-posting, and allocating time for unpopular apps.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-090.mp3" length="38220658" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco discuss Sublime Text 2, TextMate 2's open-sourcing, App.net's funding and why Kickstarter-like campaigns can get a huge boost of funding at the end, the difficulty of having good presences on multiple social services and the effects of cross-posting, and allocating time for unpopular apps.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://www.sublimetext.com/2" class="link" target="_blank"&gt;Sublime Text - Download&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://blog.macromates.com/2012/textmate-2-at-github/" class="link" target="_blank"&gt;TextMate Blog » TextMate 2 at GitHub&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://github.com/textmate/textmate" class="link" target="_blank"&gt;textmate/textmate&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.gnu.org/copyleft/gpl.html" class="link" target="_blank"&gt;The GNU General Public License v3.0 - GNU Project - Free Software Foundation (FSF)&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.marco.org/2012/08/10/next-text-editor" class="link" target="_blank"&gt;My next text editor – Marco.org&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://developingperspective.com/" class="link" target="_blank"&gt;Developing Perspective&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://join.app.net/" class="link" target="_blank"&gt;Join the Movement - App.net&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://david-smith.org/apps/" class="link" target="_blank"&gt;Apps - David Smith&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://alpha.app.net/marco" class="link" target="_blank"&gt;marco on App.net&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="https://alpha.app.net/dan" class="link" target="_blank"&gt;dan on App.net&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://helpspot.com/5by5"&gt;HelpSpot&lt;/a&gt; (use coupon 5BY5 for $100 off), &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use coupon DANSENTME8 for 10% off), and &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use coupon DANSENTME for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:19:03</itunes:duration>
+                    <itunes:subtitle>Dan and Marco discuss Sublime Text 2, TextMate 2's open-sourcing, App.net's funding, the difficulty of presences on multiple social services, and allocating time for unpopular apps.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco discuss Sublime Text 2, TextMate 2's open-sourcing, App.net's funding and why Kickstarter-like campaigns can get a huge boost of funding at the end, the difficulty of having good presences on multiple social services and the effects of cross-posting, and allocating time for unpopular apps.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Build and Analyze 89: Giant Mushy Boat</title>
+                    <link>http://5by5.tv/buildanalyze/89</link>
+                    <guid>http://5by5.tv/buildanalyze/89</guid>
+                    <pubDate>Mon, 06 Aug 2012 18:00:00 GMT</pubDate>
+                    <author>Marco Arment &amp; Dan Benjamin</author>
+                    <description>Dan and Marco follow up on ergonomic keyboards and text editors, then discuss the appeal of the command line, AeroPress grind size, the Metro Style renaming, Hulu Plus, why Instapaper needs rate limiting and the challenge of finding an appropriate limit, and which apps give the best bang for the buck.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/buildanalyze/2012/buildanalyze-089.mp3" length="40861938" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco follow up on ergonomic keyboards and text editors, then discuss the appeal of the command line, AeroPress grind size, the Metro Style renaming, Hulu Plus, why Instapaper needs rate limiting and the challenge of finding an appropriate limit, and which apps give the best bang for the buck.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://arstechnica.com/information-technology/2012/08/microsoft-metro-out-windows-8-style-ui-in-amid-rumors-of-a-trademark-dispute/" class="link" target="_blank"&gt;Microsoft: “Metro” out, “Windows 8-style UI” in, amid rumors of a trademark dispute | Ars Technica&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Metro_AG" class="link" target="_blank"&gt;Metro AG - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://twitter.com/Silvano_D/status/232516205234241536" class="link" target="_blank"&gt;Twitter / Silvano_D: RT @tiffanyarment: Listening ...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://bigweek.co/2012/8/6/on-the-mobile-rig-today" class="link" target="_blank"&gt;On the Mobile Rig Today — Big Week&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://cinemagraphs.com/" class="link" target="_blank"&gt;Cinemagraph&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://pinboard.in/faq/#archival_limits" class="link" target="_blank"&gt;Pinboard: Frequently Asked Questions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.acqualia.com/soulver/" class="link" target="_blank"&gt;Soulver | Acqualia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://regexpal.com/" class="link" target="_blank"&gt;Regex Tester&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://myregextester.com/" class="link" target="_blank"&gt;My Regex Tester&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://itunes.apple.com/us/app/soulver/id413965349?mt=12&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y" class="link" target="_blank"&gt;Mac App Store - Soulver&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://itunes.apple.com/us/app/soulver-notepad-calculator/id348142037?mt=8&amp;amp;ls=1&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=" class="link" target="_blank"&gt;App Store - Soulver - the notepad calculator&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://itunes.apple.com/us/app/soulver-for-ipad/id371982536?mt=8&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=GfpxbBXXpXE-y3gfJGyOQcSr2tOpkzD12A&amp;amp;partnerId=30&amp;amp;siteID=Gfpxb" class="link" target="_blank"&gt;Soulver for iPad for iPad on the iTunes App Store&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://flixel.com"&gt;Flixel&lt;/a&gt;, &lt;a href="http://squarespace.com/5by5"&gt;Squarespace&lt;/a&gt; (use coupon DANSENTME8 for 10% off), and &lt;a href="http://hover.com/dansentme"&gt;Hover&lt;/a&gt; (use coupon DANSENTME for 10% off).&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Marco Arment &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:24:33</itunes:duration>
+                    <itunes:subtitle>Dan and Marco follow up on ergonomic keyboards and text editors, and more.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco follow up on ergonomic keyboards and text editors, then discuss the appeal of the command line, AeroPress grind size, the Metro Style renaming, Hulu Plus, why Instapaper needs rate limiting and the challenge of finding an appropriate limit, and which apps give the best bang for the buck.
+</itunes:summary>
+                    <itunes:keywords>iphone, ipad, ios, android, mobile, web, development, apple</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/14/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 205: After Hypercritical #79</title>
+                    <link>http://5by5.tv/afterdark/205</link>
+                    <guid>http://5by5.tv/afterdark/205</guid>
+                    <pubDate>Fri, 03 Aug 2012 19:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-205.mp3" length="10276863" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://ibird.com/" class="link" target="_blank"&gt;iBird | the world&amp;#x27;s best selling field guide app&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>20:32</itunes:duration>
+                    <itunes:subtitle>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.</itunes:subtitle>
+                    <itunes:summary>Dan Benjamin, Marco Arment, and Merlin Mann after Hypercritical episode 79.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>Hypercritical 79: Grandpa Uncle Joe</title>
+                    <link>http://5by5.tv/hypercritical/79</link>
+                    <guid>http://5by5.tv/hypercritical/79</guid>
+                    <pubDate>Fri, 03 Aug 2012 19:30:00 GMT</pubDate>
+                    <author>John Siracusa &amp; Dan Benjamin</author>
+                    <description>John Siracusa is on vacation this week, so we instead present its ersatz replacement, 'Kindacritical', with Dan Benjamin, Marco Arment, and Merlin Mann.
+</description>
+                    <enclosure url="http://d.5by5.net/redirect.mp3/cdn.5by5.tv/audio/broadcasts/hypercritical/2012/hypercritical-079.mp3" length="50213457" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;John Siracusa is on vacation this week, so we instead present its ersatz replacement, 'Kindacritical', with Dan Benjamin, Marco Arment, and Merlin Mann.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Macintosh_512K" class="link" target="_blank"&gt;Macintosh 512K - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Timpani" class="link" target="_blank"&gt;Timpani - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.70decibels.com/cmdspace/2012/8/1/001-im-yelling-at-me-with-merlin-mann.html" class="link" target="_blank"&gt;70Decibels - CMD+SPACE - 001 - I&amp;#x27;m Yelling At Me, With Merlin&#160;Mann&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.43folders.com/2008/12/01/courageous-sucking" class="link" target="_blank"&gt;Photography, and the Tolerance for Courageous Sucking | 43 Folders&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.tomshardware.com/news/September-9-iPhone-5-iPad-Mini-iOS-Apple,16568.html" class="link" target="_blank"&gt;Report: iPhone 5, iPad Mini Possible Debut on September 12&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.kungfugrippe.com/post/27963979021/sure-thanks-burst-mode" class="link" target="_blank"&gt;kung fu grippe • Sure. Thanks. Burst mode.&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.apple.com/iphone/features/siri-faq.html" class="link" target="_blank"&gt;Apple - Siri - Frequently Asked Questions&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.macworld.com/article/1167742/developers_dish_on_iclouds_challenges.html" class="link" target="_blank"&gt;Macworld: Developers dish on iCloud challenges&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Sponsored by &lt;a href="http://smilesoftware.com/5by5/"&gt;Smile&lt;/a&gt;, &lt;a href="http://mailchimp.com"&gt;MailChimp&lt;/a&gt;, and &lt;a href="http://shopify.com"&gt;Shopify&lt;/a&gt;.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>John Siracusa &amp; Dan Benjamin</itunes:author>
+                    <itunes:duration>1:44:02</itunes:duration>
+                    <itunes:subtitle>John Siracusa is on vacation this week, so we instead present its ersatz replacement, 'Kindacritical', with Dan Benjamin, Marco Arment, and Merlin Mann.</itunes:subtitle>
+                    <itunes:summary>John Siracusa is on vacation this week, so we instead present its ersatz replacement, 'Kindacritical', with Dan Benjamin, Marco Arment, and Merlin Mann.
+</itunes:summary>
+                    <itunes:keywords>siracusa, ars technica, tech, geek, apple, mac, sci-fi</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/18/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 203: After Build and Analyze #88</title>
+                    <link>http://5by5.tv/afterdark/203</link>
+                    <guid>http://5by5.tv/afterdark/203</guid>
+                    <pubDate>Mon, 30 Jul 2012 17:15:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan Benjamin and Marco Arment after Build and Analyze episode 88.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-203.mp3" length="10729767" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan Benjamin and Marco Arment after Build and Analyze episode 88.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>21:29</itunes:duration>
+                    <itunes:subtitle>Dan Benjamin and Marco Arment after Build and Analyze episode 88.</itunes:subtitle>
+                    <itunes:summary>Dan Benjamin and Marco Arment after Build and Analyze episode 88.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 193: Grillin' with Marco and Dan</title>
+                    <link>http://5by5.tv/afterdark/193</link>
+                    <guid>http://5by5.tv/afterdark/193</guid>
+                    <pubDate>Mon, 16 Jul 2012 18:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan shares his steak grilling tips with Marco Arment after Build and Analyze episode 86.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-193.mp3" length="9051243" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan shares his steak grilling tips with Marco Arment after Build and Analyze episode 86.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>17:59</itunes:duration>
+                    <itunes:subtitle>Dan shares his steak grilling tips with Marco Arment after Hypercritical episode 86.</itunes:subtitle>
+                    <itunes:summary>Dan shares his steak grilling tips with Marco Arment after Build and Analyze episode 86.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 185: After Build and Analyze #84</title>
+                    <link>http://5by5.tv/afterdark/185</link>
+                    <guid>http://5by5.tv/afterdark/185</guid>
+                    <pubDate>Mon, 02 Jul 2012 19:15:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco after Build and Analyze episode 84.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-185.mp3" length="9344650" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco after Build and Analyze episode 84.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Magsafe" class="link" target="_blank"&gt;MagSafe - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>18:35</itunes:duration>
+                    <itunes:subtitle>Dan and Marco after Build and Analyze episode 84.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco after Build and Analyze episode 84.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 180: After Build and Analyze #83</title>
+                    <link>http://5by5.tv/afterdark/180</link>
+                    <guid>http://5by5.tv/afterdark/180</guid>
+                    <pubDate>Mon, 25 Jun 2012 18:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan Benjamin and Marco Arment after Build and Analyze episode 83.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-180.mp3" length="12763347" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan Benjamin and Marco Arment after Build and Analyze episode 83.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>25:43</itunes:duration>
+                    <itunes:subtitle>Dan Benjamin and Marco Arment after Build and Analyze episode 83.</itunes:subtitle>
+                    <itunes:summary>Dan Benjamin and Marco Arment after Build and Analyze episode 83.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 169: After Build and Analyze #80</title>
+                    <link>http://5by5.tv/afterdark/169</link>
+                    <guid>http://5by5.tv/afterdark/169</guid>
+                    <pubDate>Mon, 04 Jun 2012 19:00:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco after Build and Analyze episode 80.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-169.mp3" length="4965482" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco after Build and Analyze episode 80.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>9:28</itunes:duration>
+                    <itunes:subtitle>Dan and Marco after Build and Analyze episode 80.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco after Build and Analyze episode 80.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 163: After Build and Analyze #79</title>
+                    <link>http://5by5.tv/afterdark/163</link>
+                    <guid>http://5by5.tv/afterdark/163</guid>
+                    <pubDate>Tue, 29 May 2012 18:15:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco after Build and Analyze episode 79.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-163.mp3" length="14518149" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco after Build and Analyze episode 79.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://9to5mac.files.wordpress.com/2012/05/forntglass9to5.png" class="link" target="_blank"&gt;forntglass9to5.png 1,673×990 pixels&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://en.wikipedia.org/wiki/Power_Mac_G5" class="link" target="_blank"&gt;Power Mac G5 - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://dev.mysql.com/doc/refman/5.0/en/what-is-mysql.html" class="link" target="_blank"&gt;MySQL :: MySQL 5.0 Reference Manual :: 1.3.1 What is MySQL?&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>29:22</itunes:duration>
+                    <itunes:subtitle>Dan and Marco after Build and Analyze episode 79.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco after Build and Analyze episode 79.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 159: After Build and Analyze #78</title>
+                    <link>http://5by5.tv/afterdark/159</link>
+                    <guid>http://5by5.tv/afterdark/159</guid>
+                    <pubDate>Mon, 21 May 2012 20:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco talk after Build and Analyze episode 78.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-159.mp3" length="17769658" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco talk after Build and Analyze episode 78.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="https://twitter.com/#!/fporknhoj/status/204457840247709696" class="link" target="_blank"&gt;1 series has 2 cup holders&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>36:09</itunes:duration>
+                    <itunes:subtitle>Dan and Marco talk after Build and Analyze episode 78.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco talk after Build and Analyze episode 78.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 155: After Build and Analyze #77</title>
+                    <link>http://5by5.tv/afterdark/155</link>
+                    <guid>http://5by5.tv/afterdark/155</guid>
+                    <pubDate>Mon, 14 May 2012 20:45:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Marco and Dan talk after Build and Analyze episode 77.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-155.mp3" length="14220140" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Marco and Dan talk after Build and Analyze episode 77.&lt;/p&gt;
+&lt;p&gt;Links for this episode:&lt;/p&gt;&lt;h4&gt;&lt;a href="http://twitpic.com/9kg9eb" class="link" target="_blank"&gt;BMW 135 Cup Holder&lt;/a&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href="http://www.etsy.com/listing/98727038/beech-wood-ruler-growth-chart-engraved" class="link" target="_blank"&gt;Wood Ruler Growth Chart&lt;/a&gt;&lt;/h4&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>28:45</itunes:duration>
+                    <itunes:subtitle>Marco and Dan talk after Build and Analyze episode 77.</itunes:subtitle>
+                    <itunes:summary>Marco and Dan talk after Build and Analyze episode 77.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 151: After Build and Analyze #76</title>
+                    <link>http://5by5.tv/afterdark/151</link>
+                    <guid>http://5by5.tv/afterdark/151</guid>
+                    <pubDate>Mon, 07 May 2012 19:00:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco talk after Build and Analyze episode 76.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-151.mp3" length="15283637" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco talk after Build and Analyze episode 76.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>30:58</itunes:duration>
+                    <itunes:subtitle>Dan and Marco talk after Build and Analyze episode 76.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco talk after Build and Analyze episode 76.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 148: After Build and Analyze #75</title>
+                    <link>http://5by5.tv/afterdark/148</link>
+                    <guid>http://5by5.tv/afterdark/148</guid>
+                    <pubDate>Mon, 30 Apr 2012 18:30:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco talk after Build and Analyze episode 75.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-148.mp3" length="7379072" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco talk after Build and Analyze episode 75.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>14:30</itunes:duration>
+                    <itunes:subtitle>Dan and Marco talk after Build and Analyze episode 75.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco talk after Build and Analyze episode 75.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 142: After Build and Analyze #73</title>
+                    <link>http://5by5.tv/afterdark/142</link>
+                    <guid>http://5by5.tv/afterdark/142</guid>
+                    <pubDate>Mon, 16 Apr 2012 20:30:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco talk after Build and Analyze episode 73.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-142.mp3" length="11575424" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco talk after Build and Analyze episode 73.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>23:14</itunes:duration>
+                    <itunes:subtitle>Dan and Marco talk after Build and Analyze episode 73.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco talk after Build and Analyze episode 73.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+                <item>
+                    <title>After Dark 137: After Build and Analyze #72</title>
+                    <link>http://5by5.tv/afterdark/137</link>
+                    <guid>http://5by5.tv/afterdark/137</guid>
+                    <pubDate>Mon, 09 Apr 2012 20:30:00 GMT</pubDate>
+                    <author>Dan Benjamin</author>
+                    <description>Dan and Marco talk after Build and Analyze episode 72.
+</description>
+                    <enclosure url="http://fdlyr.co/d/afterdark/cdn.5by5.tv/audio/broadcasts/afterdark/2012/afterdark-137.mp3" length="17621120" type="audio/mpeg"/>
+                    <content:encoded>&lt;p&gt;Dan and Marco talk after Build and Analyze episode 72.&lt;/p&gt;
+</content:encoded>
+                    <itunes:author>Dan Benjamin</itunes:author>
+                    <itunes:duration>35:50</itunes:duration>
+                    <itunes:subtitle>Dan and Marco talk after Build and Analyze episode 72.</itunes:subtitle>
+                    <itunes:summary>Dan and Marco talk after Build and Analyze episode 72.
+</itunes:summary>
+                    <itunes:keywords>after dark, outtakes, unedited, uncensored</itunes:keywords>
+                    <itunes:image href="http://icebox.5by5.tv/images/broadcasts/22/cover.jpg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

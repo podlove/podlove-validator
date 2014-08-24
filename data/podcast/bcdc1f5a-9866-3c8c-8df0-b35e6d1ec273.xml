@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:29:12 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.4.30"/>
+        <httpclient:header name="X-Pingback" value="http://52roads.com/xmlrpc.php"/>
+        <httpclient:header name="ETag" value="&#34;2faf03779f105d8d64274bd2ccb89e42&#34;"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Last-Modified" value="Sat, 26 Jul 2014 10:53:54 GMT"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:psc="http://podlove.org/simple-chapters" xmlns:fh="http://purl.org/syndication/history/1.0" version="2.0">
+            <channel>
+                <title>52 Roads</title>
+                <link>http://52roads.com</link>
+                <description>Roadies talk (sometimes english, sometimes german)</description>
+                <lastBuildDate>Sat, 26 Jul 2014 10:53:54 +0000</lastBuildDate>
+                <atom:link rel="self" type="application/rss+xml" title="52 Roads (aac)" href="http://52roads.com/feed/aac/"/>
+                <atom:link rel="alternate" type="application/rss+xml" title="52 Roads (mp3)" href="http://52roads.com/feed/mp3/"/>
+                <atom:link rel="first" href="http://52roads.com/feed/aac/"/>
+                <language>en-US</language>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=cmock&amp;popout=1&amp;url=http%3A%2F%2F52roads.com%2F&amp;language=en_US&amp;category=audio&amp;title=52roads&amp;description=Roadies+talk&amp;tags=Podcast%2C+Road%2C+Crew%2C+Music%2C+Concerts%2C+Tour%2C+Roadie%2C+Rock%27n%27roll%2C+Work" type="text/html"/>
+                <generator>Podlove Podcast Publisher v1.10.13-alpha</generator>
+                <itunes:author>Chris Mock</itunes:author>
+                <itunes:summary>This is a podcast for people on the road, made by people on the road. No matter if truck loader, merch guy or sound engineer - they all work in the mysterious rock'n'roll business and have a story to tell. And you have time to listen while sitting in a bloody tour bus! </itunes:summary>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:category text="Business">
+                    <itunes:category text="Careers"/>
+                </itunes:category>
+                <itunes:owner>
+                    <itunes:name>Chris Mock</itunes:name>
+                    <itunes:email>post@mocksounddesign.de</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://www.52roads.com/pics/52roadslogo.jpg"/>
+                <itunes:subtitle>Roadies talk (sometimes english, sometimes german)</itunes:subtitle>
+                <itunes:keywords>Road, Crew, Music, Concerts, Tour, Roadie, Rock'n'roll, Work</itunes:keywords>
+                <itunes:block>no</itunes:block>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>52RDS0002 Allex Veldman</title>
+                    <link>http://52roads.com/52rds0002-allex-veldman/</link>
+                    <pubDate>Tue, 01 Jul 2014 23:59:57 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-07-01t23:56:40+00:00-bec17f37d58ee12</guid>
+                    <description>I was in Deventer and talked to Allex, who was the monitor engineer at the Burgrweeshuis. He’s a volunteer and did a great job so I asked him to tell me his story. 
+He’s studying electrical engineering and works as a sound engineer. With the combined knowledge of those different fields he also built some hand wired audio effects. Have a listen!</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=cmock&amp;popout=1&amp;url=http%3A%2F%2F52roads.com%2F52rds0002-allex-veldman%2F&amp;language=en_GB&amp;category=audio&amp;title=52RDS0002+Allex+Veldman&amp;description=%26nbsp%3B+I+was+in+Deventer+and+talked+to+Allex%2C+who+was+the+monitor+engineer+at+the+Burgrweeshuis.+He%E2%80%99s+a+volunteer+and+did+a+great+job+so+I+asked+him+to...&amp;tags=Analog%2CDeventer%2CDigital%2CEffects%2CElectrical+Engineering%2CHipass%2CHolland%2CMonitor+Engineer%2CMonitors%2CSidefills%2CSound+Engineer%2CPodcast%2C+Road%2C+Crew%2C+Music%2C+Concerts%2C+Tour%2C+Roadie%2C+Rock%27n%27roll%2C+Work" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://52roads.com/52rds0002-allex-veldman/#"/>
+                    <enclosure url="http://52roads.s3.amazonaws.com/52rds0002.m4a" length="29443029" type="audio/mp4"/>
+                    <itunes:duration>00:19:51</itunes:duration>
+                    <itunes:author>Chris Mock</itunes:author>
+                    <itunes:subtitle>Allex Veldmann, Monitor Engineer &amp; Student</itunes:subtitle>
+                    <itunes:summary>I was in Deventer and talked to Allex, who was the monitor engineer at the Burgrweeshuis. He’s a volunteer and did a great job so I asked him to tell me his story. 
+He’s studying electrical engineering and works as a sound engineer. With the combined knowledge of those different fields he also built some hand wired audio effects. Have a listen!</itunes:summary>
+                </item>
+                <item>
+                    <title>52RDS0001 Marc Hudson</title>
+                    <link>http://52roads.com/52rds0001-marc-hudson/</link>
+                    <pubDate>Wed, 25 Jun 2014 12:00:08 +0000</pubDate>
+                    <guid isPermaLink="false">podlove-2014-06-25t11:39:36+00:00-fb79ec765074a33</guid>
+                    <description>This is the first episode of 52roads. Please ignore my crapy english. I was really excited and nervous like hell! I promise to get better. The german episodes will be easier, I guess.
+
+I met Marc during a tour weekend at Rock am Ring and Rock im Park. He was mixing Against Me! twice just before I was the next guy on the desk.
+I talked to him about his job, how he became a sound engineer and tour manager and asked him about a special mic I found at the drums set of Against Me!'s drummer.</description>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=cmock&amp;popout=1&amp;url=http%3A%2F%2F52roads.com%2F52rds0001-marc-hudson%2F&amp;language=en_GB&amp;category=audio&amp;title=52RDS0001+Marc+Hudson&amp;description=%26nbsp%3B+This+is+the+first+episode+of+52roads.+Please+ignore+my+crapy+english.+I+was+really+excited+and+nervous+like+hell%21+I+promise+to+get+better.+The+german+episodes+will...&amp;tags=Against+Me%21%2CMarc+Hudson%2CRock+am+Ring%2CRock+im+Park%2CSound+Engineer%2CTour+Manager%2CPodcast%2C+Road%2C+Crew%2C+Music%2C+Concerts%2C+Tour%2C+Roadie%2C+Rock%27n%27roll%2C+Work" type="text/html"/>
+                    <atom:link rel="http://podlove.org/deep-link" href="http://52roads.com/52rds0001-marc-hudson/#"/>
+                    <enclosure url="http://52roads.s3.amazonaws.com/52rds0001.m4a" length="13035649" type="audio/mp4"/>
+                    <itunes:duration>00:08:39</itunes:duration>
+                    <itunes:author>Chris Mock</itunes:author>
+                    <itunes:subtitle>Marc Hudson, Sound Engineer &amp; Tour Manager</itunes:subtitle>
+                    <itunes:summary>This is the first episode of 52roads. Please ignore my crapy english. I was really excited and nervous like hell! I promise to get better. The german episodes will be easier, I guess.
+
+I met Marc during a tour weekend at Rock am Ring and Rock im Park. He was mixing Against Me! twice just before I was the next guy on the desk.
+I talked to him about his job, how he became a sound engineer and tour manager and asked him about a special mic I found at the drums set of Against Me!'s drummer.</itunes:summary>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

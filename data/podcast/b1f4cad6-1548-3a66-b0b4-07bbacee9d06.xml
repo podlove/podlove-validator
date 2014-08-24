@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, max-age=57"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:43:58 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:42:58 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:42:59 GMT"/>
+        <httpclient:header name="Content-Length" value="18407"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/17155</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/17155" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:42:58 GMT</lastBuildDate>
+                <image>
+                    <title>Luuk &amp; Lokko</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4296</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4296/2143979_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Luuk &amp; Lokko är ett schemalagt veckosamtal där Kristian Luuk och Andres Lokko pratar med varandra om ämnen som de har bestämt på förhand. Vissa infall kan förekomma men de kommer att vara ytterst tyglade samt relativt få.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Luuk &amp; Lokko</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Luuk &amp; Lokko</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4296</link>
+                <description>Luuk &amp; Lokko är ett schemalagt veckosamtal där Kristian Luuk och Andres Lokko pratar med varandra om ämnen som de har bestämt på förhand. Vissa infall kan förekomma men de kommer att vara ytterst tyglade samt relativt få.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Luuk och Lokko S02E10</title>
+                    <description>Det om det vi inte fick reda på. Med Belinda Olsson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4305550.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_121213_bc03.mp3</guid>
+                    <pubDate>Thu, 13 Dec 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om det vi inte fick reda på. Med Belinda Olsson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4305550.mp3" length="66389612" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E09</title>
+                    <description>Det om framtiden, ensamhet samt lakritsshots.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4178794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_121004_dd1a.mp3</guid>
+                    <pubDate>Thu, 04 Oct 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om framtiden, ensamhet samt lakritsshots.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E09</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4178794.mp3" length="44448363" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E08</title>
+                    <description>Det om konflikträdsla, Norrtälje samt, märkligt nog, onani.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4168064.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120927_d9ea.mp3</guid>
+                    <pubDate>Thu, 27 Sep 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om konflikträdsla, Norrtälje samt, märkligt nog, onani.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E08</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4168064.mp3" length="44217678" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E07</title>
+                    <description>Det om skilsmässor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4155052.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120920_df96.mp3</guid>
+                    <pubDate>Thu, 20 Sep 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om skilsmässor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E07</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4155052.mp3" length="51011942" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E06</title>
+                    <description>Det om mamma, Korea-kriget samt operation märkning.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4142233.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120913_e2e7.mp3</guid>
+                    <pubDate>Thu, 13 Sep 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om mamma, Korea-kriget samt operation märkning.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E06</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4142233.mp3" length="46193355" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E05</title>
+                    <description>Det om då, Fredrik Strage och om det bästa redan har hänt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4129253.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120906_d712.mp3</guid>
+                    <pubDate>Thu, 06 Sep 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om då, Fredrik Strage och om det bästa redan har hänt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E05</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4129253.mp3" length="48164882" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S03E04</title>
+                    <description>Det om döden.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4116986.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120830_ddce.mp3</guid>
+                    <pubDate>Thu, 30 Aug 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om döden.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S03E04</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4116986.mp3" length="45156322" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E03</title>
+                    <description>Det om kolesterolvärde, Bodd och estniska girlgroups.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4105779.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120823_9338.mp3</guid>
+                    <pubDate>Thu, 23 Aug 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om kolesterolvärde, Bodd och estniska girlgroups.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E03</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4105779.mp3" length="44099383" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E02</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4092195.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120816_d1d4.mp3</guid>
+                    <pubDate>Thu, 16 Aug 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E02</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4092195.mp3" length="42276955" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko S02E01</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4082028.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120809_a117.mp3</guid>
+                    <pubDate>Thu, 09 Aug 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,S02E01</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4082028.mp3" length="41091205" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #10</title>
+                    <description>Det om Christofers kloka brev, sömn samt the Space Needle.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3886876.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120419_e106.mp3</guid>
+                    <pubDate>Thu, 19 Apr 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om Christofers kloka brev, sömn samt the Space Needle.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#10</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3886876.mp3" length="44478354" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #9</title>
+                    <description>Det om adressetiketter, Kristus samt kända vänner.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3874182.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120412_deb0.mp3</guid>
+                    <pubDate>Thu, 12 Apr 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om adressetiketter, Kristus samt kända vänner.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#9</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3874182.mp3" length="43700941" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #8</title>
+                    <description>Det om en dröm om Tomas Ledin, kohupiimakook samt Jack Nicholson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3863511.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120405_dca2.mp3</guid>
+                    <pubDate>Thu, 05 Apr 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om en dröm om Tomas Ledin, kohupiimakook samt Jack Nicholson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#8</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3863511.mp3" length="47011193" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #7</title>
+                    <description>Det om Los Angeles, Kristians motvilja att resa samt systrarna Haim</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3850575.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120329_cf80.mp3</guid>
+                    <pubDate>Thu, 29 Mar 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om Los Angeles, Kristians motvilja att resa samt systrarna Haim</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#7</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3850575.mp3" length="43259593" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #6</title>
+                    <description>Det där Helena Backheds namn rättas till Helena Bäckhed, sorg samt kexchoklad.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3838196.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120322_dd70.mp3</guid>
+                    <pubDate>Thu, 22 Mar 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det där Helena Backheds namn rättas till Helena Bäckhed, sorg samt kexchoklad.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#6</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3838196.mp3" length="43909531" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #5</title>
+                    <description>Det som utgår ifrån Helena Backheds brev.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3825574.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120315_e0a3.mp3</guid>
+                    <pubDate>Thu, 15 Mar 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det som utgår ifrån Helena Backheds brev.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#5</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3825574.mp3" length="41308534" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #4</title>
+                    <description>Det om tunt hår, nya krämpor samt Paul Weller.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3812450.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120308_d694.mp3</guid>
+                    <pubDate>Thu, 08 Mar 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om tunt hår, nya krämpor samt Paul Weller.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#4</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3812450.mp3" length="45420002" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #3</title>
+                    <description>Det om Latinamerikanska sitcoms, Ghana samt barnvagnsköp.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3799237.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120301_da16.mp3</guid>
+                    <pubDate>Thu, 01 Mar 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om Latinamerikanska sitcoms, Ghana samt barnvagnsköp.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3799237.mp3" length="47708339" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #2</title>
+                    <description>Det om bordshockey, att bli förälder och Gil Scott-Heron.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3784746.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120223_d555.mp3</guid>
+                    <pubDate>Thu, 23 Feb 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Det om bordshockey, att bli förälder och Gil Scott-Heron.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#2</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3784746.mp3" length="42656466" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Luuk och Lokko #1</title>
+                    <description>Luuk &amp; Lokko är ett schemalagt veckosamtal i poddradio-format där Kristian Luuk och Andres Lokko pratar med varandra om ämnen som de har bestämt på förhand. Vissa infall kan förekomma men de kommer att vara ytterst tyglade samt relativt få.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3771335.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_luuklokko_120216_d5b4.mp3</guid>
+                    <pubDate>Thu, 16 Feb 2012 02:00:00 GMT</pubDate>
+                    <programid>4296</programid>
+                    <poddid>17155</poddid>
+                    <itunes:summary>Luuk &amp; Lokko är ett schemalagt veckosamtal i poddradio-format där Kristian Luuk och Andres Lokko pratar med varandra om ämnen som de har bestämt på förhand. Vissa infall kan förekomma men de kommer att vara ytterst tyglade samt relativt få.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Luuk,&amp;,LokkoLuuk,och,Lokko,#1</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3771335.mp3" length="40383787" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

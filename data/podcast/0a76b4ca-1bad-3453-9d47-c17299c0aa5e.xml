@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Access-Control-Allow-Origin" value="*"/>
+        <httpclient:header name="X-Cache-Info" value="caching"/>
+        <httpclient:header name="Cache-Control" value="max-age=474"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:41:30 GMT"/>
+        <httpclient:header name="Transfer-Encoding" value="chunked"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+        <httpclient:header name="Connection" value="Transfer-Encoding"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:smil="http://www.w3.org/TR/REC-smil/" xmlns:ms="http://ovp.piksel.com" xmlns:m3u8="http://en.wikipedia.org/wiki/M3U" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+            <channel>
+                <title>ESPNcricinfo: The Cricket Sadist Hour</title>
+                <link>http://player.piksel.com/player.php?p=y7d5nqok</link>
+                <description/>
+                <pubDate>Sat, 14 Jul 2012 14:16:25 GMT</pubDate>
+                <lastBuildDate>Sat, 14 Jul 2012 14:16:25 GMT</lastBuildDate>
+                <ttl>60</ttl>
+                <itunes:author>ESPN_Cricinfo</itunes:author>
+                <itunes:summary/>
+                <itunes:owner>
+                    <itunes:name>ESPN_Cricinfo</itunes:name>
+                    <itunes:email>adam.l.williams@espn.com</itunes:email>
+                </itunes:owner>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:category text="Sports"/>
+                <language>en-us</language>
+                <atom:link href="http://api.multicastmedia.com/ws/get_rss/p_y7d5nqok/thumbs_true/allfiles_true/download_true/lang_en-us/icategory_Sports&amp;amp;Recreation/y7d5nqok.xml" rel="self" type="application/rss+xml"/>
+                <image>
+                    <url>http://player.piksel.com/media/3807/images/Cricket-Sadist-Hour-600x600-1511049.jpg?c=2014-05-31+06%3A12%3A37</url>
+                    <title/>
+                    <link>http://player.piksel.com/player.php?p=y7d5nqok</link>
+                </image>
+                <itunes:image href="http://player.piksel.com/media/3807/images/Cricket-Sadist-Hour-600x600-1511049.jpg?c=2014-05-31+06%3A12%3A37"/>
+                <item>
+                    <title>Episode 36: Straight to the Point</title>
+                    <link>http://player.piksel.com/player.php?v=j0w946q3</link>
+                    <description>George Dobell sits in a room with Jarrod to discuss beer smoking, Australia's need to gamble and what a Sam Robson is. </description>
+                    <guid>http://player.piksel.com/player.php?v=j0w946q3</guid>
+                    <pubDate>Wed, 31 Jul 2013 17:55:16 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour-1925207.mp3?cid=3807&amp;amp;aid=1925207&amp;amp;afid=3449923" fileSize="66091784" type="audio/mpeg" bitrate="256" width="1" duration="2037.35" expression="full">
+                            <media:title>Episode 36: Straight to the Point</media:title>
+                            <media:description>George Dobell sits in a room with Jarrod to discuss beer smoking, Australia's need to gamble and what a Sam Robson is. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1375293316/6026673.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j0w946q3"/>
+                            <media:keywords>Episode,36:,Straight,to,the,Point</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/o/m/mom65p25_j241x501_mp3_64K.mp3?cid=3807&amp;amp;aid=1925207&amp;amp;afid=3449927" fileSize="16269593" type="audio/mpeg" bitrate="65.536" width="1" duration="2037.37" expression="full">
+                            <media:title>Episode 36: Straight to the Point</media:title>
+                            <media:description>George Dobell sits in a room with Jarrod to discuss beer smoking, Australia's need to gamble and what a Sam Robson is. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1375293316/6026673.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j0w946q3"/>
+                            <media:keywords>Episode,36:,Straight,to,the,Point</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1925207.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1925207.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1925207.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/o/m/mom65p25_j241x501_mp3_64K.mp3?cid=3807&amp;amp;aid=1925207&amp;amp;afid=3449927" length="16269593" type="audio/mpeg"/>
+                    <itunes:duration>00:33:57</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 35: A Starc luxury</title>
+                    <link>http://player.piksel.com/player.php?v=h58457ot</link>
+                    <description>Mark Butcher joins Jarrod to discuss why batsmen always know they've nicked it, blatant generalisations of nationalism and how Watson is the ordinary KP. </description>
+                    <guid>http://player.piksel.com/player.php?v=h58457ot</guid>
+                    <pubDate>Tue, 16 Jul 2013 13:50:44 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSHAudio-1905193.mp3?cid=3807&amp;amp;aid=1905193&amp;amp;afid=3390945" fileSize="35074060" type="audio/mpeg" bitrate="128" width="1" duration="2191.7" expression="full">
+                            <media:title>Episode 35: A Starc luxury</media:title>
+                            <media:description>Mark Butcher joins Jarrod to discuss why batsmen always know they've nicked it, blatant generalisations of nationalism and how Watson is the ordinary KP. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1373982644/5949775.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=h58457ot"/>
+                            <media:keywords>Podcast, Cricket Sadist Hour, The Ashes, DRS</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/m/1/ym1koyg5_p55rd1e2_mp3_64K.mp3?cid=3807&amp;amp;aid=1905193&amp;amp;afid=3390947" fileSize="17168395" type="audio/mpeg" bitrate="98.304" width="1" duration="2196.8" expression="full">
+                            <media:title>Episode 35: A Starc luxury</media:title>
+                            <media:description>Mark Butcher joins Jarrod to discuss why batsmen always know they've nicked it, blatant generalisations of nationalism and how Watson is the ordinary KP. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1373982644/5949775.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=h58457ot"/>
+                            <media:keywords>Podcast, Cricket Sadist Hour, The Ashes, DRS</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1905193.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1905193.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1905193.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/m/1/ym1koyg5_p55rd1e2_mp3_64K.mp3?cid=3807&amp;amp;aid=1905193&amp;amp;afid=3390947" length="17168395" type="audio/mpeg"/>
+                    <itunes:duration>00:36:36</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 34: The anti pup</title>
+                    <link>http://player.piksel.com/player.php?v=j412mr1u</link>
+                    <description>Jarrod Kimber and Gideon Haigh discuss the recent developments in Australian cricket </description>
+                    <guid>http://player.piksel.com/player.php?v=j412mr1u</guid>
+                    <pubDate>Thu, 27 Jun 2013 06:38:23 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/6/r/m6rl4415_j7e08s36_mp3_64K.mp3?cid=3807&amp;amp;aid=1865149&amp;amp;afid=3251193" fileSize="19128892" type="audio/mpeg" bitrate="65.536" width="1" duration="2302.52" expression="full">
+                            <media:title>Episode 34: The anti pup</media:title>
+                            <media:description>Jarrod Kimber and Gideon Haigh discuss the recent developments in Australian cricket </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1372315103/5773449.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j412mr1u"/>
+                            <media:keywords>cricket, sadist hour, podcast</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSH_2506-1865149.mp3?cid=3807&amp;amp;aid=1865149&amp;amp;afid=3251181" fileSize="74216540" type="audio/mpeg" bitrate="256" width="1" duration="2302.51" expression="full">
+                            <media:title>Episode 34: The anti pup</media:title>
+                            <media:description>Jarrod Kimber and Gideon Haigh discuss the recent developments in Australian cricket </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1372315103/5773449.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j412mr1u"/>
+                            <media:keywords>cricket, sadist hour, podcast</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1865149.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1865149.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1865149.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSH_2506-1865149.mp3?cid=3807&amp;amp;aid=1865149&amp;amp;afid=3251181" length="74216540" type="audio/mpeg"/>
+                    <itunes:duration>00:38:22</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Epsiode 33: Walkabout Culture</title>
+                    <link>http://player.piksel.com/player.php?v=sim364or</link>
+                    <description>Gideon Haigh joins Jarrod to discuss the bad boys of Cricket, Australia.</description>
+                    <guid>http://player.piksel.com/player.php?v=sim364or</guid>
+                    <pubDate>Sat, 15 Jun 2013 06:02:04 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/h/0/o/h0ozj840_a7m7mqxi_mp3_64K.mp3?cid=3807&amp;amp;aid=1850949&amp;amp;afid=3205845" fileSize="17941136" type="audio/mpeg" bitrate="57.344" width="1" duration="2161.01" expression="full">
+                            <media:title>Epsiode 33: Walkabout Culture</media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the bad boys of Cricket, Australia.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1371276124/5723099.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=sim364or"/>
+                            <media:keywords>Cricket Sadist Hour, Cricket, Warner</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSHEp33AUDIO-1850949.mp3?cid=3807&amp;amp;aid=1850949&amp;amp;afid=3205843" fileSize="69631064" type="audio/mpeg" bitrate="256" width="1" duration="2160.98" expression="full">
+                            <media:title>Epsiode 33: Walkabout Culture</media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the bad boys of Cricket, Australia.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1371276124/5723099.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=sim364or"/>
+                            <media:keywords>Cricket Sadist Hour, Cricket, Warner</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1850949.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1850949.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1850949.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSHEp33AUDIO-1850949.mp3?cid=3807&amp;amp;aid=1850949&amp;amp;afid=3205843" length="69631064" type="audio/mpeg"/>
+                    <itunes:duration>00:36:00</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 32: Bowl dumb, Broad.</title>
+                    <link>http://player.piksel.com/player.php?v=u41loe3m</link>
+                    <description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss why Broad can be great or garbage, what the state of BJ Watling's patella is, how Root looks worse topless than Compton and whether Dan Vettori's bench time makes him Test ready.</description>
+                    <guid>http://player.piksel.com/player.php?v=u41loe3m</guid>
+                    <pubDate>Mon, 20 May 2013 09:35:42 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/l/8/k/l8kn2234_m0lb3z7d_mp3_64K.mp3?cid=3807&amp;amp;aid=1823205&amp;amp;afid=3121047" fileSize="13781550" type="audio/mpeg" bitrate="57.344" width="1" duration="1749.29" expression="full">
+                            <media:title>Episode 32: Bowl dumb, Broad.</media:title>
+                            <media:description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss why Broad can be great or garbage, what the state of BJ Watling's patella is, how Root looks worse topless than Compton and whether Dan Vettori's bench time makes him Test ready.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1369042542/5641269.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=u41loe3m"/>
+                            <media:keywords>Episode,32:,Bowl,dumb,,Broad.</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthouraudio20052013-1823205.mp3?cid=3807&amp;amp;aid=1823205&amp;amp;afid=3121045" fileSize="56401240" type="audio/mpeg" bitrate="256" width="1" duration="1749.29" expression="full">
+                            <media:title>Episode 32: Bowl dumb, Broad.</media:title>
+                            <media:description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss why Broad can be great or garbage, what the state of BJ Watling's patella is, how Root looks worse topless than Compton and whether Dan Vettori's bench time makes him Test ready.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1369042542/5641269.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=u41loe3m"/>
+                            <media:keywords>Episode,32:,Bowl,dumb,,Broad.</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value=""/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1823205.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1823205.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1823205.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthouraudio20052013-1823205.mp3?cid=3807&amp;amp;aid=1823205&amp;amp;afid=3121045" length="56401240" type="audio/mpeg"/>
+                    <itunes:duration>00:29:09</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 31: Biting Bresnan </title>
+                    <link>http://player.piksel.com/player.php?v=msy1o06v</link>
+                    <description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss what Onions has written on him, their favourite band the Bruce Martin Equation, what organ Matt Prior is, and how Test cricketers are one of South Africa's finest exports.</description>
+                    <guid>http://player.piksel.com/player.php?v=msy1o06v</guid>
+                    <pubDate>Tue, 14 May 2013 11:42:56 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/l/2/w/l2wm6md7_zcq1527t_mp3_64K.mp3?cid=3807&amp;amp;aid=1817355&amp;amp;afid=3105171" fileSize="15694223" type="audio/mpeg" bitrate="65.536" width="1" duration="1998.29" expression="full">
+                            <media:title>Episode 31: Biting Bresnan </media:title>
+                            <media:description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss what Onions has written on him, their favourite band the Bruce Martin Equation, what organ Matt Prior is, and how Test cricketers are one of South Africa's finest exports.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1368531776/5623223.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=msy1o06v"/>
+                            <media:keywords>Episode,31:,Biting,Bresnan</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthouraudio14052013-1817355.mp3?cid=3807&amp;amp;aid=1817355&amp;amp;afid=3105169" fileSize="64405814" type="audio/mpeg" bitrate="256" width="1" duration="1998.26" expression="full">
+                            <media:title>Episode 31: Biting Bresnan </media:title>
+                            <media:description>Mark Butcher and Iain O'Brien join Jarrod Kimber to discuss what Onions has written on him, their favourite band the Bruce Martin Equation, what organ Matt Prior is, and how Test cricketers are one of South Africa's finest exports.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1368531776/5623223.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=msy1o06v"/>
+                            <media:keywords>Episode,31:,Biting,Bresnan</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1817355.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1817355.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1817355.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthouraudio14052013-1817355.mp3?cid=3807&amp;amp;aid=1817355&amp;amp;afid=3105169" length="64405814" type="audio/mpeg"/>
+                    <itunes:duration>00:33:18</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 30: Stronger than Ryan Harris</title>
+                    <link>http://player.piksel.com/player.php?v=b2972869</link>
+                    <description>Gideon Haigh claims not to know anyone who can help speed up Fawad Ahmed's passport, but deigns to discuss Australia's Ashes squad with Jarrod. </description>
+                    <guid>http://player.piksel.com/player.php?v=b2972869</guid>
+                    <pubDate>Mon, 20 May 2013 09:35:57 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/g/mF_gideon26042013-1797389.mp3?cid=3807&amp;amp;aid=1797389&amp;amp;afid=3055651" fileSize="26569165" type="audio/mpeg" bitrate="128" width="1" duration="1660.32" expression="full">
+                            <media:title>Episode 30: Stronger than Ryan Harris</media:title>
+                            <media:description>Gideon Haigh claims not to know anyone who can help speed up Fawad Ahmed's passport, but deigns to discuss Australia's Ashes squad with Jarrod. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1369042557/5641267.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=b2972869"/>
+                            <media:keywords>Episode,30:,Stronger,than,Ryan,Harris</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/p/4/n/p4n8142m_s2c8o78o_mp3_64K.mp3?cid=3807&amp;amp;aid=1797389&amp;amp;afid=3055655" fileSize="13602448" type="audio/mpeg" bitrate="65.536" width="1" duration="1660.35" expression="full">
+                            <media:title>Episode 30: Stronger than Ryan Harris</media:title>
+                            <media:description>Gideon Haigh claims not to know anyone who can help speed up Fawad Ahmed's passport, but deigns to discuss Australia's Ashes squad with Jarrod. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1369042557/5641267.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=b2972869"/>
+                            <media:keywords>Episode,30:,Stronger,than,Ryan,Harris</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value=""/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1797389.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1797389.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1797389.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/p/4/n/p4n8142m_s2c8o78o_mp3_64K.mp3?cid=3807&amp;amp;aid=1797389&amp;amp;afid=3055655" length="13602448" type="audio/mpeg"/>
+                    <itunes:duration>00:27:40</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 29: The Kiwis aren't bad net bowlers </title>
+                    <link>http://player.piksel.com/player.php?v=m4f1tpd8</link>
+                    <description>Iain O'Brien joins Jarrod to discuss how lucky Bruce Martin is, how arrogant England are and the potential coffee making skills of Hamish Rutherford. </description>
+                    <guid>http://player.piksel.com/player.php?v=m4f1tpd8</guid>
+                    <pubDate>Tue, 12 Mar 2013 23:43:04 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_csh12032013iob-1735907.mp3?cid=3807&amp;amp;aid=1735907&amp;amp;afid=2898973" fileSize="24935363" type="audio/mpeg" bitrate="128" width="1" duration="1558.2" expression="full">
+                            <media:title>Episode 29: The Kiwis aren't bad net bowlers </media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss how lucky Bruce Martin is, how arrogant England are and the potential coffee making skills of Hamish Rutherford. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1363131784/5373625.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=m4f1tpd8"/>
+                            <media:keywords>Episode,29:,The,Kiwis,aren't,bad,net,bowlers</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/n/m/2/nm2i2924_xefn939e_mp3_64K.mp3?cid=3807&amp;amp;aid=1735907&amp;amp;afid=2898975" fileSize="12485621" type="audio/mpeg" bitrate="65.536" width="1" duration="1558.24" expression="full">
+                            <media:title>Episode 29: The Kiwis aren't bad net bowlers </media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss how lucky Bruce Martin is, how arrogant England are and the potential coffee making skills of Hamish Rutherford. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1363131784/5373625.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=m4f1tpd8"/>
+                            <media:keywords>Episode,29:,The,Kiwis,aren't,bad,net,bowlers</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1735907.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1735907.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1735907.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/n/m/2/nm2i2924_xefn939e_mp3_64K.mp3?cid=3807&amp;amp;aid=1735907&amp;amp;afid=2898975" length="12485621" type="audio/mpeg"/>
+                    <itunes:duration>00:25:58</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 28: Shane Watson's homework</title>
+                    <link>http://player.piksel.com/player.php?v=b90n0t5f</link>
+                    <description>Gideon Haigh talks to Jarrod about their favourite topic, Shane Watson.  They also talk about Cricket Australia's good front page publicity and why Shane Warne is staying pretty quiet.</description>
+                    <guid>http://player.piksel.com/player.php?v=b90n0t5f</guid>
+                    <pubDate>Tue, 12 Mar 2013 23:43:04 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/i/p/j/ipjj04d3_i38t59aj_mp3_64K.mp3?cid=3807&amp;amp;aid=1735761&amp;amp;afid=2898527" fileSize="18781385" type="audio/mpeg" bitrate="65.536" width="1" duration="2154.52" expression="full">
+                            <media:title>Episode 28: Shane Watson's homework</media:title>
+                            <media:description>Gideon Haigh talks to Jarrod about their favourite topic, Shane Watson.  They also talk about Cricket Australia's good front page publicity and why Shane Warne is staying pretty quiet.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1363131784/5372995.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=b90n0t5f"/>
+                            <media:keywords>csh, cricket, watson</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSH-WattoHomework-1735761.mp3?cid=3807&amp;amp;aid=1735761&amp;amp;afid=2898525" fileSize="69564641" type="audio/mpeg" bitrate="256" width="1" duration="2154.5" expression="full">
+                            <media:title>Episode 28: Shane Watson's homework</media:title>
+                            <media:description>Gideon Haigh talks to Jarrod about their favourite topic, Shane Watson.  They also talk about Cricket Australia's good front page publicity and why Shane Warne is staying pretty quiet.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1363131784/5372995.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=b90n0t5f"/>
+                            <media:keywords>csh, cricket, watson</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1735761.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1735761.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1735761.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CSH-WattoHomework-1735761.mp3?cid=3807&amp;amp;aid=1735761&amp;amp;afid=2898525" length="69564641" type="audio/mpeg"/>
+                    <itunes:duration>00:35:54</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 26: The mystery of orthodox offspin </title>
+                    <link>http://player.piksel.com/player.php?v=jw3vki1i</link>
+                    <description>Osman Samiuddin joins Jarrod to discuss mystery Ajmal, speedgun Ahmed, nightwatch Hafeez and gritty Elgar.</description>
+                    <guid>http://player.piksel.com/player.php?v=jw3vki1i</guid>
+                    <pubDate>Tue, 19 Feb 2013 11:18:42 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/f/6/3/f63gzyo1_ixfwk0sa_mp3_64K.mp3?cid=3807&amp;amp;aid=1696691&amp;amp;afid=2812027" fileSize="24260349" type="audio/mpeg" bitrate="65.536" width="1" duration="2919.63" expression="full">
+                            <media:title>Episode 26: The mystery of orthodox offspin </media:title>
+                            <media:description>Osman Samiuddin joins Jarrod to discuss mystery Ajmal, speedgun Ahmed, nightwatch Hafeez and gritty Elgar.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1361272722/5232255.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=jw3vki1i"/>
+                            <media:keywords>Episode,26:,The,mystery,of,orthodox,offspin</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_csh19022013-1696691.mp3?cid=3807&amp;amp;aid=1696691&amp;amp;afid=2812019" fileSize="46717306" type="audio/mpeg" bitrate="128" width="1" duration="2919.57" expression="full">
+                            <media:title>Episode 26: The mystery of orthodox offspin </media:title>
+                            <media:description>Osman Samiuddin joins Jarrod to discuss mystery Ajmal, speedgun Ahmed, nightwatch Hafeez and gritty Elgar.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1361272722/5232255.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=jw3vki1i"/>
+                            <media:keywords>Episode,26:,The,mystery,of,orthodox,offspin</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1696691.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1696691.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1696691.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_csh19022013-1696691.mp3?cid=3807&amp;amp;aid=1696691&amp;amp;afid=2812019" length="46717306" type="audio/mpeg"/>
+                    <itunes:duration>00:48:39</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 25: Hot button cricket talk </title>
+                    <link>http://player.piksel.com/player.php?v=j1f1074l</link>
+                    <description>Gideon Haigh joins Jarrod to discuss the ACC report, betting, drugs and TV deals.  </description>
+                    <guid>http://player.piksel.com/player.php?v=j1f1074l</guid>
+                    <pubDate>Wed, 13 Feb 2013 11:54:22 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_csh130213-1684099.mp3?cid=3807&amp;amp;aid=1684099&amp;amp;afid=2784463" fileSize="38453417" type="audio/mpeg" bitrate="128" width="1" duration="2403.08" expression="full">
+                            <media:title>Episode 25: Hot button cricket talk </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the ACC report, betting, drugs and TV deals.  </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1360756462/5187125.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j1f1074l"/>
+                            <media:keywords>Episode,25:,Hot,button,cricket,talk</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/z/8/yz8x1529_d8h465f9_mp3_64K.mp3?cid=3807&amp;amp;aid=1684099&amp;amp;afid=2784465" fileSize="22042921" type="audio/mpeg" bitrate="65.536" width="1" duration="2403.14" expression="full">
+                            <media:title>Episode 25: Hot button cricket talk </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the ACC report, betting, drugs and TV deals.  </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1360756462/5187125.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j1f1074l"/>
+                            <media:keywords>Episode,25:,Hot,button,cricket,talk</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value=""/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1684099.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1684099.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1684099.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/z/8/yz8x1529_d8h465f9_mp3_64K.mp3?cid=3807&amp;amp;aid=1684099&amp;amp;afid=2784465" length="22042921" type="audio/mpeg"/>
+                    <itunes:duration>00:40:03</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 24: 49 is par for Pakistan </title>
+                    <link>http://player.piksel.com/player.php?v=z1gtpt39</link>
+                    <description>Osman Samiuddin chats to Jarrod about Pakistan's 49, Steyn, Gul's demons and how Salman Butt is running the Pakistan Super League. </description>
+                    <guid>http://player.piksel.com/player.php?v=z1gtpt39</guid>
+                    <pubDate>Mon, 04 Feb 2013 23:09:29 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/a/6/1/a61fttxe_z1u10f6x_mp3_64K.mp3?cid=3807&amp;amp;aid=1672823&amp;amp;afid=2758487" fileSize="21258906" type="audio/mpeg" bitrate="57.344" width="1" duration="2549.25" expression="full">
+                            <media:title>Episode 24: 49 is par for Pakistan </media:title>
+                            <media:description>Osman Samiuddin chats to Jarrod about Pakistan's 49, Steyn, Gul's demons and how Salman Butt is running the Pakistan Super League. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1360019369/5148347.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=z1gtpt39"/>
+                            <media:keywords>Episode,24:,49,is,par,for,Pakistan</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshosman04022013-1672823.mp3?cid=3807&amp;amp;aid=1672823&amp;amp;afid=2758485" fileSize="40791063" type="audio/mpeg" bitrate="128" width="1" duration="2549.19" expression="full">
+                            <media:title>Episode 24: 49 is par for Pakistan </media:title>
+                            <media:description>Osman Samiuddin chats to Jarrod about Pakistan's 49, Steyn, Gul's demons and how Salman Butt is running the Pakistan Super League. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1360019369/5148347.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=z1gtpt39"/>
+                            <media:keywords>Episode,24:,49,is,par,for,Pakistan</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1672823.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1672823.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1672823.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshosman04022013-1672823.mp3?cid=3807&amp;amp;aid=1672823&amp;amp;afid=2758485" length="40791063" type="audio/mpeg"/>
+                    <itunes:duration>00:42:29</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 23: Warne's Muppets </title>
+                    <link>http://player.piksel.com/player.php?v=pb9873o1</link>
+                    <description>Gideon Haigh joins Jarrod to discuss the term "Warniefesto", Muppets, bit part spinners and Steve O'Keefe's pet problem. </description>
+                    <guid>http://player.piksel.com/player.php?v=pb9873o1</guid>
+                    <pubDate>Mon, 04 Feb 2013 11:54:40 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_csh04022013-1671207.mp3?cid=3807&amp;amp;aid=1671207&amp;amp;afid=2754763" fileSize="36527043" type="audio/mpeg" bitrate="128" width="1" duration="2282.68" expression="full">
+                            <media:title>Episode 23: Warne's Muppets </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the term "Warniefesto", Muppets, bit part spinners and Steve O'Keefe's pet problem. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1359978880/5143997.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=pb9873o1"/>
+                            <media:keywords>Episode,23:,Warne's,Muppets</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/w/1/6/w16983n4_od4bu8p0_mp3_64K.mp3?cid=3807&amp;amp;aid=1671207&amp;amp;afid=2754765" fileSize="20447230" type="audio/mpeg" bitrate="65.536" width="1" duration="2282.71" expression="full">
+                            <media:title>Episode 23: Warne's Muppets </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss the term "Warniefesto", Muppets, bit part spinners and Steve O'Keefe's pet problem. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1359978880/5143997.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=pb9873o1"/>
+                            <media:keywords>Episode,23:,Warne's,Muppets</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value=""/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1671207.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1671207.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1671207.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/w/1/6/w16983n4_od4bu8p0_mp3_64K.mp3?cid=3807&amp;amp;aid=1671207&amp;amp;afid=2754765" length="20447230" type="audio/mpeg"/>
+                    <itunes:duration>00:38:02</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 22: Exonerating the Legend</title>
+                    <link>http://player.piksel.com/player.php?v=x8nr3fh3</link>
+                    <description>The legend Gideon Haigh joins Jarrod to discuss the BBL, when a team all play bad shots at once, Justin Langer's culture and the lack of red balls. </description>
+                    <guid>http://player.piksel.com/player.php?v=x8nr3fh3</guid>
+                    <pubDate>Wed, 23 Jan 2013 11:53:28 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/s/h/csh23012013gideon-1654959.mp3?cid=3807&amp;amp;aid=1654959&amp;amp;afid=2719093" fileSize="33768930" type="audio/mpeg" bitrate="128" width="1" duration="2110.3" expression="full">
+                        <media:title>Episode 22: Exonerating the Legend</media:title>
+                        <media:description>The legend Gideon Haigh joins Jarrod to discuss the BBL, when a team all play bad shots at once, Justin Langer's culture and the lack of red balls. </media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358942008/5106081.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=x8nr3fh3"/>
+                        <media:keywords>Episode,22:,Exonerating,the,Legend</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value=""/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1654959.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1654959.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1654959.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/s/h/csh23012013gideon-1654959.mp3?cid=3807&amp;amp;aid=1654959&amp;amp;afid=2719093" length="33768930" type="audio/mpeg"/>
+                    <itunes:duration>00:35:10</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 21: An army of Gavin Larsens</title>
+                    <link>http://player.piksel.com/player.php?v=p3l45hl2</link>
+                    <description>Iain O'Brien joins jarrod to discuss New Zealand's good ODI form, Ross Taylor as the saviour, Shane Bond's sabotage and Mitchell McClenaghan's face. </description>
+                    <guid>http://player.piksel.com/player.php?v=p3l45hl2</guid>
+                    <pubDate>Wed, 23 Jan 2013 11:17:17 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/s/h/csh22012013iob-1654789.mp3?cid=3807&amp;amp;aid=1654789&amp;amp;afid=2718265" fileSize="33034994" type="audio/mpeg" bitrate="128" width="1" duration="2064.43" expression="full">
+                        <media:title>Episode 21: An army of Gavin Larsens</media:title>
+                        <media:description>Iain O'Brien joins jarrod to discuss New Zealand's good ODI form, Ross Taylor as the saviour, Shane Bond's sabotage and Mitchell McClenaghan's face. </media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358939837/5105255.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=p3l45hl2"/>
+                        <media:keywords>cricket, iain o'brien, new zealand</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1654789.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1654789.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1654789.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/s/h/csh22012013iob-1654789.mp3?cid=3807&amp;amp;aid=1654789&amp;amp;afid=2718265" length="33034994" type="audio/mpeg"/>
+                    <itunes:duration>00:34:24</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 20: Informed Podcast Management </title>
+                    <link>http://player.piksel.com/player.php?v=h680yb62</link>
+                    <description>Gideon Haigh joins Jarrod to discuss rotation by its real name, how ODIs are becoming background cricket, Australia's new selection, fake Gideon Haigh and Brett Lee's last victim. </description>
+                    <guid>http://player.piksel.com/player.php?v=h680yb62</guid>
+                    <pubDate>Wed, 16 Jan 2013 14:19:47 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/b/8/cb8kudea_ljttia93_mp3_64K.mp3?cid=3807&amp;amp;aid=1645979&amp;amp;afid=2698505" fileSize="19817295" type="audio/mpeg" bitrate="65.536" width="1" duration="2237.49" expression="full">
+                            <media:title>Episode 20: Informed Podcast Management </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss rotation by its real name, how ODIs are becoming background cricket, Australia's new selection, fake Gideon Haigh and Brett Lee's last victim. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358345987/5081989.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=h680yb62"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshgideon15012013-1645979.mp3?cid=3807&amp;amp;aid=1645979&amp;amp;afid=2698503" fileSize="35803138" type="audio/mpeg" bitrate="128" width="1" duration="2237.44" expression="full">
+                            <media:title>Episode 20: Informed Podcast Management </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss rotation by its real name, how ODIs are becoming background cricket, Australia's new selection, fake Gideon Haigh and Brett Lee's last victim. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358345987/5081989.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=h680yb62"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1645979.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1645979.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1645979.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshgideon15012013-1645979.mp3?cid=3807&amp;amp;aid=1645979&amp;amp;afid=2698503" length="35803138" type="audio/mpeg"/>
+                    <itunes:duration>00:37:17</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 19: The school project team </title>
+                    <link>http://player.piksel.com/player.php?v=rgvz77dk</link>
+                    <description>Iain O'Brien joins Jarrod to discuss Sarah Taylor's chance of playing for Sussex, what a Colin Munro is, where the entire kiwi line up should bat, and how Steyn wears his stops inside out. </description>
+                    <guid>http://player.piksel.com/player.php?v=rgvz77dk</guid>
+                    <pubDate>Wed, 16 Jan 2013 00:05:59 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/j/5/5/j552i15q_n0gd4419_mp3_64K.mp3?cid=3807&amp;amp;aid=1645973&amp;amp;afid=2698487" fileSize="21288391" type="audio/mpeg" bitrate="65.536" width="1" duration="2528.38" expression="full">
+                            <media:title>Episode 19: The school project team </media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss Sarah Taylor's chance of playing for Sussex, what a Colin Munro is, where the entire kiwi line up should bat, and how Steyn wears his stops inside out. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358294759/5081971.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=rgvz77dk"/>
+                            <media:keywords>Episode,19:,The,school,project,team</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshiain15012013-1645973.mp3?cid=3807&amp;amp;aid=1645973&amp;amp;afid=2698479" fileSize="40457531" type="audio/mpeg" bitrate="128" width="1" duration="2528.34" expression="full">
+                            <media:title>Episode 19: The school project team </media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss Sarah Taylor's chance of playing for Sussex, what a Colin Munro is, where the entire kiwi line up should bat, and how Steyn wears his stops inside out. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1358294759/5081971.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=rgvz77dk"/>
+                            <media:keywords>Episode,19:,The,school,project,team</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1645973.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1645973.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1645973.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshiain15012013-1645973.mp3?cid=3807&amp;amp;aid=1645973&amp;amp;afid=2698479" length="40457531" type="audio/mpeg"/>
+                    <itunes:duration>00:42:08</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 18: The Bogus Age </title>
+                    <link>http://player.piksel.com/player.php?v=yuek9r4l</link>
+                    <description>Gideon Haigh joins Jarrod to discuss run outs, the art of running, writing about friends,  and throwing bats in the Big Bash.  Also, Shane Watson, again. </description>
+                    <guid>http://player.piksel.com/player.php?v=yuek9r4l</guid>
+                    <pubDate>Tue, 08 Jan 2013 21:20:32 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshgideon08012013-1639093.mp3?cid=3807&amp;amp;aid=1639093&amp;amp;afid=2682379" fileSize="43081479" type="audio/mpeg" bitrate="128" width="1" duration="2692.34" expression="full">
+                            <media:title>Episode 18: The Bogus Age </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss run outs, the art of running, writing about friends,  and throwing bats in the Big Bash.  Also, Shane Watson, again. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357680032/5060427.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=yuek9r4l"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/p/n/z/pnzw62b9_gwy89vto_mp3_64K.mp3?cid=3807&amp;amp;aid=1639093&amp;amp;afid=2682385" fileSize="24185785" type="audio/mpeg" bitrate="65.536" width="1" duration="2692.39" expression="full">
+                            <media:title>Episode 18: The Bogus Age </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss run outs, the art of running, writing about friends,  and throwing bats in the Big Bash.  Also, Shane Watson, again. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357680032/5060427.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=yuek9r4l"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1639093.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1639093.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1639093.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/p/n/z/pnzw62b9_gwy89vto_mp3_64K.mp3?cid=3807&amp;amp;aid=1639093&amp;amp;afid=2682385" length="24185785" type="audio/mpeg"/>
+                    <itunes:duration>00:44:52</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 17: Kiwis in the mud</title>
+                    <link>http://player.piksel.com/player.php?v=q223p602</link>
+                    <description>Iain O'Brien joins Jarrod to discuss dirty kiwis, the late great Neil Adcock, bowling first, The Ronchi and frostiness in the NZC.</description>
+                    <guid>http://player.piksel.com/player.php?v=q223p602</guid>
+                    <pubDate>Tue, 08 Jan 2013 10:09:28 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshiainobrien081213-1638541.mp3?cid=3807&amp;amp;aid=1638541&amp;amp;afid=2680629" fileSize="33079298" type="audio/mpeg" bitrate="128" width="1" duration="2067.2" expression="full">
+                            <media:title>Episode 17: Kiwis in the mud</media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss dirty kiwis, the late great Neil Adcock, bowling first, The Ronchi and frostiness in the NZC.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357639768/5058175.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=q223p602"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/u/u/0/uu0ylg5d_z2nqxpdb_mp3_64K.mp3?cid=3807&amp;amp;aid=1638541&amp;amp;afid=2680637" fileSize="17363379" type="audio/mpeg" bitrate="65.536" width="1" duration="2067.23" expression="full">
+                            <media:title>Episode 17: Kiwis in the mud</media:title>
+                            <media:description>Iain O'Brien joins Jarrod to discuss dirty kiwis, the late great Neil Adcock, bowling first, The Ronchi and frostiness in the NZC.</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357639768/5058175.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=q223p602"/>
+                            <media:keywords>cricket</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1638541.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1638541.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1638541.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/u/u/0/uu0ylg5d_z2nqxpdb_mp3_64K.mp3?cid=3807&amp;amp;aid=1638541&amp;amp;afid=2680637" length="17363379" type="audio/mpeg"/>
+                    <itunes:duration>00:34:27</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 16: Mr Cricket is a stupid nickname </title>
+                    <link>http://player.piksel.com/player.php?v=ma426cl5</link>
+                    <description>Gideon joins Jarrod to discuss Mr Cricket, Shane Watson (sorry), Glenn Maxwell's sudden rise and the passing on Tony Greig and CMJ. </description>
+                    <guid>http://player.piksel.com/player.php?v=ma426cl5</guid>
+                    <pubDate>Tue, 01 Jan 2013 21:49:21 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/c/5/j/c5j3e80s_p9067lzt_mp3_64K.mp3?cid=3807&amp;amp;aid=1632199&amp;amp;afid=2664891" fileSize="19399837" type="audio/mpeg" bitrate="65.536" width="1" duration="2321.37" expression="full">
+                            <media:title>Episode 16: Mr Cricket is a stupid nickname </media:title>
+                            <media:description>Gideon joins Jarrod to discuss Mr Cricket, Shane Watson (sorry), Glenn Maxwell's sudden rise and the passing on Tony Greig and CMJ. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357076961/5035677.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ma426cl5"/>
+                            <media:keywords>Episode,16:,Mr,Cricket,is,a,stupid,nickname</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshgideon01012013-1632199.mp3?cid=3807&amp;amp;aid=1632199&amp;amp;afid=2664889" fileSize="37145205" type="audio/mpeg" bitrate="128" width="1" duration="2321.32" expression="full">
+                            <media:title>Episode 16: Mr Cricket is a stupid nickname </media:title>
+                            <media:description>Gideon joins Jarrod to discuss Mr Cricket, Shane Watson (sorry), Glenn Maxwell's sudden rise and the passing on Tony Greig and CMJ. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1357076961/5035677.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ma426cl5"/>
+                            <media:keywords>Episode,16:,Mr,Cricket,is,a,stupid,nickname</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1632199.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1632199.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1632199.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cshgideon01012013-1632199.mp3?cid=3807&amp;amp;aid=1632199&amp;amp;afid=2664889" length="37145205" type="audio/mpeg"/>
+                    <itunes:duration>00:38:41</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 15: No driving, no trashtalking, no Mahela</title>
+                    <link>http://player.piksel.com/player.php?v=ecu5q368</link>
+                    <description>Mahela gets leaked. Gideon gives us a morbid history of men who performed on Boxing Day. Control Freakiness stops the trash talking big bash. 
+
+
+
+</description>
+                    <guid>http://player.piksel.com/player.php?v=ecu5q368</guid>
+                    <pubDate>Tue, 25 Dec 2012 00:32:23 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/h/d/w/hdw2t06j_r4itw0dg_mp3_64K.mp3?cid=3807&amp;amp;aid=1627781&amp;amp;afid=2653743" fileSize="17142359" type="audio/mpeg" bitrate="65.536" width="1" duration="1973.31" expression="full">
+                            <media:title>Episode 15: No driving, no trashtalking, no Mahela</media:title>
+                            <media:description>Mahela gets leaked. Gideon gives us a morbid history of men who performed on Boxing Day. Control Freakiness stops the trash talking big bash. 
+
+
+
+</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356395543/5018167.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ecu5q368"/>
+                            <media:keywords>Episode,15:,No,driving,,no,trashtalking,,no,Mahela</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthourgideon241212-1627781.mp3?cid=3807&amp;amp;aid=1627781&amp;amp;afid=2653741" fileSize="31576316" type="audio/mpeg" bitrate="128" width="1" duration="1973.26" expression="full">
+                            <media:title>Episode 15: No driving, no trashtalking, no Mahela</media:title>
+                            <media:description>Mahela gets leaked. Gideon gives us a morbid history of men who performed on Boxing Day. Control Freakiness stops the trash talking big bash. 
+
+
+
+</media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356395543/5018167.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ecu5q368"/>
+                            <media:keywords>Episode,15:,No,driving,,no,trashtalking,,no,Mahela</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1627781.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1627781.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1627781.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthourgideon241212-1627781.mp3?cid=3807&amp;amp;aid=1627781&amp;amp;afid=2653741" length="31576316" type="audio/mpeg"/>
+                    <itunes:duration>00:32:53</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 14: The Kiwi captaincy issue "I don't even have a blazer to burn"</title>
+                    <link>http://player.piksel.com/player.php?v=ehxf1925</link>
+                    <description>Iain O'Brien talks to Jarrod about the New Zealand captaincy issue, and that's it, for a while. </description>
+                    <guid>http://player.piksel.com/player.php?v=ehxf1925</guid>
+                    <pubDate>Thu, 20 Dec 2012 21:11:07 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/i/mF_iobcsh20122012-1624493.mp3?cid=3807&amp;amp;aid=1624493&amp;amp;afid=2645015" fileSize="25596156" type="audio/mpeg" bitrate="128" width="1" duration="1599.5" expression="full">
+                            <media:title>Episode 14: The Kiwi captaincy issue "I don't even have a blazer to burn"</media:title>
+                            <media:description>Iain O'Brien talks to Jarrod about the New Zealand captaincy issue, and that's it, for a while. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356037867/4999265.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ehxf1925"/>
+                            <media:keywords>cricket, south africa, new zealand </media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/t/c/j/tcjo055f_wtwa0t37_mp3_64K.mp3?cid=3807&amp;amp;aid=1624493&amp;amp;afid=2645057" fileSize="13469496" type="audio/mpeg" bitrate="81.92" width="1" duration="1599.53" expression="full">
+                            <media:title>Episode 14: The Kiwi captaincy issue "I don't even have a blazer to burn"</media:title>
+                            <media:description>Iain O'Brien talks to Jarrod about the New Zealand captaincy issue, and that's it, for a while. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356037867/4999265.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=ehxf1925"/>
+                            <media:keywords>cricket, south africa, new zealand </media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1624493.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1624493.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1624493.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/t/c/j/tcjo055f_wtwa0t37_mp3_64K.mp3?cid=3807&amp;amp;aid=1624493&amp;amp;afid=2645057" length="13469496" type="audio/mpeg"/>
+                    <itunes:duration>00:26:39</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 13: Counting Tasmanians and quarantines </title>
+                    <link>http://player.piksel.com/player.php?v=mu7d5acb</link>
+                    <description>Gideon Haigh joins Jarrod to count the Hobart crowd, ask for more ball tampering, discuss how good Angelo Mathews looks and yet again talk endlessly about Shane Watson. </description>
+                    <guid>http://player.piksel.com/player.php?v=mu7d5acb</guid>
+                    <pubDate>Thu, 20 Dec 2012 21:00:57 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/g/mF_gideoncsh20122012-1624475.mp3?cid=3807&amp;amp;aid=1624475&amp;amp;afid=2644979" fileSize="28953622" type="audio/mpeg" bitrate="128" width="1" duration="1809.34" expression="full">
+                            <media:title>Episode 13: Counting Tasmanians and quarantines </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to count the Hobart crowd, ask for more ball tampering, discuss how good Angelo Mathews looks and yet again talk endlessly about Shane Watson. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356037257/4999253.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=mu7d5acb"/>
+                            <media:keywords>gideon haigh, cricket, australia, sri lanka</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/e/5/ye5vxk7k_aj3x8q4s_mp3_64K.mp3?cid=3807&amp;amp;aid=1624475&amp;amp;afid=2644985" fileSize="15854515" type="audio/mpeg" bitrate="98.304" width="1" duration="1809.39" expression="full">
+                            <media:title>Episode 13: Counting Tasmanians and quarantines </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to count the Hobart crowd, ask for more ball tampering, discuss how good Angelo Mathews looks and yet again talk endlessly about Shane Watson. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1356037257/4999253.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=mu7d5acb"/>
+                            <media:keywords>gideon haigh, cricket, australia, sri lanka</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1624475.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1624475.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1624475.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/y/e/5/ye5vxk7k_aj3x8q4s_mp3_64K.mp3?cid=3807&amp;amp;aid=1624475&amp;amp;afid=2644985" length="15854515" type="audio/mpeg"/>
+                    <itunes:duration>00:30:09</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 12: Watching Ricky in the rain</title>
+                    <link>http://player.piksel.com/player.php?v=kc3a66x8</link>
+                    <description>Gideon joins Jarrod do wax romantically about Ricky's retirement, talk sharply about Cricket Australia's entertainment complex and Sri Lanka's talent cliff. </description>
+                    <guid>http://player.piksel.com/player.php?v=kc3a66x8</guid>
+                    <pubDate>Mon, 10 Dec 2012 22:15:24 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour10122012-1611493.mp3?cid=3807&amp;amp;aid=1611493&amp;amp;afid=2613889" fileSize="34373717" type="audio/mpeg" bitrate="128" width="1" duration="2148.1" expression="full">
+                            <media:title>Episode 12: Watching Ricky in the rain</media:title>
+                            <media:description>Gideon joins Jarrod do wax romantically about Ricky's retirement, talk sharply about Cricket Australia's entertainment complex and Sri Lanka's talent cliff. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1355177724/4952137.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=kc3a66x8"/>
+                            <media:keywords>Episode,12:,Watching,Ricky,in,the,rain</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/x/0/h/x0h7798m_w6k76in0_mp3_64K.mp3?cid=3807&amp;amp;aid=1611493&amp;amp;afid=2613895" fileSize="18988604" type="audio/mpeg" bitrate="65.536" width="1" duration="2148.14" expression="full">
+                            <media:title>Episode 12: Watching Ricky in the rain</media:title>
+                            <media:description>Gideon joins Jarrod do wax romantically about Ricky's retirement, talk sharply about Cricket Australia's entertainment complex and Sri Lanka's talent cliff. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1355177724/4952137.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=kc3a66x8"/>
+                            <media:keywords>Episode,12:,Watching,Ricky,in,the,rain</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1611493.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1611493.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1611493.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/x/0/h/x0h7798m_w6k76in0_mp3_64K.mp3?cid=3807&amp;amp;aid=1611493&amp;amp;afid=2613895" length="18988604" type="audio/mpeg"/>
+                    <itunes:duration>00:35:48</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 11: Faf wears an apron </title>
+                    <link>http://player.piksel.com/player.php?v=c1nrxoo1</link>
+                    <description>Gideon joins Jarrod to discuss the great Faf, Imran's heavy hand, the end for Quiney, fair pitches, Rory's comeback and Josh's free hotel rooms. </description>
+                    <guid>http://player.piksel.com/player.php?v=c1nrxoo1</guid>
+                    <pubDate>Mon, 26 Nov 2012 22:34:48 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/d/5/6/d56a7vcp_yw2r8bz9_mp3_64K.mp3?cid=3807&amp;amp;aid=1596951&amp;amp;afid=2576467" fileSize="14455238" type="audio/mpeg" bitrate="65.536" width="1" duration="1688.28" expression="full">
+                            <media:title>Episode 11: Faf wears an apron </media:title>
+                            <media:description>Gideon joins Jarrod to discuss the great Faf, Imran's heavy hand, the end for Quiney, fair pitches, Rory's comeback and Josh's free hotel rooms. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353969288/4895013.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=c1nrxoo1"/>
+                            <media:keywords>cricket, australia, south africa, jarrod kimber, gideon haigh</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour2611-1596951.mp3?cid=3807&amp;amp;aid=1596951&amp;amp;afid=2576451" fileSize="27015964" type="audio/mpeg" bitrate="128" width="1" duration="1688.24" expression="full">
+                            <media:title>Episode 11: Faf wears an apron </media:title>
+                            <media:description>Gideon joins Jarrod to discuss the great Faf, Imran's heavy hand, the end for Quiney, fair pitches, Rory's comeback and Josh's free hotel rooms. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353969288/4895013.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=c1nrxoo1"/>
+                            <media:keywords>cricket, australia, south africa, jarrod kimber, gideon haigh</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1596951.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1596951.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1596951.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour2611-1596951.mp3?cid=3807&amp;amp;aid=1596951&amp;amp;afid=2576451" length="27015964" type="audio/mpeg"/>
+                    <itunes:duration>00:28:08</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 10: Shane Watson's ex problem</title>
+                    <link>http://player.piksel.com/player.php?v=j8ic0sr2</link>
+                    <description>Gideon joins Jarrod to discuss ears, food, moustaches, bunnies, refugees and other people discussing Shane Watson.  </description>
+                    <guid>http://player.piksel.com/player.php?v=j8ic0sr2</guid>
+                    <pubDate>Mon, 10 Dec 2012 22:16:04 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/k/7/f/k7fewdl5_z4715dz1_mp3_64K.mp3?cid=3807&amp;amp;aid=1591607&amp;amp;afid=2562327" fileSize="15610769" type="audio/mpeg" bitrate="65.536" width="1" duration="1844.32" expression="full">
+                            <media:title>Episode 10: Shane Watson's ex problem</media:title>
+                            <media:description>Gideon joins Jarrod to discuss ears, food, moustaches, bunnies, refugees and other people discussing Shane Watson.  </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1355177764/4874373.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j8ic0sr2"/>
+                            <media:keywords>Episode,10:,Shane,Watson's,ex,problem</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour19nov12-1591607.mp3?cid=3807&amp;amp;aid=1591607&amp;amp;afid=2562321" fileSize="29512852" type="audio/mpeg" bitrate="128" width="1" duration="1844.3" expression="full">
+                            <media:title>Episode 10: Shane Watson's ex problem</media:title>
+                            <media:description>Gideon joins Jarrod to discuss ears, food, moustaches, bunnies, refugees and other people discussing Shane Watson.  </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1355177764/4874373.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=j8ic0sr2"/>
+                            <media:keywords>Episode,10:,Shane,Watson's,ex,problem</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1591607.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1591607.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1591607.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadisthour19nov12-1591607.mp3?cid=3807&amp;amp;aid=1591607&amp;amp;afid=2562321" length="29512852" type="audio/mpeg"/>
+                    <itunes:duration>00:30:44</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 7: Jarrod talks to Warren Deutrom (Cricket Ireland CEO)</title>
+                    <link>http://player.piksel.com/player.php?v=k29zvszl</link>
+                    <description>Warren Deutrom talks money, ICC and about his own body size while explaining the situation of Irish Cricket. </description>
+                    <guid>http://player.piksel.com/player.php?v=k29zvszl</guid>
+                    <pubDate>Fri, 23 Nov 2012 17:34:27 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/a/p/1/ap1ru9lb_tm992by9_mp3_64K.mp3?cid=3807&amp;amp;aid=1481643&amp;amp;afid=2320443" fileSize="17874294" type="audio/mpeg" bitrate="131.072" width="1" duration="2322.6" expression="full">
+                            <media:title>Episode 7: Jarrod talks to Warren Deutrom (Cricket Ireland CEO)</media:title>
+                            <media:description>Warren Deutrom talks money, ICC and about his own body size while explaining the situation of Irish Cricket. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353692067/4263649.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=k29zvszl"/>
+                            <media:keywords>Ireland, cricket, world t20</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CricketSadistHour-1481643.mp3?cid=3807&amp;amp;aid=1481643&amp;amp;afid=2320441" fileSize="75338937" type="audio/mpeg" bitrate="256" width="1" duration="2322.61" expression="full">
+                            <media:title>Episode 7: Jarrod talks to Warren Deutrom (Cricket Ireland CEO)</media:title>
+                            <media:description>Warren Deutrom talks money, ICC and about his own body size while explaining the situation of Irish Cricket. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353692067/4263649.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=k29zvszl"/>
+                            <media:keywords>Ireland, cricket, world t20</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value="true"/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1481643.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1481643.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1481643.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/C/mF_CricketSadistHour-1481643.mp3?cid=3807&amp;amp;aid=1481643&amp;amp;afid=2320441" length="75338937" type="audio/mpeg"/>
+                    <itunes:duration>00:38:42</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 1: Jarrod talks to Ed Cowan</title>
+                    <link>http://player.piksel.com/player.php?v=m17x9275</link>
+                    <description>Introducing a new show on Australian cricket hosted by Jarrod Kimber. In this week's show, Mr K talks to Tassie batsman Ed Cowan.</description>
+                    <guid>http://player.piksel.com/player.php?v=m17x9275</guid>
+                    <pubDate>Sat, 14 Jul 2012 17:58:50 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode1_JarrodtalkstoEdCowan_3525663-1025995.mp3?cid=3807&amp;amp;aid=1025995&amp;amp;afid=1413272" fileSize="32241292" type="audio/mpeg" bitrate="96" width="1" duration="2686.77" expression="full">
+                        <media:title>Episode 1: Jarrod talks to Ed Cowan</media:title>
+                        <media:description>Introducing a new show on Australian cricket hosted by Jarrod Kimber. In this week's show, Mr K talks to Tassie batsman Ed Cowan.</media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1342288730/3813621.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=m17x9275"/>
+                        <media:keywords>australia,cricket,ed cowan,jarrod kimber</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1025995.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1025995.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1025995.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode1_JarrodtalkstoEdCowan_3525663-1025995.mp3?cid=3807&amp;amp;aid=1025995&amp;amp;afid=1413272" length="32241292" type="audio/mpeg"/>
+                    <itunes:duration>00:44:46</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>The Cricket Sadist Hour: Guest starring the thinking woman's County seamer Charlie Shreck</title>
+                    <link>http://player.piksel.com/player.php?v=ve4070jc</link>
+                    <description>It's two people talking nonsense about cricket for a while. This episode Jarrod Kimber is joined by new Kent recruit Charlie Shreck as they discuss what Stuart Broad wears in the changeroom, the accent of Stuart Meaker and then rename the tiflex ball.</description>
+                    <guid>http://player.piksel.com/player.php?v=ve4070jc</guid>
+                    <pubDate>Fri, 23 Nov 2012 17:34:28 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/T/h/e/TheCricketSadistHour_Gueststarringthethinkingwoman_sCountyseamerCharlieShreck_35-1026014.mp3?cid=3807&amp;amp;aid=1026014&amp;amp;afid=1413291" fileSize="36659571" type="audio/mpeg" bitrate="128" width="1" duration="2291.09" expression="full">
+                        <media:title>The Cricket Sadist Hour: Guest starring the thinking woman's County seamer Charlie Shreck</media:title>
+                        <media:description>It's two people talking nonsense about cricket for a while. This episode Jarrod Kimber is joined by new Kent recruit Charlie Shreck as they discuss what Stuart Broad wears in the changeroom, the accent of Stuart Meaker and then rename the tiflex ball.</media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353692068/3817844.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=ve4070jc"/>
+                        <media:keywords>charlie shreck,county cricket,cricket,james taylor,jarrod kimber,jonny bairstow,jos buttler,lancashire county cricket club,stuart broad,stuart meaker,tiflex</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1026014.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1026014.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1026014.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/T/h/e/TheCricketSadistHour_Gueststarringthethinkingwoman_sCountyseamerCharlieShreck_35-1026014.mp3?cid=3807&amp;amp;aid=1026014&amp;amp;afid=1413291" length="36659571" type="audio/mpeg"/>
+                    <itunes:duration>00:38:11</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>The search for optimal penetration </title>
+                    <link>http://player.piksel.com/player.php?v=i4qj9298</link>
+                    <description>Gideon Haigh joins Jarrod to discuss Australia V South Africa, the effect of white whites, freakish Clarke, brown face humour and a little hairy guy made good. </description>
+                    <guid>http://player.piksel.com/player.php?v=i4qj9298</guid>
+                    <pubDate>Fri, 23 Nov 2012 17:24:43 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/c/mF_cricketsadist-1587121.mp3?cid=3807&amp;amp;aid=1587121&amp;amp;afid=2552591" fileSize="30597456" type="audio/mpeg" bitrate="128" width="1" duration="1912.08" expression="full">
+                            <media:title>The search for optimal penetration </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss Australia V South Africa, the effect of white whites, freakish Clarke, brown face humour and a little hairy guy made good. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353691483/4854035.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=i4qj9298"/>
+                            <media:keywords>cricket, australia, south africa</media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/q/4/s/q4sj34hq_ort033kh_mp3_64K.mp3?cid=3807&amp;amp;aid=1587121&amp;amp;afid=2552595" fileSize="15905281" type="audio/mpeg" bitrate="98.304" width="1" duration="1912.13" expression="full">
+                            <media:title>The search for optimal penetration </media:title>
+                            <media:description>Gideon Haigh joins Jarrod to discuss Australia V South Africa, the effect of white whites, freakish Clarke, brown face humour and a little hairy guy made good. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353691483/4854035.jpg"/>
+                            <media:player url="http://player.piksel.com/player.php?v=i4qj9298"/>
+                            <media:keywords>cricket, australia, south africa</media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1587121.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1587121.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1587121.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/q/4/s/q4sj34hq_ort033kh_mp3_64K.mp3?cid=3807&amp;amp;aid=1587121&amp;amp;afid=2552595" length="15905281" type="audio/mpeg"/>
+                    <itunes:duration>00:31:52</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 5 - Jarrod talks to Alan Richardson</title>
+                    <link>http://player.piksel.com/player.php?v=e997q7pt</link>
+                    <description>Jarrod Kimber corners Alan Richardson, the man who took the scenic route to success.</description>
+                    <guid>http://player.piksel.com/player.php?v=e997q7pt</guid>
+                    <pubDate>Sat, 14 Jul 2012 17:58:48 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode5-JarrodtalkstoAlanRichardson_3780743-1026286.mp3?cid=3807&amp;amp;aid=1026286&amp;amp;afid=1413564" fileSize="17048244" type="audio/mpeg" bitrate="64" width="1" duration="2130.89" expression="full">
+                        <media:title>Episode 5 - Jarrod talks to Alan Richardson</media:title>
+                        <media:description>Jarrod Kimber corners Alan Richardson, the man who took the scenic route to success.</media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1342288728/3813622.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=e997q7pt"/>
+                        <media:keywords>Episode,5,-,Jarrod,talks,to,Alan,Richardson</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1026286.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1026286.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1026286.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode5-JarrodtalkstoAlanRichardson_3780743-1026286.mp3?cid=3807&amp;amp;aid=1026286&amp;amp;afid=1413564" length="17048244" type="audio/mpeg"/>
+                    <itunes:duration>00:35:30</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Episode 6: Jarrod talks to Jack Shantry</title>
+                    <link>http://player.piksel.com/player.php?v=w40l7ps2</link>
+                    <description>Worcs swing bowler Jack Shantry catches up with Jarrod to discuss bowling without underwear, his weird action and making people laugh.</description>
+                    <guid>http://player.piksel.com/player.php?v=w40l7ps2</guid>
+                    <pubDate>Sat, 14 Jul 2012 17:58:45 GMT</pubDate>
+                    <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode6_JarrodtalkstoJackShantry_3789343-1026301.mp3?cid=3807&amp;amp;aid=1026301&amp;amp;afid=1413578" fileSize="14986243" type="audio/mpeg" bitrate="64" width="1" duration="1873.14" expression="full">
+                        <media:title>Episode 6: Jarrod talks to Jack Shantry</media:title>
+                        <media:description>Worcs swing bowler Jack Shantry catches up with Jarrod to discuss bowling without underwear, his weird action and making people laugh.</media:description>
+                        <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1342288725/3813623.jpg"/>
+                        <media:player url="http://player.piksel.com/player.php?v=w40l7ps2"/>
+                        <media:keywords>Episode,6:,Jarrod,talks,to,Jack,Shantry</media:keywords>
+                    </media:content>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value=""/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1026301.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1026301.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1026301.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/E/p/i/Episode6_JarrodtalkstoJackShantry_3789343-1026301.mp3?cid=3807&amp;amp;aid=1026301&amp;amp;afid=1413578" length="14986243" type="audio/mpeg"/>
+                    <itunes:duration>00:31:13</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+                <item>
+                    <title>Gabba preview</title>
+                    <link>http://player.piksel.com/player.php?v=kb813399</link>
+                    <description>In depth ball chat, Graeme Smith's future, Rob Quiney's present and who exactly is the best bowling attack in the world, this week. </description>
+                    <guid>http://player.piksel.com/player.php?v=kb813399</guid>
+                    <pubDate>Fri, 23 Nov 2012 17:29:01 GMT</pubDate>
+                    <media:group>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/a/q/t/aqt82xfx_b58w1911_mp3_64K.mp3?cid=3807&amp;amp;aid=1578015&amp;amp;afid=2531529" fileSize="13015619" type="audio/mpeg" bitrate="98.304" width="1" duration="1599.11" expression="full">
+                            <media:title>Gabba preview</media:title>
+                            <media:description>In depth ball chat, Graeme Smith's future, Rob Quiney's present and who exactly is the best bowling attack in the world, this week. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353691741/4814649.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=kb813399"/>
+                            <media:keywords>gabba, south africa, australia, test series, rob quiney, shane watson, graeme smith, </media:keywords>
+                        </media:content>
+                        <media:content url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/g/mF_gideonhaighcricketsadisthour-1578015.mp3?cid=3807&amp;amp;aid=1578015&amp;amp;afid=2531527" fileSize="25589469" type="audio/mpeg" bitrate="128" width="1" duration="1599.08" expression="full">
+                            <media:title>Gabba preview</media:title>
+                            <media:description>In depth ball chat, Graeme Smith's future, Rob Quiney's present and who exactly is the best bowling attack in the world, this week. </media:description>
+                            <media:thumbnail url="http://thumb-ovp.piksel.com/thumbs/tid/w100/h74/t1353691741/4814649.png"/>
+                            <media:player url="http://player.piksel.com/player.php?v=kb813399"/>
+                            <media:keywords>gabba, south africa, australia, test series, rob quiney, shane watson, graeme smith, </media:keywords>
+                        </media:content>
+                    </media:group>
+                    <ms:metadata>
+                        <ms:meta name="Ad Group" value="BVI - espncricinfo"/>
+                        <ms:meta name="AutoPlay Default Countries?" value=""/>
+                        <ms:meta name="AutoPlay Add IND" value=""/>
+                        <ms:meta name="AutoPlay Add AUS" value=""/>
+                        <ms:meta name="ROW" value="true"/>
+                        <ms:meta name="Mobile" value=""/>
+                        <ms:meta name="US Only Mobile" value=""/>
+                    </ms:metadata>
+                    <smil:http>http://api-ovp.piksel.com/ws/get_smilv2/od/http/1578015.smil</smil:http>
+                    <smil:hd>http://api-ovp.piksel.com/ws/get_smilv2/od/hd/1578015.smil</smil:hd>
+                    <smil:rtmp>http://api-ovp.piksel.com/ws/get_smilv2/od/rtmp/1578015.smil</smil:rtmp>
+                    <enclosure url="http://espn.multicastmedia.com/mm/flvmedia/3807/m/F/g/mF_gideonhaighcricketsadisthour-1578015.mp3?cid=3807&amp;amp;aid=1578015&amp;amp;afid=2531527" length="25589469" type="audio/mpeg"/>
+                    <itunes:duration>00:26:39</itunes:duration>
+                    <itunes:author>ESPN_Cricinfo</itunes:author>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

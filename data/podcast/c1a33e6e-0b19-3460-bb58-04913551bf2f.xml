@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:40:24 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="Vary" value="Host"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.2.5"/>
+        <httpclient:header name="Content-Length" value="3105"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml"><?xml-stylesheet href="/styles/rss/rss20.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="/styles/rss/rss20.css" type="text/css" media="screen"?>
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+            <channel>
+                <title>Das Abenteuer Single</title>
+                <itunes:subtitle>Das Abenteuer Single</itunes:subtitle>
+                <itunes:summary>Viele Singles vernachlässigen auf der Suche nach einem Partner die eigene Entwicklung und vergeben dadurch viele Chancen. Single zu sein birgt eine Menge grossartiger Möglichkeiten, sich immer wieder bewusst in ein Lernfeld zu begeben. Das entsteht, wenn Sie mit einem interessanten potentiellen Partner in Kontakt treten. Selten geht es so sehr ans „Eingemachte“. 
+Glauben Sie nicht? Dann gehen Sie doch mal auf die Strasse, suchen einen interessanten, attraktiven Menschen, der Sie anspricht und finden Sie einen Weg, dass er sich abends mit Ihnen zum Essen trifft...
+Das Repertoire von Fragen und Emotionen, die in Ihnen entstehen kann sehr breit sein: Wie spreche ich ihn/sie an? Wie verhalte ich mich bei einer Zurückweisung? Was tue ich, wenn ich feststelle, dass ich mich getäuscht habe? Wie grenze ich mich ab? Kann ich zugleich authentisch und interessant wirken? Wie erkenne ich, wer sich wirklich hinter dem Anderen verbirgt?
+Ich werde ihnen sukzessive zeigen, wie Sie diese und noch viele weitere Themen meistern. Dadurch werden Sie nicht nur selbstsicherer, klarer und selbstbewusster. Sie werden attraktiver – denn innere Stärke strahlt immer nach aussen.
+</itunes:summary>
+                <link>http://www.abenteuer-single.de</link>
+                <description>Nutzen Sie bewusst das spannende Lernfeld in das sich Singles immer wieder automatisch begeben. Werden Sie dadurch innerlich stärker und attraktiver. Ich zeige Ihnen, wie!</description>
+                <lastBuildDate>Wed, 20 Aug 2014 14:40:24 +0200</lastBuildDate>
+                <language>de-ch</language>
+                <copyright>(c) 2009 by www.dasAbenteuerLeben.de</copyright>
+                <generator>PodHost.de - Keeping your podcasts up and running</generator>
+                <webMaster>Sebastian Purps</webMaster>
+                <managingEditor>Sebastian Purps</managingEditor>
+                <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" title="Das Abenteuer Single" href="http://abenteuer-single.podspot.de/rss"/>
+                <itunes:owner>
+                    <itunes:name>Sebastian Purps /www.dasabenteuerleben.de</itunes:name>
+                    <itunes:email>sebastian.purps@dasabenteuerleben.de</itunes:email>
+                </itunes:owner>
+                <itunes:author>Sebastian Purps</itunes:author>
+                <itunes:category text="Business"/>
+                <itunes:category text="Education"/>
+                <itunes:keywords>Single, Beziehung, Persönlichkeitsentwicklung</itunes:keywords>
+                <itunes:image href="http://www.dasabenteuerleben.de/mp3/al_itunes_18_single.jpg"/>
+                <image>
+                    <url>http://www.dasabenteuerleben.de/mp3/al_itunes_18_single.jpg</url>
+                    <title>Das Abenteuer Single</title>
+                    <link>http://www.abenteuer-single.de</link>
+                </image>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:block/>
+                <ttl>20</ttl>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

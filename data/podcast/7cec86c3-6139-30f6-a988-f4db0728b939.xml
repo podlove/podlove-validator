@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="48302"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:49:30 GMT"/>
+        <httpclient:header name="X-Varnish" value="771848843"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Lördax: Experttimmen</title>
+                <link>http://arenan.yle.fi/api/search.rss?id=1266470&amp;ladattavat=1</link>
+                <pubDate>Wed, 20 Aug 2014 12:49:07 +0300</pubDate>
+                <description/>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary/>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_65.jpg</url>
+                    <title>Lördax: Experttimmen</title>
+                    <link>http://arenan.yle.fi/api/search.rss?id=1266470&amp;ladattavat=1</link>
+                </image>
+                <item>
+                    <title>Lördax: Experttimmen: 19.05.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1557512</link>
+                    <guid isPermaLink="false">674dd52ba4d54072a60595dd61317b7d</guid>
+                    <description>Bernt Morelius svarar på frågor om gammalt och antikt.</description>
+                    <pubDate>Sat, 19 May 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/0e/0efb37f39df94c1090ecccd438906a73.mp3?filename=_20120519_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/67/674dd52ba4d54072a60595dd61317b7d/674dd52ba4d54072a60595dd61317b7d_1337425717949.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-05-19T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 12.05.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1548107</link>
+                    <guid isPermaLink="false">a6daf5ded32e4a8fb1614b7075c0ae32</guid>
+                    <description>Bernt Morelius svarar på frågor om gammalt och antikt.</description>
+                    <pubDate>Sat, 12 May 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/6d/6d594ee15d56420fbba67cbb4f2f680f.mp3?filename=_20120512_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a6/a6daf5ded32e4a8fb1614b7075c0ae32/a6daf5ded32e4a8fb1614b7075c0ae32_1336821893406.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-05-12T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 05.05.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1544645</link>
+                    <guid isPermaLink="false">f02b4eb35eb841cfacc39b7a3e7fb8ba</guid>
+                    <description>Experttimme</description>
+                    <pubDate>Sat, 5 May 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/28/28c32b05b7364b859a852856299f245c.mp3?filename=_20120505_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f0/f02b4eb35eb841cfacc39b7a3e7fb8ba/f02b4eb35eb841cfacc39b7a3e7fb8ba_1336216011234.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-05-05T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 28.04.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1540976</link>
+                    <guid isPermaLink="false">af0637f963724402b59872fc2981e022</guid>
+                    <description>Trädgårdsexperten Johan Slätis svarar på lyssnarnas frågor.</description>
+                    <pubDate>Sat, 28 Apr 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/b2/b2cbc12278a642c4a73203103c799fce.mp3?filename=_20120428_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/af/af0637f963724402b59872fc2981e022/af0637f963724402b59872fc2981e022_1335611161512.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-04-28T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 21.04.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1531666</link>
+                    <guid isPermaLink="false">6694b10364494e40b6e2ecf5bb423c33</guid>
+                    <description>om gammalt och antikt med Bernt Morelius.</description>
+                    <pubDate>Sat, 21 Apr 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/f6/f607f46182704a4e9df727061f094b3b.mp3?filename=_20120421_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/66/6694b10364494e40b6e2ecf5bb423c33/6694b10364494e40b6e2ecf5bb423c33_1335006904311.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-04-21T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 14.04.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1524718</link>
+                    <guid isPermaLink="false">da3eb5157f20423e9245d51db0c297df</guid>
+                    <description>Johan Hultkrantz och Carolus Reincke svarar på frågor om ekonomi.</description>
+                    <pubDate>Sat, 14 Apr 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/a7/a7bbd50c5e214cfb9a101d9e6a4b1850.mp3?filename=_20120414_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/da/da3eb5157f20423e9245d51db0c297df/da3eb5157f20423e9245d51db0c297df_1334401612312.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-04-14T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 07.04.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1515224</link>
+                    <guid isPermaLink="false">6eb9fb7095b54e24a2dc1382877b2e37</guid>
+                    <description>Experttimmen</description>
+                    <pubDate>Sat, 7 Apr 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/61/61cdf79a2bb94633a67d8c9f10e7872a.mp3?filename=_20120407_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/6e/6eb9fb7095b54e24a2dc1382877b2e37/6eb9fb7095b54e24a2dc1382877b2e37_1333796767190.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-04-07T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 31.03.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1509491</link>
+                    <guid isPermaLink="false">596d84ba3e9d4abeb634e9b5646f9596</guid>
+                    <description>Naturväktaren Anders Albrecht svarar på frågor om djur och natur.</description>
+                    <pubDate>Sat, 31 Mar 2012 13:03:00 +0300</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/8d/8d05d08bdc4a417cb8dbf9c430a54794.mp3?filename=_20120331_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/59/596d84ba3e9d4abeb634e9b5646f9596/596d84ba3e9d4abeb634e9b5646f9596_1333191956866.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-03-31T13:03:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 24.03.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1493842</link>
+                    <guid isPermaLink="false">147710e1c4fe484f8022ebf023be3dba</guid>
+                    <description>Mikael Reuter svarar på alla frågor om vårt språk.</description>
+                    <pubDate>Sat, 24 Mar 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/7b/7b23e1a6574e44389036650f5b019883.mp3?filename=_20120324_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/14/147710e1c4fe484f8022ebf023be3dba/147710e1c4fe484f8022ebf023be3dba_1332590740345.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-03-24T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 17.03.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1486108</link>
+                    <guid isPermaLink="false">08ae050329684341899a78956d04da41</guid>
+                    <description>Solveig Backström från Marthaförbundet svarar på frågor om hushållet.</description>
+                    <pubDate>Sat, 17 Mar 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/5b/5b5adb5cc0744f8ca4a8421e82bda19c.mp3?filename=_20120317_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/08/08ae050329684341899a78956d04da41/08ae050329684341899a78956d04da41_1331986001049.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-03-17T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 10.03.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1480184</link>
+                    <guid isPermaLink="false">5a7403d969f9452ab0198b98215762f5</guid>
+                    <description>Lördax experttimmen - Djur med Johan Karlsson.</description>
+                    <pubDate>Sat, 10 Mar 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/b9/b9fb1778932144dbb8c3ef6fc62266e2.mp3?filename=_20120310_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/5a/5a7403d969f9452ab0198b98215762f5/5a7403d969f9452ab0198b98215762f5_1331381197064.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-03-10T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 03.03.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1473221</link>
+                    <guid isPermaLink="false">f8c835aee0684426bec8d6fe9e05723b</guid>
+                    <description>Lördax experttimmen - Djur med Johan Karlsson.</description>
+                    <pubDate>Sat, 3 Mar 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/86/8683038a7c764ec9815dc72c0905845d.mp3?filename=_20120303_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f8/f8c835aee0684426bec8d6fe9e05723b/f8c835aee0684426bec8d6fe9e05723b_1330776340821.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-03-03T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 25.02.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1465435</link>
+                    <guid isPermaLink="false">c2bd22f21ba64382a49400be7d33aeb2</guid>
+                    <description>Johan Hultkrantz och Carolus Reinnick.</description>
+                    <pubDate>Sat, 25 Feb 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/78/78305d045c784c708a41ff4969e76591.mp3?filename=_20120225_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/c2/c2bd22f21ba64382a49400be7d33aeb2/c2bd22f21ba64382a49400be7d33aeb2_1330171581287.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-02-25T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 18.02.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1460798</link>
+                    <guid isPermaLink="false">1df9bb7509614314ae441e26196a1f41</guid>
+                    <description>Antikt med Bernt Morelius.</description>
+                    <pubDate>Sat, 18 Feb 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/b6/b6698464b9be43ef8e19963b6dd14c47.mp3?filename=_20120218_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1d/1df9bb7509614314ae441e26196a1f41/1df9bb7509614314ae441e26196a1f41_1329566788953.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-02-18T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 11.02.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1444690</link>
+                    <guid isPermaLink="false">13eb07d84a804b3589088e03039fbd8f</guid>
+                    <description>Krukväxter med Börje Fri.</description>
+                    <pubDate>Sat, 11 Feb 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/6c/6cf6b8a7659f492a99dac72c0bd0f451.mp3?filename=_20120211_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/13/13eb07d84a804b3589088e03039fbd8f/13eb07d84a804b3589088e03039fbd8f_1328962000752.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-02-11T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 04.02.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1437447</link>
+                    <guid isPermaLink="false">9b3db764ac8d449197d5e08bd5781df4</guid>
+                    <description>Lördax experttimme.</description>
+                    <pubDate>Sat, 4 Feb 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/57/57247f2dbc6f464ab2b88049741c4579.mp3?filename=_20120204_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/9b/9b3db764ac8d449197d5e08bd5781df4/9b3db764ac8d449197d5e08bd5781df4_1328357163210.jpg" width="960" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-02-04T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 28.01.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1430069</link>
+                    <guid isPermaLink="false">a251fddfe8f04fc2a4ca3a1560bdc824</guid>
+                    <description>Lördax experttimme. Bernt Morelius om gammalt och antikt.</description>
+                    <pubDate>Sat, 28 Jan 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/7a/7ae34a9fec434666b1d98bc0397ecf74.mp3?filename=_20120128_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/a2/a251fddfe8f04fc2a4ca3a1560bdc824/a251fddfe8f04fc2a4ca3a1560bdc824_1327752391911.jpg" width="940" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-01-28T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 21.01.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1422123</link>
+                    <guid isPermaLink="false">169465f1fc4f4cdb93634ced26b437c7</guid>
+                    <description>Lördax experttimme. Hur skall man skriva och säga på riktig svenska.</description>
+                    <pubDate>Sat, 21 Jan 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/ad/ad71b057ac5448f08a72990f1909f104.mp3?filename=_20120121_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/16/169465f1fc4f4cdb93634ced26b437c7/169465f1fc4f4cdb93634ced26b437c7_1327147613848.jpg" width="940" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-01-21T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 14.01.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1414415</link>
+                    <guid isPermaLink="false">1bb9dee1a2534883b4bcbe62b88d8552</guid>
+                    <description>Lördax experttimme. Ulrika Ehrnstén, expert på djurbeteende, svarar på lyssnarfrågor. Ring 0600-11 12 13! eller skicka e-post till adressen lordax.vega@yle.fi Du kan också delta via sms: Skriv ordet Lördax (mellanslag) och därefter din fråga och skicka meddelandet till 16149. Kostnad 50 cent. Max 160 tecken.</description>
+                    <pubDate>Sat, 14 Jan 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/4b/4b196654c1884d8a8bce6c9ad860db1c.mp3?filename=_20120114_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/1b/1bb9dee1a2534883b4bcbe62b88d8552/1bb9dee1a2534883b4bcbe62b88d8552_1326542790222.jpg" width="940" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-01-14T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 07.01.2012 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1407404</link>
+                    <guid isPermaLink="false">b1fdd4eff0df4955836408c3567d5b11</guid>
+                    <description>Lördax experttimme. Ulrika Ehrnstén, expert på djurbeteende, svarar på lyssnarfrågor. Ring 0600-11 12 13! eller skicka e-post till adressen lordax.vega@yle.fi Du kan också delta via sms: Skriv ordet Lördax (mellanslag) och därefter din fråga och skicka meddelandet till 16149. Kostnad 50 cent. Max 160 tecken.</description>
+                    <pubDate>Sat, 7 Jan 2012 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/69/697508801f8745529486e829d978963e.mp3?filename=_20120107_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b1/b1fdd4eff0df4955836408c3567d5b11/b1fdd4eff0df4955836408c3567d5b11_1325938002471.jpg" width="940" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2012-01-07T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+                <item>
+                    <title>Lördax: Experttimmen: 31.12.2011 13.03</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://arenan.yle.fi/radio/1399581</link>
+                    <guid isPermaLink="false">51c5a55b8293451d81013221d745ed70</guid>
+                    <description>Experttimmen</description>
+                    <pubDate>Sat, 31 Dec 2011 13:03:00 +0200</pubDate>
+                    <category>Fakta och kultur</category>
+                    <enclosure url="http://areena-beta.yle.fi/static/mk/download/fe/fe2f4c0940c144bca0b03826c4601604.mp3?filename=_20111231_1303.mp3" type="audio/mp3" length="455880"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/51/51c5a55b8293451d81013221d745ed70/51c5a55b8293451d81013221d745ed70_1325333303555.jpg" width="940" height="529"/>
+                    <dcterms:subject>Lördax: Experttimmen</dcterms:subject>
+                    <dcterms:valid>start=2011-12-31T13:03:00+0200; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="3480"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

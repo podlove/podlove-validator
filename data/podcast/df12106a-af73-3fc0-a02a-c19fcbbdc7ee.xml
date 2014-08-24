@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:31:55 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="X-Runtime" value="6"/>
+        <httpclient:header name="Last-Modified" value="Sun, 10 Aug 2014 12:59:16 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=b5da745c85bda2e88840a5c3fdc72b86; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 09:31:55 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="24487"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Améliorer son français</title>
+                <link>http://ameliorersonfrancais.podomatic.com</link>
+                <description>Un allié de choix dans la consolidation de votre maîtrise de la langue français, voilà ce que propose cette plateforme. Avec la compréhension de l'oral, vous pourrez aussi vous entraîner à l'écrit sur ameliorersonfrancais.blogspot.com !</description>
+                <language>fr-fr</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Sun, 10 Aug 2014 12:59:16 GMT</pubDate>
+                <itunes:keywords>française,langue,language,french,master,education,langues,lettres,literature,improve,améliorer,meilleur</itunes:keywords>
+                <itunes:subtitle>Pour tous ceux qui veulent améliorer leur français ! Vous retrouverez les textes sur ameliorersonfrancais.blogspot.com</itunes:subtitle>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                <itunes:author>Olivier Lenoir</itunes:author>
+                <itunes:summary>Un allié de choix dans la consolidation de votre maîtrise de la langue français, voilà ce que propose cette plateforme. Avec la compréhension de l'oral, vous pourrez aussi vous entraîner à l'écrit sur ameliorersonfrancais.blogspot.com !</itunes:summary>
+                <itunes:category text="Education">
+                    <itunes:category text="Language Courses"/>
+                </itunes:category>
+                <atom:link rel="self" type="application/rss+xml" href="http://ameliorersonfrancais.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>Le fromage français</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;La France, le pays aux trois cents fromages, est un cadre propice à la production de cet aliment qui, à lui seul, vante la gastronomie française aux quatre coins du globe. La variété des fromages français est ainsi un plaisir pour tous !</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2014-02-21T18_58_49-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2014-02-21T18_58_49-08_00</comments>
+                    <pubDate>Sat, 22 Feb 2014 02:58:49 GMT</pubDate>
+                    <dcterms:modified>2014-02-22</dcterms:modified>
+                    <dcterms:created>2014-02-22</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,language,courses,fromage,pour,ameliorersonfrancaisblogspotcom,française,french,improve,langues,lettres,literature,meilleur,textes</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2014-02-21T18_58_49-08_00.mp3" length="6565220"/>
+                    <itunes:duration>410</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>La France, le pays aux trois cents fromages, est un cadre propice à la production de cet aliment qui, à lui seul, vante la gastronomie française aux quatre coins du globe. La variété des fromages français est ainsi un plaisir pour tous !</itunes:summary>
+                    <itunes:subtitle>La France, le pays aux trois cents fromages, est un cadre propice à la production de cet aliment ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>L'Organisation Internationale de la Francophonie</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Parce que le français ne se limite pas à la France, parce que la langue française et les valeurs françaises sont d'un intérêt mondial, la francophonie devient un enjeu capital dans le monde. L'Organisation Internationale de la Francophonie (O.I.F.) doit donc jouer un rôle fondamental.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2014-01-18T19_06_24-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2014-01-18T19_06_24-08_00</comments>
+                    <pubDate>Sun, 19 Jan 2014 03:06:24 GMT</pubDate>
+                    <dcterms:modified>2014-01-19</dcterms:modified>
+                    <dcterms:created>2014-01-19</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>ameliorersonfrancaisblogspotcom,améliorer,audio,audio/mpeg,française,french,improve,language,courses,langue,langues,lettres,literature,meilleur,master,tous,textes,francophonie,organisation,internationale</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2014-01-18T19_06_24-08_00.mp3" length="6309011"/>
+                    <itunes:duration>394</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary>Parce que le français ne se limite pas à la France, parce que la langue française et les valeurs françaises sont d'un intérêt mondial, la francophonie devient un enjeu capital dans le monde. L'Organisation Internationale de la Francophonie (O.I.F.) doit donc jouer un rôle fondamental.</itunes:summary>
+                    <itunes:subtitle>Parce que le français ne se limite pas à la France, parce que la langue française et les valeurs ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Sciences Po Paris</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Le système d'éducation supérieure français est particulièrement riche. C'est ainsi que Sciences Po Paris a pu s'imposer comme l'un des symboles du rayonnement français à l'étranger. De quoi s'agit-il ?</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2014-01-09T02_21_04-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2014-01-09T02_21_04-08_00</comments>
+                    <pubDate>Thu, 09 Jan 2014 10:21:04 GMT</pubDate>
+                    <dcterms:modified>2014-01-09</dcterms:modified>
+                    <dcterms:created>2014-01-09</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>ameliorersonfrancaisblogspotcom,améliorer,audio,audio/mpeg,education,française,french,improve,language,courses,langue,lettres,literature,meilleur,veulent,vous,tous,sciences,politique,politiques,po,sciencespo,paris,littérature,relations,internationales,</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2014-01-09T02_21_04-08_00.mp3" length="5285011"/>
+                    <itunes:duration>330</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary>Le système d'éducation supérieure français est particulièrement riche. C'est ainsi que Sciences Po Paris a pu s'imposer comme l'un des symboles du rayonnement français à l'étranger. De quoi s'agit-il ?</itunes:summary>
+                    <itunes:subtitle>Le système d'éducation supérieure français est particulièrement riche. C'est ainsi que Sciences P...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Pierre Corneille</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Le XVIIe siècle est "le" siècle d'or du théâtre français. Pierre Corneille apparaît alors comme un auteur "tout-terrain" car il a écrit aussi bien des comédies et des tragédies que des tragicomédies.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-12-18T19_02_57-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-12-18T19_02_57-08_00</comments>
+                    <pubDate>Thu, 19 Dec 2013 03:02:57 GMT</pubDate>
+                    <dcterms:modified>2013-12-19</dcterms:modified>
+                    <dcterms:created>2013-12-19</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,audio,education,française,language,courses,langue,langues,lettres,literature,meilleur,corneille,xviie,17th,tragédie,comedy,tragedy</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-12-18T19_02_57-08_00.mp3" length="5124933"/>
+                    <itunes:duration>320</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>Le XVIIe siècle est "le" siècle d'or du théâtre français. Pierre Corneille apparaît alors comme un auteur "tout-terrain" car il a écrit aussi bien des comédies et des tragédies que des tragicomédies.</itunes:summary>
+                    <itunes:subtitle>Le XVIIe siècle est "le" siècle d'or du théâtre français. Pierre Corneille apparaît alors comme u...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Une crème brûlée</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;On ne peut aimer la France sans aimer ce que ses habitants mangent. Plus particulièrement, les desserts français sont connus dans le monde entier pour leur douceur et leur texture. La crème brûlée sera donc votre alliée gourmande !</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-28T02_00_41-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-28T02_00_41-08_00</comments>
+                    <pubDate>Thu, 28 Nov 2013 10:00:41 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,audio,education,language,langue,langues,lettres,literature,meilleur,littérature,recette,cuisine,gastronomie</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-28T02_00_41-08_00.mp3" length="4165298"/>
+                    <itunes:duration>260</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary>On ne peut aimer la France sans aimer ce que ses habitants mangent. Plus particulièrement, les desserts français sont connus dans le monde entier pour leur douceur et leur texture. La crème brûlée sera donc votre alliée gourmande !</itunes:summary>
+                    <itunes:subtitle>On ne peut aimer la France sans aimer ce que ses habitants mangent. Plus particulièrement, les de...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Le système scolaire - 2</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Après le primaire et le collège, les choses sérieuses commencent. En trois ans, le lycée doit faire en sorte que les élèves choisissent une bonne orientation et passent leur baccalauréat.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-24T09_21_17-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-24T09_21_17-08_00</comments>
+                    <pubDate>Sun, 24 Nov 2013 17:21:17 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,audio,ceux,education,française,french,improve,language,langue,langues,lettres,literature,meilleur,littérature,système,scolaire,france</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-24T09_21_17-08_00.mp3" length="4869142"/>
+                    <itunes:duration>304</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>6</itunes:order>
+                    <itunes:summary>Après le primaire et le collège, les choses sérieuses commencent. En trois ans, le lycée doit faire en sorte que les élèves choisissent une bonne orientation et passent leur baccalauréat.</itunes:summary>
+                    <itunes:subtitle>Après le primaire et le collège, les choses sérieuses commencent. En trois ans, le lycée doit fai...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>François Ier</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;L'histoire de France est marquée par de grands hommes et parmi eux, les rois ont une place de choix. François I­er est donc devenu la clef de voûte de la France du XVIIe siècle, qui s'engage alors vers le statut de première puissance économique et culturelle au monde.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-22T07_50_34-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-22T07_50_34-08_00</comments>
+                    <pubDate>Fri, 22 Nov 2013 15:50:34 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,audio,education,language,courses,lettres,literature,française,ier,roi,france,histoire</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-22T07_50_34-08_00.mp3" length="6167741"/>
+                    <itunes:duration>385</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>7</itunes:order>
+                    <itunes:summary>L'histoire de France est marquée par de grands hommes et parmi eux, les rois ont une place de choix. François I­er est donc devenu la clef de voûte de la France du XVIIe siècle, qui s'engage alors vers le statut de première puissance économique et culturelle au monde.</itunes:summary>
+                    <itunes:subtitle>L'histoire de France est marquée par de grands hommes et parmi eux, les rois ont une place de cho...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>La génétique</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Nous ne naissons pas de rien. Nos parents, d'un point de vue scientifique, nous transmettent leurs gènes et ceux-ci constituent une bonne part de notre corps humain tout au long de notre vie. C'est la génétique qui étudie ces éléments présents dès les premières minutes de notre existence, alors que nous ne sommes encore que des cellules.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-21T04_29_54-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-21T04_29_54-08_00</comments>
+                    <pubDate>Thu, 21 Nov 2013 12:29:54 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,language,courses,education,française,french,improve,lettres,master,génétique,science,bases,culture</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-21T04_29_54-08_00.mp3" length="5272890"/>
+                    <itunes:duration>329</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>8</itunes:order>
+                    <itunes:summary>Nous ne naissons pas de rien. Nos parents, d'un point de vue scientifique, nous transmettent leurs gènes et ceux-ci constituent une bonne part de notre corps humain tout au long de notre vie. C'est la génétique qui étudie ces éléments présents dès les premières minutes de notre existence, alors que nous ne sommes encore que des cellules.</itunes:summary>
+                    <itunes:subtitle>Nous ne naissons pas de rien. Nos parents, d'un point de vue scientifique, nous transmettent leur...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Honoré de Balzac</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;L'histoire et la sociologie ne sont pas les seules capables d'établir le constat d'un groupe d'hommes à une époque. La littérature a pleinement un rôle à jouer, et Balzac en est un protagoniste de choix. Ses deux mille cinq cents personnages offrent ainsi le miroir d'un monde plus fascinant que jamais.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-20T09_07_16-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-20T09_07_16-08_00</comments>
+                    <pubDate>Wed, 20 Nov 2013 17:07:16 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>améliorer,education,improve,french,française,language,courses,langue,langues,lettres,literature,meilleur,balzac,xixe,19th</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-20T09_07_16-08_00.mp3" length="4901324"/>
+                    <itunes:duration>306</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>9</itunes:order>
+                    <itunes:summary>L'histoire et la sociologie ne sont pas les seules capables d'établir le constat d'un groupe d'hommes à une époque. La littérature a pleinement un rôle à jouer, et Balzac en est un protagoniste de choix. Ses deux mille cinq cents personnages offrent ainsi le miroir d'un monde plus fascinant que jamais.</itunes:summary>
+                    <itunes:subtitle>L'histoire et la sociologie ne sont pas les seules capables d'établir le constat d'un groupe d'ho...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Paris, la ville-lumière</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Tout État possède une capitale. Mais celle de la France n'est pas comme toutes les autres : c'est aussi la capitale mondiale de la culture. Laissez-vous charmer par le cachet d'une ville qui a tout à vous offrir.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-19T08_33_11-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-19T08_33_11-08_00</comments>
+                    <pubDate>Tue, 19 Nov 2013 16:33:11 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>paris,ville,lumière,france,french,light,city,langue,language</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-19T08_33_11-08_00.mp3" length="4466229"/>
+                    <itunes:duration>279</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>10</itunes:order>
+                    <itunes:summary>Tout État possède une capitale. Mais celle de la France n'est pas comme toutes les autres : c'est aussi la capitale mondiale de la culture. Laissez-vous charmer par le cachet d'une ville qui a tout à vous offrir.</itunes:summary>
+                    <itunes:subtitle>Tout État possède une capitale. Mais celle de la France n'est pas comme toutes les autres : c'est...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Le système scolaire - 1</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Comment se forment les adultes de demain ? Pour répondre à cette interrogation, je vous propose un enregistrement qui vous expliquera l'organisation du système éducatif français, de la maternelle à la fin du collège.</description>
+                    <guid isPermaLink="true">http://ameliorersonfrancais.podomatic.com/entry/2013-11-19T06_38_15-08_00</guid>
+                    <comments>http://ameliorersonfrancais.podomatic.com/entry/2013-11-19T06_38_15-08_00</comments>
+                    <pubDate>Tue, 19 Nov 2013 14:38:15 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://ameliorersonfrancais.podomatic.com</link>
+                    <dc:creator>Olivier Lenoir</dc:creator>
+                    <itunes:keywords>système,scolaire,france,langue,française,primaire</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://ameliorersonfrancais.podomatic.com/enclosure/2013-11-19T06_38_15-08_00.mp3" length="5511545"/>
+                    <itunes:duration>344</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/ab/4b/cc/zakomoricien/1400x1400_9000466.jpg"/>
+                    <itunes:explicit>clean</itunes:explicit>
+                    <itunes:order>11</itunes:order>
+                    <itunes:summary>Comment se forment les adultes de demain ? Pour répondre à cette interrogation, je vous propose un enregistrement qui vous expliquera l'organisation du système éducatif français, de la maternelle à la fin du collège.</itunes:summary>
+                    <itunes:subtitle>Comment se forment les adultes de demain ? Pour répondre à cette interrogation, je vous propose u...</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

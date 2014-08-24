@@ -1,0 +1,129 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:ical="http://www.w3.org/2002/12/cal/ical#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
+    
+    <foaf:PersonalProfileDocument rdf:about="">
+        <foaf:maker rdf:resource="#me"/>
+        <foaf:primaryTopic rdf:resource="#me"/>
+    </foaf:PersonalProfileDocument>
+    
+    <foaf:Person rdf:ID="me">
+        <foaf:name xml:lang="en">Henry Rzepa</foaf:name>
+        <foaf:givenname>Henry</foaf:givenname>
+        <foaf:family_name>Rzepa</foaf:family_name>
+        <foaf:title>Professor</foaf:title>
+        <foaf:img rdf:resource="http://www.ch.ic.ac.uk/rzepa/rzepa_2005.jpg"/>
+        <foaf:nick>rzepa</foaf:nick>
+        <foaf:based_near geo:lat="51.497798" geo:long="-0.176728" />
+        <rdfs:seeAlso rdf:resource="http://maps.google.co.uk/maps?ll=51.496902,-0.176135&amp;spn=0.005951,0.008712&amp;z=17"/>
+        <foaf:mbox rdf:resource="mailto:rzepa@rzepa.net"/>
+        <foaf:mbox_sha1sum>2a41464300887626152e852115b6b30392975279</foaf:mbox_sha1sum>
+        <foaf:homepage rdf:resource="http://www.imperial.ac.uk/people/h.rzepa/"/>
+        <foaf:schoolHomepage rdf:resource="http://www.imperial.ac.uk/"/>
+        <foaf:weblog rdf:resource="http://www.ch.ic.ac.uk/rzepa/blog/"/>
+        <foaf:publications rdf:resource="http://www3.imperial.ac.uk/people/h.rzepa/publications"/>
+        
+        <!--   Interests; publications            -->
+        
+        <foaf:interest  rdf:resource="http://dx.doi.org/10.1021/ol703129z"/>
+        
+        <!--   Interests; molecules           -->
+        
+        <foaf:interest rdf:resource="http://rdf.openmolecules.net/?InChI=1/C14H24/c1-2-4-6-8-10-12-14-13-11-9-7-5-3-1/h1-2,11,13H,3-10,12,14H2/b2-1-,13-11-"/>
+        <foaf:interest rdf:resource="http://dx.doi.org/10042/to-426"/>
+        <foaf:interest rdf:resource="http://dx.doi.org/10042/to-332"/>
+        
+        
+        <!-- Knows -->
+        
+        <foaf:knows rdf:resource="#EgonWillighagen"/>
+        
+        <!-- PROJECTS -->
+        
+        <foaf:currentProject>
+            <foaf:Project>
+                <foaf:organization>The Blue Obelisk Group</foaf:organization>
+                <foaf:homepage rdf:resource="http://www.blueobelisk.org/" />
+            </foaf:Project>
+        </foaf:currentProject> 
+        
+    </foaf:Person>
+    
+    <!-- FRIENDS -->
+    
+    <foaf:Person rdf:ID="EgonWillighagen">
+        <foaf:name>Egon Willighagen</foaf:name>
+        <rdfs:seeAlso rdf:resource="http://blueobelisk.sourceforge.net/people/egonw/foaf.xml"/>
+        <foaf:knows rdf:resource="#me"/>
+    </foaf:Person>
+    
+    <!-- GROUPS -->
+    
+    <foaf:Group rdf:ID="BlueObelisk">
+        <foaf:name>The Blue Obelisk Movement</foaf:name>
+        <foaf:member rdf:resource="#me"/>
+        
+    </foaf:Group>
+    
+    <!-- PRESENTATIONS -->
+    
+    <ical:Vevent>
+        <ical:attendee rdf:nodeID="me"/> 
+        <ical:summary>ACS, New Orleans, 2008</ical:summary>
+        <ical:summary>FOAF (Friend-of-a-friend): RDF-metadata enhanced Social Networking in Chemistry</ical:summary>
+        <foaf:homepage rdf:resource="http://oasys2.confex.com/acs/235nm/techprogram/S27368.HTM" />
+        <foaf:based_near geo:lat="29.9419534" geo:long="-90.0633231" />
+        <ical:dtstart rdf:parseType='Resource'>
+            <ical:date>2008-04-05</ical:date>
+        </ical:dtstart>
+        <ical:dtend rdf:parseType='Resource'>
+            <ical:date>2008-04-10</ical:date>
+        </ical:dtend>
+    </ical:Vevent>
+    
+    <ical:Vevent>
+        <ical:attendee rdf:nodeID="me"/> 
+        <ical:summary>Imperial College London</ical:summary>
+        <ical:summary>Molecular modelling for  Organic Chemistry</ical:summary>
+        <foaf:homepage rdf:resource="http://www.ch.ic.ac.uk/local/organic/mod/" />
+        <foaf:based_near geo:lat="51.497798" geo:long="-0.176728" />
+        <rdfs:seeAlso rdf:resource="http://www.ch.ic.ac.uk/pss/index.php?page=RSSFeeds&amp;type=changes&amp;group=66"/>
+        <ical:dtstart rdf:parseType='Resource'>
+            <ical:date>2008-02-05</ical:date>
+        </ical:dtstart>
+        <ical:dtend rdf:parseType='Resource'>
+            <ical:date>2008-02-10</ical:date>
+        </ical:dtend>
+    </ical:Vevent>
+    
+    
+    <!-- PUBLICATIONS -->
+    <bibo:Article
+        rdf:about="http://www.imperial.ac.uk/people/h.rzepa/refid814246"
+        dcterms:Language="en"
+        dcterms:Title="Chemical Markup, XML, and the World Wide Web. 7. CMLSpect, an XML vocabulary for spectral data."
+        dcterms:Contributor="Kuhn, S;Helmus, T;Lancashire, RJ;Murray-Rust, P;Rzepa, HS;Steinbeck, C;Willighagen, EL">
+        <dcterms:isPartOf>
+            <bibo:Document>
+                <bibo:Journal dcterms:Title="J Chem Inf Model"
+                    bibo:startPage="2015" bibo:endPage="2034"
+                    bibo:issn="1549-9596" />
+            </bibo:Document>
+        </dcterms:isPartOf>
+        <bibo:contribution>
+            <bibo:Contribution
+                rdf:about="http://www.imperial.ac.uk/people/h.rzepa/publications/814246">
+                <bibo:role
+                    rdf:resource="http://purl.org/ontology/bibo/roles/author" />
+                <bibo:contributor rdf:resource="p5161" />
+                <bibo:position>1</bibo:position>
+            </bibo:Contribution>
+        </bibo:contribution>
+    </bibo:Article>    
+</rdf:RDF>

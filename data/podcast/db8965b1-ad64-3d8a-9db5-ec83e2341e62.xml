@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:10 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:10 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=ttgc21ww1tehwraunt1my3qw; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:09 GMT"/>
+        <httpclient:header name="Content-Length" value="114302"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/20494</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/20494" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:10 GMT</lastBuildDate>
+                <image>
+                    <title>Knyckare i P3</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4617</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4617/3170272_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>I ”Knyckare i P3” får Emma lära sig nya saker varje dag med hjälp av lyssnarna. Varje program innehåller ett specifikt skolämne, med lyssnarna som klasskamrater kommer det att vara allt från kvarsittning till spökboll i studion. Det är lyssnarna som bestämmer vad som står på dagens schema.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Knyckare i P3</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Knyckare i P3</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4617</link>
+                <description>I ”Knyckare i P3” får Emma lära sig nya saker varje dag med hjälp av lyssnarna. Varje program innehåller ett specifikt skolämne, med lyssnarna som klasskamrater kommer det att vara allt från kvarsittning till spökboll i studion. Det är lyssnarna som bestämmer vad som står på dagens schema.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Allt om elefantens inre väsen</title>
+                    <description>Klasskompis Petrina Karlsson är på besök och vi lär oss samtligt allt om elafantens inre väsen. Psykologi på schemat alltså.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048573.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140819_1100_36e7467.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Klasskompis Petrina Karlsson är på besök och vi lär oss samtligt allt om elafantens inre väsen. Psykologi på schemat alltså.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,elefantens,inre,väsen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048573.mp3" length="28836476" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Projektarbete: Starta parti</title>
+                    <description>Äntligen är Knyckare i P3 tillbaka! Och det börjar med ett hederligt projektarbete. På fyra veckor ska Emma starta ett parti och idag bestämmer vi namn och fixar en kampanjlåt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047075.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140818_1100_312f3c8.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Äntligen är Knyckare i P3 tillbaka! Och det börjar med ett hederligt projektarbete. På fyra veckor ska Emma starta ett parti och idag bestämmer vi namn och fixar en kampanjlåt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Projektarbete:,Starta,parti</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047075.mp3" length="25836465" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sommarlov!</title>
+                    <description>Innan Emma får ge sig iväg på 10 veckors sommarlov väntar ett utvecklingssamtal. Vi blickar tillbaka på vad vi lärt oss.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4974942.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140605_1100_2ab634c.mp3</guid>
+                    <pubDate>Thu, 05 Jun 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Innan Emma får ge sig iväg på 10 veckors sommarlov väntar ett utvecklingssamtal. Vi blickar tillbaka på vad vi lärt oss.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Sommarlov!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4974942.mp3" length="25395372" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Grillfest med nya morgonpasset!</title>
+                    <description>En riktigt jävla fet grillfest var bland det sista Emma fick göra innan terminen var slut. Malmös radiohusgård bjöd på vackert väder, Emma bjöd på mycket goda drinkar och Carl Bodin Svensk på utmärkt mat. Livet är underbart. Emmas klasskompisar Ida, Linnea och Sandra kom på besök och hela det nya morgonpasset! Snart är det sommarlov!!!!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4974114.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140604_1100_31c03f4.mp3</guid>
+                    <pubDate>Wed, 04 Jun 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>En riktigt jävla fet grillfest var bland det sista Emma fick göra innan terminen var slut. Malmös radiohusgård bjöd på vackert väder, Emma bjöd på mycket goda drinkar och Carl Bodin Svensk på utmärkt mat. Livet är underbart. Emmas klasskompisar Ida, Linnea och Sandra kom på besök och hela det nya morgonpasset! Snart är det sommarlov!!!!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Grillfest,med,nya,morgonpasset!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4974114.mp3" length="26597482" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Emma och Petrina skolkar</title>
+                    <description>Sista veckan innan sommarlov och Emma passar på att skolka. Komikern Petrina Karlsson hänger på och de busringer till komikerkollegor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4971365.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140603_1100_3242374.mp3</guid>
+                    <pubDate>Tue, 03 Jun 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Sista veckan innan sommarlov och Emma passar på att skolka. Komikern Petrina Karlsson hänger på och de busringer till komikerkollegor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Emma,och,Petrina,skolkar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4971365.mp3" length="30092035" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Emma går på bal</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4970073.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140602_1100_32d25b0.mp3</guid>
+                    <pubDate>Mon, 02 Jun 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Emma,går,på,bal</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4970073.mp3" length="24021706" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Nisse Hellberg</title>
+                    <description>Hurra för fredag! Hurra för att veckojäveln är slut! Nu är det roliga timmen med Nisse Hallberg!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4967730.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140530_1100_2f461a3.mp3</guid>
+                    <pubDate>Fri, 30 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Hurra för fredag! Hurra för att veckojäveln är slut! Nu är det roliga timmen med Nisse Hallberg!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Nisse,Hellberg</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4967730.mp3" length="34665283" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Emma tar studenten</title>
+                    <description>Då Emma råkade somna på sin riktiga student så hjälper Carl henne att fira den igen. Med tårta och bil utan tak.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4966040.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140528_1100_34f365a.mp3</guid>
+                    <pubDate>Wed, 28 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Då Emma råkade somna på sin riktiga student så hjälper Carl henne att fira den igen. Med tårta och bil utan tak.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Emma,tar,studenten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4966040.mp3" length="23242462" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om fiskar</title>
+                    <description>Biologi står på schemat och idag lär sig Emma samtligt allt om fiskar, samt söker svar på livets eviga frågor som: kan fiskar ha olika personligheter? Varför vill alla människor döda alla fiskar i havet? Och: vilken fisk är till för elektriker? Med i programmet är statsvetaren Anders "Fisk-Anders" Mankler samt professor från riktigt universitet som heter Carin Magnhagen. Välbekommeeee</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4964658.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140527_1100_342c38e.mp3</guid>
+                    <pubDate>Tue, 27 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Biologi står på schemat och idag lär sig Emma samtligt allt om fiskar, samt söker svar på livets eviga frågor som: kan fiskar ha olika personligheter? Varför vill alla människor döda alla fiskar i havet? Och: vilken fisk är till för elektriker? Med i programmet är statsvetaren Anders "Fisk-Anders" Mankler samt professor från riktigt universitet som heter Carin Magnhagen. Välbekommeeee</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,fiskar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4964658.mp3" length="22105739" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om folkmusik</title>
+                    <description>Igår gick hela EU åt helvete å alla fick ringa Amnesty. Men idag är en annan dag, nämligen flöjtens dag. Å vi skall lära oss allting om FOLKMUSIK , musik står alltså på schemat. Som Emmas lärare har vi folkmusikerna och de härliga människorna SARA PARKMAN och SAMANTHA OHLANDERS! Väl bekommet!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4963447.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140526_1100_3724894.mp3</guid>
+                    <pubDate>Mon, 26 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Igår gick hela EU åt helvete å alla fick ringa Amnesty. Men idag är en annan dag, nämligen flöjtens dag. Å vi skall lära oss allting om FOLKMUSIK , musik står alltså på schemat. Som Emmas lärare har vi folkmusikerna och de härliga människorna SARA PARKMAN och SAMANTHA OHLANDERS! Väl bekommet!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,folkmusik</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4963447.mp3" length="27399010" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Andreas Weise</title>
+                    <description>Roliga timmen? På en torsdag? Ja, ni hörde rätt era förvirrade knaspottor.  Idag är det roliga timmen med Andreas Weise. Det blir "jag har aldrig" och kanske den bästa fredagskaraoken hittills.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4959772.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140522_1100_361c476.mp3</guid>
+                    <pubDate>Thu, 22 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Roliga timmen? På en torsdag? Ja, ni hörde rätt era förvirrade knaspottor.  Idag är det roliga timmen med Andreas Weise. Det blir "jag har aldrig" och kanske den bästa fredagskaraoken hittills.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Andreas,Weise</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4959772.mp3" length="32153542" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om EU-valet</title>
+                    <description>Även Emma Knyckare vill såklart lära sig allt om EU och POLITIK inför valet på söndag. JOBBIGT! Säger ni, ja vi på redaktionen håller fullständigt med, men det är viktigt att rösta.  Annars kan Hitler komma in i EU och då blir det dålig stämning</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4958349.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140521_1100_34ac1c2.mp3</guid>
+                    <pubDate>Wed, 21 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Även Emma Knyckare vill såklart lära sig allt om EU och POLITIK inför valet på söndag. JOBBIGT! Säger ni, ja vi på redaktionen håller fullständigt med, men det är viktigt att rösta.  Annars kan Hitler komma in i EU och då blir det dålig stämning</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,EU-valet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4958349.mp3" length="20281065" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om stjärten del 3</title>
+                    <description>Efter de omåttligt populära programmen "Allt om stjärten" och "Allt om stjärten del 2" är det nu dags att avsluta trilogin med "Allt om stjärten del 3 - the bajs edition"</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4956972.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140520_1100_3472db2.mp3</guid>
+                    <pubDate>Tue, 20 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Efter de omåttligt populära programmen "Allt om stjärten" och "Allt om stjärten del 2" är det nu dags att avsluta trilogin med "Allt om stjärten del 3 - the bajs edition"</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,stjärten,del,3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4956972.mp3" length="26071336" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om blod</title>
+                    <description>Vi lär oss samtligt allt om blod.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4955528.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140519_1100_314d513.mp3</guid>
+                    <pubDate>Mon, 19 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Vi lär oss samtligt allt om blod.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,blod</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4955528.mp3" length="24539639" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Kikki Hermansson</title>
+                    <description>Dagens lektion i Emma Knyckares mjuka skola är ROLIGA TIMMEN! Och idag skall Emma ha roligt ihop med Dj:n och universal-bra-människan Kikki Hermansson!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4953288.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140516_1100_3036cfb.mp3</guid>
+                    <pubDate>Fri, 16 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Dagens lektion i Emma Knyckares mjuka skola är ROLIGA TIMMEN! Och idag skall Emma ha roligt ihop med Dj:n och universal-bra-människan Kikki Hermansson!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Kikki,Hermansson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4953288.mp3" length="30798440" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Anger management</title>
+                    <description>Hej hej, idag står psykologi på schema och vi skall lära oss allt om ILSKA. Psykologen Tove Lundberg gästar och lär Emma anger management.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4952044.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140515_1100_31c93f5.mp3</guid>
+                    <pubDate>Thu, 15 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Hej hej, idag står psykologi på schema och vi skall lära oss allt om ILSKA. Psykologen Tove Lundberg gästar och lär Emma anger management.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Anger,management</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4952044.mp3" length="31783090" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tema: Los Angeles</title>
+                    <description>Idag är det all about LA. Vi skall stavwalka, powerwalka, Gunilla Persson-walka men framförallt skall vi laga smoothies, för det gör man i LA. Och smoothies gör man såklart med vår hemkunskapslärare Carl Bodin Svensk!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4950585.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140514_1100_300877c.mp3</guid>
+                    <pubDate>Wed, 14 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det all about LA. Vi skall stavwalka, powerwalka, Gunilla Persson-walka men framförallt skall vi laga smoothies, för det gör man i LA. Och smoothies gör man såklart med vår hemkunskapslärare Carl Bodin Svensk!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Tema:,Los,Angeles</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4950585.mp3" length="30473364" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om löpning</title>
+                    <description>Löpning på schemat. "ÅNNNNEEEEEEEJ" skriker ni. Jo vi vet, det är asjobbigt å töntigt som tusan.... MEN Emma har råkat kaxa upp sig i lunchrummet om att hon skall spöa sina kollegor i ett lopp ikväll och har inte övat, så det är liksom nödvändigt. Bättre sent än aldrig hörrni! Med i programmet har vi härliga löparakademin representerad av Bojana, Mohammed, Hazrat och Alvaro!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4950454.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140513_1100_2b2a352.mp3</guid>
+                    <pubDate>Tue, 13 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Löpning på schemat. "ÅNNNNEEEEEEEJ" skriker ni. Jo vi vet, det är asjobbigt å töntigt som tusan.... MEN Emma har råkat kaxa upp sig i lunchrummet om att hon skall spöa sina kollegor i ett lopp ikväll och har inte övat, så det är liksom nödvändigt. Bättre sent än aldrig hörrni! Med i programmet har vi härliga löparakademin representerad av Bojana, Mohammed, Hazrat och Alvaro!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,löpning</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4950454.mp3" length="26553225" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Dilan Apak</title>
+                    <description>Idag har vi TVÅ grymma programledare i studion när Tankesmedjans Dilan Apak gästar Emma i "Roliga timmen". Vi leker "jag har aldrig" och sjunger in helgen med Darin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4945487.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140509_1100_28d93f4.mp3</guid>
+                    <pubDate>Fri, 09 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag har vi TVÅ grymma programledare i studion när Tankesmedjans Dilan Apak gästar Emma i "Roliga timmen". Vi leker "jag har aldrig" och sjunger in helgen med Darin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Dilan,Apak</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4945487.mp3" length="26674033" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om plastikoperationer</title>
+                    <description>PLASTIKkirurgi är inte att leka med, det är svårt och komplicerat att återställa eller förbättra en kroppsvävnad. MEN! Det är roligt att skoja om. Till sin hjälp i skojerierna har Emma experten och sjuksköterskan AKA Livets mjuka skolas skolsyster, Cecilia Elm! Väl bekommet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4944239.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140508_1100_2fde108.mp3</guid>
+                    <pubDate>Thu, 08 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>PLASTIKkirurgi är inte att leka med, det är svårt och komplicerat att återställa eller förbättra en kroppsvävnad. MEN! Det är roligt att skoja om. Till sin hjälp i skojerierna har Emma experten och sjuksköterskan AKA Livets mjuka skolas skolsyster, Cecilia Elm! Väl bekommet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,plastikoperationer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4944239.mp3" length="27479238" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bli modell med Top Model-Kostas</title>
+                    <description>Bild står på schemat och vi lär oss samtligt allt om fotomodellande. Lärare och gäst är vår favorit från Top Model Sverige - Konstantinos Vlastaras.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4943217.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140507_1100_38fbeaa.mp3</guid>
+                    <pubDate>Wed, 07 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Bild står på schemat och vi lär oss samtligt allt om fotomodellande. Lärare och gäst är vår favorit från Top Model Sverige - Konstantinos Vlastaras.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Bli,modell,med,Top,Model-Kostas</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4943217.mp3" length="25883644" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om Britney Spears</title>
+                    <description>Idag på musiklektionen lär vi oss samtligt allt om Britney Spears. #hitmebabyonemoretime</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4941623.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140506_1100_33a2999.mp3</guid>
+                    <pubDate>Tue, 06 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag på musiklektionen lär vi oss samtligt allt om Britney Spears. #hitmebabyonemoretime</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,Britney,Spears</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4941623.mp3" length="20515238" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Idrott: Dans</title>
+                    <description>Dans = koordinerade kroppsrörelser. Det är det bästa och det sämsta med dans, då koordinerade kroppsrörelser är enkla att komma på men svåra att komma ihåg. Under dagens danslektion lär sig Emma allt om dans samt får hjälp av hennes två danslärare Ann-Sofie Schlyter och Andrea Hägg från Cupcake Crew!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4940281.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140505_1100_312553a.mp3</guid>
+                    <pubDate>Mon, 05 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Dans = koordinerade kroppsrörelser. Det är det bästa och det sämsta med dans, då koordinerade kroppsrörelser är enkla att komma på men svåra att komma ihåg. Under dagens danslektion lär sig Emma allt om dans samt får hjälp av hennes två danslärare Ann-Sofie Schlyter och Andrea Hägg från Cupcake Crew!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Idrott:,Dans</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4940281.mp3" length="26591935" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Dolly Dolores</title>
+                    <description>Det är fredag och roliga timmen! Med oss har vi idag Dolly Dolores som du hört med låten "Dansa" här i P3.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4938079.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140502_1100_30011e0.mp3</guid>
+                    <pubDate>Fri, 02 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är fredag och roliga timmen! Med oss har vi idag Dolly Dolores som du hört med låten "Dansa" här i P3.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Dolly,Dolores</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4938079.mp3" length="25014623" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lär dig tala</title>
+                    <description>Forskarveckan avslutas med superhärliga Cecilia Olsson Jers som kan samtligt allt om retorik.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4937120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140501_1100_2d2c21f.mp3</guid>
+                    <pubDate>Thu, 01 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Forskarveckan avslutas med superhärliga Cecilia Olsson Jers som kan samtligt allt om retorik.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Lär,dig,tala</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4937120.mp3" length="32995072" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Forskning om bakterier</title>
+                    <description>Forskarveckan fortsätter med tandläkaren och forskaren Daniel Jönsson. "Får man dålig andedräkt av oralsex?". Det och allt annat om bakterier i munnen får vi svar på.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4936308.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140430_1100_3371d5c.mp3</guid>
+                    <pubDate>Wed, 30 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Forskarveckan fortsätter med tandläkaren och forskaren Daniel Jönsson. "Får man dålig andedräkt av oralsex?". Det och allt annat om bakterier i munnen får vi svar på.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Forskning,om,bakterier</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4936308.mp3" length="29126607" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Forskning om brott</title>
+                    <description>Idag är det andra dagen på forskarveckan här i livets mjuka skola och idag skall vi lära oss samtligt allt om GEOGRAFISK kriminologi av forskaren Manne Gerell från Malmö högskola. Varför brinner det i vissa soptunnor och inte i andra? Kan vara för att dom innehöll brandfarligt material och någon galenpanna satte eld på den? Kan vara en förklaring, men det finns nog fler - som vi frågar Manne om!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4934855.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140429_1100_33264df.mp3</guid>
+                    <pubDate>Tue, 29 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det andra dagen på forskarveckan här i livets mjuka skola och idag skall vi lära oss samtligt allt om GEOGRAFISK kriminologi av forskaren Manne Gerell från Malmö högskola. Varför brinner det i vissa soptunnor och inte i andra? Kan vara för att dom innehöll brandfarligt material och någon galenpanna satte eld på den? Kan vara en förklaring, men det finns nog fler - som vi frågar Manne om!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Forskning,om,brott</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4934855.mp3" length="27205287" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om atomer</title>
+                    <description>Den här veckan kör vi... Forskarvecka! En forskare och ett fantastiskt spännande ämne varje dag. Vi börjar med Henrik Hartman och atomer.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4933417.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140428_1100_3143dc7.mp3</guid>
+                    <pubDate>Mon, 28 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Den här veckan kör vi... Forskarvecka! En forskare och ett fantastiskt spännande ämne varje dag. Vi börjar med Henrik Hartman och atomer.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,atomer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4933417.mp3" length="24050001" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Oscar Zia</title>
+                    <description>Vi kan inte tänka oss en mycket härligare fredag än en fredag med Oscar Zia och roliga timmen. Kul ska vi ha!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4931200.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140425_1100_30f3983.mp3</guid>
+                    <pubDate>Fri, 25 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Vi kan inte tänka oss en mycket härligare fredag än en fredag med Oscar Zia och roliga timmen. Kul ska vi ha!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Oscar,Zia</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4931200.mp3" length="29422419" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om kungar</title>
+                    <description>En konung är en manlig monark som har att vara kunglig som heltidsjobb. Allt detta skall Emma Knyckare idag pröva på. För nu är det Emma som är kung! Med i programmet är Anna Olovsdotter Lööv och Sara Nilsson Lööv som är experter på verklighetens kungar, nämligen Drag Kingsen! Väl bekommet!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4929708.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140424_1100_2b934a6.mp3</guid>
+                    <pubDate>Thu, 24 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>En konung är en manlig monark som har att vara kunglig som heltidsjobb. Allt detta skall Emma Knyckare idag pröva på. För nu är det Emma som är kung! Med i programmet är Anna Olovsdotter Lööv och Sara Nilsson Lööv som är experter på verklighetens kungar, nämligen Drag Kingsen! Väl bekommet!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,kungar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4929708.mp3" length="24117183" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Firar jul</title>
+                    <description>Emma har massor med påskmat över från helgen och då vi gillar att vara steget före och det typ är samma mat så firar vi jul idag.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4928546.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140423_1100_332b5d9.mp3</guid>
+                    <pubDate>Wed, 23 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Emma har massor med påskmat över från helgen och då vi gillar att vara steget före och det typ är samma mat så firar vi jul idag.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Firar,jul</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4928546.mp3" length="26928460" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Idrott: Fotboll</title>
+                    <description>Idrott och fotboll står på schemat. Vi pratar med Jakob Vastamäki som ligger bakom ett stort parodikonto av Zlatan på sociala medier och så får vi besök av landslagsspelarna Amanda Ilestedt och Zecira Musovic. Väl bekommet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4927235.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140422_1100_32c69ee.mp3</guid>
+                    <pubDate>Tue, 22 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idrott och fotboll står på schemat. Vi pratar med Jakob Vastamäki som ligger bakom ett stort parodikonto av Zlatan på sociala medier och så får vi besök av landslagsspelarna Amanda Ilestedt och Zecira Musovic. Väl bekommet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Idrott:,Fotboll</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4927235.mp3" length="28685761" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om stjärten del 2</title>
+                    <description>Vårt förra program om stjärten var en succé. Här kommer den efterlängtade uppföljaren.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4926214.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140421_1100_2f8edda.mp3</guid>
+                    <pubDate>Mon, 21 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Vårt förra program om stjärten var en succé. Här kommer den efterlängtade uppföljaren.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,stjärten,del,2</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4926214.mp3" length="19221233" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Tomas Högblom</title>
+                    <description>Komikern Tomas Högblom är veckans gäst i roliga timmen. Blir som vanligt fantastiskt skoj. Hej!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4924940.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140418_1100_2efaa42.mp3</guid>
+                    <pubDate>Fri, 18 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Komikern Tomas Högblom är veckans gäst i roliga timmen. Blir som vanligt fantastiskt skoj. Hej!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Tomas,Högblom</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4924940.mp3" length="27984619" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Idrott: Wrestling</title>
+                    <description>Idrott och wrestling står på schemat. Emma ska gå en match mot Tankesmedjans Jonatan Unge. Men först måste karaktärer byggas och grepp tränas in. Gäster är komikern Messiah Hallberg aka "President of Wrestling i Stockholm" och wrestlarna Anderson och Janne Walterz.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4924175.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140417_1100_33f7116.mp3</guid>
+                    <pubDate>Thu, 17 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idrott och wrestling står på schemat. Emma ska gå en match mot Tankesmedjans Jonatan Unge. Men först måste karaktärer byggas och grepp tränas in. Gäster är komikern Messiah Hallberg aka "President of Wrestling i Stockholm" och wrestlarna Anderson och Janne Walterz.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Idrott:,Wrestling</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4924175.mp3" length="27651818" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om lycka</title>
+                    <description>Temat för dagens Knyckare i P3 är: Lycka.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4922894.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140416_1100_371b5df.mp3</guid>
+                    <pubDate>Wed, 16 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Temat för dagens Knyckare i P3 är: Lycka.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,lycka</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4922894.mp3" length="24212811" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hemkunskap: Mellis</title>
+                    <description>Hemkunskap med Carl Bodin Svensk och fyra påsklovsfirande barn. Vi lagar mellis och leker lekar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4922941.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140416_1100_386eac5.mp3</guid>
+                    <pubDate>Wed, 16 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Hemkunskap med Carl Bodin Svensk och fyra påsklovsfirande barn. Vi lagar mellis och leker lekar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Hemkunskap:,Mellis</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4922941.mp3" length="24006459" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Science fiction på schemat</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4919894.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140414_1100_31824fa.mp3</guid>
+                    <pubDate>Mon, 14 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Science,fiction,på,schemat</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4919894.mp3" length="23092605" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Petrina Karlsson</title>
+                    <description>Årets nykomling på svenska standup-galan Petrina Karlsson är veckans fredagsgäst i roliga timmen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4917486.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140411_1100_2bacdd5.mp3</guid>
+                    <pubDate>Fri, 11 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Årets nykomling på svenska standup-galan Petrina Karlsson är veckans fredagsgäst i roliga timmen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Petrina,Karlsson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4917486.mp3" length="23752374" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om uppfinningar</title>
+                    <description>Teknik står på schemat och uppfinningar är temat. Hildas mamma som är en äkta uppfinnare är gäst.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4916360.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140410_1100_3463f38.mp3</guid>
+                    <pubDate>Thu, 10 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Teknik står på schemat och uppfinningar är temat. Hildas mamma som är en äkta uppfinnare är gäst.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,uppfinningar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4916360.mp3" length="25828768" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hemkunskapen goes bananas</title>
+                    <description>Bananfest på hemkunskapen. Lärare Farah Erichsén lagar banoffepaj, Skansen-Jonas slår hål på myten att apor äter så mycket bananer och Sean Banan ringer till studion.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4914897.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140409_1100_318f532.mp3</guid>
+                    <pubDate>Wed, 09 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Bananfest på hemkunskapen. Lärare Farah Erichsén lagar banoffepaj, Skansen-Jonas slår hål på myten att apor äter så mycket bananer och Sean Banan ringer till studion.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Hemkunskapen,goes,bananas</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4914897.mp3" length="29860132" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Samhällskunskap: Klass</title>
+                    <description>Samhällskunskap på schemat och Emma ska lära sig samtligt allt om klass. Med i programmet är Babak Behdjou som var med och startade Podcasten Klassresan och Tankesmedjans Jonatan Unge.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4913719.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140408_1100_35bf717.mp3</guid>
+                    <pubDate>Tue, 08 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Samhällskunskap på schemat och Emma ska lära sig samtligt allt om klass. Med i programmet är Babak Behdjou som var med och startade Podcasten Klassresan och Tankesmedjans Jonatan Unge.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Samhällskunskap:,Klass</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4913719.mp3" length="28546516" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tälja smörkniv</title>
+                    <description>Träslöjd på schemat och Emma lär sig att göra en smörkniv.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4912376.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140407_1100_36d20fc.mp3</guid>
+                    <pubDate>Mon, 07 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Träslöjd på schemat och Emma lär sig att göra en smörkniv.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Tälja,smörkniv</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4912376.mp3" length="24869043" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Rijal Mbamba</title>
+                    <description>Veckans roliga timmen-gäst är programledaren och Musikhjälpen-sidekicken Rijal Mbamba.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4910068.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140404_1100_34edc74.mp3</guid>
+                    <pubDate>Fri, 04 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Veckans roliga timmen-gäst är programledaren och Musikhjälpen-sidekicken Rijal Mbamba.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Rijal,Mbamba</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4910068.mp3" length="32758529" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Så tjänar du pengar</title>
+                    <description>Hur gör man en lyckad investering? Det tar vi reda på.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4908874.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140403_1100_390077d.mp3</guid>
+                    <pubDate>Thu, 03 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Hur gör man en lyckad investering? Det tar vi reda på.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Så,tjänar,du,pengar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4908874.mp3" length="27880441" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Räkor och majonnäs</title>
+                    <description>Veckans hemkunskapstema är Bohuslän. Vi lagar skagenröra och lär oss allt om detta landskap.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4907267.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140402_1100_314652c.mp3</guid>
+                    <pubDate>Wed, 02 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Veckans hemkunskapstema är Bohuslän. Vi lagar skagenröra och lär oss allt om detta landskap.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Räkor,och,majonnäs</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4907267.mp3" length="27188375" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tid hos skolsyster</title>
+                    <description>I dagens Knyckare i P3 är det dags för Emma att gå till skolsköterskan.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4906007.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140401_1100_32eb790.mp3</guid>
+                    <pubDate>Tue, 01 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens Knyckare i P3 är det dags för Emma att gå till skolsköterskan.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Tid,hos,skolsyster</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4906007.mp3" length="30051771" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om tanter</title>
+                    <description>Samhällskunskap står på schemat, och det blir tant för hela slant.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4904660.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140331_1100_34646fd.mp3</guid>
+                    <pubDate>Mon, 31 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Samhällskunskap står på schemat, och det blir tant för hela slant.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,tanter</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4904660.mp3" length="26315198" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Kodjo Akolor</title>
+                    <description>Veckans fredagsgäst i "Roliga timmen" är komikern, mannen, myten, programledaren - the one and only, Kodjo Akolor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4904134.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140328_1100_1ee9c09.mp3</guid>
+                    <pubDate>Fri, 28 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Veckans fredagsgäst i "Roliga timmen" är komikern, mannen, myten, programledaren - the one and only, Kodjo Akolor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Kodjo,Akolor</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4904134.mp3" length="32828384" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Elvismackan</title>
+                    <description>På hemkunskapen idag lagas den berömda Elvismackan och det ryktas att The King himself faktiskt ska dyka upp i studion.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4901056.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140327_1100_36d7ef7.mp3</guid>
+                    <pubDate>Thu, 27 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>På hemkunskapen idag lagas den berömda Elvismackan och det ryktas att The King himself faktiskt ska dyka upp i studion.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Elvismackan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4901056.mp3" length="26597838" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om reklam</title>
+                    <description>Idag står mediekommunikation på schemat och vi lär oss samtligt allt om reklam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4899606.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140326_1100_3479214.mp3</guid>
+                    <pubDate>Wed, 26 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står mediekommunikation på schemat och vi lär oss samtligt allt om reklam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,reklam</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4899606.mp3" length="27047071" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>De fyra elementen</title>
+                    <description>Idag står fysik på schemat och vi lär oss samtligt allt om de fyra elementen - vatten, luft, jord och eld. Emma påstår sig också ha bevis för ett femte element.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4898216.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140325_1100_330498d.mp3</guid>
+                    <pubDate>Tue, 25 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står fysik på schemat och vi lär oss samtligt allt om de fyra elementen - vatten, luft, jord och eld. Emma påstår sig också ha bevis för ett femte element.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3De,fyra,elementen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4898216.mp3" length="23905021" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Emma skolkar</title>
+                    <description>Det är måndag och matematik står på schemat. Men Emma är försvunnen. Hon har låst in sig i Tankesmedjans studio och vägrar att komma ut.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4896828.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140324_1100_3123e16.mp3</guid>
+                    <pubDate>Mon, 24 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är måndag och matematik står på schemat. Men Emma är försvunnen. Hon har låst in sig i Tankesmedjans studio och vägrar att komma ut.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Emma,skolkar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4896828.mp3" length="14480402" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Moa Lundqvist</title>
+                    <description>Veckans fredagsgäst är Tankesmedjans Moa Lundqvist. Fira in helgen med oss!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4894413.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140321_1100_2aa41e5.mp3</guid>
+                    <pubDate>Fri, 21 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Veckans fredagsgäst är Tankesmedjans Moa Lundqvist. Fira in helgen med oss!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Moa,Lundqvist</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4894413.mp3" length="28828439" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Klassråd med pingviner</title>
+                    <description>Då det är demokrati i Sverige har vi idag klassråd och alla får komma till tals.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4893286.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140320_1100_32f0bb0.mp3</guid>
+                    <pubDate>Thu, 20 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Då det är demokrati i Sverige har vi idag klassråd och alla får komma till tals.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Klassråd,med,pingviner</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4893286.mp3" length="26945524" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Våffelbonanza!</title>
+                    <description>Idag står hemkunskap på schemat och vi skall lära oss allt om våfflor inför Våffeldagen. "Men den är ju inte förrän på tisdag". Jo, men allt handlar ju om att vara förberedd. Väl bekommet.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4892740.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140319_1100_1eddd1d.mp3</guid>
+                    <pubDate>Wed, 19 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står hemkunskap på schemat och vi skall lära oss allt om våfflor inför Våffeldagen. "Men den är ju inte förrän på tisdag". Jo, men allt handlar ju om att vara förberedd. Väl bekommet.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Våffelbonanza!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4892740.mp3" length="27163481" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om skateboard</title>
+                    <description>Det är idrott och Emma lär sig att åka skateboard tillsammans med Emma Fastesson Lindgren som är rankad 12:a i världen inom street skate.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4890413.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140318_1100_2f2f28e.mp3</guid>
+                    <pubDate>Tue, 18 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är idrott och Emma lär sig att åka skateboard tillsammans med Emma Fastesson Lindgren som är rankad 12:a i världen inom street skate.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,skateboard</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4890413.mp3" length="25678796" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Konsten att tala</title>
+                    <description>Idag står språk på schemat och vi lär oss allt om retorik - konsten att tala.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4889187.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140317_1100_33bea4e.mp3</guid>
+                    <pubDate>Mon, 17 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står språk på schemat och vi lär oss allt om retorik - konsten att tala.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Konsten,att,tala</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4889187.mp3" length="26648337" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Joy Mbatha</title>
+                    <description>Veckans fredagsgäst är rapparen Joy Mbatha som just nu är aktuell med remixen på Linda Piras "Knäpper mina fingrar".</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4886865.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140314_1100_31a3510.mp3</guid>
+                    <pubDate>Fri, 14 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Veckans fredagsgäst är rapparen Joy Mbatha som just nu är aktuell med remixen på Linda Piras "Knäpper mina fingrar".</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Joy,Mbatha</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4886865.mp3" length="29518983" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Metalskola med Outtrigger</title>
+                    <description>Idag står musik på schemat och vi lär oss samtligt allt om metal tillsammans med bandet Outtrigger.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4885409.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140313_1100_2f1836c.mp3</guid>
+                    <pubDate>Thu, 13 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står musik på schemat och vi lär oss samtligt allt om metal tillsammans med bandet Outtrigger.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Metalskola,med,Outtrigger</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4885409.mp3" length="28574355" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Viva Italia</title>
+                    <description>Äntligen italiendax! För dagens lektion är hemkunskap och då kommer vår alldeles egna Mama-Mia, hemkunskapslärare Carl Bodin Svensk och lagar lite smarriga bruchetta! Namnamnamnam.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4884134.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140312_1100_3206ac3.mp3</guid>
+                    <pubDate>Wed, 12 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Äntligen italiendax! För dagens lektion är hemkunskap och då kommer vår alldeles egna Mama-Mia, hemkunskapslärare Carl Bodin Svensk och lagar lite smarriga bruchetta! Namnamnamnam.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Viva,Italia</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4884134.mp3" length="25995263" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om skägg</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4882652.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140311_1100_2bf6df1.mp3</guid>
+                    <pubDate>Tue, 11 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,skägg</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4882652.mp3" length="24320125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hos syokonsulenten</title>
+                    <description>Idag är det tid för syokonsulenten och vi pratar jobb. Emma listar sina bästa tips för anställningsintervjun och vi får höra om de konstigaste jobben som finns.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4881534.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140310_1100_32c2da0.mp3</guid>
+                    <pubDate>Mon, 10 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det tid för syokonsulenten och vi pratar jobb. Emma listar sina bästa tips för anställningsintervjun och vi får höra om de konstigaste jobben som finns.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Hos,syokonsulenten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4881534.mp3" length="27114950" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Niklas von Arnold</title>
+                    <description>Det är fredag och som vanligt ROLIGA TIMMEN! Artisten Niklas von Arnold är gäst och det blir en något jobbig "Sanning eller kånka" och en smäktande "Fredagskaraoke".</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4879001.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140307_1100_2aaa74d.mp3</guid>
+                    <pubDate>Fri, 07 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är fredag och som vanligt ROLIGA TIMMEN! Artisten Niklas von Arnold är gäst och det blir en något jobbig "Sanning eller kånka" och en smäktande "Fredagskaraoke".</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Niklas,von,Arnold</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4879001.mp3" length="29161740" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blogg med Andreas Wijk</title>
+                    <description>I datorkunskapen 2014 så ingår såklart bloggande. Därför hänger vi med vår favoritbloggare Andreas Wijk.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4878052.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140306_1100_376bc9b.mp3</guid>
+                    <pubDate>Thu, 06 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I datorkunskapen 2014 så ingår såklart bloggande. Därför hänger vi med vår favoritbloggare Andreas Wijk.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Blogg,med,Andreas,Wijk</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4878052.mp3" length="27873442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Odling i studion</title>
+                    <description>Idag är det prao och Peter Bengtsson från SVTs Trädgårdskampen lär Emma allt om att vara trädgårdsmästare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4876652.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140305_1100_36b94d4.mp3</guid>
+                    <pubDate>Wed, 05 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det prao och Peter Bengtsson från SVTs Trädgårdskampen lär Emma allt om att vara trädgårdsmästare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Odling,i,studion</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4876652.mp3" length="25797013" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>"Hej på er, ufon"</title>
+                    <description>Idag står astronomi på schemat och vi lär oss allt om yttre rymden.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4875327.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140304_1100_368a5f3.mp3</guid>
+                    <pubDate>Tue, 04 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står astronomi på schemat och vi lär oss allt om yttre rymden.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3"Hej,på,er,,ufon"</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4875327.mp3" length="26234540" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om Palmemordet</title>
+                    <description>Vem mördade Palme? Ja, det kanske vi inte löser på en timme. Men idag lär vi oss samtligt allt om Palmemordet. Gästar gör Johannes Finnlaugsson, mannen bakom Palmemordspodden.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4873983.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140303_1100_35e1cb1.mp3</guid>
+                    <pubDate>Mon, 03 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Vem mördade Palme? Ja, det kanske vi inte löser på en timme. Men idag lär vi oss samtligt allt om Palmemordet. Gästar gör Johannes Finnlaugsson, mannen bakom Palmemordspodden.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,Palmemordet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4873983.mp3" length="23772144" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Matilda Sjöström</title>
+                    <description>Roliga timmen med Matilda Sjöström som vi hört i Christers relationsråd och som programledare för P3 Live session. Hon är även artist i popduon Steget och har jobbat som karaokevärd så idag blir det en proffsigt uppstyrd Fredagskaraoke.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4871405.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140228_1100_2b0057d.mp3</guid>
+                    <pubDate>Fri, 28 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Roliga timmen med Matilda Sjöström som vi hört i Christers relationsråd och som programledare för P3 Live session. Hon är även artist i popduon Steget och har jobbat som karaokevärd så idag blir det en proffsigt uppstyrd Fredagskaraoke.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Matilda,Sjöström</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4871405.mp3" length="31394200" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ordning och uppfostran</title>
+                    <description>Idag lär vi oss samtligt allt om uppfostran och gästas av den charmanta komediennen Klara Zimmergren. Vi pratar straff, vikten av artighet och tar reda på hur väluppfostrad den där Emma Knyckare är egentligen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4870226.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140227_1100_317e363.mp3</guid>
+                    <pubDate>Thu, 27 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag lär vi oss samtligt allt om uppfostran och gästas av den charmanta komediennen Klara Zimmergren. Vi pratar straff, vikten av artighet och tar reda på hur väluppfostrad den där Emma Knyckare är egentligen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Ordning,och,uppfostran</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4870226.mp3" length="25622524" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fettisdagen-peppen</title>
+                    <description>Idag är det hemkunskap med Carl Bodin Svensk och peppen inför Fettisdagen har börjat. Vi bakar och lär oss samtligt all om semlor.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4868864.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140226_1100_2ff16ba.mp3</guid>
+                    <pubDate>Wed, 26 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det hemkunskap med Carl Bodin Svensk och peppen inför Fettisdagen har börjat. Vi bakar och lär oss samtligt all om semlor.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Fettisdagen-peppen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4868864.mp3" length="22819105" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om krig</title>
+                    <description>Idag står samhällskunskap på schemat och vi lär oss samtligt allt om krig.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4867561.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140225_1100_2f96e92.mp3</guid>
+                    <pubDate>Tue, 25 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står samhällskunskap på schemat och vi lär oss samtligt allt om krig.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,krig</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4867561.mp3" length="22810204" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Kringlan Svensson</title>
+                    <description>Det är fredag och roliga timmen. Med Emma i studion är komikern, författaren, podcast-prinsen, pjässkrivaren, barnprogramledaren, och casanovan - Kristoffer "Kringlan" Svensson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4864120.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140221_1100_2b1ac16.mp3</guid>
+                    <pubDate>Fri, 21 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är fredag och roliga timmen. Med Emma i studion är komikern, författaren, podcast-prinsen, pjässkrivaren, barnprogramledaren, och casanovan - Kristoffer "Kringlan" Svensson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Kringlan,Svensson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4864120.mp3" length="29001686" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Hästens inre väsen</title>
+                    <description>Idag står psykologi på schemat och vi lär oss allt om hästens inre väsen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4863058.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140220_1100_3133f29.mp3</guid>
+                    <pubDate>Thu, 20 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står psykologi på schemat och vi lär oss allt om hästens inre väsen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Hästens,inre,väsen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4863058.mp3" length="24840242" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Drama med Josefin Johansson</title>
+                    <description>Idag står DRAMA på schemat och Josefin Johansson är med för att lära Emma allt om teater. Trots att hon själv tycker att hon kan allt efter sin storroll som den onda fen i 4h:s sportlovsteater.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4861857.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140219_1100_2f1f12c.mp3</guid>
+                    <pubDate>Wed, 19 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står DRAMA på schemat och Josefin Johansson är med för att lära Emma allt om teater. Trots att hon själv tycker att hon kan allt efter sin storroll som den onda fen i 4h:s sportlovsteater.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Drama,med,Josefin,Johansson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4861857.mp3" length="27031442" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bingo!</title>
+                    <description>Idag är det historia på schemat och vi lär oss samtligt allt om det mest historiska av allt historiskt - BINGO.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4860767.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140218_1100_2e25797.mp3</guid>
+                    <pubDate>Tue, 18 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det historia på schemat och vi lär oss samtligt allt om det mest historiska av allt historiskt - BINGO.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Bingo!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4860767.mp3" length="22406518" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det står fusk på schemat</title>
+                    <description>Enligt Emma den kanske viktigaste lektionen. Hur du tar dig snabt fram till kunskapens källa med hjälp av den ädla konsten fusk. Så idag blir det samtligt allt om just: fusk.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4859810.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140217_1100_31c2797.mp3</guid>
+                    <pubDate>Mon, 17 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Enligt Emma den kanske viktigaste lektionen. Hur du tar dig snabt fram till kunskapens källa med hjälp av den ädla konsten fusk. Så idag blir det samtligt allt om just: fusk.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Det,står,fusk,på,schemat</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4859810.mp3" length="24040900" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ellen Benediktson i roliga timmen</title>
+                    <description>FREDAG! Då äre roliga timmen!!! Denna fredag gästade melodifestivalens mest skinande pärla Ellen Benediktson i Livets mjuka skola, och det blev både skvaller, sanning eller konsekvens, karaoke och snygga melfest-naglar. Var god lyssna!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4857730.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140214_1100_33c7b0a.mp3</guid>
+                    <pubDate>Fri, 14 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>FREDAG! Då äre roliga timmen!!! Denna fredag gästade melodifestivalens mest skinande pärla Ellen Benediktson i Livets mjuka skola, och det blev både skvaller, sanning eller konsekvens, karaoke och snygga melfest-naglar. Var god lyssna!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Ellen,Benediktson,i,roliga,timmen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4857730.mp3" length="28600975" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ellen Benediktson i roliga timmen</title>
+                    <description>FREDAG! Då äre roliga timmen!!! Denna fredag gästade melodifestivalens mest skinande pärla Ellen Benediktson i Livets mjuka skola, och det blev både skvaller, sanning eller konsekvens, karaoke och snygga melfest-naglar. Var god lyssna!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4857735.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140214_1100_33bedbb.mp3</guid>
+                    <pubDate>Fri, 14 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>FREDAG! Då äre roliga timmen!!! Denna fredag gästade melodifestivalens mest skinande pärla Ellen Benediktson i Livets mjuka skola, och det blev både skvaller, sanning eller konsekvens, karaoke och snygga melfest-naglar. Var god lyssna!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Ellen,Benediktson,i,roliga,timmen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4857735.mp3" length="28600975" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Sport i fantasin</title>
+                    <description>Idag lär vi oss samtligt allt om sport i fantasin. Vi reder ut varför de olika sportena i fantasy-böcker är så blodiga? Och sen avslutar vi allt med ett Hunger Game i studion där kollegor kommer att dö.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4856513.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140213_1100_31f69e5.mp3</guid>
+                    <pubDate>Thu, 13 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag lär vi oss samtligt allt om sport i fantasin. Vi reder ut varför de olika sportena i fantasy-böcker är så blodiga? Och sen avslutar vi allt med ett Hunger Game i studion där kollegor kommer att dö.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Sport,i,fantasin</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4856513.mp3" length="25570253" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kärlek och speeddejt på hemkunskapen</title>
+                    <description>Idag blev det en liten överraskning för Calle, vi hade nämligen bjudit in tre kärlekstörstande singlar (Frida, Josefi och Lars) som skulle få DEJTA Carl i sändning! Det blev total alla-hjärtans bonanza med geléhjärtätartävling och härliga lovesångs. Emma ville inte dejta Carl. Därför bjöd hon ut Shakira på dejt.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4855397.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140212_1100_333726e.mp3</guid>
+                    <pubDate>Wed, 12 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag blev det en liten överraskning för Calle, vi hade nämligen bjudit in tre kärlekstörstande singlar (Frida, Josefi och Lars) som skulle få DEJTA Carl i sändning! Det blev total alla-hjärtans bonanza med geléhjärtätartävling och härliga lovesångs. Emma ville inte dejta Carl. Därför bjöd hon ut Shakira på dejt.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Kärlek,och,speeddejt,på,hemkunskapen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4855397.mp3" length="24569503" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Historielektion om gubbar</title>
+                    <description>Idag är det historia det vill säga att vi lär oss samtligt allt om gamla tråkiga gubbar. Gästar gör Kalle Lind som en gång i tidernas begynnelse jobbade på ungdomskanalen P3 med program som "Hej Domstol" men nu hittat sin rätta plats i P4 där han sänder på gubbarnas favorittid, 04.30. Då blåsan är som mest aktiv.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4854252.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140211_1100_3221e82.mp3</guid>
+                    <pubDate>Tue, 11 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det historia det vill säga att vi lär oss samtligt allt om gamla tråkiga gubbar. Gästar gör Kalle Lind som en gång i tidernas begynnelse jobbade på ungdomskanalen P3 med program som "Hej Domstol" men nu hittat sin rätta plats i P4 där han sänder på gubbarnas favorittid, 04.30. Då blåsan är som mest aktiv.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Historielektion,om,gubbar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4854252.mp3" length="26427311" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Lektion om hajar med Haj-Charlotte</title>
+                    <description>I dagens program fick Emma lära sig allt om HAJAR i dagens lektion. Detta fruktansvärda djur. Men Haj-charlotte gillar dom. Fett för hajarna att hon gillar dom för hon är svincool. Emma berättar även allt du inte ska göra om du vill bli uppäten av en haj.  Producent: Anna Emanuelsson och Jesper Hagenborn</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4853134.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140210_1100_30eaba9.mp3</guid>
+                    <pubDate>Mon, 10 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens program fick Emma lära sig allt om HAJAR i dagens lektion. Detta fruktansvärda djur. Men Haj-charlotte gillar dom. Fett för hajarna att hon gillar dom för hon är svincool. Emma berättar även allt du inte ska göra om du vill bli uppäten av en haj.  Producent: Anna Emanuelsson och Jesper Hagenborn</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Lektion,om,hajar,med,Haj-Charlotte</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4853134.mp3" length="28852033" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Kristoffer Appelqvist</title>
+                    <description>Det är fredag. Det är roliga timmen. Det är tävling. Det är lek. Det är Kristoffer Appelqvist. Det är fredagskaraoke. Det är något du inte får missa. Heja!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4850934.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140207_1100_2c15eda.mp3</guid>
+                    <pubDate>Fri, 07 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Det är fredag. Det är roliga timmen. Det är tävling. Det är lek. Det är Kristoffer Appelqvist. Det är fredagskaraoke. Det är något du inte får missa. Heja!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Kristoffer,Appelqvist</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4850934.mp3" length="27675606" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vi som inte får vara med i OS</title>
+                    <description>De olympiska spelen börjar imorgon! Men, Emma får inte vara med och tävla. Hon är dessutom inte ensam, väldigt många får inte vara med. Helt sjukt faktiskt. Någon som fått vara med och tävla i OS är landslagspelaren i Goalball - Stefan Gahne som kommer och berättar hur det var att vinna brons i OS i Kina.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4849589.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140206_1100_3037722.mp3</guid>
+                    <pubDate>Thu, 06 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>De olympiska spelen börjar imorgon! Men, Emma får inte vara med och tävla. Hon är dessutom inte ensam, väldigt många får inte vara med. Helt sjukt faktiskt. Någon som fått vara med och tävla i OS är landslagspelaren i Goalball - Stefan Gahne som kommer och berättar hur det var att vinna brons i OS i Kina.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Vi,som,inte,får,vara,med,i,OS</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4849589.mp3" length="25901233" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Cupcake bonanza!</title>
+                    <description>Idag har vi hemkunskap och bakar cupcakes med programledaren Farah Erichsén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4848485.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140205_1100_3876bd8.mp3</guid>
+                    <pubDate>Wed, 05 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag har vi hemkunskap och bakar cupcakes med programledaren Farah Erichsén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Cupcake,bonanza!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4848485.mp3" length="22135353" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Klassråd</title>
+                    <description>Idag står det klassråd på schemat och alla får komma till tals. Emma får svara på frågor och lämnar sen över klassens lista till P3-chefen Tomas Granryd som har ett ultimatum.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4846697.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140204_1100_2ddcac5.mp3</guid>
+                    <pubDate>Tue, 04 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står det klassråd på schemat och alla får komma till tals. Emma får svara på frågor och lämnar sen över klassens lista till P3-chefen Tomas Granryd som har ett ultimatum.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Klassråd</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4846697.mp3" length="24984762" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>PRAO hos P-vakt</title>
+                    <description>Idag står PRAO på schemat med P-vakten Micke. Hur är det att jobba med ett av världens mest hatade yrke och kommer Emma att bli godkänd?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4845464.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140203_1100_3044437.mp3</guid>
+                    <pubDate>Mon, 03 Feb 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag står PRAO på schemat med P-vakten Micke. Hur är det att jobba med ett av världens mest hatade yrke och kommer Emma att bli godkänd?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3PRAO,hos,P-vakt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4845464.mp3" length="18776333" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Jonatan Unge</title>
+                    <description>Tankesmedjans Jonatan Unge är veckans fredagsgäst. Han har förberett lekar och han tar revansch på ett sorgligt minne från roliga timmen i skolan. Sen sjunger vi in helgen med fredagskaraoke!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4843359.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140131_1100_35cd5c8.mp3</guid>
+                    <pubDate>Fri, 31 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Tankesmedjans Jonatan Unge är veckans fredagsgäst. Han har förberett lekar och han tar revansch på ett sorgligt minne från roliga timmen i skolan. Sen sjunger vi in helgen med fredagskaraoke!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Jonatan,Unge</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4843359.mp3" length="27875444" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rädda djur</title>
+                    <description>I dagens Knyckare i P3 lär vi oss att rädda djur tillsammans med Mattias Gårdlund från teveprogrammet Djurskyddsinspektörerna. Emma har gömt sin plastflamingo och andra gosedjur i studion som Mattias får hitta och hjälpa. Vi får också höra om hunden Harry som räddat sin matte från både eld och inbrottstjuvar.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4841784.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140130_1100_31fe51f.mp3</guid>
+                    <pubDate>Thu, 30 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens Knyckare i P3 lär vi oss att rädda djur tillsammans med Mattias Gårdlund från teveprogrammet Djurskyddsinspektörerna. Emma har gömt sin plastflamingo och andra gosedjur i studion som Mattias får hitta och hjälpa. Vi får också höra om hunden Harry som räddat sin matte från både eld och inbrottstjuvar.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Rädda,djur</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4841784.mp3" length="22162140" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tema Danmark</title>
+                    <description>På hemkunskapen idag är det tema Danmark. Kocken Carl-Bodin Svensk lagar smörrebröd och vi lär oss det lite snåriga danska sättet att räkna.  Det blir självklart en hel del Mads Mikkelsen också.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4840558.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140129_1100_376a474.mp3</guid>
+                    <pubDate>Wed, 29 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>På hemkunskapen idag är det tema Danmark. Kocken Carl-Bodin Svensk lagar smörrebröd och vi lär oss det lite snåriga danska sättet att räkna.  Det blir självklart en hel del Mads Mikkelsen också.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Tema,Danmark</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4840558.mp3" length="26074846" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Så snuskig är Emma</title>
+                    <description>Idag pratar vi om bakterier och baciller. Emma har alltid med sig telefonen på toaletten - hur äcklig är den? Petter Oest som är läkare och programledare för SVT:s Bacillakuten är gäst och tar en odling på Emmas telefon. Vi pratar också med P3:s Morgan Larsson som har en riktigt äcklig historia att berätta. Programledare: Emma Knyckare</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4838811.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140128_1100_2e30d84.mp3</guid>
+                    <pubDate>Tue, 28 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag pratar vi om bakterier och baciller. Emma har alltid med sig telefonen på toaletten - hur äcklig är den? Petter Oest som är läkare och programledare för SVT:s Bacillakuten är gäst och tar en odling på Emmas telefon. Vi pratar också med P3:s Morgan Larsson som har en riktigt äcklig historia att berätta. Programledare: Emma Knyckare</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Så,snuskig,är,Emma</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4838811.mp3" length="30039487" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Bygga muskler SNABBT</title>
+                    <description>Emma vill få stora muskler innan Alla hjärtans dag.  Hon har två veckor på sig och har bjudit in MMA-fighters, Paolo Roberto och Prins Daniel.  Det här ska väl gå?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4837510.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140127_1100_307edce.mp3</guid>
+                    <pubDate>Mon, 27 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Emma vill få stora muskler innan Alla hjärtans dag.  Hon har två veckor på sig och har bjudit in MMA-fighters, Paolo Roberto och Prins Daniel.  Det här ska väl gå?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Bygga,muskler,SNABBT</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4837510.mp3" length="19738957" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Ankan Johansson</title>
+                    <description>Roliga timmen med "Anders och Måns"-Anders aka Ankan Johansson. Emma har förberett en fiskedamm och tagit fram ett diagnostiskt prov som går ut på att gissa vilket djur som låter och vilken åkomma det har. Anders håller i en tävling och så blir det förstås fredagskaraoke. Programledare: Emma Knyckare.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4835151.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140124_1100_2e86b24.mp3</guid>
+                    <pubDate>Fri, 24 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Roliga timmen med "Anders och Måns"-Anders aka Ankan Johansson. Emma har förberett en fiskedamm och tagit fram ett diagnostiskt prov som går ut på att gissa vilket djur som låter och vilken åkomma det har. Anders håller i en tävling och så blir det förstås fredagskaraoke. Programledare: Emma Knyckare.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Ankan,Johansson</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4835151.mp3" length="26918546" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Den stora boybandspecialen</title>
+                    <description>Idag är det biologi på schemat och vi skall lära oss samtligt allt om ÄKTA KÄRLEK.  Dvs kärleken man bara kan känna för ett pojkband.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4833720.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140123_1100_2dd066c.mp3</guid>
+                    <pubDate>Thu, 23 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag är det biologi på schemat och vi skall lära oss samtligt allt om ÄKTA KÄRLEK.  Dvs kärleken man bara kan känna för ett pojkband.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Den,stora,boybandspecialen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4833720.mp3" length="28224734" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Mexikotema på hemkunskapen</title>
+                    <description>En mexikansk stund i studion blev Emmas andra hemkunskapslektion. Mexikos ambassad var bjuden, men dom kom inte. Där skulle det varit en spoiler-alert. I och med att det var hemkunskap så var Emmas hemkunskapslärare Carl Bodin Svensk med och visade hur man mortlade avokado. Programledare: Emma Knyckare Producent: Anna Emanuelsson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4832323.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140122_1100_2d7d562.mp3</guid>
+                    <pubDate>Wed, 22 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>En mexikansk stund i studion blev Emmas andra hemkunskapslektion. Mexikos ambassad var bjuden, men dom kom inte. Där skulle det varit en spoiler-alert. I och med att det var hemkunskap så var Emmas hemkunskapslärare Carl Bodin Svensk med och visade hur man mortlade avokado. Programledare: Emma Knyckare Producent: Anna Emanuelsson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Mexikotema,på,hemkunskapen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4832323.mp3" length="24843422" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Knasiga lagar och regler</title>
+                    <description>Idag handlar det om lagar och regler. Vi har samlat massa knasiga lagar från världen, Emma reder ut våra grundlagar, Dilan från Tankesmedjan gästar och vi pratar med en svensk kändis som varit i rättegång för ett udda brott. Programledare: Emma Knyckare</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4830909.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140121_1100_2a3604c.mp3</guid>
+                    <pubDate>Tue, 21 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Idag handlar det om lagar och regler. Vi har samlat massa knasiga lagar från världen, Emma reder ut våra grundlagar, Dilan från Tankesmedjan gästar och vi pratar med en svensk kändis som varit i rättegång för ett udda brott. Programledare: Emma Knyckare</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Knasiga,lagar,och,regler</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4830909.mp3" length="23522093" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Allt om stjärten</title>
+                    <description>SEXUALKUNSKAP!!! Den mest spännande kunskapen står på schemat idag. Och för att börja stort och smaskigt så handlar första lektionen om rumpan!   Med i programmet är sexologen och radiopratarn Robert Jacobsson från Ligga med P3 som ska ge massa tips när det gäller tha ass.   Det blir också asmycket TWERK i dagens sändning. Gött.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4829636.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140120_1100_2bccebe.mp3</guid>
+                    <pubDate>Mon, 20 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>SEXUALKUNSKAP!!! Den mest spännande kunskapen står på schemat idag. Och för att börja stort och smaskigt så handlar första lektionen om rumpan!   Med i programmet är sexologen och radiopratarn Robert Jacobsson från Ligga med P3 som ska ge massa tips när det gäller tha ass.   Det blir också asmycket TWERK i dagens sändning. Gött.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Allt,om,stjärten</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4829636.mp3" length="21635146" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Roliga timmen med Sarah Dawn Finer</title>
+                    <description>Dagens Knyckare i P3 gästas av Sarah Dawn Finer och på schemat står det... Roliga timmen! Det blir fredags-karaoke, "jag har aldrig" och vi får veta massa göttigt om vad som hände bakom kulisserna på Musikhjälpen. Programledare: Emma Knyckare</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4827332.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140117_1100_2faa50f.mp3</guid>
+                    <pubDate>Fri, 17 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Dagens Knyckare i P3 gästas av Sarah Dawn Finer och på schemat står det... Roliga timmen! Det blir fredags-karaoke, "jag har aldrig" och vi får veta massa göttigt om vad som hände bakom kulisserna på Musikhjälpen. Programledare: Emma Knyckare</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Roliga,timmen,med,Sarah,Dawn,Finer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4827332.mp3" length="26321164" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Biologi- paddräddaren Hugo och grodregn</title>
+                    <description>I dagens program fick Emma lära sig allt om padd-grod- och fiskregn av den kunnige experten Claes Svahn. Emma fick även en exklusiv intervju med den nästan världskände paddhjälten Hugo Frisell som ägnar stor del av sin tid och engagemang till att rädda paddor från att bli ihjälkörda.   Programledare: Emma Knyckare, producent: Jesper Hagenborn, research och tävlingsledare: Anna Emanuelsson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4825788.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140116_1100_2bdc725.mp3</guid>
+                    <pubDate>Thu, 16 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens program fick Emma lära sig allt om padd-grod- och fiskregn av den kunnige experten Claes Svahn. Emma fick även en exklusiv intervju med den nästan världskände paddhjälten Hugo Frisell som ägnar stor del av sin tid och engagemang till att rädda paddor från att bli ihjälkörda.   Programledare: Emma Knyckare, producent: Jesper Hagenborn, research och tävlingsledare: Anna Emanuelsson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Biologi-,paddräddaren,Hugo,och,grodregn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4825788.mp3" length="26841413" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Emma oc h Carl gör chokladbollar och Linnea ger snabbt recept på bea</title>
+                    <description>I dagens program är det första hemkunskapslektionen och då var såklart Knyckare i P3s/Livets mjuka skolas egen hemskunskapslärare på plats, herr Carl Bodin Svensk. Då blev det chokladbollar, eventuellt utan snorkråkor i smeten. Linnea Wikblad ger även tips på den snabbaste av snabba béarnaisesåsar.  Programledare: Emma Knyckare,  producent: Jesper Hagenborn, reasearch och domare: Anna Emanuelsson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4824409.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140115_1100_2b091f1.mp3</guid>
+                    <pubDate>Wed, 15 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens program är det första hemkunskapslektionen och då var såklart Knyckare i P3s/Livets mjuka skolas egen hemskunskapslärare på plats, herr Carl Bodin Svensk. Då blev det chokladbollar, eventuellt utan snorkråkor i smeten. Linnea Wikblad ger även tips på den snabbaste av snabba béarnaisesåsar.  Programledare: Emma Knyckare,  producent: Jesper Hagenborn, reasearch och domare: Anna Emanuelsson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Emma,oc,h,Carl,gör,chokladbollar,och,Linnea,ger,snabbt,recept,på,bea</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4824409.mp3" length="26454875" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kemi: Emma får hjälp att bygga en bomb och ringer till Nordkorea</title>
+                    <description>I dagens program hade Emma kemilektion. Till studion kom en tvättäkta kemilärare som hette Johanna Nygren Spanne och hjälpte henne att bygga BOMBER! Emma slog även en signal till Nordkorea för att kolla hur dom gör med sin bomb.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4823206.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140114_1100_30ecbf6.mp3</guid>
+                    <pubDate>Tue, 14 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>I dagens program hade Emma kemilektion. Till studion kom en tvättäkta kemilärare som hette Johanna Nygren Spanne och hjälpte henne att bygga BOMBER! Emma slog även en signal till Nordkorea för att kolla hur dom gör med sin bomb.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Kemi:,Emma,får,hjälp,att,bygga,en,bomb,och,ringer,till,Nordkorea</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4823206.mp3" length="25900729" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Terminstart för Knyckare i P3</title>
+                    <description>Knyckare i P3:s allra första skoldag. Emma busringer till Lundsberg, gör ett diagnostiskt prov med  Ibrahim Baylan, tävlar mot sin mamma i Vem vill bli pensionär? samt sjunger in den nya terminen med en fantastisk tolkning av  Halleluja.   Programledare: Emma Knyckare, producent: Jesper Hagenborn, research och domare: Anna Emanuelsson</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4821998.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_knyckare_20140113_1100_35a584b.mp3</guid>
+                    <pubDate>Mon, 13 Jan 2014 09:00:00 GMT</pubDate>
+                    <programid>4617</programid>
+                    <poddid>20494</poddid>
+                    <itunes:summary>Knyckare i P3:s allra första skoldag. Emma busringer till Lundsberg, gör ett diagnostiskt prov med  Ibrahim Baylan, tävlar mot sin mamma i Vem vill bli pensionär? samt sjunger in den nya terminen med en fantastisk tolkning av  Halleluja.   Programledare: Emma Knyckare, producent: Jesper Hagenborn, research och domare: Anna Emanuelsson</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Knyckare,i,P3Terminstart,för,Knyckare,i,P3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4821998.mp3" length="29887370" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

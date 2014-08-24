@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.11"/>
+        <httpclient:header name="X-Libsyn-Host" value="web-engine1.libsyn.com"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="last-modified" value="Wed, 20 Aug 2014 03:10:11 GMT"/>
+        <httpclient:header name="Content-Length" value="63511"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:38:46 GMT"/>
+        <httpclient:header name="X-Varnish" value="2975594427 2973325918"/>
+        <httpclient:header name="Age" value="23864"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="X-Cache" value="HIT"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:media="http://search.yahoo.com/mrss/" xmlns:cc="http://web.resource.org/cc/" version="2.0">
+            <channel>
+                <atom:link href="http://arcologypodcast.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+                <title>The Arcology Shadowrun Community Podcast</title>
+                <pubDate>Wed, 13 Aug 2014 02:42:30 +0000</pubDate>
+                <lastBuildDate>Wed, 20 Aug 2014 03:10:11 +0000</lastBuildDate>
+                <generator>Libsyn WebEngine 2.0</generator>
+                <link>http://arcologypodcast.com</link>
+                <language>en</language>
+                <copyright>2014</copyright>
+                <docs>http://arcologypodcast.com</docs>
+                <managingEditor>contact@arcologypodcast.com (contact@arcologypodcast.com)</managingEditor>
+                <description>The Arcology Podcast - A Shadowrun Community Podcast</description>
+                <image>
+                    <url>http://assets.libsyn.com/content/7433732.jpg</url>
+                    <title>The Arcology Shadowrun Community Podcast</title>
+                    <link>http://arcologypodcast.com</link>
+                </image>
+                <itunes:author/>
+                <itunes:keywords>cyberpunk,fantasy,game,gaming,gm,master,play,role,rpg,shadowrun,sixth,world</itunes:keywords>
+                <itunes:image href="http://assets.libsyn.com/content/7433732.jpg"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary/>
+                <itunes:subtitle/>
+                <item>
+                    <title>Actual Play Episode 012 - You What?</title>
+                    <pubDate>Wed, 13 Aug 2014 02:42:30 +0000</pubDate>
+                    <guid isPermaLink="false">fea186a39a0504238054f038d1b9c0d5</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-012-you-what</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7500801"/>
+                    <description>&lt;p&gt;In which the team conducts legwork, follows a lead, and then (wait... you what?!).&lt;/p&gt;</description>
+                    <enclosure length="37896631" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_012_-_You_What_.mp3"/>
+                    <itunes:duration>39:25</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team conducts legwork, follows a lead, and then (wait... you what?!).</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 040 - Chummer 5</title>
+                    <pubDate>Sat, 09 Aug 2014 21:50:36 +0000</pubDate>
+                    <guid isPermaLink="false">099e4d1de0bdac20d51d764c00be4566</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-040-chummer-5</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7490317"/>
+                    <description>&lt;p&gt;In which we sit down with Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &amp;nbsp;We also have a new Extraterritoriality segment and a special announcement!&lt;/p&gt;</description>
+                    <enclosure length="63680938" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_040_-_Chummer_5.mp3"/>
+                    <itunes:duration>01:06:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which we sit down with Adam, creator of Chummer 5 character creation software for Shadowrun 5th edition. &amp;nbsp;We also have a new Extraterritoriality segment and a special announcement!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 011 - Roast at the Rhino</title>
+                    <pubDate>Wed, 06 Aug 2014 03:25:33 +0000</pubDate>
+                    <guid isPermaLink="false">d51735bbf9ce6e609cade3030fde6593</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-011-roast-at-the-rhino</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7478023"/>
+                    <description>&lt;p&gt;In which the team meets up at the Big Rhino to hear King James's job offer.&lt;/p&gt;</description>
+                    <enclosure length="67273329" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_011_-_Roast_at_the_Rhino.mp3"/>
+                    <itunes:duration>01:10:01</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team meets up at the Big Rhino to hear King James's job offer.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 039 - Knowledge Skills</title>
+                    <pubDate>Sat, 02 Aug 2014 21:51:38 +0000</pubDate>
+                    <guid isPermaLink="false">594bf4d42da3f0245423aa623547c4c3</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-039-knowledge-skills</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7467135"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story!&lt;/p&gt;</description>
+                    <enclosure length="39641194" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_039_-_Knowledge_Skills.mp3"/>
+                    <itunes:duration>41:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the role of knowledge skills in Shadowrun. Plus, new listener questions and a new story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 010 - All Out of Horseshoes</title>
+                    <pubDate>Wed, 30 Jul 2014 03:42:49 +0000</pubDate>
+                    <guid isPermaLink="false">103010da89f435d1d43d634fb02a96cb</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-010-all-out-of-horseshoes</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7449323"/>
+                    <description>&lt;p&gt;In which the team continues their search for the dwarf with the briefcase full of Jazz.&lt;/p&gt;</description>
+                    <enclosure length="45170817" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_010_-_All_Out_of_Horseshoes.mp3"/>
+                    <itunes:duration>46:59</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team continues their search for the dwarf with the briefcase full of Jazz.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 038 - Metaplanar Quests</title>
+                    <pubDate>Sun, 27 Jul 2014 01:45:17 +0000</pubDate>
+                    <guid isPermaLink="false">5bbe7b01d4661b6860daa4bee1d54504</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-038-metaplanar-quests</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7435568"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss&amp;nbsp;the why, what, and how of&amp;nbsp;metaplanar quests. &amp;nbsp;Plus a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="40446603" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_038_-_Metaplanar_Quests.mp3"/>
+                    <itunes:duration>42:07</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss&amp;nbsp;the why, what, and how of&amp;nbsp;metaplanar quests. &amp;nbsp;Plus a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 009 - Uncle Maverick</title>
+                    <pubDate>Wed, 23 Jul 2014 03:48:22 +0000</pubDate>
+                    <guid isPermaLink="false">1bce8ef70884f367f680af200706b119</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-009-uncle-maverick</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7418944"/>
+                    <description>&lt;p&gt;In which we get a glimpse into Kenji's and Maverick's family lives before business calls them back into the Barrens.&lt;/p&gt;</description>
+                    <enclosure length="58837650" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_009_-_Uncle_Maverick.mp3"/>
+                    <itunes:duration>01:01:14</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which we get a glimpse into Kenji's and Maverick's family lives before business calls them back into the Barrens.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 037 - Character Optimization</title>
+                    <pubDate>Sun, 20 Jul 2014 02:31:59 +0000</pubDate>
+                    <guid isPermaLink="false">daf7b9020c4d1df2f802a54e85d77606</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-037-character-optimization</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7405720"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &amp;nbsp;Also included: a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="60832573" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_037_-_Character_Optimization.mp3"/>
+                    <itunes:duration>01:03:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson talk character optimization with Maverick from the Arcology Actual Play podcast. &amp;nbsp;Also included: a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 008 - Showdown at the Pawn Shop</title>
+                    <pubDate>Wed, 16 Jul 2014 02:58:26 +0000</pubDate>
+                    <guid isPermaLink="false">d3a8f6277efea0f0ec2d54fe4de3a35a</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-008-showdown-at-the-pawn-shop</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7390241"/>
+                    <description>&lt;p&gt;In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.&lt;/p&gt;</description>
+                    <enclosure length="75506303" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_008_-_Showdown_at_the_Pawn_Shop.mp3"/>
+                    <itunes:duration>01:18:35</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team tries to wrap up the previous job and, in the process of selling paydata, ends up in a showdown at the pawn shop.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 036 - Crossfire</title>
+                    <pubDate>Sun, 13 Jul 2014 02:36:42 +0000</pubDate>
+                    <guid isPermaLink="false">b5974957f16b273c95c183399db3b02c</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-036-crossfire</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7379455"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&amp;nbsp;with a can of Raid nearby.&lt;/p&gt;</description>
+                    <enclosure length="46431763" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_036_-_Crossfire.mp3"/>
+                    <itunes:duration>48:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson talk about the Shadowrun collectible card game, Crossfire. Also included: a new and extra-long Critter Corner. You may feel more at ease&amp;nbsp;with a can of Raid nearby.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 007 - Startled and Surprised</title>
+                    <pubDate>Wed, 09 Jul 2014 03:01:15 +0000</pubDate>
+                    <guid isPermaLink="false">3cf0618b179889492d3c6f27aaab4e37</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-007-startled-and-surprised</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7365399"/>
+                    <description>&lt;p&gt;In which the team, unable to rely on the con, introduces security forces to Startled and Surprised.&lt;/p&gt;</description>
+                    <enclosure length="42823142" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_007_-_Startled_and_Surprised.mp3"/>
+                    <itunes:duration>44:33</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team, unable to rely on the con, introduces security forces to Startled and Surprised.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 006 - Snickerdoodle</title>
+                    <pubDate>Wed, 02 Jul 2014 03:14:27 +0000</pubDate>
+                    <guid isPermaLink="false">d84dff7b236aff9674b3dfef503dcc2f</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-006-snickerdoodle</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7343172"/>
+                    <description>&lt;p&gt;In which the team uses their collective Con skill, specialized in Technobabble, to get in unnoticed.&lt;/p&gt;</description>
+                    <enclosure length="58441841" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_006_-_Snickerdoodle.mp3"/>
+                    <itunes:duration>01:00:49</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team uses their collective Con skill, specialized in Technobabble, to get in unnoticed.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 035 - Hitting 'Em Where It Counts: Run &amp; Gun #5</title>
+                    <pubDate>Sun, 29 Jun 2014 17:38:16 +0000</pubDate>
+                    <guid isPermaLink="false">22e08c29b376233e8dc617d5a9eacf7e</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-035-hitting-em-where-it-counts-run-gun-5</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7331043"/>
+                    <description>&lt;p&gt;&lt;span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;"&gt;In which Vox and Mr. Johnson answer more of your questions and wrap up Run &amp;amp; Gun: called shots, martial arts, new uses for Edge, and demolitions!&lt;/span&gt;&lt;/p&gt;</description>
+                    <enclosure length="74867680" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_035_-_Run_and_Gun_5.mp3"/>
+                    <itunes:duration>51:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson answer more of your questions and wrap up Run &amp;amp; Gun: called shots, martial arts, new uses for Edge, and demolitions!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 005 - SNAFU</title>
+                    <pubDate>Wed, 25 Jun 2014 03:13:57 +0000</pubDate>
+                    <guid isPermaLink="false">4d5d6f366b767503b84c401cb8c17316</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-005-snafu</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7317173"/>
+                    <description>&lt;p&gt;In which the team makes plans to plumb the depths of a megacorp in search of data.&lt;/p&gt;</description>
+                    <enclosure length="85677299" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_Episode_005_-_SNAFU.mp3"/>
+                    <itunes:duration>59:28</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team makes plans to plumb the depths of a megacorp in search of data.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 034 - Origins Recap</title>
+                    <pubDate>Sun, 22 Jun 2014 22:58:31 +0000</pubDate>
+                    <guid isPermaLink="false">243cb3fcec5844e3115550c3a844c3f6</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-034-origins-recap</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7309070"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson recount their Origins 2014 experience and present you with a new Storytime. Run &amp;amp; Gun coverage continues next week.&lt;/p&gt;</description>
+                    <enclosure length="60484565" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_034_-_Origins_Recap.mp3"/>
+                    <itunes:duration>41:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson recount their Origins 2014 experience and present you with a new Storytime. Run &amp;amp; Gun coverage continues next week.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 004 - Tell Me About Your Mother</title>
+                    <pubDate>Wed, 18 Jun 2014 03:02:57 +0000</pubDate>
+                    <guid isPermaLink="false">1353723db8e768e7789cf539f5f33928</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-004-tell-me-about-your-mother</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7293928"/>
+                    <description>&lt;p&gt;In which the team spends a little down time and we get the opportunity to know a little more about them.&lt;/p&gt;</description>
+                    <enclosure length="46151984" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_004_-_Tell_Me_About_Your_Mother.mp3"/>
+                    <itunes:duration>32:01</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team spends a little down time and we get the opportunity to know a little more about them.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 003 - Hazard Pay</title>
+                    <pubDate>Tue, 10 Jun 2014 03:27:29 +0000</pubDate>
+                    <guid isPermaLink="false">34db63d3b6de9f748731856d38a81e78</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-003-hazard-pay</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7267063"/>
+                    <description>&lt;p&gt;In which the team gets the call, goes to the meet, and gets the opportunity to earn some hazard pay.&lt;/p&gt;</description>
+                    <enclosure length="83691167" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_Episode_003_-_Hazard_Pay.mp3"/>
+                    <itunes:duration>58:05</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team gets the call, goes to the meet, and gets the opportunity to earn some hazard pay.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 033 - Missions and Conventions with Good Ray Rigel</title>
+                    <pubDate>Sun, 08 Jun 2014 01:33:23 +0000</pubDate>
+                    <guid isPermaLink="false">10248da46a345ad933c986761bd291a6</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-033-missions-and-conventions-with-good-ray-rigel</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7259917"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson talk Shadowrun Missions and upcoming conventions with Good Ray Rigel, Lead RPGs Agent of the Catalyst Demo Team.&lt;/p&gt;</description>
+                    <enclosure length="68835281" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_033_-Good_Ray_Rigel.mp3"/>
+                    <itunes:duration>47:47</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson talk Shadowrun Missions and upcoming conventions with Good Ray Rigel, Lead RPGs Agent of the Catalyst Demo Team.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 002 - Barrens Hospitality</title>
+                    <pubDate>Tue, 03 Jun 2014 22:46:41 +0000</pubDate>
+                    <guid isPermaLink="false">9077bbd52a1805fcb1af04591821984c</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-002-barrens-hospitality</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7246437"/>
+                    <description>&lt;p&gt;In which the team simply awaits a phone call, then intervenes in gang warfare on behalf of their hosts.&lt;/p&gt;</description>
+                    <enclosure length="90013883" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_Episode_002_-_Barrens_Hospitality.mp3"/>
+                    <itunes:duration>01:02:28</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which the team simply awaits a phone call, then intervenes in gang warfare on behalf of their hosts.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 032 – Combat Maneuvers: Run &amp; Gun #4</title>
+                    <pubDate>Sun, 01 Jun 2014 00:37:34 +0000</pubDate>
+                    <guid isPermaLink="false">044c76abac3124d450f22dee1eeb2ee9</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-032-combat-maneuvers-run-gun-4</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7236092"/>
+                    <description>&lt;p&gt;In which Mr. Johnson and Vox discuss the combat maneuvers introduced in Run &amp;amp; Gun. Also included is a new segment, Extraterritoriality, which covers house rules.&lt;/p&gt;</description>
+                    <enclosure length="37692696" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_032_-_Combat_Maneuvers_-_Run__Gun_4.mp3"/>
+                    <itunes:duration>26:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Mr. Johnson and Vox discuss the combat maneuvers introduced in Run &amp;amp; Gun. Also included is a new segment, Extraterritoriality, which covers house rules.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Actual Play Episode 001 - Don't Call it a Milk Run</title>
+                    <pubDate>Wed, 28 May 2014 02:33:50 +0000</pubDate>
+                    <guid isPermaLink="false">1fdc1724706fd4ad0f079ac1e161dfcd</guid>
+                    <link>http://arcologypodcast.libsyn.com/actual-play-episode-001-dont-call-it-a-milk-run</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7222361"/>
+                    <description>&lt;p&gt;In which we are introduced to the Runners and they are introduced to their first job.&lt;/p&gt;</description>
+                    <enclosure length="99307611" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Actual_Play_Episode_001_-_Dont_Call_It_A_Milk_Run.mp3"/>
+                    <itunes:duration>01:08:55</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which we are introduced to the Runners and they are introduced to their first job.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 031 - Armor: Run &amp; Gun #3</title>
+                    <pubDate>Sun, 25 May 2014 03:10:45 +0000</pubDate>
+                    <guid isPermaLink="false">a709e2a0ebbe8d0a6b1e4027e7e2b797</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-031-armor-run-gun-3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7213450"/>
+                    <description>&lt;p&gt;In which Mr. Johnson and Vox examine the threads that will keep you from getting geeked. Or at least make you look better falling down. Also, our first impressions of Stolen Souls, and a special announcement.&lt;/p&gt;</description>
+                    <enclosure length="60352751" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_031_-_Armor_-_Run__Gun_Part_3.mp3"/>
+                    <itunes:duration>41:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Mr. Johnson and Vox examine the threads that will keep you from getting geeked. Or at least make you look better falling down. Also, our first impressions of Stolen Souls, and a special announcement.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 030 - Hero Lab and Earthdawn: Interview Double Feature</title>
+                    <pubDate>Sun, 18 May 2014 01:55:19 +0000</pubDate>
+                    <guid isPermaLink="false">d03df48185a50a4761b190054ca17ab1</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-030-hero-lab-and-earthdawn-interview-double-feature</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7190203"/>
+                    <description>&lt;p&gt;In which your hosts take a brief break from Run &amp;amp; Gun. Mr. Johnson interviews Colen McAlister of Lone Wolf Development briefly about the Shadowrun 5 Herolab update, then moves from the Sixth World to the Fourth World to discuss Earthdawn 4th edition with Josh Harrison, the line developer for Earthdawn.&lt;/p&gt;</description>
+                    <enclosure length="85845808" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_030_-_Interview_Double_Feature_-_Hero_Lab_and_Earthdawn.mp3"/>
+                    <itunes:duration>01:29:24</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which your hosts take a brief break from Run &amp;amp; Gun. Mr. Johnson interviews Colen McAlister of Lone Wolf Development briefly about the Shadowrun 5 Herolab update, then moves from the Sixth World to the Fourth World to discuss Earthdawn 4th...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 029 - Weapon Accessories: Run &amp; Gun #2</title>
+                    <pubDate>Sun, 11 May 2014 05:50:57 +0000</pubDate>
+                    <guid isPermaLink="false">41aa578f94c3a1add945c5029876c3ac</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-029-weapon-accessories-run-gun-2</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7166524"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the weapon accessories and modifications found in Run &amp;amp; Gun. In the second half of the show, Mr. Johnson sits down to talk about Realm Works campaign management software with Colen McAlister of Lone Wolf Development.&lt;/p&gt;</description>
+                    <enclosure length="45830366" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_029_-_Realm_Works_Interview__Weapon_Accessories_-_Run__Gun_Part_2.mp3"/>
+                    <itunes:duration>47:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the weapon accessories and modifications found in Run &amp;amp; Gun. In the second half of the show, Mr. Johnson sits down to talk about Realm Works campaign management software with Colen McAlister of Lone Wolf...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 028 - Arsenal: Run &amp; Gun #1</title>
+                    <pubDate>Sat, 03 May 2014 01:25:21 +0000</pubDate>
+                    <guid isPermaLink="false">0aedf5a0c146662cee5c5be38d9b7eef</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-028-arsenal-run-gun-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7140207"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson go through all the goodies in the Arsenal section of Run &amp;amp; Gun. In the news, some podcast love abounds, and we have a new story!&lt;/p&gt;</description>
+                    <enclosure length="50675326" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_028_-_Arsenal_Run__Gun_1.mp3"/>
+                    <itunes:duration>52:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson go through all the goodies in the Arsenal section of Run &amp;amp; Gun. In the news, some podcast love abounds, and we have a new story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 027 - Talking Shadowrun with the Gamer's Tavern</title>
+                    <pubDate>Sun, 27 Apr 2014 01:07:52 +0000</pubDate>
+                    <guid isPermaLink="false">d1cf59211b9f177b7e22941a932b763c</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-027-talking-shadowrun-with-the-gamers-tavern</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7116400"/>
+                    <description>&lt;p&gt;In which Mr. Johnson talks Shadowrun with Ross Watson and Darryl Mott Jr. of the Gamer's Tavern Podcast, plus a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="64537399" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_027_-_Gamers_Tavern_Interview.mp3"/>
+                    <itunes:duration>01:07:12</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Mr. Johnson talks Shadowrun with Ross Watson and Darryl Mott Jr. of the Gamer's Tavern Podcast, plus a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 026 – Improving Your Rigger: Advanced Shadowrunner Dossier #4</title>
+                    <pubDate>Sat, 19 Apr 2014 02:57:41 +0000</pubDate>
+                    <guid isPermaLink="false">d46f7cda60b78afdf3621b8b2b56112c</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-026-improving-your-rigger-advanced-shadowrunner-dossier-4</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7091769"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss ways to improve your rigger.&amp;nbsp;Plus an in-depth rundown of most of the wheels, legs, tracks, and blades on which you'll be itching to spend your nuyen!&lt;/p&gt;</description>
+                    <enclosure length="35139016" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_026_-_Improving_Your_Rigger.mp3"/>
+                    <itunes:duration>36:35</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss ways to improve your rigger.&amp;nbsp;Plus an in-depth rundown of most of the wheels, legs, tracks, and blades on which you'll be itching to spend your nuyen!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 025 – Harebrained Schemes Interview</title>
+                    <pubDate>Sat, 12 Apr 2014 02:29:37 +0000</pubDate>
+                    <guid isPermaLink="false">01c38dbaa6f79948a2b47605ec112460</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-025-harebrained-schemes-interview</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7068425"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson briefly discuss the release of Run &amp;amp; Gun, and Mr. Johnson interviews Mitch Gitelman and Jordan Weisman of Harebrained Schemes, and tries not to panic.&lt;/p&gt;</description>
+                    <enclosure length="43450082" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_025_-_Hare_Brained_Schemes_Interview.mp3"/>
+                    <itunes:duration>45:14</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson briefly discuss the release of Run &amp;amp; Gun, and Mr. Johnson interviews Mitch Gitelman and Jordan Weisman of Harebrained Schemes, and tries not to panic.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 024 – Improving Your Decker or Technomancer: Advanced Shadowrunner Dossier #3</title>
+                    <pubDate>Sun, 06 Apr 2014 03:25:56 +0000</pubDate>
+                    <guid isPermaLink="false">07c4a5cd666e2e66eac7bc9548abaab4</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-024-improving-your-decker-or-technomancer-advanced-shadowrunner-dossier-3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7047063"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss ways to improve your decker or technomancer. Also included: a new critter corner and a new listener story.&lt;/p&gt;</description>
+                    <enclosure length="37417343" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_024_-_Improving_your_Decker_or_Technomancer.mp3"/>
+                    <itunes:duration>38:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss ways to improve your decker or technomancer. Also included: a new critter corner and a new listener story.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 023 – Improving Your Street Samurai: Advanced Shadowrunner Dossier #2</title>
+                    <pubDate>Sat, 29 Mar 2014 02:39:32 +0000</pubDate>
+                    <guid isPermaLink="false">74238630a1d08cf5632ace3385e01788</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-023-improving-your-street-samurai-advanced-shadowrunner-dossier-2</link>
+                    <itunes:image href="http://assets.libsyn.com/content/7019975"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss how to improve your street samurai. More questions and answers, a new, epic Shadowrunner story, and Mr. Johnson makes no promises.&lt;/p&gt;</description>
+                    <enclosure length="34349925" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_023_-_Upgrading_Your_Street_Samurai.mp3"/>
+                    <itunes:duration>35:46</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss how to improve your street samurai. More questions and answers, a new, epic Shadowrunner story, and Mr. Johnson makes no promises.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 022 – Improving Your Magician or Adept: Advanced Shadowrunner Dossier #1</title>
+                    <pubDate>Sat, 22 Mar 2014 04:01:34 +0000</pubDate>
+                    <guid isPermaLink="false">1af170a768ac76b5ebdf17d7254ec621</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-022-improving-your-magician-or-adept-advanced-shadowrunner-dossier-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6995241"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the ways in which you can improve your magician or adept shadowrunner&amp;nbsp;through karma and/or nuyen expenditures. Also: question-and-answer and a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="48191485" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_022_-_Improving_Your_Character_-_Magicians_and_Adepts.mp3"/>
+                    <itunes:duration>50:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the ways in which you can improve your magician or adept shadowrunner&amp;nbsp;through karma and/or nuyen expenditures. Also: question-and-answer and a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 021 - Shadowrun Online: Interview with Jan Wagner</title>
+                    <pubDate>Sat, 08 Mar 2014 04:41:57 +0000</pubDate>
+                    <guid isPermaLink="false">3938d9ca0f44c8046f899b5473892450</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-021-shadowrun-online-interview-with-jan-wagner</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2719196"/>
+                    <description>&lt;p&gt;In which Jan Wagner of Cliffhanger Productions joins us for an in-depth interview about the upcoming game Shadowrun Online!&lt;/p&gt;</description>
+                    <enclosure length="60345625" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_021_-_Shadowrun_Online__Interview_with_Jan_Wagner.mp3"/>
+                    <itunes:duration>01:02:51</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,online,rpg,cyberpunk,cliffhanger,shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Jan Wagner of Cliffhanger Productions joins us for an in-depth interview about the upcoming game Shadowrun Online!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 020 - Music in the Sixth World</title>
+                    <pubDate>Sat, 01 Mar 2014 06:18:49 +0000</pubDate>
+                    <guid isPermaLink="false">93e1c74a1f88982de8df5333e4569bc5</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-020-music-in-the-sixth-world</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6900910"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson cover the subject of music in the Sixth World: how GM's and players can use music to add depth to their campaigns/characters and some house-rule crunch on moonlighting as a musician. Plus: listener questions, a new listener story,&amp;nbsp;and two bonus songs!&lt;/p&gt;</description>
+                    <enclosure length="66575336" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_20_-_Music_in_the_Sixth_World.mp3"/>
+                    <itunes:duration>01:09:20</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson cover the subject of music in the Sixth World: how GM's and players can use music to add depth to their campaigns/characters and some house-rule crunch on moonlighting as a musician. Plus: listener questions, a new...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 019 - Vice in the Sixth World</title>
+                    <pubDate>Sat, 22 Feb 2014 05:00:42 +0000</pubDate>
+                    <guid isPermaLink="false">f1b3afc0089069459bd9ee7bef905b35</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-019-vice-in-the-sixth-world</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6872105"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss vice in the sixth world. We will cover the addiction rules to the best of our ability, and we have a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="62127412" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_019_-_Vice_in_the_Sixth_World.mp3"/>
+                    <itunes:duration>01:04:42</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss vice in the sixth world. We will cover the addiction rules to the best of our ability, and we have a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 018 - Religion in the Sixth World</title>
+                    <pubDate>Sat, 15 Feb 2014 04:16:38 +0000</pubDate>
+                    <guid isPermaLink="false">de1be9a4a9e7b514176d407a4f597717</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-018-religion-in-the-sixth-world</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6837876"/>
+                    <description>&lt;p&gt;For episode 18, Vox and Mr. Johnson are joined by a guest host. We cover the topic of the role of religion in Shadowrun; what religions exist in the sixth world, tips for playing a character with religious beliefs, and how religions might result in shadowruns. For this week's critter corner, we explore the dark and mysterious Shedim.&lt;/p&gt;</description>
+                    <enclosure length="93924739" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_018_-_Religion_in_the_Sixth_World.mp3"/>
+                    <itunes:duration>01:37:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>rpg,religion,cyberpunk,shadowrun,shedim</itunes:keywords>
+                    <itunes:subtitle>For episode 18, Vox and Mr. Johnson are joined by a guest host. We cover the topic of the role of religion in Shadowrun; what religions exist in the sixth world, tips for playing a character with religious beliefs, and how religions might result in...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 017 - Questions and Answers</title>
+                    <pubDate>Sat, 08 Feb 2014 06:24:20 +0000</pubDate>
+                    <guid isPermaLink="false">76b505b36e8bdc1db085141602517b9f</guid>
+                    <link>http://traffic.libsyn.com/arcologypodcast/Episode_017_-_QA.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2669565"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson answer listener questions about Shadowrun!&lt;/p&gt;</description>
+                    <enclosure length="76669405" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_017_-_QA.mp3"/>
+                    <itunes:duration>00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson answer listener questions about Shadowrun!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Bonus Episode 003 - Characters</title>
+                    <pubDate>Sat, 01 Feb 2014 05:46:56 +0000</pubDate>
+                    <guid isPermaLink="false">aecb9dc7afcddc73c883e4f4e9008912</guid>
+                    <link>http://arcologypodcast.libsyn.com/bonus-episode-003-characters</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6766047"/>
+                    <description>&lt;p&gt;&lt;span style="color: #444444; font-family: Calibri, sans-serif; font-size: 15px; line-height: 21.299999237060547px;"&gt;In which Vox and Mr. Johnson, due to some schedule restrictions, throw any semblance of a script right out the window and devote an hour to talking about their own Shadowrun characters. Per listener request, of course!&lt;/span&gt;&lt;/p&gt;</description>
+                    <enclosure length="60490678" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Bonus_Episode_3_-_Our_Characters.mp3"/>
+                    <itunes:duration>01:02:59</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson, due to some schedule restrictions, throw any semblance of a script right out the window and devote an hour to talking about their own Shadowrun characters. Per listener request, of course!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 016 – Game Mastering Shadowrun Part 5: Session Prep</title>
+                    <pubDate>Sat, 18 Jan 2014 05:10:27 +0000</pubDate>
+                    <guid isPermaLink="false">be130b0aa7f8e38ccbbfbd98a250dc4a</guid>
+                    <link>http://traffic.libsyn.com/arcologypodcast/Episode_016_-_GMing_Shadowrun_Part_5_-_Session_Prep.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/item/2637265"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss how to prepare for running a session. Also, a new You Are Who You Know, and another listener story!&lt;/p&gt;</description>
+                    <enclosure length="30029427" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_016_-_GMing_Shadowrun_Part_5_-_Session_Prep.mp3"/>
+                    <itunes:duration>31:16</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>podcast,fantasy,rpg,cyberpunk,game,master,gm,arcology,shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss how to prepare for running a session. Also, a new You Are Who You Know, and another listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 015 - GMing Shadowrun Part 4: NPC Design</title>
+                    <pubDate>Sat, 11 Jan 2014 03:49:58 +0000</pubDate>
+                    <guid isPermaLink="false">e8f8cbf9154c8bc4bc19e10bb6f9ce1b</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-015-g-ming-shadowrun-part-4-npc-design</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6656486"/>
+                    <description/>
+                    <enclosure length="58933780" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_015_-_GMing_Shadowrun_Part_4_-_NPC_Design.mp3"/>
+                    <itunes:duration>01:01:22</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,game,master,gm,arcology,shadowrun,npc</itunes:keywords>
+                    <itunes:subtitle/>
+                </item>
+                <item>
+                    <title>Episode 014 - Game Mastering Shadowrun Part 3: Adventure Design</title>
+                    <pubDate>Sat, 04 Jan 2014 05:10:43 +0000</pubDate>
+                    <guid isPermaLink="false">a27af8b0424babf46b479cb4c061babf</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-014-game-mastering-shadowrun-part-3-adventure-design</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6617746"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson explore the process of designing your own adventures for Shadowrun, along with an example adventure designed on the podcast. Welcome to 2014!&lt;/p&gt;</description>
+                    <enclosure length="48625531" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_014_-_GMing_Shadowrun_Part_3_-_Adventure_Design.mp3"/>
+                    <itunes:duration>50:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>podcast,design,rpg,adventure,arcology,shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson explore the process of designing your own adventures for Shadowrun, along with an example adventure designed on the podcast. Welcome to 2014!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Bonus Episode 002 - Critical Glitch, Hidden Grid, and The Arcology 2014 Shadowrun Predictions</title>
+                    <pubDate>Wed, 01 Jan 2014 05:26:00 +0000</pubDate>
+                    <guid isPermaLink="false">770be7fc80a4864aeaf52cc4c2e4ef11</guid>
+                    <link>http://arcologypodcast.libsyn.com/bonus-episode-002-critical-glitch-hidden-grid-and-the-arcology-2014-shadowrun-predictions</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6606147"/>
+                    <description>&lt;p&gt;Our second bonus episode! Critical Glitch, Hiddengrid, and The Arcology podcasts get together to discuss our predictions for Shadowrun in 2014. Happy New Year!&lt;/p&gt;</description>
+                    <enclosure length="21242577" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Bonus_Episode_002_-_Critical_Glitch_Hidden_Grid_and_The_Arcology_2014_Shadowrun_Predictions.mp3"/>
+                    <itunes:duration>22:05</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,critical,arcology,shadowrun,hiddengrid,glith</itunes:keywords>
+                    <itunes:subtitle>Our second bonus episode! Critical Glitch, Hiddengrid, and The Arcology podcasts get together to discuss our predictions for Shadowrun in 2014. Happy New Year!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 013 - Game Mastering Shadowrun Part 2: Campaign Prep</title>
+                    <pubDate>Sat, 28 Dec 2013 05:10:00 +0000</pubDate>
+                    <guid isPermaLink="false">b62b883683be69da0bb7c506c347aefd</guid>
+                    <link>http://traffic.libsyn.com/arcologypodcast/Episode_013_-_Gamemastering_Shadowrun_Part_2_-_Campaign_Prep.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6593505"/>
+                    <description>&lt;p&gt;In which Mr. Johnson and Vox talk about how to prepare your Shadowrun campaign. Also included: a review of the recently-released Gear Cards, and a new listener story!&lt;/p&gt;</description>
+                    <enclosure length="26959357" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_013_-_Gamemastering_Shadowrun_Part_2_-_Campaign_Prep.mp3"/>
+                    <itunes:duration>28:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,gm,campaign,shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Mr. Johnson and Vox talk about how to prepare your Shadowrun campaign. Also included: a review of the recently-released Gear Cards, and a new listener story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 012 - Game Mastering Shadowrun Part 1</title>
+                    <pubDate>Sat, 21 Dec 2013 04:28:00 +0000</pubDate>
+                    <guid isPermaLink="false">38eb0bc43883336ea828f626e57e4c3a</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-012-game-mastering-shadowrun-part-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6567711"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson begin a new series of episodes about running a Shadowrun campaign. Includes a new critter corner, storytime, and a review of Gun H(e)aven 3.&lt;/p&gt;</description>
+                    <enclosure length="41949015" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_012_-_Game_Mastering_Shadowrun_Part_1.mp3"/>
+                    <itunes:duration>43:40</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,gm,shadowrun</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson begin a new series of episodes about running a Shadowrun campaign. Includes a new critter corner, storytime, and a review of Gun H(e)aven 3.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 011: The Face - Shadowrunner Dossiers #6</title>
+                    <pubDate>Sat, 14 Dec 2013 04:57:00 +0000</pubDate>
+                    <guid isPermaLink="false">9cfb471bc3ed753efc483229777ec6b7</guid>
+                    <link>http://arcologypodcast.libsyn.com/the-arcology-podcast-episode-011-the-face-shadowrunner-dossiers-6</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6538750"/>
+                    <description>&lt;p&gt;In which your hosts Vox and Mr. Johnson discuss the face. A new Critter Corner, and another new segment!&lt;/p&gt;</description>
+                    <enclosure length="43072494" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_011_-_The_Face_-_Shadowrunner_Dossiers_6.mp3"/>
+                    <itunes:duration>44:50</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which your hosts Vox and Mr. Johnson discuss the face. A new Critter Corner, and another new segment!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 010: Adepts - Shadowrunner Dossiers #5</title>
+                    <pubDate>Fri, 06 Dec 2013 03:52:00 +0000</pubDate>
+                    <guid isPermaLink="false">d88ac2f438cd368716e3d13035e7ac70</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-010-adepts-shadowrunner-dossiers-5</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6502653"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson uncover the many ways of the adept. Not just for martial artists anymore, the adept can be one of the most versatile or specialized characters in Shadowrun.&lt;/p&gt;
+&lt;p&gt;Also included, a new listener-submitted runner story and a new segment.&lt;/p&gt;</description>
+                    <enclosure length="40303930" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_010_-_Adepts_-_Shadowrunner_Dossiers_5.mp3"/>
+                    <itunes:duration>41:57</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,shadowrun,adept</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson uncover the many ways of the adept. Not just for martial artists anymore, the adept can be one of the most versatile or specialized characters in Shadowrun.
+Also included, a new listener-submitted runner story and a new...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 009 - Riggers: Shadowrunner Dossiers #4</title>
+                    <pubDate>Sat, 30 Nov 2013 03:16:00 +0000</pubDate>
+                    <guid isPermaLink="false">bafffadecd8939b5184500e94a72e54f</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-009-riggers-shadowrunner-dossiers-4</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6476026"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the role of the rigger. A new critter corner segment covers barghests: how to survive an encounter with them, or how to best inflict them upon your unsuspecting players! Also, a correction on spirits, who are in fact difficult to take down with normal weapons after all.&lt;/p&gt;</description>
+                    <enclosure length="48738348" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_009_-_Riggers_-_Shadowrunner_Dossiers_4.mp3"/>
+                    <itunes:duration>50:44</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,drone,shadowrun,rigger,barghest</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the role of the rigger. A new critter corner segment covers barghests: how to survive an encounter with them, or how to best inflict them upon your unsuspecting players! Also, a correction on spirits, who are in...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 008 – Magicians: Shadowrunner Dossier #3</title>
+                    <pubDate>Sat, 23 Nov 2013 01:05:00 +0000</pubDate>
+                    <guid isPermaLink="false">472cc786879ceb1a4a81715c2af206be</guid>
+                    <link>http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_008.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6447727"/>
+                    <description>&lt;p&gt;In which Mr. Johnson and Vox discuss hermetic mages, shamans, and aspected magicians in the third installment of the Shadowrunner Dossiers. There is&amp;nbsp;exciting news on the Shadowrun Returns, Critter Corner covers Spirits, and there is&amp;nbsp;an extra-long listener story to make up for the extra-long absence!&lt;/p&gt;</description>
+                    <enclosure length="75206633" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_008.mp3"/>
+                    <itunes:duration>01:18:19</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>podcast,fantasy,cyberpunk,spirit,magician,arcology,shaman,shadowrun,hermetic,aspected,dragonfall</itunes:keywords>
+                    <itunes:subtitle>In which Mr. Johnson and Vox discuss hermetic mages, shamans, and aspected magicians in the third installment of the Shadowrunner Dossiers. There is&amp;nbsp;exciting news on the Shadowrun Returns, Critter Corner covers Spirits, and there is&amp;nbsp;an...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 007 - Deckers and Technomancers: Shadowrunner Dossier #2</title>
+                    <pubDate>Sat, 09 Nov 2013 06:05:33 +0000</pubDate>
+                    <guid isPermaLink="false">aa3f2a6e79aa2ffb5fa988a72503e32c</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-007-deckers-and-technomancers-shadowrunner-dossier-2</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6387509"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the second Shadowrunner archetype: Matrix users, specifically Deckers and Technomancers. Keeping in line with the Matrix theme, this episode's Critter Corner segment covers Sprites. Also included: another Shadowrun Returns module review and a listener-submitted story!&lt;/p&gt;</description>
+                    <enclosure length="55891309" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_007_-_Deckers_and_Technomancers_-_Shadowrunner_Dossier_2.mp3"/>
+                    <itunes:duration>58:11</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,cyberpunk,matrix,decker,arcology,shadowrun,sprite,technomancer</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the second Shadowrunner archetype: Matrix users, specifically Deckers and Technomancers. Keeping in line with the Matrix theme, this episode's Critter Corner segment covers Sprites. Also included: another Shadowrun...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Bonus Episode 001 - Interview: Justin from Hiddengrid</title>
+                    <pubDate>Mon, 04 Nov 2013 03:23:00 +0000</pubDate>
+                    <guid isPermaLink="false">f8df812720b5134612e1e39b7217d1d3</guid>
+                    <link>http://arcologypodcast.libsyn.com/bonus-episode-001-interview-justin-from-hiddengrid</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6363449"/>
+                    <description>&lt;p&gt;Join us for the first bonus episode of the Arcology Podcast, in which Mr. Johnson interviews Justin from the Hidden Grid: The Sixth World Chronicles actual play Shadowrun podcast. Our conversation covers the topics of running a game online and GM'ing Shadowrun, and more.&lt;/p&gt;</description>
+                    <enclosure length="43037397" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Bonus_Episode_001_-_Interview_with_Justin_fron_Hiddengrid.mp3"/>
+                    <itunes:duration>44:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,arcology,shadowrun,hiddengrid</itunes:keywords>
+                    <itunes:subtitle>Join us for the first bonus episode of the Arcology Podcast, in which Mr. Johnson interviews Justin from the Hidden Grid: The Sixth World Chronicles actual play Shadowrun podcast. Our conversation covers the topics of running a game online and GM'ing...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 006 – The Street Samurai: Shadowrunner Dossier #1</title>
+                    <pubDate>Fri, 01 Nov 2013 23:15:46 +0000</pubDate>
+                    <guid isPermaLink="false">6ea64b7029552833e8e9aeddd37f6b09</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-006-the-street-samurai-shadowrunner-dossier-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6357252"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson delve into the character archetype of the Street Samurai, including what Street Sams do, how to create them, and some roleplaying tips. Also included: a new Critter Corner segment and another listener submitted story.&lt;/p&gt;</description>
+                    <enclosure length="41467968" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_006_-_The_Street_Samurai_-_Shadowrunner_Dossier_1.mp3"/>
+                    <itunes:duration>43:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which Vox and Mr. Johnson delve into the character archetype of the Street Samurai, including what Street Sams do, how to create them, and some roleplaying tips. Also included: a new Critter Corner segment and another listener submitted story.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 005 - Payday: Anatomy of a Shadowrun Part 4</title>
+                    <pubDate>Sat, 26 Oct 2013 00:50:05 +0000</pubDate>
+                    <guid isPermaLink="false">4d1029fa71a29c182065b0d66296e298</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-005-payday-anatomy-of-a-shadowrun-part-4</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6326303"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson provide useful advice for surviving the completion of a run, including what to do when your employer decides to geek you. &amp;nbsp;Also included: a new Shadowrun Returns module review, another listener submitted story, and a brand new segment.&lt;/p&gt;</description>
+                    <enclosure length="49680436" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Episode_005_-_Payday_-_Anatomy_of_a_Shadowrun_Part_4.mp3"/>
+                    <itunes:duration>51:43</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,cyberpunk,returns,ghouls,catalyst,shadowrun,ghoul</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson provide useful advice for surviving the completion of a run, including what to do when your employer decides to geek you. &amp;nbsp;Also included: a new Shadowrun Returns module review, another listener submitted story, and a...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 004 - The Run: Anatomy of a Shadowrun Part 3</title>
+                    <pubDate>Sat, 19 Oct 2013 01:46:45 +0000</pubDate>
+                    <guid isPermaLink="false">e9526366f7dd7e05f08a59172ab2e523</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-004-the-run-anatomy-of-a-shadowrun-part-3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6290960"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson discuss the means of conducting a shadowrun, specifically various approaches to consider: when to keep it quiet and when to break out the big guns. Come for the discussion, stay for the first listener-submitted runner story!&lt;/p&gt;</description>
+                    <enclosure length="28217398" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/Arcology_Podcast_Episode_004_-_The_Run_-_Anatomy_of_A_Shadowrun_Part_3.mp3"/>
+                    <itunes:duration>29:21</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,gaming,rpg,cyberpunk,catalyst,shadowrun,gamemaster</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson discuss the means of conducting a shadowrun, specifically various approaches to consider: when to keep it quiet and when to break out the big guns. Come for the discussion, stay for the first listener-submitted runner story!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 003 - The Legwork: Anatomy of a Shadowrun Part 2</title>
+                    <pubDate>Sat, 12 Oct 2013 00:29:00 +0000</pubDate>
+                    <guid isPermaLink="false">9fd87b4ea1e6a0a4b6f250167e2beeb3</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-003-the-legwork-anatomy-of-a-shadowrun-part-2</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6260817"/>
+                    <description>&lt;p&gt;In which Vox and Mr. Johnson explore the legwork phase of a shadowrun, including the gathering of information and the formulation of plans. &amp;nbsp;Also included: Our first Shadowrun Returns module review!&lt;/p&gt;</description>
+                    <enclosure length="49858079" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_003.mp3"/>
+                    <itunes:duration>51:54</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,role,game,player,playing,shadowrun,gamemaster</itunes:keywords>
+                    <itunes:subtitle>In which Vox and Mr. Johnson explore the legwork phase of a shadowrun, including the gathering of information and the formulation of plans. &amp;nbsp;Also included: Our first Shadowrun Returns module review!</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 002 - The Meet: Anatomy of a Shadowrun Part 1</title>
+                    <pubDate>Fri, 04 Oct 2013 21:17:33 +0000</pubDate>
+                    <guid isPermaLink="false">416091c45ad6e42d95519e8c4a69f0c5</guid>
+                    <link>http://arcologypodcast.libsyn.com/episode-002-the-meet-anatomy-of-a-shadowrun-part-1</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6231265"/>
+                    <description>&lt;p&gt;In which your hosts Vox and Mr. Johnson begin a four-part series about the anatomy of a Shadowun. This series begins with an exploration of "The Meet", which is often how a Shadowrun begins.&lt;/p&gt;</description>
+                    <enclosure length="33628718" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_002.mp3"/>
+                    <itunes:duration>35:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords/>
+                    <itunes:subtitle>In which your hosts Vox and Mr. Johnson begin a four-part series about the anatomy of a Shadowun. This series begins with an exploration of "The Meet", which is often how a Shadowrun begins.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Episode 001: Into the Shadows</title>
+                    <pubDate>Fri, 27 Sep 2013 21:40:00 +0000</pubDate>
+                    <guid isPermaLink="false">8cb829f3c5269e438314e2fa561b5355</guid>
+                    <link>http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_001.mp3</link>
+                    <itunes:image href="http://assets.libsyn.com/content/6550805"/>
+                    <description>&lt;p&gt;&lt;span style="color: #bbbbbb; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; background-color: #232323;"&gt;In which your hosts Vox and Mr. Johnson discuss the cyberpunk fantasy roleplaying game Shadowrun, introducing new players to the world and whetting long-time Shadowrun fans&amp;rsquo; appetites for the newly-released fifth edition of the game!&lt;/span&gt;&lt;/p&gt;</description>
+                    <enclosure length="36310903" type="audio/mpeg" url="http://traffic.libsyn.com/arcologypodcast/The_Arcology_Podcast_-_Episode_001.mp3"/>
+                    <itunes:duration>37:48</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>fantasy,rpg,cyberpunk,returns,arcology,catalyst,shadowrun,harebrained</itunes:keywords>
+                    <itunes:subtitle>In which your hosts Vox and Mr. Johnson discuss the cyberpunk fantasy roleplaying game Shadowrun, introducing new players to the world and whetting long-time Shadowrun fans&amp;rsquo; appetites for the newly-released fifth edition of the game!</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

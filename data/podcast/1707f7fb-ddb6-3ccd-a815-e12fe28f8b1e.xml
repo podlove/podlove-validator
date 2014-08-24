@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 12:19:45 GMT"/>
+        <httpclient:header name="Server" value="Apache/2.2.22 (Ubuntu)"/>
+        <httpclient:header name="X-Powered-By" value="Phusion Passenger (mod_rails/mod_rack) 3.0.21"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=1800"/>
+        <httpclient:header name="X-Runtime" value="8"/>
+        <httpclient:header name="Last-Modified" value="Tue, 05 Aug 2014 11:52:54 GMT"/>
+        <httpclient:header name="Status" value="200"/>
+        <httpclient:header name="P3P" value="policyref=&#34;http://www.podOmatic.com/w3c/p3p.xml&#34;, CP=&#34;CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE&#34;"/>
+        <httpclient:header name="Vary" value="User-Agent"/>
+        <httpclient:header name="Cache-Control" value="public, max-age=300"/>
+        <httpclient:header name="Content-Type" value="application/xml; charset=utf-8"/>
+        <httpclient:header name="Set-Cookie" value="_session_id=749d0f8f640bbef753d84254324008ab; domain=.podomatic.com; path=/; expires=Thu, 18-Sep-2014 12:19:46 GMT; HttpOnly"/>
+        <httpclient:header name="Content-Length" value="93163"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/xml; charset=utf-8" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>2 Fruntimmer</title>
+                <link>http://2fruntimmer.podomatic.com</link>
+                <description>2 fruntimmer är en podcast startad av de snippbegåvade komikerna Felicia Tomala och Therese Sandin. I podcasten pratar vi om stand up, humor, feminism, dagsaktuella händelser och livet i allmänhet.</description>
+                <language>sv</language>
+                <generator>podOmatic RSS Generator</generator>
+                <pubDate>Tue, 05 Aug 2014 11:52:53 GMT</pubDate>
+                <itunes:keywords>2,fruntimmer,therese,sandin,felicia,tomala,feminism,comedy,standup,stand,up,sex,relationships,single</itunes:keywords>
+                <itunes:subtitle>2 Fruntimmer helt enkelt.</itunes:subtitle>
+                <itunes:owner>
+                    <itunes:name>2 Fruntimmer</itunes:name>
+                    <itunes:email>info@2fruntimmer.se</itunes:email>
+                </itunes:owner>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:block>no</itunes:block>
+                <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/pro/1400x1400-1961x1961+34+4_8683590.jpg"/>
+                <itunes:author>2 Fruntimmer</itunes:author>
+                <itunes:summary>2 fruntimmer är en podcast startad av de snippbegåvade komikerna Felicia Tomala och Therese Sandin. I podcasten pratar vi om stand up, humor, feminism, dagsaktuella händelser och livet i allmänhet.</itunes:summary>
+                <itunes:category text="Comedy"/>
+                <atom:link rel="self" type="application/rss+xml" href="http://2fruntimmer.podomatic.com/rss2.xml"/>
+                <item>
+                    <title>Avsnitt 45. Feministkräk</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9820716.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi beslutade oss för att det var typ ettårsjubileum. Det firar vi genom att fundera över huruvida vi ångrat att vi blivit mer pålästa feminister. Vi pratar om andras reaktioner på framför allt kvinnliga komiker. Vi pratar om rookies som tipsar rookies och om självklara tips man ger. Och så har Therese skaffat en kattunge.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-08-05T04_25_44-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-08-05T04_25_44-07_00</comments>
+                    <pubDate>Tue, 05 Aug 2014 11:25:44 GMT</pubDate>
+                    <dcterms:modified>2014-08-05</dcterms:modified>
+                    <dcterms:created>2014-08-05</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2,fruntimmer,standup,rookies,tips,humor,ståupp,feminism,katt,galen,kattkvinna</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-08-05T04_25_44-07_00.mp3" length="94343756"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9820716.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>1</itunes:order>
+                    <itunes:summary>Vi beslutade oss för att det var typ ettårsjubileum. Det firar vi genom att fundera över huruvida vi ångrat att vi blivit mer pålästa feminister. Vi pratar om andras reaktioner på framför allt kvinnliga komiker. Vi pratar om rookies som tipsar rookies och om självklara tips man ger. Och så har Therese skaffat en kattunge.</itunes:summary>
+                    <itunes:subtitle>Vi beslutade oss för att det var typ ettårsjubileum. Det firar vi genom att fundera över huruvida...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 44. Getter</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9793423.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om bl.a. män och deras hantering av uppbrott, vi pratar om våra pappors nya fruar, vilka som är mest förtryckta i samhället, erotikmuseér, rookies som kör stenhårt under sommaren och Therese kommande tripp till London.
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-07-26T06_43_49-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-07-26T06_43_49-07_00</comments>
+                    <pubDate>Sat, 26 Jul 2014 13:43:49 GMT</pubDate>
+                    <dcterms:modified>2014-07-26</dcterms:modified>
+                    <dcterms:created>2014-07-26</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2,fruntimmer,standup,humor,comedy,ståupp,felicia,tomala,last,comic,standing,feminism,patriarkat,förtryck,getter</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-07-26T06_43_49-07_00.mp3" length="96357488"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9793423.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>2</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om bl.a. män och deras hantering av uppbrott, vi pratar om våra pappors nya fruar, vilka som är mest förtryckta i samhället, erotikmuseér, rookies som kör stenhårt under sommaren och Therese kommande tripp till London.
+</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om bl.a. män och deras hantering av uppbrott, vi pratar om våra pappo...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 43. Så jävla lillgammal</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-738x738+211+0_9773217.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Efter en veckas uppehåll är vi nu tillbaka. Felicia har varit i Korsika och ätit middag.Vi pratar om fyllon på flygplan, hur man inte ska agera i akuta situationer, brinnande flygplan, virriga gamlingar. Therese har sommarklubbat och efterfestat med Mora-Nisse på en båt. 
+
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-07-19T05_39_44-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-07-19T05_39_44-07_00</comments>
+                    <pubDate>Sat, 19 Jul 2014 12:39:44 GMT</pubDate>
+                    <dcterms:modified>2014-07-19</dcterms:modified>
+                    <dcterms:created>2014-07-19</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,standup,humor,felicia,tomala,therese,sandin,lillgammal,skrattmåsens,standupklubb,mora-nisse,korsika,flygplansidioter</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-07-19T05_39_44-07_00.mp3" length="74777020"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-738x738+211+0_9773217.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>3</itunes:order>
+                    <itunes:summary>Efter en veckas uppehåll är vi nu tillbaka. Felicia har varit i Korsika och ätit middag.Vi pratar om fyllon på flygplan, hur man inte ska agera i akuta situationer, brinnande flygplan, virriga gamlingar. Therese har sommarklubbat och efterfestat med Mora-Nisse på en båt. 
+
+</itunes:summary>
+                    <itunes:subtitle>Efter en veckas uppehåll är vi nu tillbaka. Felicia har varit i Korsika och ätit middag.Vi pratar...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 42. I min lilla hjärna, eller ja, den är normalstor</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-295x295+66+7_9733379.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Två tokförkylda fruntimmer pratar om Bråvalla, dryga band, selfies med Soran, kåta Maggio. Therese berättar om varför hon blivit blockad av Johan Rheborg på Twitter. Det har varit premiär för Skrattmåsens standupklubb. RAW lägger ner. Therese släpper nyheten om "Ägg-stock, en humorfestival" som går av stapeln 18/10. Felicia har varit på möhippa. 
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-07-04T18_54_39-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-07-04T18_54_39-07_00</comments>
+                    <pubDate>Sat, 05 Jul 2014 01:54:39 GMT</pubDate>
+                    <dcterms:modified>2014-07-05</dcterms:modified>
+                    <dcterms:created>2014-07-05</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,standup,comedy,humor,ståupp,raw,skrattmåsens,standupklubb,sommarklubb,roslagen,felicia,tomala,therese,sandin,möhippa</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-07-04T18_54_39-07_00.mp3" length="103571729"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-295x295+66+7_9733379.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>4</itunes:order>
+                    <itunes:summary>Två tokförkylda fruntimmer pratar om Bråvalla, dryga band, selfies med Soran, kåta Maggio. Therese berättar om varför hon blivit blockad av Johan Rheborg på Twitter. Det har varit premiär för Skrattmåsens standupklubb. RAW lägger ner. Therese släpper nyheten om "Ägg-stock, en humorfestival" som går av stapeln 18/10. Felicia har varit på möhippa. 
+</itunes:summary>
+                    <itunes:subtitle>Två tokförkylda fruntimmer pratar om Bråvalla, dryga band, selfies med Soran, kåta Maggio. Theres...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 41. Vi behöver alla en Markoolio i våra liv</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9712602.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Sedan förra avsnittet har Therese varit på ensamsemester i Bulgarien och börjat blogga. Felicia har klantat till sig senaste veckan. Vi pratar om midsommar och norsk fylla. Therese har kört improviserad standup och Felicia har kört en kväll med bara kvinnliga komiker. Ja, alltså, det var bara kvinnliga komiker som körde. Alltså BARA kvinnliga komiker. Och det är dags för sommarklubb i Roslagen också (premiär 2/7 på Pensionat Granparken i Norrtälje).</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-06-27T07_53_48-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-06-27T07_53_48-07_00</comments>
+                    <pubDate>Fri, 27 Jun 2014 14:53:48 GMT</pubDate>
+                    <dcterms:modified>2014-06-27</dcterms:modified>
+                    <dcterms:created>2014-06-27</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,relationer,singel,blogg,tvåsamhet,standup,skrattmåsen,bråvalla,felicia,tomala,therese,sandin</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-06-27T07_53_48-07_00.mp3" length="72725080"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9712602.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>5</itunes:order>
+                    <itunes:summary>Sedan förra avsnittet har Therese varit på ensamsemester i Bulgarien och börjat blogga. Felicia har klantat till sig senaste veckan. Vi pratar om midsommar och norsk fylla. Therese har kört improviserad standup och Felicia har kört en kväll med bara kvinnliga komiker. Ja, alltså, det var bara kvinnliga komiker som körde. Alltså BARA kvinnliga komiker. Och det är dags för sommarklubb i Roslagen också (premiär 2/7 på Pensionat Granparken i Norrtälje).</itunes:summary>
+                    <itunes:subtitle>Sedan förra avsnittet har Therese varit på ensamsemester i Bulgarien och börjat blogga. Felicia h...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 40. Tanken är kittlande</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9668880.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi har kommit till avsnitt 40 och vi pratar om nationaldagen, tvångsmässiga handryckningar i grupp, filmidéer,att välja rätt tonart, standup i cirkustält, att vara dålig på namn och ansikten. Therese har bokat en sista-minuten till Bulgarien för att träffa en strandraggare att äkta. Vi pratar om att vara perfektionister och minnen från studentens lyckliga dagar. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-06-11T23_16_03-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-06-11T23_16_03-07_00</comments>
+                    <pubDate>Thu, 12 Jun 2014 06:16:03 GMT</pubDate>
+                    <dcterms:modified>2014-06-12</dcterms:modified>
+                    <dcterms:created>2014-06-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,standup,comedy,ståupp,gasta,felicia,tomala,therese,sandin,student,resa,ensam,single,singel,sex,feminism,perfektionism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-06-11T23_16_03-07_00.mp3" length="82726625"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9668880.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>6</itunes:order>
+                    <itunes:summary>Vi har kommit till avsnitt 40 och vi pratar om nationaldagen, tvångsmässiga handryckningar i grupp, filmidéer,att välja rätt tonart, standup i cirkustält, att vara dålig på namn och ansikten. Therese har bokat en sista-minuten till Bulgarien för att träffa en strandraggare att äkta. Vi pratar om att vara perfektionister och minnen från studentens lyckliga dagar. </itunes:summary>
+                    <itunes:subtitle>Vi har kommit till avsnitt 40 och vi pratar om nationaldagen, tvångsmässiga handryckningar i grup...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 39. Nu är det någon som biter mig i tårna</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9650445.jpg" alt="itunes pic" /&gt;&lt;br /&gt;A.k.a. bakispodden. Vi pratar om att testa nytt. Vi pratar återigen om maskulint initiativ, assholes som slutar höra av sig, tandborst-incidenser, tampongsjukan, hur ynklig man blir som sjuk och hur svårt det kan vara att handla på Jysk. Samtidigt försöker en distraherande söt hundvalp äta upp allt i dess väg.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-06-06T00_32_16-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-06-06T00_32_16-07_00</comments>
+                    <pubDate>Fri, 06 Jun 2014 07:32:16 GMT</pubDate>
+                    <dcterms:modified>2014-06-06</dcterms:modified>
+                    <dcterms:created>2014-06-06</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,standup,comedy,ståupp,humor,maffia,gasta,maskulint,initiativ,bakis,bccc,bråvalla,singel,relationships,förhållande</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-06-06T00_32_16-07_00.mp3" length="73808453"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9650445.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>7</itunes:order>
+                    <itunes:summary>A.k.a. bakispodden. Vi pratar om att testa nytt. Vi pratar återigen om maskulint initiativ, assholes som slutar höra av sig, tandborst-incidenser, tampongsjukan, hur ynklig man blir som sjuk och hur svårt det kan vara att handla på Jysk. Samtidigt försöker en distraherande söt hundvalp äta upp allt i dess väg.</itunes:summary>
+                    <itunes:subtitle>A.k.a. bakispodden. Vi pratar om att testa nytt. Vi pratar återigen om maskulint initiativ, assho...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 38. Flyger man annorlunda om man är en fru eller fröken?</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9626797.jpg" alt="itunes pic" /&gt;&lt;br /&gt;We're back! Vi pratar Sheside, Luleå, Rawgate, Amelia Comedy Queen, EU-val, om att vara klubbägare och hatad av alla. Samtidigt håller en hundvalp på att äta upp lägenheten. Och flyger an annorlunda om man är en fru eller fröken?</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-05-30T00_53_25-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-05-30T00_53_25-07_00</comments>
+                    <pubDate>Fri, 30 May 2014 07:53:25 GMT</pubDate>
+                    <dcterms:modified>2014-05-30</dcterms:modified>
+                    <dcterms:created>2014-05-30</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2,fruntimmer,standup,humor,comedy,falun,sheside,luleå,fans,rawgate,raw,andersson,karin,adelskiöld,amelia,queen,euval,eu,europeiska,unionen,feminism,fi,feministiskt,initiativ,maskulint</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-05-30T00_53_25-07_00.mp3" length="94623461"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9626797.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>8</itunes:order>
+                    <itunes:summary>We're back! Vi pratar Sheside, Luleå, Rawgate, Amelia Comedy Queen, EU-val, om att vara klubbägare och hatad av alla. Samtidigt håller en hundvalp på att äta upp lägenheten. Och flyger an annorlunda om man är en fru eller fröken?</itunes:summary>
+                    <itunes:subtitle>We're back! Vi pratar Sheside, Luleå, Rawgate, Amelia Comedy Queen, EU-val, om att vara klubbägar...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 37. Ensam mamma söker barn</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9585725.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Rekordkort avsnitt av 2 Fruntimmer nu ute. Veckans avsnitt är inspelat i Falun och ni får njuta av ljudet av fiskmåsar, tåg och 2 Fruntimmer. Vi pratar vett och etikett, ångest och om hur ensamhet kan vara något fult, enligt vissa. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-05-17T08_26_37-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-05-17T08_26_37-07_00</comments>
+                    <pubDate>Sat, 17 May 2014 15:26:37 GMT</pubDate>
+                    <dcterms:modified>2014-05-17</dcterms:modified>
+                    <dcterms:created>2014-05-17</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,comedy,standup,falun,sheside,therese,sandin,felicia,tomala,raw,vett,och,etikett,magdalena,ribbing,marko,lehtosalo,begravning,tacobåt,humor,ensam,ensamhet,mamma,ångest,tröstäta,barn</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-05-17T08_26_37-07_00.mp3" length="39289814"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9585725.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>9</itunes:order>
+                    <itunes:summary>Rekordkort avsnitt av 2 Fruntimmer nu ute. Veckans avsnitt är inspelat i Falun och ni får njuta av ljudet av fiskmåsar, tåg och 2 Fruntimmer. Vi pratar vett och etikett, ångest och om hur ensamhet kan vara något fult, enligt vissa. </itunes:summary>
+                    <itunes:subtitle>Rekordkort avsnitt av 2 Fruntimmer nu ute. Veckans avsnitt är inspelat i Falun och ni får njuta a...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 36. Vilken knasboll</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9559034.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Veckan som varit har Felicia och Therese varit piratkopior på en maskerad. Therese har varit i Göteborg och kört standup och fick höra skriksång i bilen hem. Felicia har skämtat om luft. Vi har umgåtts med roliga tjejer och funderar lite över var man ska skriva skämt och om det är okej att skämta om kompisar och deras liv på scen. 
+
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-05-09T01_24_13-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-05-09T01_24_13-07_00</comments>
+                    <pubDate>Fri, 09 May 2014 08:24:13 GMT</pubDate>
+                    <dcterms:modified>2014-05-09</dcterms:modified>
+                    <dcterms:created>2014-05-09</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,humor,ståupp,hen,standup,therese,sandin,felicia,tomala,göteborg,henrik,elmer,roliga,tjejer</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-05-09T01_24_13-07_00.mp3" length="72117574"/>
+                    <itunes:duration>0</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9559034.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>10</itunes:order>
+                    <itunes:summary>Veckan som varit har Felicia och Therese varit piratkopior på en maskerad. Therese har varit i Göteborg och kört standup och fick höra skriksång i bilen hem. Felicia har skämtat om luft. Vi har umgåtts med roliga tjejer och funderar lite över var man ska skriva skämt och om det är okej att skämta om kompisar och deras liv på scen. 
+
+</itunes:summary>
+                    <itunes:subtitle>Veckan som varit har Felicia och Therese varit piratkopior på en maskerad. Therese har varit i Gö...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 35. Man får ju vara lite psycho</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9531866.jpeg" alt="itunes pic" /&gt;&lt;br /&gt;Vi ska på fest och dricker därför lite skumpa under inspelningen. Vi pratar kroppsbehåring. Felicia har varit i Kalmar och skojat, Therese har varit i Gävle och ätit middag. Therese dejtar en man och kämpar med att dölja sitt inre psycho. Vi konstaterar att alla Lindor inte är okej. Vad menar man egentligen när man säger att någon är "speciell"? </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-05-01T07_37_43-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-05-01T07_37_43-07_00</comments>
+                    <pubDate>Thu, 01 May 2014 14:37:43 GMT</pubDate>
+                    <dcterms:modified>2014-05-01</dcterms:modified>
+                    <dcterms:created>2014-05-01</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,comedy,standup,humor,ståupp,ironi,sarkasm,maskerad,singel,dejting</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-05-01T07_37_43-07_00.mp3" length="73789633"/>
+                    <itunes:duration>3073</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9531866.jpeg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>11</itunes:order>
+                    <itunes:summary>Vi ska på fest och dricker därför lite skumpa under inspelningen. Vi pratar kroppsbehåring. Felicia har varit i Kalmar och skojat, Therese har varit i Gävle och ätit middag. Therese dejtar en man och kämpar med att dölja sitt inre psycho. Vi konstaterar att alla Lindor inte är okej. Vad menar man egentligen när man säger att någon är "speciell"? </itunes:summary>
+                    <itunes:subtitle>Vi ska på fest och dricker därför lite skumpa under inspelningen. Vi pratar kroppsbehåring. Felic...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 34. Han är så oskuldsfull, typ som Bröderna Lejonhjärta</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9511451.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi är tillbaka efter påsken och Felicia har varit i Åre och Therese har varit till Irland för att delta i standuptävling. Vi pratar nervositet, thaimassage, komiker som blir obefogat presenterade som en kändis syskon eller fru. Vi smider också planer inför en maskerad. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-04-25T04_39_03-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-04-25T04_39_03-07_00</comments>
+                    <pubDate>Fri, 25 Apr 2014 11:39:03 GMT</pubDate>
+                    <dcterms:modified>2014-04-25</dcterms:modified>
+                    <dcterms:created>2014-04-25</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,tomala,irland,nevositet,prostitution,thaimassage,therese,sandin,sex,single,standup,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-04-25T04_39_03-07_00.mp3" length="71685642"/>
+                    <itunes:duration>2986</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9511451.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>12</itunes:order>
+                    <itunes:summary>Vi är tillbaka efter påsken och Felicia har varit i Åre och Therese har varit till Irland för att delta i standuptävling. Vi pratar nervositet, thaimassage, komiker som blir obefogat presenterade som en kändis syskon eller fru. Vi smider också planer inför en maskerad. </itunes:summary>
+                    <itunes:subtitle>Vi är tillbaka efter påsken och Felicia har varit i Åre och Therese har varit till Irland för att...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 33. Påsk-special</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9485964.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Therese har precis varit i Irland och haft intressanta gig medan Felicia kört på Oslipat x 2. Vi pratar bromance och ospontana applådpauser. Vi fascineras över folk som sätter sig längst fram på standupklubbar med ambitionen att häckla. Vi nås av den glada nyheten att nattugglor får ligga mer och Therese har varit på dejt. 
+
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-04-17T10_56_38-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-04-17T10_56_38-07_00</comments>
+                    <pubDate>Thu, 17 Apr 2014 17:56:38 GMT</pubDate>
+                    <dcterms:modified>2014-04-17</dcterms:modified>
+                    <dcterms:created>2014-04-17</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,feminism,irland,oslipat,bromancesandin,sex,relationships,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-04-17T10_56_38-07_00.mp3" length="71851123"/>
+                    <itunes:duration>2993</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9485964.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>13</itunes:order>
+                    <itunes:summary>Therese har precis varit i Irland och haft intressanta gig medan Felicia kört på Oslipat x 2. Vi pratar bromance och ospontana applådpauser. Vi fascineras över folk som sätter sig längst fram på standupklubbar med ambitionen att häckla. Vi nås av den glada nyheten att nattugglor får ligga mer och Therese har varit på dejt. 
+
+</itunes:summary>
+                    <itunes:subtitle>Therese har precis varit i Irland och haft intressanta gig medan Felicia kört på Oslipat x 2. Vi ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 32. Meta</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9465105.jpeg" alt="itunes pic" /&gt;&lt;br /&gt;Veckans avsnitt är aningen djupare än vanligt. Vi pratar självförtroende och om att ha åsikter men inte våga stå för dem. Vi pratar om våra erfarenheter av föräldrars separationer och delar med oss av våra tankar om äktenskap, öppna förhållanden. Så, ja. Djupare samtalsämnen helt enkelt.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-04-11T05_23_05-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-04-11T05_23_05-07_00</comments>
+                    <pubDate>Fri, 11 Apr 2014 12:23:05 GMT</pubDate>
+                    <dcterms:modified>2014-04-11</dcterms:modified>
+                    <dcterms:created>2014-04-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,tomala,therese,sandin,relationships,single,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-04-11T05_23_05-07_00.mp3" length="67952174"/>
+                    <itunes:duration>2831</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9465105.jpeg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>14</itunes:order>
+                    <itunes:summary>Veckans avsnitt är aningen djupare än vanligt. Vi pratar självförtroende och om att ha åsikter men inte våga stå för dem. Vi pratar om våra erfarenheter av föräldrars separationer och delar med oss av våra tankar om äktenskap, öppna förhållanden. Så, ja. Djupare samtalsämnen helt enkelt.</itunes:summary>
+                    <itunes:subtitle>Veckans avsnitt är aningen djupare än vanligt. Vi pratar självförtroende och om att ha åsikter me...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 31. Gnälliga grannar</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9438793.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Felicia är sjuk och somnar på auditions och delar med sig av sin hundröst. En härlig humorkväll förstörs av en gnällig granne. Felicia är omstylad och fick ett par trasiga byxor medan vi komiker fick oss ett gapskratt. Varför hade Therese egentligen en krukväxt på scen häromdagen? Behöver världen verkligen en fittdeo?
+En helt vanlig vecka i 2 Fruntimmers liv med andra ord.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-04-04T02_28_19-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-04-04T02_28_19-07_00</comments>
+                    <pubDate>Fri, 04 Apr 2014 09:28:19 GMT</pubDate>
+                    <dcterms:modified>2014-04-04</dcterms:modified>
+                    <dcterms:created>2014-04-04</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,standup,makeover,styling,fittdeo,duschmunstycke,felicia,tomala,therese,sandin,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-04-04T02_28_19-07_00.mp3" length="63712212"/>
+                    <itunes:duration>2654</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9438793.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>15</itunes:order>
+                    <itunes:summary>Felicia är sjuk och somnar på auditions och delar med sig av sin hundröst. En härlig humorkväll förstörs av en gnällig granne. Felicia är omstylad och fick ett par trasiga byxor medan vi komiker fick oss ett gapskratt. Varför hade Therese egentligen en krukväxt på scen häromdagen? Behöver världen verkligen en fittdeo?
+En helt vanlig vecka i 2 Fruntimmers liv med andra ord.</itunes:summary>
+                    <itunes:subtitle>Felicia är sjuk och somnar på auditions och delar med sig av sin hundröst. En härlig humorkväll f...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 30. Är astronauter redo att möta aliens?</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9412031.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Felicia ska vara med om en makeover och har typ varit med i TV. Therese har varit på kickoff med nya jobbet. Felicia berättar om hembesök av mördare och om hur sansat hennes mor hanterar det. Hur förberedda är astronauter egentligen på att möta aliens? Vad är för personligt för att skriva skämt om?</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-03-28T02_00_21-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-03-28T02_00_21-07_00</comments>
+                    <pubDate>Fri, 28 Mar 2014 09:00:21 GMT</pubDate>
+                    <dcterms:modified>2014-03-28</dcterms:modified>
+                    <dcterms:created>2014-03-28</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,standup,humor,aliens,kickoff,raw,taboo,felicia,tomala,therese,sandin,fjortisar,mördare,makeover</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-03-28T02_00_21-07_00.mp3" length="67772911"/>
+                    <itunes:duration>2823</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9412031.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>16</itunes:order>
+                    <itunes:summary>Felicia ska vara med om en makeover och har typ varit med i TV. Therese har varit på kickoff med nya jobbet. Felicia berättar om hembesök av mördare och om hur sansat hennes mor hanterar det. Hur förberedda är astronauter egentligen på att möta aliens? Vad är för personligt för att skriva skämt om?</itunes:summary>
+                    <itunes:subtitle>Felicia ska vara med om en makeover och har typ varit med i TV. Therese har varit på kickoff med ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 29. Jag gillar inte att gosa med människor</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9387573.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om kurser i standup som hålls av rookies, hur man kan förbereda sig så att sin änglasås smakar gudomligt, sexiga dialekter, St Paddy's Day, nätdejting och om smeknamn på kön. Och varför gillar inte Felicia att gosa med människor?</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-03-21T06_02_59-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-03-21T06_02_59-07_00</comments>
+                    <pubDate>Fri, 21 Mar 2014 13:02:59 GMT</pubDate>
+                    <dcterms:modified>2014-03-21</dcterms:modified>
+                    <dcterms:created>2014-03-21</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,comedy,standup,humor,ståupp,rookies,singel,sex,sperma,dialekter,smeknamn,fitta,dejting</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-03-21T06_02_59-07_00.mp3" length="77660364"/>
+                    <itunes:duration>3235</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9387573.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>17</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om kurser i standup som hålls av rookies, hur man kan förbereda sig så att sin änglasås smakar gudomligt, sexiga dialekter, St Paddy's Day, nätdejting och om smeknamn på kön. Och varför gillar inte Felicia att gosa med människor?</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om kurser i standup som hålls av rookies, hur man kan förbereda sig s...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 28. Jag har väldigt stor respekt för män med AK4:or</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9361519.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi har vårkänslor och pratar Charity Comedy, kvinnoafton och kvinnodag, färglada nazister, polisen, när man är etablerad komiker, drömmen om standup och Therese nya jobb och om man kan skämta om sitt jobb. Och så har det blivit den tiden på året då Therese hater har varit i farten igen. 
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-03-14T12_05_15-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-03-14T12_05_15-07_00</comments>
+                    <pubDate>Fri, 14 Mar 2014 19:05:15 GMT</pubDate>
+                    <dcterms:modified>2014-03-14</dcterms:modified>
+                    <dcterms:created>2014-03-14</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,comedy,standup,felicia,tomala,therese,sandin,feminism,internationella,kvinnodagen,kvinnoafton,humor,haters,sex,singel,ak4,visum</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-03-14T12_05_15-07_00.mp3" length="79447752"/>
+                    <itunes:duration>3309</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9361519.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>18</itunes:order>
+                    <itunes:summary>Vi har vårkänslor och pratar Charity Comedy, kvinnoafton och kvinnodag, färglada nazister, polisen, när man är etablerad komiker, drömmen om standup och Therese nya jobb och om man kan skämta om sitt jobb. Och så har det blivit den tiden på året då Therese hater har varit i farten igen. 
+</itunes:summary>
+                    <itunes:subtitle>Vi har vårkänslor och pratar Charity Comedy, kvinnoafton och kvinnodag, färglada nazister, polise...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 27. Det är fucking hobbitar!</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9337627.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi allvar. Therese har välkomnat sin inneboende med en vidrig förkylning. Felicia har åkt landet runt för att köra standup och vi ställer oss frågan om folk kom för standup eller fläskfilébuffén. Vi pratar standuprecensenter, hur RAW hamnat i blåsväder, Pekka Heinos sviktande programledarskap, grabbighet i branschen och om transpersoners rätt att vara förbannade på Hollywood. 
+</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-03-07T03_25_33-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-03-07T03_25_33-08_00</comments>
+                    <pubDate>Fri, 07 Mar 2014 11:25:33 GMT</pubDate>
+                    <dcterms:modified>2014-03-07</dcterms:modified>
+                    <dcterms:created>2014-03-07</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2fruntimmer,comedy,standup,felicia,tomala,therese,sandin,hobbit,raw,amanda,lindholm,anders,celin,anton,wittberg,andersson,feminism,cis,transpersoner,oscars,oscarsgalan,inneboende</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-03-07T03_25_33-08_00.mp3" length="45893371"/>
+                    <itunes:duration>2868</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9337627.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>19</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi allvar. Therese har välkomnat sin inneboende med en vidrig förkylning. Felicia har åkt landet runt för att köra standup och vi ställer oss frågan om folk kom för standup eller fläskfilébuffén. Vi pratar standuprecensenter, hur RAW hamnat i blåsväder, Pekka Heinos sviktande programledarskap, grabbighet i branschen och om transpersoners rätt att vara förbannade på Hollywood. 
+</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi allvar. Therese har välkomnat sin inneboende med en vidrig förkylning...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 26. Hala ut den så...</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-313x313+16+0_9295097.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om TV-serier vi följer och borde följa. Felicia har kört på RAW igen och vi har träffat intressanta typer och ställer oss frågan om man kommer undan med vilka skämt som helst och hur uppskattad/inte uppskattad feedback kan vara efter gig. Therese berättar om sina storslagna planer inför sommarklubben i Roslagen och ska tydligen bli med inneboende (OBS, ej katt). Givetvis har Felicia även trillat i vanlig ordning. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-02-23T05_35_03-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-02-23T05_35_03-08_00</comments>
+                    <pubDate>Sun, 23 Feb 2014 13:35:03 GMT</pubDate>
+                    <dcterms:modified>2014-02-23</dcterms:modified>
+                    <dcterms:created>2014-02-23</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,felicia,tomala,therese,sandin,standup,tv,skrattmåsen,humor,raw</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-02-23T05_35_03-08_00.mp3" length="50666447"/>
+                    <itunes:duration>3166</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-313x313+16+0_9295097.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>20</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om TV-serier vi följer och borde följa. Felicia har kört på RAW igen och vi har träffat intressanta typer och ställer oss frågan om man kommer undan med vilka skämt som helst och hur uppskattad/inte uppskattad feedback kan vara efter gig. Therese berättar om sina storslagna planer inför sommarklubben i Roslagen och ska tydligen bli med inneboende (OBS, ej katt). Givetvis har Felicia även trillat i vanlig ordning. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om TV-serier vi följer och borde följa. Felicia har kört på RAW igen ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 25. Jag kan inte dansa, jag är ju känd</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9262871.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt berättar Therese om varför hon ska gå 100 dagar utan sex. Vi pratar sexmissbruk, skönhetsideal och Disneyfilmer. Felicia kör på RAW på lördag och har material hon kan köra för barn. Vi pratar lite smått om inflyttningsfesten och om hur Blondinbella hamnat i blåsväder för ovanlighetens skull. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-02-13T17_51_29-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-02-13T17_51_29-08_00</comments>
+                    <pubDate>Fri, 14 Feb 2014 01:51:29 GMT</pubDate>
+                    <dcterms:modified>2014-02-14</dcterms:modified>
+                    <dcterms:created>2014-02-14</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,felicia,tomala,singel,sexmissbruk,skönhetsideal,disney,rawtherese,sandin,sex,relationships,single</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-02-13T17_51_29-08_00.mp3" length="49418885"/>
+                    <itunes:duration>3087</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9262871.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>21</itunes:order>
+                    <itunes:summary>I veckans avsnitt berättar Therese om varför hon ska gå 100 dagar utan sex. Vi pratar sexmissbruk, skönhetsideal och Disneyfilmer. Felicia kör på RAW på lördag och har material hon kan köra för barn. Vi pratar lite smått om inflyttningsfesten och om hur Blondinbella hamnat i blåsväder för ovanlighetens skull. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt berättar Therese om varför hon ska gå 100 dagar utan sex. Vi pratar sexmissbruk...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 24. Auditions och rappande skolpoliser</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9240855.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Felicia kommer direkt ifrån en audition och berättar om när hon var på audition för Ballar av stål och Therese får lära sig vad felching är. Vi får höra om när Felicia rappade som skolpolis i Konserthuset och när Therese fick huvudrollen i en högt respekterad pjäs. Vi diskuterar huruvida musik hör hemma på humorscenen. Vi pratar om anledningen till att våra bägare ibland rinner över på humorklubbarna och vad som gör en konferencier bra.  </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-02-07T10_36_28-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-02-07T10_36_28-08_00</comments>
+                    <pubDate>Fri, 07 Feb 2014 18:36:28 GMT</pubDate>
+                    <dcterms:modified>2014-02-07</dcterms:modified>
+                    <dcterms:created>2014-02-07</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,sexism,diskriminering,standup,felicia,tomala,therese,sandin,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-02-07T10_36_28-08_00.mp3" length="47200712"/>
+                    <itunes:duration>2949</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9240855.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>22</itunes:order>
+                    <itunes:summary>Felicia kommer direkt ifrån en audition och berättar om när hon var på audition för Ballar av stål och Therese får lära sig vad felching är. Vi får höra om när Felicia rappade som skolpolis i Konserthuset och när Therese fick huvudrollen i en högt respekterad pjäs. Vi diskuterar huruvida musik hör hemma på humorscenen. Vi pratar om anledningen till att våra bägare ibland rinner över på humorklubbarna och vad som gör en konferencier bra.  </itunes:summary>
+                    <itunes:subtitle>Felicia kommer direkt ifrån en audition och berättar om när hon var på audition för Ballar av stå...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 23. Who the fuck is Pelle?!?</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9215724.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt gästas vi av komikern, skådespelaren och Quizmastern Pelle Helgesson. Vi pratar givetvis standup-branschen, Pelles Pop Show, ruttna manliga gubbar i branschen, hur man säljer sig, sexism, feminism, våldtäktskultur och tvångssterilisering. Upplyftande med andra ord. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-01-31T11_32_02-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-01-31T11_32_02-08_00</comments>
+                    <pubDate>Fri, 31 Jan 2014 19:32:02 GMT</pubDate>
+                    <dcterms:modified>2014-01-31</dcterms:modified>
+                    <dcterms:created>2014-01-31</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>fruntimmer,comedy,felicia,tomala,pelle,helgesson,quiz,sexism,komiker,våldtäkt,rape,therese,sandin,feminism,relationships,sex,single</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-01-31T11_32_02-08_00.mp3" length="45285621"/>
+                    <itunes:duration>2829</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9215724.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>23</itunes:order>
+                    <itunes:summary>I veckans avsnitt gästas vi av komikern, skådespelaren och Quizmastern Pelle Helgesson. Vi pratar givetvis standup-branschen, Pelles Pop Show, ruttna manliga gubbar i branschen, hur man säljer sig, sexism, feminism, våldtäktskultur och tvångssterilisering. Upplyftande med andra ord. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt gästas vi av komikern, skådespelaren och Quizmastern Pelle Helgesson. Vi pratar...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 22. Ja, vi pratar om dig</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9189954.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Exakt. Vi pratar om dig. Förutom det pratar vi om att Felicia har börjat plugga genusvetenskap, Therese blivit friskförklarad, Felicia snart fyller år och inte har någon ålderskris. Vi försöker hylla våra kroppar som omväxling och pratar barndom. Therese försöker peppa snippbegåvade komiker där ute. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-01-24T07_53_28-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-01-24T07_53_28-08_00</comments>
+                    <pubDate>Fri, 24 Jan 2014 15:53:28 GMT</pubDate>
+                    <dcterms:modified>2014-01-24</dcterms:modified>
+                    <dcterms:created>2014-01-24</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,felicia,tomala,therese,sandin,relationships,sex,single,standup,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-01-24T07_53_28-08_00.mp3" length="49063550"/>
+                    <itunes:duration>3066</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9189954.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>24</itunes:order>
+                    <itunes:summary>Exakt. Vi pratar om dig. Förutom det pratar vi om att Felicia har börjat plugga genusvetenskap, Therese blivit friskförklarad, Felicia snart fyller år och inte har någon ålderskris. Vi försöker hylla våra kroppar som omväxling och pratar barndom. Therese försöker peppa snippbegåvade komiker där ute. </itunes:summary>
+                    <itunes:subtitle>Exakt. Vi pratar om dig. Förutom det pratar vi om att Felicia har börjat plugga genusvetenskap, T...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 21. Hypokondri och bridezillas</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9166775.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi svensk sjukvård, improvisationsteater, hur man hälsar på folk, bröllop och att Therese nätdejtar för skojs skull. Felicia har tittat på skidskytte (vilket uppenbarligen är ett rop på hjälp) och vi hyllar Kim Hartman och Pelles pop show. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-01-17T05_58_41-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-01-17T05_58_41-08_00</comments>
+                    <pubDate>Fri, 17 Jan 2014 13:58:41 GMT</pubDate>
+                    <dcterms:modified>2014-01-17</dcterms:modified>
+                    <dcterms:created>2014-01-17</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,bröllop,weddings,hypokondri,hypochondria,healthcare,felicia,tomala,therese,sandin,relationships,sex,single</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-01-17T05_58_41-08_00.mp3" length="53418266"/>
+                    <itunes:duration>3337</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9166775.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>25</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi svensk sjukvård, improvisationsteater, hur man hälsar på folk, bröllop och att Therese nätdejtar för skojs skull. Felicia har tittat på skidskytte (vilket uppenbarligen är ett rop på hjälp) och vi hyllar Kim Hartman och Pelles pop show. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi svensk sjukvård, improvisationsteater, hur man hälsar på folk, bröllo...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 20. Jag har mina trix</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9149049.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om hur vi hanterar krissituationer, "jag är beredd på allt, jag har sett alla avsnitt av Grey's Anatomy", hur alla komiker tar en vit månad, träningshysteri, sexy time och om hur Therese delegerar räkningsbetalandet till sin micro. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-01-11T03_26_56-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-01-11T03_26_56-08_00</comments>
+                    <pubDate>Sat, 11 Jan 2014 11:26:56 GMT</pubDate>
+                    <dcterms:modified>2014-01-11</dcterms:modified>
+                    <dcterms:created>2014-01-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,2fruntimmer,sexytime,tricks,fruntimmer,felicia,tomala,therese,sandin,feminism,sex,standup</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-01-11T03_26_56-08_00.mp3" length="56448879"/>
+                    <itunes:duration>3527</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9149049.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>26</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om hur vi hanterar krissituationer, "jag är beredd på allt, jag har sett alla avsnitt av Grey's Anatomy", hur alla komiker tar en vit månad, träningshysteri, sexy time och om hur Therese delegerar räkningsbetalandet till sin micro. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om hur vi hanterar krissituationer, "jag är beredd på allt, jag har s...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 19. Allt är Isak Janssons fel</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-1244x1244+67+15_9131015.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt har vi för första gången tagit in en gäst, ingen annan än den otroligt begåvade komikern Isak Jansson, som precis släppt sin show "Allt är floristernas fel" på Spotify. Vi pratar om standupkarriären, nyårslöften, vad ordet "fittbiten" är och försöker utröna när någon är en slampa. Allt detta medan vi äter Wienerbröd.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2014-01-03T16_38_51-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2014-01-03T16_38_51-08_00</comments>
+                    <pubDate>Sat, 04 Jan 2014 00:38:51 GMT</pubDate>
+                    <dcterms:modified>2014-01-04</dcterms:modified>
+                    <dcterms:created>2014-01-04</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,humor,isak,jansson,florister,felicia,feminism,tomala,therese,standup,sandin,single,sex</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2014-01-03T16_38_51-08_00.mp3" length="60202625"/>
+                    <itunes:duration>3762</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-1244x1244+67+15_9131015.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>27</itunes:order>
+                    <itunes:summary>I veckans avsnitt har vi för första gången tagit in en gäst, ingen annan än den otroligt begåvade komikern Isak Jansson, som precis släppt sin show "Allt är floristernas fel" på Spotify. Vi pratar om standupkarriären, nyårslöften, vad ordet "fittbiten" är och försöker utröna när någon är en slampa. Allt detta medan vi äter Wienerbröd.</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt har vi för första gången tagit in en gäst, ingen annan än den otroligt begåvade...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 18. Nyårskarameller 2013</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9121313.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi pratar årets höjdpunkter inom standup, privat och i sängen och en och annan godbit avslöjas. God fortsättning och gott nytt år kära lyssnare!</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-12-30T10_12_31-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-12-30T10_12_31-08_00</comments>
+                    <pubDate>Mon, 30 Dec 2013 18:12:31 GMT</pubDate>
+                    <dcterms:modified>2013-12-30</dcterms:modified>
+                    <dcterms:created>2013-12-30</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,tomala,therese,sandin,facebook,nyår,feminism,fruntimmer,relationships,sex,single,standup</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-12-30T10_12_31-08_00.mp3" length="52696904"/>
+                    <itunes:duration>3292</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9121313.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>28</itunes:order>
+                    <itunes:summary>Vi pratar årets höjdpunkter inom standup, privat och i sängen och en och annan godbit avslöjas. God fortsättning och gott nytt år kära lyssnare!</itunes:summary>
+                    <itunes:subtitle>Vi pratar årets höjdpunkter inom standup, privat och i sängen och en och annan godbit avslöjas. G...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 17. Ska man bli sekt</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9100362.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi laddar inför högtid och pratar gig med insamling till Stadsmissionen, katter, fördomar, polyamorösa förhållanden och ger lite tips till er som vill starta sekt.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-12-20T07_11_54-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-12-20T07_11_54-08_00</comments>
+                    <pubDate>Fri, 20 Dec 2013 15:11:54 GMT</pubDate>
+                    <dcterms:modified>2013-12-20</dcterms:modified>
+                    <dcterms:created>2013-12-20</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,feminism,cults,sekter,katter,stadsmissionen,hemlösa,fördomar,polygami,humor,polyamorös,relationships,sandin,sex,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-12-20T07_11_54-08_00.mp3" length="56700517"/>
+                    <itunes:duration>3543</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9100362.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>29</itunes:order>
+                    <itunes:summary>Vi laddar inför högtid och pratar gig med insamling till Stadsmissionen, katter, fördomar, polyamorösa förhållanden och ger lite tips till er som vill starta sekt.</itunes:summary>
+                    <itunes:subtitle>Vi laddar inför högtid och pratar gig med insamling till Stadsmissionen, katter, fördomar, polyam...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 16. UFO</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9084143.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Nu är vi äntligen tillbaka efter en rörig period. Felicia har varit i Polen och Sunne och Therese har flyttat och fyllemålat för fullt. Vi pratar om Felicias gig på RAW och Therese misstanke om att vara en bortbyting. Vi är också lessa på att andra kvinnor för vår talan och vårt ständiga behov av att kategorisera människor. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-12-14T07_57_56-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-12-14T07_57_56-08_00</comments>
+                    <pubDate>Sat, 14 Dec 2013 15:57:56 GMT</pubDate>
+                    <dcterms:modified>2013-12-14</dcterms:modified>
+                    <dcterms:created>2013-12-14</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,feminism,raw,polen,ufo,tomala,therese,sandin,standup</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-12-14T07_57_56-08_00.mp3" length="52585258"/>
+                    <itunes:duration>3286</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9084143.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>30</itunes:order>
+                    <itunes:summary>Nu är vi äntligen tillbaka efter en rörig period. Felicia har varit i Polen och Sunne och Therese har flyttat och fyllemålat för fullt. Vi pratar om Felicias gig på RAW och Therese misstanke om att vara en bortbyting. Vi är också lessa på att andra kvinnor för vår talan och vårt ständiga behov av att kategorisera människor. </itunes:summary>
+                    <itunes:subtitle>Nu är vi äntligen tillbaka efter en rörig period. Felicia har varit i Polen och Sunne och Therese...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 15. Cunt</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9044869.jpeg" alt="itunes pic" /&gt;&lt;br /&gt;Felicia är äntligen tillbaka i Sverige! Vi pratar standup, genus, ideal och leksaker för barn. Therese berättar om första kärleken och Felicia har googlat om världens största manliga organ. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-12-02T10_53_34-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-12-02T10_53_34-08_00</comments>
+                    <pubDate>Mon, 02 Dec 2013 18:53:34 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,gender,genus,penis,love,fruntimmer,relationships,sandin,sex,single,stand,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-12-02T10_53_34-08_00.mp3" length="54336508"/>
+                    <itunes:duration>3395</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_9044869.jpeg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>31</itunes:order>
+                    <itunes:summary>Felicia är äntligen tillbaka i Sverige! Vi pratar standup, genus, ideal och leksaker för barn. Therese berättar om första kärleken och Felicia har googlat om världens största manliga organ. </itunes:summary>
+                    <itunes:subtitle>Felicia är äntligen tillbaka i Sverige! Vi pratar standup, genus, ideal och leksaker för barn. Th...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 14.  Superkrafter</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-578x578+0+0_9025670.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Felicia har fått ett sugmärke och Therese har varit i Dublin. Vi pratar kvinnliga superhjältar och om superkraften att inte bli generad eller göra bort sig. Om det blir en zombieinvasion ska Felicia bli en pilbågedrottning och Therese ha en häst som inneboende. Så är det.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-11-26T07_55_03-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-11-26T07_55_03-08_00</comments>
+                    <pubDate>Tue, 26 Nov 2013 15:55:03 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>fruntimmer,comedy,felicia,feminism,superheroes,superhjältar,zombies,dating,relationships,sandin,sex,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-11-26T07_55_03-08_00.mp3" length="49061878"/>
+                    <itunes:duration>3065</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-578x578+0+0_9025670.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>32</itunes:order>
+                    <itunes:summary>Felicia har fått ett sugmärke och Therese har varit i Dublin. Vi pratar kvinnliga superhjältar och om superkraften att inte bli generad eller göra bort sig. Om det blir en zombieinvasion ska Felicia bli en pilbågedrottning och Therese ha en häst som inneboende. Så är det.</itunes:summary>
+                    <itunes:subtitle>Felicia har fått ett sugmärke och Therese har varit i Dublin. Vi pratar kvinnliga superhjältar oc...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 13. Snusk</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8984878.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Precis som utlovat handlar veckans avsnitt om snusk. Vad är egentligen definitionen på ordet "slampa"? Hur ofta får Blöjmange svar på nätdejtingsajter? Lämnar fontänorgasmer verkligen fläckar? </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-11-14T18_24_14-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-11-14T18_24_14-08_00</comments>
+                    <pubDate>Fri, 15 Nov 2013 02:24:14 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>feminism,fruntimmer,comedy,sex,single,standup,therese,tomala,sandin,felicia,relationships</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-11-14T18_24_14-08_00.mp3" length="47274271"/>
+                    <itunes:duration>2953</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8984878.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>33</itunes:order>
+                    <itunes:summary>Precis som utlovat handlar veckans avsnitt om snusk. Vad är egentligen definitionen på ordet "slampa"? Hur ofta får Blöjmange svar på nätdejtingsajter? Lämnar fontänorgasmer verkligen fläckar? </itunes:summary>
+                    <itunes:subtitle>Precis som utlovat handlar veckans avsnitt om snusk. Vad är egentligen definitionen på ordet "sla...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 12. Bucket list och psykofarmaka</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8960730.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi lite om vad vi vill hinna göra innan vi dör. Vi pratar även om att äta läkemedel för att må bra och lite om fördomarna kring psykofarmaka.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-11-08T01_03_58-08_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-11-08T01_03_58-08_00</comments>
+                    <pubDate>Fri, 08 Nov 2013 09:03:58 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,fruntimmer,feminism,sandin,drugs,bucket,list,sex,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-11-08T01_03_58-08_00.mp3" length="46060112"/>
+                    <itunes:duration>2877</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8960730.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>34</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi lite om vad vi vill hinna göra innan vi dör. Vi pratar även om att äta läkemedel för att må bra och lite om fördomarna kring psykofarmaka.</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi lite om vad vi vill hinna göra innan vi dör. Vi pratar även om att ät...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 11. Heltäckningsmattor och snusk</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8933504.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi pratar heltäckningsmattor och om andras dåliga vanor. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-11-01T05_43_37-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-11-01T05_43_37-07_00</comments>
+                    <pubDate>Fri, 01 Nov 2013 12:43:37 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,fruntimmer,felicia,relationships,sandin,sex,single,standup,therese,tomala,feminism</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-11-01T05_43_37-07_00.mp3" length="50150653"/>
+                    <itunes:duration>3133</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8933504.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>35</itunes:order>
+                    <itunes:summary>Vi pratar heltäckningsmattor och om andras dåliga vanor. </itunes:summary>
+                    <itunes:subtitle>Vi pratar heltäckningsmattor och om andras dåliga vanor. </itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 10. Så långsökt att det är sant</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-421x421+138+0_8906148.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om ofrivillig drogsmuggling, smeknamn och om drömmannen. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-10-25T09_39_41-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-10-25T09_39_41-07_00</comments>
+                    <pubDate>Fri, 25 Oct 2013 16:39:41 GMT</pubDate>
+                    <dcterms:modified>2013-12-12</dcterms:modified>
+                    <dcterms:created>2013-12-12</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,relationships,sandin,sex,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-10-25T09_39_41-07_00.mp3" length="55842007"/>
+                    <itunes:duration>3489</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-421x421+138+0_8906148.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>36</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om ofrivillig drogsmuggling, smeknamn och om drömmannen. </itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om ofrivillig drogsmuggling, smeknamn och om drömmannen. </itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 9. Jättejättejättebra</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8881430.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi har äntligen fått igång Skype och sitter i varsin ände av jordklotet och pratar om gig, rookietävling, dating, striptease och män i uniform.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-10-18T19_23_32-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-10-18T19_23_32-07_00</comments>
+                    <pubDate>Sat, 19 Oct 2013 02:23:32 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,striptease,relationships,sandin,sex,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-10-18T19_23_32-07_00.mp3" length="51423742"/>
+                    <itunes:duration>3212</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400_8881430.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>37</itunes:order>
+                    <itunes:summary>Vi har äntligen fått igång Skype och sitter i varsin ände av jordklotet och pratar om gig, rookietävling, dating, striptease och män i uniform.</itunes:summary>
+                    <itunes:subtitle>Vi har äntligen fått igång Skype och sitter i varsin ände av jordklotet och pratar om gig, rookie...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 8. Haters</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-377x377+39+22_8823582.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi har en ny introlåt! I veckans avsnitt pratar vi om hur Felicia behöver mediaträning, roast, Taboo Comedy Club och Therese haters. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-10-03T22_45_30-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-10-03T22_45_30-07_00</comments>
+                    <pubDate>Fri, 04 Oct 2013 05:45:30 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,tomala,therese,sandin,hater,haters,taboo,roastfruntimmer,standup</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-10-03T22_45_30-07_00.mp3" length="41658082"/>
+                    <itunes:duration>2603</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-377x377+39+22_8823582.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>38</itunes:order>
+                    <itunes:summary>Vi har en ny introlåt! I veckans avsnitt pratar vi om hur Felicia behöver mediaträning, roast, Taboo Comedy Club och Therese haters. </itunes:summary>
+                    <itunes:subtitle>Vi har en ny introlåt! I veckans avsnitt pratar vi om hur Felicia behöver mediaträning, roast, Ta...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 7. I vissa kulturer luktar man på folk</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-475x475+3+7_8794723.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Therese är fortfarande i New York. Vi pratar standup i världsklass, open mics, New Yorks uteliv, vaxning och att resa ensam.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-09-27T00_16_13-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-09-27T00_16_13-07_00</comments>
+                    <pubDate>Fri, 27 Sep 2013 07:16:13 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,sandin,sex,relationships,single,standup,therese,tomala</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-09-27T00_16_13-07_00.mp3" length="45862528"/>
+                    <itunes:duration>2865</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-475x475+3+7_8794723.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>39</itunes:order>
+                    <itunes:summary>Therese är fortfarande i New York. Vi pratar standup i världsklass, open mics, New Yorks uteliv, vaxning och att resa ensam.</itunes:summary>
+                    <itunes:subtitle>Therese är fortfarande i New York. Vi pratar standup i världsklass, open mics, New Yorks uteliv, ...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 6. Gangsta from da hood, liksom</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-335x335+104+4_8766759.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Therese hälsar på Felicia i New York och vi har kört en open mic och pratar flygresor, Last Comic Standing och Twitterincident. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-09-19T23_48_53-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-09-19T23_48_53-07_00</comments>
+                    <pubDate>Fri, 20 Sep 2013 06:48:53 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,sandin,standup,therese,tomala,new,york</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-09-19T23_48_53-07_00.mp3" length="38112649"/>
+                    <itunes:duration>2381</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-335x335+104+4_8766759.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>40</itunes:order>
+                    <itunes:summary>Therese hälsar på Felicia i New York och vi har kört en open mic och pratar flygresor, Last Comic Standing och Twitterincident. </itunes:summary>
+                    <itunes:subtitle>Therese hälsar på Felicia i New York och vi har kört en open mic och pratar flygresor, Last Comic...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 5. Long story short</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-1156x1156+206+34_8739126.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Standup, standup och ännu mer standup. Felicia har varit på Skämskudden och kört på RAW, medan Therese har varit i Irland och haft en fin romans med en lesbisk hund.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-09-12T17_22_56-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-09-12T17_22_56-07_00</comments>
+                    <pubDate>Fri, 13 Sep 2013 00:22:56 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,fruntimmer,sandin,stand,up,standup,therese</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-09-12T17_22_56-07_00.mp3" length="36325922"/>
+                    <itunes:duration>2269</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-1156x1156+206+34_8739126.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>41</itunes:order>
+                    <itunes:summary>Standup, standup och ännu mer standup. Felicia har varit på Skämskudden och kört på RAW, medan Therese har varit i Irland och haft en fin romans med en lesbisk hund.</itunes:summary>
+                    <itunes:subtitle>Standup, standup och ännu mer standup. Felicia har varit på Skämskudden och kört på RAW, medan Th...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 4. Ska jag skriva mitt nummer också?</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-724x724+202+29_8710267.jpg" alt="itunes pic" /&gt;&lt;br /&gt;I veckans avsnitt pratar vi om bisarra standup-gig. Felicia berättar om sitt stora break som komiker på RAW Summer Fest och Therese om Piratebay-festivalen.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-09-06T01_10_26-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-09-06T01_10_26-07_00</comments>
+                    <pubDate>Fri, 06 Sep 2013 08:10:26 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,relationships,sandin,stand,standup,up,therese,tomala,gigs</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-09-06T01_10_26-07_00.mp3" length="45422411"/>
+                    <itunes:duration>2838</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-724x724+202+29_8710267.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>42</itunes:order>
+                    <itunes:summary>I veckans avsnitt pratar vi om bisarra standup-gig. Felicia berättar om sitt stora break som komiker på RAW Summer Fest och Therese om Piratebay-festivalen.</itunes:summary>
+                    <itunes:subtitle>I veckans avsnitt pratar vi om bisarra standup-gig. Felicia berättar om sitt stora break som komi...</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 3. Bajs i ansiktet.</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-263x263+127+3_8700117.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Om du får bajs i ansiktet, vad gör du då?</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-09-03T17_07_00-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-09-03T17_07_00-07_00</comments>
+                    <pubDate>Wed, 04 Sep 2013 00:07:00 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,relationships,sandin,sex,single,stand,standup,therese,tomala,up</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-09-03T17_07_00-07_00.mp3" length="47579920"/>
+                    <itunes:duration>2973</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-263x263+127+3_8700117.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>43</itunes:order>
+                    <itunes:summary>Om du får bajs i ansiktet, vad gör du då?</itunes:summary>
+                    <itunes:subtitle>Om du får bajs i ansiktet, vad gör du då?</itunes:subtitle>
+                </item>
+                <item>
+                    <title>2. Allting handlade om kiss</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-317x317+7+7_8683530.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Vi pratar dejting och mer stand up medan Therese ligger i Kate Winslets Titanic pose.</description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-08-30T08_31_46-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-08-30T08_31_46-07_00</comments>
+                    <pubDate>Fri, 30 Aug 2013 15:31:46 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>comedy,felicia,feminism,fruntimmer,relationships,sandin,therese,tomala,standup,single,sex</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-08-30T08_31_46-07_00.mp3" length="53673750"/>
+                    <itunes:duration>3353</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-317x317+7+7_8683530.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>44</itunes:order>
+                    <itunes:summary>Vi pratar dejting och mer stand up medan Therese ligger i Kate Winslets Titanic pose.</itunes:summary>
+                    <itunes:subtitle>Vi pratar dejting och mer stand up medan Therese ligger i Kate Winslets Titanic pose.</itunes:subtitle>
+                </item>
+                <item>
+                    <title>Avsnitt 1. Vi som hade hoppats på en gris</title>
+                    <description>&lt;img src="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-188x188+70+6_8651649.jpg" alt="itunes pic" /&gt;&lt;br /&gt;Första avsnittet. Vi berättar om oss själva och om hur vi började med standup och varför vi vill ha en podcast. </description>
+                    <guid isPermaLink="true">http://2fruntimmer.podomatic.com/entry/2013-08-22T02_44_41-07_00</guid>
+                    <comments>http://2fruntimmer.podomatic.com/entry/2013-08-22T02_44_41-07_00</comments>
+                    <pubDate>Thu, 22 Aug 2013 09:44:41 GMT</pubDate>
+                    <dcterms:modified>2013-12-11</dcterms:modified>
+                    <dcterms:created>2013-12-11</dcterms:created>
+                    <link>http://2fruntimmer.podomatic.com</link>
+                    <dc:creator>2 Fruntimmer</dc:creator>
+                    <itunes:keywords>2,fruntimmer,comedy,feminism,sex,standup,felicia,tomala,therese,sandin</itunes:keywords>
+                    <enclosure type="audio/mpeg" url="http://2fruntimmer.podomatic.com/enclosure/2013-08-22T02_44_41-07_00.mp3" length="48944082"/>
+                    <itunes:duration>3058</itunes:duration>
+                    <itunes:image href="http://assets.podomatic.net/ts/41/2c/35/rocktessy7/1400x1400-188x188+70+6_8651649.jpg"/>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:order>45</itunes:order>
+                    <itunes:summary>Första avsnittet. Vi berättar om oss själva och om hur vi började med standup och varför vi vill ha en podcast. </itunes:summary>
+                    <itunes:subtitle>Första avsnittet. Vi berättar om oss själva och om hur vi började med standup och varför vi vill ...</itunes:subtitle>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

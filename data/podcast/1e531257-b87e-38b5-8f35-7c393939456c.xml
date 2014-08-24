@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Content-Type" value="text/html; charset=UTF-8"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:40:01 GMT"/>
+        <httpclient:header name="Server" value="Apache"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET 2.0"/>
+        <httpclient:header name="Content-Length" value="1114"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/html; charset=UTF-8" type="xhtml">
+        <html lang="en">
+            <head>
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <meta name="description" content=""/>
+                <meta name="author" content=""/>
+                <link rel="stylesheet" href="/css/bootstrap.min.css" media="all"/>
+                <link rel="stylesheet" href="/css/error.css" media="screen"/>
+                <title>Error 404</title>
+                <style>body{ background:none}</style>
+            </head>
+            <body>
+                <div id="error-wrap">
+                    <div id="error-digits">
+                        <span>4</span>
+                        <span>0</span>
+                        <span>4</span>
+                    </div>
+                    <h1>ERROR 404</h1>
+                    <p>The page you're looking for is not found. Maybe you should <a href="/">go back home</a> or search for what you are looking below.</p>
+                </div>
+            </body>
+        </html>
+    </httpclient:body>
+</httpclient:response>

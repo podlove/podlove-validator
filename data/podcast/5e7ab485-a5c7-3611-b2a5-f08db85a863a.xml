@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="26362"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:48:51 GMT"/>
+        <httpclient:header name="X-Varnish" value="1676281194"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Yle Nyheter Österbotten</title>
+                <link>http://areena.yle.fi/api/search.rss?id=1873239&amp;ladattavat=1&amp;media=audio</link>
+                <pubDate>Wed, 20 Aug 2014 12:48:51 +0300</pubDate>
+                <description/>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary/>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_65.jpg</url>
+                    <title>Yle Nyheter Österbotten</title>
+                    <link>http://areena.yle.fi/api/search.rss?id=1873239&amp;ladattavat=1&amp;media=audio</link>
+                </image>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 10.57</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2330252</link>
+                    <guid isPermaLink="false">37e862c06b014800b0a304faf7a56df8</guid>
+                    <description/>
+                    <pubDate>Wed, 20 Aug 2014 11:02:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/0b/0bf79cb646f74ed994b38f90d2a153ec.mp3?filename=_20140820_1102.mp3" type="audio/mp3" length="23056"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/37/37e862c06b014800b0a304faf7a56df8/37e862c06b014800b0a304faf7a56df8_1408522836320.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-20T11:02:00+0300; end=2014-08-21T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="176"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 08.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2330248</link>
+                    <guid isPermaLink="false">92d92f56aa684fe0914ef793dd59aa23</guid>
+                    <description/>
+                    <pubDate>Wed, 20 Aug 2014 08:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/89/89f69eeac4d74d0b9b627d4df2f18853.mp3?filename=_20140820_0840.mp3" type="audio/mp3" length="51483"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/92/92d92f56aa684fe0914ef793dd59aa23/92d92f56aa684fe0914ef793dd59aa23_1408514438967.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-20T08:40:00+0300; end=2014-08-21T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="393"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 07.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2330245</link>
+                    <guid isPermaLink="false">8b1ea15e0a4a41caa3da631cafc02157</guid>
+                    <description/>
+                    <pubDate>Wed, 20 Aug 2014 07:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/45/45d18b9e47a9411b935c8040a6c441ff.mp3?filename=_20140820_0740.mp3" type="audio/mp3" length="62356"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/8b/8b1ea15e0a4a41caa3da631cafc02157/8b1ea15e0a4a41caa3da631cafc02157_1408510594487.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-20T07:40:00+0300; end=2014-08-21T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="476"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 06.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2330242</link>
+                    <guid isPermaLink="false">051a29d956354da1b6b12b7e76d6efdb</guid>
+                    <description/>
+                    <pubDate>Wed, 20 Aug 2014 06:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/b7/b78b21944d044fd0b81cf7130920f1c1.mp3?filename=_20140820_0640.mp3" type="audio/mp3" length="45719"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/051a29d956354da1b6b12b7e76d6efdb/051a29d956354da1b6b12b7e76d6efdb_1408507402675.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-20T06:40:00+0300; end=2014-08-21T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="349"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 16.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329581</link>
+                    <guid isPermaLink="false">0596b7f964b7412c84ba3130e2ca394d</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 16:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/83/83426041bc724577ba077402e9e08b5f.mp3?filename=_20140819_1640.mp3" type="audio/mp3" length="25414"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/05/0596b7f964b7412c84ba3130e2ca394d/0596b7f964b7412c84ba3130e2ca394d_1408456670135.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T16:40:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="194"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 15.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329580</link>
+                    <guid isPermaLink="false">b665ab4d7c2b459da7edbd8f6b89271b</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 15:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/ff/ffc10f75c0604afca01a5865d04eed61.mp3?filename=_20140819_1540.mp3" type="audio/mp3" length="24759"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/b6/b665ab4d7c2b459da7edbd8f6b89271b/b665ab4d7c2b459da7edbd8f6b89271b_1408453437064.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T15:40:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="189"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 10.57</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329579</link>
+                    <guid isPermaLink="false">f24067ea161e448ab65ab6a7c0c1a4e3</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 11:02:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/59/59cf1abe4b3845b3897d4f4c676f8f17.mp3?filename=_20140819_1102.mp3" type="audio/mp3" length="20305"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f2/f24067ea161e448ab65ab6a7c0c1a4e3/f24067ea161e448ab65ab6a7c0c1a4e3_1408436236792.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T11:02:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="155"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 08.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329575</link>
+                    <guid isPermaLink="false">f1a33bb56f534d77b4c2b4f02c1ce919</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 08:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/c1/c1b780d6452a4263a26b425fcfc8ded5.mp3?filename=_20140819_0840.mp3" type="audio/mp3" length="40348"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f1/f1a33bb56f534d77b4c2b4f02c1ce919/f1a33bb56f534d77b4c2b4f02c1ce919_1408427890970.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T08:40:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="308"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 07.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329572</link>
+                    <guid isPermaLink="false">e58d724d6361457c9d68d4fd18101a71</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 07:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/ad/ad11663b66e54cd7a05425d2bf642116.mp3?filename=_20140819_0740.mp3" type="audio/mp3" length="53317"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/e5/e58d724d6361457c9d68d4fd18101a71/e58d724d6361457c9d68d4fd18101a71_1408424050640.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T07:40:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="407"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: kl. 06.30</title>
+                    <media:credit role="production department">Radio Vega Österbotten</media:credit>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2329569</link>
+                    <guid isPermaLink="false">7c3b1c2b53d64d1796a3fda6e5941d83</guid>
+                    <description/>
+                    <pubDate>Tue, 19 Aug 2014 06:40:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/e0/e060a809d79a44bc906880a0deea9b76.mp3?filename=_20140819_0640.mp3" type="audio/mp3" length="52138"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/7c/7c3b1c2b53d64d1796a3fda6e5941d83/7c3b1c2b53d64d1796a3fda6e5941d83_1408420963517.jpg" width="940" height="529"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-08-19T06:40:00+0300; end=2014-08-20T23:59:59+0300; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="398"/>
+                </item>
+                <item>
+                    <title>Yle Nyheter Österbotten: Flyghavre ett återkommande problem för sädesodlare</title>
+                    <areena:tvLicense>false</areena:tvLicense>
+                    <link>http://areena.yle.fi/radio/2333951</link>
+                    <guid isPermaLink="false">f5093ad346f448a28b3fa887e29ff4e5</guid>
+                    <description/>
+                    <pubDate>Thu, 17 Jul 2014 06:45:00 +0300</pubDate>
+                    <category>Uutiset</category>
+                    <enclosure url="http://download.yle.fi/areena/world_download/b1/b1986088c64049f8ac61e2993b5a4048.mp3?filename=_20140717_0645.mp3" type="audio/mp3" length="20436"/>
+                    <itunes:image href="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_720.jpg"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_65.jpg" width="65" height="37"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_160.jpg" width="160" height="90"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_220.jpg" width="220" height="124"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_620.jpg" width="620" height="349"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212_720.jpg" width="720" height="405"/>
+                    <media:thumbnail url="http://areena.yle.fi/static/mk/images/previews/f5/f5093ad346f448a28b3fa887e29ff4e5/f5093ad346f448a28b3fa887e29ff4e5_1405582369212.jpg" width="1024" height="576"/>
+                    <dcterms:subject>Yle Nyheter Österbotten</dcterms:subject>
+                    <dcterms:valid>start=2014-07-17T06:45:00+0300; end=; scheme=W3C-DTF;</dcterms:valid>
+                    <media:content duration="156"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

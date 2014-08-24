@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="Apache-Coyote/1.1"/>
+        <httpclient:header name="Content-Type" value="text/xml"/>
+        <httpclient:header name="Content-Length" value="1684"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:48:32 GMT"/>
+        <httpclient:header name="X-Varnish" value="771847521"/>
+        <httpclient:header name="Age" value="0"/>
+        <httpclient:header name="Via" value="1.1 varnish"/>
+        <httpclient:header name="Connection" value="keep-alive"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:areena="http://areena.yle.fi/xsd/areena.xsd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+            <channel>
+                <title>Taustapeilin Pyöreä pöytä</title>
+                <link>http://areena.yle.fi/api/search.rss?id=1647221&amp;sisalto=ohjelmat&amp;media=audio</link>
+                <pubDate>Wed, 20 Aug 2014 12:48:32 +0300</pubDate>
+                <description>Tulista väittelyä ajankohtaisista aiheista. Twitterissä: #pyöreäpöytä</description>
+                <managingEditor>(areena.info@yle.fi)</managingEditor>
+                <webMaster>areena.info@yle.fi</webMaster>
+                <copyright>YLE Areena</copyright>
+                <generator>YLE Areena</generator>
+                <language>fi</language>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+                <ttl>15</ttl>
+                <itunes:author>areena.info@yle.fi</itunes:author>
+                <itunes:owner>
+                    <itunes:name>areena.info@yle.fi</itunes:name>
+                </itunes:owner>
+                <itunes:summary>Tulista väittelyä ajankohtaisista aiheista. Twitterissä: #pyöreäpöytä</itunes:summary>
+                <itunes:image href="http://areena.yle.fi/static/mk/images/areena/series/7959540_90_taustapeilin_pp_pauli_720.jpg"/>
+                <image>
+                    <url>http://areena.yle.fi/static/mk/images/areena/series/7959540_90_taustapeilin_pp_pauli_65.jpg</url>
+                    <title>Taustapeilin Pyöreä pöytä</title>
+                    <link>http://areena.yle.fi/api/search.rss?id=1647221&amp;sisalto=ohjelmat&amp;media=audio</link>
+                </image>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

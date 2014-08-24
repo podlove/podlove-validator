@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Server" value="nginx"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:38:59 GMT"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
+        <httpclient:header name="Content-Length" value="87607"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:27:15 GMT"/>
+        <httpclient:header name="Connection" value="close"/>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="ETag" value="&#34;53f469f3-15637&#34;"/>
+        <httpclient:header name="X-Backend-Server" value="wb9.betacie.net"/>
+        <httpclient:header name="X-Feed-Name" value="anodised-mp3"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=UTF-8" type="xml"><?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed-premium.xsl"?>
+        <rss xmlns:feedpress="http://feedpress.it/xmlns" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+            <channel>
+                <feedpress:locale>en</feedpress:locale>
+                <feedpress:newsletterId>anodised-mp3</feedpress:newsletterId>
+                <atom:link rel="via" href="http://feeds.anodisedpodcast.com/mp3"/>
+                <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+                <title>Anodised MP3 Feed</title>
+                <description>This is Anodised. Join Clinton Phillips and guests for a fortnightly discussion on Apple, gaming, photography and the consumer tech industry at large.</description>
+                <atom:link href="http://feeds.anodisedpodcast.com/mp3" rel="self" type="application/rss+xml"/>
+		<!-- begin partials/feed-channel -->
+                <link>http://anodisedpodcast.com</link>
+                <language>en-AU</language>
+                <webMaster>(clinton@unsanelygreat.com) (Clinton Phillips)</webMaster>
+                <copyright>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License 2014</copyright>
+                <ttl>3600</ttl>
+                <itunes:author>Unsanely Great Podcasts</itunes:author>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords>Australian,Apple,Tech,Technology,Gaming,Games,Photography</itunes:keywords>
+                <itunes:owner>
+                    <itunes:name>Clinton Phillips</itunes:name>
+                    <itunes:email>contact@anodisedpodcast.com</itunes:email>
+                </itunes:owner>
+                <itunes:category text="Technology">
+                    <itunes:category text="Gadgets"/>
+                    <itunes:category text="Tech News"/>
+                </itunes:category>
+                <itunes:category text="Games &amp; Hobbies">
+                    <itunes:category text="Video Games"/>
+                </itunes:category>
+                <generator>http://anodisedpodcast.com</generator>
+<!-- end partials/feed-channel -->
+                <lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0930</lastBuildDate>
+                <itunes:subtitle>Discussion on Apple, gaming, photography and the consumer tech industry.</itunes:subtitle>
+                <itunes:summary>This is Anodised. Join Clinton Phillips and guests for a fortnightly discussion on Apple, gaming, photography and the consumer tech industry at large.</itunes:summary>
+                <itunes:image href="http://anodisedpodcast.com/_themes/anodised/img/anodised-artwork.png"/>
+                <image>
+                    <url>http://anodisedpodcast.com/_themes/anodised/img/thumbs/anodised-rss-artwork.png</url>
+                    <title>Anodised MP3 Feed</title>
+                    <link>http://anodisedpodcast.com</link>
+                </image>
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>This Man Has Tried to Scroll Down Fifteen Hundred Times in Twenty-Two Seconds</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/130183</link>
+                    <guid>http://anodisedpodcast.com/podcast/this-man-has-tried-to-scroll-down-fifteen-hundred-times-in-twenty-two-seconds</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 22 Jun 2014 00:00:00 +0930</pubDate>
+                    <itunes:author>Clinton Phillips and Rob Griffiths</itunes:author>
+                    <itunes:subtitle>Clinton is joined by Rob Griffiths to discuss the effects of Apple’s aggressive upgrade strategy.</itunes:subtitle>
+                    <itunes:summary>Clinton is joined by Rob Griffiths to discuss the effects of Apple’s aggressive upgrade strategy. We discuss what we didn’t like about Mac OS X 10.7 Lion, why we didn’t upgrade and what it’s like to be version a or two of OS X behind, both from a users’ perspective and a developers’ perspective.</itunes:summary>
+                    <itunes:keywords>Apple, Snow Leopard, Lion, Mavericks, Yosemite, Mac App Store, Upgrades, Sandboxing</itunes:keywords>
+                    <description>&lt;p&gt;On the third episode for Series 3, Clinton is joined by Rob Griffiths to discuss the effects of Apple’s aggressive upgrade strategy. We discuss what we didn’t like about Mac OS X 10.7 Lion, why we didn’t upgrade and what it’s like to be version a or two of OS X behind, both from a users’ perspective and a developers’ perspective.&lt;/p&gt;
+
+&lt;p&gt;Also discussed on the show, our thoughts on Yosemite, problems with the Mac App Store, sandboxing and the benefits and drawbacks of software updates.&lt;/p&gt;
+
+&lt;p&gt;Thanks, for joining me on the show, Rob, I had a great time talking to you.&lt;/p&gt;
+
+&lt;p&gt;You can find Rob on &lt;a href="http://twitter.com/rgriff"&gt;Twitter&lt;/a&gt;, visit his personal site &lt;a href="http://robservatory.com"&gt;Robservatory&lt;/a&gt; and check out &lt;a href="http://thecommitted.tv"&gt;The Committed&lt;/a&gt;, a great podcast Rob hosts with Ian Schray and Kirk McElhearn.&lt;/p&gt;
+
+&lt;p&gt;Rob also works with Peter Maurer at &lt;a href="http://manytricks.com"&gt;Many Tricks&lt;/a&gt; to create great applications and utilities that make working on your Mac easier.&lt;/p&gt;
+
+&lt;h3&gt;Applications by Many Tricks mentioned during the show&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://manytricks.com/moom/"&gt;Moom&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://manytricks.com/witch/"&gt;Witch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://manytricks.com/namemangler/"&gt;Name Mangler&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://manytricks.com/usher/"&gt;Usher&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/scrolling-in-lion.jpg"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/thumbs/scrolling-in-lion.jpg"  /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The dialog box presented to users upon using Lion for the first time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/snow-leopard-expose.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/thumbs/snow-leopard-expose.png"  /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Exposé in Snow Leopard. Note the uniform and orderly arrangement of windows.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/lion-mission-control.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/thumbs/lion-mission-control.png"  /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The muddled mess that is Mission Control in Lion. OMG WHAT IS GOING ON HERE I DON&amp;#8217;T EVEN&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/mission-control-2.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/thumbs/mission-control-2.png"  /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mission Control being helpful.&lt;/p&gt;
+
+&lt;div align="center"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-three/episode-3/finder-icon-comparison.png"  /&gt;&lt;/div&gt;
+
+&lt;p&gt;Above: The Finder icon as shown on Apple&amp;#8217;s &lt;a href="http://www.apple.com/osx/preview/design/"&gt;Yosemite Preview&lt;/a&gt; page. Below: The Finder icon as it appears in Yosemite.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macrumors.com/2011/07/01/booting-os-x-lion-gm-no-welcome-video-new-introduction-to-scrolling/"&gt;Booting OS X Lion GM: No Welcome Video, New Introduction to Scrolling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macbartender.com"&gt;Bartender&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://sparkle.andymatuschak.org"&gt;Sparkle&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/highlights/wouldnt-it-be-nice-to-have-a-video"&gt;Wouldn’t it be Nice to Have a Video?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.panic.com/blog/coda-2-5-and-the-mac-app-store/"&gt;Coda 2.5 And The Mac App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://unarchiver.c3.cx/unarchiver"&gt;The Unarchiver&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-three/This%20Man%20Has%20Tried%20to%20Scroll%20Down%20Fifteen%20Hundred%20Times%20in%20Twenty-Two%20Seconds.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-three/This%20Man%20Has%20Tried%20to%20Scroll%20Down%20Fifteen%20Hundred%20Times%20in%20Twenty-Two%20Seconds.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-three/This%20Man%20Has%20Tried%20to%20Scroll%20Down%20Fifteen%20Hundred%20Times%20in%20Twenty-Two%20Seconds.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-three/This%20Man%20Has%20Tried%20to%20Scroll%20Down%20Fifteen%20Hundred%20Times%20in%20Twenty-Two%20Seconds.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/130183.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/130184/This%20Man%20Has%20Tried%20to%20Scroll%20Down%20Fifteen%20Hundred%20Times%20in%20Twenty-Two%20Seconds.mp3" length="72561459.2" type="audio/mpeg"/>
+                    <itunes:duration> 01:23:05 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Excited For The Future Potential</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/117959</link>
+                    <guid>http://anodisedpodcast.com/podcast/excited-for-the-future-potential</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 08 Jun 2014 00:00:00 +0930</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>Clinton and John discuss all the news to come out of WWDC.</itunes:subtitle>
+                    <itunes:summary>Clinton is once again joined by John Chidgey to discuss all the news to come out of WWDC.</itunes:summary>
+                    <itunes:keywords>Apple, WWDC, Yosemite, iOS 8, Swift, Continuity, HomeKit, HealthKit, Photos For Mac, </itunes:keywords>
+                    <description>&lt;p&gt;Clinton is once again joined by John Chidgey to discuss all the news to come out of WWDC. Including the new presentation format, Craig Federighi&amp;#8217;s presentation style, Tim Cook ragging on Windows 8 and Android, iOS 8 not available on the iPhone 4, Australian place names for OS X releases, OS X Yosemite, Continuity, Photos for Mac, iOS 8, HealthKit, HomeKit and Swift.&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming on the show again, John, it&amp;#8217;s always fun discussing Apple events with you.&lt;/p&gt;
+
+&lt;p&gt;You can follow John on &lt;a href="http://twitter.com/johnchidgey"&gt;Twitter&lt;/a&gt;, don&amp;#8217;t forget to check out his site, &lt;a href="http://techdistortion.com"&gt;TechDistortion&lt;/a&gt; and his Podcast, &lt;a href="http://techdistortion.com/podcasts/pragmatic"&gt;Pragmatic&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/apple-events/june-2014/"&gt;2014 WWDC Keynote&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://techdistortion.com/podcasts/exastential/episode-12-if-i-was-as-clueless-as-rim"&gt;If I Was as Clueless as RIM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/osx/preview/"&gt;OS X Yosemite Preview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://appleseed.apple.com/sp/betaprogram/"&gt;OS X Beta Program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.guidebookgallery.org/screenshots/macosxpb"&gt;Mac OS X Public Beta&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/osx/preview/mac-and-ios/"&gt;Continuity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/ios/ios8/"&gt;iOS 8 Preview&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.damnyouautocorrect.com/archive/"&gt;Damn You Autocorrect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/s2e3"&gt;Half-Baked Ideas And Nonsense&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://techdistortion.com/podcasts/pragmatic/episode-3-turn-the-damn-light-off"&gt;Turn The Damn Light Off&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://developer.apple.com/swift/"&gt;Introducing Swift&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;John&amp;#8217;s Australia Themed OS X Release Names&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/qwcb1"&gt;OS X Mudgeeraba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/sN061"&gt;OS X Mooloolaba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/nRIi8"&gt;OS X Kingaroy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/hR1ap"&gt;OS X Kilkivan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/e1grx"&gt;OS X Barcaldine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/lUzZT"&gt;OS X Meeandah&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Clinton&amp;#8217;s Australia Themed OS X Release Names&lt;/h4&gt;
+
+&lt;p&gt;OS X Oona Whoop Whoop&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/swAE0"&gt;OS X Mungerannie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/Km3HN"&gt;OS X Kondoolka&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/XeUEb"&gt;OS X Strzelecki&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/adyHh"&gt;OS X Minagoona&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/ND85r"&gt;OS X Ediacara&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/Kcgvd"&gt;OS X Pinkawillinie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/ZwpBN"&gt;OS X Buckleboo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/Y4Lqd"&gt;OS X Yumbarra&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/MJlnj"&gt;OS X Wahgunya&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/GXZoU"&gt;OS X Yeagarup&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/3nck8"&gt;OS X Tallaringa&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/1PwPh"&gt;OS X Gundagai&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://goo.gl/maps/VDYRo"&gt;OS X Yackandandah&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Excited%20For%20The%20Future%20Potential.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Excited%20For%20The%20Future%20Potential.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Excited%20For%20The%20Future%20Potential.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Excited%20For%20The%20Future%20Potential.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/117959.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/117960/Excited%20For%20The%20Future%20Potential.mp3" length="104962457.6" type="audio/mpeg"/>
+                    <itunes:duration> 02:15:44 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Back to Ballmer&amp;#8217;s Microsoft</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/100930</link>
+                    <guid>http://anodisedpodcast.com/podcast/back-to-ballmers-microsoft</guid>
+                    <category>article</category>
+                    <pubDate>Fri, 23 May 2014 00:00:00 +0930</pubDate>
+                    <itunes:author>Clinton Phillips and Zac Cichy</itunes:author>
+                    <itunes:subtitle>Clinton is once again joined by Zac Cichy to discuss the recently announced Surface Pro 3.</itunes:subtitle>
+                    <itunes:summary>On the first episode for Series 3, Clinton is once again joined by Zac Cichy to discuss the recently announced Surface Pro 3.</itunes:summary>
+                    <itunes:keywords>Microsoft, Surface Pro 3, Surface RT, Surface Pro 2, Metro</itunes:keywords>
+                    <description>&lt;p&gt;On the first episode for Series 3, Clinton is once again joined by Zac Cichy to discuss the recently announced Surface Pro 3. We discuss the new hardware design, the Surface Pro as a gaming device and the presentation announcing the Surface Pro 3. We also ponder rumours of a smaller Surface tablet, the future of Windows RT and what Microsoft can do to make the Surface line more successful.&lt;/p&gt;
+
+&lt;p&gt;Thanks for joining me on the show again, Zac, always fun to have you on. You can follow Zac on &lt;a href="http://twitter.com/zcichy"&gt;Twitter&lt;/a&gt;. Don&amp;#8217;t forget to check out his site, &lt;a href="http://wholeandpart.com"&gt;Whole And Part&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2014/5/20/5734866/surface-pro-3-hands-on-photos-impressions"&gt;Microsoft Surface Pro 3 hands-on: bigger, thinner, faster&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.pcworld.com/article/2157029/surface-pro-3-by-the-numbers-configuration-detail-deep-dive.html"&gt;Surface Pro 3 by the numbers: a deep dive into configuration details&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.penny-arcade.com/news/post/2014/04/12/my-microsoft-surface-commercial"&gt;My Microsoft Surface Commercial&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote class="twitter-tweet" lang="en"&gt;&lt;p&gt;Ahh. Tone deaf then: &lt;a href="http://t.co/HlvJhQZBh7"&gt;pic.twitter.com/HlvJhQZBh7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Zac Cichy (@zcichy) &lt;a href="https://twitter.com/zcichy/statuses/468915195096866816"&gt;May 21, 2014&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async src="http://anodisedpodcast.com/platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h3&gt;Further reading&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.penny-arcade.com/news/post/2014/05/23/surface-pro-3"&gt;Surface Pro 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.penny-arcade.com/news/post/2014/06/16/surface-pro-3-update"&gt;Surface Pro 3 Update&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Back%20to%20Ballmer's%20Microsoft.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Back%20to%20Ballmer's%20Microsoft.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Back%20to%20Ballmer's%20Microsoft.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-three/Back%20to%20Ballmer's%20Microsoft.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/100930.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/100931/Back%20to%20Ballmer's%20Microsoft.mp3" length="40055603.2" type="audio/mpeg"/>
+                    <itunes:duration> 00:48:16 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>You May Have Too Much Time on Your Hands</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91844</link>
+                    <guid>http://anodisedpodcast.com/podcast/you-may-have-too-much-time-on-your-hands</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 06 Apr 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips, Chris Oaten, Jason Snell, John Chidgey, Matthew JC. Powell and Zac Cichy</itunes:author>
+                    <itunes:subtitle>Yes, it’s time for another end of series outtakes and bloopers episode! Botched intros, interruptions from passers by, Skype dropouts, technical difficulties and more in this action packed episode.</itunes:subtitle>
+                    <itunes:summary>Yes, it’s time for another end of series outtakes and bloopers episode! Botched intros, interruptions from passers by, Skype dropouts, technical difficulties and more in this action packed episode.</itunes:summary>
+                    <itunes:keywords>Outtakes, Bloopers</itunes:keywords>
+                    <description>&lt;p&gt;Yes, it&amp;#8217;s time for another end of series outtakes and bloopers episode! Botched intros, interruptions from passers by, Skype dropouts, technical difficulties and more in this action packed episode.&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/You%20May%20Have%20Too%20Much%20Time%20on%20Your%20Hands.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/You%20May%20Have%20Too%20Much%20Time%20on%20Your%20Hands.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/You%20May%20Have%20Too%20Much%20Time%20on%20Your%20Hands.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/You%20May%20Have%20Too%20Much%20Time%20on%20Your%20Hands.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91844.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86855/You%20May%20Have%20Too%20Much%20Time%20on%20Your%20Hands.mp3" length="20656947.2" type="audio/mpeg"/>
+                    <itunes:duration> 00:36:15 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Less Than Official Means</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91845</link>
+                    <guid>http://anodisedpodcast.com/podcast/less-then-official-means</guid>
+                    <category>article</category>
+                    <pubDate>Sat, 22 Mar 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>Clinton is once again joined by John Chidgey to discuss piracy and Game of Thrones</itunes:subtitle>
+                    <itunes:summary>In our sixth and final episode for series 2, Clinton is once again joined by John Chidgey to discuss piracy and Game of Thrones. Why do people pirate and what lengths to copyright holders go to prevent piracy? Also a mini rant on the Australian release date for The Lego Movie and how much UltraViolet sucks.</itunes:summary>
+                    <itunes:keywords>Foxtel, Piracy, Game of Thrones</itunes:keywords>
+                    <description>&lt;p&gt;In our sixth and final episode for series 2, Clinton is once again joined by John Chidgey to discuss piracy and &lt;em&gt;Game of Thrones&lt;/em&gt;. Why do people pirate and what lengths to copyright holders go to prevent piracy? Also a mini rant on the Australian release date for &lt;em&gt;The Lego Movie&lt;/em&gt; and how much UltraViolet sucks.&lt;/p&gt;
+
+&lt;p&gt;Thanks for coming back on the show, John, always a pleasure to have you on.&lt;/p&gt;
+
+&lt;p&gt;You can follow &lt;a href="http://twitter.com/johnchidgey"&gt;John on Twitter&lt;/a&gt;, check out his site, &lt;a href="http://techdistortion.com"&gt;TechDistortion&lt;/a&gt; and his podcast &lt;a href="http://www.fiatlux.fm/pragmatic/"&gt;Pragmatic&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Limewire"&gt;Limewire&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.fatducktech.com/opinion/digital-content-when-will-aussie-law-catch-up/"&gt;Digital Content: When Will Aussie Law Catch up?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Ascendancy_(video_game)"&gt;Ascendancy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/HDCP"&gt;High-bandwidth Digital Content Protection&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.unsanelygreat.com/blog/2012/5/21/1080p-itunes-movies-itunes-extras-and-the-appletv.html"&gt;1080p iTunes Movies, iTunes Extras and The AppleTV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/SOPA"&gt;Stop Online Piracy Act&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.fatducktech.com/opinion/piracy-lawsuits-in-australia-am-i-at-risk/"&gt;Piracy Lawsuits in Australia: Am I at Risk?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.escapistmagazine.com/news/view/117001-Court-Orders-UK-ISPs-to-Block-Pirate-Bay"&gt;Court Orders UK ISPs to Block Pirate Bay&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2012/2/20/2811837/the-pirate-bay-blocked-uk-high-court"&gt;The Pirate Bay could be blocked in UK after High Court ruling&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theaustralian.com.au/technology/iinet-wins-landmark-copyright-case/story-e6frgakx-1226334090530"&gt;iiNet Wins Landmark Copyright Case Against Hollywood Studios&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.tcs.cam.ac.uk/interviews/0012301-interview-gabe-newell.html"&gt;Interview: Gabe Newell&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In general, we think there is a fundamental misconception about piracy. Piracy is almost always a service problem and not a pricing problem. For example, if a pirate offers a product anywhere in the world, 24 x 7, purchasable from the convenience of your personal computer, and the legal provider says the product is region-locked, will come to your country 3 months after the US release, and can only be purchased at a brick and mortar store, then the pirate&amp;#8217;s service is more valuable. Most DRM solutions diminish the value of the product by either directly restricting a customers use or by creating uncertainty.&lt;/p&gt;
+  
+  &lt;p&gt;Our goal is to create greater service value than pirates, and this has been successful enough for us that piracy is basically a non-issue for our company. For example, prior to entering the Russian market, we were told that Russia was a waste of time because everyone would pirate our products. Russia is now about to become our largest market in Europe.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://torrentfreak.com/game-of-thrones-most-pirated-tv-show-of-2012-121223/"&gt;Game of Thrones Most Pirated TV-Show of 2012&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://torrentfreak.com/game-of-thrones-most-pirated-tv-show-of-2013-131225/"&gt;&amp;#8216;Game of Thrones&amp;#8217; Most Pirated TV-Show of 2013&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.smh.com.au/entertainment/tv-and-radio/downloads-dont-matter-20130226-2f36r.html"&gt;Downloads Don&amp;#8217;t Matter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2013/2/27/4035390/game-of-thrones-director-piracy"&gt;&amp;#8216;Game of Thrones&amp;#8217; Director David Petrarca Shrugs Off Piracy, Says it Doesn&amp;#8217;t Hurt The Show&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techhive.com/article/2032763/game-of-thrones-creators-say-piracy-doesnt-harm-profits.html"&gt;Game of Thrones Creators Say Piracy Doesn&amp;#8217;t Harm Profits&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.unsanelygreat.com/blog/2012/5/4/i-tried-to-watch-game-of-thrones-in-australia-and-this-is-wh.html"&gt;I Tried to Watch Game of Thrones in Australia And This is What&#160;Happened&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.fatducktech.com/opinion/whos-to-blame-for-the-game-of-thrones-foxtel-kerfuffle/"&gt;Game of Thrones Foxtel Kerfuffle: Who’s to Blame?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.foxtel.com.au/shop/packages-and-deals/?execution=e1s1"&gt;Pricing &amp;amp; Plans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.news.com.au/entertainment/tv/game-on-foxtel-takes-on-game-of-thrones-pirates-with-new-cutprice-plan/story-e6frfmyi-1226835839975"&gt;Game on: Foxtel takes on Game of Thrones pirates with new cut-price plan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://youtu.be/pyCDGrPvizQ?t=9m43s"&gt;Mobile World Congress And Foxtel Presto: Vertical Hold&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Further reading&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://torrentfreak.com/game-of-thrones-pirates-break-bittorrent-swarm-record-130401/"&gt;Game of Thrones Pirates Break BitTorrent Swarm Record&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://torrentfreak.com/game-of-thrones-most-pirated-tv-show-of-the-season-120608/"&gt;Game of Thrones Crowned Most Pirated TV-Show of the Season&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.unsanelygreat.com/blog/2012/6/11/game-of-thrones-currently-the-most-pirated-tv-show.html"&gt;Game of Thrones Currently The Most Pirated TV Show&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://torrentfreak.com/whos-pirating-game-of-thrones-and-why-120520/"&gt;Who&amp;#8217;s Pirating Game of Thrones, And Why?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2013/3/21/4131644/game-of-thrones-author-george-r-r-martin-on-piracy-video-games-new-shows-hbo"&gt;&amp;#8216;Game of Thrones&amp;#8217; author George R.R. Martin on piracy, video games, and new shows with HBO&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.unsanelygreat.com/blog/2012/5/13/on-pirate-bay-virgin-media-and-anonymous.html"&gt;On Pirate Bay, Virgin Media And Anonymous&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2013/3/4/4062840/how-tv-networks-are-battling-the-ever-growing-wave-of-piracy"&gt;How TV networks are battling the ever-growing wave of content piracy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.theverge.com/2013/3/6/4072160/hbo-original-content-game-of-thrones-will-air-globally-week-after-us"&gt;HBO making all original series available internationally one week after US broadcast&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techhive.com/article/2030196/hbos-game-of-thrones-broadcast-strategy-aimed-at-thwarting-piracy.html"&gt;HBO&amp;#8217;s Game of Thrones broadcast strategy aimed at thwarting piracy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techhive.com/article/2108800/why-veronica-mars-embraced-ultraviolet-and-angered-fans.html"&gt;Why Veronica Mars embraced UltraViolet and angered fans&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://news.cnet.com/8301-31322_3-57398729-256/ultraviolet-drm-by-any-other-name-still-stinks/"&gt;UltraViolet: DRM by any other name still stinks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.gameplanet.com.au/news/1027932.20130321.DRM-is-far-more-damaging-than-piracy-Super-Meat-Boy-developer/"&gt;DRM is far more damaging than piracy – Super Meat Boy developer&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techhive.com/article/2029476/music-piracy-is-down-a-lesson-for-hollywood.html"&gt;Music piracy is down: A lesson for Hollywood&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://arstechnica.com/business/2013/03/new-research-music-piracy-should-not-be-a-concern-for-copyright-holders/"&gt;New research: music piracy should not be a “concern for copyright holders”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.lifehacker.com.au/2013/06/dont-like-content-exclusivity-get-used-to-it/"&gt;Don&amp;#8217;t Like Content Exclusivity? Get Used To It&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Less%20Than%20Official%20Means.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Less%20Than%20Official%20Means.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Less%20Than%20Official%20Means.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Less%20Than%20Official%20Means.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91845.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86857/Less%20Than%20Official%20Means.mp3" length="43096473.6" type="audio/mpeg"/>
+                    <itunes:duration> 01:13:38 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Grappling With Storage Space</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91846</link>
+                    <guid>http://anodisedpodcast.com/podcast/grappling-with-storage-space</guid>
+                    <category>article</category>
+                    <pubDate>Wed, 12 Mar 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and Chris Oaten</itunes:author>
+                    <itunes:subtitle>On the fifth episode of Series 2, Clinton is joined by Chris Oaten to discuss strategies for managing digital photos and features we’d like to see in Aperture 4.</itunes:subtitle>
+                    <itunes:summary>On the fifth episode of Series 2, Clinton is joined by Chris Oaten to discuss strategies for managing digital photos and features we’d like to see in Aperture 4.</itunes:summary>
+                    <itunes:keywords>Aperture, Lightroom, Apple, Photography, Photo Management</itunes:keywords>
+                    <description>&lt;p&gt;On the fifth episode of Series 2, Clinton is joined by Chris Oaten to discuss strategies for managing digital photos and features we&amp;#8217;d like to see in Aperture 4.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Chris for taking time out of his day to join me on the show, you can find Chris on &lt;a href="https://twitter.com/coaten"&gt;Twitter&lt;/a&gt; and &lt;a href="https://www.facebook.com/christopheroaten"&gt;Facebook&lt;/a&gt;
+ and you can find his work on the &lt;a href="https://www.facebook.com/InsightVisuals"&gt;Insight Visuals Facebook page&lt;/a&gt;
+ and at &lt;a href="http://insightvisuals.fotomerchant.com"&gt;Insight Visuals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And special thanks to &lt;a href="http://twitter.com/badesignco"&gt;Benjamin Alexander&lt;/a&gt; for cleaning up the audio on this episode.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://itunes.apple.com/au/app/aperture/id408981426?mt=12"&gt;Aperture 3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.adobe.com/au/products/photoshop-lightroom.html"&gt;Lightroom 5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://worldtennischallenge.com/photos"&gt;World Tennis Challange&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Grappling%20With%20Storage%20Space.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Grappling%20With%20Storage%20Space.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Grappling%20With%20Storage%20Space.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-two/Grappling%20With%20Storage%20Space.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91846.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86859/Grappling%20With%20Storage%20Space.mp3" length="31247564.8" type="audio/mpeg"/>
+                    <itunes:duration> 00:54:18 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Self-Driving Zeppelin</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91847</link>
+                    <guid>http://anodisedpodcast.com/podcast/self-driving-zeppelin</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 23 Feb 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and Jason Snell</itunes:author>
+                    <itunes:subtitle>Clinton is joined by Jason Snell to discuss the Incomparable, podcasting, the Mac Pro and Google</itunes:subtitle>
+                    <itunes:summary>On the fourth episode of series 2, Clinton is joined by Jason Snell to discuss things related The Incomparable Podcast, including how the panelists find time to consume all the media talked about on the show, the versatility of podcasting as a medium, critiqing art, what qualifies as art, the strengths of different story telling mediums and why superhero comics might be unappealing to new readers.</itunes:summary>
+                    <itunes:keywords>The Incomparable, Podcasting, Apple, Mac Pro, Google, Half Height Mac Pro</itunes:keywords>
+                    <description>&lt;p&gt;On the fourth episode of series 2, Clinton is joined by Jason Snell to discuss things related The Incomparable Podcast, including how the panelists find time to consume all the media talked about on the show, the versatility of podcasting as a medium, critiqing art, what qualifies as art, the strengths of different story telling mediums and why superhero comics might be unappealing to new readers.&lt;/p&gt;
+
+&lt;p&gt;Clinton and Jason also discuss why reading may or may not be important, how liturature should be deployed in schools and Obligatory Shakespere.&lt;/p&gt;
+
+&lt;p&gt;Filling out the tech portion of the show, Jason shares his thoughts on the much rumoured half-height Mac Pro and the tale of two Googles.&lt;/p&gt;
+
+&lt;p&gt;Thanks for joining me on the show, Jason, it was an honour to have you on.&lt;/p&gt;
+
+&lt;p&gt;You can follow &lt;a href="http://twitter.com/jsnell"&gt;Jason on Twitter&lt;/a&gt; and find his work on &lt;a href="http://macworld.com"&gt;Macworld&lt;/a&gt;, &lt;a href="http://pcworld.com"&gt;PCWorld&lt;/a&gt;, &lt;a href="http://greenbot.com"&gt;Greenbot&lt;/a&gt;, &lt;a href="http://techhive.com"&gt;TechHive&lt;/a&gt; and &lt;a href="http://theincomparable.com"&gt;The Incomparable&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://anodised.squarespace.com/bonus-material/20131022squarespace-podcasting-and-social-media"&gt;Squarespace, Podcasting and Social Media&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://5by5.tv/incomparable/183"&gt;How I Sold Your Mother&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://5by5.tv/incomparable/146"&gt;Bashing Two Action Figures Together&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.rogerebert.com/rogers-journal/video-games-can-never-be-art"&gt;Video Games Can Never be Art&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-two/episode-4/art-flowchart.png" alt="http://anodisedpodcast.com/assets/img/podcast/series-two/episode-4/art-flowchart.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Self-Driving%20Zeppelin.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Self-Driving%20Zeppelin.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Self-Driving%20Zeppelin.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Self-Driving%20Zeppelin.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91847.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86861/Self-Driving%20Zeppelin.mp3" length="58825113.6" type="audio/mpeg"/>
+                    <itunes:duration> 01:39:19 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Half-Baked Ideas and Nonsense</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91848</link>
+                    <guid>http://anodisedpodcast.com/podcast/half-baked-ideas-and-nonsense</guid>
+                    <category>article</category>
+                    <pubDate>Tue, 11 Feb 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and Matthew JC. Powell</itunes:author>
+                    <itunes:subtitle>Clinton is joined by Matthew JC. Powell to discuss the Apple rumour mill.</itunes:subtitle>
+                    <itunes:summary>On the third episode of series 2, Clinton is joined by Matthew JC. Powell to discuss the Apple rumour mill and two long standing rumours; the iWatch and the the Apple TV, not to be confused with the AppleTV but the actual Apple TV, the TV by Apple.</itunes:summary>
+                    <itunes:keywords>Apple, iWatch, smart watch, AppleTV</itunes:keywords>
+                    <description>&lt;p&gt;On the third episode of series 2, Clinton is joined by Matthew JC. Powell to discuss the Apple rumour mill and two long standing rumours; the iWatch and the the Apple TV, not to be confused with the AppleTV but the actual Apple TV, the TV by Apple.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Matthew for joining me on this episode, it was great to have you on.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.techhive.com/article/2093248/why-a-health-focused-iwatch-wont-kill-smartwatches-like-the-ipod-killed-audio-players.html"&gt;Why a health-focused iWatch won&amp;#8217;t kill smartwatches like the iPod killed audio players&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Walkman#Network_Walkman"&gt;Sony Network Walkman&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macworld.co.uk/opinion/apple/10-reasons-apple-wont-kill-ipod-3499551/"&gt;10 reasons Apple will and won&amp;#8217;t kill the iPod - is the iPod really doomed?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Half-Baked%20Ideas%20and%20Nonsense.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Half-Baked%20Ideas%20and%20Nonsense.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Half-Baked%20Ideas%20and%20Nonsense.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/Half-Baked%20Ideas%20and%20Nonsense.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91848.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86863/Half-Baked%20Ideas%20and%20Nonsense.mp3" length="44879052.8" type="audio/mpeg"/>
+                    <itunes:duration> 01:16:48 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>The Next Big Input Method is Every Input Method</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91849</link>
+                    <guid>http://anodisedpodcast.com/podcast/the-next-big-input-method-is-every-input-method</guid>
+                    <category>article</category>
+                    <pubDate>Tue, 21 Jan 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and Zac Cichy</itunes:author>
+                    <itunes:subtitle>Clinton is joined by Zac Cichy to discuss the future of gaming.</itunes:subtitle>
+                    <itunes:summary>On the second episode of series 2, Clinton is joined by Zac Cichy to discuss the future of gaming. Will there be another console generation? What can Nintendo do to improve Wii U sales? What will become of Nintendo if it can’t? Why did Apple make a third party controller spec? Will the AppleTV ever be a full-fledged gaming device? Why is Valve moving into the gaming hardware space? What will gamers be like in the future? All these questions and many more will be investigated in this epic two and a half hour long episode of Anodised.</itunes:summary>
+                    <itunes:keywords>Games, Gaming, Nintendo, Wii, Wii U, Xbox, Xbox One, PlayStation 4, Sony, Microsoft, Valve, Steam, SteamOS, Steam Machines, iOS, Apple, Game Controllers, Console Gaming, AppleTV</itunes:keywords>
+                    <description>&lt;p&gt;On the second episode of series 2, Clinton is joined by Zac Cichy to discuss the future of gaming. Will there be another console generation? What can Nintendo do to improve Wii U sales? What will become of Nintendo if it can&amp;#8217;t? Why did Apple make a third party controller spec? Will the AppleTV ever be a full-fledged gaming device? Why is Valve moving into the gaming hardware space? What will gamers be like in the future? All these questions and many more will be investigated in this epic two and a half hour long episode of Anodised.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Zac Cichy for joining me on this episode. You can follow him on &lt;a href="http://twitter.com/zcichy"&gt;Twitter&lt;/a&gt; and &lt;a href="http://alpha.app.net/zcichy"&gt;Alpha&lt;/a&gt;. Don&amp;#8217;t forget to check out his site, &lt;a href="http://wholeandpart.com"&gt;Whole And Part&lt;/a&gt; and his podcast with Andrew J Clark, &lt;a href="http://themenubar.net"&gt;The Menu Bar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Xbox_one"&gt;Xbox One&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Playstation_4"&gt;Playstation 4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Nintendo_Wii_U"&gt;Wii U&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://arstechnica.com/gaming/2014/01/nintendo-slashes-wii-u-sales-projections-predicts-loss/"&gt;Nintendo Slashes Wii U Sales Projections, Predicts Loss&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://ignorethecode.net/blog/2013/09/05/lateral_thinking_with_withered_technology/"&gt;Lateral Thinking With Withered Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Game_Over_(book)"&gt;Game Over by David Sheff&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Virtual_Boy"&gt;Virtual Boy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Donkey_Kong_Country:_Tropical_Freeze"&gt;Donkey Kong Country: Tropical Freeze&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Hyrule_Warriors"&gt;Hyrule Warriors&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Panzer_Dragoon_Saga"&gt;Panzer Dragoon Saga&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.asymco.com/2013/09/09/game-over/"&gt;Game Over&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://developer.apple.com/library/ios/documentation/ServicesDiscovery/Conceptual/GameControllerPG/Introduction/Introduction.html"&gt;Game Controller Programming Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.mogaanywhere.com/ace/"&gt;MOGA Ace Power&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://gaming.logitech.com/en-au/product/powershell-controller-and-battery"&gt;Logitech PowerShell&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://steelseries.com/products/controllers/steelseries-stratus-wireless-gaming-controller"&gt;SteelSeries Stratus&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.steampowered.com/app/221100/"&gt;DayZ Standalone&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://games.on.net/2014/01/dayz-standalone-rule-chernarus-with-these-gameplay-tips/"&gt;DayZ Standalone: Rule Chernarus with these gameplay tips&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://arstechnica.com/gaming/2012/07/the-healing-touch-dr-wasteland-brings-hope-to-day-zs-grim-world/"&gt;Paging Dr. Wasteland: One man’s crusade to heal DayZ’s zombie victims&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.kotaku.com.au/2014/01/dayz-will-make-you-want-to-kill-yourself/"&gt;DayZ Spurs Mass in-Game Suicide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=g72MWMCs5V4"&gt;DayZ Suicide Prevention Services&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.steampowered.com/livingroom/SteamOS/"&gt;SteamOS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://itunes.apple.com/au/app/republique/id687888390?mt=8"&gt;Republique&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;BioShock Infinite — Get it from &lt;a href="http://store.steampowered.com/app/8870/?snr=1_7_15__13"&gt;Steam&lt;/a&gt; or the &lt;a href="https://itunes.apple.com/au/app/bioshock-infinite/id658448783?mt=12"&gt;Mac App Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/The%20Next%20Big%20Input%20Method%20is%20Every%20Input%20Method.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/The%20Next%20Big%20Input%20Method%20is%20Every%20Input%20Method.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/The%20Next%20Big%20Input%20Method%20is%20Every%20Input%20Method.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/The%20Next%20Big%20Input%20Method%20is%20Every%20Input%20Method.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91849.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86865/The%20Next%20Big%20Input%20Method%20is%20Every%20Input%20Method.mp3" length="90282393.6" type="audio/mpeg"/>
+                    <itunes:duration> 02:34:01 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>You&amp;#8217;re Licking it Wrong</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91850</link>
+                    <guid>http://anodisedpodcast.com/podcast/youre-licking-it-wrong</guid>
+                    <category>article</category>
+                    <pubDate>Sat, 04 Jan 2014 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>Clinton is joined by John Chidgey to discuss Apple’s recent hardware releases.</itunes:subtitle>
+                    <itunes:summary>On the first episode for Series 2, Clinton is joined by John Chidgey to revisit the iPhone 5S, iPad Air, iPad mini and Mac Pro. We also speculate on the future of the Mac mini.</itunes:summary>
+                    <itunes:keywords>iPad, iPad Air, iPad mini, Mac Pro, iPhone 5S, iPhone, Apple, Half Height Mac Pro</itunes:keywords>
+                    <description>&lt;p&gt;On the first episode for Series 2, Clinton is joined by John Chidgey to revisit the iPhone 5S, iPad Air, iPad mini and Mac Pro. We also speculate on the future of the Mac mini.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/1"&gt;Insert Paranoid Delusion Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/3"&gt;Pencils&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/bonus-material/johns-gold-iphone-5s"&gt;John&amp;#8217;s Gold iPhone 5S&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.fiatlux.fm/pragmatic/faradays-cage"&gt;Faraday&amp;#8217;s Cage&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://podcast.techdistortion.com/wp/the-exastential-podcast/episode-7-you-could-tell-it-was-sunny-from-looking-at-the-photo/"&gt;You Could Tell it Was Sunny From Looking at The Photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.anandtech.com/show/7603/mac-pro-review-late-2013"&gt;The Mac Pro Review (Late 2013)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macworld.com/article/2082210/podcast-the-new-mac-pro.html"&gt;The New Mac Pro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://hypercritical.co/2013/03/08/the-case-for-a-true-mac-pro-successor"&gt;The Case For a True Mac Pro Successor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/You're%20Licking%20it%20Wrong.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/You're%20Licking%20it%20Wrong.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/You're%20Licking%20it%20Wrong.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-two/You're%20Licking%20it%20Wrong.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91850.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86867/You're%20Licking%20it%20Wrong.mp3" length="41838182.4" type="audio/mpeg"/>
+                    <itunes:duration> 01:13:43 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>So Super Needy</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91851</link>
+                    <guid>http://anodisedpodcast.com/podcast/so-super-needy</guid>
+                    <category>article</category>
+                    <pubDate>Wed, 25 Dec 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>As a special treat for the listeners we have complied all the outtakes and bloopers from series one of Anodised into a single episode for your enjoyment. We hope you like it and please rate us on iTunes!</itunes:subtitle>
+                    <itunes:summary>As a special treat for the listeners we have complied all the outtakes and bloopers from series one of Anodised into a single episode for your enjoyment. We hope you like it and please rate us on iTunes!</itunes:summary>
+                    <itunes:keywords>Outtakes, Bloopers</itunes:keywords>
+                    <description>&lt;p&gt;As a special treat for the listeners we have complied all the outtakes and bloopers from series one of Anodised into a single episode for your enjoyment. We hope you like it and &lt;a href="https://itunes.apple.com/au/podcast/anodised/id717831227?mt=2"&gt;please rate us on iTunes&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/So%20Super%20Needy.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/So%20Super%20Needy.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/So%20Super%20Needy.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/So%20Super%20Needy.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91851.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86869/So%20Super%20Needy.mp3" length="25270681.6" type="audio/mpeg"/>
+                    <itunes:duration> 00:40:01 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Bad Memories Come Flooding Back</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91852</link>
+                    <guid>http://anodisedpodcast.com/podcast/bad-memories-come-flooding-back</guid>
+                    <category>article</category>
+                    <pubDate>Sat, 07 Dec 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>Clinton and John discuss the iOS App Store and the Mac App Store.</itunes:subtitle>
+                    <itunes:summary>In our sixth and final episode of series one, Clinton and John discuss the iOS App Store and the Mac App Store. We talk about the benefits of the App Stores, the challenges of being on the App Store, the evils of in-App Purchases, the lack of trials and demos, the information developers can display on the App Store and difficulties browsing the App Store.</itunes:summary>
+                    <itunes:keywords>Mac App Store, iOS App Store, iOS, OS X, Apple</itunes:keywords>
+                    <description>&lt;p&gt;In our sixth and final episode of series one, Clinton and John discuss the iOS App Store and the Mac App Store. We talk about the benefits of the App Stores, the challenges of being on the App Store, the evils of in-App Purchases, the lack of trials and demos, the information developers can display on the App Store and difficulties browsing the App Store.&lt;/p&gt;
+
+&lt;p&gt;Anodised is going on hiatus over the Christmas period, we&amp;#8217;ll be back with all new episodes in the new year.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://au.ign.com/articles/2013/12/05/man-pays-750-450-for-xbox-one-photo-in-ebay-scam"&gt;Man Pays $750 / £450 for Xbox One Photo in eBay Scam&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macworld.com/article/2032847/a-5-app-isnt-expensive-customers-need-to-help-fix-the-app-store-economy.html#lsrc.twt_lexfri_app"&gt;A $5 app isn&amp;#8217;t expensive: Customers need to help fix the App Store economy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://alpha.app.net/lexfri/post/4489151"&gt;Clinton&amp;#8217;s conversation with Lex Friedman regarding app pricing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Screenshots of the App Stores for posterity:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/iphone-appstore.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/iphone-appstore.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/ipad-appstore-wide.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/ipad-appstore-wide.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/ipad-appstore-tall.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/ipad-appstore-tall.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/itunes-appstore-wide.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/itunes-appstore-wide.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/itunes-appstore-tall-1.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/itunes-appstore-tall-1.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/itunes-appstore-tall-2.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/itunes-appstore-tall-2.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/mac-appstore-wide-1.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/mac-appstore-wide-1.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/mac-appstore-tall-1.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/mac-appstore-tall-1.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/mac-appstore-wide-2.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/mac-appstore-wide-2.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/mac-appstore-tall-2.png"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/mac-appstore-tall-2.png"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/clinton-human-interface.jpg"&gt;&lt;img src="http://anodisedpodcast.com/assets/img/podcast/series-one/episode-6/thumbs/clinton-human-interface.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/Bad%20Memories%20Come%20Flooding%20Back.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/Bad%20Memories%20Come%20Flooding%20Back.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/Bad%20Memories%20Come%20Flooding%20Back.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/http://anodised-podcast.s3.amazonaws.com/series-one/Bad%20Memories%20Come%20Flooding%20Back.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91852.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86871/Bad%20Memories%20Come%20Flooding%20Back.mp3" length="49178214.4" type="audio/mpeg"/>
+                    <itunes:duration> 01:22:13 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Stab it Till It&amp;#8217;s Dead</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91853</link>
+                    <guid>http://anodisedpodcast.com/podcast/stab-it-till-its-dead</guid>
+                    <category>article</category>
+                    <pubDate>Tue, 26 Nov 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and Benjamin Alexander</itunes:author>
+                    <itunes:subtitle>Clinton is joined by Benjamin Alexander to discuss people and technology</itunes:subtitle>
+                    <itunes:summary>In our fifth episode, Clinton is joined by special guest Benjamin Alexander to discuss people and technology. Specifically, ‘what do we think of as technology’, ‘why are some people more adept at using technology than others’, ‘will there ever be a point when people such as ourselves struggle with future technologies’, and ‘how can technically proficient people learn to be better teachers?’</itunes:summary>
+                    <itunes:keywords>Technology</itunes:keywords>
+                    <description>&lt;p&gt;In our fifth episode, Clinton is joined by special guest &lt;a href="http://twitter.com/badesignco"&gt;Benjamin Alexander&lt;/a&gt; to discuss people and technology. Specifically, ‘what do we think of as technology’, ‘why are some people more adept at using technology than others’, ‘will there ever be a point when people such as ourselves struggle with future technologies’, and ‘how can technically proficient people learn to be better teachers?’&lt;/p&gt;
+
+&lt;p&gt;Thanks to Ben for joining me on the show, it was great to have you on.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://upwardsmomentum.com/2012/04/28/tools-vs-technology/"&gt;Tools vs Technology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.dailymotion.com/video/x557tg_nick-burns-your-company-s-computer_fun"&gt;Nick Burns: Your Company&amp;#8217;s Computer Guy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Learned_helplessness"&gt;Learned Helplessness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Learned_industriousness"&gt;Learned Industriousness&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/Four_stages_of_competence"&gt;Four Stages of Competence&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://c2.com/cgi/wiki?FeynmanAlgorithm"&gt;Feynman Algorithm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://constellation.fm/"&gt;Constellation&lt;/a&gt; — Ben’s very own podcasting network featuring some really great shows including &lt;a href="http://constellation.fm/shows/pragmatic"&gt;Pragmatic&lt;/a&gt;, a new show with Anodised recurring guest John Chidgey.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.unsanelygreat.com/blog/2013/11/29/dont-grab-the-mouse.html"&gt;Don&amp;#8217;t Grab The Mouse&lt;/a&gt; — Clinton&amp;#8217;s follow-up post for this episode&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Stab%20it%20Till%20It's%20Dead.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Stab%20it%20Till%20It's%20Dead.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Stab%20it%20Till%20It's%20Dead.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Stab%20it%20Till%20It's%20Dead.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91853.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86873/Stab%20it%20Till%20It's%20Dead.mp3" length="62180556.8" type="audio/mpeg"/>
+                    <itunes:duration> 01:28:06 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>I&amp;#8217;m Being Burped to Death</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91854</link>
+                    <guid>http://anodisedpodcast.com/podcast/im-being-burped-to-death</guid>
+                    <category>article</category>
+                    <pubDate>Mon, 11 Nov 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>In our fourth episode, Clinton and John talk about games they’ve played and discuss what makes someone a gamer.</itunes:subtitle>
+                    <itunes:summary>In our fourth episode, Clinton and John talk about games they’ve played and discuss what makes someone a gamer.</itunes:summary>
+                    <itunes:keywords>Games, Gaming, Gamers</itunes:keywords>
+                    <description>&lt;p&gt;In our fourth episode, Clinton and John talk about games they&amp;#8217;ve played and discuss what makes someone a gamer.&lt;/p&gt;
+
+&lt;p&gt;John also has a mini rant about Nintendo.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://knowyourmeme.com/memes/the-glorious-pc-gaming-master-race"&gt;The Glorious PC Gaming Master Race&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Games John has played:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lots of Atari games&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_Bros."&gt;Super Mario Bros.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_Bros._2"&gt;Super Mario Bros. 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_Bros._3"&gt;Super Mario Bros. 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_World"&gt;Super Mario World&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Star_Fox_(video_game)"&gt;Starfox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Turok:_Dinosaur_Hunter"&gt;Turok&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel"&gt;Police Quest: In Pursuit of The Death Angel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance"&gt;Police Quest II: The Vengance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Police_Quest_III:_The_Kindred"&gt;Police Quest III: The Kindred&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter"&gt;Space Quest: The Sarien Encounter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Space_Quest_III"&gt;Space Quest III: The Pirates of Pestulon&lt;/a&gt; — &lt;a href="http://www.youtube.com/watch?v=KyGSNL18SIc"&gt;Let&amp;#8217;s Play And Also Drown Out Space Quest 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Space_Quest_II:_Chapter_II_-_Vohaul%27s_Revenge"&gt;Space QuestII: Vohauls&amp;#8217;s Revenge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Leisure_Suit_Larry_in_the_Land_of_the_Lounge_Lizards"&gt;Leisure Suit Larry in The Land of The Lounge Lizards&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Leisure_Suit_Larry_Goes_Looking_for_Love_(in_Several_Wrong_Places)"&gt;Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Leisure_Suit_Larry_III:_Passionate_Patti_in_Pursuit_of_the_Pulsating_Pectorals"&gt;Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)"&gt;Sonic the Hedgehog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Legend_of_Zelda:_Ocarina_of_Time"&gt;Legend of Zelda: Ocarina of Time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask"&gt;Legend of Zelda: Majoras Mask&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Wolfenstein_3D"&gt;Wolfenstein 3D&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Doom_(video_game)"&gt;Doom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth"&gt;Doom II: Hell on Earth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://doom.wikia.com/wiki/Ultimate_Simpsons_Doom"&gt;Simpsons Doom&lt;/a&gt; — Gameplay footage of &lt;a href="http://www.youtube.com/watch?v=6ZLN4WOS1Ts"&gt;Simpsons Doom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Quake_(video_game)"&gt;Quake&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Loom_(video_game)"&gt;Loom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Donkey_Kong_Country"&gt;Donkey Kong Country&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mario_64"&gt;Mario 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mario_Kart_64"&gt;Mario Kart 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/SimCity_2000"&gt;SimCity 2000&lt;/a&gt; — Get it from &lt;a href="http://www.gog.com/game/simcity_2000_special_edition"&gt;Good Old Games&lt;/a&gt; — Get it from &lt;a href="http://main.system7today.com/gaming_fv.html"&gt;System 7 Today&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Lemmings_(video_game)"&gt;Lemmings&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/lemmings-oh-no-more-lemmings"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Microsoft_Flight_Simulator"&gt;Microsoft Flight Simulator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Need_for_Speed"&gt;The Need For Speed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Need_for_Speed_II"&gt;Need For Speed II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Force_Unleashed"&gt;Star Wars: The Force Unleashed&lt;/a&gt; — &lt;a href="http://store.steampowered.com/app/32430/?snr=1_7_15__13"&gt;Steam&lt;/a&gt; — &lt;a href="https://itunes.apple.com/au/app/star-wars-the-force-unleashed/id515003911?mt=12"&gt;Get it from the Mac App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Crysis_2"&gt;Crysis 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Duke_Nukem_3D"&gt;Duke Nukem 3D&lt;/a&gt; — &lt;a href="http://store.steampowered.com/app/225140/?snr=1_7_7_151_150_1"&gt;Get it from Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Duke_Nukem_Forever"&gt;Duke Nukem Forever&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/agecheck/app/57900/"&gt;Steam&lt;/a&gt; — Get it from the &lt;a href="https://itunes.apple.com/au/app/duke-nukem-forever/id461019864?mt=12"&gt;Mac App Store&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Games Clinton has played:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Donkey Kong Country&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Donkey_Kong_Country_2:_Diddy%27s_Kong_Quest"&gt;Donkey Kong Country 2: Diddy&amp;#8217;s Kong Quest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Donkey_Kong_Country_3:_Dixie_Kong%27s_Double_Trouble!"&gt;Donkey Kong Country 3: Dixie&amp;#8217;s Double Trouble&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_World_2:_Yoshi%27s_Island"&gt;Super Mario World 2: Yoshi&amp;#8217;s Island&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Super_Mario_Kart"&gt;Super Mario Kart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Donald_in_Maui_Mallard"&gt;Donald in Maui Mallard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mario_Paint"&gt;Mario Paint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mario_Kart_64"&gt;Mario Kart 64&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Descent_(video_game)"&gt;Descent&lt;/a&gt; — &lt;a href="http://www.gog.com/game/descent_1_descent_2"&gt;Get Descent and Descent II from Good Old Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Descent_II"&gt;Descent II&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Myth:_The_Fallen_Lords"&gt;Myth: The Fallen Lords&lt;/a&gt; — &lt;a href="http://tain.totalcodex.net/items/show/myth-tfl-1-5-mac"&gt;Get the patches from The Tain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Myth_II:_Soulblighter"&gt;Myth II: Soulblighter&lt;/a&gt; — &lt;a href="http://tain.totalcodex.net/items/show/myth-ii-1-8-mac-os-x"&gt;Get the patches from The Tain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Myth_III:_The_Wolf_Age"&gt;Myth III: The Wolf Age&lt;/a&gt; — &lt;a href="http://tain.totalcodex.net/items/show/myth-iii-1-3-1-patch-mac"&gt;Get the patches from The Tain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SimCity 2000&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Age_of_Empires_(video_game)"&gt;Age of Empires&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Age_of_Empires_II:_The_Age_of_Kings"&gt;Age of Empires II&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/221380/?snr=1_7_15__13"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Star_Wars_Dark_Forces"&gt;Star Wars: Dark Forces&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/32400/?snr=1_7_15__13"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mars Rising — Get it from &lt;a href="http://www.ambrosiasw.com/games/mr/"&gt;Ambrosia Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Deimos Rising — Get it from &lt;a href="http://www.ambrosiasw.com/games/dr/"&gt;Ambrosia Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;F/A 18 Hornet — Get it from &lt;a href="http://macintoshgarden.org/games/fa-18-hornet"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BeamWars — Get it from &lt;a href="http://macintoshgarden.org/games/beamwars"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tomb_Raider_II"&gt;Tomb Raider II&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/225300/"&gt;Steam&lt;/a&gt; — Get it from the &lt;a href="https://itunes.apple.com/au/app/tomb-raider-ii/id462324231?mt=12"&gt;Mac App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Spectre_Challenger"&gt;Spectre Challenger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Callisto_Corporation"&gt;Spin Doctor&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/spin-doctor"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Glider_Pro"&gt;Glider Pro&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/glider-pro"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Callisto_Corporation"&gt;Super Maze Wars&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/super-maze-wars"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Casady_%26_Greene"&gt;Spaceway 2000&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/spaceway-2000"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Lode_runner"&gt;Lode Runner&lt;/a&gt; — Get it from &lt;a href="http://macintoshgarden.org/games/lode-runner"&gt;Macintosh Garden&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lemmings&lt;/li&gt;
+&lt;li&gt;Microsoft Flight Simulator&lt;/li&gt;
+&lt;li&gt;Need For Speed&lt;/li&gt;
+&lt;li&gt;Need For Speed II&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Moto_racer"&gt;Moto Racer&lt;/a&gt; — Get it from &lt;a href="http://www.gog.com/game/moto_racer"&gt;Good Old Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Moto_Racer_2"&gt;Moto Racer 2&lt;/a&gt; — Get it from &lt;a href="http://www.gog.com/game/moto_racer_2"&gt;Good Old Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Gunpoint_(video_game)"&gt;Gunpoint&lt;/a&gt; — Get it from the &lt;a href="http://gunpointgame.com"&gt;developer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Braid_game"&gt;Braid&lt;/a&gt; — &lt;a href="http://braid-game.com"&gt;Braid&lt;/a&gt; — Get it from the &lt;a href="https://itunes.apple.com/au/app/braid/id411902645?mt=12"&gt;Mac App Store&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Black_Mesa_(video_game)"&gt;Black Mesa&lt;/a&gt; — Get it from &lt;a href="http://www.blackmesasource.com"&gt;Black Mesa Source&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Half-Life_(video_game)"&gt;Half-Life&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/70/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Half-Life_2"&gt;Half-Life 2&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/220/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Half-Life_2:_Episode_One"&gt;Half-Life 2: Episode 1&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/380/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Half-Life_2:_Episode_Two"&gt;Half-Life 2: Episode 2&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/420/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Portal_(video_game)"&gt;Portal&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/400/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Portal_2"&gt;Portal 2&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/620/?snr=1_7_7_151_150_1"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Darwinia_(video_game)"&gt;Darwinia&lt;/a&gt; — Get it from &lt;a href="http://www.ambrosiasw.com/games/darwinia/"&gt;Ambrosia Software&lt;/a&gt; — Get it from &lt;a href="http://www.introversion.co.uk/darwinia/"&gt;Introversion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Multiwinia"&gt;Multiwinia&lt;/a&gt; — Get it from &lt;a href="http://www.ambrosiasw.com/games/multiwinia/"&gt;Ambrosia Software&lt;/a&gt; — Get it from &lt;a href="http://www.introversion.co.uk/multiwinia/"&gt;Introversion&lt;/a&gt; — Get it from &lt;a href="http://www.gog.com/game/multiwinia"&gt;Good Old Games&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Force Unleashed&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Raskulls"&gt;Raskulls&lt;/a&gt; — Get it from &lt;a href="http://marketplace.xbox.com/en-AU/Product/Raskulls/66acd000-77fe-1000-9115-d80258410920"&gt;Xbox Live Arcade&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Crysis 2&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Crysis_3"&gt;Crysis 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo:_Combat_Evolved"&gt;Halo: Combat Evolved&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo:_Combat_Evolved_Anniversary"&gt;Halo: Combat Evolved Anniversary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo_2"&gt;Halo 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo_3"&gt;Halo 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo:_Reach"&gt;Halo Reach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Halo_4"&gt;Halo 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/BioShock_Infinite"&gt;BioShock Infinite&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/app/8870/?snr=1_7_15__13"&gt;Steam&lt;/a&gt; — Get it from the &lt;a href="https://itunes.apple.com/au/app/bioshock-infinite/id658448783?mt=12"&gt;Mac App Store&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)"&gt;Tomb Raider&lt;/a&gt; — Get it from &lt;a href="http://store.steampowered.com/agecheck/app/203160/"&gt;Steam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto_V"&gt;Grand Theft Auto V&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Duke Nukem Forever&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Aliens_vs._Predator_(video_game)"&gt;Alien vs Predator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/I'm%20Being%20Burped%20to%20Death.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/I'm%20Being%20Burped%20to%20Death.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/I'm%20Being%20Burped%20to%20Death.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/I'm%20Being%20Burped%20to%20Death.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91854.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86875/I'm%20Being%20Burped%20to%20Death.mp3" length="62390272" type="audio/mpeg"/>
+                    <itunes:duration> 01:23:16 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Pencils</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91855</link>
+                    <guid>http://anodisedpodcast.com/podcast/Pencils</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 27 Oct 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>In out third episode, Clinton and John talk about pencils.</itunes:subtitle>
+                    <itunes:summary>In our third episode, Clinton and John talk about pencils.</itunes:summary>
+                    <itunes:keywords>Apple, iPad Air, iPad mini, Mac Pro, MacBook Pro, Mavericks, iLife, iPhoto, iMovie, GarageBand, iWork, Pages, Numbers, Keynote</itunes:keywords>
+                    <description>&lt;p&gt;In our third episode, Clinton and John talk about pencils.&lt;/p&gt;
+
+&lt;p&gt;Pencils really are amazing, they&amp;#8217;re extremely simple tools that can be used to start poems or finish symphonies. They&amp;#8217;re used to illustrate things, solve problems and think of new things. Pencils have transformed the way we work, learn, create and share. Pencils are used by scientists, artists, scholars, and students. They&amp;#8217;ve have been to classrooms, boardrooms, expeditions, they&amp;#8217;ve even been to space. Pencils are extremely powerful tools and that&amp;#8217;s why we decided to dedicate an entire episode to them.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=o9gLqh8tmPA"&gt;iPad Air ad&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.apple.com/au/ipad/compare"&gt;iPad model comparison&lt;/a&gt; — Australian pricing and specs&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://anodisedpodcast.com/1"&gt;Insert Paranoid Delusion Here&lt;/a&gt; — Listen back for John&amp;#8217;s iPad predictions and our rant on device capacities&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.localytics.com/blog/2013/is-the-iphone-5c-catching-up-and-what-to-expect-from-apples-1022-ipad-launch/"&gt;iPhone 5c Narrowing 5s’ Lead and What to Expect From Apple’s 10/22 iPad Launch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techdistortion.com/wp/archives/1265"&gt;Tablet Laptops: You Can&amp;#8217;t Fight Physics&lt;/a&gt; — John&amp;#8217;s article on iPad keyboards&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.apple.com/au/buy-mac/mac-pro"&gt;Mac Pro&lt;/a&gt; — Australian pricing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.apple.com/us/buy-mac/mac-pro"&gt;Mac Pro&lt;/a&gt; — US pricing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/mac-pro/video/#assembly"&gt;Making the all-new Mac Pro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://youtu.be/pkvQ-BJD2rU"&gt;Burning a NeXT Cube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://store.apple.com/au/buy-mac/macbook-pro"&gt;MacBook Pro model comparison&lt;/a&gt; — Australian pricing&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/osx/whats-new/"&gt;What&amp;#8217;s new in OS X Mavericks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/osx/whats-new/features.html"&gt;200+ Features in Mavericks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://podcast.techdistortion.com/wp/category/the-exastential-podcast/"&gt;Exastential&lt;/a&gt; — Clinton and John&amp;#8217;s previous podcasting effort&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Pencils.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Pencils.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Pencils.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Pencils.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91855.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86877/Pencils.mp3" length="54735667.2" type="audio/mpeg"/>
+                    <itunes:duration> 01:14:01 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Poor Defenceless Discs</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91856</link>
+                    <guid>http://anodisedpodcast.com/podcast/poor-defenceless-discs</guid>
+                    <category>article</category>
+                    <pubDate>Tue, 15 Oct 2013 00:00:00 +1030</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>In our second episode, Clinton and John discuss the digital media landscape.</itunes:subtitle>
+                    <itunes:summary>In our second episode, Clinton and John discuss the digital media landscape. There are so many options avaialble to consumers for digitally distributed content but is this much choice a good thing? Is it creating competition that benefits the customers or are the hardware giants using media as a form of platform lock-in?</itunes:summary>
+                    <itunes:keywords>iTunes, Apple, Microsoft, Amazon, Google, eBooks, Movies, Music</itunes:keywords>
+                    <description>&lt;p&gt;In our second episode, Clinton and John discuss the digital media landscape. There are so many options avaialble to consumers for digitally distributed content but is this much choice a good thing? Is it creating competition that benefits the customers or are the hardware giants using media as a form of platform lock-in?&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;Movie pricing comparison table. (Embedded Google Docs Spreadsheet)&lt;/p&gt;
+
+&lt;iframe width='640' height='350' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AnZvjPvXtVqzdDNxOHBHZ1ZqRksteEw0cm9oYXY3enc&amp;single=true&amp;gid=0&amp;output=html&amp;widget=true'&gt;&lt;/iframe&gt;
+
+&lt;p&gt;All pricing in Australian Dollars.&lt;/br&gt;
+Pricing surveyed between 7/10/13 and 11/10/13.&lt;/br&gt;
+No special prices listed.&lt;/br&gt;
+High defintion versions unless stated otherwise.&lt;/br&gt;
+Purchase price unless stated otherwise.&lt;/br&gt;
+Blu-ray pricing unless stated otherwise.&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Poor%20Defenceless%20Discs.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Poor%20Defenceless%20Discs.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Poor%20Defenceless%20Discs.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Poor%20Defenceless%20Discs.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91856.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86879/Poor%20Defenceless%20Discs.mp3" length="62495129.6" type="audio/mpeg"/>
+                    <itunes:duration> 00:56:58 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+				<!-- begin partials/feed-item-mp3 -->
+                <item>
+                    <title>Insert Paranoid Delusion Here</title>
+                    <author>contact@anodisedpodcast.com (Clinton Phillips)</author>
+                    <link>http://tracking.feedpress.it/link/7455/91857</link>
+                    <guid>http://anodisedpodcast.com/podcast/insert-paranoid-delusion-here</guid>
+                    <category>article</category>
+                    <pubDate>Sun, 29 Sep 2013 00:00:00 +0930</pubDate>
+                    <itunes:author>Clinton Phillips and John Chidgey</itunes:author>
+                    <itunes:subtitle>Clinton and John discuss the recently released iPhone 5S, iPhone 5C and iOS 7.</itunes:subtitle>
+                    <itunes:summary>In our first episode, Clinton and John discuss the recently released iPhone 5S, iPhone 5C and iOS 7. Also discussed, which features from the newly released iPhones will make their way into yet-to-be-announced iPads.</itunes:summary>
+                    <itunes:keywords>iPhone 5S, iPhone 5C, iPhone, iPad, Apple, iOS 7, iOS</itunes:keywords>
+                    <description>&lt;p&gt;In our first episode, Clinton and John discuss the recently released iPhone 5S, iPhone 5C and iOS 7. Also discussed, which features from the newly released iPhones will make their way into yet-to-be-announced iPads.&lt;/p&gt;
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="http://www.macrumors.com/2013/09/22/chaos-computer-club-bypasses-apples-touch-id-system/"&gt;Chaos Computer Club Bypasses Apple&amp;#8217;s Touch ID System (with copy of original fingerprint)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.tuaw.com/2013/09/23/fooling-touch-id-may-be-possible-but-calling-it-easy-is-a-bol/"&gt;Fooling Touch ID may be possible, but calling it &amp;#8216;easy&amp;#8217; is a bold-faced lie&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://arstechnica.com/security/2013/09/touchid-hack-was-no-challenge-at-all-hacker-tells-ars/"&gt;Bypassing TouchID was “no challenge at all,” hacker tells Ars&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.techdistortion.com/wp/archives/1202"&gt;Lifting Prints And Watching Code&lt;/a&gt; — John&amp;#8217;s article on fooling Touch ID&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.engadget.com/2013/09/13/visualized-canon-35mm-cmos-sensor-fireflies/"&gt;Visualized: Canon 35mm CMOS sensor captures fireflies in HD (video)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.macworld.com/article/2049249/make-ios-7-less-nausea-inducing.html"&gt;Make iOS 7 less nausea-inducing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/iphone-5s/"&gt;iPhone 5S&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/iphone-5c/"&gt;iPhone 5C&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.apple.com/au/ios/"&gt;iOS 7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- begin partials/audio --&gt;
+&lt;div class="audio-links"&gt;&lt;p&gt;&lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Insert%20Paranoid%20Delusion%20Here.m4a"&gt;Download AAC&lt;/a&gt; | &lt;a href="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Insert%20Paranoid%20Delusion%20Here.mp3"&gt;Download MP3&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;audio controls preload="metadata"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Insert%20Paranoid%20Delusion%20Here.m4a" type="audio/x-aac"&gt;
+	&lt;source src="http://media.blubrry.com/anodised/anodised-podcast.s3.amazonaws.com/series-one/Insert%20Paranoid%20Delusion%20Here.mp3" type="audio/mpeg"&gt;
+&lt;/audio&gt;
+&lt;!-- end partials/audio --&gt;&lt;/p&gt;﻿&lt;img src="http://feedpress.me/7455/91857.gif" height="1" width="1"/&gt;</description>
+                    <enclosure url="http://tracking.feedpress.it/link/7455/86881/Insert%20Paranoid%20Delusion%20Here.mp3" length="97307852.8" type="audio/mpeg"/>
+                    <itunes:duration> 01:28:40 </itunes:duration>
+                </item>
+<!-- end partials/feed-item-mp3 -->
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

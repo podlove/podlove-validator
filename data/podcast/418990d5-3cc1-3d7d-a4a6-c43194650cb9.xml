@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:43:44 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:42:44 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=osbz5ixxh4huznrpbzt0pr30; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:42:44 GMT"/>
+        <httpclient:header name="Content-Length" value="19134"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/12202</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/12202" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:42:44 GMT</lastBuildDate>
+                <image>
+                    <title>P1 Morgon</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=1650</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/1650/3282697_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Morgonmagasin i P1</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>P1 Morgon</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>P1 Morgon</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=1650</link>
+                <description>Morgonmagasin i P1</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>P1-morgon 20140820 05:59</title>
+                    <description>Med Erika Mårtensson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049366.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140820_0559.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Erika Mårtensson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140820,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049366.mp3" length="193051098" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140819 05:59</title>
+                    <description>Med Anna Hernek.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047955.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140819_0559.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Anna Hernek.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140819,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047955.mp3" length="193045236" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140818 05:59</title>
+                    <description>Med Erika Mårtensson.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046709.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140818_0559.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Erika Mårtensson.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140818,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046709.mp3" length="192706038" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140815 05:59</title>
+                    <description>Med Marie-Caroline Biver.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044523.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140815_0559.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Marie-Caroline Biver.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140815,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044523.mp3" length="173762289" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140814 05:59</title>
+                    <description>Med Johar Bendjelloul.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043278.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140814_0559.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Johar Bendjelloul.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140814,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043278.mp3" length="173768135" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140813 05:59</title>
+                    <description>Med Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042008.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140813_0559.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140813,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042008.mp3" length="173768139" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140812 05:59</title>
+                    <description>Med Marie-Caroline Biver.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040772.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140812_0559.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Marie-Caroline Biver.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140812,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040772.mp3" length="173768141" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140811 05:59</title>
+                    <description>Med Katherine Zimmerman.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039560.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140811_0559.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Katherine Zimmerman.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140811,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039560.mp3" length="173768139" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140808 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037480.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140808_0559.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140808,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037480.mp3" length="173768125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140807 05:59</title>
+                    <description>Med Marie-Caroline Biver.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036214.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140807_0559.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Marie-Caroline Biver.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140807,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036214.mp3" length="173768141" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140806 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035000.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140806_0559.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140806,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035000.mp3" length="173444385" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140805 05:59</title>
+                    <description>Med Marie-Caroline Biver.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140805_0559.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Marie-Caroline Biver.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140805,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033794.mp3" length="173768141" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140804 05:59</title>
+                    <description>Med Jonna Burén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032609.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140804_0559.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Jonna Burén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140804,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032609.mp3" length="173762271" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140801 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030591.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140801_0559.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140801,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030591.mp3" length="173768125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140731 05:59</title>
+                    <description>Med Jonna Burén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029394.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140731_0559.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Jonna Burén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140731,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029394.mp3" length="173768123" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140730 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028131.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140730_0559.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140730,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028131.mp3" length="173768125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140729 05:59</title>
+                    <description>Med Jonna Burén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026923.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140729_0559.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Jonna Burén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140729,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026923.mp3" length="173768123" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140728 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025757.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140728_0559.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140728,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025757.mp3" length="173768125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140725 05:59</title>
+                    <description>Med Jonna Burén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023667.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140725_0559.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Jonna Burén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140725,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023667.mp3" length="173443966" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140724 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022438.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140724_0559.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140724,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022438.mp3" length="173763109" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140723 05:59</title>
+                    <description>Med Jonna Burén.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021244.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140723_0559.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Jonna Burén.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140723,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021244.mp3" length="173768123" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 20140722 05:59</title>
+                    <description>Med Linda Thulin.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020091.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p1-morgon_20140722_0559.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 03:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Linda Thulin.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,20140722,05:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020091.mp3" length="173768125" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>P1-morgon 110803 06:59</title>
+                    <description>Med Pia Sjögren. Av integritetsskäl har en del av sändningen klippts bort ur poddversionen.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/3330716.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/sr_p1_morgon_110803_a45a.mp3</guid>
+                    <pubDate>Wed, 03 Aug 2011 04:59:00 GMT</pubDate>
+                    <programid>1650</programid>
+                    <poddid>12202</poddid>
+                    <itunes:summary>Med Pia Sjögren. Av integritetsskäl har en del av sändningen klippts bort ur poddversionen.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>P1,MorgonP1-morgon,110803,06:59</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/3330716.mp3" length="52348144" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

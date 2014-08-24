@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:11 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:11 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=pa4uj0xzosbcosu2ijitaqta; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:11 GMT"/>
+        <httpclient:header name="Content-Length" value="53535"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/20755</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/20755" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:11 GMT</lastBuildDate>
+                <image>
+                    <title>Christer och Morgan rapporterar – en timme innan sex</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=4670</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/4670/3192642_512_512.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Aktualitetsprogrammet som vaskar guldkornen från nyhetsströmmen. Tillsammans med lyssnarna försöker vi förstå hur det stora hänger ihop med det lilla. Ärligt, inkluderande och underhållande. Vänligt, men inte rumsrent.</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="Society &amp; Culture"/>
+                <itunes:owner>
+                    <itunes:name>Christer och Morgan rapporterar – en timme innan sex</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Christer och Morgan rapporterar – en timme innan sex</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=4670</link>
+                <description>Aktualitetsprogrammet som vaskar guldkornen från nyhetsströmmen. Tillsammans med lyssnarna försöker vi förstå hur det stora hänger ihop med det lilla. Ärligt, inkluderande och underhållande. Vänligt, men inte rumsrent.</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Sommarens nyhit!</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048901.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140819_1100_3f4513c.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexSommarens,nyhit!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048901.mp3" length="46438708" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Biljakt, arga katoliker och kast med litet barn</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047551.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140818_0700_409fee1.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 05:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBiljakt,,arga,katoliker,och,kast,med,litet,barn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047551.mp3" length="61639110" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Live med skojig lek från Linköping</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4974612.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140605_1200_4217ff8.mp3</guid>
+                    <pubDate>Thu, 05 Jun 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLive,med,skojig,lek,från,Linköping</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4974612.mp3" length="48390195" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Best of våren med Christer och Morgan</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4973201.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140604_1300_3ff4b50.mp3</guid>
+                    <pubDate>Wed, 04 Jun 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBest,of,våren,med,Christer,och,Morgan</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4973201.mp3" length="59929637" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Kul med snut och solen exploderar</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4971833.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140603_1300_3ff27dc.mp3</guid>
+                    <pubDate>Tue, 03 Jun 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexKul,med,snut,och,solen,exploderar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4971833.mp3" length="57310278" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Läkare utan sponsor och problem med passet</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4970515.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140602_1400_4055e06.mp3</guid>
+                    <pubDate>Mon, 02 Jun 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLäkare,utan,sponsor,och,problem,med,passet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4970515.mp3" length="53225999" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Elakheter mot barn</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4966960.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140529_1300_3fba8c8.mp3</guid>
+                    <pubDate>Thu, 29 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexElakheter,mot,barn</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4966960.mp3" length="51529873" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Då tänker vi på märkliga experiment</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4966425.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140528_1300_3fb9ca9.mp3</guid>
+                    <pubDate>Wed, 28 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDå,tänker,vi,på,märkliga,experiment</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4966425.mp3" length="52965179" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vad är det konstigaste du snott?</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4965048.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140527_1300_3f96bfa.mp3</guid>
+                    <pubDate>Tue, 27 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVad,är,det,konstigaste,du,snott?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4965048.mp3" length="52292676" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Äta höftkula och inte slut på eländet</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4963690.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140526_1300_3ed5754.mp3</guid>
+                    <pubDate>Mon, 26 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexÄta,höftkula,och,inte,slut,på,eländet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4963690.mp3" length="51967932" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Springande punkten och Tove Lo</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4960045.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140522_1100_3e603f9.mp3</guid>
+                    <pubDate>Thu, 22 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexSpringande,punkten,och,Tove,Lo</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4960045.mp3" length="45785884" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Konstiga dejter och rymden</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4958720.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140521_1400_3ffe300.mp3</guid>
+                    <pubDate>Wed, 21 May 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexKonstiga,dejter,och,rymden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4958720.mp3" length="47327309" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Fotboll och gegga</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4957373.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140520_1000_3f8901e.mp3</guid>
+                    <pubDate>Tue, 20 May 2014 08:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexFotboll,och,gegga</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4957373.mp3" length="52926272" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Christer till Röde orm och Rasmus i Bosnien</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4956004.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140519_1300_3fc1a60.mp3</guid>
+                    <pubDate>Mon, 19 May 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexChrister,till,Röde,orm,och,Rasmus,i,Bosnien</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4956004.mp3" length="51804104" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Förbannade förbannelser</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4952486.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140515_1100_418df4b.mp3</guid>
+                    <pubDate>Thu, 15 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexFörbannade,förbannelser</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4952486.mp3" length="54602301" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Och då tänker Christer på...</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4951127.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140514_0800_3f6d916.mp3</guid>
+                    <pubDate>Wed, 14 May 2014 06:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexOch,då,tänker,Christer,på...</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4951127.mp3" length="50408508" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Naken på fel plats</title>
+                    <description>Att vara naken kan vara gött, men ibland får man sota för det. Det fick två killar i svenska orienteringslandslaget erfara under ett träningsläger i Italien, då dom kastade kläderna och sprang nakna för att skoja med sina landslagskompisar. Den italienska polisen uppskattade dock tyvärr inte skämtet och haffade dom. En annan som varit åtminstone halvnaken på ett lite märkligt ställe är Wu-Tang-rapparen som med trasig snopp hoppade ut från sin balkong. I dagens program reder Rasmus ut vad som flög i honom.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4949760.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140513_1800_3f9da8e.mp3</guid>
+                    <pubDate>Tue, 13 May 2014 16:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Att vara naken kan vara gött, men ibland får man sota för det. Det fick två killar i svenska orienteringslandslaget erfara under ett träningsläger i Italien, då dom kastade kläderna och sprang nakna för att skoja med sina landslagskompisar. Den italienska polisen uppskattade dock tyvärr inte skämtet och haffade dom. En annan som varit åtminstone halvnaken på ett lite märkligt ställe är Wu-Tang-rapparen som med trasig snopp hoppade ut från sin balkong. I dagens program reder Rasmus ut vad som flög i honom.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexNaken,på,fel,plats</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4949760.mp3" length="47931866" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Oväntade blandningar</title>
+                    <description>Halloj och glad måndag på er! Idag funderar redaktionen lite över det här med gränsöverskridande blandningar. För visst har det varit en del av den varan i helgen? Vi tänker inte minst på den fantastiska Eurovisionsegraren Conchita Wurst som matchade sin glammiga klänning med ett praktfullt skägg. Vi har också nåtts av en annan okonventionell nyhet: The Drinkable Book. Några andra som bröt mot konventioner i helgen var tjejerna i bandet Solanas Cuntz som blev utkastade från sin egen spelning efter att ha tagit av sig på överkroppen. Och mer gränsöverskridande blandningar blir det minst sagt i dagens Perspektiv bortifrån, som handlar om de kristna muskelbergen i Powerteam som sprider Jesu budskap genom olika styrkedemonstrationer. Det ni!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4948414.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140512_1800_3f8dcfd.mp3</guid>
+                    <pubDate>Mon, 12 May 2014 16:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Halloj och glad måndag på er! Idag funderar redaktionen lite över det här med gränsöverskridande blandningar. För visst har det varit en del av den varan i helgen? Vi tänker inte minst på den fantastiska Eurovisionsegraren Conchita Wurst som matchade sin glammiga klänning med ett praktfullt skägg. Vi har också nåtts av en annan okonventionell nyhet: The Drinkable Book. Några andra som bröt mot konventioner i helgen var tjejerna i bandet Solanas Cuntz som blev utkastade från sin egen spelning efter att ha tagit av sig på överkroppen. Och mer gränsöverskridande blandningar blir det minst sagt i dagens Perspektiv bortifrån, som handlar om de kristna muskelbergen i Powerteam som sprider Jesu budskap genom olika styrkedemonstrationer. Det ni!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexOväntade,blandningar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4948414.mp3" length="52773150" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Låten som får dig att kräkas</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4944802.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140508_1200_3fa1ca6.mp3</guid>
+                    <pubDate>Thu, 08 May 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLåten,som,får,dig,att,kräkas</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4944802.mp3" length="44091055" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rymden växer och barn med kreditkort</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4943414.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140507_1200_3fdda07.mp3</guid>
+                    <pubDate>Wed, 07 May 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexRymden,växer,och,barn,med,kreditkort</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4943414.mp3" length="46498516" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Boyband-Hanna och viljan att bara var sig själv</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4942005.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140506_1200_3ef4c79.mp3</guid>
+                    <pubDate>Tue, 06 May 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBoyband-Hanna,och,viljan,att,bara,var,sig,själv</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4942005.mp3" length="41709980" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Skämt som inte alls gick hem</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4940753.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140505_1100_3f56729.mp3</guid>
+                    <pubDate>Mon, 05 May 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexSkämt,som,inte,alls,gick,hem</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4940753.mp3" length="47203179" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>En varningens dag</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4937293.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140501_1400_409548c.mp3</guid>
+                    <pubDate>Thu, 01 May 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexEn,varningens,dag</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4937293.mp3" length="54041806" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ska vi byta namn?</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4936723.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140430_1100_3f2eb3b.mp3</guid>
+                    <pubDate>Wed, 30 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexSka,vi,byta,namn?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4936723.mp3" length="45397156" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Då tänker vi på mens</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4935282.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140429_1300_3f33d59.mp3</guid>
+                    <pubDate>Tue, 29 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDå,tänker,vi,på,mens</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4935282.mp3" length="46519800" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Biltjuv med kalsonger i ansiktet</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4933924.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140428_1400_3f3c0a1.mp3</guid>
+                    <pubDate>Mon, 28 Apr 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBiltjuv,med,kalsonger,i,ansiktet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4933924.mp3" length="46994626" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rubiks kub, börsen och hjältar i USA</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4930346.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140424_1200_3ffb92a.mp3</guid>
+                    <pubDate>Thu, 24 Apr 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexRubiks,kub,,börsen,och,hjältar,i,USA</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4930346.mp3" length="46063839" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vi tänker på varann</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4929003.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140423_1400_414eac7.mp3</guid>
+                    <pubDate>Wed, 23 Apr 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVi,tänker,på,varann</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4929003.mp3" length="58796095" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vildsvin i fara och träd i vardagsrummet</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4927666.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140422_1300_400b258.mp3</guid>
+                    <pubDate>Tue, 22 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVildsvin,i,fara,och,träd,i,vardagsrummet</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4927666.mp3" length="48008611" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Låsa in och släppa ut</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4926326.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140421_1300_3feec50.mp3</guid>
+                    <pubDate>Mon, 21 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLåsa,in,och,släppa,ut</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4926326.mp3" length="51274924" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Den springande påsken</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4924506.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140417_1400_3f45243.mp3</guid>
+                    <pubDate>Thu, 17 Apr 2014 12:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDen,springande,påsken</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4924506.mp3" length="50661360" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Arg över småsaker</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4923185.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140416_1300_402dfba.mp3</guid>
+                    <pubDate>Wed, 16 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexArg,över,småsaker</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4923185.mp3" length="50872839" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Konstiga saker på konstiga ställen</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4921770.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140415_1500_4198ffa.mp3</guid>
+                    <pubDate>Tue, 15 Apr 2014 13:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexKonstiga,saker,på,konstiga,ställen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4921770.mp3" length="51167534" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Gammalt möter nytt</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4920386.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140414_1300_3f884dd.mp3</guid>
+                    <pubDate>Mon, 14 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexGammalt,möter,nytt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4920386.mp3" length="51869256" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Slidsekret service</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4916764.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140410_1000_40853f9.mp3</guid>
+                    <pubDate>Thu, 10 Apr 2014 08:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexSlidsekret,service</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4916764.mp3" length="39991274" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Då tänker jag på dig (och rymden)</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4915388.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140409_1100_3f2d59b.mp3</guid>
+                    <pubDate>Wed, 09 Apr 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDå,tänker,jag,på,dig,(och,rymden)</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4915388.mp3" length="45708985" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Grisfest i P3</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4914029.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140408_1200_3f14f7d.mp3</guid>
+                    <pubDate>Tue, 08 Apr 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexGrisfest,i,P3</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4914029.mp3" length="46586660" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blev helgen som vi trodde?</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4912662.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140407_1300_3fe3b74.mp3</guid>
+                    <pubDate>Mon, 07 Apr 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBlev,helgen,som,vi,trodde?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4912662.mp3" length="57371286" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Blev helgen som vi trodde?</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4912664.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140407_1000_407efec.mp3</guid>
+                    <pubDate>Mon, 07 Apr 2014 08:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexBlev,helgen,som,vi,trodde?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4912664.mp3" length="57371286" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Liv, död och slagsmål</title>
+                    <description>Det har blivit dags för veckans sista program, och som vanligt ska vi försöka knyta ihop nyhetssäcken och fundera över vad som präglat nyhetsrapporteringen hittills. På redaktionen så tycker vi oss ana att veckans tendens har att göra med liv och död. Eller kanske att vara nära döden på olika sätt. Vi tänker exempelvis på Gert som hittade en gravsten nedgrävd i sovrumsgolvet, eller trädtrimmaren James som fick en motorsåg rakt genom kroppen, men överlevde Idag är det också dags för Christer att redovisa utmaningen han fick igår - att förklara fotbollshuliganism för sina barn. Kanske den svåraste uppgiften som rektor Morgan delat ut så här långt?</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4909042.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140403_1700_4048ac3.mp3</guid>
+                    <pubDate>Thu, 03 Apr 2014 15:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Det har blivit dags för veckans sista program, och som vanligt ska vi försöka knyta ihop nyhetssäcken och fundera över vad som präglat nyhetsrapporteringen hittills. På redaktionen så tycker vi oss ana att veckans tendens har att göra med liv och död. Eller kanske att vara nära döden på olika sätt. Vi tänker exempelvis på Gert som hittade en gravsten nedgrävd i sovrumsgolvet, eller trädtrimmaren James som fick en motorsåg rakt genom kroppen, men överlevde Idag är det också dags för Christer att redovisa utmaningen han fick igår - att förklara fotbollshuliganism för sina barn. Kanske den svåraste uppgiften som rektor Morgan delat ut så här långt?</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLiv,,död,och,slagsmål</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4909042.mp3" length="48725445" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jo det är sant!</title>
+                    <description>Idag fortsätter vi prata om trenden vi tog upp igår: att röka kaffe. Det var ju en hel del lyssnare som hörde av sig och sa "åååååh, fattar ni ni inte att det bara är ett april-skämt era lättlurade sillar". Men vi håller fast vid att det faktiskt ÄR en riktig nyhet, hur vrickat det än må låta. Och så får vi som vanligt en rapport från rymden, idag handlar det bland annat om rymdsonden Rosetta och om en helt ny medlem i solsystemet. Det blir också nya nyheter att länka samman i Morgans kluriga tävling Den springande punkten.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4907745.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140402_1700_3f577f9.mp3</guid>
+                    <pubDate>Wed, 02 Apr 2014 15:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Idag fortsätter vi prata om trenden vi tog upp igår: att röka kaffe. Det var ju en hel del lyssnare som hörde av sig och sa "åååååh, fattar ni ni inte att det bara är ett april-skämt era lättlurade sillar". Men vi håller fast vid att det faktiskt ÄR en riktig nyhet, hur vrickat det än må låta. Och så får vi som vanligt en rapport från rymden, idag handlar det bland annat om rymdsonden Rosetta och om en helt ny medlem i solsystemet. Det blir också nya nyheter att länka samman i Morgans kluriga tävling Den springande punkten.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexJo,det,är,sant!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4907745.mp3" length="44087928" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>På ett helt annat sätt</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4906424.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140401_1800_3fcb862.mp3</guid>
+                    <pubDate>Tue, 01 Apr 2014 16:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexPå,ett,helt,annat,sätt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4906424.mp3" length="39840398" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ett djuriskt beteende</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4905086.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140331_1300_3ec9edb.mp3</guid>
+                    <pubDate>Mon, 31 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexEtt,djuriskt,beteende</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4905086.mp3" length="44313814" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Ett ovanligt intresse</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4901382.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140327_1300_4028eff.mp3</guid>
+                    <pubDate>Thu, 27 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexEtt,ovanligt,intresse</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4901382.mp3" length="51301255" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Alla är dumma utom polisen</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4899992.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140326_1300_40615c9.mp3</guid>
+                    <pubDate>Wed, 26 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexAlla,är,dumma,utom,polisen</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4899992.mp3" length="45305641" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det händer alltid något i rymden</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4898652.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140325_1200_3f6208d.mp3</guid>
+                    <pubDate>Tue, 25 Mar 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDet,händer,alltid,något,i,rymden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4898652.mp3" length="44036729" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vildsvinsgäng och jordgubbar</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4897344.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140324_1200_3f5b091.mp3</guid>
+                    <pubDate>Mon, 24 Mar 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVildsvinsgäng,och,jordgubbar</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4897344.mp3" length="42467702" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Goda nyheter!</title>
+                    <description>Halloj! Det har blivit dags för veckans sista program, och därmed också dags att summera vad nyhetsskörden har bjudit på såhär långt. Och redaktionen tycker sig ha sett en ganska härlig trend i veckan, nämligen liten goda nyheter för en gångs skull! I tisdags rapporterade vi ju till exempel om  en mycket glad nyhet för alla rymdforskare, att man har hittat ett slags eko från Big Bang. Sedan dess har det rasslat in en hel del andra positiva nyheter. Bland annat hunden som räddade livet på sin matte genom en blixtsnabb Heimlich-manöver, och det faktum att det är FNs internationella glädjedag idag. Det är dessutom vårdagjämning OCH iranskt nyår denna strålande torsdag. Hurra! Detta firar vi såklart i dagens program!</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4893736.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140320_1800_3fd5457.mp3</guid>
+                    <pubDate>Thu, 20 Mar 2014 16:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Halloj! Det har blivit dags för veckans sista program, och därmed också dags att summera vad nyhetsskörden har bjudit på såhär långt. Och redaktionen tycker sig ha sett en ganska härlig trend i veckan, nämligen liten goda nyheter för en gångs skull! I tisdags rapporterade vi ju till exempel om  en mycket glad nyhet för alla rymdforskare, att man har hittat ett slags eko från Big Bang. Sedan dess har det rasslat in en hel del andra positiva nyheter. Bland annat hunden som räddade livet på sin matte genom en blixtsnabb Heimlich-manöver, och det faktum att det är FNs internationella glädjedag idag. Det är dessutom vårdagjämning OCH iranskt nyår denna strålande torsdag. Hurra! Detta firar vi såklart i dagens program!</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexGoda,nyheter!</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4893736.mp3" length="42806847" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vem har nyckeln till internet?</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4892291.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140319_1700_3faebf3.mp3</guid>
+                    <pubDate>Wed, 19 Mar 2014 15:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVem,har,nyckeln,till,internet?</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4892291.mp3" length="36829018" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Först rymd sen långfinger</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4890978.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140318_1300_3f98661.mp3</guid>
+                    <pubDate>Tue, 18 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexFörst,rymd,sen,långfinger</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4890978.mp3" length="38308584" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Och helgens tema blev...</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4889598.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140317_1300_401a800.mp3</guid>
+                    <pubDate>Mon, 17 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexOch,helgens,tema,blev...</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4889598.mp3" length="40517914" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Det blir politik och knark</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4885976.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140313_1300_3f7cd76.mp3</guid>
+                    <pubDate>Thu, 13 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexDet,blir,politik,och,knark</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4885976.mp3" length="36301128" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vi tänker på internet och Obama</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4884607.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140312_1300_3fcb9f1.mp3</guid>
+                    <pubDate>Wed, 12 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVi,tänker,på,internet,och,Obama</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4884607.mp3" length="34973700" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Vi flyr till rymden</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4883285.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140311_1300_3f7ceaa.mp3</guid>
+                    <pubDate>Tue, 11 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexVi,flyr,till,rymden</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4883285.mp3" length="36050339" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>LSD-kryddad köttfärs med extra strippshowskompott</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4881942.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140310_1100_3f05f81.mp3</guid>
+                    <pubDate>Mon, 10 Mar 2014 09:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexLSD-kryddad,köttfärs,med,extra,strippshowskompott</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4881942.mp3" length="38638402" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Tvättbjörnsskräck med lite ananas</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4878322.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140306_1300_3fd042f.mp3</guid>
+                    <pubDate>Thu, 06 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexTvättbjörnsskräck,med,lite,ananas</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4878322.mp3" length="31047813" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Rymden och löständer</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4876921.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140305_1200_3ed12ed.mp3</guid>
+                    <pubDate>Wed, 05 Mar 2014 10:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexRymden,och,löständer</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4876921.mp3" length="33254612" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Jurister och rubrikfezt</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4875627.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140304_1300_3f02df9.mp3</guid>
+                    <pubDate>Tue, 04 Mar 2014 11:00:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexJurister,och,rubrikfezt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4875627.mp3" length="35330203" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Premiär och privatnytt</title>
+                    <description>Är ett rån mot en värdetransport verkligen så tufft? Eller är det egentligen en nördig grej eftersom man måste veta sanslöst mycket om skåpbilar? Och om USA tjuvlyssnar på Tyskland så måste det ju vara ett jägarns skitjobb att lyssna på Merkels timslånga samtal i väntan på nått smaskigt. Vem vill göra det? Oavsett nyheter så är vår plan att tillsammans med dig koppla greppet, kittla nyheten litegrann och försöka förstå vad som egentligen hänt. Vi börjar där och ser vad det blir.</description>
+                    <link>http://sverigesradio.se/topsy/ljudfil/4874762.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/p3_christerochmorgan_20140304_1100_2264b5f.mp3</guid>
+                    <pubDate>Mon, 03 Mar 2014 15:06:00 GMT</pubDate>
+                    <programid>4670</programid>
+                    <poddid>20755</poddid>
+                    <itunes:summary>Är ett rån mot en värdetransport verkligen så tufft? Eller är det egentligen en nördig grej eftersom man måste veta sanslöst mycket om skåpbilar? Och om USA tjuvlyssnar på Tyskland så måste det ju vara ett jägarns skitjobb att lyssna på Merkels timslånga samtal i väntan på nått smaskigt. Vem vill göra det? Oavsett nyheter så är vår plan att tillsammans med dig koppla greppet, kittla nyheten litegrann och försöka förstå vad som egentligen hänt. Vi börjar där och ser vad det blir.</itunes:summary>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Christer,och,Morgan,rapporterar,–,en,timme,innan,sexPremiär,och,privatnytt</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/4874762.mp3" length="36204571" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Cache-Control" value="public, no-cache=&#34;Set-Cookie&#34;, max-age=60"/>
+        <httpclient:header name="Content-Type" value="text/xml; charset=utf-8"/>
+        <httpclient:header name="Expires" value="Wed, 20 Aug 2014 09:44:13 GMT"/>
+        <httpclient:header name="Last-Modified" value="Wed, 20 Aug 2014 09:43:13 GMT"/>
+        <httpclient:header name="Vary" value="*"/>
+        <httpclient:header name="Server" value="Microsoft-IIS/7.5"/>
+        <httpclient:header name="Set-Cookie" value="ASP.NET_SessionId=m3wpoy21vibmpadxxy1aorpq; path=/; HttpOnly"/>
+        <httpclient:header name="X-AspNetMvc-Version" value="4.0"/>
+        <httpclient:header name="X-AspNet-Version" value="4.0.30319"/>
+        <httpclient:header name="X-Powered-By" value="ASP.NET"/>
+        <httpclient:header name="Date" value="Wed, 20 Aug 2014 09:43:12 GMT"/>
+        <httpclient:header name="Content-Length" value="38585"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="text/xml; charset=utf-8" type="xml">
+        <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+            <channel>
+                <itunes:new-feed-url>http://api.sr.se/api/rss/pod/3788</itunes:new-feed-url>
+                <atom:link href="http://api.sr.se/api/rss/pod/3788" rel="self" type="application/rss+xml"/>
+                <lastBuildDate>Wed, 20 Aug 2014 09:43:13 GMT</lastBuildDate>
+                <image>
+                    <title>Nyheter från Uppland</title>
+                    <link>http://sverigesradio.se/sida/default.aspx?programid=114</link>
+                    <url>http://sverigesradio.se/sida/content/img/channellogos/srlogo.png</url>
+                </image>
+                <itunes:image href="http://sverigesradio.se/sida/images/114/3232509_1400_1400.jpg?preset=api-itunes-presentation-image"/>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>Nyheter från Uppland</itunes:summary>
+                <itunes:author>Sveriges Radio</itunes:author>
+                <itunes:category text="News &amp; Politics"/>
+                <itunes:owner>
+                    <itunes:name>Nyheter från Uppland</itunes:name>
+                    <itunes:email>podd@sverigesradio.se</itunes:email>
+                </itunes:owner>
+                <title>Nyheter från Uppland</title>
+                <link>http://sverigesradio.se/sida/default.aspx?programid=114</link>
+                <description>Nyheter från Uppland</description>
+                <language>sv</language>
+                <copyright>Copyright Sveriges Radio 2014. All rights reserved.</copyright>
+                <item>
+                    <title>Upplandsnytt och trafik 20140820 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5049177.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140820_0730.mp3</guid>
+                    <pubDate>Wed, 20 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140820,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5049177.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140819 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5048698.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140819_1630.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140819,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5048698.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140819 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047798.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140819_0730.mp3</guid>
+                    <pubDate>Tue, 19 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140819,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047798.mp3" length="8358102" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140818 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5047354.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140818_1630.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140818,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5047354.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140818 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5046523.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140818_0730.mp3</guid>
+                    <pubDate>Mon, 18 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140818,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5046523.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140817 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045957.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140817_0930.mp3</guid>
+                    <pubDate>Sun, 17 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140817,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045957.mp3" length="3558215" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140816 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045483.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140816_0930.mp3</guid>
+                    <pubDate>Sat, 16 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140816,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045483.mp3" length="3558215" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140815 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5045207.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140815_1630.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140815,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5045207.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140815 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5044365.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140815_0730.mp3</guid>
+                    <pubDate>Fri, 15 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140815,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5044365.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140814 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043908.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140814_1630.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140814,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043908.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140814 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5043106.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140814_0730.mp3</guid>
+                    <pubDate>Thu, 14 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140814,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5043106.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140813 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5042687.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140813_1630.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140813,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5042687.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140813 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041843.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140813_0730.mp3</guid>
+                    <pubDate>Wed, 13 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140813,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041843.mp3" length="8358102" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140812 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5041404.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140812_1630.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140812,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5041404.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140812 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040618.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140812_0730.mp3</guid>
+                    <pubDate>Tue, 12 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140812,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040618.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140811 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5040170.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140811_1630.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140811,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5040170.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140811 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5039401.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140811_0730.mp3</guid>
+                    <pubDate>Mon, 11 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140811,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5039401.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140810 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038901.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140810_0930.mp3</guid>
+                    <pubDate>Sun, 10 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140810,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038901.mp3" length="3558215" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140809 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038440.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140809_0930.mp3</guid>
+                    <pubDate>Sat, 09 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140809,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038440.mp3" length="2881916" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140808 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5038161.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140808_1630.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140808,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5038161.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140808 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5037309.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140808_0730.mp3</guid>
+                    <pubDate>Fri, 08 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140808,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5037309.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140807 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036881.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140807_1630.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140807,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036881.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140807 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5036074.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140807_0730.mp3</guid>
+                    <pubDate>Thu, 07 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140807,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5036074.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140806 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5035663.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140806_1630.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140806,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5035663.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140806 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034847.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140806_0730.mp3</guid>
+                    <pubDate>Wed, 06 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140806,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034847.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140805 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5034408.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140805_1630.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140805,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5034408.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140805 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033640.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140805_0730.mp3</guid>
+                    <pubDate>Tue, 05 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140805,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033640.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140804 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5033230.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140804_1630.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140804,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5033230.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140804 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5032455.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140804_0730.mp3</guid>
+                    <pubDate>Mon, 04 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140804,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5032455.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140803 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031952.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140803_0930.mp3</guid>
+                    <pubDate>Sun, 03 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140803,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031952.mp3" length="2881916" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140802 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031515.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140802_0930.mp3</guid>
+                    <pubDate>Sat, 02 Aug 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140802,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031515.mp3" length="3558215" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140801 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5031201.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140801_1630.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140801,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5031201.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140801 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030436.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140801_0730.mp3</guid>
+                    <pubDate>Fri, 01 Aug 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140801,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030436.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140731 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5030028.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140731_1630.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140731,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5030028.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140731 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5029236.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140731_0730.mp3</guid>
+                    <pubDate>Thu, 31 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140731,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5029236.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140730 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5028794.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140730_1630.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140730,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5028794.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140730 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027982.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140730_0730.mp3</guid>
+                    <pubDate>Wed, 30 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140730,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027982.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140729 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5027580.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140729_1630.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140729,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5027580.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140729 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026814.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140729_0730.mp3</guid>
+                    <pubDate>Tue, 29 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140729,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026814.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140728 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5026380.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140728_1630.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140728,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5026380.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140728 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025609.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140728_0730.mp3</guid>
+                    <pubDate>Mon, 28 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140728,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025609.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140727 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5025099.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140727_0930.mp3</guid>
+                    <pubDate>Sun, 27 Jul 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140727,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5025099.mp3" length="2881916" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt 20140726 09:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024697.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_20140726_0930.mp3</guid>
+                    <pubDate>Sat, 26 Jul 2014 07:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,20140726,09:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024697.mp3" length="3558215" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140725 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5024342.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140725_1630.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140725,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5024342.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140725 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023514.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140725_0730.mp3</guid>
+                    <pubDate>Fri, 25 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140725,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023514.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140724 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5023112.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140724_1630.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140724,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5023112.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140724 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5022291.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140724_0730.mp3</guid>
+                    <pubDate>Thu, 24 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140724,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5022291.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140723 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021869.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140723_1630.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140723,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021869.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140723 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5021091.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140723_0730.mp3</guid>
+                    <pubDate>Wed, 23 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140723,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5021091.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140722 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5020678.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140722_1630.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140722,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5020678.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140722 07:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019935.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140722_0730.mp3</guid>
+                    <pubDate>Tue, 22 Jul 2014 05:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140722,07:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019935.mp3" length="7682188" type="audio/mpeg"/>
+                </item>
+                <item>
+                    <title>Upplandsnytt och trafik 20140721 16:30</title>
+                    <description/>
+                    <link>http://sverigesradio.se/topsy/ljudfil/5019551.mp3</link>
+                    <guid isPermaLink="false">http://sverigesradio.se/upplandsnytt_och_trafik_20140721_1630.mp3</guid>
+                    <pubDate>Mon, 21 Jul 2014 14:30:00 GMT</pubDate>
+                    <programid>114</programid>
+                    <poddid>3788</poddid>
+                    <itunes:author>Sveriges Radio</itunes:author>
+                    <itunes:keywords>Nyheter,från,UpplandUpplandsnytt,och,trafik,20140721,16:30</itunes:keywords>
+                    <enclosure url="http://sverigesradio.se/topsy/ljudfil/5019551.mp3" length="8358520" type="audio/mpeg"/>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>
