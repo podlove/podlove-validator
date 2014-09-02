@@ -19,7 +19,9 @@ Grunt will install all tools needed for development - runtime dependencies of yo
 
 Run in the root directory of your workspace:
 
-`(sudo) npm install` 
+* `(sudo) npm install -g grunt-cli` 
+* `(sudo) npm install -g bower` 
+* `(sudo) npm install` 
 
 sudo might be needed on some systems like OSX. This will download and setup the development listed in your `package.json` file. As a result you'll get a folder 'node_modules' being created.
 

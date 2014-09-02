@@ -14,7 +14,7 @@ module.exports = function (grunt) {
 //    require('time-grunt')(grunt);
 
     // Actually load this plugin's task(s).
-    grunt.loadTasks('tasks');
+    //grunt.loadTasks('tasks');
     grunt.loadNpmTasks('grunt-contrib-concat');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-imagemin');
@@ -107,7 +107,7 @@ module.exports = function (grunt) {
                     {expand: true,
                         cwd: './',
                         flatten: true,
-                        src: ['components/font-awesome/fonts/**'],
+                        src: ['bower_components/font-awesome/fonts/**'],
                         dest: 'dist/resources/fonts/',
                         filter: 'isFile'
                     }
@@ -164,9 +164,9 @@ module.exports = function (grunt) {
                 // the files to concatenate - use explicit filenames here to ensure proper order
                 // puts app.js at the end.
                 src: [
-                    'components/jquery/dist/jquery.min.js',
-                    'components/bootstrap/dist/js/bootstrap.min.js',
-                    'components/snap.svg/dist/snap.svg-min.js',
+                    'bower_components/jquery/dist/jquery.min.js',
+                    'bower_components/bootstrap/dist/js/bootstrap.min.js',
+                    'bower_components/snap.svg/dist/snap.svg-min.js',
                     'resources/js/app.min.js'],
                 // the location of the resulting JS file
                 dest: 'dist/resources/js/app.min.js'
@@ -267,12 +267,12 @@ module.exports = function (grunt) {
                     'modules/**',
                     'resources/**',
                     'templates/**',
-                    'components/animate.css/*',
-                    'components/bootstrap/dist/**',
-                    'components/font-awesome/css/**',
-                    'components/font-awesome/fonts/**',
-                    'components/jquery/dist/**',
-                    'components/snap.svg/dist/**'
+                    'bower_components/animate.css/*',
+                    'bower_components/bootstrap/dist/**',
+                    'bower_components/font-awesome/css/**',
+                    'bower_components/font-awesome/fonts/**',
+                    'bower_components/jquery/dist/**',
+                    'bower_components/snap.svg/dist/**'
                 ],
                 dest: 'build/<%=xar.name%>-<%=xar.version%>.xar'
             },
