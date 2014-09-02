@@ -18,7 +18,7 @@ Refer to their homepage for a OS-specific installer for your system.
 Grunt will install all tools needed for development - runtime dependencies of your website or app will be handled by bower (see below).
 
 Run in the root directory of your workspace:
-
+`(sudo) npm install -g grunt-cli` 
 `(sudo) npm install` 
 
 sudo might be needed on some systems like OSX. This will download and setup the development listed in your `package.json` file. As a result you'll get a folder 'node_modules' being created.
