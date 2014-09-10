@@ -10,5 +10,5 @@
     <target>podlove-matrix</target>
     <prepare>pre-install.xql</prepare>
     <finish>post-install.xql</finish>
-    <permissions user="podlove" password="podlove" group="podlove" mode="rwxrwxr-x"/>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="podlove" user="podlove" group="podlove" mode="rwxrwxr-x"/>
 </meta>
