@@ -4,8 +4,7 @@ import module namespace config="http://podlove.org/podlove-matrix/config" at "co
 import module namespace feed="http://podlove.org/podlove-matrix/feed" at "feed.xqm";
 
 
-import module namespace xdiff="http://exist-db.org/xquery/xmldiff"
-at "java:org.exist.xquery.modules.xmldiff.XmlDiffModule";
+import module namespace xdiff="http://exist-db.org/xquery/xmldiff" at "java:org.exist.xquery.modules.xmldiff.XmlDiffModule";
 
 declare namespace psc="http://podlove.org/simple-chapters";
 declare namespace fh="http://purl.org/syndication/history/1.0";
@@ -253,7 +252,7 @@ $resultMessages
 };
 
 let $inputURL := request:get-parameter("feedURL", "")
-let $log-in := xmldb:login("/db", "admin", "efh241")
+let $log-in := xmldb:login($config:app-root,$config:user-name, $config:user-pwd)
 let $parseFeed :=
 try {
 let $feedURL := $inputURL cast as xs:anyURI

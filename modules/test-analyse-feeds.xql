@@ -12,9 +12,9 @@ declare namespace content="http://purl.org/rss/1.0/modules/content/";
 let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
 let $feeds := collection($path-to-feeds)//rss
 
-(: 
+(:
 let $distinct-feeds := count(distinct-values($feeds//channel/title))
-let $number-of-feeds := count($feeds)  
+let $number-of-feeds := count($feeds) 
 
 return 
     <result total-feeds="??" wellformed-rss-feeds="{$number-of-feeds}" distinct-feeds-titles="{$distinct-feeds}">
@@ -24,16 +24,16 @@ return
            {
             for  $feed in $feeds//channel[contains(itunes:author/text(), "Pritlove")]
                 order by $feed/title
-                    return 
-                        <podcast base-uri="{base-uri($feed)}" feed-link="{$feed/link/text()}">{$feed/title/text()}</podcast>               
-           }
+            return 
+                        <podcast base-uri="{base-uri($feed)}" feed-link="{$feed/link/text()}">{$feed/title/text()}</podcast>
+       }
        </pritlove>
     </result>
 :)
 let $languages := $feeds//language
 let $feeds-with-language-elem := count($languages)
 let $shortlang := for $lang in $languages
-                    return 
+                    return
                         if(string-length($lang/text()) gt 3)
                         then (
                             <language>{substring($lang/text(), 1,2)}</language>
@@ -41,13 +41,13 @@ let $shortlang := for $lang in $languages
                         else (
                             $lang
                         )
-return 
+return
 <result>
     <language count="{$feeds-with-language-elem}" distinct-lang="{count(distinct-values($languages))}" distinct-short-lang="{count(distinct-values($shortlang))}">
         {
             for $lang in $shortlang
-                return 
+                return
                     $lang
         }
     </language>
-</result>
+    </result>

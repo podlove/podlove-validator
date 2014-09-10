@@ -20,13 +20,15 @@ declare namespace math = 'java:java.lang.Math';
 
 declare option exist:serialize "method=json media-type=text/javascript";
 
-let $inputURL := request:get-parameter("feedURL", "")
-let $log-in := xmldb:login("/db", "admin", "efh241")
-        (: let $feedURL := $inputURL cast as xs:anyURI
-        let $feedPath := feed:store-feed(xs:anyURI($feedURL))
-        let $feed := doc($feedPath):)
+let $test-url := "http://www.wrint.de/category/fotografie/feed/"
+let $inputURL := request:get-parameter("feedURL", $test-url)
+let $log-in := xmldb:login($config:app-root, $config:user-name, $config:user-pwd)
 
-let $feed := doc($config:app-root || "/test/nsfw1.xml")
+let $feedURL := $inputURL cast as xs:anyURI
+let $feedPath := feed:store-feed(xs:anyURI($feedURL))
+let $feed := doc($feedPath)
+
+(:   let $feed := doc($config:app-root || "/test/nsfw1.xml") :)
 let $schematron-report := schematron:report($feed)
 
 let $parseFeed := 
@@ -84,4 +86,3 @@ return
     </templating>
 
 
-    

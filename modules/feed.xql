@@ -111,10 +111,9 @@ declare function local:get-feed-data($feedURI as xs:anyURI) {
 
 
 
-let $data-root := $config:app-root || "/data/instacast"
-let $feed-root := $config:app-root || "/data/feeds/"
-let $feeds := doc($feed-root || "instacast-feeds.xml")
-(: 
+let $data-root := $config:app-root || "/data/postcast"
+
+let $feeds := 
     <feeds>
         <feed>http://cre.fm/feed/m4a/</feed>
         <feed>http://freakshow.fm/feed/m4a/</feed>
@@ -125,81 +124,13 @@ let $feeds := doc($feed-root || "instacast-feeds.xml")
         <feed>http://logbuch-netzpolitik.de/feed/m4a</feed>
         <feed>http://newz-of-the-world.com/feed/m4a</feed>
     </feeds>
- :) 
 return
-    <results>
-        <result>{
-            for $number in (1 to 1000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
-        <result>{
-            for $number in ( 1001 to 2000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
-        <result>{
-            for $number in (2001 to 3000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
-        <result>{
-            for $number in (3001 to 4000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        
-        }</result>
-        <result>{
-            for $number in (4001 to 5000)
-            let $feed := $feeds//feed[$number]
-            let $data := local:get-feed-data(xs:anyURI($feed/text()))
-            let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                return <done/>
-        }</result>
-        <result>{
-            for $number in (5001 to 6000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
-        <result>{
-            for $number in (6001 to 7000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return 
-                        <done/>
-        }</result>
-        <result>{
-            for $number in (7001 to 8000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
-        <result>{
-            for $number in (8001 to 9000)
-                let $feed := $feeds//feed[$number]
-                let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data,"application/octet-stream")
-                    return <done/>
-        }</result>
         <result>{                    
-            for $number in (9001 to 10000)
-                let $feed := $feeds//feed[$number]
+            for $feed in $feeds//feed
                 let $data := local:get-feed-data(xs:anyURI($feed/text()))
-                let $stored := xmldb:store($data-root,util:uuid($feed/text()) || ".xml", $data)
-                    return <done/>
-        }</result>
-
-</results>
+                let $name := util:uuid($feed/text()) || ".xml"
+                let $stored := xmldb:store($data-root, $name, $data)
+                    return <stored dir="{$data-root}" resource="{$name}"/>
+        }
+</result>
 

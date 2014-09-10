@@ -40,8 +40,8 @@ declare function local:aggregate-feed($feedURI as xs:anyURI) {
 
 };
 
-let $data-root := $config:app-root || "/data/podcast"
-let $log-in := xmldb:login("/db", "admin", "efh241")
+
+let $log-in := xmldb:login($config:app-root, $config:user-name, $config:user-pwd)
 let $feeds := <feeds>
     <feed>http://cre.fm/feed/m4a/</feed>
     <feed>http://freakshow.fm/feed/m4a/</feed>
@@ -56,9 +56,9 @@ let $feeds := <feeds>
 
 return
     for $feed in $feeds//feed
-    let $data := local:aggregate-feed(xs:anyURI($feed/text()))
-    let $stored := xmldb:store($data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
-    return
-        "done"
+        let $data := local:aggregate-feed(xs:anyURI($feed/text()))
+        let $stored := xmldb:store($config:podcast-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+        return
+            "done"
 
 

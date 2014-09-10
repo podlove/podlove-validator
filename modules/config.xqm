@@ -11,6 +11,8 @@ declare namespace templates="http://exist-db.org/xquery/templates";
 declare namespace repo="http://exist-db.org/xquery/repo";
 declare namespace expath="http://expath.org/ns/pkg";
 
+declare variable $config:user-name :="podlove";
+declare variable $config:user-pwd :="podlove";
 (: 
     Determine the application root collection from the current module load path.
 :)
@@ -30,6 +32,7 @@ declare variable $config:app-root :=
 ;
 
 declare variable $config:data-root := $config:app-root || "/data";
+declare variable $config:podcast-root := $config:data-root || "/podcast";
 
 declare variable $config:repo-descriptor := doc(concat($config:app-root, "/repo.xml"))/repo:meta;
 

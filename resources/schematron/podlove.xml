@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schema xmlns="http://www.ascc.net/xml/schematron">
+<schema xmlns="http://purl.oclc.org/dsdl/schematron" xmlns:iso="http://purl.oclc.org/dsdl/schematron">
     <ns uri="http://podlove.org/simple-chapters" prefix="psc"/>
     <ns uri="http://purl.org/syndication/history/1.0" prefix="fh"/>
     <ns uri="http://rssnamespace.org/feedburner/ext/1.0" prefix="feedburner"/>
@@ -14,11 +14,12 @@
         </rule>
         <!-- RSS CHANNEL -->
         <rule context="channel">
+            <let name="lang" value="string-length(language) &gt;= 2 and string-length(language) &lt;= 5"/>
             <assert test="title">#c-title</assert>
             <assert test="link">#c-link</assert>
             <assert test="description">#c-description</assert>
             <assert test="language">#c-language</assert>
-            <assert test="string-length(language) &gt;= 2 and string-length(language) &lt;= 5">#c-language-invalid</assert>
+            <assert test="$lang">#c-language-invalid</assert>
             <assert test="atom:link">#c-atom-link</assert>
             <assert test="atom:link[@rel = 'self']">#c-atom-link-self</assert>
             <assert test="copyright">#c-copyright</assert>
@@ -47,6 +48,7 @@
 
         <!-- RSS ITEM -->
         <rule context="item">
+            <let name="pos" value="position()"/>
             <assert test="parent::channel">An item element can only occur within a channel element</assert>
             <assert test="title">#i-title</assert>
             <assert test="link">#i-link</assert>
@@ -65,9 +67,8 @@
             <assert test="string-length(itunes:duration) = 8">#i-itunes-duration-length</assert>
             <assert test="                     (number(substring(itunes:duration,1,2)) or substring(itunes:duration,1,2) eq '00') and                      (number(substring(itunes:duration,4,2)) or substring(itunes:duration,4,2) eq '00') and                      (number(substring(itunes:duration,7,2)) or substring(itunes:duration,7,2) eq '00')">#i-itunes-duration-first</assert>
             <assert test="itunes:subtitle">#i-itunes-subtitle</assert>
-            <assert test="string-length(itunes:subtitle) &gt;= 1" role="debug">#i-itunes-subtitle-length</assert>
+            <assert test="string-length(itunes:subtitle) &gt; 1">#i-itunes-subtitle-length: <value-of select="concat('jalllo:',$pos)"/>.</assert>
             <assert test="itunes:summary">#i-itunes-summary</assert>
-            <assert test="string-length(itunes:summary) &gt;= 1" role="debug">#i-itunes-summary-length</assert>
             <assert test="itunes:author">#i-itunes-author</assert>
             <assert test="string-length(itunes:author) &gt; 1">#i-itunes-author-length</assert>
         </rule>
