@@ -11,7 +11,7 @@ declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
 
 declare function schematron:report($feed as item()){
-    let $grammar :=    doc($config:app-root || "/resources/schematron/podlove.xml")
+    let $grammar :=    doc($config:app-root || "/resources/schematron/podlove-ascc.xml")
     return 
       validation:jing-report($feed, $grammar)    
 };

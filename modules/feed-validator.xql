@@ -5,19 +5,6 @@ import module namespace feed="http://podlove.org/podlove-matrix/feed" at "feed.x
 import module namespace schematron="http://podlove.org/podlove-matrix/schematron" at "schematron.xqm";
 import module namespace fp="http://podlove.org/podlove-matrix/feedparser" at "feed-parser.xqm";
 
-declare namespace psc="http://podlove.org/simple-chapters";
-declare namespace fh="http://purl.org/syndication/history/1.0";
-declare namespace feedburner="http://rssnamespace.org/feedburner/ext/1.0";
-declare namespace itunes="http://www.itunes.com/dtds/podcast-1.0.dtd";
-declare namespace atom="http://www.w3.org/2005/Atom";
-declare namespace content="http://purl.org/rss/1.0/modules/content/";
-declare namespace dc="http://purl.org/dc/elements/1.1/";
-declare namespace slash="http://purl.org/rss/1.0/modules/slash/";
-declare namespace rawvoice="http://www.rawvoice.com/rawvoiceRssModule/";
-declare namespace wfw="http://wellformedweb.org/CommentAPI/";
-declare namespace sy="http://purl.org/rss/1.0/modules/syndication/";
-declare namespace math = 'java:java.lang.Math';
-
 declare option exist:serialize "method=json media-type=text/javascript";
 
 let $test-url := "http://www.wrint.de/category/fotografie/feed/"
@@ -34,19 +21,7 @@ let $schematron-report := schematron:report($feed)
 let $parseFeed := 
     try {
         <podcast>
-            <debug>
-                {
-                    for $duration in $feed//itunes:duration
-                        return
-                            if(number((substring($duration,1,2)) or substring($duration,1,2) eq "00") and (number(substring($duration,4,2)) or substring($duration,4,2) eq "00") and (number(substring($duration,7,2)) or substring($duration,7,2) eq "00"))
-                            then (
-                                )
-                                else (
-                                    $duration
-                                )
-                }
-                
-            </debug>
+            <debug/>
             <schematron> 
                 {
                     ( for $message in $schematron-report//message
