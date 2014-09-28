@@ -16,4 +16,21 @@ declare function schematron:report($feed as item()){
       validation:jing-report($feed, $grammar)    
 };
 
+declare function schematron:xsl($feed as item()) {
+    
+    let $xsltroot := $config:app-root || "/resources/xsl/"
+    let $dsdlinclude := doc($xsltroot || "iso_dsdl_include.xsl")
+    let $iso-abstract := doc($xsltroot || "iso_abstract_expand.xsl")
+    let $iso-svrl-for-xslt2 := doc($xsltroot || "iso_svrl_for_xslt2.xsl")
 
+
+    let $grammar := doc($config:app-root || "/resources/schematron/podlove.xml")
+    
+    (: transform:transform($grammar, $dsdl-01-include, $params):)
+    let $doc1 := transform:transform($grammar, $dsdlinclude, ())
+    let $doc2 := transform:transform($doc1, $iso-abstract, ())
+    let $doc3 := transform:transform($doc2, $iso-svrl-for-xslt2, ()) 
+    let $result := transform:transform($feed, $doc3, ())
+    return 
+        $result
+};

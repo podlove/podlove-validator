@@ -63,9 +63,9 @@
             <assert test="enclosure/@type">#i-enclosure-type</assert>
             
             <!-- ITUNES -->
+            <let name="duration" value="itunes:duration"/>
             <assert test="itunes:duration">#i-itunes-duration</assert>
             <assert test="string-length(itunes:duration) = 8">#i-itunes-duration-length</assert>
-            <assert test="                     (number(substring(itunes:duration,1,2)) or substring(itunes:duration,1,2) eq '00') and                      (number(substring(itunes:duration,4,2)) or substring(itunes:duration,4,2) eq '00') and                      (number(substring(itunes:duration,7,2)) or substring(itunes:duration,7,2) eq '00')">#i-itunes-duration-first</assert>
             <assert test="itunes:subtitle">#i-itunes-subtitle</assert>
             <assert test="string-length(itunes:subtitle) &gt; 1">#i-itunes-subtitle-length: <value-of select="concat('jalllo:',$pos)"/>.</assert>
             <assert test="itunes:summary">#i-itunes-summary</assert>

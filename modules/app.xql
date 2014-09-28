@@ -40,9 +40,9 @@ declare %templates:wrap  function app:rss-alt($node as node(), $model as map(*))
 };
 
 declare %templates:wrap  function app:podcasts($node as node(), $model as map(*)) {
-    let $data-root := $config:app-root || "/data/podcast"
-    let $podcasts := for $podcast in collection($data-root)//rss
-                        order by $podcast//channel/title ascending
+    let $data-root :=  $config:podcast-root
+    let $podcasts := for $podcast in collection($data-root)//rss[1]
+                        order by $podcast//channel[1]/title[1] ascending
                         return $podcast
     return 
         map {
@@ -99,7 +99,7 @@ function app:podcast-desc($node as node(), $model as map(*)) {
 declare 
     %templates:replace
 function app:podcast-icon($node as node(), $model as map(*)){
-    let $title := $model("podcast")/channel/title/string()
+    let $title := $model("podcast")/channel[1]/title[1]/string()
     let $image := $model("podcast")/channel/itunes:image/@href
     
     return 

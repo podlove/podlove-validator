@@ -12,14 +12,38 @@
             <itunes:subtitle/>
         </template>
     </template>
+    <template id="c-itunes-keywords">
+        <message lang="en">itunes:keywords element is missing. </message>
+        <template>
+            <itunes:keywords>keywords seperated with comma</itunes:keywords>
+        </template>
+    </template>
     <template id="i-itunes-summary-length">
         <message lang="en">something about summary length</message>
         <template>
             <itunes:summary/>
         </template>
     </template>
+    <template id="c-itunes-block">
+        <message lang="en">something about itunes:block</message>
+        <template>
+            <itunes:summary/>
+        </template>
+    </template>
+    <template id="i-itunes-explicit">
+        <message lang="en">something about itunes:explicit</message>
+        <template>
+            <itunes:summary/>
+        </template>
+    </template>
     <template id="i-guid-empty">
         <message lang="en">empty guid</message>
+        <template>
+            <guid/>
+        </template>
+    </template>
+    <template id="i-itunes-duration-length">
+        <message lang="en">i-tunes duration length is missing</message>
         <template>
             <guid/>
         </template>
