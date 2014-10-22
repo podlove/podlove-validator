@@ -1,7 +1,7 @@
 xquery version "3.0";
-module namespace feed="http://podlove.org/podlove-matrix/feed";
+module namespace feed="http://podlove.org/podlove-validator/feed";
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
 import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 
 declare namespace psc="http://podlove.org/simple-chapters";
@@ -44,9 +44,18 @@ declare function feed:aggregate-feed($feedURI as xs:anyURI) {
 
 
 declare function feed:store-feed($feedURI as xs:anyURI) {
-    let $data := feed:aggregate-feed($feedURI)//rss
+    let $data := feed:aggregate-feed($feedURI)
     return
-        xmldb:store($feed:data-root,util:uuid($data//channel/title/text()) || ".xml", $data)
+        if(exists($data//channel[1]/title))
+        then (
+            let $feed-uid := util:uuid($data//channel[1]/title/text()) || ".xml"
+            return 
+                xmldb:store($feed:data-root, $feed-uid, $data)    
+        )
+        else (
+            $data
+        )
+        
 };
 
 declare function feed:updates-feeds($feedURI as xs:anyURI) {

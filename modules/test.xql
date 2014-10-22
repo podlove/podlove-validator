@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
 
 import module namespace xdiff="http://exist-db.org/xquery/xmldiff"
     at "java:org.exist.xquery.modules.xmldiff.XmlDiffModule";
@@ -26,4 +26,3 @@ let $diff  := xdiff:compare($nsfw1, $nsfw2)
 
 return 
     $diff
-    

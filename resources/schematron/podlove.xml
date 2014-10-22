@@ -65,9 +65,11 @@
             <!-- ITUNES -->
             <let name="duration" value="itunes:duration"/>
             <assert test="itunes:duration">#i-itunes-duration</assert>
-            <assert test="string-length(itunes:duration) = 8">#i-itunes-duration-length</assert>
+            <assert test="string-length(itunes:duration) = 7 or string-length(itunes:duration) = 8">#i-itunes-duration-length <value-of select="itunes:duration"/>
+            </assert>
             <assert test="itunes:subtitle">#i-itunes-subtitle</assert>
-            <assert test="string-length(itunes:subtitle) &gt; 1">#i-itunes-subtitle-length: <value-of select="concat('jalllo:',$pos)"/>.</assert>
+            <assert test="string-length(itunes:subtitle) &gt; 1">#i-itunes-subtitle-length <value-of select="title"/>
+            </assert>
             <assert test="itunes:summary">#i-itunes-summary</assert>
             <assert test="itunes:author">#i-itunes-author</assert>
             <assert test="string-length(itunes:author) &gt; 1">#i-itunes-author-length</assert>

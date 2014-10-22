@@ -1,82 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<div xmlns="http://www.w3.org/1999/xhtml" data-template="templates:surround" data-template-with="templates/page.html" data-template-at="content">
-    <style>
-        .podcasts *{ -webkit-font-smoothing: antialiased; }
-        
-        .thumbnail {
-            height:30em;
-        }
-        img {
-            max-height:300px;
-            max-width:300px;
-        }
-    </style>
-    <div class="row row-offcanvas row-offcanvas-righ podcast" data-template="app:podcast">
-        <div class="col-xs-12 col-sm-9">
-            <p class="pull-right visible-xs">
-                <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
-            </p>
-            <div class="jumbotron">
-                <h1>Podlove Matrix</h1>
-                <p>The Podlove Matrix ... bla blub.. display, search, aggreagate and to do fancy things with Metadata. Brought to you by @me_metaebene.</p>
-            </div>
-            <div class="row" data-template="app:podcasts">
-                <div class="col-6 col-sm-6 col-lg-4" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
-                    <div class="thumbnail">
-                        <a data-template="app:podcast-icon"/>
-                        <div class="caption">
-                            <h5 data-template="app:podcast-title"/>
-                            <p data-template="app:podcast-subtitle"/>
-                        </div>
+<html>
+<head>
+    <title data-template="config:app-title">Podlove Podcast Validaotr</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta data-template="config:app-meta"/>
+    <!-- link rel="shortcut icon" href="$shared/resources/images/exist_icon_16x16.ico"/>
+    <link rel="stylesheet" type="text/css" href="resources/css/styles.css"/>
+    <link rel="stylesheet" type="text/css" href="$shared/resources/css/bootstrap-3.0.3.min.css"/-->
+
+    <!-- build:template
+    <%= minifiedCss %>
+
+    /build -->
+
+    <!-- build:remove -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="bower_components/font-awesome/css/font-awesome.css" rel="stylesheet"/>
+    <link href="bower_components/animate.css/animate.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="resources/css/styles.css"/>
+    <!-- /build -->
+</head>
+<body id="grey-top">
+    <div class="container">
+        <div class="row" id="content">
+            <div class="row row-offcanvas row-offcanvas-righ podcast">
+                <div class="col-xs-12 col-sm-9">
+                    <p class="pull-right visible-xs">
+                        <button type="button" class="btn btn-primary btn-xs">Toggle nav</button>
+                    </p>
+                    <div class="header">
+                        <h1>Podlove Validator</h1>
+
+                        <p>The Podlove Validator ... bla blub... </p>
+                    </div>
+                    <div class="row">
+                        <form class="form" role="form" data-bv-message="This value is not valid"
+                              data-bv-feedbackicons-valid="glyphicon glyphicon-ok"
+                              data-bv-feedbackicons-invalid="glyphicon glyphicon-remove"
+                              data-bv-feedbackicons-validating="glyphicon glyphicon-refresh"
+                              data-bv-submitbuttons="button[type=&#34;submit&#34;]" data-bv-live="enabled">
+                            <div class="input-group form-group-lg">
+                                <input type="search" class="form-control input-lg" id="inputFeedURL"
+                                       placeholder="insert your feed url"
+                                       value="http://www.wrint.de/category/fotografie/feed/"/>
+                                    <span class="input-group-btn">
+                                        <button id="validateBtn" class="btn btn-primary btn-lg" type="button">Validate!
+                                        </button>
+                                    </span>
+                            </div>
+                        </form>
+                        <ul id="messagebox" class="container courses-container media-list"/>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
-            <div class="list-group">
-                <a href="#" class="list-group-item active">Link</a>
-            </div>
-        </div><!--/span-->
-    </div>
-    <hr/>
-    <footer>
-        <p>Podlove 2014</p>
-    </footer>    
-    
-    <!-- div class="row">
-        <div class="col-md-12">
-            <div class="page-header">
-                <h1>Poodle <small>aka 'the Podlove Matrix'</small>
-                </h1>
-                <div>The Podlove way to display, search, aggreagate and to do fancy things with Metadata. Brought to you by the @metaebene</div>
+        <div id="footer">
+            <div id="copyright">
+                <p/>
             </div>
         </div>
     </div>
-    <div class="row podcasts" data-template="app:podcasts">
-        <div class="col-md-4" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
-            <div class="thumbnail">
-                <a data-template="app:podcast-icon"/>
-                <div class="caption">
-                    <h3 data-template="app:podcast-title"/>
-                    <p data-template="app:podcast-subtitle"/>
-                </div>
-            </div>
-        </div>    
-    
-        <ul class="media-list">
-            <div class="col-md-12" data-template="app:each" data-template-from="podcasts" data-template-to="podcast">
-                <li class="media podcast">
-                    <a class="pull-left" data-template="app:podcast-icon"/>
-                    <div class="media-body">
-                        <h3 class="title">
-                            <a data-template="app:podcast-title"/>
-                        </h3>
-                        <p class="subtitle">
-                            <a data-template="app:podcast-subtitle"/>
-                        </p>
-                    </div>
-                </li>
-            </div>
-        </ul>
-    </div-->
-</div>
+
+    <!-- script type="text/javascript" src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js"/>
+    <script type="text/javascript" src="$shared/resources/scripts/bootstrap-3.0.3.min.js"/>
+    <script type="text/javascript" src="$shared/resources/scripts/loadsource.js"/-->
+
+    <!-- build:js resources/js/app.min.js -->
+    <script src="bower_components/jquery/dist/jquery.js" type="text/javascript"/>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.js" type="text/javascript"/>
+    <script src="bower_components/snap.svg/dist/snap.svg.js" type="text/javascript"/>
+    <script src="resources/js/app.js" type="text/javascript"/>
+    <!-- /build -->
+    <script type="text/javascript">
+        console.log("starting page.html");
+    </script>
+</body>
+</html>

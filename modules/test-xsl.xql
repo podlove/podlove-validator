@@ -1,8 +1,8 @@
 xquery version "3.0";
 
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
-import module namespace schematron="http://podlove.org/podlove-matrix/schematron" at "schematron.xqm"; 
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
+import module namespace schematron="http://podlove.org/podlove-validator/schematron" at "schematron.xqm";
 
 declare namespace xsl="http://www.w3.org/1999/XSL/Transform";
 declare namespace xi="http://www.w3.org/2001/XInclude";
@@ -26,4 +26,3 @@ let $feed := doc($config:app-root || "/test/nsfw1.xml")
 return 
   (: transform:transform($grammar, $dsdl-01-include, $params):)
     schematron:xsl($feed)
-  

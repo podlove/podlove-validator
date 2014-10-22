@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="podlove-matrix">
+<project default="xar" name="podlove-validator">
     <property name="project.version" value="0.1"/>
-    <property name="project.app" value="podlove-matrix"/>
+    <property name="project.app" value="podlove-validator"/>
     <property name="build.dir" value="build"/>
 
     <target name="clean">

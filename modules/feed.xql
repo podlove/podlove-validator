@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
 
 import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 

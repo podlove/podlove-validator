@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
 
 declare namespace psc="http://podlove.org/simple-chapters";
 declare namespace fh="http://purl.org/syndication/history/1.0";
@@ -39,17 +39,12 @@ declare %private function local:analyse-full-feeds(){
     let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
     let $rss-feeds := collection($path-to-feeds)//rss
     let $distinct-feeds := count(distinct-values($rss-feeds//channel/title))
-    (:
-        let $generator := $rss-feeds//generator
-        let $generator-podlove := $rss-feeds//generator[ft:query(., 'podlove')]
-    :)
-
+    
     let $links := $rss-feeds//atom:link[@rel]
     let $payment-links := $links[@rel = "payment"]
     let $flattr := $payment-links[starts-with(@href, 'https://flattr.com/') or starts-with(@href, 'http://flattr.com')] 
     return 
         <result rss-feeds="{count($rss-feeds)}" distinct-feeds-titles="{$distinct-feeds}">
-            <!-- generator total="{count($generator)}" podlove="{count($generator-podlove)}"/-->
             <payment total="{count($payment-links)}" flattr="{count($flattr)}"/>
             {
                 let $channel-desc := $rss-feeds//channel/description[ft:query(., 'pritlove')]
@@ -90,6 +85,4 @@ declare %private function local:analyse-feeds(){
         </result>    
 };
 
-(
-    local:analyse-feeds()
-)
+local:analyse-full-feeds()

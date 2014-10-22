@@ -11,8 +11,8 @@ import module namespace templates="http://exist-db.org/xquery/templates" ;
  : The following modules provide functions which will be called by the 
  : templating.
  :)
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
-import module namespace app="http://podlove.org/podlove-matrix/templates" at "app.xql";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
+import module namespace app="http://podlove.org/podlove-validator/templates" at "app.xql";
 
 declare option exist:serialize "method=html5 media-type=text/html enforce-xhtml=yes";
 

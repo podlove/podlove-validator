@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace config="http://podlove.org/podlove-matrix/config" at "config.xqm";
+import module namespace config="http://podlove.org/podlove-validator/config" at "config.xqm";
 
 declare namespace psc="http://podlove.org/simple-chapters";
 declare namespace fh="http://purl.org/syndication/history/1.0";

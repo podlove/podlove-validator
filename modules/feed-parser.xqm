@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-module namespace fp="http://podlove.org/podlove-matrix/feedparser";
+module namespace fp="http://podlove.org/podlove-validator/feedparser";
 
 declare variable $fp:ATOM-HANDLER :=
     map {

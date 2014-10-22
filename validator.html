@@ -8,19 +8,20 @@
             <p class="pull-right visible-xs">
                 <button type="button" class="btn btn-primary btn-xs">Toggle nav</button>
             </p>
-            <div class="jumbotron">
+            <div class="header">
                 <h1>Podlove Validator</h1>
                 <p>The Podlove Validator ... bla blub... </p>
             </div>
             <div class="row">
-                <form class="form-inline" role="form" data-bv-message="This value is not valid" data-bv-feedbackicons-valid="glyphicon glyphicon-ok" data-bv-feedbackicons-invalid="glyphicon glyphicon-remove" data-bv-feedbackicons-validating="glyphicon glyphicon-refresh" data-bv-submitbuttons="button[type=&#34;submit&#34;]" data-bv-live="enabled">
+                <form class="form" role="form" data-bv-message="This value is not valid" data-bv-feedbackicons-valid="glyphicon glyphicon-ok" data-bv-feedbackicons-invalid="glyphicon glyphicon-remove" data-bv-feedbackicons-validating="glyphicon glyphicon-refresh" data-bv-submitbuttons="button[type=&#34;submit&#34;]" data-bv-live="enabled">
                     <div class="input-group form-group-lg">
-                        <input type="text" class="form-control input-lg" id="inputFeedURL" placeholder="insert your feed url" value="http://www.wrint.de/category/fotografie/feed/"/>
+                        <input type="search" class="form-control input-lg" id="inputFeedURL" placeholder="insert your feed url" value="http://www.wrint.de/category/fotografie/feed/"/>
                         <span class="input-group-btn">
                             <button id="validateBtn" class="btn btn-primary btn-lg" type="button">Validate!</button>
                         </span>
                     </div>
                 </form>
+                <div id="messagebox"/>
             </div>
         </div>
     </div>

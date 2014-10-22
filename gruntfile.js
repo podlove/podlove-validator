@@ -208,7 +208,7 @@ module.exports = function (grunt) {
          */
         uncss: {
             options: {
-                ignore: ['.collapsing', '.navbar-collapse.collapse', '.collapse.in', /.band-news.+\b/ , /.news-row.+\b/],
+                ignore: ['.collapsing', '.navbar-collapse.collapse', '.collapse.in'],
                 flatten: true
             },
             dist: {
