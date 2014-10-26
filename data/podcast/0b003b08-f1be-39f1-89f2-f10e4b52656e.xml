@@ -1,0 +1,1478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
+    <httpclient:headers>
+        <httpclient:header name="Vary" value="Accept-Encoding"/>
+        <httpclient:header name="Content-Type" value="application/rss+xml"/>
+        <httpclient:header name="Accept-Ranges" value="bytes"/>
+        <httpclient:header name="ETag" value="&#34;4282362387&#34;"/>
+        <httpclient:header name="Last-Modified" value="Mon, 29 Sep 2014 14:54:34 GMT"/>
+        <httpclient:header name="Content-Length" value="109669"/>
+        <httpclient:header name="Date" value="Sun, 26 Oct 2014 21:18:40 GMT"/>
+        <httpclient:header name="Server" value="lighttpd"/>
+    </httpclient:headers>
+    <httpclient:body mimetype="application/rss+xml" type="xml">
+        <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:xhtml="http://www.w3.org/1999/xhtml" version="2.0">
+            <channel>
+    <!--http://www.podcast.de/podcast/claim/action/claim/frmHash/pod_19683XDRTEPygdxpLc5ii3300/-->
+                <title>Chaosradio</title>
+                <link>http://chaosradio.ccc.de/chaosradio.html</link>
+                <atom:link href="http://chaosradio.ccc.de/chaosradio-latest.rss" rel="self" title="Chaosradio" type="application/rss+xml"/>
+                <description>
+    Chaosradio ist der unterhaltsame Live-Talk-Radio-Klassiker des Chaos Computer Clubs aus Berlin und eines der ältesten Tech-Radios überhaupt. Chaosradio informiert seit 1995 über wechselnde Themen rund um Technologie und Gesellschaft. Chaosradio sendet in der Regel am jeweils letzten Donnerstag eines Monats, an ungeraden Monaten auch auf dem Radiosender Fritz (RBB), jeweils von 22 bis 0 Uhr und lädt zur aktiven Teilnahme via Telefon und IRC ein.
+Unter der Rufnummer +49 (1801) 99 33 22 99 55 könnt ihr Audio-Feedback zur Sendung via Telefon hinterlassen.
+  </description>
+                <itunes:subtitle>Das monatliche Live-Talk-Radio auf Fritz</itunes:subtitle>
+                <itunes:summary>
+    Chaosradio ist der unterhaltsame Live-Talk-Radio-Klassiker des Chaos Computer Clubs aus Berlin und eines der ältesten Tech-Radios überhaupt. Chaosradio informiert seit 1995 über wechselnde Themen rund um Technologie und Gesellschaft. Chaosradio sendet in der Regel am jeweils letzten Donnerstag eines Monats, an ungeraden Monaten auch auf dem Radiosender Fritz (RBB), jeweils von 22 bis 0 Uhr und lädt zur aktiven Teilnahme via Telefon und IRC ein.
+Unter der Rufnummer +49 (1801) 99 33 22 99 55 könnt ihr Audio-Feedback zur Sendung via Telefon hinterlassen.
+  </itunes:summary>
+                <language>de</language>
+                <generator>Chaosradio Web Site and Feed Generator XSLT Script. Hacked by Tim Pritlove.</generator>
+                <webMaster>chaosradio@ccc.de</webMaster>
+                <managingEditor>chaosradio@ccc.de</managingEditor>
+                <itunes:author>Chaos Computer Club</itunes:author>
+                <itunes:owner>
+                    <itunes:name>Chaos Computer Club</itunes:name>
+                    <itunes:email>chaosradio@ccc.de</itunes:email>
+                </itunes:owner>
+                <itunes:image href="http://chaosradio.ccc.de/chaosradio-logo-300x300.jpg"/>
+                <category>Technology</category>
+                <itunes:category text="Technology"/>
+                <itunes:keywords>Chaos Computer Club,Chaosradio,Chaos Radio,Fritz,RBB,Hacking,Technology,Politics,Science,Society,Community</itunes:keywords>
+                <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>CR205 Vintage Computing</title>
+                    <itunes:subtitle>Von Rechenmaschinen und Home Computern</itunes:subtitle>
+                    <description>Von Rechenmaschinen und Home Computern</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr205-vintagecomputing.mp3" length="114379837"/>
+                    <itunes:duration>01:59:07</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr205.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr205.html</link>
+                    <category>Chaosradio</category>
+                    <category>Vintage Computing</category>
+                    <category>Retro Computing</category>
+                    <pubDate>28 Sep 2014 22:16:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR205
+
+Veröffentlicht am: 28.09.2014, 22:16 Uhr
+Aufnahme vom: 25.09.2014
+Sendungsdatum: 25.09.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr205.html
+
+Teilnehmer: Marcus Richter (Moderation), Danimo, Dexter, Zeltophil
+
+Vintage Computing
+Von Rechenmaschinen und Home Computern
+
+Für Auto-Fans sind gut gepflegte "Oldtimer" absolute Liebhaberstücke. Aber warum stellt sich jemand freiwillig alte Computer ins Zimmer? Und was ist so faszinierend an Hardware, die für einen Bruchteil der Rechenleistung eines Smartphones einen Starkstromanschluß braucht? Anlässlich des Vintage Computing Festivals in Berlin http://www.vcfb.de/2014/ am 04. und 05. Oktober begrüßt Marcus Richter neben vintage-affinen CCC-Mitgliedern auch die Macher der Veranstaltung am Donnerstag den 25.09. ab 22 Uhr in den Fritz-Studios in Potsdam-Babelsberg. 
+
+Dabei soll nicht nur geklärt werden, ob Retro-Computer wichtige museale Werkzeuge der digitalen Archivierung, Hipster-Zubehör oder vielleicht eine robuste Alternative zu Smartphones im Fall einer Zombie-Apokalypse sind. Wir wollen außerdem von euch wissen /mitmachen.html , was das älteste Stück Rechentechnik ist, dass sich bei euch noch hinter dem Fernsehschrank oder in staubigen Kellerecken verbirgt. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Für Auto-Fans sind gut gepflegte "Oldtimer" absolute Liebhaberstücke. Aber warum stellt sich jemand freiwillig alte Computer ins Zimmer? Und was ist so faszinierend an Hardware, die für einen Bruchteil der Rechenleistung eines Smartphones einen Starkstromanschluß braucht? Anlässlich des <a href="http://www.vcfb.de/2014/">Vintage Computing Festivals in Berlin</a> am 04. und 05. Oktober begrüßt Marcus Richter neben vintage-affinen CCC-Mitgliedern auch die Macher der Veranstaltung am Donnerstag den 25.09. ab 22 Uhr in den Fritz-Studios in Potsdam-Babelsberg.</p>
+                        <p>Dabei soll nicht nur geklärt werden, ob Retro-Computer wichtige museale Werkzeuge der digitalen Archivierung, Hipster-Zubehör oder vielleicht eine robuste Alternative zu Smartphones im Fall einer Zombie-Apokalypse sind. Wir wollen außerdem <a href="/mitmachen.html">von euch wissen</a>, was das älteste Stück Rechentechnik ist, dass sich bei euch noch hinter dem Fernsehschrank oder in staubigen Kellerecken verbirgt.</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Danimo, Dexter, Zeltophil</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR204 Passwörter</title>
+                    <itunes:subtitle>You shall not pass!</itunes:subtitle>
+                    <description>You shall not pass!</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr204-passwoerter.mp3" length="96970842"/>
+                    <itunes:duration>01:55:26</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr204.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr204.html</link>
+                    <category>Chaosradio</category>
+                    <category>Passwörter</category>
+                    <pubDate>27 Aug 2014 00:30:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR204
+
+Veröffentlicht am: 27.08.2014, 00:30 Uhr
+Aufnahme vom: 31.07.2014
+Sendungsdatum: 28.08.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr204.html
+
+Teilnehmer: Wetterfrosch (Moderation), Anna Biselli, Danimo, Hendryk
+
+Passwörter
+You shall not pass!
+
+Ob für unsere Computer, E-Mails oder Bankkonten: Passwörter sind heute meist das Mittel der Wahl, um sich in der digitalen Welt zu authentifizieren. In jüngster Vergangenheit sind Anbietern von Internetdiensten häufiger auch millionenfach die Passwörter ihrer Nutzer "abhanden" gekommen. Wir möchten ergründen wie Passworte funktioneren, was ein gutes und was ein schlechtes Passwort ist und wie es in unterschiedlichen Situationen verwendet werden sollte. Außerdem wollen wir diskutieren, wie Passwörter sicher gespeichert werden und welcher Werkzeuge sich dunkle Gestalten bemächten, um sie zu knacken. 
+
+Sind Passworte überhaupt noch zeitgemäß? Welche Weiterentwicklungen gibt es? Was sind Hardware-Tokens, was eine Two-Factor-Authentification und was sind diese lustigen kleinen Kästen, die immer neue Zahlen anzeigen? Und wie sicher sind doch gleich Irisscan und Fingerabdruck? Um all das geht es am Donnerstag den 22.08 im Chaosradio 204, live aus dem Chaos Computer Club Berlin in der Marienstraße 11. 
+
+Hinweis: Diese Ausgabe wird nicht auf Fritz übertragen, wird aber per Xenim http://streams.xenim.net/chaosradio/ (Audio) und über das C3VOC http://streaming.media.ccc.de (Video) ins Netz gestreamed. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Ob für unsere Computer, E-Mails oder Bankkonten: Passwörter sind heute meist das Mittel der Wahl, um sich in der digitalen Welt zu authentifizieren. In jüngster Vergangenheit sind Anbietern von Internetdiensten häufiger auch millionenfach die Passwörter ihrer Nutzer "abhanden" gekommen. Wir möchten ergründen wie Passworte funktioneren, was ein gutes und was ein schlechtes Passwort ist und wie es in unterschiedlichen Situationen verwendet werden sollte. Außerdem wollen wir diskutieren, wie Passwörter sicher gespeichert werden und welcher Werkzeuge sich dunkle Gestalten bemächten, um sie zu knacken.</p>
+                        <p>Sind Passworte überhaupt noch zeitgemäß? Welche Weiterentwicklungen gibt es? Was sind Hardware-Tokens, was eine Two-Factor-Authentification und was sind diese lustigen kleinen Kästen, die immer neue Zahlen anzeigen? Und wie sicher sind doch gleich Irisscan und Fingerabdruck? Um all das geht es am Donnerstag den 22.08 im Chaosradio 204, live aus dem Chaos Computer Club Berlin in der Marienstraße 11.</p>
+                        <p>
+                            <strong>Hinweis:</strong> Diese Ausgabe wird nicht auf Fritz übertragen, wird aber per <a href="http://streams.xenim.net/chaosradio/">Xenim</a> (Audio) und <a href="http://streaming.media.ccc.de">über das C3VOC</a> (Video) ins Netz gestreamed.</p>
+                        <p>Teilnehmer: Wetterfrosch (Moderation), Anna Biselli, Danimo, Hendryk</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR203 Freifunk statt Angst</title>
+                    <itunes:subtitle>Die Störer der Störerhaftung</itunes:subtitle>
+                    <description>Die Störer der Störerhaftung</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr203-freifunkstattangst.mp3" length="113322981"/>
+                    <itunes:duration>01:58:01</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr203.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr203.html</link>
+                    <category>Chaosradio</category>
+                    <category>Freifunk</category>
+                    <pubDate>02 Aug 2014 23:44:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR203
+
+Veröffentlicht am: 02.08.2014, 23:44 Uhr
+Aufnahme vom: 31.07.2014
+Sendungsdatum: 31.07.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr203.html
+
+Teilnehmer: Marcus Richter (Moderation), Bea, Mirko, Monic
+
+Freifunk statt Angst
+Die Störer der Störerhaftung
+
+Wer seinen Internet-Anschluss mit anderen Leuten teilen will, lebt in Deutschland gefährlich. Von Rechteinhabern beauftragte Anwaltskanzleien lassen den Anschlussinhaber tief in die Tasche greifen, auch wenn es ein Gast war, der es mit dem Urheberrecht nicht ganz genau genommen hat. Die sogenannte Störerhaftung macht's möglich. Auch die Teinehmer des Freifunk-Projektes http://freifunk.net/ , dass wir schon in Chaosradio 162 http://chaosradio.ccc.de/cr162.html vorgestellt haben, haben unmittelbar darunter zu leiden und greifen nun, bislang sehr erfolgreich, zur juristischen Gegenwehr. 
+
+Was genau bislang passiert ist, wie es weitergeht, und sich bei Freifunk derzeit generell tut, erzählen die Initiatoren von "Freifunk Statt Angst" und andere Freifunker bei Marcus Richter am 31.07. ab 22:00 Uhr im Chaosradio auf Fritz http://www.fritz.de . 
+
+[ Sendung kommentieren http://blog.chaosradio.ccc.de/index.php/2014/07/29/cr-203-freifunk-statt-angst/ | Ausführliche Shownotes http://shownot.es/cr/203 ] 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Wer seinen Internet-Anschluss mit anderen Leuten teilen will, lebt in Deutschland gefährlich. Von Rechteinhabern beauftragte Anwaltskanzleien lassen den Anschlussinhaber tief in die Tasche greifen, auch wenn es ein Gast war, der es mit dem Urheberrecht nicht ganz genau genommen hat. Die sogenannte Störerhaftung macht's möglich. Auch die Teinehmer des <a href="http://freifunk.net/">Freifunk-Projektes</a>, dass wir schon in <a href="http://chaosradio.ccc.de/cr162.html">Chaosradio 162</a> vorgestellt haben, haben unmittelbar darunter zu leiden und greifen nun, bislang sehr erfolgreich, zur juristischen Gegenwehr.</p>
+                        <p>Was genau bislang passiert ist, wie es weitergeht, und sich bei Freifunk derzeit generell tut, erzählen die Initiatoren von "Freifunk Statt Angst" und andere Freifunker bei Marcus Richter am 31.07. ab 22:00 Uhr im Chaosradio auf <a href="http://www.fritz.de">Fritz</a>.</p>
+                        <p>[ <a href="http://blog.chaosradio.ccc.de/index.php/2014/07/29/cr-203-freifunk-statt-angst/">Sendung kommentieren</a> | <a href="http://shownot.es/cr/203">Ausführliche Shownotes</a> ]
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Bea, Mirko, Monic</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR202 Ist das schon alles?</title>
+                    <itunes:subtitle>Wie man Crippleware von Anti-Features heilen kann</itunes:subtitle>
+                    <description>Wie man Crippleware von Anti-Features heilen kann</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr202-ist-das-schon-alles.mp3" length="114690052"/>
+                    <itunes:duration>01:59:27</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr202.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr202.html</link>
+                    <category>Chaosradio</category>
+                    <pubDate>22 Jun 2014 21:30:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR202
+
+Veröffentlicht am: 22.06.2014, 21:30 Uhr
+Aufnahme vom: 26.06.2014
+Sendungsdatum: 26.06.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr202.html
+
+Teilnehmer: Marcus Richter (Moderation), Matthias Kirschner, benthor, derpeter, danimo, mutax
+
+Ist das schon alles?
+Wie man Crippleware von Anti-Features heilen kann
+
+Die neue Kamera ist eigentlich ganz gut, aber wenn man eine längere Belichtungszeit wählen könnte, wäre sie noch besser. Das kann aber nur das nächstgrößere Modell. Das neue Smartphone ist ganz wundervoll, aber ein einfacher Zugriff auf das Dateisystem ein Ding der Unmöglichkeit. Und der Scanner ist nicht so schnell, wie man in dem US-amerikanischen Werbespot sieht, aber kaputt ist er auch nicht. 
+
+Wer ein neues Stück Technik kauft, darf sich schon lange nicht mehr darauf verlassen, dass das Gadget auch alles tut, was die Hardware hergibt. Die Einschränkung von Geräten erfolgt durch Software, die diese “Anti-Features” realisiert. Welche Interessen verbergen sich dahinter? Kann man diese Anti-Features umgehen? Und wenn ja: Wie? Im Chaosradio 202 geht es am 26.06 – ganz ohne Einschränkungen – um Anti-Features, Crippleware und was man dagegen machen kann. Live ab 22:00 Uhr aus den Räumen des CCC in der Marienstrasse 11 oder per Stream unter chaosradio.ccc.de. 
+
+[ Sendung kommentieren https://blog.chaosradio.ccc.de/index.php/2014/06/23/cr-202-ist-das-etwa-alles/ | Ausführliche Shownotes http://shownot.es/cr/202 ] 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Die neue Kamera ist eigentlich ganz gut, aber wenn man eine längere Belichtungszeit wählen könnte, wäre sie noch besser. Das kann aber nur das nächstgrößere Modell. Das neue Smartphone ist ganz wundervoll, aber ein einfacher Zugriff auf das Dateisystem ein Ding der Unmöglichkeit. Und der Scanner ist nicht so schnell, wie man in dem US-amerikanischen Werbespot sieht, aber kaputt ist er auch nicht.</p>
+                        <p>Wer ein neues Stück Technik kauft, darf sich schon lange nicht mehr darauf verlassen, dass das Gadget auch alles tut, was die Hardware hergibt. Die Einschränkung von Geräten erfolgt durch Software, die diese “Anti-Features” realisiert. Welche Interessen verbergen sich dahinter? Kann man diese Anti-Features umgehen? Und wenn ja: Wie? Im Chaosradio 202 geht es am 26.06 – ganz ohne Einschränkungen – um Anti-Features, Crippleware und was man dagegen machen kann. Live ab 22:00 Uhr aus den Räumen des CCC in der Marienstrasse 11 oder per Stream unter chaosradio.ccc.de.
+    </p>
+                        <p>
+[ <a href="https://blog.chaosradio.ccc.de/index.php/2014/06/23/cr-202-ist-das-etwa-alles/">Sendung kommentieren</a> | <a href="http://shownot.es/cr/202">Ausführliche Shownotes</a> ]
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Matthias Kirschner, benthor, derpeter, danimo, mutax</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR201 ...und keiner hat's gesehen</title>
+                    <itunes:subtitle>Die Lehren aus dem Heartbleed Bug</itunes:subtitle>
+                    <description>Die Lehren aus dem Heartbleed Bug</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr201-undkeinerhatsgesehen.mp3" length="113056453"/>
+                    <itunes:duration>01:57:45</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr201.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr201.html</link>
+                    <category>SSL</category>
+                    <category>Open Source</category>
+                    <category>Quellcode</category>
+                    <category>Truecrypt</category>
+                    <category>Goto Fail</category>
+                    <category>Heartbleed</category>
+                    <category>Chaosradio</category>
+                    <pubDate>30 May 2014 22:50:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR201
+
+Veröffentlicht am: 30.05.2014, 22:50 Uhr
+Aufnahme vom: 29.05.2014
+Sendungsdatum: 29.05.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr201.html
+
+Teilnehmer: Marcus Richter (Moderation), erdgeist, danimo, Florian
+
+...und keiner hat's gesehen
+Die Lehren aus dem Heartbleed Bug
+
+Seit Snowden wird uns gesagt: Verschlüsselt! Gleichzeitig tauchen immer wieder Verschlüsselungslücken bei https-Verbindungen auf, eine der grundlegenden Methoden um Datenverbindungen im Internet zu verschlüsseln. Im aktuellen Chaosradio im Blue Moon sollen zwei Fragen geklärt werden: Warum ist die Technologie hinter dem https:// so häufig kaputt? Und sollte genau diese Software nicht bombensicher sein, weil sie Open Source ist, also jeder den Quellcode anschauen kann? Marcus Richter erwartet den Chaos Computer Club ab 22:00 Uhr in den Fritz-Studios und Euch und Eure Fragen unter 0331/70 97 110. 
+
+[ Sendung kommentieren https://blog.chaosradio.ccc.de/index.php/2014/05/30/cr-201-und-keiner-hats-gesehen/ | Ausführliche Shownotes http://shownot.es/cr/201 ] 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Seit Snowden wird uns gesagt: Verschlüsselt! Gleichzeitig tauchen immer wieder Verschlüsselungslücken bei https-Verbindungen auf, eine der grundlegenden Methoden um Datenverbindungen im Internet zu verschlüsseln.   Im aktuellen Chaosradio im Blue Moon sollen zwei Fragen geklärt werden: Warum ist die Technologie hinter dem https:// so häufig kaputt? Und sollte genau diese Software nicht bombensicher sein, weil sie Open Source ist, also jeder den Quellcode anschauen kann?  Marcus Richter erwartet den Chaos Computer Club ab 22:00 Uhr in den Fritz-Studios und Euch und Eure Fragen unter 0331/70 97 110.
+    </p>
+                        <p>
+[ <a href="https://blog.chaosradio.ccc.de/index.php/2014/05/30/cr-201-und-keiner-hats-gesehen/">Sendung kommentieren</a> | <a href="http://shownot.es/cr/201">Ausführliche Shownotes</a> ]
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), erdgeist, danimo, Florian</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR200 Der Chaos Computer Club</title>
+                    <itunes:subtitle>The Next Generation?</itunes:subtitle>
+                    <description>The Next Generation?</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr200-derchaoscomputerclub.mp3" length="115921468"/>
+                    <itunes:duration>02:00:43</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr200.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr200.html</link>
+                    <category>Jubiläum</category>
+                    <category>Chaosradio</category>
+                    <category>Chaos Computer Club</category>
+                    <pubDate>22 Apr 2014 19:52:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR200
+
+Veröffentlicht am: 22.04.2014, 19:52 Uhr
+Aufnahme vom: 24.04.2014
+Sendungsdatum: 24.04.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr200.html
+
+Teilnehmer: Marcus Richter (Moderation)
+
+Der Chaos Computer Club
+The Next Generation?
+
+"Der Chaos Computer Club stellt sich in seiner ersten Ausgabe des Chaosradios http://chaosradio.ccc.de/cr1.html zunächst selbst vor", lautete im November 1995 die Ankündigung für die erste Sendung des Chaosradios auf dem Berliner Radiosender Fritz http://fritz.de . Seitdem sind zwanzig Jahre vergangen, und wir wollen mit unseren Gästen im Studio herausfinden, warum wir nicht schlicht und einfach die alte Sendung wieder abspielen können. 
+
+Was hat der CCC in den letzten Jahren so getan, wo kann man ihn kennenlernen, wie funktioniert er und was treibt die Hacker an, die sich im Club und im Chaosradio ehrenamtlich engagieren? Woran hacken die Hacker heute, und wie wird hacken wohl zur vierhundertsten Ausgabe aussehen? 
+
+Bei entspannter Atmosphäre sendete das Chaosradio live aus den Clubräumen des Chaos Computer Clubs Berlin in der Marienstraße 11, mit Marcus Richter am Mikrofon. Ihr seid eingeladen, uns dabei ab 19oo Uhr zu besuchen und mitzufeiern https://berlin.ccc.de/wiki/CR200 . 
+
+[ Sendung kommentieren http://blog.chaosradio.ccc.de/index.php/2014/04/27/cr-200-der-chaos-computer-club/ | Ausführliche Shownotes http://shownot.es/cr/200 ] 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+"Der Chaos Computer Club stellt sich in seiner <a href="http://chaosradio.ccc.de/cr1.html">ersten Ausgabe des Chaosradios</a> zunächst selbst vor", lautete im November 1995 die Ankündigung für die erste Sendung des Chaosradios auf dem Berliner Radiosender <a href="http://fritz.de">Fritz</a>. Seitdem sind zwanzig Jahre vergangen, und wir wollen mit unseren Gästen im Studio herausfinden, warum wir nicht schlicht und einfach die alte Sendung wieder abspielen können.
+    </p>
+                        <p>
+Was hat der CCC in den letzten Jahren so getan, wo kann man ihn kennenlernen, wie funktioniert er und was treibt die Hacker an, die sich im Club und im Chaosradio ehrenamtlich engagieren? Woran hacken die Hacker heute, und wie wird hacken wohl zur vierhundertsten Ausgabe aussehen?
+    </p>
+                        <p>
+Bei entspannter Atmosphäre sendete das Chaosradio live aus den Clubräumen des Chaos Computer Clubs Berlin in der Marienstraße 11, mit Marcus Richter am Mikrofon. Ihr seid eingeladen, uns dabei <a href="https://berlin.ccc.de/wiki/CR200">ab 19oo Uhr zu besuchen und mitzufeiern</a>.
+    </p>
+                        <p>
+[ <a href="http://blog.chaosradio.ccc.de/index.php/2014/04/27/cr-200-der-chaos-computer-club/">Sendung kommentieren</a> | <a href="http://shownot.es/cr/200">Ausführliche Shownotes</a> ]
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation)</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR199 Eigenhosting: Elend oder Erlösung?</title>
+                    <itunes:subtitle>Oder: Wo man den eigenen Server am besten hinstellt und was man damit nicht machen sollte.</itunes:subtitle>
+                    <description>Oder: Wo man den eigenen Server am besten hinstellt und was man damit nicht machen sollte.</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr199-Eigenhosting.mp3" length="115981191"/>
+                    <itunes:duration>02:00:47</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr199.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr199.html</link>
+                    <pubDate>27 Mar 2014 03:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR199
+
+Veröffentlicht am: 27.03.2014, 03:10 Uhr
+Aufnahme vom: 27.03.2014
+Sendungsdatum: 27.03.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr199.html
+
+Teilnehmer: Marcus Richter (Moderation), Dmitry, Kay, erdgeist
+
+Eigenhosting: Elend oder Erlösung?
+Oder: Wo man den eigenen Server am besten hinstellt und was man damit nicht machen sollte.
+
+Nicht nur die Geheimdienste überwachen uns im Netz. Auch die Firmen, die uns die verschiedenen Dienste anbieten, durchschnüffeln und verwerten ungeniert unsere Daten, verlieren sie bei Angriffen oder durch unachtsame Administratoren und verkaufen diese – wenn man jüngsten Berichten glauben schenken kann –seit Jahren auch an Staat und andere Firmen. Doch wie entzieht man sich dem eisernen Griff von Dropbox, Facebook, Google und Apple? 
+
+“Mach es doch einfach selber!” lautet die in den Ohren von blutigen Anfängern fast schon höhnische Aufforderung. Natürlich wäre es ideal, Mail-, Chat- und Speicherplatzserver selbst zu betreiben. Am besten an einem Ort, wo man auch die Hardware unter eigener Kontrolle hat – oder wo zumindest rudimentäre Datenschutzgesetze gelten. 
+
+Doch was ist dafür notwendig? Ist es besser, den Server unter dem eigenen Schreibtisch zu verstecken oder sollte man ihn doch lieber in einem Rechenzentrum zu platzieren? Lohnt es sich, solche Dienste auf im Freundeskreis anzubieten? Wie schwierig ist es eigentlich, einen eigenen E-Mailserver aufzusetzen und was kann man dabei alles falsch machen? Und welche juristischen, sozialen und unvorhergesehenen Konsequenzen kommen da auf einen zu? 
+
+erdgeist und Dmitry geben eine kleine Einführung in die wunderbare Welt des Eigenhostings und verraten, was man beachten sollte, damit man selbst nicht genau dieselben Fehler macht, wie die großen Anbieter. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Nicht nur die Geheimdienste überwachen uns im Netz. Auch die Firmen, die uns die verschiedenen Dienste anbieten, durchschnüffeln und verwerten ungeniert unsere Daten, verlieren sie bei Angriffen oder durch unachtsame Administratoren und verkaufen diese – wenn man jüngsten Berichten glauben schenken kann –seit Jahren auch an Staat und andere Firmen. Doch wie entzieht man sich dem eisernen Griff von Dropbox, Facebook, Google und Apple?
+    </p>
+                        <p>
+                            <em>“Mach es doch einfach selber!”</em> lautet die in den Ohren von blutigen Anfängern fast schon höhnische Aufforderung. Natürlich wäre es ideal, Mail-, Chat- und Speicherplatzserver selbst zu betreiben. Am besten an einem Ort, wo man auch die Hardware unter eigener Kontrolle hat – oder wo zumindest rudimentäre Datenschutzgesetze gelten.
+    </p>
+                        <p>
+Doch was ist dafür notwendig? Ist es besser, den Server unter dem eigenen Schreibtisch zu verstecken oder sollte man ihn doch lieber in einem Rechenzentrum zu platzieren? Lohnt es sich, solche Dienste auf im Freundeskreis anzubieten? Wie schwierig ist es eigentlich, einen eigenen E-Mailserver aufzusetzen und was kann man dabei alles falsch machen? Und welche juristischen, sozialen und unvorhergesehenen Konsequenzen kommen da auf einen zu?
+    </p>
+                        <p>
+erdgeist und Dmitry geben eine kleine Einführung in die wunderbare Welt des Eigenhostings und verraten, was man beachten sollte, damit man selbst nicht genau dieselben Fehler macht, wie die großen Anbieter.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Dmitry, Kay, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR198 Hardware-Hacking</title>
+                    <itunes:subtitle>Oder: ob man Bits im Silizium verstecken kann</itunes:subtitle>
+                    <description>Oder: ob man Bits im Silizium verstecken kann</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr198-hardware-hacking.mp3" length="112757667"/>
+                    <itunes:duration>01:57:26</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr198.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr198.html</link>
+                    <pubDate>27 Feb 2014 03:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR198
+
+Veröffentlicht am: 27.02.2014, 03:10 Uhr
+Aufnahme vom: 27.02.2014
+Sendungsdatum: 27.02.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr198.html
+
+Teilnehmer: Marcus Richter (Moderation), Dmitry, starbug, ths
+
+Hardware-Hacking
+Oder: ob man Bits im Silizium verstecken kann
+
+Für viele Jahre galten hochkomplexe Schlösser und Schließsystem als sicher und Schlossermeister als Garanten, eine einbruchssichere Tür konstruieren zu können. Doch dann kamen sogenannte Lockpicker und führten vor, wie man ohne die dazugehörigen Schlüssel – und dann auch noch als Sportart auf Zeit – alle möglichen Schlösser öffnen kann. Von den Erfolgen der Romandetektive angeheizt, hielten Zutrittssysteme, die Personen anhand ihrer Fingerabdrücke identifizieren sollen, Einzug in die Sicherung von Objekten, Pässen und zuletzt Mobiltelefonen. Doch dann kamen Hobbyhacker mit Holzleim und einer Schäublone und loggten sich unberechtigt in iPhones ein. Lange Zeit galt als ausgeschlossen, daß der Fernseher – das Auge in die Welt – auch ein Auge der Welt in das Schlafzimmer seiner Benutzer sein könnte. Denn so ein simples Stück Hardware kann ganz sicher nicht gehackt werden. Oder kann es? 
+
+Viele Hersteller von Softwaresystemen glauben fest daran, daß das schlichte Hinzufügen einer Hardware-Komponente zum System, quasi durch einen Exotenbonus, die Systemsicherheit erhöht. Hardware könne man schließlich nicht so leicht hacken! Im Laufe der letzten Jahre haben außerdem zahlreiche Hersteller angefangen, die Vorzüge ihrer sehr individuellen, vertrauenswürdigen Plattform anzupreisen, die sich durch ein vermeintlich sicheres Hardware-Crypto-System von der Konkurrenz absetzt. So befinden sich angeblich nicht auslesbare, vor ihren Benutzern versteckte Herstellergeheimnisse auf Telefonkarten, TV-Smartcards, Dongles oder SIM-Karten. Doch insbesondere die in Marketingkampagnen besonders angepriesenen Hochsicherheitssysteme weisen teils massive Schwachstellen auf – oder rufen gerade erst die Hardware-Hacker auf den Plan, sich der Details anzunehmen. Zwischen einem knackigen "unhackbar" in der Werbebroschüre und dem dazu passenden Hack des Embedded- oder Hardware-Systems liegen oft nur Stunden der Arbeit, manchmal aber auch Tage und Wochen der Forschung. 
+
+Hardware-Hacking ist nicht nur was für Hacker und Neugierige, sondern längst auch von der Geheimdienstmafia als spannendes Forschungsfeld und Angriffsvektor erkannt worden. Einige der Enthüllungen aus dem Fundus von Edward Snowden zeigen beispielsweise Hardware-Trojaner oder Hintertüren, die sich vor allem dadurch auszeichnen, daß sie nur schwer zu entdecken sind – weil selten jemand nachforscht. 
+
+In dieser Sendung wollen wir die verschiedenen Ziele und Aspekte des Hardware-Hackings betrachten und all die Facetten und Motivationen der Hardware-Hacker-Szene beleuchten. Dmitry, starbug und ths erklären Euch in dieser Sendung die verschiedenen Motivationen und Herangehensweisen eines Hardware-Hackers und versuchen dabei ebenso auf die Hardware-Hacks der vergangenen Jahre einzugehen. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Für viele Jahre galten hochkomplexe Schlösser und Schließsystem als sicher und Schlossermeister als Garanten, eine einbruchssichere Tür konstruieren zu können. Doch dann kamen sogenannte Lockpicker und führten vor, wie man ohne die dazugehörigen Schlüssel – und dann auch noch als Sportart auf Zeit – alle möglichen Schlösser öffnen kann. Von den Erfolgen der Romandetektive angeheizt, hielten Zutrittssysteme, die Personen anhand ihrer Fingerabdrücke identifizieren sollen, Einzug in die Sicherung von Objekten, Pässen und zuletzt Mobiltelefonen. Doch dann kamen Hobbyhacker mit Holzleim und einer Schäublone und loggten sich unberechtigt in iPhones ein. Lange Zeit galt als ausgeschlossen, daß der Fernseher – das Auge in die Welt – auch ein Auge der Welt in das Schlafzimmer seiner Benutzer sein könnte. Denn so ein simples Stück Hardware kann ganz sicher nicht gehackt werden. Oder kann es?
+    </p>
+                        <p>
+Viele Hersteller von Softwaresystemen glauben fest daran, daß das schlichte Hinzufügen einer Hardware-Komponente zum System, quasi durch einen Exotenbonus, die Systemsicherheit erhöht. Hardware könne man schließlich nicht so leicht hacken! Im Laufe der letzten Jahre haben außerdem zahlreiche Hersteller angefangen, die Vorzüge ihrer sehr individuellen, vertrauenswürdigen Plattform anzupreisen, die sich durch ein vermeintlich sicheres Hardware-Crypto-System von der Konkurrenz absetzt. So befinden sich angeblich nicht auslesbare, vor ihren Benutzern versteckte Herstellergeheimnisse auf Telefonkarten, TV-Smartcards, Dongles oder SIM-Karten. Doch insbesondere die in Marketingkampagnen besonders angepriesenen Hochsicherheitssysteme weisen teils massive Schwachstellen auf – oder rufen gerade erst die Hardware-Hacker auf den Plan, sich der Details anzunehmen. Zwischen einem knackigen "unhackbar" in der Werbebroschüre und dem dazu passenden Hack des Embedded- oder Hardware-Systems liegen oft nur Stunden der Arbeit, manchmal aber auch Tage und Wochen der Forschung.
+    </p>
+                        <p>
+Hardware-Hacking ist nicht nur was für Hacker und Neugierige, sondern längst auch von der Geheimdienstmafia als spannendes Forschungsfeld und Angriffsvektor erkannt worden. Einige der Enthüllungen aus dem Fundus von Edward Snowden zeigen beispielsweise Hardware-Trojaner oder Hintertüren, die sich vor allem dadurch auszeichnen, daß sie nur schwer zu entdecken sind – weil selten jemand nachforscht.
+    </p>
+                        <p>
+In dieser Sendung wollen wir die verschiedenen Ziele und Aspekte des Hardware-Hackings betrachten und all die Facetten und Motivationen der Hardware-Hacker-Szene beleuchten. Dmitry, starbug und ths erklären Euch in dieser Sendung die verschiedenen Motivationen und Herangehensweisen eines Hardware-Hackers und versuchen dabei ebenso auf die Hardware-Hacks der vergangenen Jahre einzugehen.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Dmitry, starbug, ths</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR197 Je mehr, desto besser</title>
+                    <itunes:subtitle>Oder: Was man aus Überwachungsdaten lernen kann.</itunes:subtitle>
+                    <description>Oder: Was man aus Überwachungsdaten lernen kann.</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr197-datenanalyse.mp3" length="115231092"/>
+                    <itunes:duration>02:00:01</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr197.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr197.html</link>
+                    <pubDate>30 Jan 2014 15:50:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR197
+
+Veröffentlicht am: 30.01.2014, 15:50 Uhr
+Aufnahme vom: 30.01.2014
+Sendungsdatum: 30.01.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr197.html
+
+Teilnehmer: Marcus Richter (Moderation), Joachim Scharloth, Anna Biselli, Simon Willnauer, Andreas Bogk
+
+Je mehr, desto besser
+Oder: Was man aus Überwachungsdaten lernen kann.
+
+Zwei häufige Argumente von Leuten, denen Überwachung egal ist, sind: "Ich habe doch eh nichts zu verbergen!" und "Das sind eh zu viele Daten, um die alle zu durchsuchen." 
+
+Im Chaosradio geht es deshalb darum, was man mit Daten anstellen kann, nachdem sie durch Überwachung mitgeschnitten wurden. Was passiert mit den endlos langen Textwüsten aus Nachrichten, Blogposts und Chats? Welche Daten lassen sich daraus gewinnen? Welche inhaltlichen Erkenntnisse? Wie schnell kommt man zu Ergebnissen? Wie teuer ist die Hardware, die man dafür braucht? 
+
+Und was haben Zombiefilme damit zu tun? 
+
+Bei der Analyse all dieser Daten helfen dem Moderator Marcus Richter die Gäste im Studio Joachim Scharloth, Anna Biselli, Simon Willnauer und Andreas Bogk. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Zwei häufige Argumente von Leuten, denen Überwachung egal ist, sind: "Ich habe doch eh nichts zu verbergen!" und "Das sind eh zu viele Daten, um die alle zu durchsuchen."
+    </p>
+                        <p>
+Im Chaosradio geht es deshalb darum, was man mit Daten anstellen kann, nachdem sie durch Überwachung mitgeschnitten wurden. Was passiert mit den endlos langen Textwüsten aus Nachrichten, Blogposts und Chats? Welche Daten lassen sich daraus gewinnen? Welche inhaltlichen Erkenntnisse? Wie schnell kommt man zu Ergebnissen? Wie teuer ist die Hardware, die man dafür braucht?
+    </p>
+                        <p>
+Und was haben Zombiefilme damit zu tun?
+    </p>
+                        <p>
+Bei der Analyse all dieser Daten helfen dem Moderator Marcus Richter die Gäste im Studio Joachim Scharloth, Anna Biselli, Simon Willnauer und Andreas Bogk.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Joachim Scharloth, Anna Biselli, Simon Willnauer, Andreas Bogk</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR196 Schockwellen reiten</title>
+                    <itunes:subtitle>Oder: Was bisher geschah.</itunes:subtitle>
+                    <description>Oder: Was bisher geschah.</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr196-schockwellen-reiten.mp3" length="72777395"/>
+                    <itunes:duration>02:01:15</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr196.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr196.html</link>
+                    <pubDate>28 Nov 2013 19:11:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR196
+
+Veröffentlicht am: 28.11.2013, 19:11 Uhr
+Aufnahme vom: 28.11.2013
+Sendungsdatum: 28.11.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr196.html
+
+Teilnehmer: Marcus Richter (Moderation), Frank, Kay, Nibbler, erdgeist
+
+Schockwellen reiten
+Oder: Was bisher geschah.
+
+Wann immer Grundfesten der Überzeugung umgeworfen werden und ein Sturm von Veränderung durch das Land weht, kann man Zuflucht bauen – oder Windmühlen. Auch die Veröffentlichungen von Snowden haben die leicht angestaubte Bequemlichkeit ordentlich durchgepustet, in der es sich viele Nutzer des Netzes gut eingerichtet haben, im Glauben unbehelligt ihrem Tagwerk nachgehen zu können. Viele Glücksritter, die vor 150 Jahren noch aus ihrem Wägelchen Schlangenöl verkauft hätten, treiben sich nun bei den begierig lauschenden Pressevertretern und Neuland-Politikern herum, ihre Allheilmittel an den Mann zu bringen. 
+
+Was für ein glücklicher Zufall, dass gleich auch noch Bundestagswahl war, so ein Anlaß, die frühmittelalterliche deutsche Netzpolitik in den Jungbrunnen zu werfen, würde ja wohl kaum ungenutzt verstreichen. Oder? ODER? 
+
+Jetzt, viele Wochen nach der Wahl, hat die Große Koalition ihr Programm beschlossen, dass keine Wünsche offen lässt. Falls man ein apokalyptisch veranlagter Zeitgenosse ist, der einen weiteren Grund sucht, sich die Haare auszureißen. Im letzten Chaosradio des Jahres 2013 wollen wir deshalb einen ausführlichen Blick auf Ereignisse und Ergebnisse werfen, die übrig geblieben sind. Immerhin, einen Lichtblick gibt es: Am 27. Dezember beginnt der 30. Chaos Communication Congress, dem wir auch ein wenig Sendezeit einräumen wollen. 
+
+Mit Marcus Richter im Studio blicken Frank, Kay, Nibbler und erdgeist auf die Ereignisse des letzten Jahres zurück. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Wann immer Grundfesten der Überzeugung umgeworfen werden und ein Sturm von Veränderung durch das Land weht, kann man Zuflucht bauen – oder Windmühlen. Auch die Veröffentlichungen von Snowden haben die leicht angestaubte Bequemlichkeit ordentlich durchgepustet, in der es sich viele Nutzer des Netzes gut eingerichtet haben, im Glauben unbehelligt ihrem Tagwerk nachgehen zu können. Viele Glücksritter, die vor 150 Jahren noch aus ihrem Wägelchen Schlangenöl verkauft hätten, treiben sich nun bei den begierig lauschenden Pressevertretern und Neuland-Politikern herum, ihre Allheilmittel an den Mann zu bringen.
+    </p>
+                        <p>
+Was für ein glücklicher Zufall, dass gleich auch noch Bundestagswahl war, so ein Anlaß, die frühmittelalterliche deutsche Netzpolitik in den Jungbrunnen zu werfen, würde ja wohl kaum ungenutzt verstreichen. Oder? ODER?
+    </p>
+                        <p>
+Jetzt, viele Wochen nach der Wahl, hat die Große Koalition ihr Programm beschlossen, dass keine Wünsche offen lässt. Falls man ein apokalyptisch veranlagter Zeitgenosse ist, der einen weiteren Grund sucht, sich die Haare auszureißen. Im letzten Chaosradio des Jahres 2013 wollen wir deshalb einen ausführlichen Blick auf Ereignisse und Ergebnisse werfen, die übrig geblieben sind. Immerhin, einen Lichtblick gibt es: Am 27. Dezember beginnt der 30. Chaos Communication Congress, dem wir auch ein wenig Sendezeit einräumen wollen.
+    </p>
+                        <p>
+Mit Marcus Richter im Studio blicken Frank, Kay, Nibbler und erdgeist auf die Ereignisse des letzten Jahres zurück.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Frank, Kay, Nibbler, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR195 Unendliche Weiten?</title>
+                    <itunes:subtitle>Oder: Warum es im Orbit langsam voll wird.</itunes:subtitle>
+                    <description>Oder: Warum es im Orbit langsam voll wird.</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr195-unendlicheweiten.mp3" length="70363571"/>
+                    <itunes:duration>01:57:14</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr195.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr195.html</link>
+                    <pubDate>31 Oct 2013 15:00:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR195
+
+Veröffentlicht am: 31.10.2013, 15:00 Uhr
+Aufnahme vom: 31.10.2013
+Sendungsdatum: 31.10.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr195.html
+
+Teilnehmer: Marcus Richter (Moderation), Pylon, starbug, Leon
+
+Unendliche Weiten?
+Oder: Warum es im Orbit langsam voll wird.
+
+Der Weltraum war schon immer faszinierend, rückt aber seit ein paar Jahren durch den technischen Fortschritt immer mehr in greifbare Nähe. Auch Hacker sind von der Möglichkeit ins All zu reisen fasziniert, nicht umsonst ist die Rakete seit Jahren ein Symbol für die Veranstaltungen des Chaos Computer Clubs. 
+
+Im Chaosradio, der Sendung für technische Fortbildung und überraschende Geschichten, wird es deshalb dieses Mal um die Raumfahrt und die damit verbundenen Entwicklungen gehen. Wie ist der Stand der Forschung? Welche Rolle spielen private Unternehmen? Wie voll ist der erdnahe Weltraum schon? Und mit welchen Projekten beteiligen sich Hacker ganz konkret an der Raumfahrt? 
+
+Zu Gast im Studio sind dazu Pylon, starbug und Leon. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Der Weltraum war schon immer faszinierend, rückt aber seit ein paar Jahren durch den technischen Fortschritt immer mehr in greifbare Nähe.  Auch Hacker sind von der Möglichkeit ins All zu reisen fasziniert, nicht umsonst ist die Rakete seit Jahren ein Symbol für die Veranstaltungen des Chaos Computer Clubs.
+    </p>
+                        <p>
+Im Chaosradio, der Sendung für technische Fortbildung und überraschende Geschichten, wird es deshalb dieses Mal um die Raumfahrt und die damit verbundenen Entwicklungen gehen. Wie ist der Stand der Forschung? Welche Rolle spielen private Unternehmen? Wie voll ist der erdnahe Weltraum schon? Und mit welchen Projekten beteiligen sich Hacker ganz konkret an der Raumfahrt?
+    </p>
+                        <p>
+Zu Gast im Studio sind dazu Pylon, starbug und Leon.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Pylon, starbug, Leon</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR194 #istouchidhackedyet</title>
+                    <itunes:subtitle>Die Geschichte der Unbrauchbarkeit biometrischer Sicherheitsanwendungen </itunes:subtitle>
+                    <description>Die Geschichte der Unbrauchbarkeit biometrischer Sicherheitsanwendungen </description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr194-istouchidhackedyet.mp3" length="73209100"/>
+                    <itunes:duration>01:59:36</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr194.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr194.html</link>
+                    <pubDate>26 Sep 2013 15:00:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR194
+
+Veröffentlicht am: 26.09.2013, 15:00 Uhr
+Aufnahme vom: 25.07.2013
+Sendungsdatum: 26.09.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr194.html
+
+Teilnehmer: Marcus Richter (Moderation), starbug, 46halbe 
+
+#istouchidhackedyet
+Die Geschichte der Unbrauchbarkeit biometrischer Sicherheitsanwendungen 
+
+Gerade mal ein paar Tage hat es gedauert, bis der Fingerabruckscanner für das neue iPhone 5S gehackt wurde. Nicht durch einen völlig neuen Hack, sondern durch die handwerklich korrekte Anwendung einer seit Jahren bekannten Überwindungstechnik, der auch schon der Abdruck des damaligen Innenministers Schäuble erlegen war. Trotzdem schaffte es die Neuauflage des eigentlich alten Hacks sogar am Wahlsonntag auf die Titelblätter einschlägiger Nachrichtenseiten. Daraus ergeben sich zwei interessante Problembereiche: die praktische Anwendung und die gesellschaftliche Wahrnehmung. 
+
+Warum wird die schon seit Jahren kaputtgespielte Biometrie, die augenscheinlich kaum verbessert werden kann, immer noch benutzt? Wie einfach ist der Hack eines Fingerabdruckscanners wirklich? Welche Biometriemöglichkeiten werden noch verbaut? Und gibt es vielleicht doch eine sinnvolle Anwendung für biometrische Sicherheitsabfragen? 
+
+Es wird die Frage zu klären sein, warum Biometrie in der Öffentlichkeit immer noch so wahrgenommen wird, als ob es nur eine Frage der Zeit sei, bis sie endlich Marktreife erlangt. Zu hinterfragen ist dabei auch die Rolle der Medien, für die es anscheinend erst die Verletzlichkeit eines Lifestyleprodukts braucht, um sich mit einem von Politik und Wirtschaft forcierten Thema zu beschäftigt, das uns bis jetzt fast widerstandslos aufgedrückt wurde. 
+
+Im Studio werden sich starbug und 46halbe ausführlich mit den praktischen, technischen und gesellschaftlichen Auswirkungen von Biometrie auseinandersetzen. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Gerade mal ein paar Tage hat es gedauert, bis der Fingerabruckscanner für das neue iPhone 5S gehackt wurde. Nicht durch einen völlig neuen Hack, sondern durch die handwerklich korrekte Anwendung einer seit Jahren bekannten Überwindungstechnik, der auch schon der Abdruck des damaligen Innenministers Schäuble erlegen war. Trotzdem schaffte es die Neuauflage des eigentlich alten Hacks sogar am Wahlsonntag auf die Titelblätter einschlägiger Nachrichtenseiten. Daraus ergeben sich zwei interessante Problembereiche: die praktische Anwendung und die gesellschaftliche Wahrnehmung.
+    </p>
+                        <p>
+Warum wird die schon seit Jahren kaputtgespielte Biometrie, die augenscheinlich kaum verbessert werden kann, immer noch benutzt? Wie einfach ist der Hack eines Fingerabdruckscanners wirklich? Welche Biometriemöglichkeiten werden noch verbaut? Und gibt es vielleicht doch eine sinnvolle Anwendung für biometrische Sicherheitsabfragen?
+    </p>
+                        <p>
+Es wird die Frage zu klären sein, warum Biometrie in der Öffentlichkeit immer noch so wahrgenommen wird, als ob es nur eine Frage der Zeit sei, bis sie endlich Marktreife erlangt. Zu hinterfragen ist dabei auch die Rolle der Medien, für die es anscheinend erst die Verletzlichkeit eines Lifestyleprodukts braucht, um sich mit einem von Politik und Wirtschaft forcierten Thema zu beschäftigt, das uns bis jetzt fast widerstandslos aufgedrückt wurde.
+    </p>
+                        <p>
+Im Studio werden sich starbug und 46halbe ausführlich mit den praktischen, technischen und gesellschaftlichen Auswirkungen von Biometrie auseinandersetzen.
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), starbug, 46halbe </p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR193 Responsible Disclosure und Full Disclosure</title>
+                    <itunes:subtitle>Wissensvorsprünge fachgerecht kommunizieren.</itunes:subtitle>
+                    <description>Wissensvorsprünge fachgerecht kommunizieren.</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr193-responsible-und-full-disclosure.mp3" length="86138346"/>
+                    <itunes:duration>01:59:36</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr193.html-002</guid>
+                    <link>http://chaosradio.ccc.de/cr193.html</link>
+                    <pubDate>26 Aug 2013 21:30:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR193
+
+Veröffentlicht am: 26.08.2013, 21:30 Uhr
+Aufnahme vom: 25.07.2013
+Sendungsdatum: 29.08.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr193.html
+
+Teilnehmer: Marcus Richter (Moderation), ths, Andreas
+
+Responsible Disclosure und Full Disclosure
+Wissensvorsprünge fachgerecht kommunizieren.
+
+Du kennst das bestimmt: Kaum vertippst Du Dich beim Anmelden in einem Onlinedienst, lösen die unerwarteten Sonderzeichen in der Datenbank des Anbieters Kaskaden hektischer Aktivität aus, und keine Minute später flimmern auf Deinem Display die Launchcodes für Interkontinentalraketen auf. Doch wie nun mit diesem Wissen umgehen, ohne Gefahr zu laufen, vom Sonderzeicheneinsatzkommando geweckt zu werden? Einfach im Blog veröffentlichen? Den Freunden zeigen? Hektisch die Festplatte verbrennen? Oder gar dem Betroffenen zum Verkauf anbieten? Oder seinem Konkurrenten? 
+
+Aus den zarten Anfängen jugendlichen Herumforschens auf fremder Leute Rechner hat sich eine kleine Industrie geformt, die sich mit und ohne Auftrag der Softwareautoren und Administratoren auf die Suche nach Programmier- und Installationsfehlern macht. Aber auch im Bereich der Schlapphüte und Streitkräfte ist das Wissen um Verwundbarkeiten von zuweilen millionenfach installierter Software sehr begehrt. Wie gehen die Profis verantwortlich mit dem erworbenen Wissen um, wo Fehlfunktionen von Programmen zuweilen disaströse Auswirkungen haben? 
+
+Was für die Einen eine sicherheitskritische Schwachstelle ist, ist für Andere ein Funktionserweiterer. Für Hersteller von Software mit Funktionserweiterern ist die öffentliche Zurschaustellung der Fehler eine kollaborative Qualitässicherung der eigenen Produkte, für die anderen eine mutwillige Schädigung der öffentlichen Reputation. Wer hat Recht? Im Studio diskutieren mit Euch ths und Andreas, im Chaosradio 193 am Donnerstag, den 29. August 2013 auf Radio Fritz. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Du kennst das bestimmt: Kaum vertippst Du Dich beim Anmelden in einem Onlinedienst, lösen die unerwarteten Sonderzeichen in der Datenbank des Anbieters Kaskaden hektischer Aktivität aus, und keine Minute später flimmern auf Deinem Display die Launchcodes für Interkontinentalraketen auf. Doch wie nun mit diesem Wissen umgehen, ohne Gefahr zu laufen, vom Sonderzeicheneinsatzkommando geweckt zu werden? Einfach im Blog  veröffentlichen? Den Freunden zeigen? Hektisch die Festplatte verbrennen? Oder gar dem Betroffenen zum Verkauf anbieten? Oder seinem Konkurrenten?</p>
+                        <p>Aus den zarten Anfängen jugendlichen Herumforschens auf fremder Leute Rechner hat sich eine kleine Industrie geformt, die sich mit und ohne Auftrag der Softwareautoren und Administratoren auf die Suche nach Programmier- und Installationsfehlern macht. Aber auch im Bereich der Schlapphüte und Streitkräfte ist das Wissen um Verwundbarkeiten von zuweilen millionenfach installierter Software sehr begehrt. Wie gehen die Profis verantwortlich mit dem erworbenen Wissen um, wo Fehlfunktionen von Programmen zuweilen disaströse Auswirkungen haben?</p>
+                        <p>Was für die Einen eine sicherheitskritische Schwachstelle ist, ist für Andere ein Funktionserweiterer. Für Hersteller von Software mit Funktionserweiterern ist die öffentliche Zurschaustellung der Fehler eine kollaborative Qualitässicherung der eigenen Produkte, für die anderen eine mutwillige Schädigung der öffentlichen Reputation. Wer hat Recht? Im Studio diskutieren mit Euch ths und Andreas, im Chaosradio 193 am Donnerstag, den 29. August 2013 auf Radio Fritz.</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), ths, Andreas</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR192 Radioaktive Cryptoparty</title>
+                    <itunes:subtitle>Rauschabstandsverringerung</itunes:subtitle>
+                    <description>Rauschabstandsverringerung</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr192-radioaktive-cryptoparty.mp3" length="85922602"/>
+                    <itunes:duration>01:59:18</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr192.html-002</guid>
+                    <link>http://chaosradio.ccc.de/cr192.html</link>
+                    <pubDate>25 Jul 2013 18:40:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR192
+
+Veröffentlicht am: 25.07.2013, 18:40 Uhr
+Aufnahme vom: 25.07.2013
+Sendungsdatum: 25.07.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr192.html
+
+Teilnehmer: Marcus Richter (Moderation), Linus, nibbler, erdgeist
+
+Radioaktive Cryptoparty
+Rauschabstandsverringerung
+
+Wer die letzten Wochen nicht unter einem Stein verbracht hat, dem wird das massive hauptamtliche Bespitzelungsprogramm der US-amerikanischen und britischen Geheimdienste nicht entgangen sein. Forderungen des Innenministers an seine Bürger stehen nun im Raum, doch gefälligst zu verschlüsseln. Lasst uns diesen Gefallen erfüllen helfen! 
+
+Doch wie macht man das praktisch? Wie bekommt man denn real für den wenigsten Kopfschmerz am schnellsten die meisten Crypto für sich und seine Eltern? Was ist dieses Crypto eigentlich und wieviel davon muss ich wirklich verstehen, um mich vor welchem Szenario zu schützen? 
+
+Im Studio sind dazu heute nibbler, linus und erdgeist zu Gast, mit Euch darüber zu reden. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Wer die letzten Wochen nicht unter einem Stein verbracht hat, dem wird das massive hauptamtliche Bespitzelungsprogramm der US-amerikanischen und britischen Geheimdienste nicht entgangen sein. Forderungen des Innenministers an seine Bürger stehen nun im Raum, doch gefälligst zu verschlüsseln. Lasst uns diesen Gefallen erfüllen helfen!</p>
+                        <p>Doch wie macht man das praktisch? Wie bekommt man denn real für den wenigsten Kopfschmerz am schnellsten die meisten Crypto für sich und seine Eltern? Was ist dieses Crypto eigentlich und wieviel davon muss ich wirklich verstehen, um mich vor welchem Szenario zu schützen?</p>
+                        <p>Im Studio sind dazu heute nibbler, linus und erdgeist zu Gast, mit Euch darüber zu reden.
+            </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Linus, nibbler, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR191 Die großen Brüder</title>
+                    <itunes:subtitle>Details der Telekommunikationsüberwachung</itunes:subtitle>
+                    <description>Details der Telekommunikationsüberwachung</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr191-die-grossen-brueder.mp3" length="87601859"/>
+                    <itunes:duration>02:01:39</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr191.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr191.html</link>
+                    <pubDate>27 Jun 2013 20:28:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR191
+
+Veröffentlicht am: 27.06.2013, 20:28 Uhr
+Aufnahme vom: 27.06.2013
+Sendungsdatum: 27.06.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr191.html
+
+Teilnehmer: Marcus Richter (Moderation), Linus, Andy, erdgeist
+
+Die großen Brüder
+Details der Telekommunikationsüberwachung
+
+Mittlerweile dürfte es wirklich jeder mitbekommen haben: Wir werden überwacht. Also nicht nur so ein bisschen, manchmal wenn keiner guckt, sondern so richtig. Alle. Während sich immer mehr Berichterstattung auf den – je nach Lesart – Helden, Verräter, (un)fähigen Typen konzentriert, der uns davon erzählt hat, wollen sich Andy Müller-Maguhn, Erdgeist und Linus Neumann mit den Details von Prism, Tempora und weiteren Überwachungsprojekten beschäftigen. 
+
+Dabei soll nicht geklärt werden, welche technischen, juristischen und gesellschaftlichen Hintergründe die Überwachungsprojekte haben. Ebenso wichtig ist eine Einordnung in den historischen Kontext und die Frage, ob und wie die deutschen Geheimdienste sich an der telekommunikativen Totalüberwachung beteiligen. 
+
+Schlussendlich soll es um die gesellschaftlichen und persönlichen Mittel, die geeignet sind, um dem Überwachungsstaat zu begegnen. Fragen und Anmerkungen werden gerne hier in den Kommentaren oder auf den restlichen Kontaktkanälen entgegengenommen. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+    Mittlerweile dürfte es wirklich jeder mitbekommen haben: Wir werden überwacht. Also nicht nur so ein bisschen, manchmal wenn keiner guckt, sondern so richtig. Alle. Während sich immer mehr Berichterstattung auf den – je nach Lesart – Helden, Verräter, (un)fähigen Typen konzentriert, der uns davon erzählt hat, wollen sich Andy Müller-Maguhn, Erdgeist und Linus Neumann mit den Details von Prism, Tempora und weiteren Überwachungsprojekten beschäftigen.
+            </p>
+                        <p>
+    Dabei soll nicht geklärt werden, welche technischen, juristischen und gesellschaftlichen Hintergründe die Überwachungsprojekte haben. Ebenso wichtig ist eine Einordnung in den historischen Kontext und die Frage, ob und wie die deutschen Geheimdienste sich an der telekommunikativen Totalüberwachung beteiligen.
+        </p>
+                        <p>
+    Schlussendlich soll es um die gesellschaftlichen und persönlichen Mittel, die geeignet sind, um dem Überwachungsstaat zu begegnen. Fragen und Anmerkungen werden gerne hier in den Kommentaren oder auf den restlichen Kontaktkanälen entgegengenommen.
+            </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Linus, Andy, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR190 3D-Drucker für jedermann</title>
+                    <itunes:subtitle>Auf dem Weg zum Replikator</itunes:subtitle>
+                    <description>Auf dem Weg zum Replikator</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr190-3d-drucker-fuer-jedermann.mp3" length="85364050"/>
+                    <itunes:duration>01:58:32</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr190.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr190.html</link>
+                    <pubDate>31 May 2013 10:40:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR190
+
+Veröffentlicht am: 31.05.2013, 10:40 Uhr
+Aufnahme vom: 30.05.2013
+Sendungsdatum: 30.05.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr190.html
+
+Teilnehmer: Holger Klein (Moderation), Pat, Micha, erdgeist
+
+3D-Drucker für jedermann
+Auf dem Weg zum Replikator
+
+In den letzten Jahren sind 3D-Drucker auch für den Heimgebrauch erschwinglich geworden und dadurch bekam das Thema 3D-Drucken einen außerordentlichen Popularitätsschub. Manche Journalisten sprechen gar von einer "dritten industriellen Revolution" und auch US-Präsident Obama ließ erst kürzlich in einer Ansprache verlauten, dass die Technologie "das Potential besitzt, die Art, wie wir nahezu alle Dinge herstellen, revolutioniert". 
+
+Dabei existiert das Prinzip des 3D-Druckens, dem schichtweisen Aufbau eines Werkstücks, schon seit Anfang der 80er. Doch wie funktioniert 3D-Drucken eigentlich und was ist dran an dem Hype? In der Sendung wollen wir über unterschiedliche Druckverfahren, Anwendungsfelder und die gesellschaftlichen Auswirkungen sprechen." 
+
+Im Studio unterhalten sich mit Euch Pat, Micha und erdgeist. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+In den letzten Jahren sind 3D-Drucker auch für den Heimgebrauch erschwinglich geworden und dadurch bekam das Thema 3D-Drucken einen außerordentlichen Popularitätsschub. Manche Journalisten sprechen gar von einer "dritten industriellen Revolution" und auch US-Präsident Obama ließ erst kürzlich in einer Ansprache verlauten, dass die Technologie "das Potential besitzt, die Art, wie wir nahezu alle Dinge herstellen, revolutioniert".
+        </p>
+                        <p>
+Dabei existiert das Prinzip des 3D-Druckens, dem schichtweisen Aufbau eines Werkstücks, schon seit Anfang der 80er. Doch wie funktioniert 3D-Drucken eigentlich und was ist dran an dem Hype? In der Sendung wollen wir über unterschiedliche Druckverfahren, Anwendungsfelder und die gesellschaftlichen Auswirkungen sprechen."
+        </p>
+                        <p>
+Im Studio unterhalten sich mit Euch Pat, Micha und erdgeist.
+       </p>
+                        <p>Teilnehmer: Holger Klein (Moderation), Pat, Micha, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR189 Das Ende der Flatrates</title>
+                    <itunes:subtitle>Wenn der Zeitungsbote bestimmt, was ich abonnieren darf</itunes:subtitle>
+                    <description>Wenn der Zeitungsbote bestimmt, was ich abonnieren darf</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr189-das-ende-der-flatrates.mp3" length="82948549"/>
+                    <itunes:duration>01:59:47</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr189.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr189.html</link>
+                    <pubDate>23 Apr 2013 16:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR189
+
+Veröffentlicht am: 23.04.2013, 16:10 Uhr
+Aufnahme vom: 25.04.2013
+Sendungsdatum: 25.04.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr189.html
+
+Teilnehmer: Holger Klein (Moderation), linuzifer, nibbler, 46halbe
+
+Das Ende der Flatrates
+Wenn der Zeitungsbote bestimmt, was ich abonnieren darf
+
+Die Deutsche Telekom hat angekündigt, Internetverbindungen ab einem bestimmten Datenvolumen zu drosseln. 
+
+Was ist denn noch dran, an den nur noch sogenannten Flatrates? Wieso kann man in Korea mit seinem Mobiltelefon unbeschränkt über 100MBit/s im Internet surfen, während hierzulande der Breitbandausbau der Datenautobahn in einigen Regionen zum Stocken kommt und nun die wenigen schnell mit Staatskupfer angebundenen Teilnehmer jedes Bit auf ihrer Leitung zweimal umdrehen sollen, bevor ihnen die Telekom die wichtige Informationslebensader abschnürt? Und was hat das alles mit den modernen Multimedia-Angeboten der Telekom und ihrer Partner zu tun? 
+
+Im Studio wollen wir mit linuzifer, nibbler und Constanze darüber reden, was es bedeutet, wenn sich die digitalen Torwächter aufschwingen, Strafzölle auf den digitalen Wegen zu erheben. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Die Deutsche Telekom hat angekündigt, Internetverbindungen ab einem bestimmten Datenvolumen zu drosseln.
+        </p>
+                        <p>
+Was ist denn noch dran, an den nur noch sogenannten Flatrates? Wieso kann man in Korea mit seinem Mobiltelefon unbeschränkt über 100MBit/s im Internet surfen, während hierzulande der Breitbandausbau der Datenautobahn in einigen Regionen zum Stocken kommt und nun die wenigen schnell mit Staatskupfer angebundenen Teilnehmer jedes Bit auf ihrer Leitung zweimal umdrehen sollen, bevor ihnen die Telekom die wichtige Informationslebensader abschnürt? Und was hat das alles mit den modernen Multimedia-Angeboten der Telekom und ihrer Partner zu tun?
+        </p>
+                        <p>
+Im Studio wollen wir mit linuzifer, nibbler und Constanze darüber reden, was es bedeutet, wenn sich die digitalen Torwächter aufschwingen, Strafzölle auf den digitalen Wegen zu erheben.
+        </p>
+                        <p>Teilnehmer: Holger Klein (Moderation), linuzifer, nibbler, 46halbe</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR188 Plasterouter</title>
+                    <itunes:subtitle>Hege, Pflege, Aufzucht und Zubereitung unserer liebsten Haustiere</itunes:subtitle>
+                    <description>Hege, Pflege, Aufzucht und Zubereitung unserer liebsten Haustiere</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr188-plasterouter.mp3" length="82948549"/>
+                    <itunes:duration>01:55:11</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr188.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr188.html</link>
+                    <pubDate>20 Mar 2013 13:33:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR188
+
+Veröffentlicht am: 20.03.2013, 13:33 Uhr
+Aufnahme vom: 28.03.2013
+Sendungsdatum: 28.03.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr188.html
+
+Teilnehmer: Holger Klein (Moderation), mirco, nibbler, erdgeist
+
+Plasterouter
+Hege, Pflege, Aufzucht und Zubereitung unserer liebsten Haustiere
+
+Mit einer geschätzten Lebendmasse von rund einer halben Million Tonnen stellen sie das größte vernetzte Landlebewesen dar. Mit einem geschätzten Traffic von 1.000 TBit/s können sie ganze Landstriche aus dem Internet schießen. Dennoch stehen sie ganz klein und possierlich in unseren Fluren und Wohnzimmern und gucken unschuldig: Die Plasterouter mit und ohne Funknetzwerk, die unser Heim mit wohligem digitalen Feuer versorgen, aber wie alle Haustiere unsere intimsten Gedanken kennen. 
+
+Wir beleuchten die Entwicklung der billigen kleinen Boxen, bewundern die verschiedenen Spezies des Routerzoos und versuchen, einen Ausblick auf den Tag zu geben, wenn sie als Skynet die Macht übernehmen. Darüber wollen wir im Studio mit mirco, nibbler und erdgeist sprechen. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Mit einer geschätzten Lebendmasse von rund einer halben Million Tonnen stellen sie das größte vernetzte Landlebewesen dar. Mit einem geschätzten Traffic von 1.000 TBit/s können sie ganze Landstriche aus dem Internet schießen. Dennoch stehen sie ganz klein und possierlich in unseren Fluren und Wohnzimmern und gucken unschuldig: Die Plasterouter mit und ohne Funknetzwerk, die unser Heim mit wohligem digitalen Feuer versorgen, aber wie alle Haustiere unsere intimsten Gedanken kennen.
+		</p>
+                        <p>
+Wir beleuchten die Entwicklung der billigen kleinen Boxen, bewundern die verschiedenen Spezies des Routerzoos und versuchen, einen Ausblick auf den Tag zu geben, wenn sie als Skynet die Macht übernehmen. Darüber wollen wir im Studio mit mirco, nibbler und erdgeist sprechen.
+        </p>
+                        <p>Teilnehmer: Holger Klein (Moderation), mirco, nibbler, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR187 Elektronengehirne</title>
+                    <itunes:subtitle>Wie lange dauert es noch, bis unsere Telefone intelligent werden?</itunes:subtitle>
+                    <description>Wie lange dauert es noch, bis unsere Telefone intelligent werden?</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr187-elektronengehirne.mp3" length="107061157"/>
+                    <itunes:duration>01:51:31</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr187.html-002</guid>
+                    <link>http://chaosradio.ccc.de/cr187.html</link>
+                    <pubDate>26 Feb 2013 18:40:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR187
+
+Veröffentlicht am: 26.02.2013, 18:40 Uhr
+Aufnahme vom: 28.02.2013
+Sendungsdatum: 28.02.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr187.html
+
+Teilnehmer: Holger Klein (Moderation), Joscha Bach, erdgeist
+
+Elektronengehirne
+Wie lange dauert es noch, bis unsere Telefone intelligent werden?
+
+Gerne sprechen wir unbelebten Dingen einen Charakter und Intelligenz zu. Früher waren es Naturgötter, die Baumstämme und Steine belebten, heute ist es der Drucker, der aus reiner "Bosheit" genau bis zur Diplomarbeit wartet, um in Zungen zu sprechen statt zu drucken. Furcht vor aber auch Hoffnung auf Intelligenz in den Dingen scheint uns sehr zu beschäftigen – so sehr, daß ein ganzer Forschungszweig die Künstliche Intelligenz erforscht und schaffen will. Seit dem mechanischen Schachtürken und dem altehrwürdigen Gesprächs-Simulator "Eliza" hat die Forschung große Sprünge gemacht, Abläufe der Wahrnehmung zu erforschen und zu reproduzieren. Das Ziel: Intelligenz nicht nur wie bei Siri &amp; Co. vorzutäuschen, sondern die Mechanismen im Gehirn nachzuvollziehen und zu emulieren. 
+
+Wir wollen darüber sprechen, welche Ansätze Wissenschaft und Industrie heute verfolgen, dem Menschen einen Menschen am anderen Ende des Kabels vorzugaukeln, und wofür man Intelligenz in der Maschine sonst so braucht. Dabei geht es auch um den spannenden Konflikt zwischen den zwei dominierenden Theorien – brauchen künstliche Intelligenzen einen Körper oder können sie auch in simulierten Umgebungen entstehen? Zu Gast im Studio sind Dr. Joscha Bach und und erdgeist. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+            Gerne sprechen wir unbelebten Dingen einen Charakter und Intelligenz zu. Früher waren es Naturgötter, die Baumstämme und Steine belebten, heute ist es der Drucker, der aus reiner "Bosheit" genau bis zur Diplomarbeit wartet, um in Zungen zu sprechen statt zu drucken. Furcht vor aber auch Hoffnung auf Intelligenz in den Dingen scheint uns sehr zu beschäftigen – so sehr, daß ein ganzer Forschungszweig die Künstliche Intelligenz erforscht und schaffen will. Seit dem mechanischen Schachtürken und dem altehrwürdigen Gesprächs-Simulator "Eliza" hat die Forschung große Sprünge gemacht, Abläufe der Wahrnehmung zu erforschen und zu reproduzieren. Das Ziel: Intelligenz nicht nur wie bei Siri &amp; Co. vorzutäuschen, sondern die Mechanismen im Gehirn nachzuvollziehen und zu emulieren.
+		</p>
+                        <p>
+    Wir wollen darüber sprechen, welche Ansätze Wissenschaft und Industrie heute verfolgen, dem Menschen einen Menschen am anderen Ende des Kabels vorzugaukeln, und wofür man Intelligenz in der Maschine sonst so braucht. Dabei geht es auch um den spannenden Konflikt zwischen den zwei dominierenden Theorien – brauchen künstliche Intelligenzen einen Körper oder können sie auch in simulierten Umgebungen entstehen? Zu Gast im Studio sind Dr. Joscha Bach und und erdgeist.
+        </p>
+                        <p>Teilnehmer: Holger Klein (Moderation), Joscha Bach, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR186 Elektronische Schließsysteme</title>
+                    <itunes:subtitle/>
+                    <description/>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr186-elektronische-schliesssystem.mp3" length="101018784"/>
+                    <itunes:duration>01:45:13</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr186.html-003</guid>
+                    <link>http://chaosradio.ccc.de/cr186.html</link>
+                    <pubDate>26 Feb 2013 18:20:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR186
+
+Veröffentlicht am: 26.02.2013, 18:20 Uhr
+Aufnahme vom: 31.01.2013
+Sendungsdatum: 31.01.2013, 22:00 Uhr
+http://chaosradio.ccc.de/cr186.html
+
+Teilnehmer: Holger Klein (Moderation), Simon, Henryk
+
+Elektronische Schließsysteme
+
+Nach langer Pause wagt sich Holger Klein wieder mit Hackern vom Chaos Computer Club ans Mikro, um mit ihnen über elektronische Schließsysteme, aktuelle Entwicklungen auf dem Schloßmarkt und Sicherheitsaspekten zu reden. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+            Nach langer Pause wagt sich Holger Klein wieder mit Hackern vom Chaos Computer Club ans Mikro, um mit ihnen über elektronische Schließsysteme, aktuelle Entwicklungen auf dem Schloßmarkt und Sicherheitsaspekten zu reden.
+		</p>
+                        <p>Teilnehmer: Holger Klein (Moderation), Simon, Henryk</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR185 Weltuntergang</title>
+                    <itunes:subtitle>Ein netzpolitischer Jahresrückblick pünktlich zum Ende der Welt</itunes:subtitle>
+                    <description>Ein netzpolitischer Jahresrückblick pünktlich zum Ende der Welt</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr185-weltuntergang.mp3" length="86868294"/>
+                    <itunes:duration>02:00:21</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr185.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr185.html</link>
+                    <pubDate>15 Dec 2012 22:50:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR185
+
+Veröffentlicht am: 15.12.2012, 22:50 Uhr
+Aufnahme vom: 29.11.2012
+Sendungsdatum: 29.11.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr185.html
+
+Teilnehmer: Marcus Richter (Moderation), Erdgeist, ths, Maha
+
+Weltuntergang
+Ein netzpolitischer Jahresrückblick pünktlich zum Ende der Welt
+
+Zum letzten Mal in diesem Jahr findet heute Abend das Chaosradio bei Fritz statt und der 29C3 steht an. Ausnahmsweise wird es deswegen heute kein einzelnes Thema geben, sondern einen Rückblick auf das vergangene Jahr. Mit Maha, ths und erdgeist im Studio und anderen CCClern am Telefon greifen wir noch einmal die wichtigsten Themen der letzten Monate auf, bevor dann bald die Welt untergeht. 
+
+Leistungsschutzrecht? Urheberrechtsdurchsetzung? Antiterrorgesetzgebung? Transparenz? Persönliche Computer? Netzpolitische Unfälle? Politikersprech? Neuer Moderator? Fehlt noch was? 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+      Zum letzten Mal in diesem Jahr findet heute Abend das Chaosradio bei Fritz statt und der 29C3 steht an. Ausnahmsweise wird es deswegen heute kein einzelnes Thema geben, sondern einen Rückblick auf das vergangene Jahr. Mit Maha, ths und erdgeist im Studio und anderen CCClern am Telefon greifen wir noch einmal die wichtigsten Themen der letzten Monate auf, bevor dann bald die Welt untergeht.
+
+		</p>
+                        <p>
+      Leistungsschutzrecht? Urheberrechtsdurchsetzung? Antiterrorgesetzgebung? Transparenz? Persönliche Computer? Netzpolitische Unfälle? Politikersprech? Neuer Moderator? Fehlt noch was?
+		</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Erdgeist, ths, Maha</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR184 Technik und Krieg</title>
+                    <itunes:subtitle>Spielzeug für Militärs und Werkzeuge zur Kriegsführung </itunes:subtitle>
+                    <description>Spielzeug für Militärs und Werkzeuge zur Kriegsführung </description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr184-technik-und-krieg.mp3" length="86670284"/>
+                    <itunes:duration>02:00:21</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr184.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr184.html</link>
+                    <pubDate>01 Nov 2012 17:30:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR184
+
+Veröffentlicht am: 01.11.2012, 17:30 Uhr
+Aufnahme vom: 29.10.2012
+Sendungsdatum: 29.10.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr184.html
+
+Teilnehmer: Marcus Richter (Moderation), Erdgeist, Frank Rieger
+
+Technik und Krieg
+Spielzeug für Militärs und Werkzeuge zur Kriegsführung 
+
+Wann immer neue Technologien erfunden werden, sind sie früher oder später auch ein Spielzeug für Militärs und Werkzeuge zur Kriegsführung oder kurz: Tötungsmaschinen. Die Geschichte wiederholt sich derzeit am Beispiel von sogenannten Drohnen. Unbemannte fliegende Geräte, die per Fernsteuerung oder zum Teil selbstständig benutzt werden, um Gegner auszuspionieren und zu töten. 
+
+Im aktuellen Chaosradio befassen sich Frank Rieger und erdgeist vom Chaos Computer Club mit der Rolle, die Wissenschaft und Technik im Krieg spielen. Nach einem kurzen Ausflug in die Geschichte, geht es um aktuelle Technik, Einsatzgebiete und denkbare Zukunftsszenarien. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+			Wann immer neue Technologien erfunden werden, sind sie früher oder später auch ein Spielzeug für Militärs und Werkzeuge zur Kriegsführung oder kurz: Tötungsmaschinen. Die Geschichte wiederholt sich derzeit am Beispiel von sogenannten Drohnen. Unbemannte fliegende Geräte, die per Fernsteuerung oder zum Teil selbstständig benutzt werden, um Gegner auszuspionieren und zu töten.
+		</p>
+                        <p>
+			Im aktuellen Chaosradio befassen sich Frank Rieger und erdgeist vom Chaos Computer Club mit der Rolle, die Wissenschaft und Technik im Krieg spielen. Nach einem kurzen Ausflug in die Geschichte, geht es um aktuelle Technik, Einsatzgebiete und denkbare Zukunftsszenarien.
+		</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Erdgeist, Frank Rieger</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR183 Clean IT</title>
+                    <itunes:subtitle>Vom Wunschtraum sauberer Technik und Europapolitik</itunes:subtitle>
+                    <description>Vom Wunschtraum sauberer Technik und Europapolitik</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr183-clean-it.mp3" length="85461281"/>
+                    <itunes:duration>01:58:40</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr183.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr183.html</link>
+                    <pubDate>05 Oct 2012 14:45:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR183
+
+Veröffentlicht am: 05.10.2012, 14:45 Uhr
+Aufnahme vom: 25.09.2012
+Sendungsdatum: 25.09.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr183.html
+
+Teilnehmer: Marcus Richter (Moderation), Erdgeist, Ilf, Andre Meister, Kirsten Fiedler
+
+Clean IT
+Vom Wunschtraum sauberer Technik und Europapolitik
+
+China, Iran, Narnia – und nun noch Europa. Vor dem Irrglauben, das ungezügelte, dynamische, kreative Netz den engen moralischen, religiösen, juristischen oder wirtschaftlichen Vorstellungen einer bestimmten Region unterwerfen zu können, sind auch Bürokraten in Brüssel und den Niederlanden nicht gefeit. Wie in totalitären Regimen überall um die Welt werden auch in Europa die gefühlten Bedrohungen durch die Freiheiten im Netz reflexartig bekämpft. 
+
+Aktuell ist ein Vorstoß der Projektgruppe “cleanIT”, das von EU-Kommissarin Cecilia Malmström gefördert wird, im Gespräch. Unter dem Vorwand der Terrorismusbekämpfung sollen Zugang und Publikationsmöglichkeiten im Netz kontrolliert, reguliert und zensiert werden. 
+
+Wie ein untotes Frankenstein-Monster kriecht die Idee des “sauberen” Netzes in ermüdender Regelmäßigkeit aus den Spülbecken der Dummheiten derer, die sich ihr Internet ausdrucken lassen. Aber wer haucht dem Zombie immer wieder Leben ein? Andre Meister (netzpolitik.org), Kirsten Fiedler (EDRI), ilf (CCC) und erdgeist (CCC) wagen einen Blick in das Labyrinth des irren Wissenschaftlers namens Sicherheitspolitik auf europäischer Ebene. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+			China, Iran, Narnia – und nun noch Europa. Vor dem Irrglauben, das ungezügelte, dynamische, kreative Netz den engen moralischen, religiösen, juristischen oder wirtschaftlichen Vorstellungen einer bestimmten Region unterwerfen zu können, sind auch Bürokraten in Brüssel und den Niederlanden nicht gefeit. Wie in totalitären Regimen überall um die Welt werden auch in Europa die gefühlten Bedrohungen durch die Freiheiten im Netz reflexartig bekämpft.
+
+		</p>
+                        <p>
+			Aktuell ist ein Vorstoß der Projektgruppe “cleanIT”, das von EU-Kommissarin Cecilia Malmström gefördert wird, im Gespräch. Unter dem Vorwand der Terrorismusbekämpfung sollen Zugang und Publikationsmöglichkeiten im Netz kontrolliert, reguliert und zensiert werden.
+
+		</p>
+                        <p>
+			Wie ein untotes Frankenstein-Monster kriecht die Idee des “sauberen” Netzes in ermüdender Regelmäßigkeit aus den Spülbecken der Dummheiten derer, die sich ihr Internet ausdrucken lassen. Aber wer haucht dem Zombie immer wieder Leben ein? Andre Meister (netzpolitik.org), Kirsten Fiedler (EDRI), ilf (CCC) und erdgeist (CCC) wagen einen Blick in das Labyrinth des irren Wissenschaftlers namens Sicherheitspolitik auf europäischer Ebene.
+
+		</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Erdgeist, Ilf, Andre Meister, Kirsten Fiedler</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR182 Klempner des Internets</title>
+                    <itunes:subtitle>Oder: Was passiert eigentlich mit einem Paket, wenn es in der Dose in der Wand verschwindet?</itunes:subtitle>
+                    <description>Oder: Was passiert eigentlich mit einem Paket, wenn es in der Dose in der Wand verschwindet?</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr182-klempner-des-internets.mp3" length="86660918"/>
+                    <itunes:duration>02:00:20</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr182.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr182.html</link>
+                    <pubDate>16 Sep 2012 18:20:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR182
+
+Veröffentlicht am: 16.09.2012, 18:20 Uhr
+Aufnahme vom: 26.07.2012
+Sendungsdatum: 30.08.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr182.html
+
+Teilnehmer: Marcus Richter (Moderation), Erdgeist, Kay
+
+Klempner des Internets
+Oder: Was passiert eigentlich mit einem Paket, wenn es in der Dose in der Wand verschwindet?
+
+Für die meisten von uns fällt das Internet aus der Steckdose in der Wand. Klar, manche Seiten sind langsamer als andere und manchmal ist der Download großer Dateien schwierig – aber im Großen und Ganzen ist das Netz einfach da und funktioniert. 
+
+Aber wie eigentlich? Abgesehen von der technischen Perspektive gibt es auch noch eine ökonomische: Hinter den Kulissen arbeitet ein komplexer Verband von Anbietern, Dienstleistern und Regulierern für und manchmal auch gegen das, was wir als freien Internetzugang bezeichnen. 
+
+Und weil es immer hilfreich ist, alltäglich benutzte Technologien zu verstehen, werden erdgeist und Kay vom CCC im Chaosradio genau dieses Thema erklären, beleuchten und auch Eure Fragen beantworten. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+			Für die meisten von uns fällt das Internet aus der Steckdose in der Wand. Klar, manche Seiten sind langsamer als andere und manchmal ist der Download großer Dateien schwierig – aber im Großen und Ganzen ist das Netz einfach da und funktioniert.
+		</p>
+                        <p>
+			Aber wie eigentlich? Abgesehen von der technischen Perspektive gibt es auch noch eine ökonomische: Hinter den Kulissen arbeitet ein komplexer Verband von Anbietern, Dienstleistern und Regulierern für und manchmal auch gegen das, was wir als freien Internetzugang bezeichnen.
+		</p>
+                        <p>
+			Und weil es immer hilfreich ist, alltäglich benutzte Technologien zu verstehen, werden erdgeist und Kay vom CCC im Chaosradio genau dieses Thema erklären, beleuchten und auch Eure Fragen beantworten.
+		</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Erdgeist, Kay</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR181 Störende Störerhaftung</title>
+                    <itunes:subtitle>Warum ein offenes WLAN (k)eine gute Idee ist</itunes:subtitle>
+                    <description>Warum ein offenes WLAN (k)eine gute Idee ist</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr181-stoerende-stoererhaftung.mp3" length="85409037"/>
+                    <itunes:duration>01:58:36</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr181.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr181.html</link>
+                    <pubDate>02 Aug 2012 22:32:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR181
+
+Veröffentlicht am: 02.08.2012, 22:32 Uhr
+Aufnahme vom: 26.07.2012
+Sendungsdatum: 26.07.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr181.html
+
+Teilnehmer: Marcus Richter (Moderation), Erdgeist, Bea, Kai
+
+Störende Störerhaftung
+Warum ein offenes WLAN (k)eine gute Idee ist
+
+Ein grundlegendes Ideal des Hackergedankens ist es, kritische Kommunikationsstrukturen zu dezentralisieren. Je mehr Menschen dazu in der Lage sind, Zugang zu digitaler Kommunikation anzubieten, desto robuster ist das System gegen Kontrolle, Zensur und Angriffe und erreicht mehr Menschen. 
+
+Das fängt schon beim Internetanschluss an. Der ließe sich relativ einfach weit verbreiten, in dem einfach alle Anschlussinhaber ihre WLANs für die Allgemeinheit öffnen. Technisch ist das keine große Leistung, aber juristisch steht die Angst vor der Störerhaftung der Idee im Weg. 
+
+Wann immer ein Nutzer eines offenen WLANs justiziablen Unsinn treibt, kann auch der Betreiber des Internetanschlusses dafür mit zur Verantwortung gezogen werden. Er haftet als Störer. 
+
+Was das bedeutet, wie dieses Konzept der Verantwortungsverteilung auch beim Betrieb anderer Infrastrukturen stören kann und wie theoretische, politische und technische Lösungen des Problems aussehen können, besprechen wir im aktuellen Chaosradio. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Ein grundlegendes Ideal des Hackergedankens ist es, kritische Kommunikationsstrukturen zu dezentralisieren. Je mehr Menschen dazu in der Lage sind, Zugang zu digitaler Kommunikation anzubieten, desto robuster ist das System gegen Kontrolle, Zensur und Angriffe und erreicht mehr Menschen.
+	</p>
+                        <p>
+Das fängt schon beim Internetanschluss an. Der ließe sich relativ einfach weit verbreiten, in dem einfach alle Anschlussinhaber ihre WLANs für die Allgemeinheit öffnen. Technisch ist das keine große Leistung, aber juristisch steht die Angst vor der Störerhaftung der Idee im Weg.
+	</p>
+                        <p>
+Wann immer ein Nutzer eines offenen WLANs justiziablen Unsinn treibt, kann auch der Betreiber des Internetanschlusses dafür mit zur Verantwortung gezogen werden. Er haftet als Störer.
+	</p>
+                        <p>
+Was das bedeutet, wie dieses Konzept der Verantwortungsverteilung auch beim Betrieb anderer Infrastrukturen stören kann und wie theoretische, politische und technische Lösungen des Problems aussehen können, besprechen wir im aktuellen Chaosradio.
+	</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Erdgeist, Bea, Kai</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR180 Einmal mit Profis</title>
+                    <itunes:subtitle>Wenn Hacker Politik machen</itunes:subtitle>
+                    <description>Wenn Hacker Politik machen</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr180-einmal-mit-profis.mp3" length="78220547"/>
+                    <itunes:duration>01:48:37</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr180.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr180.html</link>
+                    <pubDate>29 Jun 2012 12:50:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR180
+
+Veröffentlicht am: 29.06.2012, 12:50 Uhr
+Aufnahme vom: 28.06.2012
+Sendungsdatum: 28.06.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr180.html
+
+Teilnehmer: Marcus Richter (Moderation), Dodger, Constanze Kurz
+
+Einmal mit Profis
+Wenn Hacker Politik machen
+
+Boykott http://de.wikipedia.org/wiki/Stop_Online_Piracy_Act , Protest http://www.stopacta.de/ und Petitionen http://ak-zensur.de/ sind eine Art, aktiv Politik mitzugestalten. Damit gab es in den letzten Jahren viele Erfolge. Aber man kann es ja mal auf eine konstruktive Weise versuchen. Das Hamburger Transparenzgesetz http://www.transparenzgesetz.de/ ist ein Beispiel für diese Form der aktiven Politikgestaltung. Denn dass Hacker hacken und Politiker Politik machen, war gestern. 
+
+Der Chaos Computer Club Hamburg hat daran mitgearbeitet, dass der Hamburger Senat vor wenigen Tagen ein Transparenzgesetz auf den Weg gebracht und beschlossen hat. Wie diese Idee zustandekam und nach vielen Monaten tatsächlich Gesetz wurde, wird Dodger aus Hamburg berichten. Ist diese Art des Politikhackens eine Blaupause für andere Gesetzesvorhaben? 
+
+Was kann konstruktive Mitarbeit von Hackern in der Politik bringen? Was hat es bis jetzt gebracht, dass sich Constanze für den CCC an der umstrittenen Enquete-Kommission http://www.bundestag.de/internetenquete/ des Deutschen Bundestags beteiligt? Bewirken schriftliche Stellungnahmen des CCC bei Gesetzgebungsverfahren tatsächlich eine Änderung? 
+
+Dodger und Constanze berichten von Motivationen, Herausforderungen, Hindernissen und Erfolgen, die Hacker im Politikgeschäft machen. Genau dafür kommen sie in das 180. Chaosradio ab 22 Uhr auf Fritz http://www.fritz.de/media/livestream/index.html und beantworten dabei auch gleich noch Fragen, die Ihr zum Thema habt. 
+
+Ihr konntet bis zum Beginn der Sendung Eure Creative-Commons-Musikwünsche und Fragen hier in den Kommentaren hinterlassen. 
+
+Musik: &#160;" Holy Bleep http://mizukislastchance.bandcamp.com/track/holy-bleep " -&#160;Mizuki's Last Chance,&#160;" Shifting Focus http://soundcloud.com/professorkliq/shifting-focus-1 " -&#160;Professor Kliq, " Websiiite http://www.upitup.com/catalogue/sharemp3.php?cat_id=28&amp;trk_id=268 "&#160;– Tracky Birthday feat. Dragan Espenschied 
+
+Shownotes https://shownotes.piratenpad.de/ep/pad/view/ro.7Hbu8Mt5Ae0wuBzDbqNVRJFhtvm/latest &#160;( via https://twitter.com/DieShownotes ) 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+                            <a href="http://de.wikipedia.org/wiki/Stop_Online_Piracy_Act">Boykott</a>, <a href="http://www.stopacta.de/">Protest</a> und <a href="http://ak-zensur.de/">Petitionen</a> sind eine Art, aktiv Politik mitzugestalten. Damit gab es in den letzten Jahren viele Erfolge. Aber man kann es ja mal auf eine konstruktive Weise versuchen. Das <a href="http://www.transparenzgesetz.de/">Hamburger Transparenzgesetz</a> ist ein Beispiel für diese Form der aktiven Politikgestaltung. Denn dass Hacker hacken und Politiker Politik machen, war gestern.
+		</p>
+                        <p>
+		Der Chaos Computer Club Hamburg hat daran mitgearbeitet, dass der Hamburger Senat vor wenigen Tagen ein Transparenzgesetz auf den Weg gebracht und beschlossen hat. Wie diese Idee zustandekam und nach vielen Monaten tatsächlich Gesetz wurde, wird Dodger aus Hamburg berichten. Ist diese Art des Politikhackens eine Blaupause für andere Gesetzesvorhaben?
+	</p>
+                        <p>
+		Was kann konstruktive Mitarbeit von Hackern in der Politik bringen? Was hat es bis jetzt gebracht, dass sich Constanze für den CCC an der umstrittenen <a href="http://www.bundestag.de/internetenquete/">Enquete-Kommission</a> des Deutschen Bundestags beteiligt? Bewirken schriftliche Stellungnahmen des CCC bei Gesetzgebungsverfahren tatsächlich eine Änderung?
+	</p>
+                        <p>
+
+		Dodger und Constanze berichten von Motivationen, Herausforderungen, Hindernissen und Erfolgen, die Hacker im Politikgeschäft machen. Genau dafür kommen sie in das 180. Chaosradio <a href="http://www.fritz.de/media/livestream/index.html">ab 22 Uhr auf Fritz</a> und beantworten dabei auch gleich noch Fragen, die Ihr zum Thema habt.
+	</p>
+                        <p>
+			Ihr konntet bis zum Beginn der Sendung Eure Creative-Commons-Musikwünsche und Fragen hier in den Kommentaren hinterlassen.
+		</p>
+                        <p>
+                            <em>
+                                <strong>Musik:</strong>
+                            </em>&#160;"<a href="http://mizukislastchance.bandcamp.com/track/holy-bleep">Holy Bleep</a>" -&#160;Mizuki's Last Chance,&#160;"<a href="http://soundcloud.com/professorkliq/shifting-focus-1">Shifting Focus</a>" -&#160;Professor Kliq, "<a href="http://www.upitup.com/catalogue/sharemp3.php?cat_id=28&amp;trk_id=268">Websiiite</a>"&#160;– Tracky Birthday feat. Dragan Espenschied
+	</p>
+                        <p>
+                            <em>
+                                <strong>
+                                    <a href="https://shownotes.piratenpad.de/ep/pad/view/ro.7Hbu8Mt5Ae0wuBzDbqNVRJFhtvm/latest">Shownotes</a>
+                                </strong>
+                            </em>&#160;(<a href="https://twitter.com/DieShownotes">via</a>)
+	</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Dodger, Constanze Kurz</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR179 Kopierkulturkampf</title>
+                    <itunes:subtitle>Was der ACTA-Protest mit der Kulturwertmark zu tun hat</itunes:subtitle>
+                    <description>Was der ACTA-Protest mit der Kulturwertmark zu tun hat</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr179-kopierkulturkampf.mp3" length="77528738"/>
+                    <itunes:duration>01:47:39</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr179.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr179.html</link>
+                    <pubDate>01 Jun 2012 15:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR179
+
+Veröffentlicht am: 01.06.2012, 15:10 Uhr
+Aufnahme vom: 31.05.2012
+Sendungsdatum: 31.05.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr179.html
+
+Teilnehmer: Marcus Richter (Moderation), Stephan Urbach, Martin Haase
+
+Kopierkulturkampf
+Was der ACTA-Protest mit der Kulturwertmark zu tun hat
+
+
+
+
+
+Die Motivation hinter dem lange geheim gehaltenen Handelsabkommen ist einmal der Gedanke, Urheberrechtsverletzungen im Internet zu unterbinden. Der Protest gegen ACTA ist deshalb gleich dreifach: Gegen die Geheimhaltung, gegen die Eingriffe ins Internet und gegen ein klassisches Verständnis von Urheberrecht. 
+
+Links: 
+
+* Show Notes http://freepad.erdgeist.org/p/car179 
+* ACTA: Heute ist Abstimm-Marathon im EU-Parlament http://netzpolitik.org/2012/acta-heute-ist-abstimm-marathon-im-eu-parlament/ 
+* Übersicht ACTA-Demos http://wiki.stoppacta-protest.info/DE:%C3%9Cbersicht_Demos3 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p/>
+                        <p/>
+                        <p>
+Die Motivation hinter dem lange geheim gehaltenen Handelsabkommen ist einmal der Gedanke, Urheberrechtsverletzungen im Internet zu unterbinden. Der Protest gegen ACTA ist deshalb gleich dreifach: Gegen die Geheimhaltung, gegen die Eingriffe ins Internet und gegen ein klassisches Verständnis von Urheberrecht.
+
+	</p>
+                        <p>
+	    Links:
+	</p>
+                        <ul>
+                            <li>
+                                <a href="http://freepad.erdgeist.org/p/car179">Show Notes</a>
+                            </li>
+                            <li>
+                                <a href="http://netzpolitik.org/2012/acta-heute-ist-abstimm-marathon-im-eu-parlament/">ACTA: Heute ist Abstimm-Marathon im EU-Parlament</a>
+                            </li>
+                            <li>
+                                <a href="http://wiki.stoppacta-protest.info/DE:%C3%9Cbersicht_Demos3">Übersicht ACTA-Demos</a>
+                            </li>
+                        </ul>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Stephan Urbach, Martin Haase</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR178 Freundschaft, Ponies und Cumberbitches</title>
+                    <itunes:subtitle>Internet-Fandoms und postmoderne Rezeptionsweisen</itunes:subtitle>
+                    <description>Internet-Fandoms und postmoderne Rezeptionsweisen</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr178-freundschaft-ponies-cumberbitches.mp3" length="80197476"/>
+                    <itunes:duration>01:51:21</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr178.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr178.html</link>
+                    <pubDate>27 Apr 2012 14:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR178
+
+Veröffentlicht am: 27.04.2012, 14:10 Uhr
+Aufnahme vom: 26.04.2012
+Sendungsdatum: 26.04.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr178.html
+
+Teilnehmer: Marcus Richter (Moderation), Henryk Plötz, Tina Lorenz
+
+Freundschaft, Ponies und Cumberbitches
+Internet-Fandoms und postmoderne Rezeptionsweisen
+
+Popkulturelle Phänomene, die im Netz ein Eigenleben erhalten sind schon seit Jahrzehnten wissenschaftlicher Gegenstand der Forschung. Während die Fankultur jedoch als überwiegend jung und weiblich wahrgenommen wird, bieten Fernsehsendungen wie My Little Pony einer zunehmend wachsenden, männlichen Fangemeinde die Möglichkeit, sich aktiv mit Rezeptionsweisen und der Sichtbarmachung dieser Rezeption auseinanderzusetzen. 
+
+Wir wollen uns in dieser Sendung mit Popkultur auseinandersetzen und stellen uns die Frage, wie manche Produkte es in das kollektive Bewusstsein von Fangemeinden schaffen, während andere das nicht tun. Was ist der Reiz von Slashfiction und Memes bezogen auf Fandoms und warum hecheln alle hinter kleinen Zeichentrickponies mit einfachster Moralvorstellung hinterher? 
+
+Eine kleine Reise in die flauschigen Tiefen der Fankultur mit Henryk https://twitter.com/#!/henrykploetz (Ponyexperte) und Tina https://twitter.com/#!/twena (Slashfiction-Auskennerin). (Und einem Moderator https://twitter.com/#!/monoxyd , der sich vor kleinen bunten Pferden fürchtet.) 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+Popkulturelle Phänomene, die im Netz ein Eigenleben erhalten sind schon seit Jahrzehnten wissenschaftlicher Gegenstand der Forschung. Während die Fankultur jedoch als überwiegend jung und weiblich wahrgenommen wird, bieten Fernsehsendungen wie My Little Pony einer zunehmend wachsenden, männlichen Fangemeinde die Möglichkeit, sich aktiv mit Rezeptionsweisen und der Sichtbarmachung dieser Rezeption auseinanderzusetzen.
+
+	</p>
+                        <p>
+Wir wollen uns in dieser Sendung mit Popkultur auseinandersetzen und stellen uns die Frage, wie manche Produkte es in das kollektive Bewusstsein von Fangemeinden schaffen, während andere das nicht tun. Was ist der Reiz von Slashfiction und Memes bezogen auf Fandoms und warum hecheln alle hinter kleinen Zeichentrickponies mit einfachster Moralvorstellung hinterher?
+
+	</p>
+                        <p>
+Eine kleine Reise in die flauschigen Tiefen der Fankultur mit <a href="https://twitter.com/#!/henrykploetz">Henryk</a> (Ponyexperte) und <a href="https://twitter.com/#!/twena">Tina</a> (Slashfiction-Auskennerin). (Und einem <a href="https://twitter.com/#!/monoxyd">Moderator</a>, der sich vor kleinen bunten Pferden fürchtet.)
+	</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Henryk Plötz, Tina Lorenz</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR177 Bargeldloses Bargeld</title>
+                    <itunes:subtitle>Elektronischer Transfer von Bezahleinheiten</itunes:subtitle>
+                    <description>Elektronischer Transfer von Bezahleinheiten</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr177-bargeldloses-bargeld.mp3" length="82360896"/>
+                    <itunes:duration>01:54:22</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr177.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr177.html</link>
+                    <pubDate>04 Apr 2012 09:10:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR177
+
+Veröffentlicht am: 04.04.2012, 09:10 Uhr
+Aufnahme vom: 29.03.2012
+Sendungsdatum: 29.03.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr177.html
+
+Teilnehmer: Marcus Richter (Moderation), nibbler, pluto
+
+Bargeldloses Bargeld
+Elektronischer Transfer von Bezahleinheiten
+
+Für einige ist es die letzten Bastion gegen die digitale Vorherrschaft, für andere nur noch ein lästiges anonymes analoges Überbleibsel: Bargeld. 
+
+An der Ablösung des alten Bezahlkonzepts wird schon eifrig gearbeitet. In Kürze sollen Handys per NFC-Transmitter als digitale Brieftasche fungieren und auch im Netz gibt es schon zahlreiche Anbieter, die den einfachen Transfer von kleineren und größeren Geldsummen ermöglichen wollen. 
+
+Was einerseits das Bezahlen erleichtern soll, hat aber auch ein paar Haken: Zahlungen sind nicht mehr anonym und es kommt in Mode die Haftung bei Fehlern auf die Kunden – also uns – abzuwälzen. Im Chaosradio sollen einerseits die technischen Rahmebedingungen und andererseits die gesellschaftlichen Implikationen des digitalen Geldes erklärt und diskutiert werden. 
+
+Und natürlich seid auch Ihr gefragt: Welche Erfahrungen habt ihr schon mit virtuellem Geld gemacht? 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+		Für einige ist es die letzten Bastion gegen die digitale Vorherrschaft, für andere nur noch ein lästiges anonymes analoges Überbleibsel: Bargeld.
+	</p>
+                        <p>
+		An der Ablösung des alten Bezahlkonzepts wird schon eifrig gearbeitet. In Kürze sollen Handys per NFC-Transmitter als digitale Brieftasche fungieren und auch im Netz gibt es schon zahlreiche Anbieter, die den einfachen Transfer von kleineren und größeren Geldsummen ermöglichen wollen.
+	</p>
+                        <p>
+		Was einerseits das Bezahlen erleichtern soll, hat aber auch ein paar Haken: Zahlungen sind nicht mehr anonym und es kommt in Mode die Haftung bei Fehlern auf die Kunden – also uns – abzuwälzen. Im Chaosradio sollen einerseits die technischen Rahmebedingungen und andererseits die gesellschaftlichen Implikationen des digitalen Geldes erklärt und diskutiert werden.
+
+	</p>
+                        <p>
+		Und natürlich seid auch Ihr gefragt: Welche Erfahrungen habt ihr schon mit virtuellem Geld gemacht?
+		</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), nibbler, pluto</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR176 Moderne Maschinenmenschen</title>
+                    <itunes:subtitle>Digitale Erweiterungen analoger Zellhaufen</itunes:subtitle>
+                    <description>Digitale Erweiterungen analoger Zellhaufen</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr176-moderne-maschinenmenschen.mp3" length="81596095"/>
+                    <itunes:duration>01:53:18</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr176.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr176.html</link>
+                    <pubDate>27 Feb 2012 17:09:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR176
+
+Veröffentlicht am: 27.02.2012, 17:09 Uhr
+Aufnahme vom: 23.02.2012
+Sendungsdatum: 23.02.2012, 22:00 Uhr
+http://chaosradio.ccc.de/cr176.html
+
+Teilnehmer: Marcus Richter (Moderation), frank, steini, erdgeist
+
+Moderne Maschinenmenschen
+Digitale Erweiterungen analoger Zellhaufen
+
+Das An- und Einbauen von Maschinen in den Menschen ist je nach Perspektive Horrorvision (Borg) oder Heilsversprechen (Prothesen). Im aktuellen Chaosradio wollen wir den aktuellen Stand der Technik darstellen und auch über die Konsequenzen der Verbindung von Silizium und Gewebe sprechen. 
+
+Machen Prothesen und Sensoren machen den Menschen besser, schneller, stärker und gleichen Schwächen des menschlichen Körpers aus? Was bedeutet das für die Integrität Deines Körpers und was für Möglichkeiten und Probleme bei sozialer Interaktion entstehen, wenn Dich Mikroelektronik verbessert? 
+
+Kann man irgendwann überhaupt noch ohne solche Erweiterungen als produktives Element der Gesellschaft funktionieren? Was ist, wenn bestimmte Erweiterungen durch gesellschaftlichen Druck obligatorisch werden? Wie stellst Du sicher, daß Dein Körper komplett unter Deiner Kontrolle bleibt? 
+
+Und welche heute verfügbare Technologie kann vielleicht schon heute als externalisierter Teil unseres Selbst begriffen werden? 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Das An- und Einbauen von Maschinen in den Menschen ist je nach Perspektive Horrorvision (Borg) oder Heilsversprechen (Prothesen). Im aktuellen Chaosradio wollen wir den aktuellen Stand der Technik darstellen und auch über die Konsequenzen der Verbindung von Silizium und Gewebe sprechen.</p>
+                        <p>Machen Prothesen und Sensoren machen den Menschen besser, schneller, stärker und gleichen Schwächen des menschlichen Körpers aus? Was bedeutet das für die Integrität Deines Körpers und was für Möglichkeiten und Probleme bei sozialer Interaktion entstehen, wenn Dich Mikroelektronik verbessert?</p>
+                        <p>Kann man irgendwann überhaupt noch ohne solche Erweiterungen als produktives Element der Gesellschaft funktionieren? Was ist, wenn bestimmte Erweiterungen durch gesellschaftlichen Druck obligatorisch werden? Wie stellst Du sicher, daß Dein Körper komplett unter Deiner Kontrolle bleibt?</p>
+                        <p>Und welche heute verfügbare Technologie kann vielleicht schon heute als externalisierter Teil unseres Selbst begriffen werden?</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), frank, steini, erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR175 R.I.P. Filesharing?</title>
+                    <itunes:subtitle>Eine kurze Geschichte des dezentralen Datenbackups</itunes:subtitle>
+                    <description>Eine kurze Geschichte des dezentralen Datenbackups</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr175-rip-filesharing.mp3" length="110480739"/>
+                    <itunes:duration>01:55:01</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr175.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr175.html</link>
+                    <pubDate>03 Feb 2012 10:35:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR175
+
+Veröffentlicht am: 03.02.2012, 10:35 Uhr
+Aufnahme vom: 30.11.2011
+http://chaosradio.ccc.de/cr175.html
+
+Teilnehmer: Marcus Richter (Moderation), Andreas Bogk, Erdgeist
+
+R.I.P. Filesharing?
+Eine kurze Geschichte des dezentralen Datenbackups
+
+Es begann damit, dass begeisterte Kids auf dem Schulhof Disketten tauschten, die von Hand gelocht wurden, um die Kapazität zu vergrößern. So will es zumindest der Mythos. 
+
+Vorläufiges Ende der Geschichte ist Stilllegung von Megaupload, einem der bekanntesten Sharehoster überhaupt. Dazwischen hat sich Einiges zugetragen, das wir im aktuellen Chaosradio zusammenfassen wollen. 
+
+Welche Daten wurden wann und von wem getauscht? Wer waren die Protagonisten? Was waren die großen Katastrophen und Umbrüche? Wie hat sich die Szene, die Technik und die Rechtsprechung geändert? 
+
+Erdgeist und Andreas werden zu Gast im Studio sein, um die Filesharing-Chronik zu erstellen, sich eure Geschichten anzuhören und auch einen kleinen Ausblick in die Zukunft zu wagen. 
+
+Denn dass die Titelfrage rhetorisch ist, bedarf wohl keiner langen Diskussion. Die Frage ist nur: Was kommt als Nächstes? 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+			Es begann damit, dass begeisterte Kids auf dem Schulhof Disketten tauschten, die von Hand gelocht wurden, um die Kapazität zu vergrößern. So will es zumindest der Mythos.
+
+    </p>
+                        <p>
+			Vorläufiges Ende der Geschichte ist Stilllegung von Megaupload, einem der bekanntesten Sharehoster überhaupt. Dazwischen hat sich Einiges zugetragen, das wir im aktuellen Chaosradio zusammenfassen wollen.
+
+    </p>
+                        <p>
+			Welche Daten wurden wann und von wem getauscht? Wer waren die Protagonisten? Was waren die großen Katastrophen und Umbrüche? Wie hat sich die Szene, die Technik und die Rechtsprechung geändert?
+
+    </p>
+                        <p>
+			Erdgeist und Andreas werden zu Gast im Studio sein, um die Filesharing-Chronik zu erstellen, sich eure Geschichten anzuhören und auch einen kleinen Ausblick in die Zukunft zu wagen.
+    </p>
+                        <p>
+	Denn dass die Titelfrage rhetorisch ist, bedarf wohl keiner langen Diskussion. Die Frage ist nur: Was kommt als Nächstes?
+
+</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Andreas Bogk, Erdgeist</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+                <item>
+                    <title>CR174 Piratensender Powerplay</title>
+                    <itunes:subtitle>Autarke Produktion von Audioinhalten (für alle)</itunes:subtitle>
+                    <description>Autarke Produktion von Audioinhalten (für alle)</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr174-piratensender-powerplay.mp3" length="108234486"/>
+                    <itunes:duration>01:52:40</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr174.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr174.html</link>
+                    <pubDate>01 Dec 2011 17:00:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR174
+
+Veröffentlicht am: 01.12.2011, 17:00 Uhr
+Aufnahme vom: 30.11.2011
+http://chaosradio.ccc.de/cr174.html
+
+Teilnehmer: Marcus Richter (Moderation), Martin Haase, Nicolas Semak, Elektra
+
+Piratensender Powerplay
+Autarke Produktion von Audioinhalten (für alle)
+
+Als die ersten Folgen des Chaosradios produziert wurden, war Audiotechnik noch etwas, dass es nur in großen Studios gab. Die Möglichkeit mehrere Leute an einem oder verschiedenen Orten zu versammeln und sie einem größeren Publikum zu Gehör zu bringen, war Firmen und Medienhäusern vorbehalten. 
+
+Wie jedem klar sein dürfte, ist das mittlerweile ähnlich historisch wie Dampfmaschinen, Fernsprechapparate und Keuschheitsgürtel. Durch Breitbandinternet und immer billiger werdende Audiotechnik ist die Vision vom Medium für Jedermann in greifbare Nähe gerückt. 
+
+Trotzdem gehört immer noch eine kleine Portion Fachwissen und auch eine nicht ganz unerhebliche Investition dazu, um wirklich hörbare Ergebnisse zu erzielen. Den aktuellen Stand der Technik und die Möglichkeiten, die sich bieten, sollen heute erörtert werden. 
+
+Dabei soll es nicht nur um den klassischen Podcast gehen, sondern auch das Phänomen des Livestreaming besprochen und ein Ausflug in die Welt des echten UKW-Piratenradios unternommen werden. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>
+			Als die ersten Folgen des Chaosradios produziert wurden, war Audiotechnik noch etwas, dass es nur in großen Studios gab. Die Möglichkeit mehrere Leute an einem oder verschiedenen Orten zu versammeln und sie einem größeren Publikum zu Gehör zu bringen, war Firmen und Medienhäusern vorbehalten.
+    </p>
+                        <p>
+			Wie jedem klar sein dürfte, ist das mittlerweile ähnlich historisch wie Dampfmaschinen, Fernsprechapparate und Keuschheitsgürtel. Durch Breitbandinternet und immer billiger werdende Audiotechnik ist die Vision vom Medium für Jedermann in greifbare Nähe gerückt.
+    </p>
+                        <p>
+			Trotzdem gehört immer noch eine kleine Portion Fachwissen und auch eine nicht ganz unerhebliche Investition dazu, um wirklich hörbare Ergebnisse zu erzielen. Den aktuellen Stand der Technik und die Möglichkeiten, die sich bieten, sollen heute erörtert werden.
+    </p>
+                        <p>
+			Dabei soll es nicht nur um den klassischen Podcast gehen, sondern auch das Phänomen des Livestreaming besprochen und ein Ausflug in die Welt des echten UKW-Piratenradios unternommen werden.
+
+    </p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), Martin Haase, Nicolas Semak, Elektra</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
+            </channel>
+        </rss>
+    </httpclient:body>
+</httpclient:response>

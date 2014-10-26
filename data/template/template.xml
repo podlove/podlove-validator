@@ -1,51 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-    <template id="c-copyright">
-        <message lang="en">copyright element is missing for 'rss/channel'</message>
+    <template id="c-title">
+        <message type="error" lang="en">title element is missing for 'rss/channel'</message>
         <template>
             <copyright/>
         </template>
     </template>
-    <template id="i-itunes-subtitle-length">
-        <message type="" lang="en">item has empty itunes:subtitle</message>
+    <template id="c-link">
+        <message type="error" lang="en">link element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-description">
+        <message type="error" lang="en">description element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-language">
+        <message type="error" lang="en">language element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-language-invalid">
+        <message type="error" lang="en">choosen language is invalid</message>
+    </template>
+    <template id="c-atom-link">
+        <message type="error" lang="en">atom-link element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-atom-link-self">
+        <message type="error" lang="en">atom-link[@rel = 'self'] element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-copyright">
+        <message type="info" lang="en">copyright element is missing for 'rss/channel'</message>
         <template>
-            <itunes:subtitle/>
+            <copyright/>
         </template>
     </template>
+    <template id="c-itunes-summary">
+        <message type="error" lang="en">itunes-summary element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-itunes-subtitle">
+        <message type="error" lang="en">itunes-subtitle element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-itunes-category">
+        <message type="error" lang="en">itunes-category element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-itunes-owner">
+        <message type="error" lang="en">itunes-owner element is missing for 'rss/channel'</message>
+    </template>
+    <template id="c-itunes-image">
+        <message type="error" lang="en">itunes-image element is missing for 'rss/channel'</message>
+    </template>
     <template id="c-itunes-keywords">
-        <message lang="en">itunes:keywords element is missing </message>
+        <message type="info" lang="en">itunes:keywords element is missing </message>
         <template>
             <itunes:keywords>keywords seperated with comma</itunes:keywords>
         </template>
     </template>
-    <template id="i-itunes-summary-length">
-        <message lang="en">something about summary length</message>
-        <template>
-            <itunes:summary/>
-        </template>
-    </template>
     <template id="c-itunes-block">
-        <message lang="en">something about itunes:block</message>
-        <template>
-            <itunes:summary/>
-        </template>
+        <message type="error" lang="en">itunes-block element is missing for 'rss/channel'</message>
     </template>
-    <template id="i-itunes-explicit">
-        <message lang="en">something about itunes:explicit</message>
-        <template>
-            <itunes:summary/>
-        </template>
+    <template id="c-itunes-explicit">
+        <message type="error" lang="en">itunes-explicit element is missing for 'rss/channel'</message>
+    </template>
+    <template id="i-channel">
+        <message type="error" lang="en">An item element can only occur within a channel element</message>
+    </template>
+    <template id="i-title">
+        <message type="error" lang="en">title element is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-link">
+        <message type="error" lang="en">link element is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-guid">
+        <message type="error" lang="en">guid element is missing for 'rss/channel/item'</message>
     </template>
     <template id="i-guid-empty">
-        <message lang="en">empty guid</message>
+        <message type="error" lang="en">empty guid for 'rss/channel/item'</message>
         <template>
             <guid/>
         </template>
     </template>
+    <template id="i-content-encoded">
+        <message type="error" lang="en">content:encoded element is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-enclosure">
+        <message type="error" lang="en">enclosure element is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-enclosure-url">
+        <message type="error" lang="en">enclosure/@url attribute is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-enclosure-length">
+        <message type="error" lang="en">enclosure/@length attribute is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-enclosure-type">
+        <message type="error" lang="en">enclosure/@type attribute is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-itunes-duration">
+        <message type="error" lang="en">itunes-duration  is missing for 'rss/channel/item'</message>
+    </template>
     <template id="i-itunes-duration-length">
-        <message lang="en">i-tunes duration length is missing</message>
+        <message type="info" lang="en">wrong itunes:duration length</message>
+    </template>
+    <template id="i-itunes-subtitle">
+        <message type="error" lang="en">itunes:subtitle  is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-itunes-subtitle-length">
+        <message type="info" lang="en">item has empty itunes:subtitle</message>
+    </template>
+    <template id="i-itunes-summary">
+        <message type="error" lang="en">itunes:summary  is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-itunes-summary-length">
+        <message type="info" lang="en">something about summary length</message>
         <template>
-            <guid/>
+            <itunes:summary/>
         </template>
+    </template>
+    <template id="i-itunes-author">
+        <message type="error" lang="en">itunes:author  is missing for 'rss/channel/item'</message>
+    </template>
+    <template id="i-itunes-author-length">
+        <message type="error" lang="en">itunes:author length is missing for 'rss/channel/item'</message>
     </template>
 </rss>

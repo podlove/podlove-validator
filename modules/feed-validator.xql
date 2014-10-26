@@ -69,7 +69,7 @@ declare function local:validate-feed($feedPath){
  let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
  let $test-url := "http://freakshow.fm/feed/m4a/"
  : :)
-let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
+let $test-url := "http://chaosradio.ccc.de/chaosradio-latest.rss/" 
 
 let $inputURL := request:get-parameter("feedURL", $test-url)
 let $log-in := xmldb:login($config:app-root, $config:user-name, $config:user-pwd)
