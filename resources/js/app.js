@@ -16,7 +16,7 @@ jQuery(document).ready(function() {
             var tmpl = this;
             console.log("message location:", tmpl.location)
             console.log("message text:", tmpl.message["#text"])
-            var mediaList = $("<li class='media'>")
+            var mediaList = $("<li class='media " + tmpl.message.type +"'>");
             var mediaBody = $("<div class='media-body'>");
             $(mediaBody).append("<h6 class'media-heading'>" + tmpl.message["#text"] + "</h6>");
             $(mediaBody).append("<p>Location:" + tmpl.location+ "</p>");
