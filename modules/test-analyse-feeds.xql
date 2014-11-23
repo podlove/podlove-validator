@@ -10,6 +10,8 @@ declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
 
 declare %private function local:analyse-lang() {
+    let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
+    let $feeds := collection($path-to-feeds)//rss    
     let $languages := $feeds//language
     let $feeds-with-language-elem := count($languages)
     let $shortlang := for $lang in $languages
@@ -35,6 +37,22 @@ declare %private function local:analyse-lang() {
         </result>
 };
 
+declare %private function local:analyse-podlove($rss-feeds){
+    let $channel-desc := $rss-feeds//channel/description[ft:query(., 'pritlove')]
+    let $channel-author := $rss-feeds//channel/itunes:author[ft:query(., 'pritlove')]
+    let $description := $rss-feeds//description[ft:query(., 'pritlove')]
+    let $author := $rss-feeds//itunes:author[ft:query(., 'pritlove')]
+        
+    return 
+       <pritlove 
+            channel-description="{count($channel-desc)}"
+            channel-author="{count($channel-author)}"
+            description="{count($description)}"
+            author="{count($author)}"
+        />
+            
+};
+
 declare %private function local:analyse-full-feeds(){
     let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
     let $rss-feeds := collection($path-to-feeds)//rss
@@ -46,20 +64,7 @@ declare %private function local:analyse-full-feeds(){
     return 
         <result rss-feeds="{count($rss-feeds)}" distinct-feeds-titles="{$distinct-feeds}">
             <payment total="{count($payment-links)}" flattr="{count($flattr)}"/>
-            {
-                let $channel-desc := $rss-feeds//channel/description[ft:query(., 'pritlove')]
-                let $channel-author := $rss-feeds//channel/itunes:author[ft:query(., 'pritlove')]
-                let $description := $rss-feeds//description[ft:query(., 'pritlove')]
-                let $author := $rss-feeds//itunes:author[ft:query(., 'pritlove')]
-                    
-                return 
-                   <pritlove 
-                        channel-description="{count($channel-desc)}"
-                        channel-author="{count($channel-author)}"
-                        description="{count($description)}"
-                        author="{count($author)}"
-                    />
-            }
+            {local:analyse-podlove($rss-feeds)}
         </result>    
 };
 

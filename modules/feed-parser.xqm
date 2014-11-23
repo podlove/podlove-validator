@@ -24,6 +24,7 @@ declare variable $fp:RSS-HANDLER :=
         "lastBuildDate" := fp:lastBuildDate#1,
         "language" := fp:language#1,
         "generator" := fp:generator#1,
+        "webMaster" := fp:webMaster#1,
         "managingEditor" := fp:managingEditor#1,
         "image" := fp:image#1,
         "item" := fp:item#1
@@ -40,6 +41,17 @@ declare variable $fp:SY-HANDLER :=
         "sy:updateFrequency" := fp:sy-updateFrequency#1
 };
 
+
+declare variable $fp:XHTML-HANDLER :=
+    map {
+        "xhtml:body" := fp:ignore#1
+};
+
+declare variable $fp:CONTENT-HANDLER := 
+    map {
+        "content:encoded" := fp:content-encoded#1
+};
+
 declare variable $fp:ITUNES-HANDLER := 
     map {
         "itunes:subtitle" := fp:itunes-subtitle#1,
@@ -50,7 +62,9 @@ declare variable $fp:ITUNES-HANDLER :=
         "itunes:email" := fp:itunes-email#1,
         "itunes:image" := fp:itunes-image#1,
         "itunes:explicit" := fp:itunes-explicit#1,
-        "itunes:duration" := fp:itunes-duration#1
+        "itunes:duration" := fp:itunes-duration#1,
+        "itunes:category" := fp:itunes-category#1,
+        "itunes:keywords" := fp:itunes-keywords#1
 };
 
 
@@ -94,6 +108,11 @@ declare function fp:generator($item as item()*){
      <info>element 'generator' is fine</info>
 };
 
+declare function fp:webMaster($item as item()*){
+     <info>element 'webMaster' is fine</info>
+};
+
+
 declare function fp:managingEditor($item as item()*){
      <info>element 'managingEditor' is fine</info>
 };
@@ -136,7 +155,9 @@ declare function fp:sy-updateFrequency($item as item()*){
     <info>element 'sy:updateFrequency' is fine</info>
 };
 
-
+declare function fp:content-encoded($item as item()*){
+    <info>element 'content:encoded' is fine</info>
+};
 
 declare function fp:itunes-subtitle($item as item()*){
     <info>element 'itunes:subtitle' is fine</info>
@@ -166,17 +187,22 @@ declare function fp:itunes-explicit($item as item()*){
 declare function fp:itunes-duration($item as item()*){
     <info>element 'itunes-duration' is fine</info>
 };
+declare function fp:itunes-category($item as item()*){
+    <info>element 'itunes-category' is fine</info>
+};
+declare function fp:itunes-keywords($item as item()*){
+    <info>element 'itunes-keywords' is fine</info>
+};
+
 
 declare function fp:atom-link($item as item()*){
     <info>element atom:link is fine</info>
-        (: 
-            element { "a"} {
-                $item/(@*),            
-                $item/text()
-        }
-        :)     
-        
 };
+
+declare function fp:ignore($item as item()*){
+    ()
+};
+
 
 declare function fp:parse-rss($xml, $config){
  for $node in $xml
@@ -186,11 +212,11 @@ declare function fp:parse-rss($xml, $config){
             then ( 
                 if(map:contains($config, $fn-name))
                 then (
-                    $config($fn-name)($node),
-                    fp:parse-rss($node/*, $config)
+                    $config($fn-name)($node)
+                    (: fp:parse-rss($node/*, $config):)
                 )else (
                     (
-                        <error>no function for elment '{$fn-name}</error>,
+                        <error>no function for elment '{$fn-name}'</error>,
                         if(exists($node/*)) then (
                             fp:parse-rss($node/*,$config)
                         ) else ()
@@ -211,7 +237,7 @@ declare function fp:parse-rss($xml, $config){
 
 
 declare function fp:parse($feed as item()){
-    let $config := map:new (($fp:RSS-HANDLER,$fp:ATOM-HANDLER,$fp:ITUNES-HANDLER, $fp:DC-HANDLER, $fp:SY-HANDLER))
+    let $config := map:new (($fp:RSS-HANDLER,$fp:ATOM-HANDLER,$fp:ITUNES-HANDLER, $fp:DC-HANDLER, $fp:SY-HANDLER, $fp:XHTML-HANDLER, $fp:CONTENT-HANDLER))
    
     return 
         <result>

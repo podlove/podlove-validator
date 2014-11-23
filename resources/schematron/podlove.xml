@@ -19,11 +19,12 @@
             <assert test="link">#c-link</assert>
             <assert test="description">#c-description</assert>
             <assert test="language">#c-language</assert>
+            <assert test="generator">#c-generator</assert>
             <assert test="$lang">#c-language-invalid</assert>
             <assert test="atom:link">#c-atom-link</assert>
-            <assert test="atom:link[@rel = 'self']">#c-atom-link-self</assert>
+            <assert test="atom:link[@rel='self']">#c-atom-link-self</assert>
+            <assert test="atom:link[@rel='hub']">#c-atom-link-hub</assert>
             <assert test="copyright">#c-copyright</assert>
-            
 
             <!-- RSS - CHANNEL - ITUNES -->
             <assert test="itunes:summary">#c-itunes-summary</assert>
