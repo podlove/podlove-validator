@@ -4,10 +4,10 @@
         <httpclient:header name="Vary" value="Accept-Encoding"/>
         <httpclient:header name="Content-Type" value="application/rss+xml"/>
         <httpclient:header name="Accept-Ranges" value="bytes"/>
-        <httpclient:header name="ETag" value="&#34;4282362387&#34;"/>
-        <httpclient:header name="Last-Modified" value="Mon, 29 Sep 2014 14:54:34 GMT"/>
-        <httpclient:header name="Content-Length" value="109669"/>
-        <httpclient:header name="Date" value="Sun, 26 Oct 2014 21:18:40 GMT"/>
+        <httpclient:header name="ETag" value="&#34;635247115&#34;"/>
+        <httpclient:header name="Last-Modified" value="Sun, 02 Nov 2014 22:04:10 GMT"/>
+        <httpclient:header name="Content-Length" value="109310"/>
+        <httpclient:header name="Date" value="Sat, 08 Nov 2014 10:44:34 GMT"/>
         <httpclient:header name="Server" value="lighttpd"/>
     </httpclient:headers>
     <httpclient:body mimetype="application/rss+xml" type="xml">
@@ -40,6 +40,42 @@ Unter der Rufnummer +49 (1801) 99 33 22 99 55 könnt ihr Audio-Feedback zur Send
                 <itunes:category text="Technology"/>
                 <itunes:keywords>Chaos Computer Club,Chaosradio,Chaos Radio,Fritz,RBB,Hacking,Technology,Politics,Science,Society,Community</itunes:keywords>
                 <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>CR206 Basics des Hardware-Hackings</title>
+                    <itunes:subtitle>Ein Überblick über Werkzeuge, Schnittstellen und Begriffe</itunes:subtitle>
+                    <description>Ein Überblick über Werkzeuge, Schnittstellen und Begriffe</description>
+                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr206-basicsdeshardwarehackings.mp3" length="112685009"/>
+                    <itunes:duration>01:57:22</itunes:duration>
+                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr206.html-001</guid>
+                    <link>http://chaosradio.ccc.de/cr206.html</link>
+                    <category>Chaosradio</category>
+                    <category>Hardware Hacking</category>
+                    <pubDate>02 Nov 2014 23:00:00 +0100</pubDate>
+                    <itunes:summary>Chaosradio CR206
+
+Veröffentlicht am: 02.11.2014, 23:00 Uhr
+Aufnahme vom: 30.10.2014
+Sendungsdatum: 30.10.2014, 22:00 Uhr
+http://chaosradio.ccc.de/cr206.html
+
+Teilnehmer: Marcus Richter (Moderation), derpeter, Denis, starbug, mirco
+
+Basics des Hardware-Hackings
+Ein Überblick über Werkzeuge, Schnittstellen und Begriffe
+
+Wenn wir hier im Chaosradio über Sicherheitslücken und Hacks sprechen, geht es meistens um Software oder Netzpolitik, aber die zugrundeliegende Hardware ist natürlich auch nicht ganz unwichtig. Nachdem wir uns in Folge 198 schon einmal mit den komplexeren Auswirkungen und Anekdoten beschäftigt haben, soll es dieses Mal um eine Einführung ins Hardwarehacking gehen: Was genau ist Hardwarehacking? Was kann damit erreicht werden? Welche Werkzeuge braucht man dazu? Was ist die richtige Herangehensweise? 
+
+Dazu spricht Marcus Richter ab 22 Uhr mit hardwareerfahrenem Personal aus dem Chaos Computer Club. Live im Stream via Xenim http://streams.xenim.net/chaosradio/ (Audio) und über das C3VOC http://streaming.media.ccc.de/ (Video) und vor Ort im CCC Berlin in der Marienstraße 11. 
+
+
+</itunes:summary>
+                    <xhtml:body>
+                        <p>Wenn wir hier im Chaosradio über Sicherheitslücken und Hacks sprechen, geht es meistens um Software oder Netzpolitik, aber die zugrundeliegende Hardware ist natürlich auch nicht ganz unwichtig. Nachdem wir uns in Folge 198 schon einmal mit den komplexeren Auswirkungen und Anekdoten beschäftigt haben, soll es dieses Mal um eine Einführung ins Hardwarehacking gehen: Was genau ist Hardwarehacking? Was kann damit erreicht werden? Welche Werkzeuge braucht man dazu? Was ist die richtige Herangehensweise?</p>
+                        <p>Dazu spricht Marcus Richter ab 22 Uhr mit hardwareerfahrenem Personal aus dem Chaos Computer Club. Live im Stream via <a href="http://streams.xenim.net/chaosradio/">Xenim</a> (Audio) und über das <a href="http://streaming.media.ccc.de/">C3VOC</a> (Video) und vor Ort im CCC Berlin in der Marienstraße 11.</p>
+                        <p>Teilnehmer: Marcus Richter (Moderation), derpeter, Denis, starbug, mirco</p>
+                    </xhtml:body>
+                    <itunes:explicit>no</itunes:explicit>
+                </item>
                 <item>
                     <title>CR205 Vintage Computing</title>
                     <itunes:subtitle>Von Rechenmaschinen und Home Computern</itunes:subtitle>
@@ -1421,54 +1457,6 @@ Denn dass die Titelfrage rhetorisch ist, bedarf wohl keiner langen Diskussion. D
 
 </p>
                         <p>Teilnehmer: Marcus Richter (Moderation), Andreas Bogk, Erdgeist</p>
-                    </xhtml:body>
-                    <itunes:explicit>no</itunes:explicit>
-                </item>
-                <item>
-                    <title>CR174 Piratensender Powerplay</title>
-                    <itunes:subtitle>Autarke Produktion von Audioinhalten (für alle)</itunes:subtitle>
-                    <description>Autarke Produktion von Audioinhalten (für alle)</description>
-                    <enclosure type="audio/mpeg" url="http://chaosradio.ccc.de/archive/cr174-piratensender-powerplay.mp3" length="108234486"/>
-                    <itunes:duration>01:52:40</itunes:duration>
-                    <guid isPermaLink="false">http://chaosradio.ccc.de/cr174.html-001</guid>
-                    <link>http://chaosradio.ccc.de/cr174.html</link>
-                    <pubDate>01 Dec 2011 17:00:00 +0100</pubDate>
-                    <itunes:summary>Chaosradio CR174
-
-Veröffentlicht am: 01.12.2011, 17:00 Uhr
-Aufnahme vom: 30.11.2011
-http://chaosradio.ccc.de/cr174.html
-
-Teilnehmer: Marcus Richter (Moderation), Martin Haase, Nicolas Semak, Elektra
-
-Piratensender Powerplay
-Autarke Produktion von Audioinhalten (für alle)
-
-Als die ersten Folgen des Chaosradios produziert wurden, war Audiotechnik noch etwas, dass es nur in großen Studios gab. Die Möglichkeit mehrere Leute an einem oder verschiedenen Orten zu versammeln und sie einem größeren Publikum zu Gehör zu bringen, war Firmen und Medienhäusern vorbehalten. 
-
-Wie jedem klar sein dürfte, ist das mittlerweile ähnlich historisch wie Dampfmaschinen, Fernsprechapparate und Keuschheitsgürtel. Durch Breitbandinternet und immer billiger werdende Audiotechnik ist die Vision vom Medium für Jedermann in greifbare Nähe gerückt. 
-
-Trotzdem gehört immer noch eine kleine Portion Fachwissen und auch eine nicht ganz unerhebliche Investition dazu, um wirklich hörbare Ergebnisse zu erzielen. Den aktuellen Stand der Technik und die Möglichkeiten, die sich bieten, sollen heute erörtert werden. 
-
-Dabei soll es nicht nur um den klassischen Podcast gehen, sondern auch das Phänomen des Livestreaming besprochen und ein Ausflug in die Welt des echten UKW-Piratenradios unternommen werden. 
-
-
-</itunes:summary>
-                    <xhtml:body>
-                        <p>
-			Als die ersten Folgen des Chaosradios produziert wurden, war Audiotechnik noch etwas, dass es nur in großen Studios gab. Die Möglichkeit mehrere Leute an einem oder verschiedenen Orten zu versammeln und sie einem größeren Publikum zu Gehör zu bringen, war Firmen und Medienhäusern vorbehalten.
-    </p>
-                        <p>
-			Wie jedem klar sein dürfte, ist das mittlerweile ähnlich historisch wie Dampfmaschinen, Fernsprechapparate und Keuschheitsgürtel. Durch Breitbandinternet und immer billiger werdende Audiotechnik ist die Vision vom Medium für Jedermann in greifbare Nähe gerückt.
-    </p>
-                        <p>
-			Trotzdem gehört immer noch eine kleine Portion Fachwissen und auch eine nicht ganz unerhebliche Investition dazu, um wirklich hörbare Ergebnisse zu erzielen. Den aktuellen Stand der Technik und die Möglichkeiten, die sich bieten, sollen heute erörtert werden.
-    </p>
-                        <p>
-			Dabei soll es nicht nur um den klassischen Podcast gehen, sondern auch das Phänomen des Livestreaming besprochen und ein Ausflug in die Welt des echten UKW-Piratenradios unternommen werden.
-
-    </p>
-                        <p>Teilnehmer: Marcus Richter (Moderation), Martin Haase, Nicolas Semak, Elektra</p>
                     </xhtml:body>
                     <itunes:explicit>no</itunes:explicit>
                 </item>
