@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="podlove-validator">
-    <property name="project.version" value="0.1"/>
-    <property name="project.app" value="podlove-validator"/>
-    <property name="build.dir" value="build"/>
+<project name="imagemagick.xq" id="imagemagick.xq" default="xar" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
+    <property name="app.name" value="httpmodule"/>
+    <property name="app.version" value="0.1"/>
 
-    <target name="clean">
-        <delete dir="${build.dir}"/>
+    <target name="resolve" description="Use ivy to resolve classpaths">
+        <ivy:resolve/>
+        <ivy:cachepath pathid="default.classpath"/>
+        <ivy:retrieve conf="compile" pattern="build/lib/[artifact].[ext]"/>
     </target>
 
-    <target name="xar" depends="clean">
-        <mkdir dir="${build.dir}"/>
-        <zip basedir="." destfile="${build.dir}/${project.app}-${project.version}.zip" >
-            <exclude  name="**/${build.dir}/**"/>
-            <exclude name="**/bower_components/**"/>
-            <exclude name="**/node_modules/**"/>
-        </zip>
+    <target name="copy-jars" description="Use ivy to resolve classpaths">
+        <ivy:retrieve conf="runtime" pattern="build/xar/content/[artifact].[ext]"/>
+    </target>
+
+    <target name="compile" description="build java classes" depends="resolve">
+        <pathconvert property="expanded.class.path" refid="default.classpath"/>
+
+        <mkdir dir="build/classes"/>
+        <javac srcdir="src" destdir="build/classes">
+            <classpath refid="default.classpath" />
+        </javac>
+
+        <jar destfile="content/${app.name}-${app.version}.jar"
+             basedir="build/classes"
+             excludes="**/Test.class"
+                />
+    </target>
+
+    <target name="clean">
+        <delete dir="build"/>
     </target>
 </project>

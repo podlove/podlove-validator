@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://exist-db.org/ns/expath-pkg">
+    <jar>httpmodule-0.1.jar</jar>
+    <java>
+        <namespace>http://podlove.org/ns/HttpModule</namespace>
+        <class>org.podlove.HttpModule</class>
+    </java>
+</package>
+

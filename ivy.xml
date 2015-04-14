@@ -1,0 +1,16 @@
+<ivy-module version="2.0">
+    <info organisation="org.podlove" module="httpmodule.xq"/>
+    <configurations>
+        <conf name="compile" description="Jars which are need at compile time"/>
+        <conf name="runtime" description="Jars which are need at runtime"/>
+    </configurations>
+    <dependencies>
+        <dependency org="org.exist-db"          name="existdb-core"         rev="2.2" conf="compile->default">
+            <exclude module="pkg-repo" />
+        </dependency>
+        <dependency org="org.exist-db"          name="existdb-xquery-modules"   rev="2.2" conf="compile->default">
+            <exclude module="fop"/>
+        </dependency>
+        <dependency org="commons-httpclient"    name="commons-httpclient"       rev="3.1" conf="compile->default"/>
+    </dependencies>
+</ivy-module>
