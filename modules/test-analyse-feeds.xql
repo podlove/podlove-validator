@@ -9,6 +9,8 @@ declare namespace itunes="http://www.itunes.com/dtds/podcast-1.0.dtd";
 declare namespace atom="http://www.w3.org/2005/Atom";
 declare namespace content="http://purl.org/rss/1.0/modules/content/";
 
+import module namespace console="http://exist-db.org/xquery/console";
+
 declare %private function local:analyse-lang() {
     let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
     let $feeds := collection($path-to-feeds)//rss    
@@ -56,15 +58,30 @@ declare %private function local:analyse-podlove($rss-feeds){
 declare %private function local:analyse-full-feeds(){
     let $path-to-feeds := $config:app-root || "/../feed-data/data/feeds"
     let $rss-feeds := collection($path-to-feeds)//rss
-    let $distinct-feeds := count(distinct-values($rss-feeds//channel/title))
+    let $count-rss-feeds := count($rss-feeds)
+    let $distinct-feeds := distinct-values($rss-feeds//channel/title)
+    let $count-distinct-feeds := count($distinct-feeds)
+    (:
+    let $payment-links := $rss-feeds//atom:link[@rel = "payment"]
     
-    let $links := $rss-feeds//atom:link[@rel]
-    let $payment-links := $links[@rel = "payment"]
-    let $flattr := $payment-links[starts-with(@href, 'https://flattr.com/') or starts-with(@href, 'http://flattr.com')] 
+    let $flattr := $rss-feeds//atom:link[@rel = "payment"][starts-with(@href, 'http://flattr.com/')]
+    let $flattrs := $rss-feeds//atom:link[@rel = "payment"][starts-with(@href, 'https://flattr.com/')]
+    :)
     return 
-        <result rss-feeds="{count($rss-feeds)}" distinct-feeds-titles="{$distinct-feeds}">
-            <payment total="{count($payment-links)}" flattr="{count($flattr)}"/>
-            {local:analyse-podlove($rss-feeds)}
+        <result rss-feeds="{$count-rss-feeds}" distinct-feeds-titles="{$count-distinct-feeds}">
+            {(
+            (:
+            <payment total="{count($payment-links)}" flattr="{count($flattr) + count($flattrs)}"/>
+             local:analyse-podlove($rss-feeds),
+             console:log("finished local:analyse-podlove, now iterating all rss feeds"),
+             for $feed in $rss-feeds
+                let $episodes := count($feed//channel/item)
+                let $title := $feed//channel/title/text()
+                return 
+                    <feed episodes="{$episodes}">{$title}</feed>,
+             console:log("finished iterating all rss feeds")
+             :)
+            )}            
         </result>    
 };
 

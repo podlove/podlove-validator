@@ -1,6 +1,7 @@
 xquery version "3.0";
 
 module namespace fp="http://podlove.org/podlove-validator/feedparser";
+import module namespace imageanalyzer="http://exist-db.org/xquery/imageanalyzer" at "java:org.exist.xquery.modules.imageanalyzer.ImageAnalyzerModule";
 
 declare variable $fp:ATOM-HANDLER :=
     map {
@@ -179,7 +180,16 @@ declare function fp:itunes-email($item as item()*){
     <info>element 'itunes-email' is fine</info>
 };
 declare function fp:itunes-image($item as item()*){
-    <info>element 'itunes:image' is fine</info>
+    let $url := $item/@href
+    let $analyzed-image := imageanalyzer:analyze(xs:anyURI($url))
+    let $mime-type := data($analyzed-image/@mimeType)
+    let $width := number(data($analyzed-image/@width))
+    let $height := number(data($analyzed-image/@height))
+    let $error := ""
+
+    return 
+        <info>element 'itunes:image' is fine {$mime-type} {$width} {$height}</info>
+    
 };
 declare function fp:itunes-explicit($item as item()*){
     <info>element 'itunes:explicit' is fine</info>
@@ -212,8 +222,8 @@ declare function fp:parse-rss($xml, $config){
             then ( 
                 if(map:contains($config, $fn-name))
                 then (
-                    $config($fn-name)($node)
-                    (: fp:parse-rss($node/*, $config):)
+                    $config($fn-name)($node),
+                    fp:parse-rss($node/*, $config)
                 )else (
                     (
                         <error>no function for elment '{$fn-name}'</error>,
