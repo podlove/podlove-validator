@@ -107,7 +107,6 @@ module.exports = function (grunt) {
                                 'modules/**',
                                 'resources/images/**',
                                 'resources/schematron/**',
-                                'resources/xsd/**',
                                 'resources/xsl/**',
                                 'templates/**',
                                 'content/**',
