@@ -2,15 +2,15 @@
 <httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
     <httpclient:headers>
         <httpclient:header name="Server" value="nginx/1.6.2"/>
-        <httpclient:header name="Date" value="Tue, 14 Apr 2015 14:51:10 GMT"/>
+        <httpclient:header name="Date" value="Thu, 16 Apr 2015 19:57:57 GMT"/>
         <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
         <httpclient:header name="Transfer-Encoding" value="chunked"/>
         <httpclient:header name="Connection" value="keep-alive"/>
         <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.14"/>
         <httpclient:header name="X-Pingback" value="http://www.wrint.de/xmlrpc.php"/>
         <httpclient:header name="Last-Modified" value="Thu, 09 Apr 2015 11:11:50 GMT"/>
-        <httpclient:header name="X-Varnish" value="670189453 670189123"/>
-        <httpclient:header name="Age" value="76"/>
+        <httpclient:header name="X-Varnish" value="670802398 670802151"/>
+        <httpclient:header name="Age" value="66"/>
         <httpclient:header name="Via" value="1.1 varnish"/>
         <httpclient:header name="X-Cache" value="HIT"/>
     </httpclient:headers>
@@ -18,85 +18,85 @@
         <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
             <channel>
                 <title>WRINT: Fotografie</title>
-                <link xmlns="http://www.w3.org/2005/Atom" href="http://www.wrint.de/category/fotografie/feed/" rel="self" type="application/rss+xml"/>
+                <atom:link href="http://www.wrint.de/category/fotografie/feed/" rel="self" type="application/rss+xml"/>
                 <link>http://www.wrint.de/category/fotografie/</link>
                 <description>Wer redet ist nicht tot</description>
                 <lastBuildDate>Thu, 09 Apr 2015 11:11:50 +0000</lastBuildDate>
                 <language>de-DE</language>
-                <updatePeriod xmlns="http://purl.org/rss/1.0/modules/syndication/">hourly</updatePeriod>
-                <updateFrequency xmlns="http://purl.org/rss/1.0/modules/syndication/">1</updateFrequency>
+                <sy:updatePeriod>hourly</sy:updatePeriod>
+                <sy:updateFrequency>1</sy:updateFrequency>
                 <generator>http://wordpress.org/?v=4.1.1</generator>
-                <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F&amp;language=de_DE&amp;category=audio&amp;title=WRINT&amp;description=Wer+redet+ist+nicht+tot&amp;tags=podcast" type="text/html"/>
+                <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F&amp;language=de_DE&amp;category=audio&amp;title=WRINT&amp;description=Wer+redet+ist+nicht+tot&amp;tags=podcast" type="text/html"/>
 <!-- podcast_generator="Blubrry PowerPress/6.0.2" mode="advanced" -->
-                <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Wrint ist eine Sammlung von Podcasts, in denen Holger Klein auf allerlei Wegen mit allerlei Menschen über allerlei Dinge redet. Hier ist der Sammelfeed für alle WRINT-Produktionen.</summary>
-                <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/powerpress/wrint_2014_fotografie_1400.jpg"/>
-                <owner xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">
-                    <name>Holger Klein</name>
-                    <email>mail@wrint.de</email>
-                </owner>
+                <itunes:summary>Wrint ist eine Sammlung von Podcasts, in denen Holger Klein auf allerlei Wegen mit allerlei Menschen über allerlei Dinge redet. Hier ist der Sammelfeed für alle WRINT-Produktionen.</itunes:summary>
+                <itunes:author>Holger Klein</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:image href="http://www.wrint.de/wp-content/uploads/powerpress/wrint_2014_fotografie_1400.jpg"/>
+                <itunes:owner>
+                    <itunes:name>Holger Klein</itunes:name>
+                    <itunes:email>mail@wrint.de</itunes:email>
+                </itunes:owner>
                 <managingEditor>mail@wrint.de (Holger Klein)</managingEditor>
-                <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Worin Holger Klein sich die Fotografie von Chris Marquardt erklären lässt.</subtitle>
+                <itunes:subtitle>Worin Holger Klein sich die Fotografie von Chris Marquardt erklären lässt.</itunes:subtitle>
                 <image>
                     <title>WRINT: Fotografie</title>
                     <url>http://www.wrint.de/wp-content/uploads/powerpress/wrint_2014_fotografie_1400.jpg</url>
                     <link>http://www.wrint.de/category/fotografie/</link>
                 </image>
-                <category xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Arts">
-                    <category text="Visual Arts"/>
-                </category>
+                <itunes:category text="Arts">
+                    <itunes:category text="Visual Arts"/>
+                </itunes:category>
                 <item>
                     <title>WR419 Lightroom</title>
                     <link>http://www.wrint.de/2015/04/09/wr419-lightroom/</link>
                     <comments>http://www.wrint.de/2015/04/09/wr419-lightroom/#comments</comments>
                     <pubDate>Thu, 09 Apr 2015 11:11:50 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2817</guid>
                     <description>&amp;#160; Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis unbekannt waren. Es bietet sich an, die eigene Lightroom-Version laufen zu haben, während Ihr die [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2687" src="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg" alt="wrint_2014_fotografie_1400" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis unbekannt waren. Es bietet sich an, die eigene Lightroom-Version laufen zu haben, während Ihr die Sendung hört.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2817&amp;amp;md5=33ae0491f94aa9a1310cc1e4f832028b"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2015/04/09/wr419-lightroom/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">21</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2817&amp;amp;md5=33ae0491f94aa9a1310cc1e4f832028b"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2015/04/09/wr419-lightroom/feed/</wfw:commentRss>
+                    <slash:comments>22</slash:comments>
                     <enclosure url="http://files.wrint.de/WR419_Lightroom.mp3" length="41229407" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F04%2F09%2Fwr419-lightroom%2F&amp;language=de_DE&amp;category=audio&amp;title=WR419+Lightroom&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr+von+Fotografie+als+ich+und+l%C3%A4sst+mich+an+seinem+Wissen+treilhaben.+Diesmal+erkl%C3%A4rt+er+mir+Adobe+Photoshop+Lightroom%2C+das+ich+zwar+schon+seit+geraumer+Zeit...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis u...</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F04%2F09%2Fwr419-lightroom%2F&amp;language=de_DE&amp;category=audio&amp;title=WR419+Lightroom&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr+von+Fotografie+als+ich+und+l%C3%A4sst+mich+an+seinem+Wissen+treilhaben.+Diesmal+erkl%C3%A4rt+er+mir+Adobe+Photoshop+Lightroom%2C+das+ich+zwar+schon+seit+geraumer+Zeit...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis u...</itunes:subtitle>
+                    <itunes:summary>&#160;
 
-Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis unbekannt waren. Es bietet sich an, die eigene Lightroom-Version laufen zu haben, während Ihr die Sendung hört.</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:25:52</duration>
+Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis unbekannt waren. Es bietet sich an, die eigene Lightroom-Version laufen zu haben, während Ihr die Sendung hört.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:25:52</itunes:duration>
                 </item>
                 <item>
                     <title>WR407 Aufmerksamkeit</title>
                     <link>http://www.wrint.de/2015/03/15/wr407-aufmerksamkeit/</link>
                     <comments>http://www.wrint.de/2015/03/15/wr407-aufmerksamkeit/#comments</comments>
                     <pubDate>Sun, 15 Mar 2015 11:04:28 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2761</guid>
                     <description>&amp;#160; Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal reden wir &amp;#8211; unter anderem &amp;#8211; über Waffeln, den Hörfunk, Wahrnehmung, Farben, Hierarchien, betreiben &#160;Bilderschau und laden zum&#160;Workshop im August. Unser Workshop wird am 8.8.2015 im Betahaus in Berlin stattfinden und wenn&#160;ihr mitmachen wollt, solltet ihr euch hier [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2687" src="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg" alt="wrint_2014_fotografie_1400" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal reden wir &amp;#8211; unter anderem &amp;#8211; über Waffeln, den Hörfunk, Wahrnehmung, Farben, Hierarchien, betreiben &#160;Bilderschau und laden zum&#160;Workshop im August.&lt;/p&gt;
 &lt;p&gt;Unser Workshop wird am 8.8.2015 im &lt;a href="http://www.betahaus.com/berlin/"&gt;Betahaus&lt;/a&gt; in Berlin stattfinden und wenn&#160;ihr mitmachen wollt, solltet ihr euch &lt;a href="http://discoverthetopfloor.com/workshop.php?event=2015_wrint_fototag"&gt;hier&lt;/a&gt; anmelden.&lt;/p&gt;
 &lt;p&gt;Bilder: &lt;a href="https://www.flickr.com/photos/holgi/16556802147"&gt;Soaker&lt;/a&gt;, &lt;a href="https://www.flickr.com/photos/holgi/15024098936"&gt;Bad Belzig&lt;/a&gt;, &#160;&lt;a href="https://www.flickr.com/photos/johndillinger/15251032113"&gt;Grand Central Station&lt;/a&gt;, &lt;a href="https://www.flickr.com/photos/brokencapslock/15298289437/"&gt;Resurrection II&lt;br /&gt;
 &lt;/a&gt;Außerdem: &lt;a href="http://en.wikipedia.org/wiki/The_dress_(viral_phenomenon)"&gt;Das Kleid&lt;/a&gt;, die&#160;&lt;a href="https://www.instapaper.com/read/562786988"&gt;Checkershadow Illusion&lt;/a&gt;, &lt;a href="https://www.instapaper.com/read/562789959"&gt;kulturspezifische Farbbedeutungen&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Einreichungen zu Bilderschau &lt;a href="http://tfttf.com/wrintbilderschau"&gt;bitte hier abwerfen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2761&amp;amp;md5=132dbe8caab37b724ff2b807603a87a3"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2015/03/15/wr407-aufmerksamkeit/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">9</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2761&amp;amp;md5=132dbe8caab37b724ff2b807603a87a3"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2015/03/15/wr407-aufmerksamkeit/feed/</wfw:commentRss>
+                    <slash:comments>9</slash:comments>
                     <enclosure url="http://files.wrint.de/WR407_Aufmerksamkeit.mp3" length="35524715" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F03%2F15%2Fwr407-aufmerksamkeit%2F&amp;language=de_DE&amp;category=audio&amp;title=WR407+Aufmerksamkeit&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr+von+Fotografie+als+ich+und+l%C3%A4sst+mich+an+seinem+Wissen+treilhaben.+Diesmal+reden+wir+%26%238211%3B+unter+anderem+%26%238211%3B+%C3%BCber+Waffeln%2C+den+H%C3%B6rfunk%2C+Wahrnehmung%2C+Farben%2C+Hierarchien%2C...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal reden wir - unter anderem - über Waffeln, den Hörfunk, Wahrnehmung, Farben, Hierarchien, betreiben &#160;Bilderschau und laden zum&#160;Workshop im Augu...</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F03%2F15%2Fwr407-aufmerksamkeit%2F&amp;language=de_DE&amp;category=audio&amp;title=WR407+Aufmerksamkeit&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr+von+Fotografie+als+ich+und+l%C3%A4sst+mich+an+seinem+Wissen+treilhaben.+Diesmal+reden+wir+%26%238211%3B+unter+anderem+%26%238211%3B+%C3%BCber+Waffeln%2C+den+H%C3%B6rfunk%2C+Wahrnehmung%2C+Farben%2C+Hierarchien%2C...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal reden wir - unter anderem - über Waffeln, den Hörfunk, Wahrnehmung, Farben, Hierarchien, betreiben &#160;Bilderschau und laden zum&#160;Workshop im Augu...</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal reden wir - unter anderem - über Waffeln, den Hörfunk, Wahrnehmung, Farben, Hierarchien, betreiben &#160;Bilderschau und laden zum&#160;Workshop im August.
 
@@ -105,84 +105,84 @@ Unser Workshop wird am 8.8.2015 im Betahaus in Berlin stattfinden und wenn&#160;
 Bilder: Soaker, Bad Belzig, &#160;Grand Central Station, Resurrection II
 Außerdem: Das Kleid, die&#160;Checkershadow Illusion, kulturspezifische Farbbedeutungen
 
-Einreichungen zu Bilderschau bitte hier abwerfen.</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:13:59</duration>
+Einreichungen zu Bilderschau bitte hier abwerfen.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:13:59</itunes:duration>
                 </item>
                 <item>
                     <title>WR395 Fotografieren auf Reisen</title>
                     <link>http://www.wrint.de/2015/02/11/wr395-fotografieren-auf-reisen/</link>
                     <comments>http://www.wrint.de/2015/02/11/wr395-fotografieren-auf-reisen/#comments</comments>
                     <pubDate>Wed, 11 Feb 2015 13:19:54 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2686</guid>
                     <description>&amp;#160; Chris ist häufig zum Fotografieren unterwegs, darum reden wir heute darüber, was man auf Reisen mitnehmen (und nicht mitnehmen) und wie man unterwegs mit seinen Bildern umgehen kann. Wir reisen ans Meer, in die Stadt, in die Wüste, wir Campen und gehen Wandern. Links: Op Tech USA, 1 Hour 1000 Pics, Bilderschau Trawler und [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris&lt;/a&gt; ist häufig zum Fotografieren unterwegs, darum reden wir heute darüber, was man auf Reisen mitnehmen (und nicht mitnehmen) und wie man unterwegs mit seinen Bildern umgehen kann. Wir reisen ans Meer, in die Stadt, in die Wüste, wir Campen und gehen Wandern.&lt;/p&gt;
 &lt;p&gt;Links: &lt;a href="http://optechusa.com"&gt;Op Tech USA&lt;/a&gt;, &lt;a href="http://1hour1000pics.com"&gt;1 Hour 1000 Pics&lt;/a&gt;, Bilderschau &lt;a href="https://www.flickr.com/photos/pass_the_popcorn/16030791609/"&gt;Trawler&lt;/a&gt; und &lt;a href="https://www.flickr.com/photos/bjoernguthphotography/8179143336/"&gt;Hammer &amp;amp; Anvil&lt;/a&gt;, Bilder &lt;a href="http://tfttf.com/wrintbilderschau"&gt;einsenden&lt;/a&gt; zur Bilderschau, &lt;a href="https://www.storehouse.co/chrismarquardt"&gt;Storehouse&lt;/a&gt;, Interessensbekundungen zum Fototag im August &lt;a href="http://tfttf.com/wrintfototag"&gt;bitte hier&lt;/a&gt; abwerfen und entsprechende Locationvorschläge bitte &lt;a href="mailto:chris@chrismarquardt.com"&gt;per Mail&lt;/a&gt; an Chris.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2686&amp;amp;md5=5c8ef49220955dd539fa0c8128fb3152"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2015/02/11/wr395-fotografieren-auf-reisen/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">26</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2686&amp;amp;md5=5c8ef49220955dd539fa0c8128fb3152"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2015/02/11/wr395-fotografieren-auf-reisen/feed/</wfw:commentRss>
+                    <slash:comments>26</slash:comments>
                     <enclosure url="http://files.wrint.de/WR395_Fotografieren_auf_Reisen.mp3" length="37731933" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F02%2F11%2Fwr395-fotografieren-auf-reisen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR395+Fotografieren+auf+Reisen&amp;description=%26nbsp%3B+Chris+ist+h%C3%A4ufig+zum+Fotografieren+unterwegs%2C+darum+reden+wir+heute+dar%C3%BCber%2C+was+man+auf+Reisen+mitnehmen+%28und+nicht+mitnehmen%29+und+wie+man+unterwegs+mit+seinen+Bildern+umgehen+kann.+Wir...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris ist häufig zum Fotografieren unterwegs, darum reden wir heute darüber, was man auf Reisen mitnehmen (und nicht mitnehmen) und wie man unterwegs mit seinen Bildern umgehen kann. Wir reisen ans Meer, in die Stadt, in die Wüste,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F02%2F11%2Fwr395-fotografieren-auf-reisen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR395+Fotografieren+auf+Reisen&amp;description=%26nbsp%3B+Chris+ist+h%C3%A4ufig+zum+Fotografieren+unterwegs%2C+darum+reden+wir+heute+dar%C3%BCber%2C+was+man+auf+Reisen+mitnehmen+%28und+nicht+mitnehmen%29+und+wie+man+unterwegs+mit+seinen+Bildern+umgehen+kann.+Wir...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris ist häufig zum Fotografieren unterwegs, darum reden wir heute darüber, was man auf Reisen mitnehmen (und nicht mitnehmen) und wie man unterwegs mit seinen Bildern umgehen kann. Wir reisen ans Meer, in die Stadt, in die Wüste,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Chris ist häufig zum Fotografieren unterwegs, darum reden wir heute darüber, was man auf Reisen mitnehmen (und nicht mitnehmen) und wie man unterwegs mit seinen Bildern umgehen kann. Wir reisen ans Meer, in die Stadt, in die Wüste, wir Campen und gehen Wandern.
 
-Links: Op Tech USA, 1 Hour 1000 Pics, Bilderschau Trawler und Hammer &amp; Anvil, Bilder einsenden zur Bilderschau, Storehouse, Interessensbekundungen zum Fototag im August bitte hier abwerfen und entsprechende Locationvorschläge bitte per Mail an Chris.</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:18:35</duration>
+Links: Op Tech USA, 1 Hour 1000 Pics, Bilderschau Trawler und Hammer &amp; Anvil, Bilder einsenden zur Bilderschau, Storehouse, Interessensbekundungen zum Fototag im August bitte hier abwerfen und entsprechende Locationvorschläge bitte per Mail an Chris.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:18:35</itunes:duration>
                 </item>
                 <item>
                     <title>WR380 Smartphonefotografie</title>
                     <link>http://www.wrint.de/2015/01/05/wr380-smartphonefotografie/</link>
                     <comments>http://www.wrint.de/2015/01/05/wr380-smartphonefotografie/#comments</comments>
                     <pubDate>Mon, 05 Jan 2015 14:28:33 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2625</guid>
                     <description>&amp;#160; Heute lerne ich die Kamera, das System und die Apps zu meinem iPhone ein wenig besser kennen. Chris und ich haben iPhones, darum reden wir hauptsächlich über das Fotografieren mit iPhones. Wenn ihr sinnvoll Auskunft über das Fotografieren mit Android oder ähnlichem geben könnt, freuen wir uns über entsprechende Kommentare (aber bitte keine heiligen [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;&lt;a href="http://michael-ddf.tumblr.com/image/47009091696"&gt;&lt;img class="alignleft wp-image-2626" src="http://www.wrint.de/wp-content/uploads/2015/01/tumblr_mko5ahc1CG1snouw8o1_1280.jpg" alt="SONY DSC" width="119" height="101" /&gt;&lt;/a&gt;Heute lerne ich die Kamera, das System und die Apps zu meinem iPhone ein wenig besser kennen. Chris und ich haben iPhones, darum reden wir hauptsächlich über das Fotografieren mit iPhones. Wenn ihr sinnvoll Auskunft über das Fotografieren mit Android oder ähnlichem geben könnt, freuen wir uns über entsprechende Kommentare (aber bitte keine heiligen App- oder OS-Kriege anfangen &amp;#8211; das langweilt bloß).&lt;/p&gt;
 &lt;p&gt;Der Sensorgrößenvergleich liegt &lt;a href="http://www.rainydaymagazine.com/RDM2013/RainyDayPhotography/iPhonePhotography/Future/SensorSizesBig.jpg"&gt;hier&lt;/a&gt;, die Bilder von und Vorschau auf die&#160;Äthiopien-Reise &lt;a href="http://discoverthetopfloor.com/ethiopia2015/"&gt;hier&lt;/a&gt;, die CMSse heissen &lt;a href="http://koken.me"&gt;Koken&lt;/a&gt; und &lt;a href="http://lychee.electerious.com"&gt;Lychee&lt;/a&gt; (Im&#160;&lt;a href="http://chrismarquardt.com/photography/"&gt;Betrieb&lt;/a&gt;&#160;bei Chris), die erwähnten Apps sind Snapseed, Obscura, Skitch, Diptic, Tadaa, Afterlight, Hyperlapse, Frameograph, Nightcap Pro, Slowshutter, Reuk, Nofinder, Photo Card und TPE&#160;und das Bilderschaubild ist &lt;a href="http://michael-ddf.tumblr.com/image/47009091696"&gt;das hier&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2625&amp;amp;md5=c3ea8ca2e678f3c37ca5f6912a570605"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2015/01/05/wr380-smartphonefotografie/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">44</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2625&amp;amp;md5=c3ea8ca2e678f3c37ca5f6912a570605"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2015/01/05/wr380-smartphonefotografie/feed/</wfw:commentRss>
+                    <slash:comments>44</slash:comments>
                     <enclosure url="http://files.wrint.de/WR380_Smartphonefotografie.mp3" length="53894320" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F01%2F05%2Fwr380-smartphonefotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR380+Smartphonefotografie&amp;description=%26nbsp%3B+Heute+lerne+ich+die+Kamera%2C+das+System+und+die+Apps+zu+meinem+iPhone+ein+wenig+besser+kennen.+Chris+und+ich+haben+iPhones%2C+darum+reden+wir+haupts%C3%A4chlich+%C3%BCber+das+Fotografieren...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Heute lerne ich die Kamera, das System und die Apps zu meinem iPhone ein wenig besser kennen. Chris und ich haben iPhones, darum reden wir hauptsächlich über das Fotografieren mit iPhones. Wenn ihr sinnvoll Auskunft über das Fotografieren mit Andr...</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F01%2F05%2Fwr380-smartphonefotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR380+Smartphonefotografie&amp;description=%26nbsp%3B+Heute+lerne+ich+die+Kamera%2C+das+System+und+die+Apps+zu+meinem+iPhone+ein+wenig+besser+kennen.+Chris+und+ich+haben+iPhones%2C+darum+reden+wir+haupts%C3%A4chlich+%C3%BCber+das+Fotografieren...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Heute lerne ich die Kamera, das System und die Apps zu meinem iPhone ein wenig besser kennen. Chris und ich haben iPhones, darum reden wir hauptsächlich über das Fotografieren mit iPhones. Wenn ihr sinnvoll Auskunft über das Fotografieren mit Andr...</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Heute lerne ich die Kamera, das System und die Apps zu meinem iPhone ein wenig besser kennen. Chris und ich haben iPhones, darum reden wir hauptsächlich über das Fotografieren mit iPhones. Wenn ihr sinnvoll Auskunft über das Fotografieren mit Android oder ähnlichem geben könnt, freuen wir uns über entsprechende Kommentare (aber bitte keine heiligen App- oder OS-Kriege anfangen - das langweilt bloß).
 
-Der Sensorgrößenvergleich liegt hier, die Bilder von und Vorschau auf die&#160;Äthiopien-Reise hier, die CMSse heissen Koken und Lychee (Im&#160;Betrieb&#160;bei Chris), die erwähnten Apps sind Snapseed, Obscura, Skitch, Diptic, Tadaa, Afterlight, Hyperlapse, Frameograph, Nightcap Pro, Slowshutter, Reuk, Nofinder, Photo Card und TPE&#160;und das Bilderschaubild ist das hier.</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:52:15</duration>
+Der Sensorgrößenvergleich liegt hier, die Bilder von und Vorschau auf die&#160;Äthiopien-Reise hier, die CMSse heissen Koken und Lychee (Im&#160;Betrieb&#160;bei Chris), die erwähnten Apps sind Snapseed, Obscura, Skitch, Diptic, Tadaa, Afterlight, Hyperlapse, Frameograph, Nightcap Pro, Slowshutter, Reuk, Nofinder, Photo Card und TPE&#160;und das Bilderschaubild ist das hier.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:52:15</itunes:duration>
                 </item>
                 <item>
                     <title>WR368 Blitzen</title>
                     <link>http://www.wrint.de/2014/11/27/wr368-blitzen/</link>
                     <comments>http://www.wrint.de/2014/11/27/wr368-blitzen/#comments</comments>
                     <pubDate>Thu, 27 Nov 2014 13:02:46 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2574</guid>
                     <description>&amp;#160; Chris Marquardt versteht mehr&#160;von Fotografie als ich und ist so freundlich, mich an seinem Wissen teilhaben zu lassen. Diesmal geht es um meinen Angstgegner, das Blitzen. &amp;#160; Shownotes von Valentin</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; versteht mehr&#160;von Fotografie als ich und ist so freundlich, mich an seinem Wissen teilhaben zu lassen.&lt;/p&gt;
 &lt;p&gt;Diesmal geht es um meinen Angstgegner, das Blitzen.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -200,13 +200,13 @@ von &lt;a href="https://alpha.app.net//vale"&gt;Valentin&lt;/a&gt;&lt;/p&gt;
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Warum hell dunkel und blau rot macht&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="2760"&gt;00:46:00&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;a href="https://de.wikipedia.org/wiki/Belichtungsmessung#Belichtungskorrektur"&gt;Belichtungskorrektur ver&amp;auml;ndert die Helligkeit des Hintergrunds&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Blitzbelichtungskorrektur"&gt;Blitzbelichtungskorrektur&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Day-for-Night"&gt;Amerikanische Nacht oder Day-for-Night&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Ver&amp;auml;nderung der Hintergrundfarbe durch gef&amp;auml;rbtes Licht und Wei&amp;szlig;abgleich&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Manuell einstellbare Systemblitze gibt es ab 50 Euro&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Leitzahl"&gt;Blitzleitzahl&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Joule"&gt;Wattsekunden&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;F&amp;uuml;r eine kurze Zeit erreichen Blitze sehr hohe Leistungen&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Halbierung des Lichtoutputs &amp;auml;ndert die Belichtung um eine Blendenstufe&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Graukarte"&gt;Graukarte&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="http://strobist.blogspot.de/2006/04/lighting-101-be-flash.html"&gt;Modeling Light&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Lichtspektrum"&gt;Lichtspektrum&lt;/a&gt; (&lt;a href="http://stricklinse.de/"&gt;Monis Strick Blog &amp;ndash; alle Bilder mit Tageslicht&lt;/a&gt;) &amp;nbsp;—&amp;#32;&lt;a href="https://500px.com/photo/65819519/road-sweeper-by-je-hofa"&gt;Roadsweeper von J&amp;uuml;rgen&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2574&amp;amp;md5=6e2f04e81ace64ee29eddd74385ff2e6"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/11/27/wr368-blitzen/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">13</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2574&amp;amp;md5=6e2f04e81ace64ee29eddd74385ff2e6"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/11/27/wr368-blitzen/feed/</wfw:commentRss>
+                    <slash:comments>13</slash:comments>
                     <enclosure url="http://files.wrint.de/WR368_Blitzen.mp3" length="34158222" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F11%2F27%2Fwr368-blitzen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR368+Blitzen&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr%C2%A0von+Fotografie+als+ich+und+ist+so+freundlich%2C+mich+an+seinem+Wissen+teilhaben+zu+lassen.+Diesmal+geht+es+um+meinen+Angstgegner%2C+das+Blitzen.+%26nbsp%3B+Shownotes+von...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt versteht mehr&#160;von Fotografie als ich und ist so freundlich, mich an seinem Wissen teilhaben zu lassen. - Diesmal geht es um meinen Angstgegner, das Blitzen. - &#160; - Shownotes von Valentin</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F11%2F27%2Fwr368-blitzen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR368+Blitzen&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr%C2%A0von+Fotografie+als+ich+und+ist+so+freundlich%2C+mich+an+seinem+Wissen+teilhaben+zu+lassen.+Diesmal+geht+es+um+meinen+Angstgegner%2C+das+Blitzen.+%26nbsp%3B+Shownotes+von...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt versteht mehr&#160;von Fotografie als ich und ist so freundlich, mich an seinem Wissen teilhaben zu lassen. - Diesmal geht es um meinen Angstgegner, das Blitzen. - &#160; - Shownotes von Valentin</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Chris Marquardt versteht mehr&#160;von Fotografie als ich und ist so freundlich, mich an seinem Wissen teilhaben zu lassen.
 
@@ -215,24 +215,24 @@ Diesmal geht es um meinen Angstgegner, das Blitzen.
 &#160;
 
 Shownotes
-von Valentin</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:11:08</duration>
+von Valentin</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:11:08</itunes:duration>
                 </item>
                 <item>
                     <title>WR354 Zubehör (Fotografie X)</title>
                     <link>http://www.wrint.de/2014/10/20/wr354-zubehoer-fotografie-x/</link>
                     <comments>http://www.wrint.de/2014/10/20/wr354-zubehoer-fotografie-x/#comments</comments>
                     <pubDate>Mon, 20 Oct 2014 10:06:28 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2528</guid>
                     <description>&amp;#160; Chris Marquardt weiß was vom Fotografieren und ist so freundlich, mit mir darüber zu reden. Diesmal&#160;geht es um Zubehör. &amp;#160; &amp;#160; Shownotes von&#160;</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; weiß was vom Fotografieren und ist so freundlich, mit mir darüber zu reden. Diesmal&#160;geht es um Zubehör.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -280,13 +280,13 @@ von&#160;&lt;a target="_blank" href="https://twitter.com/pattafeufeu"&gt;PattaFe
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Endgepl&amp;auml;nkel&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="5372"&gt;01:29:32&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;a href="https://de.wikipedia.org/wiki/Selbstauslöser"&gt;Selbstausl&amp;ouml;ser&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Arten von Fernausl&amp;ouml;sern: Kabelfernausl&amp;ouml;ser, Infrarotausl&amp;ouml;ser, Funkausl&amp;ouml;ser&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://en.wikipedia.org/wiki/Intervalometer"&gt;Intervalometer (EN)&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Anwendungsfall des Intervalometers f&amp;uuml;r Chris: Gruppenbilder&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Langzeitbelichtung"&gt;Langzeitbelichtung (BULB)&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Fernauslöser"&gt;Drahtausl&amp;ouml;ser (Fernausl&amp;ouml;ser)&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;F&amp;uuml;r verwacklungsarme Langzeitbelichtungen ohne Fernausl&amp;ouml;ser: Kamera auf Zwei-Sekunden-Selbstausl&amp;ouml;ser stellen (Chris)&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Tipp: Statt eines Stativs ein Bohnens&amp;auml;ckchen f&amp;uuml;r die Kamera nutzen (Chris)&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://de.wikipedia.org/wiki/Bean_Bag#Fotografie"&gt;Bean Bag (Fotografie)&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;&amp;quot;Stativ-Dreiteiler&amp;quot; (Chris)&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="http://joby.com/gorillapod/micro800/"&gt;JOBY Gorillapod Micro&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;&amp;quot;Das l&amp;ouml;st jetzt bei mir GAS aus. Gear Acquisition Syndrome&amp;quot; (Chris)&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://en.wikipedia.org/wiki/User:GreyCat/Gear_Acquisition_Syndrome"&gt;Gear Acquisition Syndrome&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Blitze werden aufgrund der L&amp;auml;nge des Themas auf eine andere Sendung verschoben&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2528&amp;amp;md5=fe71d16d5d2bcafafa5e91a101b1e36c"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/10/20/wr354-zubehoer-fotografie-x/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">32</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2528&amp;amp;md5=fe71d16d5d2bcafafa5e91a101b1e36c"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/10/20/wr354-zubehoer-fotografie-x/feed/</wfw:commentRss>
+                    <slash:comments>32</slash:comments>
                     <enclosure url="http://files.wrint.de/WR354_Zubehoer_Fotografie_X.mp3" length="48442986" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F10%2F20%2Fwr354-zubehoer-fotografie-x%2F&amp;language=de_DE&amp;category=audio&amp;title=WR354+Zubeh%C3%B6r+%28Fotografie+X%29&amp;description=%26nbsp%3B+Chris+Marquardt+wei%C3%9F+was+vom+Fotografieren+und+ist+so+freundlich%2C+mit+mir+dar%C3%BCber+zu+reden.+Diesmal%C2%A0geht+es+um+Zubeh%C3%B6r.+%26nbsp%3B+%26nbsp%3B+Shownotes+von%C2%A0&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt weiß was vom Fotografieren und ist so freundlich, mit mir darüber zu reden. Diesmal&#160;geht es um Zubehör. - &#160; - &#160; - Shownotes von&#160;</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F10%2F20%2Fwr354-zubehoer-fotografie-x%2F&amp;language=de_DE&amp;category=audio&amp;title=WR354+Zubeh%C3%B6r+%28Fotografie+X%29&amp;description=%26nbsp%3B+Chris+Marquardt+wei%C3%9F+was+vom+Fotografieren+und+ist+so+freundlich%2C+mit+mir+dar%C3%BCber+zu+reden.+Diesmal%C2%A0geht+es+um+Zubeh%C3%B6r.+%26nbsp%3B+%26nbsp%3B+Shownotes+von%C2%A0&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt weiß was vom Fotografieren und ist so freundlich, mit mir darüber zu reden. Diesmal&#160;geht es um Zubehör. - &#160; - &#160; - Shownotes von&#160;</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Chris Marquardt weiß was vom Fotografieren und ist so freundlich, mit mir darüber zu reden. Diesmal&#160;geht es um Zubehör.
 
@@ -295,24 +295,24 @@ Chris Marquardt weiß was vom Fotografieren und ist so freundlich, mit mir darü
 &#160;
 
 Shownotes
-von&#160;</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:40:54</duration>
+von&#160;</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:40:54</itunes:duration>
                 </item>
                 <item>
                     <title>WR328 Kecke Fotografie mit Pfiff (IX)</title>
                     <link>http://www.wrint.de/2014/08/23/wr328-kecke-fotografie-mit-pfiff-ix/</link>
                     <comments>http://www.wrint.de/2014/08/23/wr328-kecke-fotografie-mit-pfiff-ix/#comments</comments>
                     <pubDate>Sat, 23 Aug 2014 19:51:06 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <category>Podcast_Alles_Kurzfeed</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2442</guid>
                     <description>&amp;#160; Diesmal erklärt Chris, was man alles anstellen kann, um nicht immer nur 0815-Bilder zu belichten. &amp;#160; &amp;#160; Shownotes von&#160;</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;Diesmal erklärt &lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris&lt;/a&gt;, was man alles anstellen kann, um nicht immer nur 0815-Bilder zu belichten.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -344,13 +344,13 @@ von&#160;&lt;a target="_blank" href="http://vale.olpp.net"&gt;vale&lt;/a&gt;&lt;
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;&lt;a target="_blank" href="http://tfttf.com/fotoseptember"&gt;3:0-4 Fotografie Workshops&lt;/a&gt;&lt;/strong&gt; &lt;span class="osf_chaptertime" data-time="0"&gt;00:0&lt;/h2&gt;&lt;div class="osf_items"&gt; 
 &lt;a href="http://discoverthetopfloor.com/workshop.php?event=rewind_2014_24mm"&gt;2:0-36 Weitwinkelworkshop 24mm&lt;/a&gt; (&lt;a href="http://discoverthetopfloor.com/workshop.php?event=absolut_analog_grossformat"&gt;1:0-50 Absolut Analog - Gro&amp;szlig;format&lt;/a&gt;) &amp;nbsp;—&amp;#32;&lt;a href="http://discoverthetopfloor.com/workshop.php?event=rewind_2014_gestaltung_und_psychologie"&gt;1:0-19 Wahrnehmung und Gestaltung mit Alexander &amp;quot;Hoaxmaster&amp;quot; Waschkau&lt;/a&gt; (&lt;a href="http://www.hoaxilla.com/"&gt;Hoaxilla&lt;/a&gt;) &amp;nbsp;—&amp;#32;&lt;a href="http://tfttf.com/wrintfototag"&gt;Wrint Fotoworkshop&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2442&amp;amp;md5=df58ea82763339493ede7e5b4b730d04"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/08/23/wr328-kecke-fotografie-mit-pfiff-ix/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">19</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2442&amp;amp;md5=df58ea82763339493ede7e5b4b730d04"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/08/23/wr328-kecke-fotografie-mit-pfiff-ix/feed/</wfw:commentRss>
+                    <slash:comments>19</slash:comments>
                     <enclosure url="http://files.wrint.de/WR328_Kecke_Fotografie_mit_Pfiff.mp3" length="40173241" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F08%2F23%2Fwr328-kecke-fotografie-mit-pfiff-ix%2F&amp;language=de_DE&amp;category=audio&amp;title=WR328+Kecke+Fotografie+mit+Pfiff+%28IX%29&amp;description=%26nbsp%3B+Diesmal+erkl%C3%A4rt+Chris%2C+was+man+alles+anstellen+kann%2C+um+nicht+immer+nur+0815-Bilder+zu+belichten.+%26nbsp%3B+%26nbsp%3B+Shownotes+von%C2%A0&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Diesmal erklärt Chris, was man alles anstellen kann, um nicht immer nur 0815-Bilder zu belichten. - &#160; - &#160; - Shownotes von&#160;</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F08%2F23%2Fwr328-kecke-fotografie-mit-pfiff-ix%2F&amp;language=de_DE&amp;category=audio&amp;title=WR328+Kecke+Fotografie+mit+Pfiff+%28IX%29&amp;description=%26nbsp%3B+Diesmal+erkl%C3%A4rt+Chris%2C+was+man+alles+anstellen+kann%2C+um+nicht+immer+nur+0815-Bilder+zu+belichten.+%26nbsp%3B+%26nbsp%3B+Shownotes+von%C2%A0&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Diesmal erklärt Chris, was man alles anstellen kann, um nicht immer nur 0815-Bilder zu belichten. - &#160; - &#160; - Shownotes von&#160;</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Diesmal erklärt Chris, was man alles anstellen kann, um nicht immer nur 0815-Bilder zu belichten.
 
@@ -359,23 +359,23 @@ Diesmal erklärt Chris, was man alles anstellen kann, um nicht immer nur 0815-Bi
 &#160;
 
 Shownotes
-von&#160;</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:23:40</duration>
+von&#160;</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:23:40</itunes:duration>
                 </item>
                 <item>
                     <title>WR317 Checklisten und Referenzen (Fotografie VIII)</title>
                     <link>http://www.wrint.de/2014/07/29/wr317-checklisten-und-referenzen-fotografie-viii/</link>
                     <comments>http://www.wrint.de/2014/07/29/wr317-checklisten-und-referenzen-fotografie-viii/#comments</comments>
                     <pubDate>Tue, 29 Jul 2014 10:20:55 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2392</guid>
                     <description>&amp;#160; Worin Chris Marquardt mir erklärt, welche Fragen ich mir stellen sollte, bevor ich ein Bild aufnehme. &amp;#160; &amp;#160; Shownotes von</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;Worin &lt;a href="http://www.tipsfromthetopfloor.com/"&gt;Chris Marquardt&lt;/a&gt; mir erklärt, welche Fragen ich mir stellen sollte, bevor ich ein Bild aufnehme.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
@@ -399,13 +399,13 @@ von &lt;code&gt;&lt;a target="_blank" href="http://vale.olpp.net"&gt;vale&lt;/a&
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Was wollte Chris mit seinen Bildern Zeigen&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="3250"&gt;00:54:10&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;a href="https://secure.flickr.com/photos/nubui/14510241162/"&gt;Ranger John Finding His Own Path&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://secure.flickr.com/photos/nubui/14531463443/"&gt;Crossing The Cho La Pass Glacier&lt;/a&gt;&amp;nbsp;—&amp;#32;&lt;a href="https://secure.flickr.com/photos/nubui/14367926466/"&gt;4 AM Himalayan Hike&lt;/a&gt; (&lt;a href="https://secure.flickr.com/photos/nubui/14394515560/"&gt;Map Nap - John Napping On His Map&lt;/a&gt;) &amp;nbsp;—&amp;#32;&lt;span&gt;Autofokus Sensoren als Fokussierhilfe bei manuellen Objektiven&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2392&amp;amp;md5=bd248e506b60196818db9ff0d2e7e604"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/07/29/wr317-checklisten-und-referenzen-fotografie-viii/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">12</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2392&amp;amp;md5=bd248e506b60196818db9ff0d2e7e604"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/07/29/wr317-checklisten-und-referenzen-fotografie-viii/feed/</wfw:commentRss>
+                    <slash:comments>12</slash:comments>
                     <enclosure url="http://files.wrint.de/WR317_Checklisten_und_Referenzen_Fotografie_VIII.mp3" length="34713785" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F07%2F29%2Fwr317-checklisten-und-referenzen-fotografie-viii%2F&amp;language=de_DE&amp;category=audio&amp;title=WR317+Checklisten+und+Referenzen+%28Fotografie+VIII%29&amp;description=%26nbsp%3B+Worin+Chris+Marquardt+mir+erkl%C3%A4rt%2C+welche+Fragen+ich+mir+stellen+sollte%2C+bevor+ich+ein+Bild+aufnehme.+%26nbsp%3B+%26nbsp%3B+Shownotes+von&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Worin Chris Marquardt mir erklärt, welche Fragen ich mir stellen sollte, bevor ich ein Bild aufnehme. - &#160; - &#160; - Shownotes von</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F07%2F29%2Fwr317-checklisten-und-referenzen-fotografie-viii%2F&amp;language=de_DE&amp;category=audio&amp;title=WR317+Checklisten+und+Referenzen+%28Fotografie+VIII%29&amp;description=%26nbsp%3B+Worin+Chris+Marquardt+mir+erkl%C3%A4rt%2C+welche+Fragen+ich+mir+stellen+sollte%2C+bevor+ich+ein+Bild+aufnehme.+%26nbsp%3B+%26nbsp%3B+Shownotes+von&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Worin Chris Marquardt mir erklärt, welche Fragen ich mir stellen sollte, bevor ich ein Bild aufnehme. - &#160; - &#160; - Shownotes von</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Worin Chris Marquardt mir erklärt, welche Fragen ich mir stellen sollte, bevor ich ein Bild aufnehme.
 
@@ -414,23 +414,23 @@ Worin Chris Marquardt mir erklärt, welche Fragen ich mir stellen sollte, bevor 
 &#160;
 
 Shownotes
-von</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:12:18</duration>
+von</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:12:18</itunes:duration>
                 </item>
                 <item>
                     <title>WR300 Bildkritik (Fotografie VII)</title>
                     <link>http://www.wrint.de/2014/06/15/wr300-bildkritik-fotografie-vii/</link>
                     <comments>http://www.wrint.de/2014/06/15/wr300-bildkritik-fotografie-vii/#comments</comments>
                     <pubDate>Sun, 15 Jun 2014 20:40:11 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2330</guid>
                     <description>&amp;#160; Diesmal sehen Chris Marquardt und ich&#160;uns eine Reihe unbearbeiteter Bilder an, die ich im April in London geschossen habe. Wenn ich irgendwann Zeit finde, bekomme ich hoffentlich auch noch ein ordentliches London-Album zustande. &amp;#160; Shownotes von&#160;</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;Diesmal sehen &lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; und ich&#160;uns eine Reihe unbearbeiteter Bilder an, die ich im April in London geschossen habe. Wenn ich irgendwann Zeit finde, bekomme ich hoffentlich auch noch ein ordentliches London-Album zustande.&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;Shownotes&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
@@ -477,36 +477,36 @@ von&#160;&lt;a target="_blank" href="https://twitter.com/mrmoe"&gt;@mrmoe&lt;/a&
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Verabschiedung&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="4904"&gt;01:21:44&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2330&amp;amp;md5=440a57b089c20d55a4a181835ba90f62"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/06/15/wr300-bildkritik-fotografie-vii/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">13</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2330&amp;amp;md5=440a57b089c20d55a4a181835ba90f62"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/06/15/wr300-bildkritik-fotografie-vii/feed/</wfw:commentRss>
+                    <slash:comments>13</slash:comments>
                     <enclosure url="http://files.wrint.de/WR300_Fotografie_VII_Bildkritik.mp3" length="39730062" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F06%2F15%2Fwr300-bildkritik-fotografie-vii%2F&amp;language=de_DE&amp;category=audio&amp;title=WR300+Bildkritik+%28Fotografie+VII%29&amp;description=%26nbsp%3B+Diesmal+sehen+Chris+Marquardt+und+ich%C2%A0uns+eine+Reihe+unbearbeiteter+Bilder+an%2C+die+ich+im+April+in+London+geschossen+habe.+Wenn+ich+irgendwann+Zeit+finde%2C+bekomme+ich+hoffentlich+auch+noch...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Diesmal sehen Chris Marquardt und ich&#160;uns eine Reihe unbearbeiteter Bilder an, die ich im April in London geschossen habe. Wenn ich irgendwann Zeit finde, bekomme ich hoffentlich auch noch ein ordentliches London-Album zustande. - &#160; - Shownotes </subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F06%2F15%2Fwr300-bildkritik-fotografie-vii%2F&amp;language=de_DE&amp;category=audio&amp;title=WR300+Bildkritik+%28Fotografie+VII%29&amp;description=%26nbsp%3B+Diesmal+sehen+Chris+Marquardt+und+ich%C2%A0uns+eine+Reihe+unbearbeiteter+Bilder+an%2C+die+ich+im+April+in+London+geschossen+habe.+Wenn+ich+irgendwann+Zeit+finde%2C+bekomme+ich+hoffentlich+auch+noch...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Diesmal sehen Chris Marquardt und ich&#160;uns eine Reihe unbearbeiteter Bilder an, die ich im April in London geschossen habe. Wenn ich irgendwann Zeit finde, bekomme ich hoffentlich auch noch ein ordentliches London-Album zustande. - &#160; - Shownotes </itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Diesmal sehen Chris Marquardt und ich&#160;uns eine Reihe unbearbeiteter Bilder an, die ich im April in London geschossen habe. Wenn ich irgendwann Zeit finde, bekomme ich hoffentlich auch noch ein ordentliches London-Album zustande.
 
 &#160;
 
 Shownotes
-von&#160;</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <image xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:22:44</duration>
+von&#160;</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:22:44</itunes:duration>
                 </item>
                 <item>
                     <title>WR288 Farbfotografie</title>
                     <link>http://www.wrint.de/2014/05/16/wr288-farbfotografie/</link>
                     <comments>http://www.wrint.de/2014/05/16/wr288-farbfotografie/#comments</comments>
                     <pubDate>Fri, 16 May 2014 15:56:05 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2283</guid>
                     <description>&amp;#160; Diesmal geht es um Farbe. Und weil ich irgendwie zu doof bin, nachträglich Links in die Shownotes einzupflegen, gibt es die Links, die Chris mir geschickt hat nicht unten in der Liste, sondern hier: Eigenschaften von Auge und Licht, The Sky Isn&amp;#8217;t Blue, Farben: Frauen und Männer, Elektromagnetisches Spektrum, Natrium und sein Spektrum, Farbkreise [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;&lt;/p&gt;
 &lt;p&gt;Diesmal geht es um Farbe. Und weil ich irgendwie zu doof bin, nachträglich Links in die Shownotes einzupflegen, gibt es die Links, die &lt;a href="http://www.tipsfromthetopfloor.com/"&gt;Chris&lt;/a&gt; mir geschickt hat nicht unten in der Liste, sondern hier: &lt;a href="http://www.farbe.com/farbe1.htm"&gt;Eigenschaften von Auge und Licht&lt;/a&gt;, &lt;a href="http://www.radiolab.org/story/211213-sky-isnt-blue/"&gt;The Sky Isn&amp;#8217;t Blue&lt;/a&gt;, &lt;a href="http://blog.kissmetrics.com/gender-and-color/?wide=1#"&gt;Farben: Frauen und Männer&lt;/a&gt;, &lt;a href="https://de.wikipedia.org/wiki/Elektromagnetisches_Spektrum"&gt;Elektromagnetisches Spektrum&lt;/a&gt;, &lt;a href="https://de.wikipedia.org/wiki/Natrium-D-Linie"&gt;Natrium und sein Spektrum&lt;/a&gt;,&lt;br /&gt;
 &lt;a href="https://de.wikipedia.org/wiki/Farbkreis#Bildergalerie_von_Farbkreisen"&gt;Farbkreise&lt;/a&gt; und &lt;a href="https://kuler.adobe.com/explore/newest/"&gt;Farbschemata mit Kuler&lt;/a&gt;.&lt;/p&gt;
@@ -533,13 +533,13 @@ von &lt;code&gt;&lt;a target="_blank" href="https://alpha.app.net/vale"&gt;@vale
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Verabschiedung&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="6354"&gt;01:45:54&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;/code&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2283&amp;amp;md5=37dce37fa88d2d3d00a86a2b110c8e9f"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/05/16/wr288-farbfotografie/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">19</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2283&amp;amp;md5=37dce37fa88d2d3d00a86a2b110c8e9f"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/05/16/wr288-farbfotografie/feed/</wfw:commentRss>
+                    <slash:comments>19</slash:comments>
                     <enclosure url="http://files.wrint.de/WR288_Farbfotografie.mp3" length="51237999" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F05%2F16%2Fwr288-farbfotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR288+Farbfotografie&amp;description=%26nbsp%3B+Diesmal+geht+es+um+Farbe.+Und+weil+ich+irgendwie+zu+doof+bin%2C+nachtr%C3%A4glich+Links+in+die+Shownotes+einzupflegen%2C+gibt+es+die+Links%2C+die+Chris+mir+geschickt+hat+nicht+unten...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Diesmal geht es um Farbe. Und weil ich irgendwie zu doof bin, nachträglich Links in die Shownotes einzupflegen, gibt es die Links, die Chris mir geschickt hat nicht unten in der Liste, sondern hier: Eigenschaften von Auge und Licht,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F05%2F16%2Fwr288-farbfotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR288+Farbfotografie&amp;description=%26nbsp%3B+Diesmal+geht+es+um+Farbe.+Und+weil+ich+irgendwie+zu+doof+bin%2C+nachtr%C3%A4glich+Links+in+die+Shownotes+einzupflegen%2C+gibt+es+die+Links%2C+die+Chris+mir+geschickt+hat+nicht+unten...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Diesmal geht es um Farbe. Und weil ich irgendwie zu doof bin, nachträglich Links in die Shownotes einzupflegen, gibt es die Links, die Chris mir geschickt hat nicht unten in der Liste, sondern hier: Eigenschaften von Auge und Licht,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 
 
@@ -547,136 +547,136 @@ Diesmal geht es um Farbe. Und weil ich irgendwie zu doof bin, nachträglich Link
 Farbkreise und Farbschemata mit Kuler.
 
 Shownotes
-von</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:46:43</duration>
+von</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:46:43</itunes:duration>
                 </item>
                 <item>
                     <title>WR273 Der Mensch vor der Kamera</title>
                     <link>http://www.wrint.de/2014/03/27/wr273-der-mensch-vor-der-kamera/</link>
                     <comments>http://www.wrint.de/2014/03/27/wr273-der-mensch-vor-der-kamera/#comments</comments>
                     <pubDate>Thu, 27 Mar 2014 20:42:20 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2195</guid>
                     <description>&amp;#160; Diesmal erklärt Chris Marquardt, wie man sich dem Menschen als Motiv nähert. Wir reden über die DJI Phantom, über Kamerageräusche, Belästigungen, Mustererkennung, Belichtungszeiten (1/Brennweite), Abstände, Magnetismus, Portraits, Gruppenbilder, über Lichtführung (Rimlight, Hauptlicht, das 3-Punkte-Licht) über Gruppenbilder, die Problemzonen Kinn, Mund, Haut, Falten, Nase, Augen, Ohren und Schultern, über Catchlights, Rotfilter und digitale Vaseline. Besprochene [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft  wp-image-2153" alt="wrint_2014_fotografie_200" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" width="140" height="140" /&gt;Diesmal erklärt &lt;a href="http://discoverthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt;, wie man sich dem Menschen als Motiv nähert. Wir reden über die DJI &lt;a href="http://www.dji.com/product/phantom"&gt;Phantom&lt;/a&gt;, über Kamerageräusche, Belästigungen, Mustererkennung, Belichtungszeiten (1/Brennweite), Abstände, Magnetismus, Portraits, Gruppenbilder, über &lt;a href="http://de.wikipedia.org/wiki/Lichtführung"&gt;Lichtführung&lt;/a&gt; (Rimlight, Hauptlicht, das 3-Punkte-Licht) über Gruppenbilder, die Problemzonen Kinn, Mund, Haut, Falten, Nase, Augen, Ohren und Schultern, über &lt;a href="http://en.wikipedia.org/wiki/Catch_light"&gt;Catchlights&lt;/a&gt;, Rotfilter und digitale Vaseline.&lt;/p&gt;
 &lt;p&gt;Besprochene Bilder: &lt;a href="http://wtface.com/"&gt;WTface&lt;/a&gt;,&#160;&lt;a href="http://www.flickr.com/photos/nubui/13101498043/"&gt;Seljalandsfoss III&lt;/a&gt;,&#160;&lt;a href="http://www.flickr.com/photos/nubui/13151995234/"&gt;Glacier Cave VI&lt;/a&gt;, &lt;a href="http://photography.chrismarquardt.com/people/x694w4xxh2w29zpi8a4fzxdsw93jzn"&gt;More Beer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2195&amp;amp;md5=2ac9231733330c17fa9285b8cf4c3165"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/03/27/wr273-der-mensch-vor-der-kamera/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">24</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2195&amp;amp;md5=2ac9231733330c17fa9285b8cf4c3165"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/03/27/wr273-der-mensch-vor-der-kamera/feed/</wfw:commentRss>
+                    <slash:comments>24</slash:comments>
                     <enclosure url="http://files.wrint.de/WR273_Der_Mensch_vor_der_Kamera.mp3" length="51132844" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F03%2F27%2Fwr273-der-mensch-vor-der-kamera%2F&amp;language=de_DE&amp;category=audio&amp;title=WR273+Der+Mensch+vor+der+Kamera&amp;description=%26nbsp%3B+Diesmal+erkl%C3%A4rt+Chris+Marquardt%2C+wie+man+sich+dem+Menschen+als+Motiv+n%C3%A4hert.+Wir+reden+%C3%BCber+die+DJI+Phantom%2C+%C3%BCber+Kamerager%C3%A4usche%2C+Bel%C3%A4stigungen%2C+Mustererkennung%2C+Belichtungszeiten+%281%2FBrennweite%29%2C+Abst%C3%A4nde%2C+Magnetismus%2C+Portraits%2C+Gruppenbilder%2C+%C3%BCber...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Diesmal erklärt Chris Marquardt, wie man sich dem Menschen als Motiv nähert. Wir reden über die DJI Phantom, über Kamerageräusche, Belästigungen, Mustererkennung, Belichtungszeiten (1/Brennweite), Abstände, Magnetismus, Portraits, Gruppenbilder,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F03%2F27%2Fwr273-der-mensch-vor-der-kamera%2F&amp;language=de_DE&amp;category=audio&amp;title=WR273+Der+Mensch+vor+der+Kamera&amp;description=%26nbsp%3B+Diesmal+erkl%C3%A4rt+Chris+Marquardt%2C+wie+man+sich+dem+Menschen+als+Motiv+n%C3%A4hert.+Wir+reden+%C3%BCber+die+DJI+Phantom%2C+%C3%BCber+Kamerager%C3%A4usche%2C+Bel%C3%A4stigungen%2C+Mustererkennung%2C+Belichtungszeiten+%281%2FBrennweite%29%2C+Abst%C3%A4nde%2C+Magnetismus%2C+Portraits%2C+Gruppenbilder%2C+%C3%BCber...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Diesmal erklärt Chris Marquardt, wie man sich dem Menschen als Motiv nähert. Wir reden über die DJI Phantom, über Kamerageräusche, Belästigungen, Mustererkennung, Belichtungszeiten (1/Brennweite), Abstände, Magnetismus, Portraits, Gruppenbilder,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Diesmal erklärt Chris Marquardt, wie man sich dem Menschen als Motiv nähert. Wir reden über die DJI Phantom, über Kamerageräusche, Belästigungen, Mustererkennung, Belichtungszeiten (1/Brennweite), Abstände, Magnetismus, Portraits, Gruppenbilder, über Lichtführung (Rimlight, Hauptlicht, das 3-Punkte-Licht) über Gruppenbilder, die Problemzonen Kinn, Mund, Haut, Falten, Nase, Augen, Ohren und Schultern, über Catchlights, Rotfilter und digitale Vaseline.
 
-Besprochene Bilder: WTface,&#160;Seljalandsfoss III,&#160;Glacier Cave VI, More Beer</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:46:30</duration>
+Besprochene Bilder: WTface,&#160;Seljalandsfoss III,&#160;Glacier Cave VI, More Beer</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:46:30</itunes:duration>
                 </item>
                 <item>
                     <title>WR268 Fimose Bilder</title>
                     <link>http://www.wrint.de/2014/03/14/wr268-fimose-bilder-zum-thema-fotografie/</link>
                     <comments>http://www.wrint.de/2014/03/14/wr268-fimose-bilder-zum-thema-fotografie/#comments</comments>
                     <pubDate>Fri, 14 Mar 2014 17:01:16 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2146</guid>
                     <description>&amp;#160; Chris Marquardt&#160;(Discover the Top Floor,&#160;Happyshooting) ist immer noch so freundlich, mir das mit dem Fotografieren zu erklären. Diesmal geht es um Regeln, die letzte Sendung hatte mich anscheinend aber so verwirrt, dass mein Hirn sie wiederholen wollte, was wir anfangs auch tun und nochmal übers Histogramm und HDR reden. Dann geht es damit weiter, [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://chrismarquardt.com"&gt;&lt;img class="alignleft  wp-image-2153" alt="wrint_2014_fotografie_200" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" width="160" height="160" /&gt;Chris Marquardt&lt;/a&gt;&#160;(&lt;a href="http://discoverthetopfloor.com"&gt;Discover the Top Floor&lt;/a&gt;,&#160;&lt;a href="http://www.happyshooting.de/podcast/"&gt;Happyshooting&lt;/a&gt;) ist immer noch so freundlich, mir das mit dem Fotografieren zu erklären. Diesmal geht es um Regeln, die letzte Sendung hatte mich anscheinend aber so verwirrt, dass mein Hirn sie wiederholen wollte, was wir anfangs auch tun und nochmal übers &lt;a href="http://de.wikipedia.org/wiki/Histogramm#Histogramm_in_der_Bildverarbeitung"&gt;Histogramm&lt;/a&gt; und &lt;a href="http://de.wikipedia.org/wiki/High_Dynamic_Range_Image"&gt;HDR&lt;/a&gt; reden. Dann geht es damit weiter, dass wir&#160;einen Workshop zu planen planen, wir reden über das &lt;a href="http://de.wikipedia.org/wiki/Tone_Mapping"&gt;Tonemapping&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Lightroom"&gt;Lightroom&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Photoshop"&gt;Photoshop&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Tiff"&gt;TIFF&lt;/a&gt;-Dateien, den &lt;a href="http://de.wikipedia.org/wiki/Pixelmator"&gt;Pixelmator&lt;/a&gt;, Holgis erste Kamera &lt;a href="http://www.kameraschaetze.de/index.php/foto/foto-kameras/bilora/bilora-bilomatic/bilora-bilomatic-ca"&gt;Bilora Bilomatic&lt;/a&gt;, über &lt;a href="http://de.wikipedia.org/wiki/Blitzlichtbirne#Blitzw.C3.BCrfel"&gt;Blitzwürfel&lt;/a&gt;, den &lt;a href="http://de.wikipedia.org/wiki/Goldener_Schnitt"&gt;goldenen Schnitt&lt;/a&gt;, den &lt;a href="http://de.wikipedia.org/wiki/Goldener_Winkel#Goldener_Winkel"&gt;goldenen Winkel und die goldene Spirale&lt;/a&gt;, den &lt;a href="http://download.fritz.de/jingles/2010/Fritz_Der_goldene_Jingle.mp3"&gt;goldenen Jingle&lt;/a&gt;&#160;(mp3), die &lt;a href="http://de.wikipedia.org/wiki/Drittel-Regel"&gt;Drittel-Regel&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Grand_Budapest_Hotel"&gt;Grand Budapest Hotel&lt;/a&gt;,&#160;Kinder und Hunde, die Verlängerung von Linien zwischen Vorder- und Hintergrund, ich lerne einige Kniffe der Portraitfotografie (Kinnpartie, Catchlights in den Augen, Nasenrichtung, Augengröße, Brennweite, Weitwinkel macht Nase groß) und wir merken uns: Unterm Knie schneide nie! Und: Sei kühn! Außerdem gibt es noch zwei Webseiten mit Essen (&lt;a href="http://www.krusteundkruemel.de"&gt;Kruste und Krümel&lt;/a&gt;, &lt;a href="http://glutenfrei-backen.de/"&gt;Trudels himmlisches Backbuch&lt;/a&gt;) und ein mit &lt;a href="http://www.anuspic.de/index.php?"&gt;Arschlöchern&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;Erwähnte Bilder:&lt;/span&gt;&lt;br /&gt;
 &lt;a href="http://www.flickr.com/photos/holgi/12857625784/"&gt;Vanilla Porter&lt;/a&gt;,&#160;&lt;a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.flickr.com/photos/nubui/12937429295/"&gt;Rain over Reykjavik&lt;/a&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;, &lt;/span&gt;&lt;a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.flickr.com/photos/nubui/13080915545/"&gt;Pebble 1&lt;/a&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;, &lt;/span&gt;&lt;a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.flickr.com/photos/nubui/13092548463/"&gt;Aurora&lt;/a&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;, &lt;/span&gt;&lt;a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.flickr.com/photos/nubui/13101376865/"&gt;Seljalandsfoss II&lt;/a&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;, &lt;/span&gt;&lt;a style="line-height: 1.714285714; font-size: 1rem;" href="http://www.flickr.com/photos/nubui/13005762344/"&gt;Pebble 2&lt;/a&gt;&lt;span style="line-height: 1.714285714; font-size: 1rem;"&gt;,&#160;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2146&amp;amp;md5=ab9aa10a5227916f94dcf1240590d788"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/03/14/wr268-fimose-bilder-zum-thema-fotografie/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">20</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2146&amp;amp;md5=ab9aa10a5227916f94dcf1240590d788"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/03/14/wr268-fimose-bilder-zum-thema-fotografie/feed/</wfw:commentRss>
+                    <slash:comments>20</slash:comments>
                     <enclosure url="http://files.wrint.de/WR268_Fimose_Bilder.mp3" length="45156569" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F03%2F14%2Fwr268-fimose-bilder-zum-thema-fotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR268+Fimose+Bilder&amp;description=%26nbsp%3B+Chris+Marquardt%C2%A0%28Discover+the+Top+Floor%2C%C2%A0Happyshooting%29+ist+immer+noch+so+freundlich%2C+mir+das+mit+dem+Fotografieren+zu+erkl%C3%A4ren.+Diesmal+geht+es+um+Regeln%2C+die+letzte+Sendung+hatte+mich+anscheinend+aber...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt&#160;(Discover the Top Floor,&#160;Happyshooting) ist immer noch so freundlich, mir das mit dem Fotografieren zu erklären. Diesmal geht es um Regeln, die letzte Sendung hatte mich anscheinend aber so verwirrt,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F03%2F14%2Fwr268-fimose-bilder-zum-thema-fotografie%2F&amp;language=de_DE&amp;category=audio&amp;title=WR268+Fimose+Bilder&amp;description=%26nbsp%3B+Chris+Marquardt%C2%A0%28Discover+the+Top+Floor%2C%C2%A0Happyshooting%29+ist+immer+noch+so+freundlich%2C+mir+das+mit+dem+Fotografieren+zu+erkl%C3%A4ren.+Diesmal+geht+es+um+Regeln%2C+die+letzte+Sendung+hatte+mich+anscheinend+aber...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt&#160;(Discover the Top Floor,&#160;Happyshooting) ist immer noch so freundlich, mir das mit dem Fotografieren zu erklären. Diesmal geht es um Regeln, die letzte Sendung hatte mich anscheinend aber so verwirrt,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Chris Marquardt&#160;(Discover the Top Floor,&#160;Happyshooting) ist immer noch so freundlich, mir das mit dem Fotografieren zu erklären. Diesmal geht es um Regeln, die letzte Sendung hatte mich anscheinend aber so verwirrt, dass mein Hirn sie wiederholen wollte, was wir anfangs auch tun und nochmal übers Histogramm und HDR reden. Dann geht es damit weiter, dass wir&#160;einen Workshop zu planen planen, wir reden über das Tonemapping, Lightroom, Photoshop, TIFF-Dateien, den Pixelmator, Holgis erste Kamera Bilora Bilomatic, über Blitzwürfel, den goldenen Schnitt, den goldenen Winkel und die goldene Spirale, den goldenen Jingle&#160;(mp3), die Drittel-Regel, Grand Budapest Hotel,&#160;Kinder und Hunde, die Verlängerung von Linien zwischen Vorder- und Hintergrund, ich lerne einige Kniffe der Portraitfotografie (Kinnpartie, Catchlights in den Augen, Nasenrichtung, Augengröße, Brennweite, Weitwinkel macht Nase groß) und wir merken uns: Unterm Knie schneide nie! Und: Sei kühn! Außerdem gibt es noch zwei Webseiten mit Essen (Kruste und Krümel, Trudels himmlisches Backbuch) und ein mit Arschlöchern.
 
 Erwähnte Bilder:
-Vanilla Porter,&#160;Rain over Reykjavik, Pebble 1, Aurora, Seljalandsfoss II, Pebble 2,&#160;</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:34:03</duration>
+Vanilla Porter,&#160;Rain over Reykjavik, Pebble 1, Aurora, Seljalandsfoss II, Pebble 2,&#160;</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:34:03</itunes:duration>
                 </item>
                 <item>
                     <title>WR259 Photoneneimerchen</title>
                     <link>http://www.wrint.de/2014/02/24/wr259-photoneneimerchen/</link>
                     <comments>http://www.wrint.de/2014/02/24/wr259-photoneneimerchen/#comments</comments>
                     <pubDate>Mon, 24 Feb 2014 20:57:05 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2097</guid>
                     <description>&amp;#160; Chris Marquardt ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die Fuji X100, NEX-5n (steht zum Verkauf), NEX-6, Canon 5D MK II, Canon 100D), Photonen, das Dreieck aus Zeit, Blende und Empfindlichkeit (ISO), Chris&amp;#8217; Buch &amp;#8220;1 [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft  wp-image-2008" alt="wrint_2014_zumthema_200" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" width="160" height="160" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die &lt;a href="http://www.finepix-x100.com/de"&gt;Fuji X100&lt;/a&gt;, &lt;a href="http://www.digitalkamera.de/Testbericht/Sony_NEX-5/6505.aspx"&gt;NEX-5n&lt;/a&gt; (steht zum &lt;a href="https://alpha.app.net/holgi/post/23478959"&gt;Verkauf&lt;/a&gt;), &lt;a href="http://www.sony.de/electronics/wechselobjektivkameras/nex-6-body-kit"&gt;NEX-6&lt;/a&gt;, &lt;a href="http://www.canon.de/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_5D_Mark_II/"&gt;Canon 5D MK II&lt;/a&gt;, &lt;a href="http://www.canon.de/For_Home/Product_Finder/Cameras/Digital_SLR/EOS_100D/"&gt;Canon 100D&lt;/a&gt;), &lt;a href="http://de.wikipedia.org/wiki/Photon"&gt;Photonen&lt;/a&gt;, das Dreieck aus Zeit, &lt;a href="http://de.wikipedia.org/wiki/Blende_%28Optik%29"&gt;Blende&lt;/a&gt; und Empfindlichkeit (&lt;a href="http://de.wikipedia.org/wiki/Filmempfindlichkeit#ISO"&gt;ISO&lt;/a&gt;), Chris&amp;#8217; Buch &amp;#8220;&lt;a href="http://1hour1000pics.com"&gt;1 hour 1000 pix&lt;/a&gt;&amp;#8220;, den &lt;a href="http://de.wikipedia.org/wiki/Dynamikumfang"&gt;Dynamikumfang&lt;/a&gt;, Blendenstufen, Über- und Unterbelichtung, &lt;a href="http://de.wikipedia.org/wiki/Graukarte"&gt;Graukarten&lt;/a&gt;, das &lt;a href="http://de.wikipedia.org/wiki/Histogramm"&gt;Histogramm&lt;/a&gt; und Kontraststufen, ich lerne, wozu der &lt;a href="http://de.wikipedia.org/wiki/ND-Filter"&gt;ND-Filter&lt;/a&gt; gut ist, bekomme zwei Regeln (&lt;a href="http://en.wikipedia.org/wiki/Sunny_16_rule"&gt;Sunny 16&lt;/a&gt;, &lt;a href="http://en.wikipedia.org/wiki/Looney_11_rule"&gt;Loony 11&lt;/a&gt;) mit auf den Weg und hätte hier sicher noch mehr zu schreiben, wenn ich detaillierter mitgeschrieben hätte.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2097&amp;amp;md5=1eee4b607ec9db63f4ab6c4011d127cd"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/02/24/wr259-photoneneimerchen/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">16</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2097&amp;amp;md5=1eee4b607ec9db63f4ab6c4011d127cd"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/02/24/wr259-photoneneimerchen/feed/</wfw:commentRss>
+                    <slash:comments>16</slash:comments>
                     <enclosure url="http://files.wrint.de/WR259_Photoneneimerchen_Fotografie_III.mp3" length="51759704" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F02%2F24%2Fwr259-photoneneimerchen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR259+Photoneneimerchen&amp;description=%26nbsp%3B+Chris+Marquardt+ist+weiterhin+so+freundlich%2C+mir+zu+erkl%C3%A4ren%2C+was+ich+denn+eigentlich+mache%2C+wenn+ich+fotografiere.+Diesmal+geht+es+um+die+Belichtung.+Wir+reden+%C3%BCber+unsere+Kameras%2C+die...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Chris Marquardt ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die Fuji X100, NEX-5n (steht zum Verkauf), NEX-6, Canon 5D MK II,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F02%2F24%2Fwr259-photoneneimerchen%2F&amp;language=de_DE&amp;category=audio&amp;title=WR259+Photoneneimerchen&amp;description=%26nbsp%3B+Chris+Marquardt+ist+weiterhin+so+freundlich%2C+mir+zu+erkl%C3%A4ren%2C+was+ich+denn+eigentlich+mache%2C+wenn+ich+fotografiere.+Diesmal+geht+es+um+die+Belichtung.+Wir+reden+%C3%BCber+unsere+Kameras%2C+die...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Chris Marquardt ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die Fuji X100, NEX-5n (steht zum Verkauf), NEX-6, Canon 5D MK II,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
-Chris Marquardt ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die Fuji X100, NEX-5n (steht zum Verkauf), NEX-6, Canon 5D MK II, Canon 100D), Photonen, das Dreieck aus Zeit, Blende und Empfindlichkeit (ISO), Chris' Buch "1 hour 1000 pix", den Dynamikumfang, Blendenstufen, Über- und Unterbelichtung, Graukarten, das Histogramm und Kontraststufen, ich lerne, wozu der ND-Filter gut ist, bekomme zwei Regeln (Sunny 16, Loony 11) mit auf den Weg und hätte hier sicher noch mehr zu schreiben, wenn ich detaillierter mitgeschrieben hätte.</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:47:48</duration>
+Chris Marquardt ist weiterhin so freundlich, mir zu erklären, was ich denn eigentlich mache, wenn ich fotografiere. Diesmal geht es um die Belichtung. Wir reden über unsere Kameras, die Fuji X100, NEX-5n (steht zum Verkauf), NEX-6, Canon 5D MK II, Canon 100D), Photonen, das Dreieck aus Zeit, Blende und Empfindlichkeit (ISO), Chris' Buch "1 hour 1000 pix", den Dynamikumfang, Blendenstufen, Über- und Unterbelichtung, Graukarten, das Histogramm und Kontraststufen, ich lerne, wozu der ND-Filter gut ist, bekomme zwei Regeln (Sunny 16, Loony 11) mit auf den Weg und hätte hier sicher noch mehr zu schreiben, wenn ich detaillierter mitgeschrieben hätte.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:47:48</itunes:duration>
                 </item>
                 <item>
                     <title>WR256 Schärfenwurstverlagerung</title>
                     <link>http://www.wrint.de/2014/02/17/wr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung/</link>
                     <comments>http://www.wrint.de/2014/02/17/wr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung/#comments</comments>
                     <pubDate>Mon, 17 Feb 2014 12:53:07 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2090</guid>
                     <description>&amp;#160; Chris Marquardt und ich rekapitulieren das Subjekt aus der letzten Sendung, reden über Objektive, Sensoren,&#160;Cropfaktoren, die Schärfentiefe, die Tiefenschärfe und die Tärfenschiefe, über Astrofotografie, die Sony Alpha 7R, Schärfe, Pixel, über Cropsensoren (APS-C, Micro-Four-Thirds, Foveon) und Vollformatsensoren, die Sony RX100, über Normalbrennweite, Bildwinkel, die Bildebene, Tiefenstaffelung, die Schärfeebene, eine Lichfeldkamera (Lytro), die Hyperfokaldistanz, den [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft  wp-image-2008" alt="wrint_2014_zumthema_200" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" width="160" height="160" /&gt; &lt;a href="http://discoverthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; und ich rekapitulieren das Subjekt aus der &lt;a href="http://www.wrint.de/2014/01/20/wr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker/"&gt;letzten Sendung&lt;/a&gt;, reden über Objektive, Sensoren,&#160;&lt;a href="http://de.wikipedia.org/wiki/Cropfaktor"&gt;Cropfaktoren&lt;/a&gt;, die &lt;a href="http://de.wikipedia.org/wiki/Sch%C3%A4rfentiefe"&gt;Schärfentiefe&lt;/a&gt;, die &lt;a href="Tiefenschärfe"&gt;Tiefenschärfe&lt;/a&gt; und die &lt;a href="Tiefenschärfe"&gt;Tärfenschiefe&lt;/a&gt;, über Astrofotografie, die &lt;a href="http://www.dkamera.de/testbericht/sony-alpha-7r/"&gt;Sony Alpha 7R&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Sch%C3%A4rfe_%28Fotografie%29"&gt;Schärfe&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Pixel"&gt;Pixel&lt;/a&gt;, über Cropsensoren (&lt;a href="http://de.wikipedia.org/wiki/APS-C"&gt;APS-C&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Micro_Four_Thirds"&gt;Micro-Four-Thirds&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Foveon_X3"&gt;Foveon&lt;/a&gt;) und &lt;a href="http://de.wikipedia.org/wiki/Vollformatsensor"&gt;Vollformatsensoren&lt;/a&gt;, die &lt;a href="http://www.dkamera.de/testbericht/sony-cyber-shot-dsc-rx100/"&gt;Sony RX100&lt;/a&gt;, über &lt;a href="http://de.wikipedia.org/wiki/Normalobjektiv"&gt;Normalbrennweite&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Bildwinkel"&gt;Bildwinkel&lt;/a&gt;, die &lt;a href="http://de.wikipedia.org/wiki/Bildebene_%28Fotografie%29"&gt;Bildebene&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Tiefenstaffelung"&gt;Tiefenstaffelung&lt;/a&gt;, die &lt;a href="http://de.wikipedia.org/wiki/Sch%C3%A4rfeebene"&gt;Schärfeebene&lt;/a&gt;, eine &lt;a href="http://de.wikipedia.org/wiki/Lichtfeldkamera"&gt;Lichfeldkamera&lt;/a&gt; (&lt;a href="https://www.lytro.com/"&gt;Lytro&lt;/a&gt;), die &lt;a href="http://de.wikipedia.org/wiki/Hyperfokale_Entfernung"&gt;Hyperfokaldistanz&lt;/a&gt;, den &lt;a href="http://de.wikipedia.org/wiki/Zerstreuungskreis"&gt;Zerstreuungskreis&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Retina-Display"&gt;Retina-Displays&lt;/a&gt;, die &lt;a href="http://de.wikipedia.org/wiki/Gelber_Fleck_%28Auge%29"&gt;Makula&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Chromatische_Aberration"&gt;chromatische Abberation&lt;/a&gt;en, &lt;a href="http://de.wikipedia.org/wiki/Farbkanal"&gt;Farbkanäle&lt;/a&gt;,&#160;&lt;a href="http://de.wikipedia.org/wiki/Prismenbrille"&gt;Prismenbrillen&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Kontrast"&gt;Kontrast&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Unscharfmaskierung"&gt;Unscharfmaskierung&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Halo_%28Lichteffekt%29"&gt;Halos&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Siemensstern"&gt;Siemensstern&lt;/a&gt;, den &lt;a href="http://www.amazon.de/gp/product/B002QFA4IU/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1638&amp;amp;creative=6742&amp;amp;creativeASIN=B002QFA4IU&amp;amp;linkCode=as2&amp;amp;tag=stackenbloche-21"&gt;Epson V600&lt;/a&gt;*, zwischenzeitlich lerne ich, warum eine große Blende eine kleine Zahl hat, dann reden wir über&#160;&lt;a href="http://de.wikipedia.org/wiki/Lochblende"&gt;Pinholes&lt;/a&gt;&#160;(Chris baut eine&#160;&lt;a href="http://internationalpinhole.com/"&gt;Lochkamera&lt;/a&gt;!),&#160;das &lt;a href="http://de.leica-camera.com/photography/m_system/lenses/133.html"&gt;Noctilux&lt;/a&gt;, &lt;a href="http://www.pentaxians.de/40456504nx51499/tipps-und-tricks-f41/tutorial-sternenspuren-fotografieren-t3619.html"&gt;Sternenspuren&lt;/a&gt;, die&#160;&lt;a href="http://de.wikipedia.org/wiki/Autofokus#Fokus-Falle"&gt;Fokusfalle&lt;/a&gt; (&lt;a href="http://www.dofmaster.com/"&gt;DOFmaster&lt;/a&gt;), &lt;a href="http://de.wikipedia.org/wiki/Messsucherkamera"&gt;Messsucherkameras&lt;/a&gt;, &lt;a href="http://de.wikipedia.org/wiki/Spiegellinsenobjektiv"&gt;Spiegellinsenobjektive&lt;/a&gt;,&#160;dendas&#160;&lt;a href="http://de.wikipedia.org/wiki/Bokeh"&gt;Bokeh&lt;/a&gt;&#160;und den &lt;a href="http://de.wikipedia.org/wiki/Tilt-und-Shift-Objektiv#Tilt"&gt;Tilt&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Die besprochenen Fotos: &lt;a href="http://www.flickr.com/photos/holgi/12479130843/"&gt;Flaschen&lt;/a&gt;, &lt;a href="http://www.flickr.com/photos/holgi/8273594375/"&gt;Valdemossa&lt;/a&gt;, &lt;a href="http://www.flickr.com/photos/nubui/5439370625/in/set-72157627012095520"&gt;Gras durchs Pinhole&lt;/a&gt;, &lt;a href="http://static.squarespace.com/static/50a16c1ae4b081ffff7b7019/50ffc607e4b067187f0b336e/50ffc792e4b047a6c79d8337/1358940052598/tabtwotollhaus-23.jpg?format=1000w"&gt;Tilt&lt;/a&gt; (Tab Two)&lt;/p&gt;
 &lt;p&gt;&lt;span style="font-size: xx-small;"&gt;*Afiliate-Link&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2090&amp;amp;md5=054f983b562b230401a471b74b009f5f"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/02/17/wr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">34</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2090&amp;amp;md5=054f983b562b230401a471b74b009f5f"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/02/17/wr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung/feed/</wfw:commentRss>
+                    <slash:comments>34</slash:comments>
                     <enclosure url="http://files.wrint.de/WR256_Zum_Thema_Fotografie_II.mp3" length="61754485" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F02%2F17%2Fwr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung%2F&amp;language=de_DE&amp;category=audio&amp;title=WR256+Sch%C3%A4rfenwurstverlagerung&amp;description=%26nbsp%3B+Chris+Marquardt+und+ich+rekapitulieren+das+Subjekt+aus+der+letzten+Sendung%2C+reden+%C3%BCber+Objektive%2C+Sensoren%2C%C2%A0Cropfaktoren%2C+die+Sch%C3%A4rfentiefe%2C+die+Tiefensch%C3%A4rfe+und+die+T%C3%A4rfenschiefe%2C+%C3%BCber+Astrofotografie%2C+die+Sony+Alpha+7R%2C+Sch%C3%A4rfe%2C...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; Chris Marquardt und ich rekapitulieren das Subjekt aus der letzten Sendung, reden über Objektive, Sensoren,&#160;Cropfaktoren, die Schärfentiefe, die Tiefenschärfe und die Tärfenschiefe, über Astrofotografie, die Sony Alpha 7R, Schärfe, Pixel,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F02%2F17%2Fwr256-zum-thema-fotografie-ii-schaerfenwurstverlagerung%2F&amp;language=de_DE&amp;category=audio&amp;title=WR256+Sch%C3%A4rfenwurstverlagerung&amp;description=%26nbsp%3B+Chris+Marquardt+und+ich+rekapitulieren+das+Subjekt+aus+der+letzten+Sendung%2C+reden+%C3%BCber+Objektive%2C+Sensoren%2C%C2%A0Cropfaktoren%2C+die+Sch%C3%A4rfentiefe%2C+die+Tiefensch%C3%A4rfe+und+die+T%C3%A4rfenschiefe%2C+%C3%BCber+Astrofotografie%2C+die+Sony+Alpha+7R%2C+Sch%C3%A4rfe%2C...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; Chris Marquardt und ich rekapitulieren das Subjekt aus der letzten Sendung, reden über Objektive, Sensoren,&#160;Cropfaktoren, die Schärfentiefe, die Tiefenschärfe und die Tärfenschiefe, über Astrofotografie, die Sony Alpha 7R, Schärfe, Pixel,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
  Chris Marquardt und ich rekapitulieren das Subjekt aus der letzten Sendung, reden über Objektive, Sensoren,&#160;Cropfaktoren, die Schärfentiefe, die Tiefenschärfe und die Tärfenschiefe, über Astrofotografie, die Sony Alpha 7R, Schärfe, Pixel, über Cropsensoren (APS-C, Micro-Four-Thirds, Foveon) und Vollformatsensoren, die Sony RX100, über Normalbrennweite, Bildwinkel, die Bildebene, Tiefenstaffelung, die Schärfeebene, eine Lichfeldkamera (Lytro), die Hyperfokaldistanz, den Zerstreuungskreis, Retina-Displays, die Makula, chromatische Abberationen, Farbkanäle,&#160;Prismenbrillen, Kontrast, Unscharfmaskierung, Halos, Siemensstern, den Epson V600*, zwischenzeitlich lerne ich, warum eine große Blende eine kleine Zahl hat, dann reden wir über&#160;Pinholes&#160;(Chris baut eine&#160;Lochkamera!),&#160;das Noctilux, Sternenspuren, die&#160;Fokusfalle (DOFmaster), Messsucherkameras, Spiegellinsenobjektive,&#160;dendas&#160;Bokeh&#160;und den Tilt.
 
 Die besprochenen Fotos: Flaschen, Valdemossa, Gras durchs Pinhole, Tilt (Tab Two)
 
-*Afiliate-Link</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">2:08:38</duration>
+*Afiliate-Link</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>2:08:38</itunes:duration>
                 </item>
                 <item>
                     <title>WR244 Der Rahmen als Subjektverstärker</title>
                     <link>http://www.wrint.de/2014/01/20/wr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker/</link>
                     <comments>http://www.wrint.de/2014/01/20/wr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker/#comments</comments>
                     <pubDate>Mon, 20 Jan 2014 19:50:06 +0000</pubDate>
-                    <creator xmlns="http://purl.org/dc/elements/1.1/">holgi</creator>
+                    <dc:creator>holgi</dc:creator>
                     <category>Fotografie</category>
                     <category>Podcast</category>
                     <guid isPermaLink="false">http://www.wrint.de/?p=2007</guid>
                     <description>&amp;#160; Ich nutze die Gelegenheit für eine quasi-technische Ankündigung. &amp;#8220;Holger ruft an&amp;#8221; und &amp;#8220;Ortsgespräche&amp;#8221; waren im Prinzip dieselbe Sache und ich werde in Zukunft nicht mehr danach trennen, wie ich die Gespräche aufgenommen habe, sondern worum es in den Gesprächen hauptsächlich geht.&#160;Ortsgespräche&#160;wird vorerst nicht weiter bedient, Holger ruft an&#160;wird im Laufe des Jahres etwas völlig [&amp;#8230;]</description>
-                    <encoded xmlns="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Ich nutze die Gelegenheit für eine quasi-technische Ankündigung. &amp;#8220;Holger ruft an&amp;#8221; und &amp;#8220;Ortsgespräche&amp;#8221; waren im Prinzip dieselbe Sache und ich werde in Zukunft nicht mehr danach trennen, wie ich die Gespräche aufgenommen habe, sondern worum es in den Gesprächen hauptsächlich geht.&#160;&lt;em&gt;Ortsgespräche&lt;/em&gt;&#160;wird vorerst nicht weiter bedient, &lt;em&gt;Holger ruft an&lt;/em&gt;&#160;wird im Laufe des Jahres etwas völlig Neues und ab sofort gibt es&#160;zwei neue Kategorien: &amp;#8220;Zum Thema&amp;#8221; und &amp;#8220;Zur Person&amp;#8221;. Da wird es sicher auch Uneindeutigkeiten geben, aber insgesamt erscheint mir das so wesentlich sinnvoller. Die restlichen Kategorien bleiben bestehen.&lt;/p&gt;
 &lt;p&gt;&lt;img class="alignleft  wp-image-2008" alt="wrint_2014_zumthema_200" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" width="150" height="150" /&gt;Und weil ich eh keine alte Kategorie weiß, in die ich diese Sendung packen könnte, kommt sie halt in eine neue. Ich habe das Glück, dass mir &lt;a href="http://chrismarquardt.com"&gt;Chris Marquardt&lt;/a&gt; (&lt;a href="http://discoverthetopfloor.com"&gt;Discover the Top Floor&lt;/a&gt;, &lt;a href="http://www.happyshooting.de/podcast/"&gt;Happyshooting&lt;/a&gt;) in einer lockeren Gesprächsreihe das Fotografieren näher bringen wird, mit dem ich vor etwas über einem Jahr (wieder) angefangen habe. Vieles knipst man aus dem Bauch heraus richtig oder falsch und ich erhoffe mir, in Zukunft schon vor dem Auslösen entscheiden zu können, ob sich das Auslösen überhaupt lohnt. Außerdem haben wir Spaß.&lt;/p&gt;
 &lt;p&gt;In dieser Sendung geht es um &lt;strong&gt;das Subjekt&lt;/strong&gt; und wir reden unter anderem über Fotos aus meinem Flickr-Stream: &lt;a href="http://www.flickr.com/photos/holgi/11750780243/"&gt;Flaschenhals&lt;/a&gt;, &lt;a href="http://www.flickr.com/photos/holgi/10816418176/"&gt;Zoll&lt;/a&gt;, &lt;a href="http://www.flickr.com/photos/holgi/11750762236/"&gt;Kite&lt;/a&gt;, &lt;a href="http://www.flickr.com/photos/holgi/11373778315/"&gt;Gang&lt;/a&gt;&#160;und &lt;a href="http://www.flickr.com/photos/holgi/11570658655/"&gt;Fahrrad mit Kiste&lt;/a&gt;.&lt;/p&gt;
@@ -701,13 +701,13 @@ von&#160;&lt;code&gt;&lt;a target="_blank" href="https://twitter.com/mrmoe"&gt;m
 &lt;div class="osf_chapterbox"&gt;  &lt;h2 class="osf_chapter"&gt;Beim n&amp;auml;chsten Mal: Sch&amp;auml;rfentiefe&lt;/h2&gt; &lt;span class="osf_chaptertime" data-time="3903"&gt;01:05:03&lt;/span&gt;&lt;p class="osf_items"&gt; 
 &lt;span&gt;Verabschiedung&lt;/span&gt;&amp;nbsp;—&amp;#32;&lt;span&gt;Sendungsende&lt;/span&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2007&amp;amp;md5=aab519474b41f1f290f1c578dcadae27"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</encoded>
-                    <commentRss xmlns="http://wellformedweb.org/CommentAPI/">http://www.wrint.de/2014/01/20/wr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker/feed/</commentRss>
-                    <comments xmlns="http://purl.org/rss/1.0/modules/slash/">24</comments>
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2007&amp;amp;md5=aab519474b41f1f290f1c578dcadae27"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2014/01/20/wr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker/feed/</wfw:commentRss>
+                    <slash:comments>24</slash:comments>
                     <enclosure url="http://files.wrint.de/WR244_Fotografie_Der_Rahmen_als_Subjektverstaerker.mp3" length="32151998" type="audio/mpeg"/>
-                    <link xmlns="http://www.w3.org/2005/Atom" rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F01%2F20%2Fwr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker%2F&amp;language=de_DE&amp;category=audio&amp;title=WR244+Der+Rahmen+als+Subjektverst%C3%A4rker&amp;description=%26nbsp%3B+Ich+nutze+die+Gelegenheit+f%C3%BCr+eine+quasi-technische+Ank%C3%BCndigung.+%26%238220%3BHolger+ruft+an%26%238221%3B+und+%26%238220%3BOrtsgespr%C3%A4che%26%238221%3B+waren+im+Prinzip+dieselbe+Sache+und+ich+werde+in+Zukunft+nicht+mehr+danach+trennen%2C+wie+ich...&amp;tags=podcast" type="text/html"/>
-                    <subtitle xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160; - Ich nutze die Gelegenheit für eine quasi-technische Ankündigung. "Holger ruft an" und "Ortsgespräche" waren im Prinzip dieselbe Sache und ich werde in Zukunft nicht mehr danach trennen, wie ich die Gespräche aufgenommen habe,</subtitle>
-                    <summary xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">&#160;
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2014%2F01%2F20%2Fwr244-zum-thema-fotografie-der-rahmen-als-subjektverstaerker%2F&amp;language=de_DE&amp;category=audio&amp;title=WR244+Der+Rahmen+als+Subjektverst%C3%A4rker&amp;description=%26nbsp%3B+Ich+nutze+die+Gelegenheit+f%C3%BCr+eine+quasi-technische+Ank%C3%BCndigung.+%26%238220%3BHolger+ruft+an%26%238221%3B+und+%26%238220%3BOrtsgespr%C3%A4che%26%238221%3B+waren+im+Prinzip+dieselbe+Sache+und+ich+werde+in+Zukunft+nicht+mehr+danach+trennen%2C+wie+ich...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Ich nutze die Gelegenheit für eine quasi-technische Ankündigung. "Holger ruft an" und "Ortsgespräche" waren im Prinzip dieselbe Sache und ich werde in Zukunft nicht mehr danach trennen, wie ich die Gespräche aufgenommen habe,</itunes:subtitle>
+                    <itunes:summary>&#160;
 
 Ich nutze die Gelegenheit für eine quasi-technische Ankündigung. "Holger ruft an" und "Ortsgespräche" waren im Prinzip dieselbe Sache und ich werde in Zukunft nicht mehr danach trennen, wie ich die Gespräche aufgenommen habe, sondern worum es in den Gesprächen hauptsächlich geht.&#160;Ortsgespräche&#160;wird vorerst nicht weiter bedient, Holger ruft an&#160;wird im Laufe des Jahres etwas völlig Neues und ab sofort gibt es&#160;zwei neue Kategorien: "Zum Thema" und "Zur Person". Da wird es sicher auch Uneindeutigkeiten geben, aber insgesamt erscheint mir das so wesentlich sinnvoller. Die restlichen Kategorien bleiben bestehen.
 
@@ -716,10 +716,10 @@ Und weil ich eh keine alte Kategorie weiß, in die ich diese Sendung packen kön
 In dieser Sendung geht es um das Subjekt und wir reden unter anderem über Fotos aus meinem Flickr-Stream: Flaschenhals, Zoll, Kite, Gang&#160;und Fahrrad mit Kiste.
 
 Shownotes
-von&#160;</summary>
-                    <author xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">Holger Klein</author>
-                    <explicit xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">no</explicit>
-                    <duration xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd">1:06:57</duration>
+von&#160;</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:06:57</itunes:duration>
                 </item>
             </channel>
         </rss>

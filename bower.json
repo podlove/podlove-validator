@@ -1,8 +1,8 @@
 {
-    "name": "poodle",
-    "version": "0.0.1",
+    "name": "podlove-validator",
+    "version": "0.0.2",
     "authors": [
-        "lasse"
+        "Lars Windauer"
     ],
     "license": "MIT",
     "ignore": [
@@ -13,11 +13,11 @@
         "tests"
     ],
     "dependencies": {
-        "bootstrap": ">= 3.1.1",
-        "font-awesome": ">= 4.0.3",
-        "animate.css": ">= 3.1.0",
-        "snap.svg": ">= 0.2.0",
-        "jquery": "~2.1.1"
+        "bootstrap": ">= 3.3.4",
+        "font-awesome": ">= 4.3.0",
+        "animate.css": ">= 3.2.6",
+        "snap.svg": ">= 0.4.1",
+        "jquery": "~2.1.3"
     }
 
 }
