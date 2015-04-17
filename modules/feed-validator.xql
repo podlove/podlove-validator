@@ -7,7 +7,38 @@ import module namespace fp="http://podlove.org/podlove-validator/feedparser" at 
 
 declare namespace svrl="http://purl.oclc.org/dsdl/svrl";
 
+
+
 declare option exist:serialize "method=json media-type=text/javascript";
+
+declare variable $local:template-doc := doc($config:app-root || "/data/template/template.xml");
+
+declare function local:create-error-message($template-id as xs:string*,$message as xs:string, $test-expr as xs:string*, $context as xs:string*){
+    let $template := $local:template-doc//template[@id = $template-id]
+    return 
+        if(exists($template))
+        then (
+            element {"template"} {
+                attribute { "test" } {$test-expr},
+                attribute { "location" } {$context},
+                $template/@*,
+                $template/*,
+                <info>{normalize-space(substring-after($message,"#" || $template-id))}</info>
+            }
+        )
+        else if(exists($test-expr)) then(
+            <template test="{$test-expr}" location="{$context}">
+                <message type="warning" lang="en">{$message}</message>
+            </template> 
+        )else (
+            <template test="" location="">
+                <message type="warning" lang="en">{$message}</message>
+            </template> 
+        )
+        
+    
+};
+
 
 declare function local:validate-feed($feedPath){
     let $feeddoc := doc($feedPath)
@@ -23,40 +54,30 @@ declare function local:validate-feed($feedPath){
     let $parser-errors := $parser-result//error
     let $parser-infos := $parser-result//info
     
-    let $template-doc := doc($config:app-root || "/data/template/template.xml")
+    
     return
         <result>
             {(
-                (<parser>{
-                            $parser-errors (:, $parser-infos :)
-                }</parser>),
+                
+                for $error in $parser-errors
+                    return 
+                      local:create-error-message((), $error/text(),(),())  
+                ,
 
                 for $error in $schematron-report//svrl:failed-assert
                     
                     let $id := substring-after(fn:tokenize($error//svrl:text/text(),"\s")[1],"#")
+                    let $message := $error/svrl:text/text()
+                    let $test-exp := $error/@test
                     let $error-location := if(contains($error/@location,"/rss"))
                                             then ("/rss" || substring-after($error/@location,"/rss")) 
                                             else (data($error/@location))
                     
-                    let $template := $template-doc//template[@id = $id]
+                    
                     return 
-                        if(exists($template))
-                        then (
-                            let $template := $template-doc//template[@id = $id]
-                            return 
-                                element {name($template)} {
-                                    attribute { "test" } {$error/@test},
-                                    attribute { "location" } {$error-location},
-                                    $template/@*,
-                                    $template/*,
-                                    <info>{normalize-space(substring-after($error//svrl:text/text(),"#" || $id))}</info>
-                                }
-                        )
-                        else (
-                            <template test="{$error/@test}" location="{$error-location}">
-                                <message>{$error/svrl:text/text()}</message>
-                            </template> 
-                        )
+                        local:create-error-message($id, $message,$test-exp,$error-location)
+                    
+
             )}
         </result>
 };
