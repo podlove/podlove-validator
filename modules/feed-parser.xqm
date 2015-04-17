@@ -1,7 +1,7 @@
 xquery version "3.0";
 
 module namespace fp="http://podlove.org/podlove-validator/feedparser";
-import module namespace imageanalyzer="http://exist-db.org/xquery/imageanalyzer" at "java:org.exist.xquery.modules.imageanalyzer.ImageAnalyzerModule";
+import module namespace podlove="http://podlove.org/ns/PodloveModule" at "java:org.podlove.PodloveModule";
 
 declare variable $fp:ATOM-HANDLER :=
     map {
@@ -181,7 +181,7 @@ declare function fp:itunes-email($item as item()*){
 };
 declare function fp:itunes-image($item as item()*){
     let $url := $item/@href
-    let $analyzed-image := imageanalyzer:analyze(xs:anyURI($url))
+    let $analyzed-image := podlove:analyze(xs:anyURI($url))
     let $mime-type := data($analyzed-image/@mimeType)
     let $width := number(data($analyzed-image/@width))
     let $height := number(data($analyzed-image/@height))

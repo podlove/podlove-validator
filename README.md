@@ -5,7 +5,10 @@
 
 ## Installation
 
-For developing with Poodle you need nodeJs. Please refer to their homepage for OS-specific installers.
+To develop the podlove-validator you will need  eXistdb and nodeJs. Please refer to their homepage for OS-specific installers.
+
+#### 0. Install eXistdb
+* see https://www.youtube.com/watch?v=xvMau2aHRDo and http://exist-db.org/exist/apps/doc/quickstart.xml. Get eXistdb at http://exist-db.org
 
 All commands have to be executed in the root of your project.
 
