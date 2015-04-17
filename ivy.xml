@@ -1,5 +1,5 @@
 <ivy-module version="2.0">
-    <info organisation="org.podlove" module="httpmodule.xq"/>
+    <info organisation="org.podlove" module="podlovemodule.xq"/>
     <configurations>
         <conf name="compile" description="Jars which are need at compile time"/>
         <conf name="runtime" description="Jars which are need at runtime"/>

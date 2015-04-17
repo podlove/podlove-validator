@@ -15,24 +15,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/dev/exist/exist-git/exist.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/dev/exist/exist-git/lib/extensions/exist-modules.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="jar://$USER_HOME$/dev/exist/exist-git/lib/optional/commons-httpclient-3.1.jar!/" />
         </CLASSES>
         <JAVADOC />
@@ -40,6 +22,24 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="podlove-validator node_modules" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Applications/eXist-db-2.2.0-LTS.app/Contents/Resources/eXist-db/exist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar:///Applications/eXist-db-2.2.0-LTS.app/Contents/Resources/eXist-db/lib/extensions/exist-modules.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
 

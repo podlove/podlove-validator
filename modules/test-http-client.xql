@@ -1,6 +1,6 @@
 xquery version "3.0";
 
-import module namespace podlove="http://podlove.org/ns/HttpModule" at "java:org.podlove.HttpModule";
+import module namespace podlove="http://podlove.org/ns/PodloveModule" at "java:org.podlove.PodloveModule";
 import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 
 (: URI of the REST interface of eXist instance :)

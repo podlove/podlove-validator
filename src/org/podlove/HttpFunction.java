@@ -20,7 +20,7 @@ public class HttpFunction extends BaseHTTPClientFunction {
     protected static final FunctionParameterSequenceType HTTP_PARAM = new FunctionParameterSequenceType( "http-params", Type.ELEMENT, Cardinality.ZERO_OR_ONE, "Any HTTP Params" );
 
     public final static FunctionSignature signature = new FunctionSignature(
-            new QName( "head", HttpModule.NAMESPACE_URI, HttpModule.PREFIX ),
+            new QName( "head", PodloveModule.NAMESPACE_URI, PodloveModule.PREFIX ),
             "Performs a HTTP HEAD request." + " This method returns the HTTP response encoded as an XML fragment, that looks as follows: <httpclient:response  xmlns:httpclient=\"http://exist-db.org/xquery/httpclient\" statusCode=\"200\"><httpclient:headers><httpclient:header name=\"name\" value=\"value\"/>...</httpclient:headers></httpclient:response>",
             new SequenceType[] {
                     URI_PARAM, PERSIST_PARAM, REQUEST_HEADER_PARAM,HTTP_PARAM

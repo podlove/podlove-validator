@@ -9,18 +9,19 @@ import java.util.Map;
 /**
  * Created by windauer on 14.04.15.
  */
-public class HttpModule extends AbstractInternalModule {
+public class PodloveModule extends AbstractInternalModule {
 
-    public final static String NAMESPACE_URI = "http://podlove.org/ns/HttpModule";
+    public final static String NAMESPACE_URI = "http://podlove.org/ns/PodloveModule";
     public final static String PREFIX = "podlove";
     public final static String DESCRIPTION = "A module for performing http head request with 'followRedirect=false'";
     public final static String RELEASED_IN_VERSION = "eXist-2.2";
 
     private final static FunctionDef[] functions = {
             new FunctionDef(HttpFunction.signature, HttpFunction.class),
+            new FunctionDef(ImageAnalyzerFunction.signature, ImageAnalyzerFunction.class)
     };
 
-    public HttpModule(Map<String, List<? extends Object>> parameters) {
+    public PodloveModule(Map<String, List<? extends Object>> parameters) {
         super(functions, parameters);
     }
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="imagemagick.xq" id="imagemagick.xq" default="xar" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
-    <property name="app.name" value="httpmodule"/>
-    <property name="app.version" value="0.1"/>
+    <property name="module.app.name" value="podlovemodule"/>
+    <property name="module.app.version" value="0.1"/>
 
     <target name="resolve" description="Use ivy to resolve classpaths">
         <ivy:resolve/>
@@ -21,7 +21,7 @@
             <classpath refid="default.classpath" />
         </javac>
 
-        <jar destfile="content/${app.name}-${app.version}.jar"
+        <jar destfile="content/${module.app.name}-${module.app.version}.jar"
              basedir="build/classes"
              excludes="**/Test.class"
                 />
@@ -29,5 +29,7 @@
 
     <target name="clean">
         <delete dir="build"/>
+        <delete dir="dist"/>
+        <delete dir="content"/>
     </target>
 </project>

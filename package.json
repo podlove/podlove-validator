@@ -1,6 +1,6 @@
 {
   "name": "podlove-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "url":"http://podlove.org/podlove-validator",
   "description": "The Podlove Validator",
   "main": "resources/js/app.js",
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lasse",
+  "author": "Lars Windauer",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.4",
