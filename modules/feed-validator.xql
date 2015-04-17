@@ -7,8 +7,6 @@ import module namespace fp="http://podlove.org/podlove-validator/feedparser" at 
 
 declare namespace svrl="http://purl.oclc.org/dsdl/svrl";
 
-
-
 declare option exist:serialize "method=json media-type=text/javascript";
 
 declare function local:validate-feed($feedPath){

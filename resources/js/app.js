@@ -63,22 +63,4 @@ jQuery(document).ready(function() {
         // });
     });
 
-    $( "#update-feeds" ).click(function() {
-        console.log("executing updates-feeds");
-        $(mediaBody).append("<p>Location:" + tmpl.location+ "</p>");
-        var jqxhr = $.ajax({
-            type: "POST",
-            dataType: "json",
-            url: "modules/feed.xql"
-        }).done(function(data) {
-            displayResult(data)
-        })
-        .fail(function(error) {
-                console.log( "fail error:'",error,"'");
-        })
-        .always(function(data) {
-            // console.log( ".always data: '", data, "'" );
-        });
-    });
-
 });
