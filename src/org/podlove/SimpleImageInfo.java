@@ -1,5 +1,4 @@
 /*
- *	org.exist.xquery.modules.imageanalyzer.SimpleImageInfo.java
  *
  *	@version 0.1
  *	@author  Jaimon Mathew <http://www.jaimon.co.uk>

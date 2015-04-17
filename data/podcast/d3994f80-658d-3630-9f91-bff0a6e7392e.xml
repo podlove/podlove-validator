@@ -2,15 +2,15 @@
 <httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
     <httpclient:headers>
         <httpclient:header name="Server" value="nginx/1.6.2"/>
-        <httpclient:header name="Date" value="Thu, 16 Apr 2015 19:57:57 GMT"/>
+        <httpclient:header name="Date" value="Fri, 17 Apr 2015 13:32:44 GMT"/>
         <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
         <httpclient:header name="Transfer-Encoding" value="chunked"/>
         <httpclient:header name="Connection" value="keep-alive"/>
         <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.14"/>
         <httpclient:header name="X-Pingback" value="http://www.wrint.de/xmlrpc.php"/>
-        <httpclient:header name="Last-Modified" value="Thu, 09 Apr 2015 11:11:50 GMT"/>
-        <httpclient:header name="X-Varnish" value="670802398 670802151"/>
-        <httpclient:header name="Age" value="66"/>
+        <httpclient:header name="Last-Modified" value="Fri, 17 Apr 2015 07:22:37 GMT"/>
+        <httpclient:header name="X-Varnish" value="671015501 671015294"/>
+        <httpclient:header name="Age" value="52"/>
         <httpclient:header name="Via" value="1.1 varnish"/>
         <httpclient:header name="X-Cache" value="HIT"/>
     </httpclient:headers>
@@ -21,7 +21,7 @@
                 <atom:link href="http://www.wrint.de/category/fotografie/feed/" rel="self" type="application/rss+xml"/>
                 <link>http://www.wrint.de/category/fotografie/</link>
                 <description>Wer redet ist nicht tot</description>
-                <lastBuildDate>Thu, 09 Apr 2015 11:11:50 +0000</lastBuildDate>
+                <lastBuildDate>Fri, 17 Apr 2015 07:22:37 +0000</lastBuildDate>
                 <language>de-DE</language>
                 <sy:updatePeriod>hourly</sy:updatePeriod>
                 <sy:updateFrequency>1</sy:updateFrequency>
