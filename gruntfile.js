@@ -111,7 +111,7 @@ module.exports = function (grunt) {
                                 'templates/**',
                                 'content/**',
                                 'test/**',
-                                '*.xconf','*.xql', '*.xml', '*.txt', '*.ico', '*.html'
+                                '*.xconf','*.xql', '*.xml', '*.txt', '*.ico', '*.html','*.jpg','*.png'
                         ],
                         dest: 'dist/'},
                     {expand: true,
@@ -269,10 +269,14 @@ module.exports = function (grunt) {
         zip: {
             xar: {
                 src: [
-                    'collection.xconf',
+                    '*.xconf',
                     '*.xml',
                     '*.xql',
                     '*.html',
+                    '*.txt',
+                    '*.ico',
+                    '*.jpg',
+                    '*.png',
                     'content/**',
                     'data/**',
                     'docs/**',
