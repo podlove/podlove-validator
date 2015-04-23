@@ -64,9 +64,25 @@
             <assert test="enclosure/@type">#i-enclosure-type</assert>
             
             <!-- ITUNES -->
-            <let name="duration" value="itunes:duration"/>
             <assert test="itunes:duration">#i-itunes-duration</assert>
-            <assert test="string-length(itunes:duration) = 7 or string-length(itunes:duration) = 8">#i-itunes-duration-length <value-of select="itunes:duration"/>
+
+            <let name="durations" value="tokenize(itunes:duration,':')"/>
+            <let name="duration-1" value="$durations[1]"/>
+            <let name="duration-2" value="$durations[2]"/>
+            <let name="duration-3" value="$durations[3]"/>
+            <assert test="
+                if(exists($duration-3) and xs:integer($duration-3)) then(
+                    (   xs:integer($duration-3) ge 0 and xs:integer($duration-3) le 60 and
+                        xs:integer($duration-2) ge 0 and xs:integer($duration-2) le 60 and
+                        xs:integer($duration-1) ge 0)
+                ) else if(exists($duration-2) and xs:integer($duration-2)) then(
+                    (   xs:integer($duration-2) ge 0 and xs:integer($duration-2) le 60 and
+                        xs:integer($duration-1) ge 0 and xs:integer($duration-1) le 60)
+                ) else if($duration-1 and xs:integer($duration-1)) then(
+                    (   xs:integer($duration-1) ge 0)
+                ) else (
+                    false()
+                )">#i-itunes-duration-length <value-of select="$duration"/>
             </assert>
             <assert test="itunes:subtitle">#i-itunes-subtitle</assert>
             <assert test="string-length(itunes:subtitle) &gt; 1">#i-itunes-subtitle-length <value-of select="title"/>
