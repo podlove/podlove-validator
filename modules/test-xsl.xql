@@ -21,7 +21,7 @@ declare namespace dsdl="http://www.schematron.com/namespace/dsdl";
 declare option exist:serialize "method=html media-type=text/html";
 
 
-let $feed := doc($config:app-root || "/test/nsfw1.xml")
+let $feed := doc($config:app-root || "/data/podcast/bba893d1-fa4c-337b-93ae-1f4258d1ecb7.xml")
 
 return 
   (: transform:transform($grammar, $dsdl-01-include, $params):)

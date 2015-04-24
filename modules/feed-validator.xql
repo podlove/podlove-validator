@@ -21,17 +21,18 @@ declare function local:create-error-message($template-id as xs:string*,$message 
             element {"template"} {
                 attribute { "test" } {$test-expr},
                 attribute { "location" } {$context},
+                attribute { "template-id"} {$template-id},
                 $template/@*,
                 $template/*,
                 <info>{normalize-space(substring-after($message,"#" || $template-id))}</info>
             }
         )
         else if(exists($test-expr)) then(
-            <template test="{$test-expr}" location="{$context}">
+            <template test="{$test-expr}" location="{$context}" template-id="{$template-id}">
                 <message type="warning" lang="en">{$message}</message>
             </template> 
         )else (
-            <template test="" location="">
+            <template location="{$context}" template-id="{$template-id}">
                 <message type="warning" lang="en">{$message}</message>
             </template> 
         )
@@ -40,8 +41,8 @@ declare function local:create-error-message($template-id as xs:string*,$message 
 };
 
 
-declare function local:validate-feed($feedPath){
-    let $feeddoc := doc($feedPath)
+declare function local:validate-feed($feed-url, $feed-db-path){
+    let $feeddoc := doc($feed-db-path)
     let $feed := if(exists($feeddoc//httpclient:body)) 
                     then ($feeddoc//httpclient:body/*)
                     else ($feeddoc)
@@ -56,12 +57,14 @@ declare function local:validate-feed($feedPath){
     
     
     return
-        <result>
+        <result feed-url="{$feed-url}" url="{$feed-db-path}">
             {(
                 
                 for $error in $parser-errors
                     return 
-                      local:create-error-message((), $error/text(),(),())  
+                        
+                      (:local:create-error-message((), $error/text(),(),())  :)
+                      ()
                 ,
 
                 for $error in $schematron-report//svrl:failed-assert
@@ -84,22 +87,23 @@ declare function local:validate-feed($feedPath){
 
 
 (:
- let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
- let $test-url := "http://freakshow.fm/feed/m4a/"
+let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
+let $test-url := "http://freakshow.fm/feed/m4a/"
 let $test-url := "http://chaosradio.ccc.de/chaosradio-latest.rss/" 
- :)
+let $test-url := "http://logbuch-netzpolitik.de/feed/m4a" 
+:)
 
- let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
+let $test-url := "http://www.wrint.de/category/fotografie/feed/" 
 let $inputURL := request:get-parameter("feedURL", $test-url)
 let $log-in := xmldb:login($config:app-root, $config:user-name, $config:user-pwd)
 
-let $feedURL := $inputURL cast as xs:anyURI
-let $feedPath := feed:store-feed(xs:anyURI($feedURL))
+let $feed-url := $inputURL cast as xs:anyURI
+let $feed-db-path := feed:store-feed(xs:anyURI($feed-url))
 return 
     (
-        if($feedPath)
+        if($feed-db-path)
         then (
-            local:validate-feed($feedPath)
+            local:validate-feed($feed-url, $feed-db-path)
         )
         else (
             <result>

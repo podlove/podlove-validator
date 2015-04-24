@@ -1,25 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <template id="r-rss">
+        <message type="error" lang="en">At the top level, a RSS document is a rss element, with a mandatory attribute called version, that specifies the version of RSS that the document conforms to. If it conforms to this specification, the version attribute must be 2.0.</message>
+    </template>
+    <template id="r-version">
+        <message type="error" lang="en">The mandatory attribute called @version, that specifies the version of RSS that the document conforms to, is missing. The version attribute must be 2.0.</message>
+    </template>
+    <template id="r-wrong-version">
+        <message type="error" lang="en">The specified rss version is not supported by the podlove-validator</message>
+    </template>
+    <template id="c-channel">
+        <message type="error" lang="en">The rss element must not have more than one channel child elements</message>
+    </template>
     <template id="c-title">
-        <message type="error" lang="en">title element is missing for 'rss/channel'</message>
-        <template>
-            <copyright/>
-        </template>
+        <message type="error" lang="en" title="Missing Podcast Name">The rss title element is missing for the channel. It's how people refer to your service. The title of your channel should be same as the title of your podcast. </message>
     </template>
     <template id="c-link">
-        <message type="error" lang="en">link element is missing for 'rss/channel'</message>
+        <message type="error" lang="en" title="Missing Podcast URL">The URL to the podcast corresponding to the channel is missing.</message>
     </template>
     <template id="c-description">
-        <message type="error" lang="en">description element is missing for 'rss/channel'</message>
+        <message type="error" lang="en" title="Missing Podcast Description">Podcast description element is missing in 'rss/channel'</message>
     </template>
     <template id="c-language">
-        <message type="warning" lang="en">language element is missing for 'rss/channel'</message>
+        <message type="warning" required="no" lang="en">The language the channel is written in. This allows aggregators to group all Italian language sites, for example, on a single page. A list of allowable values can be found in the links.</message>
+        <link type="reference" href="https://www.apple.com/itunes/podcasts/specs.html#language">@itunes</link>
     </template>
     <template id="c-language-invalid">
-        <message type="warning" lang="en">choosen language is invalid</message>
+        <message type="warning" lang="en">The choosen language is invalid. </message>
+        <link type="reference" href="https://www.apple.com/itunes/podcasts/specs.html#language">@itunes</link>
+        <link type="reference" href="http://www.loc.gov/standards/iso639-2/php/code_list.php">iso639-2 code list</link>
+        <link type="reference" href="http://www.w3.org/TR/REC-html40/struct/dirlang.html#langcodes">w3c language codes</link>
     </template>
     <template id="c-atom-link">
-        <message type="error" lang="en">atom-link element is missing for 'rss/channel'</message>
+        <message type="warn" lang="en">atom-link element is missing for 'rss/channel'</message>
     </template>
     <template id="c-generator">
         <message type="hint" lang="en">generator element is missing for 'rss/channel'</message>
@@ -31,9 +44,9 @@
         <message type="hint" lang="en">atom-link element with attribute @rel = 'hub' is missing for 'rss/channel'</message>
     </template>
     <template id="c-copyright">
-        <message type="hint" lang="en">copyright element is missing for 'rss/channel'</message>
+        <message type="hint" lang="en" title="Missing copyright">The copyright notice for the podcast is missing.</message>
         <template>
-            <copyright/>
+            <copyright>© 2015 Podlove</copyright>
         </template>
     </template>
     <template id="c-itunes-summary">
@@ -58,7 +71,11 @@
         </template>
     </template>
     <template id="c-itunes-block">
-        <message type="warning" lang="en">itunes-block element is missing for 'rss/channel'</message>
+        <message type="warning" lang="en">If the itunes:block tag is present and populated with the “yes” value inside a channel (podcast) element, it will prevent the entire podcast from appearing in the iTunes Store podcast directory.
+
+If the itunes:block tag is present and populated with the “yes” value inside an item (episode) element, it will prevent that episode from appearing in the iTunes Store podcast directory. For example, you may want to block a specific episode if you know that its content would otherwise cause the entire podcast to be removed from the iTunes Store.
+
+If the itunes:block tag is populated with any other value, it will have no effect.</message>
     </template>
     <template id="c-itunes-explicit">
         <message type="warning" lang="en">itunes-explicit element is missing for 'rss/channel'</message>
@@ -100,16 +117,20 @@
         <message type="warning" lang="en">itunes-duration  is missing for 'rss/channel/item'</message>
     </template>
     <template id="i-itunes-duration-length">
-        <message type="hint" lang="en">wrong itunes:duration length</message>
+        <message type="hint" lang="en" title="wrong itunes:duration length">
+            The content of the itunes:duration tag is shown in the Time column in the List View on iTunes.
+
+The value provided for this tag can be formatted as HH:MM:SS, H:MM:SS, MM:SS, or M:SS, where H = hours, M = minutes, S = seconds. If a single number is provided as a value (no colons are used), the value is assumed to be in seconds. If one colon is present, the number to the left is assumed to be minutes, and the number to the right is assumed to be seconds. If more than two colons are present, the numbers farthest to the right are ignored.
+        </message>
     </template>
     <template id="i-itunes-subtitle">
-        <message type="hint" lang="en">itunes:subtitle  is missing for 'rss/channel/item'</message>
+        <message type="warn" lang="en" element="itunes:subtitle" title="itunes:subtitle element is missing">The contents of the item itunes:subtitle tag are displayed in the Description column in iTunes. For best results, choose a subtitle that is only a few words long.</message>
     </template>
-    <template id="i-itunes-subtitle-length">
-        <message type="hint" lang="en">item has empty itunes:subtitle</message>
+    <template id="i-itunes-subtitle-length-warning">
+        <message type="warn" lang="en" element="itunes:subtitle" title="itunes:subtitle missing for episode">The contents of the itunes:subtitle tag are displayed in the Description column of each item in iTunes. For best results, choose a subtitle that is only a few words long.</message>
     </template>
     <template id="i-itunes-summary">
-        <message type="warning" lang="en">itunes:summary  is missing for 'rss/channel/item'</message>
+        <message type="warning" lang="en">The contents of the itunes:summary tag are shown on the iTunes Store page for your podcast. The information also appears in a separate window if the information (“i”) icon in the Description column is clicked. This field can be up to 4000 characters. If a itunes:summary tag is not included, the contents of the description tag are used.</message>
     </template>
     <template id="i-itunes-summary-length">
         <message type="warning" lang="en">something about summary length</message>
