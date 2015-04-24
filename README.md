@@ -1,30 +1,27 @@
-#poodle
+#Podlove Podcast Validator
 
-## The poodles core
-...
-
+The Podlove Podcast Validator is a research project to validate RSS 2.0 podcast feeds. If you are interested in joining contact the contributors, helping hands are welcome. 
+ 
 ## Installation
+WARNING: Currently there is no Podlove Application (.xar) file available. You need to follow the Installation and(!) Development steps to run the podlove-validator
+ 
+To get started you need [eXistdb](http://exist-db.org).
+[Download]((http://www.exist-db.org/exist/apps/homepage/index.html#download)) it and [read the quickstart guide](http://exist-db.org/exist/apps/doc/quickstart.xml) or [watch this video](https://www.youtube.com/watch?v=xvMau2aHRDo).
 
-To develop the podlove-validator you will need  eXistdb and nodeJs. Please refer to their homepage for OS-specific installers.
+  
+ 
+## Development
+To develop the podlove-validator you will need Java > version 8 and nodeJs > version 0.10.x . Please refer to their homepage for OS-specific installers.
 
-#### 0. Install eXistdb
-* see https://www.youtube.com/watch?v=xvMau2aHRDo and http://exist-db.org/exist/apps/doc/quickstart.xml. Get eXistdb at http://exist-db.org
+All commands have to be executed in the root of the podlove-validator project.
 
-All commands have to be executed in the root of your project.
 
-#### 1. install nodeJS
-Refer to their homepage for a OS-specific installer for your system.
-
-#### 2. initialize Grunt
+#### 1. install build dependencies via npm
 
 ** Note: **
-Grunt will install all tools needed for development - runtime dependencies of your website or app will be handled by bower (see below).
-
-Run in the root directory of your workspace:
-
 * `(sudo) npm install -g grunt-cli` 
 * `(sudo) npm install -g bower` 
-* `(sudo) npm install` 
+* `npm install` 
 
 sudo might be needed on some systems like OSX. This will download and setup the development listed in your `package.json` file. As a result you'll get a folder 'node_modules' being created.
 
@@ -32,7 +29,7 @@ Note:
 watch your console for errors during `npm install` to ensure you get a working installation. Sometimes administrator rights are needed for a correct install.
 
 
-#### 3. initialize Bower
+#### 2. install external libraries via bower
 
 Bower manages the components your website or app uses.
 
@@ -43,6 +40,17 @@ Run:
 This will download the dependencies listed in bower.json - typically the components your website is made of like bootstrap and jquery. After completion you'll find a folder named 'components' in the root of your app.
 
 NOTE: if for some reason your grunt tasks are not working as expected it sometimes helps to completely re-install all libs listed in package.json. For this delete your 'node_modules' directory and run `npm install` again.
+
+#### 3. create podlove-validator.xar
+Run: 
+
+`grunt`
+
+This will create a development version of the podlove-validator and package it as .xar file in the build/ direcotry.  
+
+#### 4 install podlove-validator.xar in eXistdb
+If you have setup eXistdb and managed to get it run, open the [eXistdb Dashboard](http://localhost:8080/exist/apps/dashboard/index.html) to install the podlove-validator.xar via the "Package Manager". 
+New application are installed, by clicking the + icon in the upper left of the package manager view.
 
 
 ## Grunt command reference
@@ -59,6 +67,7 @@ Task | Description |
 If you are seeking detail information about the single targets please refer to `gruntfile.js` for inline documentation.
 
 ## Customization
+WARNING: Customization are not fully functional yet
 
 ### Optimizing JavaScript
 
