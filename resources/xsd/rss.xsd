@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:atom="http://www.w3.org/2005/Atom"
+           xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+           targetNamespace="http://podlove.org/podcast">
+
+    <xs:element name="rss">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="channel" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string" minOccurs="1" maxOccurs="1" nillable="false"/>
+                            <xs:element name="description" type="xs:string" minOccurs="1" maxOccurs="1"
+                                        nillable="true"/>
+                            <xs:element ref="atom:link" minOccurs="0" maxOccurs="unbounded"/>
+                            <xs:element name="author" type="authorType" minOccurs="0" maxOccurs="1"/>
+                            <xs:element name="item" type="itemType" minOccurs="0" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="version"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="authorType">
+        <xs:sequence>
+            <xs:element ref="itunes:author"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="itemType">
+        <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="author" type="authorType"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+

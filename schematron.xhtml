@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:st="http://purl.oclc.org/dsdl/schematron" xmlns:bf="http://betterform.sourceforge.net/xforms" xmlns:iso="http://purl.oclc.org/dsdl/schematron" xmlns:xf="http://www.w3.org/2002/xforms" lang="en" bf:evalAVTs="class">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <meta charset="utf-8"/>
+        <title>Schematron Editor</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta name="description" content="eXist Solutions Long Term Support (LTS) and Service Level Agreement (SLA) order form"/>
+        <meta name="author" content="Lars Windauer"/>
+        <meta name="robots" content="index, follow"/>
+
+        <!-- build:template
+        <%= minifiedCss %>
+        /build -->
+
+
+        <!-- build:remove -->
+        <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet"/>
+        <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet"/>
+        <link href="bower_components/animate.css/animate.min.css" rel="stylesheet"/>
+        <link href="resources/css/styles.css" rel="stylesheet"/>
+        <!-- /build -->
+    </head>
+    <body>
+        <div style="display:none">
+            <xf:model>
+                <xf:instance xmlns="" id="i-default" src="resources/schematron/podlove.xml"/>
+            </xf:model>
+        </div>
+        <div class="container">
+            <h1>tut</h1>
+            <xf:input ref="st:pattern/@name">
+                <xf:label>input</xf:label>
+            </xf:input>
+            <xf:repeat id="rules" nodeset="st:pattern/st:rule">
+                <xf:output ref="@context">
+                    <xf:label>Rule Context:</xf:label>
+                </xf:output>
+                <xf:repeat id="asserts" nodeset="st:assert|st:let">
+                    <xf:group appearance="minimal">
+                        <!--xf:output value="concat('name:', @name, ' value: ', @value)">
+                            <xf:label>Let:</xf:label>
+                        </xf:output-->
+                        <xf:output ref="@test">
+                            <xf:label>Assert:</xf:label>
+                        </xf:output>
+                        <xf:output ref=".">
+                            <xf:label>Template:</xf:label>
+                        </xf:output>
+                    </xf:group>
+                </xf:repeat>
+            </xf:repeat>
+        </div>
+        <footer>
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12">
+                        <span>© Podlove 2015</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+        <!-- Le javascript
+        ================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <!-- build:js js/exist.min.js -->
+        <script src="bower_components/jquery/dist/jquery.min.js" type="text/javascript"/>
+        <script src="bower_components/bootstrap/dist/js/bootstrap.min.js" type="text/javascript"/>
+        <!-- /build -->
+    </body>
+</html>

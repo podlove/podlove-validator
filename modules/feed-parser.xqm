@@ -226,7 +226,7 @@ declare function fp:parse-rss($xml, $config){
                     fp:parse-rss($node/*, $config)
                 )else (
                     (
-                        <error>no function for elment '{$fn-name}'</error>,
+                        <error type="unknown element">{$fn-name}</error>,
                         if(exists($node/*)) then (
                             fp:parse-rss($node/*,$config)
                         ) else ()
