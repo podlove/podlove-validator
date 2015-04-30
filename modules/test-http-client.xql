@@ -6,22 +6,17 @@ import module namespace httpclient="http://exist-db.org/xquery/httpclient";
 (: URI of the REST interface of eXist instance :)
 
 
-declare function local:resolve($url as xs:anyURI, $result) {
-    let $options := <headers></headers>
-    let $params := <headers></headers>
-    let $response := podlove:head($url, false(), $options, $params)
-    let $statusCode := $response/@statusCode
+declare function local:http-head($url as xs:anyURI, $persist as xs:boolean, $options as item(), $result) {
+    let $response := podlove:http-head($url, $persist, $options)
+    let $statusCode as xs:double := number($response/@statusCode)
+    let $location := $response//httpclient:header[@name = 'Location']
     return 
-    if($statusCode = 200)
-        then (
-            $result,$response
-        )
-    else if($statusCode = 301)
-        then (
-            local:resolve(xs:anyURI($response//httpclient:header[@name = 'Location']/@value), $response)
-            
-    )else( 
-        <error>{$statusCode}</error>
+    if( $statusCode = 200 ) 
+        then ( $result, $response)
+    else if( $statusCode = 301 or $statusCode = 302 or $statusCode = 303 or $statusCode = 307)
+        then (local:http-head( xs:anyURI($location/@value), $persist, $options, $response )
+    )else ( 
+        <error statusCode="{$statusCode}" url="{$url}">{$response}</error>
     )
 };
 
@@ -38,6 +33,7 @@ declare function local:check-itunes-image($url as xs:anyURI) {
             "error retreiving picture to analyze! Status Code: " || $statusCode
         )
 };
-
-local:resolve(xs:anyURI("http://feedproxy.google.com/~r/mobile-macs-podcast/~3/Ekp8qQMF7j8/fs142-prime-directive"),())
+let $url := xs:anyURI("http://feedproxy.google.com/~r/mobile-macs-podcast/~3/Ekp8qQMF7j8/fs142-prime-directive")
+return 
+    local:http-head($url, false(), <headers/>,())
 
