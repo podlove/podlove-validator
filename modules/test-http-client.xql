@@ -18,13 +18,11 @@ declare function local:resolve($url as xs:anyURI, $result) {
         )
     else if($statusCode = 301)
         then (
-            local:resolve(xs:anyURI(data($response//httpclient:header[@name = 'Location']/@value)), $response)
+            local:resolve(xs:anyURI($response//httpclient:header[@name = 'Location']/@value), $response)
             
     )else( 
         <error>{$statusCode}</error>
-            
     )
-    
 };
 
 declare function local:check-itunes-image($url as xs:anyURI) {

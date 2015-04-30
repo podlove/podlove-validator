@@ -144,4 +144,16 @@ The value provided for this tag can be formatted as HH:MM:SS, H:MM:SS, MM:SS, or
     <template id="i-itunes-author-length">
         <message type="error" lang="en">itunes:author length is missing for 'rss/channel/item'</message>
     </template>
+    <template id="#itunes-image-width-length">
+        <message type="error" lang="en">itunes:image width must be between 1400 and 3000 pixels</message>
+    </template>
+    <template id="#itunes-image-height-length">
+        <message type="error" lang="en">itunes:image height must be between 1400 and 3000 pixels</message>
+    </template>
+    <template id="#itunes-image-width-unequal-height">
+        <message type="error" lang="en">itunes:image width must be the same as height</message>
+    </template>
+    <template id="#itunes-image-mime-type">
+        <message type="error" lang="en">itunes:image has the wrong mime-type. Must be png or jpg</message>
+    </template>
 </rss>

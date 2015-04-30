@@ -13,7 +13,7 @@ declare option exist:serialize "method=json media-type=text/javascript";
 
 declare variable $local:template-doc := doc($config:app-root || "/data/template/template.xml");
 
-declare function local:create-error-message($template-id as xs:string*,$message as xs:string, $test-expr as xs:string*, $context as xs:string*){
+declare function local:create-error-message($template-id as xs:string*,$message as xs:string*, $test-expr as xs:string*, $context as xs:string*){
     let $template := $local:template-doc//template[@id = $template-id]
     return 
         if(exists($template))
@@ -23,8 +23,7 @@ declare function local:create-error-message($template-id as xs:string*,$message 
                 attribute { "location" } {$context},
                 attribute { "template-id"} {$template-id},
                 $template/@*,
-                $template/*,
-                <info>{normalize-space(substring-after($message,"#" || $template-id))}</info>
+                $template/*
             }
         )
         else if(exists($test-expr)) then(
@@ -63,12 +62,9 @@ declare function local:validate-feed($feed-url, $feed-db-path){
                 for $error in $parser-errors
                     return 
                         
-                      (:local:create-error-message((), $error/text(),(),())  :)
-                      ()
+                      local:create-error-message($error/@template-id, $error/text(),$error/@test,$error/@location) 
                 ,
-
                 for $error in $schematron-report//svrl:failed-assert
-                    
                     let $id := substring-after(fn:tokenize($error//svrl:text/text(),"\s")[1],"#")
                     let $message := $error/svrl:text/text()
                     let $test-exp := $error/@test
@@ -79,8 +75,6 @@ declare function local:validate-feed($feed-url, $feed-db-path){
                     
                     return 
                         local:create-error-message($id, $message,$test-exp,$error-location)
-                    
-
             )}
         </result>
 };

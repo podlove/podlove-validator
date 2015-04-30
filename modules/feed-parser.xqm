@@ -179,18 +179,40 @@ declare function fp:itunes-name($item as item()*){
 declare function fp:itunes-email($item as item()*){
     <info>element 'itunes-email' is fine</info>
 };
+
+
 declare function fp:itunes-image($item as item()*){
-    let $url := $item/@href
+    let $url := data($item/@href)
+    let $xpath := util:node-xpath($item)
     let $analyzed-image := podlove:analyze(xs:anyURI($url))
     let $mime-type := data($analyzed-image/@mimeType)
     let $width := number(data($analyzed-image/@width))
     let $height := number(data($analyzed-image/@height))
-    let $error := ""
-
-    return 
-        <info>element 'itunes:image' is fine {$mime-type} {$width} {$height}</info>
-    
+    let $messages := (
+            if($width lt 1400 or $width gt 3000) 
+                then ( "#itunes-image-width-length" ) 
+                else (),
+            if($height lt 1400 or $height gt 3000) 
+                then ( "#itunes-image-height-length" ) 
+                else (),
+            if($width ne $height) 
+                then ( "#itunes-image-width-unequal-height" ) 
+                else (),
+            if(not( contains($mime-type,"png") or 
+                    contains($mime-type,"jpg") or 
+                    contains($mime-type,"jpeg")))
+                then ("#itunes-image-mime-type") 
+                else()
+        )
+    for $message in $messages 
+        return 
+            <error  template-id="{$message}" 
+                    location="item-{$item/position()}" 
+                    xpath="{$xpath}"/>
 };
+
+
+
 declare function fp:itunes-explicit($item as item()*){
     <info>element 'itunes:explicit' is fine</info>
 };
