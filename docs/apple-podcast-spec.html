@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		
+	<meta charset="utf-8">
+	<meta name="Author" content="Apple Inc.">
+	<meta name="viewport" content="width=1024">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7, IE=9">
+	<link rel="stylesheet" href="apple-podcast-spec_files/globalheader.css" type="text/css">
+
+	<title>Apple - iTunes - Podcasts - Making a Podcast</title>
+	<meta name="omni_page" content="iTunes - Podcasts - Making a Podcast">
+	<meta name="Description" content="Find detailed information on creating and submitting your podcast to iTunes, including technical specs, common mistakes, and formatting resources.">
+	<script src="apple-podcast-spec_files/prototype.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/scriptaculous.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/sizzle.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/browserdetect.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/apple_core.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/search_decorator.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/ac_base.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/feedstatistics.js" type="text/javascript" charset="utf-8"></script>
+	<script src="apple-podcast-spec_files/ac_retina.js" type="text/javascript" charset="utf-8"></script>
+
+	
+<script src="apple-podcast-spec_files/event_mixins.js" type="text/javascript" charset="utf-8"></script>
+<script src="apple-podcast-spec_files/swap_view.js" type="text/javascript" charset="utf-8"></script>
+<script src="apple-podcast-spec_files/view_master_tracker.js" type="text/javascript" charset="utf-8"></script>
+<script src="apple-podcast-spec_files/ac_autogallery.js" type="text/javascript" charset="utf-8"></script>
+
+
+
+	<link rel="stylesheet" href="apple-podcast-spec_files/base.css" type="text/css">
+	<link rel="stylesheet" href="apple-podcast-spec_files/platterless.css" type="text/css">
+	<link rel="stylesheet" href="apple-podcast-spec_files/podcasts.css" type="text/css">
+	<script src="apple-podcast-spec_files/page_scroller.js" type="text/javascript" charset="utf-8"></script>
+<style id="supportsThreeDStyle">@media (transform-3d),(-o-transform-3d),(-moz-transform-3d),(-ms-transform-3d),(-webkit-transform-3d) { #supportsThreeD { height:3px } }</style><style>@-webkit-keyframes popcsxmzpqvrzhbyxwtovvsqrrrciqpzxpg {50% {-webkit-transform:scale(1.2);}100% {-webkit-transform:scale(1);}}@keyframes popcsxmzpqvrzhbyxwtovvsqrrrciqpzxpg {50% {-webkit-transform:scale(1.2);transform:scale(1.2);}100% {-webkit-transform:scale(1);transform:scale(1);}}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:solid 2px #fff !important;color:#fff !important;display:block !important;height:auto !important;margin:0 !important;opacity:0.9 !important;padding:7px 10px !important;position:fixed !important;visibility:visible !important;width:auto !important;z-index:2147483647 !important;-moz-border-radius:5px !important;border-radius:5px !important;-moz-box-shadow:0px 0px 20px #000 !important;box-shadow:0px 0px 20px #000 !important;}.csxmzpqvrzhbyxwtovvsqrrrciqpzxpg-blocked{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;color:#AAA !important;display:inline !important;text-decoration:line-through !important;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg br{display:block !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg span{background:transparent !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg div{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;border:0 !important;margin:0 !important;padding:0 !important;width:auto !important;letter-spacing:normal !important;font:13px Arial,Helvetica !important;text-align:left !important;text-shadow:none !important;text-transform:none !important;word-spacing:normal !important;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg a{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;font-weight:normal !important;background:none !important;text-decoration:underline !important;color:#fff !important;}a#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg-gear{padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;text-decoration:none !important;position:absolute !important;display:none !important;font-size:20px !important;width:20px !important;height:20px !important;line-height:20px !important;text-align:center !important;background-color:rgba(255,255,255,.8) !important;background-image:url(resource://firefox-at-ghostery-dot-com/ghostery/data/images/gear.svg) !important;background-size:16px 16px !important;background-position:center center !important;background-repeat:no-repeat !important;text-decoration:none !important;}a#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg-gear:hover{-webkit-animation-name:popcsxmzpqvrzhbyxwtovvsqrrrciqpzxpg !important;animation-name:popcsxmzpqvrzhbyxwtovvsqrrrciqpzxpg !important;-webkit-animation-duration:0.3s !important;animation-duration:0.3s !important;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg:hover #csxmzpqvrzhbyxwtovvsqrrrciqpzxpg-gear{text-decoration:none !important;display:inline-block !important;}#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg hr{visibility:hidden !important;padding:0;margin:0;font:13px Arial,Helvetica;text-transform:none;font-size: 100%;vertical-align:baseline;line-height:normal;color:#fff;position:static;height:1em;}@media print{#csxmzpqvrzhbyxwtovvsqrrrciqpzxpg{display:none !important;}}</style></head>
+<body class="itunes podcasts" id="podcastspecs">
+	
+
+<nav id="globalheader" class="globalheader gh-selected-tab-itunes" role="navigation" aria-label="Global Navigation" data-hires="false" data-analytics-region="global nav" lang="en-US">
+	<div id="gh-content" class="gh-content">
+		<ul class="gh-menu">
+			<li id="gh-menu-icon-toggle" class="gh-menu-icon gh-menu-icon-toggle enhance"><button id="gh-svg-icons" class="gh-svg-wrapper"><span class="gh-text-replace">Menu</span><svg enable-background="new 0 0 96 96" class="gh-svg gh-svg-top" viewBox="0 0 96 96" width="100%" y="0px" x="0px"><rect class="gh-svg-rect gh-svg-rect-top" y="46" x="32" height="4" width="32"></rect></svg><svg enable-background="new 0 0 96 96" class="gh-svg gh-svg-bottom" viewBox="0 0 96 96" width="100%" y="0px" x="0px"><rect class="gh-svg-rect gh-svg-rect-bottom" y="46" x="32" height="4" width="32"></rect></svg></button></li>
+			<li id="gh-menu-icon-home" class="gh-menu-icon gh-menu-icon-home"><a href="https://www.apple.com/"><span class="gh-text-replace">Apple</span></a></li>
+		</ul><!--/gh-menu-->
+		<div class="gh-nav">
+			<div class="gh-nav-view">
+				<ul class="gh-nav-list">
+					<li class="gh-tab gh-tab-apple"><a class="gh-tab-link" href="https://www.apple.com/"><span class="gh-tab-inner"><span class="gh-text-replace">Apple</span></span></a></li>
+					<li class="gh-tab gh-tab-store"><a class="gh-tab-link" href="http://store.apple.com/us"><span class="gh-tab-inner"><span class="gh-text-replace">Store</span></span></a></li>
+					<li class="gh-tab gh-tab-mac"><a class="gh-tab-link" href="https://www.apple.com/mac/"><span class="gh-tab-inner"><span class="gh-text-replace">Mac</span></span></a></li>
+					<li class="gh-tab gh-tab-iphone"><a class="gh-tab-link" href="https://www.apple.com/iphone/"><span class="gh-tab-inner"><span class="gh-text-replace">iPhone</span></span></a></li>
+					<li class="gh-tab gh-tab-watch"><a class="gh-tab-link" href="https://www.apple.com/watch/"><span class="gh-tab-inner"><span class="gh-text-replace">Watch</span></span></a></li>
+					<li class="gh-tab gh-tab-ipad"><a class="gh-tab-link" href="https://www.apple.com/ipad/"><span class="gh-tab-inner"><span class="gh-text-replace">iPad</span></span></a></li>
+					<li class="gh-tab gh-tab-ipod"><a class="gh-tab-link" href="https://www.apple.com/ipod/"><span class="gh-tab-inner"><span class="gh-text-replace">iPod</span></span></a></li>
+					<li class="gh-tab gh-tab-itunes"><a class="gh-tab-link" href="https://www.apple.com/itunes/"><span class="gh-tab-inner"><span class="gh-text-replace">iTunes</span></span></a></li>
+					<li class="gh-tab gh-tab-support"><a class="gh-tab-link" href="https://www.apple.com/support/"><span class="gh-tab-inner"><span class="gh-text-replace">Support</span></span></a></li>
+					<li id="gh-tab-search" class="gh-tab gh-tab-search enhance">
+						<div id="gh-search" class="gh-search" role="search">
+							<form abineguid="0654AFBF2B85404FA458011E7545706B" role="search" action="https://www.apple.com/search/" method="post" class="gh-search-form" id="gh-search-form" data-search-recommended-results="{&quot;url&quot;:&quot;/global/nav/scripts/shortcuts.php&quot;,&quot;requestName&quot;:&quot;recommendedResults&quot;,&quot;queryName&quot;:&quot;q&quot;,&quot;dataType&quot;:&quot;xml&quot;}" data-search-suggested-searches="{&quot;url&quot;:&quot;/search/instant/getSuggestions&quot;,&quot;requestName&quot;:&quot;suggestedSearches&quot;,&quot;queryName&quot;:&quot;query&quot;,&quot;queryParams&quot;:{&quot;model&quot;:&quot;marcom_en_US&quot;,&quot;locale&quot;:&quot;en_US&quot;},&quot;dataType&quot;:&quot;json&quot;}">
+								<div class="gh-search-input-wrapper">
+									<label for="gh-search-input" class="gh-text-replace">Search apple.com</label>
+									<input autocapitalize="off" autocorrect="off" autocomplete="off" name="q" id="gh-search-input" class="gh-search-input" placeholder="Search apple.com" type="text">
+								</div>
+								<button disabled="disabled" type="submit" id="gh-search-submit" class="gh-search-submit gh-search-magnify"><span class="gh-text-replace">Search apple.com</span></button>
+								<button disabled="disabled" type="reset" id="gh-search-reset" class="gh-search-reset"><span class="gh-text-replace">Reset</span></button>
+							</form>
+						</div>
+						<a class="gh-search-magnify" href="https://www.apple.com/search/"><span class="gh-text-replace">Search apple.com</span></a>
+					</li>
+				</ul>
+			</div>
+		</div><!--/gh-nav-->
+	</div>
+</nav><!--/globalheader-->
+
+<script src="apple-podcast-spec_files/globalheader.js" type="text/javascript" charset="utf-8"></script><div id="supportsThreeD"></div>
+
+
+	<div id="top">
+<!-- SiteCatalyst code version: H.8. Copyright 1997-2006 Omniture, Inc. -->
+
+
+	
+
+
+
+
+	
+
+
+<script type="text/javascript">
+/* RSID: */
+
+var s_account="appleglobal,appleitunes"
+
+
+</script>
+
+
+	
+
+
+
+<script type="text/javascript">
+
+s.pageName=AC.Tracking.pageName()+" (us)";
+s.channel="www.us.itunes"
+
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t();</script>
+<!-- End SiteCatalyst code version: H.8. -->
+</div>
+	<nav class="ph-wrapper full-border">
+    <div id="productheader" class="no-border ios-fix" data-hires="true">
+        <h2><a href="https://www.apple.com/itunes/working-itunes/">
+                <img src="apple-podcast-spec_files/working-product-title_2x.png" alt="Working with iTunes" height="28" width="206">
+            </a>
+        </h2>
+        <ul>
+            <li id="pn-sell"><a href="https://www.apple.com/itunes/working-itunes/sell-content/">Sell Your Content</a></li>
+            <li id="pn-create"><a href="https://www.apple.com/itunes/working-itunes/enhance/">Enhance Your Content</a></li>
+            <li id="pn-market"><a href="https://www.apple.com/itunes/working-itunes/market/">Market with iTunes</a></li>
+            <li id="pn-link"><a href="https://www.apple.com/itunes/link/">Link to iTunes</a></li>
+        </ul>
+    </div>
+</nav>
+	<script src="apple-podcast-spec_files/sticky.js" type="text/javascript" charset="utf-8"></script>
+	<div id="main" data-hires="true">
+		<div class="content" id="content">
+			<header class="hero">
+				<img src="apple-podcast-spec_files/hero-podcast-icon_2x.jpg" alt="" class="hero-icon" height="79" width="79">
+				<img src="apple-podcast-spec_files/hero-podcast-label_2x.png" alt="Making a Podcast" class="hero-label" height="64" width="750">
+				<img src="apple-podcast-spec_files/header-gradient_2x.png" alt="" height="67" width="750">
+			</header>
+			<section class="specs-content">
+				<div class="content-section">
+					<h2>How to Submit a Podcast</h2>
+					<p>Podcasting on the iTunes Store requires several&nbsp;steps:</p>
+					<ol>
+						<li>Create your first episode, which can be an audio or video 
+recording or a text document. Podcasts can be in the M4A, MP3, MOV, MP4,
+ M4V, PDF, and EPUB file&nbsp;formats.</li>
+						<li>Create an RSS feed (an XML file)&nbsp;that:
+							<ul class="dash">
+								<li>Conforms to the <a href="http://cyber.law.harvard.edu/rss/rss.html">RSS 2.0&nbsp;specification</a></li>
+								<li>Includes the <a href="#rss" class="scrollToAnchor">recommended iTunes RSS&nbsp;tags</a></li>
+								<li>Contains pointers to your episode with the &lt;enclosure&gt;&nbsp;tag</li>
+							</ul>
+						</li>
+						<li>Create your cover art, which must be in the JPEG or PNG file 
+formats and in the RGB color space with a minimum size of 
+1400&nbsp;x&nbsp;1400 pixels and a maximum size of 3000 x 3000 pixels.</li>
+						<li>Post the RSS feed, cover art, and your episodes on a server 
+that supports byte-range requests and a publicly accessible URL. Support
+ for byte-range requests allows users to stream your&nbsp;episodes.</li>
+						<li>In iTunes, <a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast">submit your RSS podcast feed URL</a> to the iTunes&nbsp;Store.</li>
+					</ol>
+				</div>
+
+				<div class="content-section">
+					<h2>Creating Podcast Feeds and&nbsp;Metadata</h2>
+					<p>There are a number of applications and online services that will
+ assist you in the creation of the XML for the RSS feed of your podcast.
+ The easiest way to create your XML document is by using a text editor. 
+Refer to those services or other documentation for the details of 
+creating an RSS&nbsp;feed.</p>
+					<p>Additionally, we recommend that&nbsp;you:</p>
+					<ol>
+						<li>Pay close attention to the title, author, and description tags
+ at the &lt;channel&gt; and &lt;item&gt; level of your podcast feed. The
+ iTunes Store uses these fields for search. The metadata for your 
+podcast, along with your cover art, is your product packaging and may 
+affect whether your podcast shows up in relevant searches, and how 
+likely users are to subscribe to&nbsp;it.</li>
+						<li>Make your title specific. A podcast called “Our Community 
+Bulletin” is too vague to attract many subscribers, no matter how 
+compelling the&nbsp;content.</li>
+						<li>Take advantage of the &lt;itunes:summary&gt; tag. The 
+&lt;itunes:summary&gt; tag (or the &lt;description&gt; tag if 
+&lt;itunes:summary&gt; is not present) allows you to inform users about 
+your podcast. Describe your subject matter, media format, episode 
+schedule, and other relevant information. In addition, make a list of 
+the most relevant search terms for your podcast and build them into your
+ description. Note that the iTunes Store removes podcasts that include 
+irrelevant words in the &lt;itunes:summary&gt; or 
+&lt;description&gt;&nbsp;tags.</li>
+						<li>Be sure to include a valid &lt;itunes:category&gt; tag. You 
+must also define a subcategory if one is available. Podcasts with 
+category information appear in more places on the iTunes Store and are 
+more likely to be found by users. Your category should be in English in 
+the XML of your feed, but will be localized on the iTunes Store.</li>
+						<li>Pick a reliable webhost. Podcasters sometimes create a feed 
+and then find that their ability to move or edit the feed later is 
+limited by the webhost they have chosen. To avoid this, make sure your 
+podcast is hosted on a website where you are in&nbsp;control.</li>
+						<li>Create cover art for your podcast that still works well when 
+scaled down to thumbnail size. Before you create your podcast cover art,
+ review the Top Podcasts section in the Podcasts app or in the iTunes 
+Store for examples of compelling cover art. To be eligible for featured 
+placement on the iTunes Store and the Podcasts app for iOS, cover art 
+must be a 1400 x 1400-pixel JPEG or PNG file in the RGB color space. You
+ can also use specific images for individual&nbsp;episodes.</li>
+						<li>Enclose all portions of your XML that contain embedded links 
+in a CDATA section to prevent display issues and to ensure proper link 
+functionality in the Podcasts app. For example:
+							<p class="cdata">&lt;itunes:summary&gt;&lt;![CDATA[&lt;a href="https://www.apple.com"&gt;Apple&lt;/a&gt;]]&gt;&lt;/itunes:summary&gt;</p>
+						</li>
+					</ol>
+				</div>
+
+				<div class="content-section">
+					<h2>Understanding the iOS Podcasts app, iTunes, and the iTunes&nbsp;Store</h2>
+					<p>The Podcasts app for iOS, iTunes, and the iTunes Store work together, but each serves a different&nbsp;function.</p>
+					<p>The Podcasts app allows users to subscribe or listen to podcasts on their iPhone, iPad, or iPod&nbsp;touch.</p>
+					<p>iTunes allows users to obtain and enjoy podcasts as well as movies, music, TV shows, apps, and books on their Mac or&nbsp;PC.</p>
+					<p>The iTunes Store allows you to submit your RSS podcast&nbsp;feeds.</p>
+					<p>For more information about podcasts on the Podcasts app for iOS, iTunes, and the iTunes Store, see the <a href="https://www.apple.com/itunes/podcasts/creatorfaq.html" class="nowrap">FAQ for Podcast Makers</a> and <a href="https://www.apple.com/itunes/podcasts/fanfaq.html">FAQ for Podcast&nbsp;Fans</a>.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="testing">Testing Your&nbsp;Feed</h2>
+					<p>After you have created your RSS feed and posted it to a server 
+with a publicly addressable URL (the URL must not be behind a firewall),
+ you should test your feed. You should only submit your RSS podcast feed
+ to the iTunes Store after you have successfully tested&nbsp;it.</p>
+					<p>To test your RSS podcast&nbsp;feed:</p>
+					<ol>
+						<li>Open&nbsp;iTunes</li>
+						<li>From the File menu, choose Subscribe to&nbsp;Podcast</li>
+						<li>Enter your podcast feed URL in the text box and click&nbsp;OK</li>
+					</ol>
+					<p>If you can successfully download and play the episode in iTunes,
+ then your feed is working and you can submit it to the 
+iTunes&nbsp;Store.</p>
+					<p>For text-based podcasts, use iBooks for <a href="https://itunes.apple.com/us/app/ibooks/id364709193">iOS</a> or <a href="https://www.apple.com/ibooks/">Mac</a> to view your PDF or EPUB files and ensure that they display&nbsp;properly.</p>
+					<p>To diagnose problems with your feed, we recommend that you use a third-party feed validation service.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Submitting Your Podcast Feed to the iTunes&nbsp;Store</h2>
+					<p>After you have successfully <a href="#testing" class="scrollToAnchor">tested your podcast feed</a>, submit your RSS podcast feed URL to the iTunes Store by clicking <a href="https://phobos.apple.com/WebObjects/MZFinance.woa/wa/publishPodcast">Submit a Podcast</a> in the Podcast Quick Links of the Podcasts section. An Apple ID is&nbsp;required.</p>
+					<p>If you have created an RSS podcast feed with all of the 
+recommended tags for the iTunes Store, you will see a summary page 
+immediately after you submit your feed URL. If you have not included 
+&lt;language&gt;, &lt;itunes:category&gt;, and &lt;itunes:explicit&gt; 
+tags in your feed, you will be asked for this information.</p>
+					<p>You can change this information at any time by including updated
+ tags in your feed. The information displayed in the iTunes Store about 
+your podcast is based on your current RSS&nbsp;podcast feed. Changes to 
+your RSS feed can take up to 24 hours to be reflected in the 
+iTunes&nbsp;Store.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Submission Errors and Duplicate&nbsp;Feeds</h2>
+					<p><a href="#testing" class="scrollToAnchor">Test your podcast feed URL</a> before you submit it to the iTunes&nbsp;Store.</p>
+					<p>You will receive an error when submitting to the iTunes Store&nbsp;unless:</p>
+					<p>– Your cover art is in the JPEG or PNG file formats and in the 
+RGB color space with a minimum size of 1400&nbsp;x&nbsp;1400 pixels and a
+ maximum size of 3000 x 3000 pixels.</p>
+					<p>– All podcast episodes include an &lt;enclosure&gt; tag pointing to valid media</p>
+					<p>When you submit your RSS podcast feed URL, you may see an error 
+indicating that the feed has already been submitted. This can happen if 
+someone has already&nbsp;submitted:</p>
+					<p>- The same feed URL</p>
+					<p>- A feed with the same &lt;title&gt; and &lt;link&gt; fields</p>
+					<p>To resolve any issues related to duplicate feeds, check to see 
+if your podcast already exists in the iTunes&nbsp;Store,&nbsp;then:</p>
+					<p>- If your podcast is already listed in the iTunes Store and you 
+control the RSS podcast feed, edit your RSS podcast feed to modify the 
+information displayed in the iTunes Store about your podcast.</p>
+					<p>- If your podcast is already listed in the iTunes Store and you 
+do not control the RSS podcast feed, contact the owner of the RSS 
+podcast feed. Contact information may be available in the XML of the RSS
+ podcast feed. If you need additional help, <a href="mailto:podcasts@apple.com">contact&nbsp;us</a>.</p>
+					<p>If your podcast is not already in the iTunes Store, the podcast 
+has been removed from the iTunes Store but still exists in the iTunes 
+database. To reactivate the podcast, <a href="mailto:podcasts@apple.com">contact us</a> with the Apple ID you used when you submitted your RSS podcast feed&nbsp;URL.</p>
+					<p>If you need additional assistance, <a href="mailto:podcasts@apple.com">contact&nbsp;us</a>.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Submission&nbsp;Queues</h2>
+					<p>After submitting your podcast to the iTunes Store, it will be 
+reviewed and must be approved by Apple. Podcasts with technical 
+problems, such as missing episodes or an incorrect RSS podcast feed URL,
+ will be rejected. These problems can almost always be avoided by 
+testing your podcast feed prior to&nbsp;submission.</p>
+					<p>Podcasts and their associated content must not contain any of the&nbsp;following:</p>
+					<p>– Password&nbsp;protection</p>
+					<p>– Use of explicit language in the podcast when the &lt;explicit&gt; tag is not set to&nbsp;“yes”</p>
+					<p>- Explicit or self-censored explicit language in podcast titles, subtitles, or&nbsp;descriptions</p>
+					<p>– References to illegal drugs, profanity, or violence in the title, description, or cover&nbsp;art</p>
+					<p>– Images or language that could be construed as racist, misogynist, or&nbsp;homophobic</p>
+					<p>– Images depicting sex, violence, gore, illegal drugs, or hate&nbsp;themes</p>
+					<p>– Third-party trademarks without authorization or usage&nbsp;rights</p>
+					<p>– The words “iTunes Store,” “iTunes,” or “Apple&nbsp;Inc.”</p>
+					<p>– iTunes Store logo, Apple logo, or the term “Exclusive” without prior authorization from&nbsp;Apple</p>
+					<p>General comments about your podcast should be included in the podcast description, not in episode&nbsp;descriptions.</p>
+					<p>If your podcast is approved, you will be sent an email 
+containing a link to your podcast. This podcast link will be live on the
+ iTunes Store shortly after this email is sent. Your podcast will not 
+become searchable in the iTunes Store until it is indexed, which may 
+take up to 24&nbsp;hours.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Linking to Your&nbsp;Podcast</h2>
+					<p>If your podcast is approved by Apple, users will be able find it
+ in the iTunes Store by searching for it or by browsing. You can also 
+link directly to your podcasts and share them on your website, by email,
+ or with social media. There are two ways to create a link to 
+your&nbsp;podcast:</p>
+					<p>iTunes Link Maker: With <a href="https://linkmaker.itunes.apple.com/us/">iTunes Link Maker</a>,
+ you can create links to your podcast in the iTunes Store and other 
+content on the iTunes Store, App Store, Mac App Store, and iBooks Store,
+ and then share those links on social media or your own website.</p>
+					<p>When you join the <a href="https://www.apple.com/itunes/affiliates">Affiliate Program</a>
+ and link to any content (paid or free) on the iTunes Store, App Store, 
+Mac App Store, and iBooks Store, you can earn commissions on sales that 
+users make for up to 24 hours after clicking your&nbsp;link.</p>
+					<p>Affiliate links can be shared on social media or included in 
+your podcast or episode descriptions or subtitles to recommend or 
+promote any content on the iTunes Store, App Store, Mac App Store, and 
+iBooks&nbsp;Store.</p>
+					<p>Direct Subscribe Link: Links in the following format allow users to automatically subscribe to the podcast in&nbsp;iTunes.</p>
+					<p>itpc://FEEDURL</p>
+					<p>This method requires that Windows users have iTunes installed, 
+so it should be clearly noted that the link is intended for subscription
+ with&nbsp;iTunes.</p>
+					<p>This does not increase your visibility on the iTunes Store or allow you to earn commission as part of the <a href="https://www.apple.com/itunes/affiliates">Affiliate&nbsp;Program</a>.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Adding&nbsp;Episodes</h2>
+					<p>When you create a new podcast episode, you should add a new 
+&lt;item&gt; section to your RSS podcast feed. The order in which the 
+episodes appear is based on the &lt;pubDate&gt; for each item, with the 
+most recent episodes appearing at the top of the list. You can override 
+the &lt;pubDate&gt; using the &lt;itunes:order&gt; tag. Podcasts will be
+ listed on the iTunes Store up to 24 hours after you add them to your 
+RSS podcast feed.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Troubleshooting Your&nbsp;RSS Podcast Feed</h2>
+					<p>If new episodes have not appeared on the iTunes Store within 24 
+hours after updating your RSS podcast feed, we recommend that&nbsp;you:</p>
+					<p>– Review the technical specifications, particularly the example 
+feed, to ensure that every detail of your podcast feed XML is supported 
+by the iTunes&nbsp;Store.</p>
+					<p>– Validate your RSS podcast feed using a third-party feed validation service to diagnose any syntax problems.</p>
+					<p>– Ensure that the settings of your podcast creating software and
+ your web host are correct and comply with iTunes Store requirements. 
+For additional information, see the iTunes Formatting 
+section&nbsp;below.</p>
+					<p>- Ensure the missing episodes do not include an &lt;itunes:block&gt; tag</p>
+					<p>- Subscribe to the RSS podcast feed in iTunes to see if it 
+works. Open iTunes, choose File &gt; Subscribe to Podcast, and enter 
+your RSS podcast feed&nbsp;URL.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Removing or Blocking Your&nbsp;RSS Podcast Feed</h2>
+					<p>To request that your podcast be removed from the iTunes&nbsp;Store:</p>
+					<ol>
+						<li>Sign in to the iTunes Store using your Apple&nbsp;ID</li>
+						<li>Find and select your&nbsp;podcast</li>
+						<li>Click Report a&nbsp;Concern</li>
+						<li>Choose Remove a Podcast from the Choose a Reason&nbsp;menu</li>
+						<li>Provide details why you want the podcast&nbsp;removed.</li>
+					</ol>
+					<p>If you only want to remove your feed temporarily, you can use 
+the &lt;itunes:block&gt; tag described in the iTunes RSS Tags 
+section&nbsp;below.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Changing Your RSS Podcast Feed&nbsp;URL</h2>
+					<p>You can move your podcast feed from one location to another. To 
+avoid losing subscribers, you must announce the change directly to all 
+users who are subscribed to your feed. To do so, you&nbsp;should:</p>
+					<ul>
+						<li>– Use the &lt;itunes:new-feed-url&gt; tag described in the iTunes RSS Tags section&nbsp;below.</li>
+						<li>– Set your web server to return an HTTP 301 redirect response when receiving a request for the old&nbsp;feed.</li>
+					</ul>
+					<p>This will update the iTunes Store with the new feed URL and your
+ subscribers will continue to receive new episodes automatically. Be 
+sure to maintain the &lt;itunes:new-feed-url&gt; tag and the HTTP 301 
+redirect response for at least 4 weeks to ensure that most subscribers 
+have attempted to download your most recent episode and have thereby 
+received the new&nbsp;URL.</p>
+					<p>If you need additional help, <a href="mailto:podcasts@apple.com">contact us</a>.
+ Include the iTunes Store link to your podcast, which you can get by 
+clicking the triangle next to your podcast’s Subscribe button in the 
+iTunes Store.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Featuring in the Podcasts app for iOS and in the iTunes&nbsp;Store</h2>
+					<p>Apple periodically features podcasts in the iTunes Store that 
+have compelling, new, or unusual content. The following elements can 
+give your podcast a chance of being&nbsp;featured:</p>
+					<ul>
+						<li>– Attractive, original cover art that does not include 
+Apple-branded content. Include a 1400 x 1400-pixel JPEG or PNG file in 
+the RGB color space for your cover art to be eligible for promotion.</li>
+						<li>– A robust and accurate description for the podcast and all related&nbsp;episodes</li>
+						<li>– A clear and complete author&nbsp;listing</li>
+						<li>– Proper tags regarding language, category, and explicit language or&nbsp;content</li>
+						<li>– New episodes being posted&nbsp;regularly</li>
+					</ul>
+					<p>The cover art, and all other podcast elements must be original and cannot contain any of the&nbsp;following:</p>
+					<ul>
+						<li>– Pixelation, artifacts, high-contrast background art, blurry or hard crops (unless stylistic), or other style&nbsp;issues</li>
+						<li>– References to illegal drugs, profanity, or violence in the title, description, or cover&nbsp;art</li>
+						<li>– Images or language that could be construed as racist, misogynist, or&nbsp;homophobic</li>
+						<li>–&nbsp;Images depicting sex, violence, gore, illegal drugs, or hate&nbsp;themes</li>
+						<li>–&nbsp;Third-party trademarks without authorization or usage&nbsp;rights</li>
+						<li>– The words “iTunes Store,” “iTunes,” or “Apple&nbsp;Inc.”</li>
+						<li>– iTunes Store logo, Apple logo, or the term “Exclusive” without prior authorization from&nbsp;Apple</li>
+						<li>– Any visual representation of iPhone, iPad, iPod touch, or any other Apple&nbsp;hardware</li>
+					</ul>
+					<p>Note that even with the above elements, promotion is not&nbsp;guaranteed.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Tracking&nbsp;Usage</h2>
+					<p>Apple does not provide support for third-party podcast 
+analytics, but the following notes may be helpful when implementing 
+analytics on your server or with your web&nbsp;host:</p>
+					<ul class="dash">
+						<li>HTTP 302 responses will be followed to a depth of up to five redirects and will not update the feed URL in the&nbsp;directory.</li>
+						<li>The URL preceding GET-style form values (before the first “?”) must end in a media file extension (such as&nbsp;.mp3).
+							<ul class="url-support correct-example">
+								<li class="url-support-examples">Correct
+								<p>http://www.podcaster.com/load.mp3?f=&amp;Wipeout.mp3</p></li>
+								<li class="url-support-examples">Incorrect
+								<p>http://www.podcaster.com/load.php?f=&amp;Wipeout.php</p></li>
+							</ul>
+						</li>
+					</ul>
+					<p>You may need to work with your web host or server administrator to configure the hosting web server&nbsp;appropriately.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Formatting Video for the iPhone, iPad, iPod touch, and Apple&nbsp;TV</h2>
+					<p>For best results, review the supported video formats for the current <a href="https://www.apple.com/iphone/compare/">iPhone</a>, <a href="https://www.apple.com/ipad-air/specs/">iPad</a>, <a href="https://www.apple.com/ipod-touch/specs.html">iPod touch</a>, and <a href="https://www.apple.com/appletv/specs/">Apple&nbsp;TV</a>.</p>
+				</div>
+
+				<div class="content-section example-feed">
+					<h2>Example RSS Podcast Feed</h2>
+					<p>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</p>
+					<p>&lt;rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"&gt;</p>
+					<p>&lt;channel&gt;</p>
+					<p>&lt;title&gt;All About Everything&lt;/title&gt;</p>
+					<p>&lt;link&gt;http://www.example.com/podcasts/everything/index.html&lt;/link&gt;</p>
+					<p>&lt;language&gt;en-us&lt;/language&gt;</p>
+					<p>&lt;copyright&gt;&amp;#x2117; &amp;amp; &amp;#xA9; 2014 John Doe &amp;amp; Family&lt;/copyright&gt;</p>
+					<p>&lt;itunes:subtitle&gt;A show about everything&lt;/itunes:subtitle&gt;</p>
+					<p>&lt;itunes:author&gt;John Doe&lt;/itunes:author&gt;</p>
+					<p>&lt;itunes:summary&gt;All About Everything is a show about 
+everything. Each week we dive into any subject known to man and talk 
+about it as much as we can. Look for our podcast in the Podcasts app or 
+in the iTunes Store&lt;/itunes:summary&gt;</p>
+					<p>&lt;description&gt;All About Everything is a show about 
+everything. Each week we dive into any subject known to man and talk 
+about it as much as we can. Look for our podcast in the Podcasts app or 
+in the iTunes Store&lt;/description&gt;</p>
+					<p>&lt;itunes:owner&gt;</p>
+					<p>&lt;itunes:name&gt;John Doe&lt;/itunes:name&gt;</p>
+					<p>&lt;itunes:email&gt;john.doe@example.com&lt;/itunes:email&gt;</p>
+					<p>&lt;/itunes:owner&gt;</p>
+					<p>&lt;itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" /&gt;</p>
+					<p>&lt;itunes:category text="Technology"&gt;</p>
+					<p>&lt;itunes:category text="Gadgets"/&gt;</p>
+					<p>&lt;/itunes:category&gt;</p>
+					<p>&lt;itunes:category text="TV &amp;amp; Film"/&gt;</p>
+					<p>&lt;item&gt;</p>
+					<p>&lt;title&gt;Shake Shake Shake Your Spices&lt;/title&gt;</p>
+					<p>&lt;itunes:author&gt;John Doe&lt;/itunes:author&gt;</p>
+					<p>&lt;itunes:subtitle&gt;A short primer on table spices&lt;/itunes:subtitle&gt;</p>
+					<p>&lt;itunes:summary&gt;&lt;![CDATA[This week we talk about &lt;a 
+href="https://itunes/apple.com/us/book/antique-trader-salt-pepper/id429691295?mt=11"&gt;salt
+ and pepper shakers&lt;/a&gt;, comparing and contrasting pour rates, 
+construction materials, and overall aesthetics. Come and join the 
+party!]]&lt;/itunes:summary&gt;</p>
+					<p>&lt;itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" /&gt;</p>
+					<p>&lt;enclosure 
+url="http://example.com/podcasts/everything/AllAboutEverythingEpisode3.m4a"
+ length="8727310" type="audio/x-m4a" /&gt;</p>
+					<p>&lt;guid&gt;http://example.com/podcasts/archive/aae20140615.m4a&lt;/guid&gt;</p>
+					<p>&lt;pubDate&gt;Wed, 15 Jun 2014 19:00:00 GMT&lt;/pubDate&gt;</p>
+					<p>&lt;itunes:duration&gt;7:04&lt;/itunes:duration&gt;</p>
+					<p>&lt;/item&gt;</p>
+					<p>&lt;item&gt;</p>
+					<p>&lt;title&gt;Socket Wrench Shootout&lt;/title&gt;</p>
+					<p>&lt;itunes:author&gt;Jane Doe&lt;/itunes:author&gt;</p>
+					<p>&lt;itunes:subtitle&gt;Comparing socket wrenches is fun!&lt;/itunes:subtitle&gt;</p>
+					<p>&lt;itunes:summary&gt;This week we talk about metric vs. Old 
+English socket wrenches. Which one is better? Do you really need both? 
+Get all of your answers here.&lt;/itunes:summary&gt;</p>
+					<p>&lt;itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" /&gt;</p>
+					<p>&lt;enclosure 
+url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3"
+ length="5650889" type="audio/mpeg" /&gt;</p>
+					<p>&lt;guid&gt;http://example.com/podcasts/archive/aae20140608.mp3&lt;/guid&gt;</p>
+					<p>&lt;pubDate&gt;Wed, 8 Jun 2014 19:00:00 GMT&lt;pubDate&gt;</p>
+					<p>&lt;itunes:duration&gt;4:34&lt;/itunes:duration&gt;</p>
+					<p>&lt;/item&gt;</p>
+					<p>&lt;item&gt;</p>
+					<p>&lt;title&gt;Red,Whine, &amp;amp; Blue&lt;/title&gt;</p>
+					<p>&lt;itunes:author&gt;Various&lt;/itunes:author&gt;</p>
+					<p>&lt;itunes:subtitle&gt;Red + Blue != Purple&lt;/itunes:subtitle&gt;</p>
+					<p>&lt;itunes:summary&gt;This week we talk about surviving in a Red
+ state if you are a Blue person. Or vice versa.&lt;/itunes:summary&gt;</p>
+					<p>&lt;itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode3.jpg" /&gt;</p>
+					<p>&lt;enclosure 
+url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3"
+ length="498537" type="audio/mpeg" /&gt;</p>
+					<p>&lt;guid&gt;http://example.com/podcasts/archive/aae20140601.mp3&lt;/guid&gt;</p>
+					<p>&lt;pubDate&gt;Wed, 1 Jun 2014 19:00:00 GMT&lt;/pubDate&gt;</p>
+					<p>&lt;itunes:duration&gt;3:59&lt;/itunes:duration&gt;</p>
+					<p>&lt;/item&gt;</p>
+					<p>&lt;/channel&gt;</p>
+					<p>&lt;/rss&gt;</p>
+				</div>
+
+				<div id="rss" class="content-section">
+					<h2>RSS Tags for Podcasts on the iTunes&nbsp;Store</h2>
+					<p>The iTunes Store accepts RSS 2.0 tags as well as some additional
+ tags specific to the iTunes Store. Additional tags are not required, 
+but are&nbsp;recommended for possible featured placement in the Podcasts
+ app for iOS and the iTunes Store.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Defining Tags for Podcasts on the iTunes&nbsp;Store</h2>
+					<p>When using tags specific to the iTunes Store, you must add the 
+following namespace declaration as the second line in your 
+feed&nbsp;XML:</p>
+					<p>&lt;rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"&gt;</p>
+					<p>The namespace declaration points to a document that defines the 
+iTunes Store tags. Without this declaration, all tags specific to the 
+iTunes Store will be ignored. Note that the namespace definition is case
+ sensitive, and must be entered as&nbsp;shown.</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Text&nbsp;Encoding</h2>
+					<p>Use plain text UTF-8 encoding for your podcast&nbsp;feed (no markup or HTML, except as described below).</p>
+					<p>Tag values are limited to 255 characters, except for 
+&lt;itunes:summary&gt;, which can be up to 4000 characters. Don’t add 
+leading or trailing spaces to your&nbsp;values.</p>
+					<p>Enclose all portions of your XML that contain embedded links in a
+ CDATA section to prevent formatting issues, and to ensure proper link 
+functionality in the Podcasts app. For example:</p>
+					<p>&lt;itunes:summary&gt;&lt;![CDATA[&lt;a href=“https://www.apple.com”&gt;Apple&lt;/a&gt;]]&gt;&lt;/itunes:summary&gt;</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Use and Display of Common Tags in Channel and Item&nbsp;Sections</h2>
+					<h3>Desktop View</h3>
+					<img src="apple-podcast-spec_files/itunes-podcast-display_large_2x.png" alt="" class="stack" height="464" width="870">
+
+					<h3>Episode View</h3>
+					<img src="apple-podcast-spec_files/itunes-episodes-view_large_2x.png" alt="" class="stack" height="525" width="636">
+
+					<h3>Podcast View</h3>
+					<img src="apple-podcast-spec_files/itunes-podcasts-view_large_2x.png" alt="" class="stack" height="535" width="635">
+
+					<div class="content-section">The following table shows which tags 
+apply to &lt;channel&gt; elements (which relate to the podcast as a 
+whole), which tags apply to individual &lt;item&gt; elements (which are 
+specific to a given episode), and where the tag contents appear 
+in&nbsp;iTunes:</div>
+
+					<table id="common-tags" class="datasheet" cellspacing="0">
+						<tbody><tr class="header">
+							<th width="20%">xml tag</th>
+							<th class="center" width="14%">channel</th>
+							<th class="center" width="14%">item</th>
+							<th class="lastcol" width="60%">Location of content in iTunes / Notes</th>
+						</tr>
+						<tr class="even">
+							<td>&lt;title&gt;</td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Name column</td>
+						</tr>
+						<tr class="odd">
+							<td>&lt;link&gt;</td>
+							<td class="center">Y</td>
+							<td class="center">&nbsp;</td>
+							<td class="lastcol">Website link under podcast details</td>
+						</tr>
+						<tr class="even">
+							<td>&lt;copyright&gt;</td>
+							<td class="center">Y</td>
+							<td class="center">&nbsp;</td>
+							<td class="lastcol">Visible under podcast details</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#pubDate">&lt;pubDate&gt;</a></td>
+							<td class="center">&nbsp;</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Released column</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#authorId">&lt;itunes:author&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Visible under podcast title and in iTunes&nbsp;Store&nbsp;Browse</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#block">&lt;itunes:block&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Prevent an episode or podcast from appearing</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#category">&lt;itunes:category&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">&nbsp;</td>
+							<td class="lastcol">Visible under podcast details and in iTunes&nbsp;Store&nbsp;Browse</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#image">&lt;itunes:image&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Same location as album art</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#duration">&lt;itunes:duration&gt;</a></td>
+							<td class="center">&nbsp;</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Time column</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#explicit">&lt;itunes:explicit&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Parental advisory graphic under podcast details or episode badge in Name column</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#isClosedCaptioned">&lt;itunes:isClosedCaptioned&gt;</a></td>
+							<td class="center"></td>
+							<td class="center">Y</td>
+							<td class="lastcol">Closed Caption graphic in Name column</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#order">&lt;itunes:order&gt;</a></td>
+							<td class="center"></td>
+							<td class="center">Y</td>
+							<td class="lastcol">Override the order of episodes on the store</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#complete">&lt;itunes:complete&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center"></td>
+							<td class="lastcol">Indicates podcast complete; no more episodes</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#newfeed">&lt;itunes:new-feed-url&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center"></td>
+							<td class="lastcol">Not visible, reports new feed URL to iTunes</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#owner">&lt;itunes:owner&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center"></td>
+							<td class="lastcol">Not visible, used for contact only</td>
+						</tr>
+						<tr class="even">
+							<td><a class="scrollToAnchor" href="#subtitle">&lt;itunes:subtitle&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">Description column</td>
+						</tr>
+						<tr class="odd">
+							<td><a class="scrollToAnchor" href="#summary">&lt;itunes:summary&gt;</a></td>
+							<td class="center">Y</td>
+							<td class="center">Y</td>
+							<td class="lastcol">When the "circled i” icon in the Description column is clicked</td>
+						</tr>
+					</tbody></table>
+				</div>
+
+				<div class="content-section">
+					<h2>&lt;enclosure&gt;</h2>
+					<p>The &lt;enclosure&gt; tag has three attributes: URL, length, and type. An enclosure from the example feed&nbsp;above is:</p>
+					<p>&lt;enclosure</p>
+					<p>url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type=“audio/mpeg"/&gt;</p>
+					<p>The URL attribute points to the podcast content. The file 
+extension specified within the URL attribute determines whether that 
+content will appear in the podcast directory. Supported file formats 
+include M4A, MP3, MOV, MP4, M4V, PDF, and&nbsp;EPUB.</p>
+					<p>The length attribute is the file size in bytes. Find this 
+information in the properties of your podcast file (on a Mac, choose Get
+ Info from the File menu and refer to the size&nbsp;row).</p>
+					<p>The type attribute provides the correct category for the type of
+ file you are using. The type values for supported file formats are as 
+follows:</p>
+				</div>
+				<div class="content-section">
+					<table class="datasheet" cellspacing="0">
+						<tbody><tr class="header">
+							<th width="10%">File</th>
+							<th width="60%">Type</th>
+						</tr>
+						<tr class="even">
+							<td>MP3</td>
+							<td>audio/mpeg</td>
+						</tr>
+						<tr class="odd">
+							<td>M4A</td>
+							<td>audio/x-m4a</td>
+						</tr>
+						<tr class="even">
+							<td>MP4</td>
+							<td>video/mp4</td>
+						</tr>
+						<tr class="odd">
+							<td>M4V</td>
+							<td>video/x-m4v</td>
+						</tr>
+						<tr class="even">
+							<td>MOV</td>
+							<td>video/quicktime</td>
+						</tr>
+						<tr class="odd">
+							<td>PDF</td>
+							<td>application/pdf</td>
+						</tr>
+						<tr class="odd">
+							<td>EPUB</td>
+							<td>document/x-epub</td>
+						</tr>
+					</tbody></table>
+				</div>
+
+				<div class="content-section">
+					<h2>&lt;guid&gt;</h2>
+					<p>Every &lt;item&gt; (episode) should have a permanent, 
+case-sensitive GUID (Globally Unique Identifier). When you add episodes 
+to your RSS podcast feed, GUIDs are compared in case-sensitive fashion 
+to determine which episodes are new. If you don’t add the GUID for an 
+episode, the episode URL will be used&nbsp;instead.</p>
+					<p>The GUID should be assigned to an episode only once and should 
+never change. Assigning new GUIDs to existing episodes may cause issues 
+with your podcast’s listing and chart placement in&nbsp;the 
+iTunes&nbsp;Store.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="pubDate">&lt;pubDate&gt;</h2>
+					<p>This tag specifies the date and time when an episode was released. The format for the content should be per <a href="http://www.faqs.org/rfcs/rfc2822.html">RFC&nbsp;2822</a>, for example:</p>
+					<p>Wed, 15 Jun 2014 19:00:00 GMT</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="authorId">&lt;itunes:author&gt;</h2>
+					<p>The content of this tag is shown in the Artist column in iTunes.
+ If the &lt;itunes:author&gt; tag is not present, iTunes uses the 
+contents of the &lt;author&gt; tag. If &lt;itunes:author&gt; is not 
+present at the RSS podcast feed level, iTunes will use the contents 
+of&nbsp;&lt;managingEditor&gt;.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="block">&lt;itunes:block&gt;</h2>
+					<p>If the &lt;itunes:block&gt; tag is present and populated with 
+the “yes” value inside a &lt;channel&gt; (podcast) element, it will 
+prevent the entire podcast from appearing in the iTunes Store 
+podcast&nbsp;directory.</p>
+					<p>If the &lt;itunes:block&gt; tag is present and populated with 
+the “yes” value inside an &lt;item&gt; (episode) element, it will 
+prevent that episode from appearing in the iTunes Store podcast 
+directory. For example, you may want to block a specific episode if you 
+know that its content would otherwise cause the entire podcast to be 
+removed from the iTunes&nbsp;Store.</p>
+					<p>If the &lt;itunes:block&gt; tag is populated with any other value, it will have no&nbsp;effect.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="category">&lt;itunes:category&gt;</h2>
+					<p>Users can browse podcast subject categories on iTunes using one of two methods:</p>
+					<p>- click Browse under Features at the bottom of the iTunes Store window to open a text-based&nbsp;table</p>
+					<p>- choose a category from the Podcasts pop-up menu in the navigation bar, which leads to pages that include the podcast&nbsp;art.</p>
+					<p>Within the older, text-based browsing system, podcast feeds may 
+list up to three category and subcategory pairs. (For example, “Music” 
+counts as one of the three items, as does “Business &gt; Careers.”)</p>
+					<p>Use the &lt;itunes:category&gt; tag to specify the browsing 
+category. You must also define a subcategory if one is available within 
+your category.</p>
+					<p>Within the newer browsing system based on Category links, 
+including the Top Podcasts and Top Episodes lists, only the first 
+category listed in the feed will be recognized. A complete list of 
+categories and subcategories included at the end of this document.</p>
+					<p>Be sure to properly escape ampersands as shown below.</p>
+					<span>Examples:</span>
+					<p>Single category:<br>&lt;itunes:category text="Music" /&gt;</p>
+					<p>Category with ampersand:<br>&lt;itunes:category text="TV &amp;amp; Film" /&gt;</p>
+					<p>Category with subcategory:<br>&lt;itunes:category text="Society &amp;amp; Culture"&gt;<br><span class="indent">&lt;itunes:category text="History" /&gt;</span><span class="indent">&lt;/itunes:category&gt;</span></p>
+					<p>Entry with multiple categories:<br>&lt;itunes:category text="Society &amp;amp; Culture"&gt;<br><span class="indent">&lt;itunes:category text="History" /&gt;</span><span class="indent">&lt;/itunes:category&gt;</span><span class="indent">&lt;itunes:category text="Technology"&gt;</span><span class="indent">&lt;itunes:category text="Gadgets" /&gt;</span><span class="indent">&lt;/itunes:category&gt;</span></p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="image">&lt;itunes:image&gt;</h2>
+					<p>The &lt;itunes:image&gt; tag points to the artwork for your podcast, via the URL specified in the &lt;a href&gt;&nbsp;attribute.</p>
+					<p>Cover art must be in the JPEG or PNG file formats and in the RGB
+ color space with a minimum size of 1400&nbsp;x&nbsp;1400 pixels and a 
+maximum size of 3000 x 3000 pixels. Note that these requirements are 
+different from the standard RSS image tag specification. </p>
+					<p>Potential subscribers will see your cover art in varying sizes 
+depending on the device they’re using. Make sure your design is 
+effective at both its original size and at thumbnail size.</p>
+					<p>If the &lt;itunes:image&gt; tag is not present, iTunes will use 
+the content of the RSS image tag, but your podcast will not be 
+considered for a potential feature placement in the Podcasts app and the
+ iTunes&nbsp;Store.</p>
+					<p>We recommend including a title, brand, or source name as part of
+ your cover art. For examples of cover art, see the Top Podcasts section
+ in the Podcasts app or the iTunes&nbsp;Store.</p>
+					<p>If you update the cover art for your podcast, be sure to avoid technical issues by doing the&nbsp;following:</p>
+					<p>- change the cover art file name and URL at the same time</p>
+					<p>- verify the web server hosting your cover art allows HTTP head&nbsp;requests</p>
+					<p>The &lt;itunes:image&gt; tag is also supported at the &lt;item&gt; (episode)&nbsp;level.</p>
+					<p>For best results, we also recommend embedding the same cover art
+ within the metadata for that episode’s media file prior to uploading to
+ your host server. You may need to edit your media file via Garageband 
+or other content-creation tool to do&nbsp;so.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="duration">&lt;itunes:duration&gt;</h2>
+					<p>The content of the &lt;itunes:duration&gt; tag is shown in the Time column in the List View on iTunes.</p>
+					<p>The value provided for this tag can be formatted as HH:MM:SS, 
+H:MM:SS, MM:SS, or M:SS, where H = hours, M = minutes, S = seconds. If a
+ single number is provided as a value (no colons are used), the value is
+ assumed to be in seconds. If one colon is present, the number to the 
+left is assumed to be minutes, and the number to the right is assumed to
+ be seconds. If more than two colons are present, the numbers farthest 
+to the right are&nbsp;ignored.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="explicit">&lt;itunes:explicit&gt;</h2>
+					<p>The &lt;itunes:explicit&gt; tag indicates whether your podcast 
+contains explicit material. The two usable values for this tag are “yes”
+ and&nbsp;“clean”.</p>
+					<p>If you populate this tag with the “yes” value, indicating the 
+presence of explicit content, an “explicit” parental advisory graphic 
+will appear.</p>
+					<p>If you populate this tag with the “clean” value, indicating that
+ none of your podcast episodes contain explicit language or adult 
+content, a “clean” parental advisory graphic will appear.</p>
+					<p>If you populate this tag with any other value besides “yes” or 
+“clean,” neither of the parental advisory graphics will appear and that 
+space will remain blank.</p>
+					<p>Note that podcasts that contain explicit material are not available in some iTunes Store territories.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="isClosedCaptioned">&lt;itunes:isClosedCaptioned&gt;</h2>
+					<p>The &lt;itunes:isClosedCaptioned&gt; tag should be used with a 
+“yes” value for a video podcast episode with embedded 
+closed&nbsp;captioning.</p>
+					<p>A closed-caption icon will appear next to the corresponding&nbsp;episode.</p>
+					<p>If the closed-caption tag is present and has any other value, no closed-caption indicator will&nbsp;appear.</p>
+					<p>This tag is only supported at the &lt;item&gt; (episode) level.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="order">&lt;itunes:order&gt;</h2>
+					<p>The &lt;itunes:order&gt; tag can be used to override the default
+ ordering of episodes on the&nbsp;iTunes Store by populating it with the
+ number value in which you would like the episode to appear. For 
+example, if you would like an &lt;item&gt; to appear as the first 
+episode of the podcast, you would populate the &lt;itunes:order&gt; tag 
+with “1.” If conflicting order values are present in multiple episodes, 
+the store will order by &lt;pubDate&gt;.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="complete">&lt;itunes:complete&gt;</h2>
+					<p>The &lt;itunes:complete&gt; tag, populated with a “yes” value, 
+indicates that a podcast has been completed and no further episodes will
+ be posted in the&nbsp;future.</p>
+					<p>If you populate this tag with any other value, it will have no&nbsp;effect.</p>
+					<p>This tag is only supported at a &lt;channel&gt; (podcast)&nbsp;level.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="newfeed">&lt;itunes:new-feed-url&gt;</h2>
+					<p>The &lt;itunes:new-feed-url&gt; tag allows you to change the URL where the RSS podcast feed is located, for&nbsp;example:</p>
+					<p>&lt;itunes:new-feed-url&gt;http://newlocation.com/example.rss&lt;/itunes:new-feed-url&gt;</p>
+					<p>After adding the tag to your old feed, you should maintain the old feed for 48 hours before retiring it.</p>
+					<p>For more information, please see the “Changing Your Feed URL” section&nbsp;earlier in this document.</p>
+					<p>This tag is only supported at a &lt;channel&gt; (podcast)&nbsp;level.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="owner">&lt;itunes:owner&gt;</h2>
+					<p>The &lt;itunes:owner&gt; tag contains contact information for 
+the owner of the podcast intended to be used for administrative 
+communication about the podcast. This information is not displayed on 
+the iTunes Store.</p>
+					<p>The email address of the owner should be included in a nested 
+&lt;itunes:email&gt; element. Include the name of the owner in a nested 
+&lt;itunes:name&gt; element.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="subtitle">&lt;itunes:subtitle&gt;</h2>
+					<p>The contents of the &lt;itunes:subtitle&gt; tag are displayed in
+ the Description column in iTunes. For best results, choose a subtitle 
+that is only a few words long.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="summary">&lt;itunes:summary&gt;</h2>
+					<p>The contents of the &lt;itunes:summary&gt; tag are shown on the 
+iTunes Store page for your podcast. The information also appears in a 
+separate window if the information (“i”) icon in the Description column 
+is clicked. This field can be up to 4000 characters.</p>
+					<p>If a &lt;itunes:summary&gt; tag is not included, the contents of the &lt;description&gt; tag are used.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 id="language">&lt;language&gt;</h2>
+					<p>Because the iTunes Store is available in territories around the 
+world, it is critical to specify the language of a podcast. Only values 
+from the <a href="http://www.loc.gov/standards/iso639-2/php/code_list.php">ISO 639</a> list (two-letter language codes, with some possible modifiers, such as “en-us") are supported.</p>
+				</div>
+
+				<div class="content-section">
+					<h2 class="common-header">Common Mistakes</h2>
+					<h2>Wrong &lt;pubDate&gt; Format</h2>
+					<p>The date and time format in &lt;<a class="scrollToAnchor" href="#pubDate">pubDate</a>&gt; must conform&nbsp;to <a href="http://www.faqs.org/rfcs/rfc2822.html">RFC 2822</a>.</p>
+					<p>The date must be “day-of-week, day month year”. The time must be
+ in 24 hour format (no AM or PM) and must include the time 
+zone&nbsp;offset. For example:</p>
+					<p class="format">
+						&lt;!-- date and time not in RFC 2822 format --&gt;<br>
+						&lt;pubDate&gt;7/6/2014 1:00:00 PM&lt;/pubDate&gt;
+					</p>
+					<p class="format">
+						&lt;!-- valid date and time format --&gt;<br>
+						&lt;pubDate&gt;Wed, 6 Jul 2014 13:00:00 PDT&lt;/pubDate&gt;<br>
+						&lt;pubDate&gt;Wed, 6 Jul 2014 13:00:00 -0700&lt;/pubDate&gt;
+					</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Failure to Escape&nbsp;Ampersands</h2>
+					<p class="format">
+						&lt;!-- illegal xml --&gt;
+						<br>&lt;title&gt;Food &amp; Wine&lt;/title&gt;
+					</p>
+					<p class="format">
+						&lt;!-- valid xml --&gt;
+						<br>&lt;title&gt;Food &amp;amp; Wine&lt;/title&gt;
+					</p>
+				</div>
+
+				<div class="content-section">
+					<h2>Using HTML Named Character&nbsp;Entities</h2>
+					<p class="format">
+						&lt;!-- illegal xml --&gt;
+						<br>&lt;copyright&gt;&amp;copy; 2014 John Doe&lt;/copyright&gt;
+					</p>
+					<p class="format">
+						&lt;!-- valid xml --&gt;
+						<br>&lt;copyright&gt;&amp;#xA9; 2014 John Doe&lt;/copyright&gt;
+					</p>
+					<p>Unlike <a href="http://www.w3.org/TR/REC-html40/sgml/entities.html#h-24.2.1">HTML</a>, XML only requires escaping five “named character entities,” as follows:</p>
+
+					<table class="datasheet named-characters" cellspacing="0">
+						 <tbody><tr class="header">
+							<th width="27%">character</th>
+							<th width="30%">name</th>
+							<th width="30%">xml</th>
+						</tr>
+						<tr class="even">
+							<td>&amp;</td>
+							<td>ampersand</td>
+							<td>&amp;amp;</td>
+						</tr>
+						<tr class="odd">
+							<td>&lt;</td>
+							<td>less-than sign</td>
+							<td>&amp;lt;</td>
+						</tr>
+						<tr class="even">
+							<td>&gt;</td>
+							<td>greater-than sign</td>
+							<td>&amp;gt;</td>
+						</tr>
+						<tr class="odd">
+							<td>’</td>
+							<td>apostrophe</td>
+							<td>&amp;apos;</td>
+						</tr>
+						<tr class="even">
+							<td>"</td>
+							<td>quotation</td>
+							<td>&amp;quot;</td>
+						</tr>
+					</tbody></table>
+
+					<p>All other characters can be entered directly in an editor that supports&nbsp;UTF-8.</p>
+					<p>However, you can also use numeric character references that specify the Unicode for the character, for&nbsp;example:</p>
+					<table class="datasheet named-characters" cellspacing="0">
+						<tbody><tr class="header">
+							<th width="27%">character</th>
+							<th width="30%">name</th>
+							<th width="30%">xml</th>
+						</tr>
+						<tr class="even">
+							<td>©</td>
+							<td>copyright sign</td>
+							<td>&amp;#xA9;</td>
+						</tr>
+						<tr class="odd">
+							<td>℗</td>
+							<td>sound recording copyright</td>
+							<td>&amp;#x2117;</td>
+						</tr>
+						<tr class="even">
+							<td>™</td>
+							<td>TM trademark sign</td>
+							<td>&amp;#x2122;</td>
+						</tr>
+					</tbody></table>
+
+				<p>For more information, see <a href="http://www.xml.com/axml/target.html#sec-references">XML Character and Entity&nbsp;References</a>.</p>
+			</div>
+
+			<div class="content-section">
+				<h2>iTunes Categories for&nbsp;Podcasting</h2>
+				<p>The text value provided for your category tag should be written 
+in English with escaped ampersands in the XML of your feed, but will be 
+localized on the iTunes Store.</p>
+				<div class="pctable grid2col">
+					<div class="column first">
+						<ul>
+							<li><h4>iTunes Supported&nbsp;Categories</h4></li>
+						</ul>
+
+						<ul class="disc">
+							<li>Arts</li>
+						</ul>
+						<ul class="circle">
+							<li>Design</li>
+							<li>Fashion &amp; Beauty</li>
+							<li>Food</li>
+							<li>Literature</li>
+							<li>Performing Arts</li>
+							<li>Visual Arts</li>
+						</ul>
+						<ul class="disc">
+							<li>Business</li>
+						</ul>
+						<ul class="circle">
+							<li>Business News</li>
+							<li>Careers</li>
+							<li>Investing</li>
+							<li>Management &amp; Marketing</li>
+							<li>Shopping</li>
+						</ul>
+						<ul class="disc">
+							<li>Comedy</li>
+							<li>Education</li>
+						</ul>
+						<ul class="circle">
+							<li>Educational Technology</li>
+							<li>Higher Education</li>
+							<li>K-12</li>
+							<li>Language Courses</li>
+							<li>Training</li>
+						</ul>
+						<ul class="disc">
+							<li>Games &amp; Hobbies</li>
+						</ul>
+						<ul class="circle">
+							<li>Automotive</li>
+							<li>Aviation</li>
+							<li>Hobbies</li>
+							<li>Other Games</li>
+							<li>Video Games</li>
+						</ul>
+						<ul class="disc">
+							<li>Government &amp; Organizations</li>
+						</ul>
+						<ul class="circle">
+							<li>Local</li>
+							<li>National</li>
+							<li>Non-Profit</li>
+							<li>Regional</li>
+						</ul>
+						<ul class="disc">
+							<li>Health</li>
+						</ul>
+						<ul class="circle">
+							<li>Alternative Health</li>
+							<li>Fitness &amp; Nutrition</li>
+							<li>Self-Help</li>
+							<li>Sexuality</li>
+						</ul>
+						<ul class="disc">
+							<li>Kids &amp; Family</li>
+							<li>Music</li>
+							<li>News &amp; Politics</li>
+							<li>Religion &amp; Spirituality</li>
+						</ul>
+						<ul class="circle">
+							<li>Buddhism</li>
+							<li>Christianity</li>
+							<li>Hinduism</li>
+							<li>Islam</li>
+							<li>Judaism</li>
+							<li>Other</li>
+							<li>Spirituality</li>
+						</ul>
+						<ul class="disc">
+							<li>Science &amp; Medicine</li>
+						</ul>
+						<ul class="circle">
+							<li>Medicine</li>
+							<li>Natural Sciences</li>
+							<li>Social Sciences</li>
+						</ul>
+						<ul class="disc">
+							<li>Society &amp; Culture</li>
+						</ul>
+						<ul class="circle">
+							<li>History</li>
+							<li>Personal Journals</li>
+							<li>Philosophy</li>
+							<li>Places &amp; Travel</li>
+						</ul>
+						<ul class="disc">
+							<li>Sports &amp; Recreation</li>
+						</ul>
+						<ul class="circle">
+							<li>Amateur</li>
+							<li>College &amp; High School</li>
+							<li>Outdoor</li>
+							<li>Professional</li>
+						</ul>
+						<ul class="disc">
+							<li>Technology</li>
+						</ul>
+						<ul class="circle">
+							<li>Gadgets</li>
+							<li>Tech News</li>
+							<li>Podcasting</li>
+							<li>Software How-To</li>
+						</ul>
+						<ul class="disc">
+							<li>TV &amp; Film</li>
+						</ul>
+					</div>
+
+					<div class="column last">
+						<ul>
+							<li><h4>Corresponding&nbsp;Programming</h4></li>
+						</ul>
+
+						<ul class="disc">
+							<li>Arts</li>
+						</ul>
+						<ul class="circle">
+							<li>Design</li>
+							<li>Fashion &amp;amp; Beauty</li>
+							<li>Food</li>
+							<li>Literature</li>
+							<li>Performing Arts</li>
+							<li>Visual Arts</li>
+						</ul>
+						<ul class="disc">
+							<li>Business</li>
+						</ul>
+						<ul class="circle">
+							<li>Business News</li>
+							<li>Careers</li>
+							<li>Investing</li>
+							<li>Management &amp;amp; Marketing</li>
+							<li>Shopping</li>
+						</ul>
+						<ul class="disc">
+							<li>Comedy</li>
+							<li>Education</li>
+						</ul>
+						<ul class="circle">
+							<li>Educational Technology</li>
+							<li>Higher Education</li>
+							<li>K-12</li>
+							<li>Language Courses</li>
+							<li>Training</li>
+						</ul>
+						<ul class="disc">
+							<li>Games &amp;amp; Hobbies</li>
+						</ul>
+						<ul class="circle">
+							<li>Automotive</li>
+							<li>Aviation</li>
+							<li>Hobbies</li>
+							<li>Other Games</li>
+							<li>Video Games</li>
+						</ul>
+						<ul class="disc">
+							<li>Government &amp;amp; Organizations</li>
+						</ul>
+						<ul class="circle">
+							<li>Local</li>
+							<li>National</li>
+							<li>Non-Profit</li>
+							<li>Regional</li>
+						</ul>
+						<ul class="disc">
+							<li>Health</li>
+						</ul>
+						<ul class="circle">
+							<li>Alternative Health</li>
+							<li>Fitness &amp;amp; Nutrition</li>
+							<li>Self-Help</li>
+							<li>Sexuality</li>
+						</ul>
+						<ul class="disc">
+							<li>Kids &amp;amp; Family</li>
+							<li>Music</li>
+							<li>News &amp;amp; Politics</li>
+							<li>Religion &amp;amp; Spirituality</li>
+						</ul>
+						<ul class="circle">
+							<li>Buddhism</li>
+							<li>Christianity</li>
+							<li>Hinduism</li>
+							<li>Islam</li>
+							<li>Judaism</li>
+							<li>Other</li>
+							<li>Spirituality</li>
+						</ul>
+						<ul class="disc">
+							<li>Science &amp;amp; Medicine</li>
+						</ul>
+						<ul class="circle">
+							<li>Medicine</li>
+							<li>Natural Sciences</li>
+							<li>Social Sciences</li>
+						</ul>
+						<ul class="disc">
+							<li>Society &amp;amp; Culture</li>
+						</ul>
+						<ul class="circle">
+							<li>History</li>
+							<li>Personal Journals</li>
+							<li>Philosophy</li>
+							<li>Places &amp;amp; Travel</li>
+						</ul>
+						<ul class="disc">
+							<li>Sports &amp;amp; Recreation</li>
+						</ul>
+						<ul class="circle">
+							<li>Amateur</li>
+							<li>College &amp;amp; High School</li>
+							<li>Outdoor</li>
+							<li>Professional</li>
+						</ul>
+						<ul class="disc">
+							<li>Technology</li>
+						</ul>
+						<ul class="circle">
+							<li>Gadgets</li>
+							<li>Tech News</li>
+							<li>Podcasting</li>
+							<li>Software How-To</li>
+						</ul>
+						<ul class="disc">
+							<li>TV &amp;amp; Film</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="faq-link"><a href="https://www.apple.com/itunes/podcasts/fanfaq.html">FAQ: Fans</a> | <a href="https://www.apple.com/itunes/podcasts/creatorfaq.html">FAQ: Makers</a></div>
+
+			</section>
+		</div><!--/content-->
+	</div><!--/main-->
+
+	<footer id="globalfooter">
+		<div id="breadory">
+			<ol id="breadcrumbs">
+				<li class="home"><a href="https://www.apple.com/">Home</a></li>
+				<li><a href="https://www.apple.com/itunes/">iTunes</a></li>
+				<li><a href="https://www.apple.com/itunes/podcasts/">Podcasts</a></li>
+				<li>Making a Podcast</li>
+			</ol>
+			<!--googleoff: all-->
+<div id="directorynav" class="itunes directorynav">
+	<div id="dn-cola" class="column large-3 small-12">
+		
+		<h3>iTunes</h3>
+		
+		<ul>
+			<li><a href="https://www.apple.com/itunes/download/">Download</a></li>
+			<li><a href="https://www.apple.com/itunes/">Overview</a></li>
+			<li><a href="https://www.apple.com/itunes/music/">Music</a></li>
+			<li><a href="https://www.apple.com/itunes/video/">Video</a></li>
+			<li><a href="https://www.apple.com/itunes/charts/">Charts</a></li>
+		</ul>
+	</div>
+	<div id="dn-colb" class="column large-3 small-12">
+		
+		<h3>More iTunes</h3>
+		
+		<ul>
+			<li><a href="https://www.apple.com/itunes/digital-music-basics/">Digital Music Basics</a></li>
+			<li><a href="https://www.apple.com/itunes/gifts/">iTunes Gifts</a></li>
+			<li><a href="https://www.apple.com/education/ipad/itunes-u/">iTunes U</a></li>
+			<li><a href="https://www.apple.com/support/ipod/">iPod + iTunes Support</a></li>
+			<li><a href="https://www.apple.com/airplay/">AirPlay</a></li>
+			<li><a href="https://www.apple.com/accessibility/other-products/">Accessibility</a></li>
+			<li><a href="http://trailers.apple.com/">Movie Trailers</a></li>
+		</ul>
+	</div>
+	<div id="dn-colc" class="column large-3 small-12">
+		
+		<h3>Working with iTunes</h3>
+		
+		<ul>
+			<li><a href="https://www.apple.com/itunes/working-itunes/">Overview</a></li>
+			<li><a href="https://www.apple.com/itunes/working-itunes/sell-content/">Sell Your Content</a></li>
+			<li><a href="https://www.apple.com/itunes/working-itunes/enhance/">Enhance Your Content</a></li>
+			<li><a href="https://www.apple.com/itunes/working-itunes/market/">Market with iTunes</a></li>
+			<li><a href="https://www.apple.com/itunes/link/">Link to iTunes</a></li>
+		</ul>
+	</div>
+	<div id="dn-cold" class="column last large-3 small-12">
+		
+		<h3>iTunes Store</h3>
+		
+		<ul>
+			<li><a href="http://itunes.apple.com/us/browse/">Browse iTunes Store</a></li>
+			<li><a href="https://itunes.apple.com/us/genre/ios/id36?mt=8">Browse App Store</a></li>
+			<li><a href="https://itunes.apple.com/us/genre/music/id34?ls=1">Buy Music Now</a></li>
+			<li><a href="http://store.apple.com/us/browse/home/giftcards/itunes/gallery">Buy iTunes Gift Cards</a></li>
+			<li><a href="https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/redeemLandingPage">Redeem iTunes Gift Cards</a></li>
+			<li><a href="https://www.apple.com/itunes/corporatesales/">iTunes Corporate Sales</a></li>
+		</ul>
+	</div>
+	<div class="capbottom"></div>
+</div>
+<!--googleon: all-->
+
+		</div><!--/breadory-->
+		<p class="gf-buy footer-shop"><span>Shop the <a href="http://store.apple.com/us">Apple Online Store</a> (1-800-MY-APPLE),</span> visit an <a href="https://www.apple.com/retail/">Apple Retail Store</a>, or find a <a href="https://www.apple.com/buy/">reseller</a>.</p>
+
+<ul class="gf-links piped footer-links">
+	<li><a href="https://www.apple.com/about/" class="first">Apple Info</a></li>
+	<li><a href="https://www.apple.com/sitemap/">Site Map</a></li>
+	<li><a href="https://www.apple.com/hotnews/">Hot News</a></li>
+	<li><a href="https://www.apple.com/rss/">RSS Feeds</a></li>
+	
+	<li><a href="https://www.apple.com/contact/" class="contact_us">Contact Us</a></li>
+	<li><a href="https://www.apple.com/choose-your-country/" class="choose">
+		
+			<img src="apple-podcast-spec_files/usa_2x.png" alt="Choose your country or region" data-hires="true" height="22" width="22">
+		
+	</a></li>
+</ul>
+
+<div class="gf-sosumi footer-sosumi">
+	<p>Copyright © 2015 Apple Inc. All rights reserved.</p>
+	<ul class="piped">
+		<li><a href="https://www.apple.com/legal/internet-services/terms/site.html" class="first">Terms of Use</a></li>
+		<li><a href="https://www.apple.com/privacy/privacy-policy/">Updated Privacy Policy</a></li>
+	</ul>
+</div>
+
+	</footer><!--/globalfooter-->
+
+
+<a></a><a></a><a></a><a></a><a></a></body></html>

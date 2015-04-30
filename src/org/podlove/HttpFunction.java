@@ -2,12 +2,13 @@ package org.podlove;
 
 import org.apache.commons.httpclient.methods.HeadMethod;
 import org.exist.dom.QName;
-import org.exist.xquery.Cardinality;
 import org.exist.xquery.FunctionSignature;
 import org.exist.xquery.XPathException;
 import org.exist.xquery.XQueryContext;
 import org.exist.xquery.modules.httpclient.BaseHTTPClientFunction;
-import org.exist.xquery.value.*;
+import org.exist.xquery.value.NodeValue;
+import org.exist.xquery.value.Sequence;
+import org.exist.xquery.value.SequenceType;
 
 import java.io.IOException;
 
@@ -17,21 +18,17 @@ import java.io.IOException;
 
 public class HttpFunction extends BaseHTTPClientFunction {
 
-    protected static final FunctionParameterSequenceType HTTP_PARAM = new FunctionParameterSequenceType( "http-params", Type.ELEMENT, Cardinality.ZERO_OR_ONE, "Any HTTP Params" );
-
-    public final static FunctionSignature signature = new FunctionSignature(
-            new QName( "head", PodloveModule.NAMESPACE_URI, PodloveModule.PREFIX ),
+    public final static FunctionSignature signature =
+        new FunctionSignature(
+            new QName( "http-head", PodloveModule.NAMESPACE_URI, PodloveModule.PREFIX ),
             "Performs a HTTP HEAD request." + " This method returns the HTTP response encoded as an XML fragment, that looks as follows: <httpclient:response  xmlns:httpclient=\"http://exist-db.org/xquery/httpclient\" statusCode=\"200\"><httpclient:headers><httpclient:header name=\"name\" value=\"value\"/>...</httpclient:headers></httpclient:response>",
-            new SequenceType[] {
-                    URI_PARAM, PERSIST_PARAM, REQUEST_HEADER_PARAM,HTTP_PARAM
-            },
+            new SequenceType[] { URI_PARAM, PERSIST_PARAM, REQUEST_HEADER_PARAM},
             XML_BODY_RETURN
     );
 
     public HttpFunction(XQueryContext context, FunctionSignature signature) {
         super(context, signature);
     }
-
     @Override
     public Sequence eval( Sequence[] args, Sequence contextSequence ) throws XPathException
     {
@@ -55,23 +52,15 @@ public class HttpFunction extends BaseHTTPClientFunction {
         if( !args[2].isEmpty() ) {
             setHeaders( head, ( (NodeValue)args[2].itemAt( 0 ) ).getNode() );
         }
-        if(args.length == 4 && !args[3].isEmpty() ) {
-            head.setFollowRedirects(false);
-            // head.setDoAuthentication();
-            // head.setPath();
-            // head.setQueryString();
-        }
-        try {
-            //execute the request
-            response = doRequest(context, head, persistState, null, null);
-        }
-        catch( IOException ioe ) {
-            throw( new XPathException( this, ioe.getMessage(), ioe ) );
-        }
-        finally {
-            head.releaseConnection();
-        }
+
+        head.setFollowRedirects(false);
+
+        try { response = doRequest( context, head, persistState, null, null); }
+        catch( IOException ioe ) { throw ( new XPathException( this, ioe.getMessage(), ioe ) ); }
+        finally { head.releaseConnection(); }
 
         return( response );
     }
+
+
 }

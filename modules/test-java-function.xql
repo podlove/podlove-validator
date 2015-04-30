@@ -25,9 +25,8 @@ declare function local:test-image-stuff() {
 
 declare function local:test-head-request() {
     let $options := <headers></headers>
-    let $params := <headers></headers>
     let $url := xs:anyURI("http://feedproxy.google.com/~r/mobile-macs-podcast/~3/Ekp8qQMF7j8/fs142-prime-directive")
-    let $response1 := podlove:head($url, false(), $options, $params)    
+    let $response1 := podlove:http-head($url, false(), $options)
     let $response2 := httpclient:head($url, false(), $options)    
     
     

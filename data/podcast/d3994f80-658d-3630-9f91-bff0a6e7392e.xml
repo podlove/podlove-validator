@@ -2,15 +2,15 @@
 <httpclient:response xmlns:httpclient="http://exist-db.org/xquery/httpclient" statusCode="200">
     <httpclient:headers>
         <httpclient:header name="Server" value="nginx/1.6.2"/>
-        <httpclient:header name="Date" value="Fri, 24 Apr 2015 00:43:44 GMT"/>
+        <httpclient:header name="Date" value="Thu, 30 Apr 2015 19:41:03 GMT"/>
         <httpclient:header name="Content-Type" value="text/xml; charset=UTF-8"/>
         <httpclient:header name="Transfer-Encoding" value="chunked"/>
         <httpclient:header name="Connection" value="keep-alive"/>
         <httpclient:header name="X-Powered-By" value="PHP/5.3.10-1ubuntu3.14"/>
         <httpclient:header name="X-Pingback" value="http://www.wrint.de/xmlrpc.php"/>
-        <httpclient:header name="Last-Modified" value="Wed, 22 Apr 2015 21:36:26 GMT"/>
-        <httpclient:header name="X-Varnish" value="844722887 844722758"/>
-        <httpclient:header name="Age" value="57"/>
+        <httpclient:header name="Last-Modified" value="Wed, 29 Apr 2015 16:29:49 GMT"/>
+        <httpclient:header name="X-Varnish" value="2017969986 2017969584"/>
+        <httpclient:header name="Age" value="78"/>
         <httpclient:header name="Via" value="1.1 varnish"/>
         <httpclient:header name="X-Cache" value="HIT"/>
     </httpclient:headers>
@@ -21,11 +21,11 @@
                 <atom:link href="http://www.wrint.de/category/fotografie/feed/" rel="self" type="application/rss+xml"/>
                 <link>http://www.wrint.de/category/fotografie/</link>
                 <description>Wer redet ist nicht tot</description>
-                <lastBuildDate>Wed, 22 Apr 2015 21:36:26 +0000</lastBuildDate>
+                <lastBuildDate>Wed, 29 Apr 2015 16:29:49 +0000</lastBuildDate>
                 <language>de-DE</language>
                 <sy:updatePeriod>hourly</sy:updatePeriod>
                 <sy:updateFrequency>1</sy:updateFrequency>
-                <generator>http://wordpress.org/?v=4.1.2</generator>
+                <generator>http://wordpress.org/?v=4.2.1</generator>
                 <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F&amp;language=de_DE&amp;category=audio&amp;title=WRINT&amp;description=Wer+redet+ist+nicht+tot&amp;tags=podcast" type="text/html"/>
 <!-- podcast_generator="Blubrry PowerPress/6.0.2" mode="advanced" -->
                 <itunes:summary>Wrint ist eine Sammlung von Podcasts, in denen Holger Klein auf allerlei Wegen mit allerlei Menschen über allerlei Dinge redet. Hier ist der Sammelfeed für alle WRINT-Produktionen.</itunes:summary>
@@ -47,6 +47,40 @@
                     <itunes:category text="Visual Arts"/>
                 </itunes:category>
                 <item>
+                    <title>WR428 Lightroom II</title>
+                    <link>http://www.wrint.de/2015/04/29/wr428-lightroom-ii/</link>
+                    <comments>http://www.wrint.de/2015/04/29/wr428-lightroom-ii/#comments</comments>
+                    <pubDate>Wed, 29 Apr 2015 07:20:01 +0000</pubDate>
+                    <dc:creator>holgi</dc:creator>
+                    <category>Fotografie</category>
+                    <category>Podcast</category>
+                    <category>Podcast_Alles_Kurzfeed</category>
+                    <guid isPermaLink="false">http://www.wrint.de/?p=2847</guid>
+                    <description>&amp;#160; Es waren noch ein paar Knöpfe übrig in Lightroom. Die bekomme ich in dieser Ausgabe von Chris erklärt. Außerdem geht es um ein Fotobuch zugunsten Nepals, ich lerne, was der Farbraum ist, welche unterschiedlichen Fotodrucke es gibt und wir streifen kurz das neue &amp;#8220;Fotos&amp;#8221; von Apple.</description>
+                    <content:encoded>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img class="alignleft wp-image-2153" src="http://www.wrint.de/wp-content/uploads/2013/04/wrint_2014_fotografie_200.jpg" alt="wrint_2014_fotografie_200" width="120" height="120" /&gt;Es waren noch ein paar Knöpfe übrig in Lightroom. Die bekomme ich in dieser Ausgabe von &lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris&lt;/a&gt; erklärt. Außerdem geht es um ein &lt;a href="https://shop.chrismarquardt.com/bookshop/product/people-of-the-himalayas/"&gt;Fotobuch zugunsten Nepals&lt;/a&gt;, ich lerne, was der &lt;a href="http://de.wikipedia.org/wiki/Farbraum"&gt;Farbraum&lt;/a&gt; ist, welche unterschiedlichen Fotodrucke es gibt und wir streifen kurz das neue &amp;#8220;Fotos&amp;#8221; von Apple.&lt;/p&gt;
+
+			&lt;script&gt;
+				podcastData6 ={"title":"Fotografie","subtitle":null,"description":null,"cover":"http:\/\/www.wrint.de\/wp-content\/uploads\/2013\/04\/wrint_2014_fotografie_200.jpg","feeds":[{"type":"audio","format":"mp3","url":"http:\/\/www.wrint.de\/category\/fotografie\/feed\/","variant":"high"}]}
+			&lt;/script&gt;
+			&lt;script class="podlove-subscribe-button" src="http://docs.podlove.org/podlove-subscribe-button/dist/javascripts/app.js"
+			 data-language="de-DE" data-size="small auto" data-json-data="podcastData6"&gt;&lt;/script&gt;
+		
+&lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2847&amp;amp;md5=66a403099107322543e5d5839f1a3bd7"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
+                    <wfw:commentRss>http://www.wrint.de/2015/04/29/wr428-lightroom-ii/feed/</wfw:commentRss>
+                    <slash:comments>2</slash:comments>
+                    <enclosure url="http://files.wrint.de/WR428_Lightroom_II.mp3" length="41182915" type="audio/mpeg"/>
+                    <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F04%2F29%2Fwr428-lightroom-ii%2F&amp;language=de_DE&amp;category=audio&amp;title=WR428+Lightroom+II&amp;description=%26nbsp%3B+Es+waren+noch+ein+paar+Kn%C3%B6pfe+%C3%BCbrig+in+Lightroom.+Die+bekomme+ich+in+dieser+Ausgabe+von+Chris+erkl%C3%A4rt.+Au%C3%9Ferdem+geht+es+um+ein+Fotobuch+zugunsten+Nepals%2C+ich+lerne%2C+was...&amp;tags=podcast" type="text/html"/>
+                    <itunes:subtitle>&#160; - Es waren noch ein paar Knöpfe übrig in Lightroom. Die bekomme ich in dieser Ausgabe von Chris erklärt. Außerdem geht es um ein Fotobuch zugunsten Nepals, ich lerne, was der Farbraum ist, welche unterschiedlichen Fotodrucke es gibt und wir streifen...</itunes:subtitle>
+                    <itunes:summary>&#160;
+
+Es waren noch ein paar Knöpfe übrig in Lightroom. Die bekomme ich in dieser Ausgabe von Chris erklärt. Außerdem geht es um ein Fotobuch zugunsten Nepals, ich lerne, was der Farbraum ist, welche unterschiedlichen Fotodrucke es gibt und wir streifen kurz das neue "Fotos" von Apple.</itunes:summary>
+                    <itunes:author>Holger Klein</itunes:author>
+                    <itunes:image href="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg"/>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:duration>1:25:46</itunes:duration>
+                </item>
+                <item>
                     <title>WR419 Lightroom</title>
                     <link>http://www.wrint.de/2015/04/09/wr419-lightroom/</link>
                     <comments>http://www.wrint.de/2015/04/09/wr419-lightroom/#comments</comments>
@@ -61,7 +95,7 @@
 &lt;p&gt;&lt;img class="alignleft wp-image-2687" src="http://www.wrint.de/wp-content/uploads/2015/02/wrint_2014_fotografie_1400.jpg" alt="wrint_2014_fotografie_1400" width="120" height="120" /&gt;&lt;a href="http://www.tipsfromthetopfloor.com"&gt;Chris Marquardt&lt;/a&gt; versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis unbekannt waren. Es bietet sich an, die eigene Lightroom-Version laufen zu haben, während Ihr die Sendung hört.&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.wrint.de/?flattrss_redirect&amp;amp;id=2817&amp;amp;md5=33ae0491f94aa9a1310cc1e4f832028b"&gt;&lt;img src="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png" srcset="http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@2x.png 2xhttp://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white.png, http://www.wrint.de/wp-content/plugins/flattr/img/flattr-badge-white@3x.png 3x" alt="Flattr this!"/&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded>
                     <wfw:commentRss>http://www.wrint.de/2015/04/09/wr419-lightroom/feed/</wfw:commentRss>
-                    <slash:comments>25</slash:comments>
+                    <slash:comments>26</slash:comments>
                     <enclosure url="http://files.wrint.de/WR419_Lightroom.mp3" length="41229407" type="audio/mpeg"/>
                     <atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=holgi&amp;popout=1&amp;url=http%3A%2F%2Fwww.wrint.de%2F2015%2F04%2F09%2Fwr419-lightroom%2F&amp;language=de_DE&amp;category=audio&amp;title=WR419+Lightroom&amp;description=%26nbsp%3B+Chris+Marquardt+versteht+mehr+von+Fotografie+als+ich+und+l%C3%A4sst+mich+an+seinem+Wissen+treilhaben.+Diesmal+erkl%C3%A4rt+er+mir+Adobe+Photoshop+Lightroom%2C+das+ich+zwar+schon+seit+geraumer+Zeit...&amp;tags=podcast" type="text/html"/>
                     <itunes:subtitle>&#160; - Chris Marquardt versteht mehr von Fotografie als ich und lässt mich an seinem Wissen treilhaben. Diesmal erklärt er mir Adobe Photoshop Lightroom, das ich zwar schon seit geraumer Zeit benutze, bei dem mir aber viele Funktionen kaum geläufig bis u...</itunes:subtitle>
